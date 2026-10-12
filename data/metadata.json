@@ -1,13 +1,26 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-12T19:23:44.104Z",
-  "exportedAt": "2026-10-12T19:23:44.104Z",
-  "runId": "2026-10-12T19:23:44.104Z",
+  "lastSuccessfulAt": "2026-10-12T20:21:03.339Z",
+  "exportedAt": "2026-10-12T20:21:03.339Z",
+  "runId": "2026-10-12T20:21:03.339Z",
+  "forumExportedAt": "2026-10-12T20:21:03.339Z",
+  "selectionVersion": "192bd5a638e36625b99d1eb5020ab1c0a1df057e6b535193ed30c2663a2e4ef1",
+  "directory": {
+    "source": "data/forum.csv",
+    "sha256": "c89c68f1dba2a8aa4e31654644243c85b32b531d9f9f9bd6fd53b3548e68d2e9",
+    "total": 94,
+    "og": 65,
+    "veterans": 29
+  },
   "counts": {
-    "participants": 3288,
-    "forum": 86,
-    "scores": 7737,
-    "judges": 22
+    "participants": 3285,
+    "forum": 93,
+    "scores": 7779,
+    "judges": 22,
+    "forumDirectory": 94,
+    "og": 64,
+    "veterans": 29,
+    "archivedParticipants": 3
   },
   "source": {
     "apiBase": "https://api.19ib.ru",
@@ -16,6 +29,143 @@
       "cdcf2f1f-bbaf-428a-a39f-c40fba146700",
       "06427e4f-2b62-437e-946f-1db584892bc8",
       "7586bac3-5c6c-4433-b8cd-6bc7110ab060"
-    ]
+    ],
+    "round": {
+      "id": "c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c",
+      "tournamentId": "9345a642-d1fb-4ac7-aebc-b59f2628170b",
+      "name": "1 отборочный раунд",
+      "slug": "1-otborochnyy-raund",
+      "topic": "ВСЁ, КРОМЕ ПРАВДЫ",
+      "coverUrl": "/storage/covers/rounds/c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c-1784413242433.jpg",
+      "roundOrder": 1,
+      "type": "solo",
+      "status": "judging",
+      "deadline": "2026-10-05T20:59:00.000Z",
+      "judgingDeadline": "2026-10-18T20:59:00.000Z",
+      "startedAt": null,
+      "judgesRequired": 5,
+      "resultsPublished": false,
+      "maxParticipants": null,
+      "scoreScale": 5,
+      "passThreshold": 15,
+      "advanceCount": null,
+      "minDurationSec": 40,
+      "maxDurationSec": 60,
+      "judgingStartedAt": "2026-09-19T19:30:09.021Z",
+      "judgingStartsAt": "2026-08-29T21:00:00.000Z",
+      "createdAt": "2026-07-18T16:33:44.474Z",
+      "updatedAt": "2026-10-04T20:58:01.355Z",
+      "tournamentStatus": "active",
+      "champion": null,
+      "maxScore": 25,
+      "rubrics": [],
+      "feed": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Старая Камуна",
+          "comment": "Некий сторителлинг, не самый интересный, но это лучше чем, просто рэп про рэп.\n\"дом-двор-гром\" вот так лучше не делать, квадратиш пратиш гуд. ",
+          "scoredAt": "2026-10-12T19:56:47.731Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Давай обсудим",
+          "comment": "Рэп про рэп... И немного баттл-рэп...",
+          "scoredAt": "2026-10-12T19:52:44.234Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "тётя витя",
+          "comment": "\"слушал-дослушал-послушай\" - идеальные рифмы :)\nПо исполнению не зашло, средняя работа на среднюю оценку. \n",
+          "scoredAt": "2026-10-12T19:50:43.190Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "artist": "тгк: репер апофемоз",
+          "comment": "Это для какого-то отдельного баттла. ",
+          "scoredAt": "2026-10-12T19:47:45.997Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 1,
+          "artist": "Indigirka",
+          "comment": "Котеечко драгоценное, рэп - это когда исполнитель слышит бит и попадает в него, а не просто наговаривает текст на музычку. Придет понимание - придет эстетика. ",
+          "scoredAt": "2026-10-12T19:46:17.537Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "unlimru",
+          "comment": "Интересный тембр голоса, свой вайб. Что-то в этом определённо есть. ",
+          "scoredAt": "2026-10-12T19:46:03.485Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "artist": "Krates",
+          "comment": "Ситуация была околопатовой, а стала патовой (\n\nС одной стороны - прости меня. С другой - ну блин, у тебя перебежки не раз и не два ритмически все ломают, а так же структурно текст написан практически белым стихом.\n\nУвы, это слишком косячно, даже для такой околопоэзии. Поэтичные работы можно гораздо уместнее подружить с речитативом и репом, на стриме включал рефы.\n\nСтрим, ч. 13",
+          "scoredAt": "2026-10-12T19:45:35.701Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "SSSAVAGE",
+          "comment": "Если бы не сбивки в читке, и добавить плавности исполнения было бы кайф. В конце надо было давить простеньким хуком, но получилось как получилось, в принципе проход.",
+          "scoredAt": "2026-10-12T19:45:03.424Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "мц данилка-колотилка",
+          "comment": "рано пока во второй раунд, хотя зачатки иронии тут имеются. С опытом придет все.",
+          "scoredAt": "2026-10-12T19:43:53.053Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "Ю3",
+          "comment": "Это что было в начале? Зачем? ",
+          "scoredAt": "2026-10-12T19:43:32.508Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "Lustova",
+          "comment": "Воу-воу, а что за вкусная работа",
+          "scoredAt": "2026-10-12T19:42:24.242Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "Дипломатия",
+          "comment": "Рановато брат.",
+          "scoredAt": "2026-10-12T19:41:45.647Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "джони сгрызли",
+          "comment": "Чуть напора дать в последних четверках, и вообще было бы вкусно",
+          "scoredAt": "2026-10-12T19:41:22.108Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "manyone",
+          "comment": "Покекала с панчей про мусоров, икоту и телку, озеро, Коменду, носки. По сути, в каждой строчке какой-то панчик есть, местами баянчики, но в целом иронично. Ты на правильном пути, хотелось бы тебя видеть во втором. ",
+          "scoredAt": "2026-10-12T19:41:01.817Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "PANSKi",
+          "comment": "Скучное флоу, немного захотелось спать. Максимально средняя работа. Постарайся во втором. ",
+          "scoredAt": "2026-10-12T19:40:09.725Z"
+        }
+      ]
+    }
   }
 }
