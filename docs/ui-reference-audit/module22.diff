@@ -1,0 +1,15 @@
+--- 
+
++++ 
+
+@@ -19,3 +19,2 @@
+
+  const recent=unique.filter(e=>e.t>=windowStart&&e.t<today).length,rate=recent/7;
+- const previousStart=windowStart-7*DAY;const previous=unique.filter(e=>e.t>=previousStart&&e.t<windowStart).length;const previousEnough=historyComplete&&invalid===0&&first!==null&&first<=previousStart;
+  const enough=historyComplete&&invalid===0&&first!==null&&first<=windowStart;
+@@ -30,3 +29,3 @@
+
+  const verdict=remaining===0?(deadlineTime===null?'Пока непонятно':completion<=deadlineTime?'Успевают':'Не успевают'):deadlineTime!==null&&deadlineTime<=asOf?'Не успевают':projected!==null&&deadlineTime!==null?(projected<=deadlineTime?'Успевают':'Не успевают'):'Пока непонятно';
+- return {asOf,target,done,remaining,first,days,unique,recent,rate,previous,previousEnough,enough,windowStart,windowEnd:today,deadline:deadlineTime,daysLeft,fullDays,needRate,ratio,judgeCount,requiredJudges,projected,completion,verdict,invalid,historyComplete};
++ return {asOf,target,done,remaining,first,days,unique,recent,rate,enough,windowStart,windowEnd:today,deadline:deadlineTime,daysLeft,fullDays,needRate,ratio,judgeCount,requiredJudges,projected,completion,verdict,invalid,historyComplete};
+ }

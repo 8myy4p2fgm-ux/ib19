@@ -1,0 +1,392 @@
+[
+  {
+    "width": 1440,
+    "label": "overview",
+    "pixels": 0,
+    "total": 1972800
+  },
+  {
+    "width": 1440,
+    "label": "dynamics",
+    "pixels": 0,
+    "total": 2126880
+  },
+  {
+    "width": 1440,
+    "label": "judges",
+    "pixels": 0,
+    "total": 5127840
+  },
+  {
+    "width": 1440,
+    "label": "forum-link",
+    "pixels": 0,
+    "total": 7863840
+  },
+  {
+    "width": 1440,
+    "label": "group-open",
+    "pixels": 0,
+    "total": 1972800
+  },
+  {
+    "width": 1440,
+    "label": "method-open",
+    "pixels": 0,
+    "total": 1972800
+  },
+  {
+    "width": 1440,
+    "label": "facts-open",
+    "pixels": 0,
+    "total": 2351520
+  },
+  {
+    "width": 1440,
+    "label": "judge-picker",
+    "pixels": 0,
+    "total": 2126880
+  },
+  {
+    "width": 1440,
+    "label": "veteran-rating",
+    "pixels": 0,
+    "total": 5127840
+  },
+  {
+    "width": 1440,
+    "label": "judge-row-hover",
+    "pixels": 0,
+    "total": 5127840
+  },
+  {
+    "width": 1440,
+    "label": "forum-filter",
+    "pixels": 0,
+    "total": 3670560
+  },
+  {
+    "width": 1440,
+    "label": "matrix-hover",
+    "pixels": 0,
+    "total": 7863840
+  },
+  {
+    "width": 1440,
+    "label": "comment-open",
+    "pixels": 0,
+    "total": 7863840
+  },
+  {
+    "width": 1024,
+    "label": "overview",
+    "pixels": 0,
+    "total": 1509376
+  },
+  {
+    "width": 1024,
+    "label": "dynamics",
+    "pixels": 0,
+    "total": 1508352
+  },
+  {
+    "width": 1024,
+    "label": "judges",
+    "pixels": 0,
+    "total": 3690496
+  },
+  {
+    "width": 1024,
+    "label": "forum-link",
+    "pixels": 0,
+    "total": 5690368
+  },
+  {
+    "width": 1024,
+    "label": "group-open",
+    "pixels": 0,
+    "total": 1509376
+  },
+  {
+    "width": 1024,
+    "label": "method-open",
+    "pixels": 0,
+    "total": 1509376
+  },
+  {
+    "width": 1024,
+    "label": "facts-open",
+    "pixels": 0,
+    "total": 1668096
+  },
+  {
+    "width": 1024,
+    "label": "judge-picker",
+    "pixels": 0,
+    "total": 1508352
+  },
+  {
+    "width": 1024,
+    "label": "veteran-rating",
+    "pixels": 0,
+    "total": 3690496
+  },
+  {
+    "width": 1024,
+    "label": "judge-row-hover",
+    "pixels": 0,
+    "total": 3690496
+  },
+  {
+    "width": 1024,
+    "label": "forum-filter",
+    "pixels": 0,
+    "total": 2708480
+  },
+  {
+    "width": 1024,
+    "label": "matrix-hover",
+    "pixels": 0,
+    "total": 5690368
+  },
+  {
+    "width": 1024,
+    "label": "comment-open",
+    "pixels": 0,
+    "total": 5690368
+  },
+  {
+    "width": 768,
+    "label": "overview",
+    "pixels": 0,
+    "total": 1146624
+  },
+  {
+    "width": 768,
+    "label": "dynamics",
+    "pixels": 0,
+    "total": 1122048
+  },
+  {
+    "width": 768,
+    "label": "judges",
+    "pixels": 0,
+    "total": 2764032
+  },
+  {
+    "width": 768,
+    "label": "forum-link",
+    "pixels": 0,
+    "total": 4959744
+  },
+  {
+    "width": 768,
+    "label": "group-open",
+    "pixels": 0,
+    "total": 1146624
+  },
+  {
+    "width": 768,
+    "label": "method-open",
+    "pixels": 0,
+    "total": 1146624
+  },
+  {
+    "width": 768,
+    "label": "facts-open",
+    "pixels": 0,
+    "total": 1241856
+  },
+  {
+    "width": 768,
+    "label": "judge-picker",
+    "pixels": 0,
+    "total": 1122048
+  },
+  {
+    "width": 768,
+    "label": "veteran-rating",
+    "pixels": 0,
+    "total": 2764032
+  },
+  {
+    "width": 768,
+    "label": "judge-row-hover",
+    "pixels": 0,
+    "total": 2764032
+  },
+  {
+    "width": 768,
+    "label": "forum-filter",
+    "pixels": 0,
+    "total": 2259456
+  },
+  {
+    "width": 768,
+    "label": "matrix-hover",
+    "pixels": 0,
+    "total": 4959744
+  },
+  {
+    "width": 768,
+    "label": "comment-open",
+    "pixels": 0,
+    "total": 4959744
+  },
+  {
+    "width": 390,
+    "label": "overview",
+    "pixels": 0,
+    "total": 775320
+  },
+  {
+    "width": 390,
+    "label": "dynamics",
+    "pixels": 0,
+    "total": 599820
+  },
+  {
+    "width": 390,
+    "label": "judges",
+    "pixels": 0,
+    "total": 1444560
+  },
+  {
+    "width": 390,
+    "label": "forum-link",
+    "pixels": 0,
+    "total": 8695050
+  },
+  {
+    "width": 390,
+    "label": "group-open",
+    "pixels": 0,
+    "total": 775320
+  },
+  {
+    "width": 390,
+    "label": "method-open",
+    "pixels": 0,
+    "total": 775320
+  },
+  {
+    "width": 390,
+    "label": "facts-open",
+    "pixels": 0,
+    "total": 694590
+  },
+  {
+    "width": 390,
+    "label": "judge-picker",
+    "pixels": 0,
+    "total": 599820
+  },
+  {
+    "width": 390,
+    "label": "veteran-rating",
+    "pixels": 0,
+    "total": 1444560
+  },
+  {
+    "width": 390,
+    "label": "judge-row-hover",
+    "pixels": 0,
+    "total": 1444560
+  },
+  {
+    "width": 390,
+    "label": "forum-filter",
+    "pixels": 0,
+    "total": 3141450
+  },
+  {
+    "width": 390,
+    "label": "matrix-hover",
+    "pixels": 0,
+    "total": 8695050
+  },
+  {
+    "width": 390,
+    "label": "comment-open",
+    "pixels": 0,
+    "total": 8695050
+  },
+  {
+    "width": 320,
+    "label": "overview",
+    "pixels": 0,
+    "total": 690850
+  },
+  {
+    "width": 320,
+    "label": "dynamics",
+    "pixels": 0,
+    "total": 499200
+  },
+  {
+    "width": 320,
+    "label": "judges",
+    "pixels": 0,
+    "total": 1198720
+  },
+  {
+    "width": 320,
+    "label": "forum-link",
+    "pixels": 0,
+    "total": 7379645
+  },
+  {
+    "width": 320,
+    "label": "group-open",
+    "pixels": 0,
+    "total": 690850
+  },
+  {
+    "width": 320,
+    "label": "method-open",
+    "pixels": 0,
+    "total": 690850
+  },
+  {
+    "width": 320,
+    "label": "facts-open",
+    "pixels": 0,
+    "total": 583680
+  },
+  {
+    "width": 320,
+    "label": "judge-picker",
+    "pixels": 0,
+    "total": 499840
+  },
+  {
+    "width": 320,
+    "label": "veteran-rating",
+    "pixels": 0,
+    "total": 1198720
+  },
+  {
+    "width": 320,
+    "label": "judge-row-hover",
+    "pixels": 0,
+    "total": 1198720
+  },
+  {
+    "width": 320,
+    "label": "forum-filter",
+    "pixels": 0,
+    "total": 2666205
+  },
+  {
+    "width": 320,
+    "label": "matrix-hover",
+    "pixels": 0,
+    "total": 7379645
+  },
+  {
+    "width": 320,
+    "label": "comment-open",
+    "pixels": 0,
+    "total": 7379645
+  }
+]

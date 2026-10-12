@@ -14,8 +14,6 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
  const captionNode=$('pace-caption');if(captionNode)captionNode.textContent='';
  $('pace-remaining').textContent=fmt(m.remaining,0);$('pace-current').textContent=m.rate>0&&m.rate<1?'<1':fmt(m.rate,0);
  $('pace-needed').textContent=m.needRate!==null?fmt(Math.ceil(m.needRate),0):'—';
- let delta=document.getElementById('pace-week-change');if(!delta){delta=document.createElement('p');delta.id='pace-week-change';delta.className='pace-week-change';document.querySelector('#dynamics .pace-metrics').after(delta);}
- if(m.previousEnough){const diff=m.recent-m.previous;const pct=m.previous?Math.round(diff/m.previous*100):null;delta.textContent='';delta.dataset.tone=diff>0?'positive':diff<0?'negative':'neutral';}else{delta.textContent='';delta.dataset.tone='neutral';}
  $('pace-remaining-help').textContent='Всего '+fmt(m.target,0)+' оценок: '+fmt(D.people.length,0)+' участников × '+config.scoresPerParticipant+'. Осталось '+fmt(m.remaining,0)+' невыставленных.';
  $('pace-needed-help').textContent=m.needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(Math.max(0,(m.deadline-m.asOf)/DAY),1)+' дня до дедлайна. Нужно в среднем '+fmt(Math.ceil(m.needRate),0)+' в день.':'Нельзя рассчитать без актуального дедлайна.';
  let summary;

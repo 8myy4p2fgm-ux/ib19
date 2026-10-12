@@ -1,0 +1,10 @@
+--- 
+
++++ 
+
+@@ -17,4 +17,2 @@
+
+  $('pace-needed').textContent=m.needRate!==null?fmt(Math.ceil(m.needRate),0):'—';
+- let delta=document.getElementById('pace-week-change');if(!delta){delta=document.createElement('p');delta.id='pace-week-change';delta.className='pace-week-change';document.querySelector('#dynamics .pace-metrics').after(delta);}
+- if(m.previousEnough){const diff=m.recent-m.previous;const pct=m.previous?Math.round(diff/m.previous*100):null;delta.textContent='';delta.dataset.tone=diff>0?'positive':diff<0?'negative':'neutral';}else{delta.textContent='';delta.dataset.tone='neutral';}
+  $('pace-remaining-help').textContent='Всего '+fmt(m.target,0)+' оценок: '+fmt(D.people.length,0)+' участников × '+config.scoresPerParticipant+'. Осталось '+fmt(m.remaining,0)+' невыставленных.';
