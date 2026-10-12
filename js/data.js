@@ -24,7 +24,7 @@ export async function loadData(){
  for(let attempt=0;attempt<3;attempt++){
   const metaResponse=await fetch(new URL('../data/metadata.json?check='+Date.now(),import.meta.url),{cache:'no-store'});if(!metaResponse.ok)throw new Error('Не удалось прочитать метаданные обновления');const meta=await metaResponse.json();
   const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(async file=>{const url=new URL('../data/'+file,import.meta.url);url.searchParams.set('v',meta.runId);const response=await fetch(url,{cache:'no-store'});if(!response.ok)throw new Error('Не удалось загрузить '+file+': '+response.status);return response.json();}));
-  if(values[0].exportedAt!==meta.exportedAt)continue;
+  if(values[0].exportedAt!==meta.exportedAt||(meta.forumExportedAt&&values[1].exportedAt!==meta.forumExportedAt))continue;
   const D=normalizeData(...values);D.lastSuccessfulAt=meta.lastSuccessfulAt;return D;
  }
  throw new Error('Обновление данных ещё публикуется. Повторите загрузку.');

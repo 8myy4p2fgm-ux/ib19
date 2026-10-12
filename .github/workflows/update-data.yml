@@ -8,7 +8,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: judging-data
+  group: ib19-publish
   cancel-in-progress: false
 jobs:
   update:
