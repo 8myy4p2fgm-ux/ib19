@@ -26,10 +26,14 @@ const errors=[];
 try{
  for(const width of [1440,390]){
   const context=await browser.newContext({viewport:{width,height:900}}),page=await context.newPage(),ref=await context.newPage();
+  // Linux may take more than two seconds to prepare an emoji screenshot.
+  // Hold data only for this visual snapshot; real lifecycle timing is tested below.
+  let release;const snapshotReady=new Promise(r=>release=r);
+  await context.route('**/data/metadata.json?*',async route=>{await snapshotReady;await route.continue().catch(()=>{});});
   await ref.goto(base+'/loader-reference.html');await page.goto(base,{waitUntil:'domcontentloaded'});await page.waitForSelector('#carrot-loader .carrot');
   const dir='docs/screenshots/ui-reference';await fs.mkdir(dir,{recursive:true});
   const a=PNG.sync.read(await page.screenshot({path:`${dir}/project-${width}-loader.png`,animations:'disabled'})),b=PNG.sync.read(await ref.screenshot({path:`${dir}/reference-${width}-loader.png`,animations:'disabled'}));
-  assert.equal(pixelmatch(a.data,b.data,null,width,900,{threshold:.1}),0,'loader reference '+width);await context.close();
+  assert.equal(pixelmatch(a.data,b.data,null,width,900,{threshold:.1}),0,'loader reference '+width);release();await context.close();
  }
  for(const scenario of ['fast','slow','error']){
   const context=await browser.newContext({viewport:{width:390,height:844}});
