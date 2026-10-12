@@ -1,1 +1,21 @@
-{"version": 1, "exportedAt": "2026-10-09T09:22:25.473Z", "lastSuccessfulAt": "2026-10-09T09:22:25.473Z", "runId": "2026-10-09T09:22:25.473Z"}
+{
+  "version": 1,
+  "lastSuccessfulAt": "2026-10-12T19:23:44.104Z",
+  "exportedAt": "2026-10-12T19:23:44.104Z",
+  "runId": "2026-10-12T19:23:44.104Z",
+  "counts": {
+    "participants": 3288,
+    "forum": 86,
+    "scores": 7737,
+    "judges": 22
+  },
+  "source": {
+    "apiBase": "https://api.19ib.ru",
+    "roundId": "c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c",
+    "absentIds": [
+      "cdcf2f1f-bbaf-428a-a39f-c40fba146700",
+      "06427e4f-2b62-437e-946f-1db584892bc8",
+      "7586bac3-5c6c-4433-b8cd-6bc7110ab060"
+    ]
+  }
+}
