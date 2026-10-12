@@ -6,8 +6,8 @@ const forum={exportedAt:at,members:[{userId:'0',group:'OG',forum_name:'Absent au
 const round={id:'round',scoreScale:5,judgesRequired:5,passThreshold:15,entries:old.members.slice(1).map(p=>({userId:p.userId,scoredCount:1}))};
 const scoreMap=new Map(old.members.map(p=>[p.userId,p.scores]));
 test('CSV preserves 94 distinct author UUIDs, 65 OG and 29 veterans',()=>{
- const rows=parseForumCSV(fs.readFileSync('data/forum.csv','utf8'));assert.equal(rows.length,94);assert.equal(rows.filter(p=>p.group==='OG').length,65);assert.equal(rows.filter(p=>p.group==='Ветераны').length,29);assert.equal(new Set(rows.map(p=>p.userId)).size,94);
- assert.throws(()=>parseForumCSV('wrong,header\n'),/columns/);assert.throws(()=>parseForumCSV(fs.readFileSync('data/forum.csv','utf8')+'OG,Duplicate,839120d8-4a8c-41af-ad23-c4bf07f921db\n'),/duplicate/);
+ const rows=parseForumCSV(fs.readFileSync('tests/fixtures/forum-20261012.csv','utf8'));assert.equal(rows.length,94);assert.equal(rows.filter(p=>p.group==='OG').length,65);assert.equal(rows.filter(p=>p.group==='Ветераны').length,29);assert.equal(new Set(rows.map(p=>p.userId)).size,94);
+ assert.throws(()=>parseForumCSV('wrong,header\n'),/columns/);assert.throws(()=>parseForumCSV(fs.readFileSync('tests/fixtures/forum-20261012.csv','utf8')+'OG,Duplicate,839120d8-4a8c-41af-ad23-c4bf07f921db\n'),/duplicate/);
  const uid='aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa';assert.equal(parseForumCSV(`\uFEFFgroup,forum_name,userId\r\nOG,"Name, with ""quotes""",${uid}\r\n`)[0].forum_name,'Name, with "quotes"');
 });
 test('only current UUIDs feed all denominators, statuses, matrix and forecast',()=>{
@@ -29,3 +29,5 @@ test('archiving is a selection change, not grade deletion, and old snapshots rem
 test('CSV is authoritative only for membership and names; author extras survive',()=>{
  const d=applyForumDirectory(forum,[{userId:'0',group:'Ветераны',forum_name:'Renamed'},{userId:'new',group:'OG',forum_name:'New author'}]);assert.equal(d.members.length,2);assert.equal(d.members[0].manual,'Keep');assert.equal(d.members[0].veteran,true);assert.equal(d.members[0].forum_name,'Renamed');assert.deepEqual(d.members[0].scores,[grade]);assert.equal(d.members[1].scores.length,0);
 });
+
+test('editable production CSV is valid without freezing its future size',()=>{const rows=parseForumCSV(fs.readFileSync('data/forum.csv','utf8'));assert.ok(rows.length>0);assert.equal(new Set(rows.map(p=>p.userId)).size,rows.length);assert.ok(rows.every(p=>['OG','Ветераны'].includes(p.group)));});
