@@ -1,0 +1,1 @@
+import fs from 'node:fs';import {validateData} from './validate-data.mjs';console.log(validateData(JSON.parse(fs.readFileSync('data/19ib_all_judges_REPAIRED.json')),JSON.parse(fs.readFileSync('data/forum_judges_export.json'))));

@@ -1,0 +1,1 @@
+import fs from 'node:fs/promises';await fs.rm('dist',{recursive:true,force:true});await fs.mkdir('dist',{recursive:true});for(const file of ['index.html','css','js','data'])await fs.cp(file,'dist/'+file,{recursive:true});await fs.writeFile('dist/.nojekyll','');
