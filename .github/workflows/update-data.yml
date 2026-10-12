@@ -26,6 +26,9 @@ jobs:
       - run: npm test
       - run: npm run update
       - run: npm run validate
+      - run: npm test
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:browser
       - name: Commit validated data
         run: |
           git config user.name 'github-actions[bot]'
