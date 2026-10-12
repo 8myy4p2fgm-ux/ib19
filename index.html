@@ -9,7 +9,8 @@
 
 
 
-<link rel="stylesheet" href="./css/styles.css"></head><body><div id="load-state" role="status">Загрузка и проверка исходных данных…</div><div class="app" hidden><header class="site-header"><div class="site-header-inner"><a class="site-brand site-brand-carrot" href="#/round/1/overview" aria-label="19ib судейство"><span class="brand-word"><span class="brand-19">19</span></span><span class="brand-carrot-emoji" aria-label="морковка" role="img">🥕</span><span class="brand-word"><span class="brand-b">b</span></span><span class="brand-caption">судейство</span></a><nav class="navs" aria-label="Основные разделы"><a class="nav active" data-tab="home" href="#/round/1/overview">Обзор</a><a class="nav" data-tab="dynamics" href="#/round/1/dynamics">Судейские обхваты</a><a class="nav" data-tab="judges" href="#/round/1/judges">Судьи</a><a class="nav" data-tab="forum-link" href="#/round/1/forum-link">Реперы</a></nav><div class="header-meta"><div class="header-update">Обновлено <span id="updated"></span></div><div id="deadline-countdown" class="deadline-countdown" aria-hidden="false"><span class="deadline-countdown-label">До дедлайна </span><span id="deadline-countdown-value" class="deadline-countdown-value">—</span></div></div></div></header><main class="main"><header class="head"><div><h1 id="page-title">Обзор</h1></div><div class="updated" id="coverage"></div></header>
+<link rel="stylesheet" href="./css/styles.css"></head><body><div id="carrot-loader" role="status" aria-label="Загрузка сайта"><span class="carrot" aria-hidden="true">🥕</span></div>
+<script src="./js/loader.js"></script><div id="load-state" role="status" hidden></div><div class="app" hidden><header class="site-header"><div class="site-header-inner"><a class="site-brand site-brand-carrot" href="#/round/1/overview" aria-label="19ib судейство"><span class="brand-word"><span class="brand-19">19</span></span><span class="brand-carrot-emoji" aria-label="морковка" role="img">🥕</span><span class="brand-word"><span class="brand-b">b</span></span><span class="brand-caption">судейство</span></a><nav class="navs" aria-label="Основные разделы"><a class="nav active" data-tab="home" href="#/round/1/overview">Обзор</a><a class="nav" data-tab="dynamics" href="#/round/1/dynamics">Судейские обхваты</a><a class="nav" data-tab="judges" href="#/round/1/judges">Судьи</a><a class="nav" data-tab="forum-link" href="#/round/1/forum-link">Реперы</a></nav><div class="header-meta"><div class="header-update">Обновлено <span id="updated"></span></div><div id="deadline-countdown" class="deadline-countdown" aria-hidden="false"><span class="deadline-countdown-label">До дедлайна </span><span id="deadline-countdown-value" class="deadline-countdown-value">—</span></div></div></div></header><main class="main"><header class="head"><div><h1 id="page-title">Обзор</h1></div><div class="updated" id="coverage"></div></header>
 
 <div id="legacy-pace-compat" hidden aria-hidden="true"><span id="finish-date-value"></span><span id="pace-caption"></span><span id="pace-deadline"></span><span id="pace-deadline-method"></span><span id="pace-economy-limit"></span><span id="pace-economy-method"></span><span id="pace-progress-deadline"></span><span id="pace-progress-deadline-date"></span><span id="pace-progress-estimate"></span><span id="pace-progress-fact"></span><span id="pace-progress-fill"></span><span id="pace-progress-forecast"></span><span id="pace-progress-now"></span><span id="pace-progress-now-date"></span><span id="pace-progress-total"></span><span id="pace-summary"></span><span id="pace-volume-method"></span></div>
 <section class="page active" id="home">
@@ -42,24 +43,37 @@
 
 <section class="home-own" id="home-forum-results" aria-labelledby="home-own-title">
  <header class="home-own-head"><h2 id="home-own-title">Положение на батле</h2></header>
- <div class="home-own-columns">
-   <div class="home-own-results"><div class="home-results-details home-results-static">
-   
-   <table class="home-group-table"><thead><tr><th scope="col">Группа</th><th scope="col">Прошли</th><th scope="col">Выбыли</th><th scope="col">В борьбе</th></tr></thead><tbody>
-    <tr><th scope="row">Форум <span id="home-forum-size"></span></th><td data-forum-status="pass" data-forum-group="current" tabindex="0" role="link" id="home-passed" class="green"></td><td data-forum-status="fail" data-forum-group="current" tabindex="0" role="link" id="home-failed" class="red"></td><td data-forum-status="pending" data-forum-group="current" tabindex="0" role="link" id="home-pending"></td></tr>
+ <div class="home-position-layout"><div class="home-position-summary">
+  <div class="home-position-metrics">
+   <div class="home-position-metric"><span>Участников</span><strong id="home-total-size"></strong></div>
+   <div class="home-position-metric"><span>В борьбе</span><strong id="home-total-pending"></strong></div>
+   <div class="home-position-metric"><span>Прошли</span><div id="home-total-passed" class="green"></div></div>
+   <div class="home-position-metric"><span>Выбыли</span><div id="home-total-failed" class="red"></div></div>
+  </div>
+  <div class="home-position-outcomes" aria-label="Доля прошедших и выбывших среди участников с определённым результатом"><i id="home-position-pass-fill"></i><i id="home-position-fail-fill"></i></div><div class="home-outcome-labels"><span id="home-position-pass-label">—</span><span id="home-position-fail-label">—</span></div>
+  <p class="home-total-caption">Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками. Ждать всех пяти судей необязательно.</p>
+ </div><div class="home-groups-always"><h3>По группам</h3><table class="home-group-table home-subgroups-table"><thead><tr><th scope="col">Группа</th><th scope="col">Прошли</th><th scope="col">Выбыли</th><th scope="col">В борьбе</th></tr></thead><tbody>
+<tr><th scope="row">Форум <span id="home-forum-size"></span></th><td data-forum-status="pass" data-forum-group="current" tabindex="0" role="link" id="home-passed" class="green"></td><td data-forum-status="fail" data-forum-group="current" tabindex="0" role="link" id="home-failed" class="red"></td><td data-forum-status="pending" data-forum-group="current" tabindex="0" role="link" id="home-pending"></td></tr>
     <tr><th scope="row">Ветераны <span id="home-veteran-size"></span></th><td data-forum-status="pass" data-forum-group="veterans" tabindex="0" role="link" id="home-veteran-passed" class="green"></td><td data-forum-status="fail" data-forum-group="veterans" tabindex="0" role="link" id="home-veteran-failed" class="red"></td><td data-forum-status="pending" data-forum-group="veterans" tabindex="0" role="link" id="home-veteran-pending"></td></tr>
     <tr><th scope="row">Остальные <span id="home-other-size"></span></th><td id="home-other-passed" class="green"></td><td id="home-other-failed" class="red"></td><td id="home-other-pending"></td></tr>
-   </tbody></table>
-  </div></div>
-  <div class="home-own-comparison"><h3>Кому ставят выше?</h3>
+   </tbody></table></div>
+ </div>
+</section>
+<section class="home-lower-analytics" aria-label="Статистика оценок">
+<section class="home-ratings-section" aria-labelledby="home-ratings-title">
+ <div class="home-ratings-head"><h2 id="home-ratings-title">Сколько оценок получили участники</h2><span id="home-ratings-total" class="muted"></span></div>
+ <div class="home-ratings-list" id="home-ratings-list" aria-label="Распределение участников по количеству оценок"></div>
+
+</section>
+
+
+<div class="home-own-comparison"><h3>Кому ставят выше?</h3>
    <div class="home-score-row"><div><span>Форум</span><strong id="home-forum-avg">—</strong></div><div class="home-score-track" id="home-forum-average-bar" role="meter" aria-label="Средний балл группы Форум" aria-valuemin="0" aria-valuemax="5" hidden><i></i></div></div>
    <div class="home-score-row"><div><span>Ветераны</span><strong id="home-veteran-avg">—</strong></div><div class="home-score-track" id="home-veteran-average-bar" role="meter" aria-label="Средний балл ветеранов" aria-valuemin="0" aria-valuemax="5" hidden><i></i></div></div>
    <div class="home-score-row"><div><span>Остальные</span><strong id="home-other-avg">—</strong></div><div class="home-score-track" id="home-other-average-bar" role="meter" aria-label="Средний балл остальных" aria-valuemin="0" aria-valuemax="5" hidden><i></i></div></div>
    <p class="home-own-note">Средние оценки по пятибалльной шкале</p>
   </div>
- </div>
 </section>
-
 <div hidden><span id="forum-count"></span><span id="judges-count"></span><table><tbody id="best-judges"></tbody><tbody id="worst-judges"></tbody></table></div>
 </section>
 <section class="page" id="dynamics" aria-labelledby="page-title">

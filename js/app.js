@@ -148,15 +148,25 @@ for(const [group,people,prefix] of [['current',currentForum,'home'],['veterans',
  }
 }
 $('home-other-passed').textContent=fmt(otherPassed,0);$('home-other-failed').textContent=fmt(otherFailed,0);$('home-other-pending').textContent=fmt(otherPending,0);
-// Add a muted within-group percentage without replacing clickable status cells.
-for(const [people,prefix] of [[currentForum,'home'],[veteranForum,'home-veteran'],[other,'home-other']]){
- for(const [status,suffix] of [['pass','passed'],['fail','failed'],['pending','pending']]){
-  const cell=$(prefix+'-'+suffix),n=countStatus(people,status);
-  const share=document.createElement('small');share.className='home-group-share';
-  share.textContent=people.length?' · '+fmt(100*n/people.length,0)+'%':'';
-  cell.append(share);
- }
+const totalPassed=forumPassed+otherPassed,totalFailed=forumFailed+otherFailed,totalPending=forumPending+otherPending;
+const totalDecided=totalPassed+totalFailed; const passFill=$('home-position-pass-fill'),failFill=$('home-position-fail-fill');if(passFill&&failFill){passFill.style.width=(totalDecided?totalPassed/totalDecided*100:0)+'%';failFill.style.width=(totalDecided?totalFailed/totalDecided*100:0)+'%';}const passLabel=$('home-position-pass-label'),failLabel=$('home-position-fail-label');if(passLabel)passLabel.textContent='Прошли · '+(totalDecided?fmt(100*totalPassed/totalDecided,1)+'%':'—');if(failLabel)failLabel.textContent='Выбыли · '+(totalDecided?fmt(100*totalFailed/totalDecided,1)+'%':'—');
+$('home-total-size').textContent=fmt(P.length,0);
+for(const [id,n,percent] of [['home-total-passed',totalPassed,true],['home-total-failed',totalFailed,true],['home-total-pending',totalPending,false]]){
+ const cell=$(id);cell.textContent=fmt(n,0);
+ if(percent){const small=document.createElement('small');small.className='home-group-share';small.textContent=totalDecided?fmt(100*n/totalDecided,1)+'%':'—';cell.append(small);}
 }
+const ratingBuckets=Array.from({length:6},()=>0);
+for(const participant of P){ratingBuckets[Math.min(5,participant[3].length)]++;}
+const maxBucket=Math.max(1,...ratingBuckets);
+$('home-ratings-total').textContent=fmt(P.length,0)+' участников';
+$('home-ratings-list').replaceChildren(...ratingBuckets.map((count,i)=>{
+ const row=document.createElement('div');row.className='home-rating-item';
+ const label=document.createElement('span');label.className='home-rating-label';label.textContent=i+' '+(i===1?'оценка':i>=2&&i<=4?'оценки':'оценок');
+ const track=document.createElement('div');track.className='home-rating-track';
+ const fill=document.createElement('i');fill.style.width=(count/maxBucket*100)+'%';track.append(fill);
+ const value=document.createElement('strong');value.textContent=fmt(count,0)+' ('+fmt(P.length?100*count/P.length:0,1)+'%)';
+ row.append(label,track,value);return row;
+}));
 
 for(const [suffix,n,label] of [['pass',otherPassed,'Прошли'],['fail',otherFailed,'Выбыли'],['pending',otherPending,'В борьбе']]){const el=$('home-other-'+suffix+'-bar');el.style.width=(other.length?n/other.length*100:0)+'%';el.title=label+': '+fmt(n,0);el.setAttribute('aria-label',el.title);}
 
@@ -188,6 +198,7 @@ createForumLink({D,$,fmt,esc});
 initializeRoutes({D,P,allScores,daily,now,fmt,esc,$,judgeNames,judgeCurrent,judgeSummary});
 document.getElementById('deadline-countdown').dataset.deadline=config.deadline;window.dispatchEvent(new Event('deadline-data-ready'));$('load-state').hidden=true;document.querySelector('.app').hidden=false;drawPeriod('chart-main',Number($('chart-main').dataset.periodFrom)||0);
 if(D.warnings.length){const note=document.createElement('div');note.className='data-warning';note.textContent=D.warnings.join(' ');document.querySelector('.main').prepend(note);}
+window.ib19Loader.ready();
 }
-bootstrap().catch(error=>{const state=document.getElementById('load-state');state.className='load-error';state.textContent='Не удалось подготовить аналитику. '+error.message;const retry=document.createElement('button');retry.className='control';retry.textContent='Повторить загрузку';retry.onclick=()=>location.reload();state.append(document.createElement('br'),retry);console.error(error);});
+bootstrap().catch(error=>{const state=document.getElementById('load-state');state.className='load-error';state.textContent='Не удалось подготовить аналитику. '+error.message;const retry=document.createElement('button');retry.className='control';retry.textContent='Повторить загрузку';retry.onclick=()=>location.reload();state.append(document.createElement('br'),retry);state.hidden=false;window.ib19Loader.ready();console.error(error);});
 
