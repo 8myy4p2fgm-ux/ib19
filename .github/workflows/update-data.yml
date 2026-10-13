@@ -1,71 +1,110 @@
 name: Update judging data
 on:
   schedule:
-    - cron: '0 * * * *'
-      timezone: 'Europe/Moscow'
-    # Off-peak fallback if GitHub drops/delays the top-of-hour event.
-    - cron: '17 * * * *'
+    - cron: '*/5 * * * *'
       timezone: 'Europe/Moscow'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'auto: incremental with weekly full audit; full: manual complete audit'
+        type: choice
+        options: [auto, incremental, full]
+        default: auto
 permissions:
   contents: write
   pages: write
   id-token: write
+# Shared with deploy.yml: no collector/deployment may overlap another writer.
+# Keep the running job; pending ticks may be coalesced by GitHub.
 concurrency:
   group: ib19-publish
   cancel-in-progress: false
 jobs:
-  freshness:
-    runs-on: ubuntu-latest
-    outputs:
-      run: ${{ steps.gate.outputs.run }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - id: gate
-        env:
-          UPDATE_SCHEDULE: ${{ github.event.schedule }}
-        run: node scripts/update-gate.mjs
   update:
-    needs: freshness
-    if: needs.freshness.outputs.run == 'true'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 65
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Check out newest state AFTER acquiring concurrency, not the queued SHA.
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: npm
+      - id: gate
+        run: node scripts/update-gate.mjs
       - run: npm ci
+        if: steps.gate.outputs.run == 'true'
       - run: npm test
-      - run: npm run update
+        if: steps.gate.outputs.run == 'true'
+      - name: Collect and reconcile
+        id: collection
+        if: steps.gate.outputs.run == 'true'
+        env:
+          COLLECTION_MODE: ${{ inputs.mode || 'auto' }}
+        run: npm run update
       - run: npm run validate
+        if: steps.gate.outputs.run == 'true'
       - run: npm test
-      - run: npx playwright install --with-deps chromium
-      - run: npm run test:browser
+        if: steps.gate.outputs.run == 'true'
+      - name: Browser checks on complete audits
+        if: steps.collection.outputs.mode == 'full'
+        run: |
+          npx playwright install --with-deps chromium
+          npm run test:browser
+      - run: npm run build
+        if: steps.gate.outputs.run == 'true'
       - name: Commit validated data
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data
+          git add data/19ib_all_judges_REPAIRED.json data/forum_judges_export.json data/history.json data/metadata.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update judging data and history'
-            git push
+            # A concurrent human push fails safely; no force push or automatic merge.
+            git push origin HEAD:main
           fi
-      # GITHUB_TOKEN push does not trigger deploy.yml: publish explicitly in this job.
-      - run: npm run build
+      # GITHUB_TOKEN push does not trigger deploy.yml: deploy this validated build.
       - uses: actions/configure-pages@v5
+        if: steps.gate.outputs.run == 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.run == 'true'
         with:
           path: dist
       - uses: actions/deploy-pages@v4
+        if: steps.gate.outputs.run == 'true'
         id: deployment
+      - name: Publication result
+        if: always()
+        env:
+          JOB_STATUS: ${{ job.status }}
+          COLLECTION_OUTCOME: ${{ steps.collection.outcome }}
+          DEPLOYMENT_OUTCOME: ${{ steps.deployment.outcome }}
+          GATE_RUN: ${{ steps.gate.outputs.run }}
+        run: |
+          node --input-type=module -e '
+            import fs from "node:fs";
+            if (fs.existsSync("collection-report.json")) {
+              const report=JSON.parse(fs.readFileSync("collection-report.json"));
+              report.publication=process.env.DEPLOYMENT_OUTCOME === "success" ? "deployed" : process.env.DEPLOYMENT_OUTCOME || "not attempted";
+              report.jobStatus=process.env.JOB_STATUS;
+              fs.writeFileSync("collection-report.json",JSON.stringify(report,null,2)+"\n");
+              console.log(JSON.stringify(report));
+            }
+          '
+          echo "Publication: $DEPLOYMENT_OUTCOME; collection: $COLLECTION_OUTCOME; job: $JOB_STATUS"
+          echo "## Publication: $DEPLOYMENT_OUTCOME (collection: $COLLECTION_OUTCOME, gate: $GATE_RUN)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.collection.outcome != 'skipped'
+        with:
+          name: collection-report-${{ github.run_id }}
+          path: collection-report.json
+          retention-days: 7
+          if-no-files-found: ignore

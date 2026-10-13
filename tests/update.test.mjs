@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {mergeSnapshot,collect,createClient} from '../scripts/collector.mjs';import {updateHistory} from '../scripts/update-history.mjs';import {validateData} from '../scripts/validate-data.mjs';
-const t='2026-10-10T12:00:00Z',score={judgeName:'A',score:4,comment:'Original\ntext',scoredAt:'2026-10-09T10:00:00Z'},old={exportedAt:t,totalParticipants:2,members:[{userId:'f',scoredCount:1,scores:[score],current:true},{userId:'o',scoredCount:1,scores:[{...score,score:3}],current:true}]},forum={exportedAt:t,members:[{userId:'f',forum_name:'Author name',group:'OG',manual:'Keep',scores:[score]}]},full={id:'round',judgesRequired:5,scoreScale:5,passThreshold:15,entries:[{userId:'f',scoredCount:1},{userId:'o',scoredCount:1}]},scores=new Map(old.members.map(p=>[p.userId,p.scores]));
+const t='2026-10-10T12:00:00Z',score={judgeName:'A',score:4,comment:'Original\ntext',scoredAt:'2026-10-09T10:00:00Z'},old={exportedAt:t,totalParticipants:2,members:[{userId:'f',scoredCount:1,scores:[score],current:true},{userId:'o',scoredCount:1,scores:[{...score,score:3}],current:true}]},forum={exportedAt:t,members:[{userId:'f',forum_name:'Author name',group:'OG',manual:'Keep',scores:[score]}]},full={id:'round',judgesRequired:5,scoreScale:5,passThreshold:15,entries:[{userId:'f',scoredCount:1,score:4},{userId:'o',scoredCount:1,score:3}]},scores=new Map(old.members.map(p=>[p.userId,p.scores]));
 test('same grades preserve author layer, identifiers and all comments',()=>{const b=mergeSnapshot(old,forum,full,scores,t);assert.equal(b.forum.members[0].manual,'Keep');assert.equal(b.forum.members[0].forum_name,'Author name');assert.deepEqual(b.main.members[0].scores,old.members[0].scores);assert.equal(updateHistory(old,b.main,b.forum,null,t).revisions.length,0);assert.equal(validateData(b.main,b.forum).scores,2);});
 test('a successful read without new grades advances export time, not grade dates',()=>{
  const later='2026-10-13T14:00:00Z',b=mergeSnapshot(old,forum,full,scores,later);
@@ -12,7 +12,7 @@ test('removed source participants remain historical; incomplete scores fail',()=
 test('bad timestamps, damaged exports and changed rules cannot publish',()=>{assert.throws(()=>validateData({members:[]},forum));const bad=structuredClone(old);bad.members[0].scores[0].scoredAt='invalid';assert.throws(()=>validateData(bad,forum));assert.throws(()=>mergeSnapshot(old,forum,{...full,scoreScale:10},scores,t));});
 test('collector reconciles a grade added during the initial read',async()=>{
  let requests=0,liveReads=0;const added={...score,judgeName:'B',score:5};
- const b=await collect({roundId:'round',concurrency:2},old,forum,{now:()=>t,get:async p=>{
+ const b=await collect({roundId:'round',concurrency:2,mode:'full'},old,forum,{now:()=>t,get:async p=>{
   if(p.endsWith('/full'))return structuredClone(full);
   if(p.endsWith('/live')){liveReads++;return {progress:[{userId:'f',scoredCount:2,score:9},{userId:'o',scoredCount:1,score:3}]};}
   requests++;return {scores:structuredClone(p.includes('/f/')?(requests>2?[score,added]:[score]):scores.get('o'))};
