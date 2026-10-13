@@ -11,6 +11,7 @@ on:
         options: [auto, incremental, full]
         default: auto
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
@@ -37,6 +38,10 @@ jobs:
         with:
           node-version: '22'
           cache: npm
+      - name: Restore latest successful API check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/restore-check-report.mjs
       - id: gate
         run: node scripts/update-gate.mjs
       - run: npm ci
@@ -54,14 +59,14 @@ jobs:
       - run: npm test
         if: steps.gate.outputs.run == 'true'
       - name: Browser checks on complete audits
-        if: steps.collection.outputs.mode == 'full'
+        if: steps.collection.outputs.mode == 'full' && steps.collection.outputs.publish == 'true'
         run: |
           npx playwright install --with-deps chromium
           npm run test:browser
       - run: npm run build
-        if: steps.gate.outputs.run == 'true'
+        if: steps.collection.outputs.publish == 'true'
       - name: Commit validated data
-        if: steps.gate.outputs.run == 'true'
+        if: steps.collection.outputs.changed == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -73,13 +78,13 @@ jobs:
           fi
       # GITHUB_TOKEN push does not trigger deploy.yml: deploy this validated build.
       - uses: actions/configure-pages@v5
-        if: steps.gate.outputs.run == 'true'
+        if: steps.collection.outputs.publish == 'true'
       - uses: actions/upload-pages-artifact@v3
-        if: steps.gate.outputs.run == 'true'
+        if: steps.collection.outputs.publish == 'true'
         with:
           path: dist
       - uses: actions/deploy-pages@v4
-        if: steps.gate.outputs.run == 'true'
+        if: steps.collection.outputs.publish == 'true'
         id: deployment
       - name: Publication result
         if: always()
@@ -94,6 +99,8 @@ jobs:
             if (fs.existsSync("collection-report.json")) {
               const report=JSON.parse(fs.readFileSync("collection-report.json"));
               report.publication=process.env.DEPLOYMENT_OUTCOME === "success" ? "deployed" : process.env.DEPLOYMENT_OUTCOME || "not attempted";
+              report.publicationNeeded=report.publish && process.env.DEPLOYMENT_OUTCOME !== "success";
+              if (!report.publish) report.publication="skipped: no significant changes";
               report.jobStatus=process.env.JOB_STATUS;
               fs.writeFileSync("collection-report.json",JSON.stringify(report,null,2)+"\n");
               console.log(JSON.stringify(report));

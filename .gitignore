@@ -4,3 +4,7 @@ playwright-report/
 test-results/
 data/.staging/
 docs/screenshots/
+
+# Runner-local diagnostics, never commit these.
+collection-report.json
+previous-check.json
