@@ -1,13 +1,12 @@
-name: Schedule diagnostic moscow
+name: Schedule diagnostic utc
 on:
   schedule:
-    - cron: '*/5 * * * *'
-      timezone: 'Europe/Moscow'
+    - cron: '1-59/5 * * * *'
   workflow_dispatch:
 permissions:
   contents: read
 concurrency:
-  group: ib19-schedule-diagnostic-moscow
+  group: ib19-schedule-diagnostic-utc
   cancel-in-progress: false
 jobs:
   observe:
