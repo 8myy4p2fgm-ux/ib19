@@ -1,8 +1,5 @@
 name: Update judging data
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-      timezone: 'Europe/Moscow'
   workflow_dispatch:
     inputs:
       mode:
