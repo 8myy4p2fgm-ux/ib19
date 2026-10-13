@@ -1,3 +1,4 @@
+import {assertUpdateWorkflowModes} from './helpers/update-workflow.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';
 import {collect,createClient,retryAfterMs,validateSavedSnapshot} from '../scripts/collector.mjs';
 import {loadState,collectionMode,stateFiles} from '../scripts/collection-state.mjs';
@@ -51,5 +52,5 @@ test('production-shaped snapshot: reuse preserves all scores/comments, TUZ and n
  const calc=d=>unifiedAt(d.events,d.metadata.size,5,Date.parse(main.exportedAt),{otherCount:d.people.length-d.metadata.size,historical:false});assert.deepEqual(calc(a),calc(b));
 });
 test('workflow serializes both publications and collectors; uses current branch state and guarded push',()=>{
- const wf=fs.readFileSync('.github/workflows/update-data.yml','utf8'),deploy=fs.readFileSync('.github/workflows/deploy.yml','utf8');for(const text of [wf,deploy]){assert.match(text,/group: ib19-publish/);assert.match(text,/cancel-in-progress: false/);}assert.match(wf,/cron: '\*\/5 \* \* \* \*'/);assert.match(wf,/workflow_dispatch:/);assert.match(wf,/fetch-depth: 0/);assert.match(wf,/git push origin HEAD:main/);assert.ok(wf.indexOf('npm run build')<wf.indexOf('git push origin'));assert.doesNotMatch(wf,/git push.*--force/);
+ const wf=fs.readFileSync('.github/workflows/update-data.yml','utf8'),deploy=fs.readFileSync('.github/workflows/deploy.yml','utf8');for(const text of [wf,deploy]){assert.match(text,/group: ib19-publish/);assert.match(text,/cancel-in-progress: false/);}assertUpdateWorkflowModes(wf);assert.match(wf,/workflow_dispatch:/);assert.match(wf,/fetch-depth: 0/);assert.match(wf,/git push origin HEAD:main/);assert.ok(wf.indexOf('npm run build')<wf.indexOf('git push origin'));assert.doesNotMatch(wf,/git push.*--force/);
 });
