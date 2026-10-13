@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {assertUpdateWorkflowModes} from './helpers/update-workflow.mjs';
-const current=fs.readFileSync('.github/workflows/update-data.yml','utf8');
+const current=fs.readFileSync('.github/workflows/update-data-scheduled.yml','utf8');
 const manual=current.replace(/^  schedule:\n[\s\S]*?(?=^  workflow_dispatch:)/m,'');
 const production=manual.replace('on:\n',"on:\n  schedule:\n    - cron: '*/5 * * * *'\n      timezone: 'Europe/Moscow'\n");
 test('both manual-only rollout and five-minute production are valid',()=>{assert.equal(assertUpdateWorkflowModes(manual),'manual');assert.equal(assertUpdateWorkflowModes(production),'production');assertUpdateWorkflowModes(current);});
