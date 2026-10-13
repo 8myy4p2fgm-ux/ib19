@@ -1,7 +1,7 @@
 name: Update judging data
 on:
   schedule:
-    - cron: '1-59/5 * * * *'
+    - cron: '1-59/10 * * * *'
       timezone: 'Europe/Moscow'
   workflow_dispatch:
     inputs:
@@ -52,7 +52,7 @@ jobs:
         id: collection
         if: steps.gate.outputs.run == 'true'
         env:
-          COLLECTION_MODE: ${{ inputs.mode || 'auto' }}
+          COLLECTION_MODE: ${{ inputs.mode || 'incremental' }}
         run: npm run update
       - run: npm run validate
         if: steps.gate.outputs.run == 'true'
