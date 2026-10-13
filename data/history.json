@@ -67960,6 +67960,902 @@
         "scoredAt": "2026-10-12T20:35:38.621Z",
         "userId": "75db49a1-a2fd-4370-9fb7-92e0647d9b8d"
       }
+    },
+    {
+      "id": "ae205d288ee5e6389a58fe63a2e2f0a0ca9cc5d5497726d0c3e7a77d0d48533d",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:19:26.338Z",
+      "key": "[\"f7a4d488-1b60-4190-84b2-afa1876534e9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Рифмовочка пострадала, а так по флоу не плохо, хоть и не хватило жирка в голосе немного",
+        "scoredAt": "2026-10-13T06:19:26.338Z",
+        "userId": "f7a4d488-1b60-4190-84b2-afa1876534e9"
+      }
+    },
+    {
+      "id": "e4b7d35e98c5bbc1922c3bf91b20d739de653d3a91c1ce2d32b283eb9f64abce",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:27:28.048Z",
+      "key": "[\"18f660c7-935b-4d89-b420-2f27b05c419a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Старание чувствуется, но надо ещё работать",
+        "scoredAt": "2026-10-13T05:27:28.048Z",
+        "userId": "18f660c7-935b-4d89-b420-2f27b05c419a"
+      }
+    },
+    {
+      "id": "34a09edb1f67f326cd7a897ed182f0e44e660a80b477e7f7cbe95e540431e449",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T07:12:04.594Z",
+      "key": "[\"17ddb234-c064-4740-8f19-ddc1cd391d80\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Про Моргена прикольная строчка и отсылку к \"Вахтерам\" я выкупила. По сути, кусок про для рифмЫ можно было как-то иначе обыграть или заменить, он сильно вниз тянет. По флоу отлично - моя любимая \"как бы пренебрежительность\". Жду во втором. ",
+        "scoredAt": "2026-10-13T07:12:04.594Z",
+        "userId": "17ddb234-c064-4740-8f19-ddc1cd391d80"
+      }
+    },
+    {
+      "id": "0d3579a499795bf024cfbd398ec11d6faabdf68ba0903680c95a5096a666a09e",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:46:09.464Z",
+      "key": "[\"ab614671-16b1-4545-a237-bf45452fea5d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Ну вот слышно что тебе самому не удобно читать свой же текст.... ",
+        "scoredAt": "2026-10-13T04:46:09.464Z",
+        "userId": "ab614671-16b1-4545-a237-bf45452fea5d"
+      }
+    },
+    {
+      "id": "623009136eceaf8fffc79f7534194dfc7f6ab9313e3b2a68f7cffbb399a0aa40",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:45:10.359Z",
+      "key": "[\"bd1e8a8f-c458-484e-990c-9c716a8657e1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "А мне нравится такой стилек, и ты хорош и по разнообразию и по навалу.",
+        "scoredAt": "2026-10-13T04:45:10.359Z",
+        "userId": "bd1e8a8f-c458-484e-990c-9c716a8657e1"
+      }
+    },
+    {
+      "id": "ea5c8cf6804129f13f0f53d9291827ee93e95075c4fc15f02d17f0bcb5765fd3",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:33:10.722Z",
+      "key": "[\"650c402e-952a-4158-98a9-da26f1e782b1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По началу навал прикольный, но увы не меняется в течение трека это ни как",
+        "scoredAt": "2026-10-13T04:33:10.722Z",
+        "userId": "650c402e-952a-4158-98a9-da26f1e782b1"
+      }
+    },
+    {
+      "id": "39726a3f9b990ec9bb3215ab7b1d537888006b3fa28179f8f72c92433aa49e4d",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:40:47.899Z",
+      "key": "[\"a860237a-69b3-4e1a-aee6-69d4f7bae62d\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Стиль прослеживается, именно за счет него проходной балл. С наполнением посложнее - обо всем и ни о чем, очень размыто. Надеюсь, тебя вдохновит тема на 2 раунд. ",
+        "scoredAt": "2026-10-13T05:40:47.899Z",
+        "userId": "a860237a-69b3-4e1a-aee6-69d4f7bae62d"
+      }
+    },
+    {
+      "id": "32e553bc866af09dd6a701dff818322a078f70eb56e4ca8750ac0fc8c072a69c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T07:04:36.888Z",
+      "key": "[\"db6b5bb2-fdca-4ee2-b80e-b4d17bcf5aaa\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 1,
+        "comment": "Изучи вопрос ритмики. Наговаривать текст на инструментал не равно читать рэп",
+        "scoredAt": "2026-10-13T07:04:36.888Z",
+        "userId": "db6b5bb2-fdca-4ee2-b80e-b4d17bcf5aaa"
+      }
+    },
+    {
+      "id": "ccda63959de2e203249480fc6b7fa545f015930cfdc69060a28903295ef9396f",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:06:06.987Z",
+      "key": "[\"24ade32f-5c4e-4da5-a449-ea98a6051412\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Лучшие в этой шалаве попадают в бит все же, и да - не суй в улей никакие части тела, тем более такую ценную. А то в следующий сезон тяжеловато будет вернуться",
+        "scoredAt": "2026-10-13T06:06:06.987Z",
+        "userId": "24ade32f-5c4e-4da5-a449-ea98a6051412"
+      }
+    },
+    {
+      "id": "e00d32d57a8b5cb7a13fefbaf50faf26626ac49b8da6a00c45d7d95f65aa8523",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:22:02.701Z",
+      "key": "[\"56c84d91-5606-4b8f-86a4-b5aabf107dba\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Честно реализация подвела, очень много тюна что не смотрится на этом треке в течении минуты",
+        "scoredAt": "2026-10-13T06:22:02.701Z",
+        "userId": "56c84d91-5606-4b8f-86a4-b5aabf107dba"
+      }
+    },
+    {
+      "id": "192f2c7f7ab616a26306a590c7df9d1ba603bfff83218bca212cbb060b9136a2",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:55:44.701Z",
+      "key": "[\"3f2eb2ca-36ba-43f9-ab75-039402d533f5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Привет отец унтеграунда рапа)))) В целом вроде и стилек какой-то присутствует но вот реализация)",
+        "scoredAt": "2026-10-13T05:55:44.701Z",
+        "userId": "3f2eb2ca-36ba-43f9-ab75-039402d533f5"
+      }
+    },
+    {
+      "id": "229944d97137c2fe489e7756ded3afb74d42db640ee684bf8b39481057b6140b",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:54:52.081Z",
+      "key": "[\"d5742cce-260e-4e80-8e76-8c6b51108c3e\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Звучит очень приятно, как ни крути. Но все же ощущение, что раскрывается тема \"Все кроме свободы\". Вот и узнаем во втором раунде, есть опора на тему или нет)",
+        "scoredAt": "2026-10-13T05:54:52.081Z",
+        "userId": "d5742cce-260e-4e80-8e76-8c6b51108c3e"
+      }
+    },
+    {
+      "id": "aa7583d00d2252793fa91df68d28b8091b46ed23aabf1ad0d0b3e04a2923bd91",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:35:00.771Z",
+      "key": "[\"8a107bc5-e693-4758-b25d-15e2af4441e9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Есть для меня два минуса, поток сознание который скачет туда сюда, и второе то что есть места где ты сбиваешь ритмику",
+        "scoredAt": "2026-10-13T04:35:00.771Z",
+        "userId": "8a107bc5-e693-4758-b25d-15e2af4441e9"
+      }
+    },
+    {
+      "id": "fe43531ebceb756061669e9260e7756954ad50653c91a754b0388352687af9b3",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:09:08.472Z",
+      "key": "[\"29c1e723-20af-4cb1-86a2-f1a5809f26fc\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Раздаёшь нормас, но вот немного не хватает фишек и чуть продакшена, оценка на перспективу",
+        "scoredAt": "2026-10-13T05:09:08.472Z",
+        "userId": "29c1e723-20af-4cb1-86a2-f1a5809f26fc"
+      }
+    },
+    {
+      "id": "165d0d737419f827cb49661dbb8c4c956bf0d1ef76a6aaf9e3287c516f84918c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:42:49.683Z",
+      "key": "[\"f957f2a7-487e-47af-82d3-63bfc5ef46e1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Навел сумбура в треке, местами даешь очень странную ритмику с момента \"Всё кроме правды, Фемида слепа\" с натягом оценка",
+        "scoredAt": "2026-10-13T04:42:49.683Z",
+        "userId": "f957f2a7-487e-47af-82d3-63bfc5ef46e1"
+      }
+    },
+    {
+      "id": "9f5d3f1cfb831b56b2b3ff1a8a2f786fa8ec7d26796d8f5821b60f05e2056885",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:31:42.427Z",
+      "key": "[\"de991d17-d287-46e3-a55a-cd023c6564de\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Треку не хватило немного качества и разнообразия в остальном все сделано хорошо",
+        "scoredAt": "2026-10-13T04:31:42.427Z",
+        "userId": "de991d17-d287-46e3-a55a-cd023c6564de"
+      }
+    },
+    {
+      "id": "9a2ec1f7b569d75baba038e5c3d212053ff2753b82fdde4abf7875e7d42bcd58",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:52:35.519Z",
+      "key": "[\"17f8d3f8-c69b-49e9-8f0f-9bf3128c18d7\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот по началу было всё нормально, и ритмику держишь и вроде есть какая то харизма, но вот ускорение в конце заруинили всё",
+        "scoredAt": "2026-10-13T04:52:35.519Z",
+        "userId": "17f8d3f8-c69b-49e9-8f0f-9bf3128c18d7"
+      }
+    },
+    {
+      "id": "14914c488fc6fe91b22d61bbf5e55d6bc4eb4007dc17cbcf03db31d09db8221e",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:37:36.214Z",
+      "key": "[\"887f229c-a5ec-4c4a-a09d-c7691412f9b5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Честно что треку очень не хватает эмоций, слишком монотонно ",
+        "scoredAt": "2026-10-13T05:37:36.214Z",
+        "userId": "887f229c-a5ec-4c4a-a09d-c7691412f9b5"
+      }
+    },
+    {
+      "id": "8c90b47e4b5feee63c27b733fccc81eb5a23974096d571ce1188dce5d21296c2",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:28:31.815Z",
+      "key": "[\"57de8f84-018b-4cc5-b7a1-87fc74d6e408\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Кирюха охуенно раздал, без духоты держи",
+        "scoredAt": "2026-10-13T05:28:31.815Z",
+        "userId": "57de8f84-018b-4cc5-b7a1-87fc74d6e408"
+      }
+    },
+    {
+      "id": "293a820bfa4738e2116d715b4cc18a7493be50a23c9ae66f56d075c1806cc7e6",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:38:24.428Z",
+      "key": "[\"78cd5bdf-5537-4d37-bdc3-122f27c95aad\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Звучит хорошо, не хватило чуть больше объема в типо припеве, а так крепкая работа",
+        "scoredAt": "2026-10-13T04:38:24.428Z",
+        "userId": "78cd5bdf-5537-4d37-bdc3-122f27c95aad"
+      }
+    },
+    {
+      "id": "3263bd6ed92360ba2fcc05cb1a8832bc5f35fafbe82790b20e7aa17aceb85de0",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:20:32.831Z",
+      "key": "[\"2d5636c0-85fb-4428-948f-d68e8067f7bf\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Сорри бро но слышно что не уверено валишь под бит, реализация подводит",
+        "scoredAt": "2026-10-13T06:20:32.831Z",
+        "userId": "2d5636c0-85fb-4428-948f-d68e8067f7bf"
+      }
+    },
+    {
+      "id": "6245e15beaa766620b526130cac63de9f18c9e083e83667981911c8f1213e44e",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:00:12.852Z",
+      "key": "[\"a8709edc-a0e1-46aa-b70d-3a8ac4011818\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Короче по флоу нормас, но вот по качеству трек просел жестко",
+        "scoredAt": "2026-10-13T05:00:12.852Z",
+        "userId": "a8709edc-a0e1-46aa-b70d-3a8ac4011818"
+      }
+    },
+    {
+      "id": "1fba625f166f9744233a9cca85fbed1e4ac57a4ea06dc9bda03126102ad6d074",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:15:17.420Z",
+      "key": "[\"7056bbc0-0bd8-4cf3-8344-065ea8a6f6ec\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "О как буд-то заставка Анимэ)))) но в целом, если бы ритмически не было сбивок и ненужных пауз оценка была бы повыше",
+        "scoredAt": "2026-10-13T05:15:17.420Z",
+        "userId": "7056bbc0-0bd8-4cf3-8344-065ea8a6f6ec"
+      }
+    },
+    {
+      "id": "a1e33c95a1be9245cd2b38e9f1dcfd103f1f547bfb6233abbcde3736b0eae6a4",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:03:24.575Z",
+      "key": "[\"94ec20d2-7734-4b61-8d4e-26ff40e412f9\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "ЧЛЕН - ПОИЛКА БРАТА! ААААААА Анальная карта просто ЧТОООО ",
+        "scoredAt": "2026-10-13T06:03:24.575Z",
+        "userId": "94ec20d2-7734-4b61-8d4e-26ff40e412f9"
+      }
+    },
+    {
+      "id": "dacaf0145cbc3a886f66ecfce809d9bb6b870c0b6d1f7d92d92af481c98a6d2e",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:30:27.552Z",
+      "key": "[\"82166cf0-642a-4c8c-9554-ff825a651111\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Пока ты лучше всего реализовал такой стилек что мне попадались ",
+        "scoredAt": "2026-10-13T06:30:27.552Z",
+        "userId": "82166cf0-642a-4c8c-9554-ff825a651111"
+      }
+    },
+    {
+      "id": "457fa6e2cf02fa5d1588977942c74ba8621313b2902f726c04a94a891da38cd1",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:40:48.781Z",
+      "key": "[\"b8884895-5062-4b9f-aae5-1c3894d54f1c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Слишком срелняково и по тексту и по флоу ",
+        "scoredAt": "2026-10-13T05:40:48.781Z",
+        "userId": "b8884895-5062-4b9f-aae5-1c3894d54f1c"
+      }
+    },
+    {
+      "id": "e405f1bc55a741a0d1b3a95eb80dd3e3aed6a44bc7ed0b2d2137036b64e20e82",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:29:14.615Z",
+      "key": "[\"1fbb5f9f-7772-4d94-966c-6d16066f961f\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом дефолт рэп, читка норм, текст норм, вот разнообразия и акцентирования не хватает",
+        "scoredAt": "2026-10-13T06:29:14.615Z",
+        "userId": "1fbb5f9f-7772-4d94-966c-6d16066f961f"
+      }
+    },
+    {
+      "id": "b8f447f4285bec3b0940e3cce2e8bceb0d6f5b6100b798cec3eded3e08ea16a7",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:10:15.679Z",
+      "key": "[\"e179ee53-67c2-48db-a665-c8b3301c0084\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Есть простенькие моменты с рифмовкой, но в целом чувствуется вайб трек и стилек",
+        "scoredAt": "2026-10-13T05:10:15.679Z",
+        "userId": "e179ee53-67c2-48db-a665-c8b3301c0084"
+      }
+    },
+    {
+      "id": "8f6c9d4bf17e9b5a0f61b19bbbaef6a04f804bb0bd054d8443544de1eed39a3c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:58:57.569Z",
+      "key": "[\"55a64b29-776e-48eb-aeae-da157bbd5228\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Да я поняла, к чему ты в тексте клонишь, хотя особой художественности тут и нет, всю повозку люто тащит исполнение. ",
+        "scoredAt": "2026-10-13T05:58:57.569Z",
+        "userId": "55a64b29-776e-48eb-aeae-da157bbd5228"
+      }
+    },
+    {
+      "id": "303c6e346895613453da94bfad9d7c5457d67e23ae20c33e586dec5ff2b62c9f",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T07:14:39.329Z",
+      "key": "[\"628aa6b3-c3d0-4f71-8060-6c50914d6a51\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "О, текстово очень ярко, а звучать можешь с тысячу раз лучше. Даже этот трек мог быть очень жирным.  Но от смысла и раскрытия я кайфанула",
+        "scoredAt": "2026-10-13T07:14:39.329Z",
+        "userId": "628aa6b3-c3d0-4f71-8060-6c50914d6a51"
+      }
+    },
+    {
+      "id": "97e3a3800431d062fe35decae3aa6f5ce698f130d25e9afcea61ac03a4d60633",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:35:06.339Z",
+      "key": "[\"37df774d-fc67-4944-94be-639ee0a1c21e\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "А фристайлы можно было сдавать, да? В целом душевно",
+        "scoredAt": "2026-10-13T05:35:06.339Z",
+        "userId": "37df774d-fc67-4944-94be-639ee0a1c21e"
+      }
+    },
+    {
+      "id": "a4c24fbeebf2ffc880440587dffac8fb6c56f3f1e9677daef3f2e9b93f68b872",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:31:40.530Z",
+      "key": "[\"f4e61cb2-ddd9-4e08-bbe5-8a89b36bddde\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Вот честно не хватило какой-то безумной харизмы под такой биток, но в целом и по тексту и по удержанию отлично",
+        "scoredAt": "2026-10-13T06:31:40.530Z",
+        "userId": "f4e61cb2-ddd9-4e08-bbe5-8a89b36bddde"
+      }
+    },
+    {
+      "id": "e24647340069bf60bc6b4040aba5abca007d80de6bd7ad39823dfbe794896e68",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:34:39.617Z",
+      "key": "[\"3ad90c38-ffb0-4f0f-b098-c251490f353e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Блин знаю чей биток,  в целом местами навалил не плохо, местами дал странную ритмику,  авансом 4",
+        "scoredAt": "2026-10-13T06:34:39.617Z",
+        "userId": "3ad90c38-ffb0-4f0f-b098-c251490f353e"
+      }
+    },
+    {
+      "id": "87a99cdfe2def13843824b2a4498a7047490cb1acc690c799f07d00bff085d21",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:18:48.353Z",
+      "key": "[\"b6e4d09c-851a-4809-b397-15783e1841b5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот даёшь атмосферу, но не хватает каких-то фишек треку или где-то чуть интонацию дать",
+        "scoredAt": "2026-10-13T05:18:48.353Z",
+        "userId": "b6e4d09c-851a-4809-b397-15783e1841b5"
+      }
+    },
+    {
+      "id": "fc3257673f565412a2bb7a9e26f4bdd8180a4d69684a6855ec038289e0e5b309",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:25:50.828Z",
+      "key": "[\"5f3b3223-0eed-464b-8d98-2e736b1effc8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вроде по тексту есть мысли у тебя, и вроде пытаешься разнообразия дать, но реализация...",
+        "scoredAt": "2026-10-13T06:25:50.828Z",
+        "userId": "5f3b3223-0eed-464b-8d98-2e736b1effc8"
+      }
+    },
+    {
+      "id": "5dd6c8fa4a4b040e6be23c836a6ca85147085b99c8c96834a65604f785269be5",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:39:17.272Z",
+      "key": "[\"aea77b65-a0fd-420c-8241-9f43d09bb6f8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Как в меме \"Тяжело\" и это слушать тоже !тяжело",
+        "scoredAt": "2026-10-13T04:39:17.272Z",
+        "userId": "aea77b65-a0fd-420c-8241-9f43d09bb6f8"
+      }
+    },
+    {
+      "id": "e1c45bd5c684077497fbd7105d6609127507d7966b16099db1cfce3809110ecb",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:59:45.345Z",
+      "key": "[\"1bec8b38-88ac-436a-930b-8372bfb94dea\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ладно я понял что ты паузы хотел типо эдлибами забить, но реализация этого маневра утопила вайб",
+        "scoredAt": "2026-10-13T05:59:45.345Z",
+        "userId": "1bec8b38-88ac-436a-930b-8372bfb94dea"
+      }
+    },
+    {
+      "id": "3de117e73f82aaf04d9ff1104a524ae0576c2f9e3c43ba0eac01888a94d0f7ff",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:26:43.793Z",
+      "key": "[\"cfed2ba0-6390-4755-87eb-871ff72cddef\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Раздаешь вроде норм, но не хватает разнообразия чисто по мне",
+        "scoredAt": "2026-10-13T05:26:43.793Z",
+        "userId": "cfed2ba0-6390-4755-87eb-871ff72cddef"
+      }
+    },
+    {
+      "id": "1a1b0af5ebbba89193f542f065c92196cef19300937edabdd2545e8d09fe261b",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:54:07.150Z",
+      "key": "[\"8713ac15-75cb-4e7f-9ddd-dcd58aa93717\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Под конец разогнался, но в целом не хватило реализации в вокальчике...",
+        "scoredAt": "2026-10-13T05:54:07.150Z",
+        "userId": "8713ac15-75cb-4e7f-9ddd-dcd58aa93717"
+      }
+    },
+    {
+      "id": "16acf4ae5136ff8f6971c62b2ecd0f8f3017f76c4fbaebe428395440de7e709c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:17:03.501Z",
+      "key": "[\"40eba8db-ca6b-4ace-9f47-423c4d6fdfb2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом легкая работа и это играет здесь больше в плюс чем в минус, единственное для такого трека текст прям по шаблону написан",
+        "scoredAt": "2026-10-13T05:17:03.501Z",
+        "userId": "40eba8db-ca6b-4ace-9f47-423c4d6fdfb2"
+      }
+    },
+    {
+      "id": "960276ca38fb96712c2003c1f019dc122e5e2880b52d61a1828daec67e7549f9",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:24:15.421Z",
+      "key": "[\"9403729d-6a32-4a5b-8c70-f4b3fdbc822d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не хватает продакшена и честно качества этому треку, объемчика на вокал, зачитон плюс минус норм но это одна четверка, я бы чуть переделал сделав акцент на читку и дропчик в виде вокала ",
+        "scoredAt": "2026-10-13T05:24:15.421Z",
+        "userId": "9403729d-6a32-4a5b-8c70-f4b3fdbc822d"
+      }
+    },
+    {
+      "id": "aefa3b2852cd613714d6da6fb5a348150b3ca38abba08e3cd24c193e3cdbece5",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:45:17.386Z",
+      "key": "[\"06451a74-2794-4802-bd8c-7c87885d5eb2\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "с твоими исходными данными и с твоим голосом это должно звучать гораздо убедительнее, по тексту-то интересно написано. Округлила до 4 баллов, я бы еще послушала что-то твое. ",
+        "scoredAt": "2026-10-13T05:45:17.386Z",
+        "userId": "06451a74-2794-4802-bd8c-7c87885d5eb2"
+      }
+    },
+    {
+      "id": "b94769eb6603fe17c3c3e5ce474e685fd543bfb93247c400e1fdf8d30cc59aaf",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:33:30.918Z",
+      "key": "[\"bc772fd6-033a-4141-9163-c42ea7ea290c\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Звучишь действительно достойно, текстово - стандартно-репрезентово и раскрытие через \"они\", \"у них\". Но на проход начитал точно",
+        "scoredAt": "2026-10-13T05:33:30.918Z",
+        "userId": "bc772fd6-033a-4141-9163-c42ea7ea290c"
+      }
+    },
+    {
+      "id": "55b5dd0af773c39fc1dbd95a06cc4783c864b67710322f3e1f94b976b47bde81",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:07:00.391Z",
+      "key": "[\"fa456f17-93fa-48e1-a2fb-f094996ae002\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Местами облегчил рифмовку, но в целом есть вайбик у трека)",
+        "scoredAt": "2026-10-13T06:07:00.391Z",
+        "userId": "fa456f17-93fa-48e1-a2fb-f094996ae002"
+      }
+    },
+    {
+      "id": "2d92485ee64c7b32462a026802a704fe00cc4a1f3efab95e68c0df404522e931",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:02:51.704Z",
+      "key": "[\"ab307abb-cd28-4858-88a8-5b49c7c642c5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом не так всё плохо, интересно услышать тебя в балансе просто динамики голоса и тюна, тут многовато этого если честно, хотя слышно флоу",
+        "scoredAt": "2026-10-13T06:02:51.704Z",
+        "userId": "ab307abb-cd28-4858-88a8-5b49c7c642c5"
+      }
+    },
+    {
+      "id": "69fda67053c31ee717af15f829534c428f0b060a26d3ebcd61df1be5e8239240",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:01:32.413Z",
+      "key": "[\"96642ff0-6150-41d5-8f6d-e58152c189e9\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Для первого трека очень даже неплохо. От меня проход + раскрытия такого ранее не слышала. По исполнению - перспективно. Надеюсь, ты пройдешь и во втором учтешь то, что не учел здесь. ",
+        "scoredAt": "2026-10-13T06:01:32.413Z",
+        "userId": "96642ff0-6150-41d5-8f6d-e58152c189e9"
+      }
+    },
+    {
+      "id": "4d8cd6ebfc0d944a800fe698e30e305da9704ab569fd00853e2c810b2781f986",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T07:02:24.115Z",
+      "key": "[\"ed9a9b3d-9eea-4d43-b9b6-1dd0fdbc3668\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Для прохода во второй скилловости у уверенности не хватает. Так что перестаем юзать глаголы и предлагать всем сосать на этом этапе творчества, рано еще такое",
+        "scoredAt": "2026-10-13T07:02:24.115Z",
+        "userId": "ed9a9b3d-9eea-4d43-b9b6-1dd0fdbc3668"
+      }
+    },
+    {
+      "id": "b94db4a31dc3ce94aeb359066b3782710b2a7b99b0b55c151f80239e1b531322",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:48:52.525Z",
+      "key": "[\"0d6d8d02-d158-4073-9efd-a38c06f5464b\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Тоже округлила с 3,5 до 4. Вроде как актуальный текст + исполнять умеешь точно, хотя и не полностью раскрылся тут. Давай еще раз попробуем во втором. ",
+        "scoredAt": "2026-10-13T05:48:52.525Z",
+        "userId": "0d6d8d02-d158-4073-9efd-a38c06f5464b"
+      }
+    },
+    {
+      "id": "8437502980f6bfd37858b5786ab3c9f8c42018953fda470690bfae1c5599023d",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:43:51.737Z",
+      "key": "[\"1315c408-9258-4f2c-b673-cb9c98956eac\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "на уверенном зашёл в хату 19 нз",
+        "scoredAt": "2026-10-13T04:43:51.737Z",
+        "userId": "1315c408-9258-4f2c-b673-cb9c98956eac"
+      }
+    },
+    {
+      "id": "d0183c392d9d1ca8c813e082ffe33da6376d6360e6bbd079f81922d0dc129f4b",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:50:42.543Z",
+      "key": "[\"36012c92-4881-4853-92bf-bf28d54ef7ff\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Немного не хватило разнообразия треку и под такой стилек хочется немного сваги, но увы не дал",
+        "scoredAt": "2026-10-13T04:50:42.543Z",
+        "userId": "36012c92-4881-4853-92bf-bf28d54ef7ff"
+      }
+    },
+    {
+      "id": "7d9d9a0db355879b90c87c0570143cd8a432b155aad9dd472c1d02a261c6a01c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:22:14.410Z",
+      "key": "[\"c58bdb85-155f-4281-8e62-1b2e001d43ff\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Раздаешь норм стилек, но вот мне не хватило каких-то строк чтоб челюсть снесло)",
+        "scoredAt": "2026-10-13T05:22:14.410Z",
+        "userId": "c58bdb85-155f-4281-8e62-1b2e001d43ff"
+      }
+    },
+    {
+      "id": "65d148a8bd3fc68335a8a5f8017cd114034156b1482471689117859eb8b5194c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:41:01.782Z",
+      "key": "[\"ad9897df-1369-4fc8-82d4-a749273c57eb\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Слушай первое что не хватило треку реально вайба, фишек каких-то, по флоу вроде стелишь ровно, но немного монотонно ",
+        "scoredAt": "2026-10-13T04:41:01.782Z",
+        "userId": "ad9897df-1369-4fc8-82d4-a749273c57eb"
+      }
+    },
+    {
+      "id": "e1f07693e469cb286b0ce772545f8408158fdd0314d7188b824e2daf8d48500c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:05:32.657Z",
+      "key": "[\"68f20a83-e9d1-4c37-a2da-8e6788847d9c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ладно в целом нормальная работа для отбора, поиграйся там с флоу немного, добавь хука и идеи а то рэп про рэп наскучил",
+        "scoredAt": "2026-10-13T06:05:32.657Z",
+        "userId": "68f20a83-e9d1-4c37-a2da-8e6788847d9c"
+      }
+    },
+    {
+      "id": "dde0a0784ac6a2294ac42743060d8b80f5d85f64fa077a426f3a2a1c9635968d",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:25:14.549Z",
+      "key": "[\"08cae693-4c18-480c-ae2e-b8b1c68e2594\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот есть вроде флоу, но что с сведосиком как буд-то ты отдельно от бита",
+        "scoredAt": "2026-10-13T05:25:14.549Z",
+        "userId": "08cae693-4c18-480c-ae2e-b8b1c68e2594"
+      }
+    },
+    {
+      "id": "6cfbfad6ade6567aa5c3906015a8fa97f66ad64a93b4a89b2cf901d5f072015c",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:00:56.303Z",
+      "key": "[\"4d154c04-16c8-46e7-8e41-6afe113c65e6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "ЕЕЕ бой честно я пока не дорос до такого трека, проблема во мне, а не в тебе...",
+        "scoredAt": "2026-10-13T06:00:56.303Z",
+        "userId": "4d154c04-16c8-46e7-8e41-6afe113c65e6"
+      }
+    },
+    {
+      "id": "8096ea2a20c14364cecde62e8fa6c9f8c2b04d2cdbc5fbe83d3141022b518093",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:36:59.629Z",
+      "key": "[\"dfd9dc37-e8a3-41bb-b511-936929b6c325\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Харизма топ, не всё реализовал по качеству в треке что ты задумал, но в целом уверенная четверка",
+        "scoredAt": "2026-10-13T04:36:59.629Z",
+        "userId": "dfd9dc37-e8a3-41bb-b511-936929b6c325"
+      }
+    },
+    {
+      "id": "ce1a8a4dcd9ab6e4435d601f5653443942e87dfcbec49a4a143374ca078f00df",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:17:12.241Z",
+      "key": "[\"3176f450-6997-4c91-bbb3-0ee421dadc43\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом такой флоу надо заправить четкими панчулями и будет в целом крепкая работа авансом поставлю 4 хоть это для меня 3,5",
+        "scoredAt": "2026-10-13T06:17:12.241Z",
+        "userId": "3176f450-6997-4c91-bbb3-0ee421dadc43"
+      }
+    },
+    {
+      "id": "cf268fed4694eb06c57655dc7cf852252987553378b2ad1faface3cf7da25a58",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:53:41.162Z",
+      "key": "[\"a336499d-36c9-4a5e-84a4-613d82f22648\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Надо было идти к кенту, но честно очень много сумбура в треке",
+        "scoredAt": "2026-10-13T04:53:41.162Z",
+        "userId": "a336499d-36c9-4a5e-84a4-613d82f22648"
+      }
+    },
+    {
+      "id": "df6703d59fdfbfb10bea385f07e304258157e073d1b9bcf704c8487800ad2cc7",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:14:01.341Z",
+      "key": "[\"b0d0f269-486b-4748-b2db-951ad2d5776a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Мне кажется очень много сумбура в треке припев ещё +- но в куплете по мне прям убита динамика и тюном, и исполнение прям без эмоций что ли ...",
+        "scoredAt": "2026-10-13T05:14:01.341Z",
+        "userId": "b0d0f269-486b-4748-b2db-951ad2d5776a"
+      }
+    },
+    {
+      "id": "85b06766098bdc631667c66cc588656abade7ac9cbf9c4796429af7d2c417aec",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:12:14.587Z",
+      "key": "[\"3e91b39a-35ce-4e7a-bb7b-1bc22a7da4dc\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Начал за здравие трек, но потом пошло на спад, во второй части трека именно сваги не хватило...",
+        "scoredAt": "2026-10-13T05:12:14.587Z",
+        "userId": "3e91b39a-35ce-4e7a-bb7b-1bc22a7da4dc"
+      }
+    },
+    {
+      "id": "fa377b0c72f2555aa2d0fc5af0e68759331b1a7f94fb527401fcaee67728eb28",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T05:57:52.440Z",
+      "key": "[\"a426ae09-6f51-440d-9986-647bbf13d5b3\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом перегруз жесткий толи бита толи микса, но в целом нормас стелишь хоть и тематика трека не близка)",
+        "scoredAt": "2026-10-13T05:57:52.440Z",
+        "userId": "a426ae09-6f51-440d-9986-647bbf13d5b3"
+      }
+    },
+    {
+      "id": "2a75f5273612ded4a8b710a6c4b739a6de01c1aec3129d717375053c2eb43faa",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T06:18:18.051Z",
+      "key": "[\"fa5cd177-2e74-4061-b790-349af48d1195\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот если бы не растягивал некоторые строчки было бы по лучше, в челом среднячок",
+        "scoredAt": "2026-10-13T06:18:18.051Z",
+        "userId": "fa5cd177-2e74-4061-b790-349af48d1195"
+      }
+    },
+    {
+      "id": "8a4f26a1c2fc9723fa778a5b0699a0bef5a17bdc6f0d2c92e90124e0963cfe18",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:49:14.426Z",
+      "key": "[\"71977627-b70c-490a-99ec-8a9f3a8c6628\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот есть флоу, но голос подтоплен в бите не хватает выразительности треку, в целом флоу чувствуется, но текст есть промашки...",
+        "scoredAt": "2026-10-13T04:49:14.426Z",
+        "userId": "71977627-b70c-490a-99ec-8a9f3a8c6628"
+      }
+    },
+    {
+      "id": "00edd6a385c0ec3cf2ba27ce10f44f6a02e0769d296872b32a2a39159b8e4d0e",
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "sourceScoredAt": "2026-10-13T04:30:17.780Z",
+      "key": "[\"4e38b98a-0947-4ab4-b90f-d8434b3ba873\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом не плохо, есть вещи что ты не смог реализовать, так как не дозаписал эдлибчики и вот это всё... ",
+        "scoredAt": "2026-10-13T04:30:17.780Z",
+        "userId": "4e38b98a-0947-4ab4-b90f-d8434b3ba873"
+      }
     }
   ],
   "snapshots": [
@@ -68019,6 +68915,26 @@
           "index": 26.38277163568553,
           "favor": 18.43438758892603,
           "attention": -3.4682826199071686,
+          "respect": 11.416666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-13T07:15:57.737Z",
+      "exportedAt": "2026-10-13T07:15:57.737Z",
+      "scores": 7932,
+      "selectionVersion": "696d21dfbe91f1c789e0089a1e759b7b3b873d9c0fba581b2458c0d6ba972746",
+      "indices": {
+        "forum": {
+          "index": 23.981245810751275,
+          "favor": 10.629374816697627,
+          "attention": 5.887248352544216,
+          "respect": 7.464622641509434
+        },
+        "veterans": {
+          "index": 26.781151832883047,
+          "favor": 18.458811527671507,
+          "attention": -3.0943263614551273,
           "respect": 11.416666666666666
         }
       }
