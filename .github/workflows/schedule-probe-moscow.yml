@@ -2,7 +2,8 @@ name: Schedule diagnostic moscow
 on:
   schedule:
     - cron: '*/5 * * * *'
-TIMEmoscow  workflow_dispatch:
+      timezone: 'Europe/Moscow'
+  workflow_dispatch:
 permissions:
   contents: read
 concurrency:

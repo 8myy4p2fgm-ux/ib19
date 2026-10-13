@@ -2,7 +2,7 @@ name: Schedule diagnostic utc
 on:
   schedule:
     - cron: '*/5 * * * *'
-TIMEutc  workflow_dispatch:
+  workflow_dispatch:
 permissions:
   contents: read
 concurrency:
