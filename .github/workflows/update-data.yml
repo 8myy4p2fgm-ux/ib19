@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: '0 * * * *'
       timezone: 'Europe/Moscow'
+    # Off-peak fallback if GitHub drops/delays the top-of-hour event.
+    - cron: '17 * * * *'
+      timezone: 'Europe/Moscow'
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,7 +15,24 @@ concurrency:
   group: ib19-publish
   cancel-in-progress: false
 jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.gate.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - id: gate
+        env:
+          UPDATE_SCHEDULE: ${{ github.event.schedule }}
+        run: node scripts/update-gate.mjs
   update:
+    needs: freshness
+    if: needs.freshness.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 55
     environment:
