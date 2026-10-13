@@ -69416,6 +69416,2624 @@
         "scoredAt": "2026-10-13T07:26:46.927Z",
         "userId": "2cfc19e6-936d-4815-86f0-7a0869357444"
       }
+    },
+    {
+      "id": "e011e771f4ddc84a40592de01a95ab594e226d8e05a5e71fd90b23763ad00624",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:47:51.781Z",
+      "key": "[\"2c10bf64-32f4-4922-a27e-f160b67c6c9b\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Свэг присутствует. Повайбило.",
+        "scoredAt": "2026-10-13T12:47:51.781Z",
+        "userId": "2c10bf64-32f4-4922-a27e-f160b67c6c9b"
+      }
+    },
+    {
+      "id": "5d3f370d1d22e98fea2d5ae68d52f163927d1baf88996a9f5fda05273d771f1b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:13:42.582Z",
+      "key": "[\"ab759c8b-c09d-4c87-a93a-7385350d97dd\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T12:13:42.582Z",
+        "userId": "ab759c8b-c09d-4c87-a93a-7385350d97dd"
+      }
+    },
+    {
+      "id": "671c6aa28308caca6d9fa3e6890480b076be4230a82afe339bc059e067c84787",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:21:38.231Z",
+      "key": "[\"a82ee880-67b7-4156-9825-d9d8b270dd68\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "прости, между нами нету связи.",
+        "scoredAt": "2026-10-13T13:21:38.231Z",
+        "userId": "a82ee880-67b7-4156-9825-d9d8b270dd68"
+      }
+    },
+    {
+      "id": "1d9abee2e0e084d74ef0c7d55c73bd9142348b314846536780162379337d2608",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:46:46.776Z",
+      "key": "[\"fe133629-6efd-4f01-8edf-121c61f0c30b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Хорошее начало. Успехов в творчестве",
+        "scoredAt": "2026-10-13T13:46:46.776Z",
+        "userId": "fe133629-6efd-4f01-8edf-121c61f0c30b"
+      }
+    },
+    {
+      "id": "81eb6043525e0cec62a7c9e7453ea24ff5f05eea66286e44c710ba8be642103a",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:17:38.543Z",
+      "key": "[\"fe133629-6efd-4f01-8edf-121c61f0c30b\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Восьмой стрим. Привет реперу апельсину! ",
+        "scoredAt": "2026-10-13T13:17:38.543Z",
+        "userId": "fe133629-6efd-4f01-8edf-121c61f0c30b"
+      }
+    },
+    {
+      "id": "0b87f3c7c0ac2ad7edd79b18af28d91e81b15b6ac7dfaf4803c6f493e06bc41c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:55:40.000Z",
+      "key": "[\"fa274d17-7069-450d-9ea1-63e0eccabf0d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:55:40.000Z",
+        "userId": "fa274d17-7069-450d-9ea1-63e0eccabf0d"
+      }
+    },
+    {
+      "id": "75cbc5e7aeb67647a0e3fe320b07a9598ec456359c4092716a13577a5d0b6c0c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:36:53.701Z",
+      "key": "[\"b26f4b8b-9749-466f-8a2d-dbe4111ecc2e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:36:53.701Z",
+        "userId": "b26f4b8b-9749-466f-8a2d-dbe4111ecc2e"
+      }
+    },
+    {
+      "id": "b86b5a3617e5e734f4d6d090eb89e0714ddb2506007ab7605e6f27d915084823",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:00:38.040Z",
+      "key": "[\"c4da1753-ae1e-4cd8-98e1-02044637164a\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Текст на 5, читка на 1, вот суммарно 3. ",
+        "scoredAt": "2026-10-13T14:00:38.040Z",
+        "userId": "c4da1753-ae1e-4cd8-98e1-02044637164a"
+      }
+    },
+    {
+      "id": "d07126092d3439cb0cb3b965837fddbb5af2387e7673973c08609e4e0363be42",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:45:01.203Z",
+      "key": "[\"f3a17d2b-8057-4e46-823e-09b2007bf361\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Есть прикольные интонационные решения, а в целом пока слабенько. ",
+        "scoredAt": "2026-10-13T13:45:01.203Z",
+        "userId": "f3a17d2b-8057-4e46-823e-09b2007bf361"
+      }
+    },
+    {
+      "id": "28fb6c8e00521ca8dc22a7534061da71827ed4bb7e8e1b8331385f71a06a211c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:45:35.158Z",
+      "key": "[\"44cabbad-83ac-4d3d-8c1b-b41c876155a1\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Написал на отвались - результат предсказуемый",
+        "scoredAt": "2026-10-13T10:45:35.158Z",
+        "userId": "44cabbad-83ac-4d3d-8c1b-b41c876155a1"
+      }
+    },
+    {
+      "id": "8c293a4f94c7856a15845bf731481d9c64bc8442d2dc4e9b3ed64d21b8e21798",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:20:38.359Z",
+      "key": "[\"db6b5bb2-fdca-4ee2-b80e-b4d17bcf5aaa\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Спасибо за участие.",
+        "scoredAt": "2026-10-13T14:20:38.359Z",
+        "userId": "db6b5bb2-fdca-4ee2-b80e-b4d17bcf5aaa"
+      }
+    },
+    {
+      "id": "16f6856c3a65ecb703ca6764cd7526895cfc3e0f4e3077b024843cc02c7f4064",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:51:04.107Z",
+      "key": "[\"722998df-eeec-45a2-b237-814102b8679a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:51:04.107Z",
+        "userId": "722998df-eeec-45a2-b237-814102b8679a"
+      }
+    },
+    {
+      "id": "f96098f56e4de700b84f000faf8babb4978346426ab1bb7b05f598c5592ecba4",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:05:02.800Z",
+      "key": "[\"f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Добротный, правильный такой рэпак с хорошим интонированием.",
+        "scoredAt": "2026-10-13T13:05:02.800Z",
+        "userId": "f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d"
+      }
+    },
+    {
+      "id": "143f0aee0dd277a919aadaa185be621cba54e0dcc760cb74187bba2b14f31e44",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:03:12.453Z",
+      "key": "[\"4373c3e1-47e3-4a2f-bd2d-5c15ef790819\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:03:12.453Z",
+        "userId": "4373c3e1-47e3-4a2f-bd2d-5c15ef790819"
+      }
+    },
+    {
+      "id": "b2163d564027e436055f29ebe28ee99987a8a4b4eb454ddee87b14ecfa9fda5f",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:26:45.781Z",
+      "key": "[\"60ad46b2-76e5-44d2-9d12-979488c03ceb\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "Очень круто))) ",
+        "scoredAt": "2026-10-13T13:26:45.781Z",
+        "userId": "60ad46b2-76e5-44d2-9d12-979488c03ceb"
+      }
+    },
+    {
+      "id": "057375c5d30842786fe8e5eaeea6b8078ccc290c10e9e858e1e0dcfb6a31d105",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:10:13.314Z",
+      "key": "[\"b3acbb54-8798-427b-bc21-334e0ab8d6da\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим. Бомбоклаат!",
+        "scoredAt": "2026-10-13T14:10:13.314Z",
+        "userId": "b3acbb54-8798-427b-bc21-334e0ab8d6da"
+      }
+    },
+    {
+      "id": "408bf99354559d115f27be349db72ccea401d61ab59859b820aad15fc6fd2ecd",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:08:58.166Z",
+      "key": "[\"7e8b54dc-17b7-436b-8a57-45e2acaa068b\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Очень понравился ход твоих мыслей, даже панчики есть - \"Я живу в магазине, где есть автозапчасти, потому что дьявол кроется в деталях\" - это восхитительно. И мы земляки, как оказалось к концу трека. От меня - проходной балл. ",
+        "scoredAt": "2026-10-13T12:08:58.166Z",
+        "userId": "7e8b54dc-17b7-436b-8a57-45e2acaa068b"
+      }
+    },
+    {
+      "id": "48ff2b96eab21a96543e5c952f6a902704c3375d1e7f6edbb4a1c65f228578eb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:04:03.845Z",
+      "key": "[\"437c3d74-b204-4f02-b4d7-18bb8f076be3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Избавляйся от квадратной ритмики.",
+        "scoredAt": "2026-10-13T13:04:03.845Z",
+        "userId": "437c3d74-b204-4f02-b4d7-18bb8f076be3"
+      }
+    },
+    {
+      "id": "427cb0c795badfcfae4bfffbe558e59e83dce8233a3a17e4331e7c293143a516",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:50:18.852Z",
+      "key": "[\"90e720ae-b189-4055-96d3-a3e154b0a670\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 1,
+        "comment": "Сильный реп. Спасибо. попробуй через год ",
+        "scoredAt": "2026-10-13T13:50:18.852Z",
+        "userId": "90e720ae-b189-4055-96d3-a3e154b0a670"
+      }
+    },
+    {
+      "id": "07d0e5fe5d44c56ae8653368aca00d5c8c04a4ad84db1f1b4c5d63d44f45b6ef",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:46:21.045Z",
+      "key": "[\"57d173b2-2afa-4845-8ca7-2bbb706ada39\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:46:21.045Z",
+        "userId": "57d173b2-2afa-4845-8ca7-2bbb706ada39"
+      }
+    },
+    {
+      "id": "06e74efe539fd6c4b7cac05a6d420fbcdb3e865ae8ef0b37d8548d0155a5af76",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:25:49.806Z",
+      "key": "[\"65f53f15-db6f-4eb7-8196-4f570ad9a6b9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "спасибо за рэп из 2009 года ))))) рэп про рэп про рэп.\nсхемки понятны, но давай текстово чё-нить покажи во втором, а то с такими как раз хотят биф, ведь у них будто нет зубов! докажи им обратное",
+        "scoredAt": "2026-10-13T14:25:49.806Z",
+        "userId": "65f53f15-db6f-4eb7-8196-4f570ad9a6b9"
+      }
+    },
+    {
+      "id": "271aa6a8053710ee2d8e9c61efbad260156584670fefd9f63a20e23a786cddcc",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:53:22.391Z",
+      "key": "[\"a7817528-be78-434c-a8df-8961e82209ef\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Спасибо. \n\nЕбал - дремал это свег. ",
+        "scoredAt": "2026-10-13T13:53:22.391Z",
+        "userId": "a7817528-be78-434c-a8df-8961e82209ef"
+      }
+    },
+    {
+      "id": "02bb029a7cfa1236b69e564808f86fe1baf0096abcfe3c3d502795056c617c71",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:12:35.509Z",
+      "key": "[\"a7817528-be78-434c-a8df-8961e82209ef\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Ждал крутого текста к такому флоу, а его, увы, и нет. \nебу дремлю, все дела.",
+        "scoredAt": "2026-10-13T13:12:35.509Z",
+        "userId": "a7817528-be78-434c-a8df-8961e82209ef"
+      }
+    },
+    {
+      "id": "6f54e793c2044a9bdf6d82e089c4c5c78c8aa43acc5bbf0d50bf16f33a38e2b8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:18:15.016Z",
+      "key": "[\"3bc4d285-7d22-476a-a78e-ab0be9a12640\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Ритмический рисунок усыпил.",
+        "scoredAt": "2026-10-13T13:18:15.016Z",
+        "userId": "3bc4d285-7d22-476a-a78e-ab0be9a12640"
+      }
+    },
+    {
+      "id": "c230a95485588e6508be5aac209a48702f6338191e408d49d4e2a6e8c2b2e4e9",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:17:40.966Z",
+      "key": "[\"33fb93dd-b2b1-49c5-9d50-e0a36d8015bf\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень странная работа и по флоу и по тексту вроде пытался в поэзию ты но вышло что-то совсем другое",
+        "scoredAt": "2026-10-13T13:17:40.966Z",
+        "userId": "33fb93dd-b2b1-49c5-9d50-e0a36d8015bf"
+      }
+    },
+    {
+      "id": "3a72e04bff8197f06d04e9dcab0edbafbfb950f06ae5fd6523eed8fefbc23820",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:19:24.824Z",
+      "key": "[\"4f8b4112-3810-49f6-934e-ef9e0d5575d6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Метафоры, которые мы заслужили. ",
+        "scoredAt": "2026-10-13T13:19:24.824Z",
+        "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6"
+      }
+    },
+    {
+      "id": "ef2240e16f1ade5dc388a84212cb8f8b3726338622307496fa7f74b232b9a075",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:06:48.689Z",
+      "key": "[\"392f0b49-f7d9-4616-a438-f4957de8702f\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Тройка – за выдержку и прикосновение спустя целых девять лет. Но возникает вопрос: «А стоило ли трогать?»\n",
+        "scoredAt": "2026-10-13T13:06:48.689Z",
+        "userId": "392f0b49-f7d9-4616-a438-f4957de8702f"
+      }
+    },
+    {
+      "id": "110a9eb96260f7422c879cea3970351965a506c3259ad706d63f1bc6879310b8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:29:05.433Z",
+      "key": "[\"91f07bb2-750e-4015-b98a-de68aff2ecc4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:29:05.433Z",
+        "userId": "91f07bb2-750e-4015-b98a-de68aff2ecc4"
+      }
+    },
+    {
+      "id": "ff20acbf1ad8bff80f77eb94872b136b13f85d9240c8cd71d8a6002c2eaa30a1",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:46:35.214Z",
+      "key": "[\"be56a5e6-3e72-43b4-bfa0-71b91433d5f2\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошая работа!",
+        "scoredAt": "2026-10-13T13:46:35.214Z",
+        "userId": "be56a5e6-3e72-43b4-bfa0-71b91433d5f2"
+      }
+    },
+    {
+      "id": "8ff37ab38ba35f77e2d60a356c197741ff06388a03143cfe3ccab3fc3b415aca",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:22:58.159Z",
+      "key": "[\"fa19c49e-41f6-4e6e-a43a-18caa3d6369a\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "да добавь ты эмоций брад , ты чё!?!? тут прям не хватает экспрессии местами раз уж ровную читочку однотипную выбираешь но бери силой тогда, и/или добавь интересных оборот речи, фразочек, панчиков интересных. \nлови авансом 4, но как-то сухо под такие гитарки",
+        "scoredAt": "2026-10-13T14:22:58.159Z",
+        "userId": "fa19c49e-41f6-4e6e-a43a-18caa3d6369a"
+      }
+    },
+    {
+      "id": "d76ea95aa452bb03e2e0f6364051c8b70a7f8763802ce622c5ef82586db49b6e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:34:39.939Z",
+      "key": "[\"8d379b25-8634-462f-ad08-b9e2aafbfe78\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Хорошо, что был текст: с ним я понял хотя бы что-то. Но в целом балл накинул лишь за приятный бит. ",
+        "scoredAt": "2026-10-13T11:34:39.939Z",
+        "userId": "8d379b25-8634-462f-ad08-b9e2aafbfe78"
+      }
+    },
+    {
+      "id": "a236d0dbeffe69b46a5d79bbc382e2efbc2138dac9dc851954f7cba64f666865",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:30:03.966Z",
+      "key": "[\"69f5668f-64f0-4f14-a228-e87e0cf65942\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Голос как у Руслана 13/47.\nДавай если пройдешь, то тексток не про баттл, а что-то чуть более интересное.",
+        "scoredAt": "2026-10-13T13:30:03.966Z",
+        "userId": "69f5668f-64f0-4f14-a228-e87e0cf65942"
+      }
+    },
+    {
+      "id": "370ff2b446961bb35c2fb9699ec7debc0178c47808252cd14d00e0be9232cc6b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:04:15.122Z",
+      "key": "[\"b304623e-b923-444d-9a6a-bccacca744bd\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 1,
+        "comment": "Балл – за имя.",
+        "scoredAt": "2026-10-13T13:04:15.122Z",
+        "userId": "b304623e-b923-444d-9a6a-bccacca744bd"
+      }
+    },
+    {
+      "id": "889a8d1b234cefcc6bf46218f5600f9644fbd95619f7e9495de4a20f72d5bd44",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:43:59.220Z",
+      "key": "[\"8c7d6741-ddb9-4521-baa8-12cffb79ddf8\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Советую, начать с аудиостихов.\nА вот потмо можно и в рэп уже)",
+        "scoredAt": "2026-10-13T13:43:59.220Z",
+        "userId": "8c7d6741-ddb9-4521-baa8-12cffb79ddf8"
+      }
+    },
+    {
+      "id": "26fe429f4aa366d13c62e951e9510e1b19885da3eb0b7adef71a1bb2a0ae1897",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:20:18.054Z",
+      "key": "[\"5e6739fd-a584-48b0-9cb5-93d388397132\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Концовку немного подруинил по вайбу а в целом крепкая работа",
+        "scoredAt": "2026-10-13T13:20:18.054Z",
+        "userId": "5e6739fd-a584-48b0-9cb5-93d388397132"
+      }
+    },
+    {
+      "id": "aab4c2830af14d8e9362a5636e0c4a834901fda2eefd734f1570daf83f027c93",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:36:47.892Z",
+      "key": "[\"92abfb37-ceaf-4d9c-bc99-a694a7476c5d\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Грязный и крикливый трэк, лично мне неприятно слушать, особенно повторения в припевах.",
+        "scoredAt": "2026-10-13T13:36:47.892Z",
+        "userId": "92abfb37-ceaf-4d9c-bc99-a694a7476c5d"
+      }
+    },
+    {
+      "id": "7d7ecaee89ab38f5e1cd5acf74697e8bef8343b86e0aa5d4bb43b8596d4a2ebb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:41:26.346Z",
+      "key": "[\"1356c554-9423-4573-a876-2fd01d03c989\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Что с качествои и голосом? Кто вы-то? Я здесь один! Про кого ты говоришь? Какой-то дальневосточный шовинизм.",
+        "scoredAt": "2026-10-13T13:41:26.346Z",
+        "userId": "1356c554-9423-4573-a876-2fd01d03c989"
+      }
+    },
+    {
+      "id": "329c5952950585883e31201441ef8d280f44e70fea08dc9a82df8321bfc57e1e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:00:50.878Z",
+      "key": "[\"de00c4d5-dd81-4819-99c0-293180bf0518\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 1,
+        "comment": "Ты волшебник - удерживал внимание до последней секунды! И ты не сдался и сделал свой стиль. Вот это мороженка!",
+        "scoredAt": "2026-10-13T12:00:50.878Z",
+        "userId": "de00c4d5-dd81-4819-99c0-293180bf0518"
+      }
+    },
+    {
+      "id": "c78abd3b23b0ec34a759ca263c0c02f8b5a8e7640bb0fd905cf69db25c0b02c5",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:16:49.457Z",
+      "key": "[\"d1fe65e0-7ba8-4592-9da4-b9f578a81402\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:16:49.457Z",
+        "userId": "d1fe65e0-7ba8-4592-9da4-b9f578a81402"
+      }
+    },
+    {
+      "id": "df3a68b8dc72da4696f5026972dcd9bf3fbf802ffe4b6d5ebdb05b24a7b016d6",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:15:43.207Z",
+      "key": "[\"846d3aca-4dc4-4304-b65c-7d5305104ba5\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 5,
+        "comment": "Я люблю оппонентов и обожаю их родителей (с) Лаконично, иронично+самоирония, покекали, микро-переобувашечки прикольные через строчку. На уверенном. То, что надо для отбора. Харизма имеется. ",
+        "scoredAt": "2026-10-13T12:15:43.207Z",
+        "userId": "846d3aca-4dc4-4304-b65c-7d5305104ba5"
+      }
+    },
+    {
+      "id": "c86bb0ad9c7df60d436363950e60ddce341fdb38158d4db3f1db2c04ed0d1191",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:13:10.262Z",
+      "key": "[\"daf201ea-10f6-4452-bf67-3594de1d6d11\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По флоу вроде нормально стелишь, по тексту есть прикольные отсылки, не хватает звука",
+        "scoredAt": "2026-10-13T13:13:10.262Z",
+        "userId": "daf201ea-10f6-4452-bf67-3594de1d6d11"
+      }
+    },
+    {
+      "id": "d052f7d4194d01d5d0cfb226c9f8ff44d2c29d68407024f395c899cae38005ba",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:10:31.963Z",
+      "key": "[\"daf201ea-10f6-4452-bf67-3594de1d6d11\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Вроде и прикольные отсылки, а вроде и аткие уже банальненькие.\nНу норм, оке)",
+        "scoredAt": "2026-10-13T13:10:31.963Z",
+        "userId": "daf201ea-10f6-4452-bf67-3594de1d6d11"
+      }
+    },
+    {
+      "id": "d8ee1906bec890230bc7043800fc17156b73ef9dcc034bf8c9e5978995168204",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:14:33.626Z",
+      "key": "[\"85d93228-19ea-482a-8018-aa9071a5384e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Абсолютно базовое раскрытие спустя 150 треков. Да и звучит грязновато, но потенциал точно есть",
+        "scoredAt": "2026-10-13T11:14:33.626Z",
+        "userId": "85d93228-19ea-482a-8018-aa9071a5384e"
+      }
+    },
+    {
+      "id": "ed951124b1d1005c7aef5e9f6682fc168a7b1a905685f851f1524eb744a94f0b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:29:18.598Z",
+      "key": "[\"af3b7a18-9b7d-4aea-80f8-c5d97a95b7bd\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Ждал какого-то дропа весь трек🤣🤣🤣 ",
+        "scoredAt": "2026-10-13T13:29:18.598Z",
+        "userId": "af3b7a18-9b7d-4aea-80f8-c5d97a95b7bd"
+      }
+    },
+    {
+      "id": "5337e0799de6942433b8fe712d7e7dedb372d28bcd245aba5578e143e4db66fd",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:13:55.177Z",
+      "key": "[\"2eb7a412-4d3c-42b9-87b0-fdb06de643e5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Кто фит покупал?\nРаботай над рифмами, слышны тейки при записи. \nРитимический рисунок простой. Уверенности не хватает.\n",
+        "scoredAt": "2026-10-13T13:13:55.177Z",
+        "userId": "2eb7a412-4d3c-42b9-87b0-fdb06de643e5"
+      }
+    },
+    {
+      "id": "0eff3f87c9ab87c380f628113dd488587eaec1ad0a4709559aac77b308a01baf",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:42:08.252Z",
+      "key": "[\"6313f683-017a-4a21-afee-9a915f64ff1c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "ооочень вязко, очкень. Живчика включай)",
+        "scoredAt": "2026-10-13T13:42:08.252Z",
+        "userId": "6313f683-017a-4a21-afee-9a915f64ff1c"
+      }
+    },
+    {
+      "id": "3eee0bb52b54ed91485a49a101725669302d3e4b6c5a071b3b237fa18ad7e9b2",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:56:18.665Z",
+      "key": "[\"5e4c9dcd-893a-4123-8d0e-c7528e0c6347\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Зачем столько ради рифм? ",
+        "scoredAt": "2026-10-13T13:56:18.665Z",
+        "userId": "5e4c9dcd-893a-4123-8d0e-c7528e0c6347"
+      }
+    },
+    {
+      "id": "5ad35a5a7aea9853e4e8fa15029fbd979fcd772d4a20715c54a0569f1e13674b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:44:33.570Z",
+      "key": "[\"e722d34c-aaf4-45eb-a21d-5a52480e4a02\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-13T13:44:33.570Z",
+        "userId": "e722d34c-aaf4-45eb-a21d-5a52480e4a02"
+      }
+    },
+    {
+      "id": "8e2116a59688c5481fd4ef3d6c8e939abad88b3b90e6c87102378b8ed82b0f0d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:55:55.429Z",
+      "key": "[\"8a177d74-51ad-49ac-8b25-3e522dcad3de\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Думаю, содержание дает право дать проходной балл, \"диковая\" жизнь это конечно такое себе - уж или дикая или диковатая (или дикпиковая - такой жизни тоже можно не понять)",
+        "scoredAt": "2026-10-13T11:55:55.429Z",
+        "userId": "8a177d74-51ad-49ac-8b25-3e522dcad3de"
+      }
+    },
+    {
+      "id": "73fda9b27d3bed0ed20f374926cd41b47b2945f2e71503a847a08526114938c3",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:44:44.471Z",
+      "key": "[\"61316d40-8a92-4107-a481-c9f8fe3fbe3e\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "тему раскрыл, панчиков накидал, если бы ещё разнообразия по флоу выдал то забрал бы пятёрку",
+        "scoredAt": "2026-10-13T13:44:44.471Z",
+        "userId": "61316d40-8a92-4107-a481-c9f8fe3fbe3e"
+      }
+    },
+    {
+      "id": "21795cb25e5914827ccdfa1750f7892d7b09dfbacdcc349e8a62c4e98811436c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:11:36.827Z",
+      "key": "[\"8f6fb832-a3cb-46f8-8fcc-7e73af8d4906\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Базовая женская манера исполнения рэпа. Нужно ещё поискать свою индивидуальность. Есть связи с министром обороны?",
+        "scoredAt": "2026-10-13T13:11:36.827Z",
+        "userId": "8f6fb832-a3cb-46f8-8fcc-7e73af8d4906"
+      }
+    },
+    {
+      "id": "e5fc9d23fa0dabab3776dafa1388c4e9cc03aa793833bd74f4130c8583966178",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:45:30.269Z",
+      "key": "[\"2f250125-77e1-4d0f-a5c4-28e24ed48520\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Йоу",
+        "scoredAt": "2026-10-13T13:45:30.269Z",
+        "userId": "2f250125-77e1-4d0f-a5c4-28e24ed48520"
+      }
+    },
+    {
+      "id": "c75010e2c5274787ec29f838116d88dd886639375cf739a4fc4af1e35ab628c7",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:40:20.227Z",
+      "key": "[\"5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "В этом что-то есть, подтяни рифмы и будет стильно",
+        "scoredAt": "2026-10-13T13:40:20.227Z",
+        "userId": "5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0"
+      }
+    },
+    {
+      "id": "e21a786de4e3a7bc14210a44772519c681c34da0f1c06ce904f104ea660a4e57",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:27:58.253Z",
+      "key": "[\"feeaef8f-8c11-4d31-9382-cfe4a7a0f52d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:27:58.253Z",
+        "userId": "feeaef8f-8c11-4d31-9382-cfe4a7a0f52d"
+      }
+    },
+    {
+      "id": "746dd11ac022e7f88bcf1ec46bae1ac6b871a03e8f0bf3af33ee2a3f1337fd0d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:35:44.838Z",
+      "key": "[\"8251256f-e7f0-4e58-8320-00bef9927c28\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:35:44.838Z",
+        "userId": "8251256f-e7f0-4e58-8320-00bef9927c28"
+      }
+    },
+    {
+      "id": "dda2a05259b2049364fedb09660016f59088ead524e5abb282f06c28f9794c8b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:31:57.536Z",
+      "key": "[\"e883bfb5-26c0-4e1c-8b4e-433b67e46b98\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Интересный текст, не понимаю до конца свое отношение к нему, но позабавило. Да и рэп читать умеешь 100%",
+        "scoredAt": "2026-10-13T11:31:57.536Z",
+        "userId": "e883bfb5-26c0-4e1c-8b4e-433b67e46b98"
+      }
+    },
+    {
+      "id": "a9953746033378012912f84cb07f3a4d7c8311c25848cfbebf1f8b6ff397bebb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:11:17.290Z",
+      "key": "[\"a401b9bd-4a8c-4b12-830b-26e6e6e80b00\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:11:17.290Z",
+        "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00"
+      }
+    },
+    {
+      "id": "e0bb2ee775ac60900038f525be4aecf56f9a911d182654eefc46585bff9f4a72",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:31:32.338Z",
+      "key": "[\"fc7980d4-ff3f-4aee-8714-e01b15d46a3c\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Голос крепкий, но периодически теряешь бит. Мысли есть детские-простецкие.",
+        "scoredAt": "2026-10-13T13:31:32.338Z",
+        "userId": "fc7980d4-ff3f-4aee-8714-e01b15d46a3c"
+      }
+    },
+    {
+      "id": "4c2e0ca1beaca9965b11139a716564eea820eff6027f5d8521b49f9bca25a7e2",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:46:22.739Z",
+      "key": "[\"1cfe4ba9-c9a8-4093-8cad-28bbd7990d78\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:46:22.739Z",
+        "userId": "1cfe4ba9-c9a8-4093-8cad-28bbd7990d78"
+      }
+    },
+    {
+      "id": "76a5ae9b5613ca86b66d69712ea33b705debe4cdb646841995ee800422561bf2",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:45:52.566Z",
+      "key": "[\"27b38ca0-6c06-4e53-84fa-5bbb27eeefb5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:45:52.566Z",
+        "userId": "27b38ca0-6c06-4e53-84fa-5bbb27eeefb5"
+      }
+    },
+    {
+      "id": "af51395f795ae790c1796d40276ef2093ab930047ae800904da5666cb650b4db",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:13:10.285Z",
+      "key": "[\"b70e801c-322a-4c3e-b869-f63b32ff2ee7\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Некоторые делают интро по 20 секунд, а тут успел 2 части сделать за минуту. За это респект. Показал арсенал, которого хватит для прохода ",
+        "scoredAt": "2026-10-13T11:13:10.285Z",
+        "userId": "b70e801c-322a-4c3e-b869-f63b32ff2ee7"
+      }
+    },
+    {
+      "id": "eb4020f005e702aa7035fcc96488dc5ac92830e8f873c2d9c5eb26527ad95180",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:59:05.791Z",
+      "key": "[\"fc40fa1c-5022-4a3f-8716-9670d1fc17c3\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Слишком просто рифмуешь. Средний репчик. ",
+        "scoredAt": "2026-10-13T13:59:05.791Z",
+        "userId": "fc40fa1c-5022-4a3f-8716-9670d1fc17c3"
+      }
+    },
+    {
+      "id": "cb2c78ff4645652927a8abef24d6cd77f72e9614fb1070251cdad5128e22f272",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:42:23.305Z",
+      "key": "[\"41f3d683-fdbd-4394-9892-2855c1805b9d\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Душевно, но средненько турнирки\n",
+        "scoredAt": "2026-10-13T13:42:23.305Z",
+        "userId": "41f3d683-fdbd-4394-9892-2855c1805b9d"
+      }
+    },
+    {
+      "id": "ef47e7fff3657ce228cfbd1c49ea3a946c0d01f7b33ffe062c9a9c6a8039bffc",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:41:10.873Z",
+      "key": "[\"2ca3b0db-17c7-4d3d-b8dc-9569567f5e72\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "на уверенном ) нормально! с симс 3 чет хохотнул, я так понимаю на последнем куплете перед бонусом ещё пару литров пива чуть не сорвали голос ) спасибо за панчики, сойдёт для отбора",
+        "scoredAt": "2026-10-13T13:41:10.873Z",
+        "userId": "2ca3b0db-17c7-4d3d-b8dc-9569567f5e72"
+      }
+    },
+    {
+      "id": "2238cabe31bd49529fcc1ae1e7205ab4f166433f53508c3213d133c9cbb02595",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:05:52.808Z",
+      "key": "[\"d4341fbe-a703-4639-9252-b4c3d5e6d792\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "В следующем сезоне возвращайся с таким же достойным текстом, но без страха микрофона) Просто много пиши и много исполняй даже в домашних условиях, все получится",
+        "scoredAt": "2026-10-13T12:05:52.808Z",
+        "userId": "d4341fbe-a703-4639-9252-b4c3d5e6d792"
+      }
+    },
+    {
+      "id": "6e382233dd7006355b20228a4bee670ce20a9edb0c0311568c4fe3dabe84610b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:50:24.404Z",
+      "key": "[\"477de9e0-cd10-4890-bfd7-3b4949641fa8\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Прыкольно",
+        "scoredAt": "2026-10-13T13:50:24.404Z",
+        "userId": "477de9e0-cd10-4890-bfd7-3b4949641fa8"
+      }
+    },
+    {
+      "id": "5e2acbb5de65991f68df02f73d737395b04caf87e9a1e29808e77cddd4211ca9",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:52:32.932Z",
+      "key": "[\"c5148178-9fb0-4772-9fa1-00162dee4ed5\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Шиза, но забавная. Время охуительных историй. ",
+        "scoredAt": "2026-10-13T13:52:32.932Z",
+        "userId": "c5148178-9fb0-4772-9fa1-00162dee4ed5"
+      }
+    },
+    {
+      "id": "2e025130b1ff2e79c5e9a51c42f8324ae7d5aaf7787a30c146fdfb1a82c46fdc",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:07:01.296Z",
+      "key": "[\"12e3ce08-5f54-45fe-8b57-36a0e7530b6a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Не нравится, что очень много радирифмией и в некоторых местах присутствуем прям графоманство, но звучишь добротно.",
+        "scoredAt": "2026-10-13T13:07:01.296Z",
+        "userId": "12e3ce08-5f54-45fe-8b57-36a0e7530b6a"
+      }
+    },
+    {
+      "id": "a740c7f62d86ab97b7a8d77a3c0e85254f12e926f04d0edf34d6c966b8c953cc",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:38:25.160Z",
+      "key": "[\"dfc3a63a-cf04-4f11-92c4-901320c98206\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "если читать это голосом биг рашен босса и положить на трэпчик, то ваще имба, я так понимаю всё раскрытие в трудах Герберта Уэллса",
+        "scoredAt": "2026-10-13T13:38:25.160Z",
+        "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206"
+      }
+    },
+    {
+      "id": "dbd8169410dde38bbfd54eca9f6ea1fa854ae915709f5ea4d7cb10d8336eb73c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:34:12.004Z",
+      "key": "[\"8c8dd58c-f0fd-45e8-9417-afcc2dfd721f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Что-то в этом есть!",
+        "scoredAt": "2026-10-13T13:34:12.004Z",
+        "userId": "8c8dd58c-f0fd-45e8-9417-afcc2dfd721f"
+      }
+    },
+    {
+      "id": "2a812d919958477537b971622ab9fc64a007d3427e00fdcae9842b4e6261bea1",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:04:44.085Z",
+      "key": "[\"bad22f32-f212-4be5-bcb2-67afcfb3c032\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "\"Вы чо там в луну лбом въебались всем стадом?\", \n",
+        "scoredAt": "2026-10-13T14:04:44.085Z",
+        "userId": "bad22f32-f212-4be5-bcb2-67afcfb3c032"
+      }
+    },
+    {
+      "id": "2200cf1240928474654485a671439fb8876358acb8765c744ce1f5a18d9dcc40",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:21:38.696Z",
+      "key": "[\"51c2426d-7f03-495b-953a-789b6c9269d5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Вот навал хорошо, но не хватает каких-то фишек в трек, бэков для дополнения вайба",
+        "scoredAt": "2026-10-13T13:21:38.696Z",
+        "userId": "51c2426d-7f03-495b-953a-789b6c9269d5"
+      }
+    },
+    {
+      "id": "1800d2e069ffface697efbb026f3847395c728c55a5baa1db7611cbb27266caf",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:53:29.141Z",
+      "key": "[\"68048ead-aee3-4126-8f3e-30885c7bc683\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:53:29.141Z",
+        "userId": "68048ead-aee3-4126-8f3e-30885c7bc683"
+      }
+    },
+    {
+      "id": "b0bc1946ea1a00e372e24ce999e2ce0b673cb740880f1f3541b134fc7fcfe33d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:11:37.128Z",
+      "key": "[\"4d18d186-606f-4224-8af2-9e374f9d9a8b\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Какая-то каша по тексту, если пытаться вникнуть. Если просто оценить по звуку, то вполне себе нормальная средняя работа.",
+        "scoredAt": "2026-10-13T11:11:37.128Z",
+        "userId": "4d18d186-606f-4224-8af2-9e374f9d9a8b"
+      }
+    },
+    {
+      "id": "beb144f0616a28bbe1ff6079be66c3db158021c5a5154cd58467ecd693836db4",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:43:47.205Z",
+      "key": "[\"e5adc7c0-1e5c-49f1-bde7-dee42d7e6722\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:43:47.205Z",
+        "userId": "e5adc7c0-1e5c-49f1-bde7-dee42d7e6722"
+      }
+    },
+    {
+      "id": "5b1857df32c072acb9a7d4484db9903fc0d2881546796a4891c9b6c1a2ab391e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:31:56.861Z",
+      "key": "[\"ba33abef-298f-4161-99f5-8d29fc907598\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "спасибо за мёд в ушках,приятное раскрытие, хорошо читаешь, гуо во второй - чё тебе в первом делать ?",
+        "scoredAt": "2026-10-13T13:31:56.861Z",
+        "userId": "ba33abef-298f-4161-99f5-8d29fc907598"
+      }
+    },
+    {
+      "id": "e9d73db30a6b30fb8352475aa8a9c369348673aad142e6ba3529a7561e0dc2c5",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:51:52.705Z",
+      "key": "[\"ed24ab2f-9426-4f5d-9898-9b2ab5b4362c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:51:52.705Z",
+        "userId": "ed24ab2f-9426-4f5d-9898-9b2ab5b4362c"
+      }
+    },
+    {
+      "id": "a0a5cf908b27ab0049f967e7c680fff4f5f06f0ebcdbdaa9d0dd76a0d8c54be2",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:16:12.845Z",
+      "key": "[\"59c02789-8fd5-495d-a5ff-b0d12fe79387\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "мне понравился напор, как раздаешь, вопросов минимум к треку",
+        "scoredAt": "2026-10-13T13:16:12.845Z",
+        "userId": "59c02789-8fd5-495d-a5ff-b0d12fe79387"
+      }
+    },
+    {
+      "id": "835cf08b5fe0028ca9d4eab0b7177a5224cc177c33c8c8ce15ea78a0c4e2f26a",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:28:36.113Z",
+      "key": "[\"b8884895-5062-4b9f-aae5-1c3894d54f1c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Скучно. Очень скучно. Вроде и напор хороший, но неинтересный текст, простые рифмы, скудность ритмики тянут вниз. Постановка голоса хорошая. Тембр тоже очень перспективный. ",
+        "scoredAt": "2026-10-13T13:28:36.113Z",
+        "userId": "b8884895-5062-4b9f-aae5-1c3894d54f1c"
+      }
+    },
+    {
+      "id": "3c3317c311d6461527e9af01fd47d6d906965d18161b98c9b6feed0f921543b9",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:26:28.626Z",
+      "key": "[\"3d3b8238-40b0-44d1-8196-45f7fd3128ac\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Надо чуть больше напора и подачи, словно голос поставлен не до конца еще. В целом, ок.",
+        "scoredAt": "2026-10-13T13:26:28.626Z",
+        "userId": "3d3b8238-40b0-44d1-8196-45f7fd3128ac"
+      }
+    },
+    {
+      "id": "2896861846d3066a18c848483f60bd990288a716d6b7b46810c0f19550cbc166",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:11:10.257Z",
+      "key": "[\"cf78e1f3-f08d-4374-859e-75d5a8251966\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "это ты, это я, это мы и наши оценки.",
+        "scoredAt": "2026-10-13T13:11:10.257Z",
+        "userId": "cf78e1f3-f08d-4374-859e-75d5a8251966"
+      }
+    },
+    {
+      "id": "70b38bd4553ff0dfcd0da329c5bfc693eccf974038a5b810052c291b6acf697d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:36:13.840Z",
+      "key": "[\"2224c0dc-dc6e-4c6c-b048-134956767f50\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "ну тут ты показал нам стиль под названием \"ноу харизма\" если только",
+        "scoredAt": "2026-10-13T14:36:13.840Z",
+        "userId": "2224c0dc-dc6e-4c6c-b048-134956767f50"
+      }
+    },
+    {
+      "id": "ba8091d13c6b5eea5b23576ce14788ca2483cb01d71e973737f6a56c9c1e52f4",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:56:13.387Z",
+      "key": "[\"49732d79-9aa6-4e11-9948-5d8893d8e884\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "для прохода сойдёт, за иронию вместо панчей лови четвёрочку, но давай дальше всё-таки постарайся чуть почище на бит наваливать ",
+        "scoredAt": "2026-10-13T13:56:13.387Z",
+        "userId": "49732d79-9aa6-4e11-9948-5d8893d8e884"
+      }
+    },
+    {
+      "id": "864de15f0f5360a7667e5d3d11bd0de5e8e9d6667c5234054937f0313fc8e152",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:18:56.633Z",
+      "key": "[\"e52866fb-ff4c-4898-9302-00f0cd5c1e15\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Нарифмовал так нарифмовал, жаль дропчик не вышел по вайбу",
+        "scoredAt": "2026-10-13T13:18:56.633Z",
+        "userId": "e52866fb-ff4c-4898-9302-00f0cd5c1e15"
+      }
+    },
+    {
+      "id": "0a93e637089f005775da2795cc4a38e8a52032c06996c6adf4077e2510671ed4",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:08:30.883Z",
+      "key": "[\"26e51249-b25c-45d8-abf2-5fc18330d4b9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "если бы группа агата кристи читала рэп то было бы как-то так. давай будет 4, но с минусом  (в конце чето ты в искусство ушёл уже по рифме, возможно стоило бы чуть по-красивее сделать) но фишечка своя есть это круто",
+        "scoredAt": "2026-10-13T14:08:30.883Z",
+        "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9"
+      }
+    },
+    {
+      "id": "0d318978cc81c2974edb62f3386e5dc2feef2ccf9c69498910ca0984fc5ca1ce",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:47:23.073Z",
+      "key": "[\"f5bc2e06-3446-4281-a53c-0586edc7cd8c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "В целом хорошо, но твоя монотонность удручает и быстро трек приедается.",
+        "scoredAt": "2026-10-13T13:47:23.073Z",
+        "userId": "f5bc2e06-3446-4281-a53c-0586edc7cd8c"
+      }
+    },
+    {
+      "id": "045f89284909f78da4cd7f648da1b5a77fad57863a57ca9658e3b723da0c3175",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:03:38.795Z",
+      "key": "[\"f5e41dae-c147-4a70-83a9-1a33a3167e12\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Хорош, добро пожаловать. Завязывай ток эффектами капу так ебано корежить, я тебя узнал.",
+        "scoredAt": "2026-10-13T14:03:38.795Z",
+        "userId": "f5e41dae-c147-4a70-83a9-1a33a3167e12"
+      }
+    },
+    {
+      "id": "3156357e24e87226fc1bbf8672c2248ff5219c6bbfec237bcd1ecda5ac6f6057",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:10:15.930Z",
+      "key": "[\"607914ef-5710-4a06-ab20-a2863186e9d1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Качество записи руинит трек, по тесту норм. ",
+        "scoredAt": "2026-10-13T13:10:15.930Z",
+        "userId": "607914ef-5710-4a06-ab20-a2863186e9d1"
+      }
+    },
+    {
+      "id": "c0f509b86938dfce94ef70f8717bc96bd26c17edaa2778cafa23ddb1ae93c0ea",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:37:33.593Z",
+      "key": "[\"83d8fd9c-889b-49e2-8c5a-98334d753a67\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Улыбнуло!)\n3,5 по факту, очень сведоса не хватило.",
+        "scoredAt": "2026-10-13T13:37:33.593Z",
+        "userId": "83d8fd9c-889b-49e2-8c5a-98334d753a67"
+      }
+    },
+    {
+      "id": "7e9e819f5e730d797ccdefea1726359745bdee91adc107b1eb6bf335c9601123",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:00:37.227Z",
+      "key": "[\"c0769811-69de-4e3b-9cdc-84f762a87a20\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим. Шанцунг.",
+        "scoredAt": "2026-10-13T14:00:37.227Z",
+        "userId": "c0769811-69de-4e3b-9cdc-84f762a87a20"
+      }
+    },
+    {
+      "id": "84f12cdd6eacc18538aa5ed9ef695e7897f22497aa127f32e54fa3316493438e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:15:00.731Z",
+      "key": "[\"907ad1e8-8308-45a0-a042-6dac2bc9b675\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Не хватило разнообразия, интонация на трек одна, местами рифмы очень простые",
+        "scoredAt": "2026-10-13T13:15:00.731Z",
+        "userId": "907ad1e8-8308-45a0-a042-6dac2bc9b675"
+      }
+    },
+    {
+      "id": "546c6c86f69ae95d548df2480a7b5b77c3102ba30784f42c70ca69be58f610b8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:13:55.317Z",
+      "key": "[\"0644310a-2f46-4a7d-96fd-bc46cca1771a\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Крепко, н она мой взгляд бит тебя убил чутка. ",
+        "scoredAt": "2026-10-13T14:13:55.317Z",
+        "userId": "0644310a-2f46-4a7d-96fd-bc46cca1771a"
+      }
+    },
+    {
+      "id": "b8a4f65370a4e83c0d80d9e9b8b64eaf4c7d85ee5f38a21fcfa36c09b9cb683e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:23:15.286Z",
+      "key": "[\"b998a194-905b-431d-8bdd-2a69c20b9bfc\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:23:15.286Z",
+        "userId": "b998a194-905b-431d-8bdd-2a69c20b9bfc"
+      }
+    },
+    {
+      "id": "9b853926a64465052a9453b8fff692247140ebada163d3c556cfd5acfb80334d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:44:33.948Z",
+      "key": "[\"c9a4994a-d08b-4c79-8b7a-19e94b266eb5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:44:33.948Z",
+        "userId": "c9a4994a-d08b-4c79-8b7a-19e94b266eb5"
+      }
+    },
+    {
+      "id": "55d772beaa3f104fb787dee4db1c9d4f0cf39cad29ab3b4927e6c880059327bb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:35:07.965Z",
+      "key": "[\"3be02e6e-5813-4c27-9b98-e50aaf588f27\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Еще бы панчей в тексте и было бы идеально!",
+        "scoredAt": "2026-10-13T13:35:07.965Z",
+        "userId": "3be02e6e-5813-4c27-9b98-e50aaf588f27"
+      }
+    },
+    {
+      "id": "d40441f54f32f71b2a9c3e31dd02421e890a4bcc0165252fc11a58959358a10e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:37:28.496Z",
+      "key": "[\"711799cf-4eb7-4c12-bebe-4d860116b7ba\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "Крутяк",
+        "scoredAt": "2026-10-13T13:37:28.496Z",
+        "userId": "711799cf-4eb7-4c12-bebe-4d860116b7ba"
+      }
+    },
+    {
+      "id": "81e00143e408d0dede1d0407ff8582be35edc2ebf241b7e96fde75bcf61ed8d7",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:36:02.719Z",
+      "key": "[\"dc23f3f3-cd9e-4f86-a330-8dd8a5450c3e\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Хорошая крепкая работа. ",
+        "scoredAt": "2026-10-13T14:36:02.719Z",
+        "userId": "dc23f3f3-cd9e-4f86-a330-8dd8a5450c3e"
+      }
+    },
+    {
+      "id": "5eec0819210c73667d8cc5f4de79a1a5143c20d6e0ca7c32f5b07d7d27af0854",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:19:36.120Z",
+      "key": "[\"0f6ca742-8f70-422f-8e34-8e6931701957\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:19:36.120Z",
+        "userId": "0f6ca742-8f70-422f-8e34-8e6931701957"
+      }
+    },
+    {
+      "id": "53c4248023b156930bf9b5042e25740a23e900de797ddfc96a73e83447860d12",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:12:03.221Z",
+      "key": "[\"49c6edba-3a85-412e-9bb5-4406b1d5f7e4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "По раскрытие прикольно, по вайбу хороший тречок, чуть красоты не хватило по интонациям ",
+        "scoredAt": "2026-10-13T13:12:03.221Z",
+        "userId": "49c6edba-3a85-412e-9bb5-4406b1d5f7e4"
+      }
+    },
+    {
+      "id": "567ed6850c43b40434a94299d1f545839f25fb3863c356d5cb77f946749f74be",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:57:37.787Z",
+      "key": "[\"44ad3af1-f414-493b-9e82-95ed57c14c54\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 1,
+        "comment": "Пять баллов тебе дадут, но суммарно. Отсутствует вообще что-либо, что можно оценить выше.",
+        "scoredAt": "2026-10-13T12:57:37.787Z",
+        "userId": "44ad3af1-f414-493b-9e82-95ed57c14c54"
+      }
+    },
+    {
+      "id": "b6bcfbd8703d11a689ca2466625b494e6654c80e6036a1148cd27673029567eb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:09:01.833Z",
+      "key": "[\"d0c4db76-619d-470d-a95c-dca9388ab5e4\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Яркий голос и интонации. Проскакивают интересные рифмы. Четвёрка – с натяжкой, чтобы довёл до ума свою манеру рэпования, если пройдёшь.",
+        "scoredAt": "2026-10-13T13:09:01.833Z",
+        "userId": "d0c4db76-619d-470d-a95c-dca9388ab5e4"
+      }
+    },
+    {
+      "id": "8f7d29d4c45dfff8251b2769f8c4196b8c2743ee7e07507681260e3f8a4e2578",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:17:58.379Z",
+      "key": "[\"485ee6b7-ce58-42df-9ef0-498921fc8dee\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Финессинг гвалы для гриндинга гроу на споте.",
+        "scoredAt": "2026-10-13T13:17:58.379Z",
+        "userId": "485ee6b7-ce58-42df-9ef0-498921fc8dee"
+      }
+    },
+    {
+      "id": "7593c254e32753e145ed61f0d09a781b1997ff03049cb9e735318f0adb6000aa",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:27:42.444Z",
+      "key": "[\"3ca76914-ca99-4015-8106-620fc2e8fa0a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:27:42.444Z",
+        "userId": "3ca76914-ca99-4015-8106-620fc2e8fa0a"
+      }
+    },
+    {
+      "id": "e62e5581a249bdd2b5f10ee60a24ca2e7f6cff532c21d62064b99c488da4a597",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:10:38.177Z",
+      "key": "[\"3ca76914-ca99-4015-8106-620fc2e8fa0a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "https://www.twitch.tv/yuarr_mus cтрим 11",
+        "scoredAt": "2026-10-13T12:10:38.177Z",
+        "userId": "3ca76914-ca99-4015-8106-620fc2e8fa0a"
+      }
+    },
+    {
+      "id": "e7943565e203b1333f68da8283d0525f55dc5eec21b8ca9f58bd5467911a0d6f",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:11:32.987Z",
+      "key": "[\"1ef205d5-fae9-4e61-a074-8cd32e19eb55\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "К чему тут перебеги? Ради рифмы, личные вставки, сумбур.  Тут рефлексия мц, нужно ли такое в отборе? Хз ",
+        "scoredAt": "2026-10-13T14:11:32.987Z",
+        "userId": "1ef205d5-fae9-4e61-a074-8cd32e19eb55"
+      }
+    },
+    {
+      "id": "d8f0dcf714d7310d69c115993e5866d4e927bbaf4cec64c71c16ec2878921228",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:40:44.709Z",
+      "key": "[\"1ef205d5-fae9-4e61-a074-8cd32e19eb55\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:40:44.709Z",
+        "userId": "1ef205d5-fae9-4e61-a074-8cd32e19eb55"
+      }
+    },
+    {
+      "id": "0e8ab6dedcd1ba031a5452158dd696fee94681216e2835d569e5698fdbcb3288",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:40:59.302Z",
+      "key": "[\"cea25d82-297d-453e-949f-41811caeb30c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Тебя Пирокинезис укусил?)\nС нормальным звуком было бы очень круто, думаю.",
+        "scoredAt": "2026-10-13T13:40:59.302Z",
+        "userId": "cea25d82-297d-453e-949f-41811caeb30c"
+      }
+    },
+    {
+      "id": "9de317782d7b1b0e61a0cc9b13fbf8f2f9bd18a7caae14b63ea316cef0a99d24",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:39:42.056Z",
+      "key": "[\"0749b3bd-c825-482b-b598-d8640437e4d3\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну вот по звуку всё приятно. Но рифма «факты-правды» и это раскрытие... Ну не удивляет",
+        "scoredAt": "2026-10-13T11:39:42.056Z",
+        "userId": "0749b3bd-c825-482b-b598-d8640437e4d3"
+      }
+    },
+    {
+      "id": "1d2321de1482068b1cc7ba4281efd69ad1a3750be079cd7f423cb1a931fb40bc",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:07:09.931Z",
+      "key": "[\"fca22d57-e7c6-4c51-ada8-fdc692d4d7ae\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-13T14:07:09.931Z",
+        "userId": "fca22d57-e7c6-4c51-ada8-fdc692d4d7ae"
+      }
+    },
+    {
+      "id": "026611048f3c583862b7066c91226019ad62bc74c57cee09aa51305705f1ebe3",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:50:39.907Z",
+      "key": "[\"99aa9ebc-8f9e-4ae0-94c5-def32ed6fb15\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:50:39.907Z",
+        "userId": "99aa9ebc-8f9e-4ae0-94c5-def32ed6fb15"
+      }
+    },
+    {
+      "id": "b6a44db61abf8014784ee6e1fab7e987e97921d7e5c774e61ff908334780ba53",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:24:15.875Z",
+      "key": "[\"6daf6397-6cc6-4e0a-89f8-b15fefef8c43\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "4 с большим -, есть в тебе что то токе Нойзовское, но ты давай хуйней не занимайся, развивайся.",
+        "scoredAt": "2026-10-13T14:24:15.875Z",
+        "userId": "6daf6397-6cc6-4e0a-89f8-b15fefef8c43"
+      }
+    },
+    {
+      "id": "876b0827dabdfb4be6257e1a1623f3a0b4b62ab60c80c6f847681207aff6c027",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:50:03.307Z",
+      "key": "[\"184e0e7b-f05d-4fe9-90d3-9a9ca5b4a0fd\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "прикольно по разнообразию, интересные решения выбрал по звучанию, особенно на моменте с зумерством. но до пятёрки не хватило какого-нибудь крутого пЭнчика",
+        "scoredAt": "2026-10-13T13:50:03.307Z",
+        "userId": "184e0e7b-f05d-4fe9-90d3-9a9ca5b4a0fd"
+      }
+    },
+    {
+      "id": "4705d94f0ec66842f020eaaa3485c56c9c3ededb815d8156db5be809e99e1047",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:16:25.022Z",
+      "key": "[\"0f0acc7f-6606-4ab7-a6f8-1b2c95a219f0\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Все достаточно средне и по тексту, и по рифмам, и по звуку. Хочется в таком расслабленном флоу больше текста.",
+        "scoredAt": "2026-10-13T11:16:25.022Z",
+        "userId": "0f0acc7f-6606-4ab7-a6f8-1b2c95a219f0"
+      }
+    },
+    {
+      "id": "5ef61a44f5bbd6d81ef01b1511c99bd8b65da213c22408a3c5425fa9e1cced9a",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:18:13.290Z",
+      "key": "[\"915f7feb-064c-4544-afea-9e4d7031050b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:18:13.290Z",
+        "userId": "915f7feb-064c-4544-afea-9e4d7031050b"
+      }
+    },
+    {
+      "id": "d720d21d84f7666e3dcdf9e17445ebe96b431d6d69692ce26ee83c316aa76553",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:22:39.927Z",
+      "key": "[\"b4a4d246-66a0-4790-996e-8f1b592404b9\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пишешь неплохо, читаешь плохо.",
+        "scoredAt": "2026-10-13T14:22:39.927Z",
+        "userId": "b4a4d246-66a0-4790-996e-8f1b592404b9"
+      }
+    },
+    {
+      "id": "12ade128b77a9ca2cc3e5f172920ccb6d25a82a4f5eb0c1b19a583153a6f19d6",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:59:39.150Z",
+      "key": "[\"40eba8db-ca6b-4ace-9f47-423c4d6fdfb2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "без заморочек простенький тексток, приятным голосом под приятный бит  , лови приятную четвёрку,",
+        "scoredAt": "2026-10-13T13:59:39.150Z",
+        "userId": "40eba8db-ca6b-4ace-9f47-423c4d6fdfb2"
+      }
+    },
+    {
+      "id": "fdbaae52a13fe0c43597bddee7eaabbe43efedf3356d31623ca5880cfbe8d8dd",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:36:57.818Z",
+      "key": "[\"9403729d-6a32-4a5b-8c70-f4b3fdbc822d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:36:57.818Z",
+        "userId": "9403729d-6a32-4a5b-8c70-f4b3fdbc822d"
+      }
+    },
+    {
+      "id": "0fe65bf6de31aa2b8c237bdcd0cbb2c3d73d3e61df7db516cb1a416974237997",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:08:52.381Z",
+      "key": "[\"5be64853-7ca0-4ca7-8659-481f5e486ea2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Немного по рифме напоминает генератор рифм, и есть сбивки у трека",
+        "scoredAt": "2026-10-13T13:08:52.381Z",
+        "userId": "5be64853-7ca0-4ca7-8659-481f5e486ea2"
+      }
+    },
+    {
+      "id": "7b4bc51996fe58684ddfb9ee78af80298f3c7a8dbc5fd4fc472d386320dfb2a7",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:33:26.155Z",
+      "key": "[\"c8c1df37-932c-492e-8f6e-de9de16dca32\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хорошо.",
+        "scoredAt": "2026-10-13T13:33:26.155Z",
+        "userId": "c8c1df37-932c-492e-8f6e-de9de16dca32"
+      }
+    },
+    {
+      "id": "5a795aa714a7878abb4c38bbbc9f37e27efb7d619a1a5e89c8b3d152251e2c5e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:09:18.405Z",
+      "key": "[\"9462ca8f-dfbc-4bd7-b6af-cbac03c51445\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Знаешь, противоречиво. Вангую тебе оценки от 3 до 5. И приму все стороны.\nС одной тсороны весьма разнообразно и ритмически интеренсо, но с другой стороны весьма переигрываешь и нет той самой поглощающей атмосферы. ",
+        "scoredAt": "2026-10-13T13:09:18.405Z",
+        "userId": "9462ca8f-dfbc-4bd7-b6af-cbac03c51445"
+      }
+    },
+    {
+      "id": "ff049cbe4e38c8e239d4e209bc74c41ceffb0c9aa667528dd4f0bd3ab34f9e40",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:05:57.998Z",
+      "key": "[\"9462ca8f-dfbc-4bd7-b6af-cbac03c51445\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "https://www.twitch.tv/yuarr_mus cтрим 11",
+        "scoredAt": "2026-10-13T12:05:57.998Z",
+        "userId": "9462ca8f-dfbc-4bd7-b6af-cbac03c51445"
+      }
+    },
+    {
+      "id": "03c8747e52e52d59d43ee52eea5728c880bfbea4bf121c61fc66ca7ffd325174",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:36:38.170Z",
+      "key": "[\"1a5a3e39-6b23-4067-8a96-4077575fe107\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Есть вайбы «новичка», но потенциального. Интересная смена бита, но я бы лучше послушал первую часто побольше.",
+        "scoredAt": "2026-10-13T11:36:38.170Z",
+        "userId": "1a5a3e39-6b23-4067-8a96-4077575fe107"
+      }
+    },
+    {
+      "id": "37ae0c0f11c7b032fa8ccf55c2a8c382a5bfd83c780ee7d4135425b5b62e88fa",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:43:17.984Z",
+      "key": "[\"642add4c-27a5-4720-b809-f6e20bb5f02a\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "если текст только хуй, то в комментарии - коммент",
+        "scoredAt": "2026-10-13T13:43:17.984Z",
+        "userId": "642add4c-27a5-4720-b809-f6e20bb5f02a"
+      }
+    },
+    {
+      "id": "fcfdb64c157e4751d7594e4b431a446336802859f5cc704a602a90c197d00e8c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:32:11.879Z",
+      "key": "[\"f9dd53ce-3b27-4cce-8249-02204e6cd3f3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Идея классная. Раскрытие топ. Перебежки тоже хорошие. Плавность и округленность интонаций местами подводит. И бит говно унылое, прости. ",
+        "scoredAt": "2026-10-13T13:32:11.879Z",
+        "userId": "f9dd53ce-3b27-4cce-8249-02204e6cd3f3"
+      }
+    },
+    {
+      "id": "7035c5d8862183678ca1b02dc95929480951ffdeb8eff1108fa4ecbf04c8bbae",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:58:25.728Z",
+      "key": "[\"ecfb3000-a3ca-420b-96df-c186cdfa03cf\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Клево, хочется аж 5 поставить, но пока твердая 4.",
+        "scoredAt": "2026-10-13T13:58:25.728Z",
+        "userId": "ecfb3000-a3ca-420b-96df-c186cdfa03cf"
+      }
+    },
+    {
+      "id": "3b2f4ee6c2b7c1c28871e756a0305138f49c9876e560df5e61237b97421fa8f5",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:43:50.188Z",
+      "key": "[\"cd6a7217-7866-4839-9c35-f442cee3bf45\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну некоторые панчлайны меня улыбнули. Хоть всё и на среднем уровне, особенно по исполнению.",
+        "scoredAt": "2026-10-13T11:43:50.188Z",
+        "userId": "cd6a7217-7866-4839-9c35-f442cee3bf45"
+      }
+    },
+    {
+      "id": "cefc5190f4158c4186e4d00e3e2d0c5e9601d052efd553324741a2cf1e024610",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:03:43.523Z",
+      "key": "[\"b50b91e0-e4e5-42c8-9811-7497b12cdc71\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "хороший неймдроп про Лисан, про ложки сойдёт. \nпо звучанию нормас, но текст простоват по рифмам местами, тут в таком случае надо усиливать его панчами.\nчетвёрка справедливая кмк",
+        "scoredAt": "2026-10-13T14:03:43.523Z",
+        "userId": "b50b91e0-e4e5-42c8-9811-7497b12cdc71"
+      }
+    },
+    {
+      "id": "5e4a6504768a5d62d470bbcce1926ceb70e7e42a75ebc100eae235b3becb6751",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:14:58.850Z",
+      "key": "[\"0394139d-5eb3-428d-9e81-8e6fff5225ee\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Ой какие проблемы с дикцией, ритмикой и качеством. За рифмы респект. ",
+        "scoredAt": "2026-10-13T13:14:58.850Z",
+        "userId": "0394139d-5eb3-428d-9e81-8e6fff5225ee"
+      }
+    },
+    {
+      "id": "048da688bc97951536d3731dc0015682ed149f62afa60aba3115e920a611e717",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:01:07.219Z",
+      "key": "[\"e9a181d2-fd73-45d3-996f-eeb8c85decd2\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Развивай данное направление, круто будет",
+        "scoredAt": "2026-10-13T14:01:07.219Z",
+        "userId": "e9a181d2-fd73-45d3-996f-eeb8c85decd2"
+      }
+    },
+    {
+      "id": "b49b7fc14d090df5d60742f11c36a40c6cc8bd353a3c6327e6be4721d9982853",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:20:10.367Z",
+      "key": "[\"b4faa26a-ef86-4f45-9f0f-b536a44bfb75\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Охуенно, продолжай. ",
+        "scoredAt": "2026-10-13T14:20:10.367Z",
+        "userId": "b4faa26a-ef86-4f45-9f0f-b536a44bfb75"
+      }
+    },
+    {
+      "id": "7b8cf637c4bafc12570fd6782c22f538b201584a9eaef5512b5ae79fe891bfed",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:46:14.574Z",
+      "key": "[\"733f0960-69e8-48a3-b334-7975583b4576\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "C'est bien. Что тут ещё сказать? ",
+        "scoredAt": "2026-10-13T12:46:14.574Z",
+        "userId": "733f0960-69e8-48a3-b334-7975583b4576"
+      }
+    },
+    {
+      "id": "eaa3c928b9f3b76b21da197dac07ad9a656fc48d3432cba78d88ba760f45f427",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:21:06.354Z",
+      "key": "[\"696c420f-ace0-45ed-8111-980151da80b2\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "В лучших традициях мэдкидов, кайангелов, фортун812 и прочих.\nНу допустим, для отбора пойдет.\nДальше будет сложно",
+        "scoredAt": "2026-10-13T13:21:06.354Z",
+        "userId": "696c420f-ace0-45ed-8111-980151da80b2"
+      }
+    },
+    {
+      "id": "b65bd46943edf563b30fbbc612b0e88235e519cd6a707ce549c2883209efc975",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:33:23.916Z",
+      "key": "[\"5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:33:23.916Z",
+        "userId": "5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f"
+      }
+    },
+    {
+      "id": "301bb3af65a8f8dde31e8934d4fe2593ae19b2e7168b643ebc29c86944193741",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:12:48.208Z",
+      "key": "[\"6340895b-cca6-4355-ada7-bf296f74551d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:12:48.208Z",
+        "userId": "6340895b-cca6-4355-ada7-bf296f74551d"
+      }
+    },
+    {
+      "id": "9630e3bc8fdc771e879f2a41447b50f79eb90b52bc65fb155c202f0e3b3a914f",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:29:45.674Z",
+      "key": "[\"c13ac718-5608-4ffb-a1f9-88740f176414\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "блин дикция куда-то вышла в этом треке. .мб надо было попить водички перед записью ? как-то сыровато, будто демка на сухую",
+        "scoredAt": "2026-10-13T14:29:45.674Z",
+        "userId": "c13ac718-5608-4ffb-a1f9-88740f176414"
+      }
+    },
+    {
+      "id": "17bd268e1078a6283294a6d40034ec15b8bb7cf4775d562e38a49a1099e63006",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:13:53.303Z",
+      "key": "[\"46a064a8-cdaf-4443-85e1-aa5286e6c302\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Очень неровный трэк: есть пиздатые интонаций, а есть абсолютно сливные. Есть выцедить твои успешные находки нот и акцентов, то можно было бы сделать бомбовый трэк. Авансирую четвёркой, чтобы дать шанс тебе это сделать во втором. Не подведи.",
+        "scoredAt": "2026-10-13T13:13:53.303Z",
+        "userId": "46a064a8-cdaf-4443-85e1-aa5286e6c302"
+      }
+    },
+    {
+      "id": "f85b70ba14d43ee5a97d56e00ef6f74c74ec423a3b83d7f53ed6dda91ea409bb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:07:46.567Z",
+      "key": "[\"b6a4869c-10fd-4391-9253-0a42d2585b2f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:07:46.567Z",
+        "userId": "b6a4869c-10fd-4391-9253-0a42d2585b2f"
+      }
+    },
+    {
+      "id": "b9b849b18bbcf06f0daea940986e8b77645dfb0e63220d56d38483041209b39c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:56:52.602Z",
+      "key": "[\"1452df89-8265-479e-903a-933243932f8c\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Очень похоже на молодого Лок-Дога. Качает. ",
+        "scoredAt": "2026-10-13T13:56:52.602Z",
+        "userId": "1452df89-8265-479e-903a-933243932f8c"
+      }
+    },
+    {
+      "id": "264944a0d6ab2c4c01a3714d90f361e0afb43915857f1eb4fff2e9a65aae9f32",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:53:36.013Z",
+      "key": "[\"bf30f6dc-6204-4333-8275-7ce78b29dcd1\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "норм зачитал, есть пара клёвых пэнчиков, про бонов - чёт не особо зашёл, вротплей с напалмом заезженный, НО ДЛЯ ОТБОРОВ сойдёт! умеешь , могёшь! дал бы разнообразия в исоплнении можно блыо бы пятёрку поставить кмк",
+        "scoredAt": "2026-10-13T13:53:36.013Z",
+        "userId": "bf30f6dc-6204-4333-8275-7ce78b29dcd1"
+      }
+    },
+    {
+      "id": "705cb970e3c395454ee503785fbd751dd3232b8eb6a923d8b300ad17aaf781f8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:21:08.889Z",
+      "key": "[\"3a0a204f-4833-4587-8037-3b69e204661c\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Спасибо за участие. ",
+        "scoredAt": "2026-10-13T14:21:08.889Z",
+        "userId": "3a0a204f-4833-4587-8037-3b69e204661c"
+      }
+    },
+    {
+      "id": "e2cd9d7cdf4dce796eb799bd45fc33d9456a7e4f012cd249a2252c2248adfce6",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:34:38.583Z",
+      "key": "[\"0ef9659c-c050-4da1-83cd-222b7041a2f4\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Показала хороший потенциал, но слабо реализованный трек, погрешности по ритмике, слабые рифмы, технически очень сырой трек. Удачи в творчестве",
+        "scoredAt": "2026-10-13T13:34:38.583Z",
+        "userId": "0ef9659c-c050-4da1-83cd-222b7041a2f4"
+      }
+    },
+    {
+      "id": "2d350488277ea2d571dc2afdfce92a98ab8f5ac801ece27e6064082a147a95b7",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:16:39.192Z",
+      "key": "[\"0ef9659c-c050-4da1-83cd-222b7041a2f4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:16:39.192Z",
+        "userId": "0ef9659c-c050-4da1-83cd-222b7041a2f4"
+      }
+    },
+    {
+      "id": "f878cb45c5055c6a040b80ef1ffb67cd86c7f4b7dba27eb7d6984b87eaf3c5db",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:13:16.904Z",
+      "key": "[\"987f1891-f672-471f-9e0c-5f49157e828b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:13:16.904Z",
+        "userId": "987f1891-f672-471f-9e0c-5f49157e828b"
+      }
+    },
+    {
+      "id": "d46540bedd1f83009709c2f71e072213dd9b758745aaa252ecc960de6ef2e20b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:02:09.327Z",
+      "key": "[\"667fa680-5a47-42bc-80a3-e1a25fc5f181\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Какой-то хромающий олдскул: грув не выверенный, постоянные затяжки и паузы сбивают ритм. Качество записи низкое. Содержание сумбурное.",
+        "scoredAt": "2026-10-13T13:02:09.327Z",
+        "userId": "667fa680-5a47-42bc-80a3-e1a25fc5f181"
+      }
+    },
+    {
+      "id": "eb8a6f179da3b5daca53d6c94a3e479af530b593d793fabd5eadd0fd87fc59d9",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:45:16.381Z",
+      "key": "[\"65e6b4c0-f1e3-4832-98e6-ad9db9ba426d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Квадратная ритмика очень все портит(",
+        "scoredAt": "2026-10-13T13:45:16.381Z",
+        "userId": "65e6b4c0-f1e3-4832-98e6-ad9db9ba426d"
+      }
+    },
+    {
+      "id": "f8747e7fbd8d973ec14624a8de79679783c0d0850ad53155ae805f0af510c472",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:23:26.425Z",
+      "key": "[\"db7f88bd-1546-40ae-ad36-73e006ce3ba7\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Отлично!",
+        "scoredAt": "2026-10-13T13:23:26.425Z",
+        "userId": "db7f88bd-1546-40ae-ad36-73e006ce3ba7"
+      }
+    },
+    {
+      "id": "4daea5d4d36ee26fd24fc6498e60196be0fa555be45c783011af5ae83f2329e7",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:30:17.356Z",
+      "key": "[\"275667e0-5707-4232-b3a3-57a162edde20\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 5,
+        "comment": "Достаточно смешной текст, отлично сочетается с голосом и битом.",
+        "scoredAt": "2026-10-13T11:30:17.356Z",
+        "userId": "275667e0-5707-4232-b3a3-57a162edde20"
+      }
+    },
+    {
+      "id": "992eca883ee010e416b03dbdcc3a6ae3d9a3dacdc3cd3040a41f00d684edbd82",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:55:25.016Z",
+      "key": "[\"35cdc6d7-fc02-4878-9291-20b6c2a492dd\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:55:25.016Z",
+        "userId": "35cdc6d7-fc02-4878-9291-20b6c2a492dd"
+      }
+    },
+    {
+      "id": "3606a900d2abc2a39132987c6c92ac27ff96113c3e670121e38fc259b10fd232",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:06:11.802Z",
+      "key": "[\"dd0598ce-6c0b-4a85-9c6c-f90d6ecf6653\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Хорошая, крепкая работа - добро пожаловать во второй раунд. ",
+        "scoredAt": "2026-10-13T14:06:11.802Z",
+        "userId": "dd0598ce-6c0b-4a85-9c6c-f90d6ecf6653"
+      }
+    },
+    {
+      "id": "d753ea2d2cbd6780ee574e81dc0cf12c172cf24ec20dad9f3b43d9308b1c5a49",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:41:22.158Z",
+      "key": "[\"30c3f6e4-d4ea-4d7e-ad89-acb64f273171\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:41:22.158Z",
+        "userId": "30c3f6e4-d4ea-4d7e-ad89-acb64f273171"
+      }
+    },
+    {
+      "id": "f9dee6705323fcb479575e515d07bf8a8647f17db67d049a7145142ad86c9b9d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:58:01.172Z",
+      "key": "[\"66bab749-f2c8-4f8e-a59d-0a66ce2e54a6\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Средний уровень, под такой мясно бит звучит скучновато твой флеу. ",
+        "scoredAt": "2026-10-13T13:58:01.172Z",
+        "userId": "66bab749-f2c8-4f8e-a59d-0a66ce2e54a6"
+      }
+    },
+    {
+      "id": "ca498bfe4f2aeccf0c9f5b343e9d5a1c89297909b3965e67097b83367a139bda",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:19:57.006Z",
+      "key": "[\"4bb208cd-e5ad-4f69-90c9-08ea2bc060ed\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "как будто бы ты бит немного не понял, либо поленился подредачить под ударки в начале, и местами чуть дальше по слогам некоторые моменты режут уши, НО\nдавай я пока закрою глаза на это, потому что чувствуется что умеешь МОГЁШЬ.\nпока что авансовая 4",
+        "scoredAt": "2026-10-13T14:19:57.006Z",
+        "userId": "4bb208cd-e5ad-4f69-90c9-08ea2bc060ed"
+      }
+    },
+    {
+      "id": "a4c3a3e9c44dee015760cc59d22a59576595465a68a0c422a168bb3ad15080ab",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:53:08.547Z",
+      "key": "[\"c565d23a-6d9b-4049-bf89-c25231d1e1de\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Очень слабые рифмы. Читка будто по слогам. Из положительного – эмоциональность. Слышно, что душа у тебя мятущаяся: и рикошетит, и рвёт с корнем.",
+        "scoredAt": "2026-10-13T12:53:08.547Z",
+        "userId": "c565d23a-6d9b-4049-bf89-c25231d1e1de"
+      }
+    },
+    {
+      "id": "0e5ce7c0ce899d2334ca03415dff6d07d1e49a187b36660cc8822355cf41d51c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:24:08.081Z",
+      "key": "[\"af521ce5-1d84-42ae-88ec-cc8b1292a643\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:24:08.081Z",
+        "userId": "af521ce5-1d84-42ae-88ec-cc8b1292a643"
+      }
+    },
+    {
+      "id": "c66f755047f46fac3c17b7e30970a57dd30401edc3b14d0b396d10f34324950f",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:38:38.594Z",
+      "key": "[\"a4216c71-0884-470e-a589-b509b9fa09dc\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Меня раскачало. Хорош. Добротный трекан.",
+        "scoredAt": "2026-10-13T13:38:38.594Z",
+        "userId": "a4216c71-0884-470e-a589-b509b9fa09dc"
+      }
+    },
+    {
+      "id": "2b8b6145f978df2ae671bd7a869cb50a339c1bf0e0ab85fd98247bfdd0add090",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:54:26.508Z",
+      "key": "[\"e5b7452a-94b6-4eb5-9f6a-04ae341407a4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:54:26.508Z",
+        "userId": "e5b7452a-94b6-4eb5-9f6a-04ae341407a4"
+      }
+    },
+    {
+      "id": "1dc512578c6118e3a33db5be94000cace9defc8e94d90d05ca88827149230cd8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:17:40.270Z",
+      "key": "[\"ac689412-d0ef-46a2-8fa7-03384d2f22cd\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Между 2 и 3.\nКачество сведения ужасное.\nДумаю, можешь улчше в разы.",
+        "scoredAt": "2026-10-13T13:17:40.270Z",
+        "userId": "ac689412-d0ef-46a2-8fa7-03384d2f22cd"
+      }
+    },
+    {
+      "id": "a25f55568a767d426650f591b392148689e1dcc9ba37bbab1e40885b9ef5a67e",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:55:34.212Z",
+      "key": "[\"5af168cf-b3df-4f03-b219-69bb2035b264\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Очень однообразно. Каждая строчка построена одинаково. Рифмы не ахти какие. Раскрытия как такового нет, кроме упоминания темы.",
+        "scoredAt": "2026-10-13T12:55:34.212Z",
+        "userId": "5af168cf-b3df-4f03-b219-69bb2035b264"
+      }
+    },
+    {
+      "id": "56790bc9ccab796945f804351e6b0ad759d2db5d61d1f6f99807d455d2bde280",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:16:01.786Z",
+      "key": "[\"75398ab3-e8f2-4de7-8f42-7f9e524783e8\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошая ирония.",
+        "scoredAt": "2026-10-13T13:16:01.786Z",
+        "userId": "75398ab3-e8f2-4de7-8f42-7f9e524783e8"
+      }
+    },
+    {
+      "id": "83f9eed93d5577aeef62af8a59d573da0a5c2e89bd3f3192fddb4632a7608b79",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:27:50.313Z",
+      "key": "[\"530a0f15-3e5e-4a37-9834-489ac32df848\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Никогда не слышал твой рэп, нихуево стелишь, не хочешь в командный турнир 2 на 2 залететь, мне кажется может получится...",
+        "scoredAt": "2026-10-13T14:27:50.313Z",
+        "userId": "530a0f15-3e5e-4a37-9834-489ac32df848"
+      }
+    },
+    {
+      "id": "082bd43c55c7fc7552fb03d2d100d661565587cda1852422ffa72377de9ea580",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:38:07.978Z",
+      "key": "[\"cd31e6f6-6bb3-4765-b26f-12d10b5723da\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Ну «покакал ты на совесть». Как прикол может быть, но не для прохода дальше, не для меня.",
+        "scoredAt": "2026-10-13T11:38:07.978Z",
+        "userId": "cd31e6f6-6bb3-4765-b26f-12d10b5723da"
+      }
+    },
+    {
+      "id": "b7a562fe898af88a98c77942981a4716de76f4a1bc23a03e2a40e1c878768295",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:58:39.323Z",
+      "key": "[\"0b67b0ea-3570-4be7-912a-7646f1d6ced4\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Подача топ, очень нравится. Голосом владеешь хорошо. Но содержание пустое и блеклое получилось. Цитировать-то что?) Общие слова, водичка. Могу предположить, что тема  второго раунда тебя больше вдохновит, поэтому от меня - проходной балл",
+        "scoredAt": "2026-10-13T11:58:39.323Z",
+        "userId": "0b67b0ea-3570-4be7-912a-7646f1d6ced4"
+      }
+    },
+    {
+      "id": "bf1c2ca6b6c87fe5482ad74f223b77257483e84056bae59753d3098cd3e5a926",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:26:15.220Z",
+      "key": "[\"bc36d47f-908a-423b-ac54-0aa16a06897e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:26:15.220Z",
+        "userId": "bc36d47f-908a-423b-ac54-0aa16a06897e"
+      }
+    },
+    {
+      "id": "f9e9d1a7a29793a1853bc5f206a68d2fc07c98a651253bead857bb530f62ef53",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:20:44.557Z",
+      "key": "[\"c79c8849-0e4a-4c75-9f93-c771233cd3cd\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:20:44.557Z",
+        "userId": "c79c8849-0e4a-4c75-9f93-c771233cd3cd"
+      }
+    },
+    {
+      "id": "1264f91f36059c04b74be70e9cf0249aeac05c116816bf5906afd267810b79ac",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:05:15.148Z",
+      "key": "[\"9d2a94a0-1e4d-4a95-a7b0-24e8be9fb88c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:05:15.148Z",
+        "userId": "9d2a94a0-1e4d-4a95-a7b0-24e8be9fb88c"
+      }
+    },
+    {
+      "id": "8e4819b0f98d18d78dd0dea4ff261e2ee23c5e57e624200c1581d26a1adf12d4",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:01:17.769Z",
+      "key": "[\"5d281318-b784-48d4-9ac7-3bb3e8115d29\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T12:01:17.769Z",
+        "userId": "5d281318-b784-48d4-9ac7-3bb3e8115d29"
+      }
+    },
+    {
+      "id": "a108a274fd834c97d22130a400ca3bbec3ff75b46d6f16053eecb85cdf89a8ca",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:56:27.111Z",
+      "key": "[\"b0d0f269-486b-4748-b2db-951ad2d5776a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:56:27.111Z",
+        "userId": "b0d0f269-486b-4748-b2db-951ad2d5776a"
+      }
+    },
+    {
+      "id": "63051dd52d84181c13f343c9a55b6f6b469bebd156310e06d425e0ed4b6d8b6b",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:10:58.098Z",
+      "key": "[\"fc52aeb7-4a1e-43ae-a16e-d5e8563b576a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:10:58.098Z",
+        "userId": "fc52aeb7-4a1e-43ae-a16e-d5e8563b576a"
+      }
+    },
+    {
+      "id": "15e8be8f8de4d25286183f3a25b6a27fa994862e19ed1b2fc82d27f76471aec8",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:23:00.975Z",
+      "key": "[\"5573adeb-20b6-4ae8-bd31-59d2fa82bc3e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Стилево",
+        "scoredAt": "2026-10-13T13:23:00.975Z",
+        "userId": "5573adeb-20b6-4ae8-bd31-59d2fa82bc3e"
+      }
+    },
+    {
+      "id": "fe421d34b39fbc550efbb583ea62fc5b6cd5575c07ea04db50c939ea731be09a",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:10:17.191Z",
+      "key": "[\"1b73e0fc-5a51-428f-ae5e-9b5d0f774da2\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Салютики новой школы.  Но на глагольчики рифмовать завязывай. ",
+        "scoredAt": "2026-10-13T14:10:17.191Z",
+        "userId": "1b73e0fc-5a51-428f-ae5e-9b5d0f774da2"
+      }
+    },
+    {
+      "id": "e7cda4d0ef24fb47748f9589880c23117722bd0811b81da37120a110b305ad36",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:33:37.743Z",
+      "key": "[\"6069827b-6c6e-4f6e-ba9f-366d88e5faa1\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:33:37.743Z",
+        "userId": "6069827b-6c6e-4f6e-ba9f-366d88e5faa1"
+      }
+    },
+    {
+      "id": "f86d9b0ac07f3ed07f953545d55c8ef0f185652d3701e3e88a7c991b929b161a",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:46:00.948Z",
+      "key": "[\"91859b2c-245b-43e9-83ca-66108a17032d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Оффбиты, братан.",
+        "scoredAt": "2026-10-13T13:46:00.948Z",
+        "userId": "91859b2c-245b-43e9-83ca-66108a17032d"
+      }
+    },
+    {
+      "id": "89f8a8edadd31cd9ae0fa89849423949744a3ddf682148eea9a9c73fbb4915a6",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:25:06.088Z",
+      "key": "[\"49b33d0c-125a-46ba-bf27-22eb35dfe5f3\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Нууу это очень просто реализовано для такого свага текста",
+        "scoredAt": "2026-10-13T13:25:06.088Z",
+        "userId": "49b33d0c-125a-46ba-bf27-22eb35dfe5f3"
+      }
+    },
+    {
+      "id": "d021ac5ddb687e8535c1ab3e4917eab6d5ad3ddbfd38c732fbd8ce721f9b531c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:31:09.856Z",
+      "key": "[\"54863aa9-c37a-46a8-bc5c-5dd429eb383a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T14:31:09.856Z",
+        "userId": "54863aa9-c37a-46a8-bc5c-5dd429eb383a"
+      }
+    },
+    {
+      "id": "f68af20e5760d27a6c7c628c2ad4130ab2d01ffed58e662e8254fc09358a4465",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T14:15:54.363Z",
+      "key": "[\"132635ba-27d1-4848-8493-38d11983aa74\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "оч клёво залетел в первой строчке, но дальше как-то однообразно вышло и по рифме и по флоу, из строчек только последнюю можно выделить как пэнчик (но он бы был гораздо сильнее более оправданы, если бы весь текст был токсичным, а там просто текст).\nдавай 4 авансом, потанцевал чувствуется, покажи свои токсичные строки во 2 раунде",
+        "scoredAt": "2026-10-13T14:15:54.363Z",
+        "userId": "132635ba-27d1-4848-8493-38d11983aa74"
+      }
+    },
+    {
+      "id": "d99cbe3059eb2710ca393f98ba6b08cd71506a60b51356073f36ee314c23220c",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:11:18.662Z",
+      "key": "[\"40a04d48-279f-4599-8ef7-f4df316d847a\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Кинул туда песню тупо, сэмплы, сами слазили (с) Для этого трека есть одно определение - МИЛОТА) По мне это проход, хип хап воин! ",
+        "scoredAt": "2026-10-13T12:11:18.662Z",
+        "userId": "40a04d48-279f-4599-8ef7-f4df316d847a"
+      }
+    },
+    {
+      "id": "497adaa85ac80f11120a22a0e4268dce4813de1634908d8337207fbee00cf98d",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:33:28.895Z",
+      "key": "[\"a26164a5-0e4c-46e2-9bac-034050251366\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:33:28.895Z",
+        "userId": "a26164a5-0e4c-46e2-9bac-034050251366"
+      }
+    },
+    {
+      "id": "119aa33c24d9edb0b79772ecbbe98499a7e929972f7c0020e91fb0f0487c5840",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:22:37.077Z",
+      "key": "[\"da980a9b-cfee-4bc6-be2c-e0d61adb61f5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Пока слабенько, а именно не хватает эмоций, подачи и ритмической плотности. Но потенцйиал есть!",
+        "scoredAt": "2026-10-13T13:22:37.077Z",
+        "userId": "da980a9b-cfee-4bc6-be2c-e0d61adb61f5"
+      }
+    },
+    {
+      "id": "48502a0aa6d833f88f454ef35652f3f074526f73c1c42c574184752face7dafe",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:04:59.142Z",
+      "key": "[\"d5c47171-c21d-4e7c-bfe5-ce4ed3869ea5\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Восьмой стрим.",
+        "scoredAt": "2026-10-13T13:04:59.142Z",
+        "userId": "d5c47171-c21d-4e7c-bfe5-ce4ed3869ea5"
+      }
+    },
+    {
+      "id": "da365501e6fd3715df3b36634c55fb74b922e7d30bd86e427ea5a2d579ee2bd9",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:30:53.600Z",
+      "key": "[\"307b19d8-e731-4d66-b240-cd555e52e324\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Ой, какая каша, беки портят все, сведение вообще ужас... ",
+        "scoredAt": "2026-10-13T13:30:53.600Z",
+        "userId": "307b19d8-e731-4d66-b240-cd555e52e324"
+      }
+    },
+    {
+      "id": "c6d33a59dc2047be929cb472cd05c5281e167f173f2b20b888cc757f5d6d2623",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:24:18.668Z",
+      "key": "[\"d01d33f1-6f5c-465f-acd5-4eaf04154754\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Конь, попкорн, прикол, богатый фараон",
+        "scoredAt": "2026-10-13T13:24:18.668Z",
+        "userId": "d01d33f1-6f5c-465f-acd5-4eaf04154754"
+      }
+    },
+    {
+      "id": "b53c94053bb40fc3670eef1cb326c8a42f6ff2a39d0ba69995ca5dda87d558eb",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:03:04.728Z",
+      "key": "[\"18a4fe35-c09e-4e09-b09a-9e63ec50aea6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:03:04.728Z",
+        "userId": "18a4fe35-c09e-4e09-b09a-9e63ec50aea6"
+      }
+    },
+    {
+      "id": "51c59d1e740af102d65c9c8552ebf1e6e4feacb813bd79767adaab1d5cc9c697",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:49:12.994Z",
+      "key": "[\"4ceee73e-9a34-4261-87c8-1da5fbcd282f\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Забавно",
+        "scoredAt": "2026-10-13T13:49:12.994Z",
+        "userId": "4ceee73e-9a34-4261-87c8-1da5fbcd282f"
+      }
+    },
+    {
+      "id": "e16072f2e42074658574e122f91495f0b4882e49dddf1809c45f7f2f37b12439",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T11:59:24.705Z",
+      "key": "[\"b1c0d35b-5601-4d7e-a150-a1f2fc6b44c9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T11:59:24.705Z",
+        "userId": "b1c0d35b-5601-4d7e-a150-a1f2fc6b44c9"
+      }
+    },
+    {
+      "id": "fb3bee176215bf34c4348804453805a26e0b93b46d64bc8f54b78593ca7f2003",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T12:18:17.805Z",
+      "key": "[\"1fbb47f0-4dc9-4232-a990-0edb3bebc22d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T12:18:17.805Z",
+        "userId": "1fbb47f0-4dc9-4232-a990-0edb3bebc22d"
+      }
+    },
+    {
+      "id": "b6bf2c5442f72b1344dd8125c6fbc4124dc02d7ee5735371edec0b84e6960461",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T13:39:56.553Z",
+      "key": "[\"811c7f4e-611f-48f6-82e8-4b4202a66739\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Подтяни сведение и будет счастье! \nХороший трек.",
+        "scoredAt": "2026-10-13T13:39:56.553Z",
+        "userId": "811c7f4e-611f-48f6-82e8-4b4202a66739"
+      }
+    },
+    {
+      "id": "5acf6eb11fb66a7c4860b1efc4942de725b2bc89c5762396e5bd69d5db550b52",
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "sourceScoredAt": "2026-10-13T10:52:21.202Z",
+      "key": "[\"08e38233-5f81-4aab-b527-1f13b76c4af3\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+        "scoredAt": "2026-10-13T10:52:21.202Z",
+        "userId": "08e38233-5f81-4aab-b527-1f13b76c4af3"
+      }
     }
   ],
   "snapshots": [
@@ -69516,6 +72134,26 @@
           "favor": 18.460794275794907,
           "attention": -2.914568626978582,
           "respect": 11.416666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-13T14:37:35.474Z",
+      "exportedAt": "2026-10-13T14:37:35.474Z",
+      "scores": 8150,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.501480616822306,
+          "favor": 10.353559224715008,
+          "attention": 5.821532503218409,
+          "respect": 7.326388888888889
+        },
+        "veterans": {
+          "index": 27.363285251789996,
+          "favor": 18.70433243783207,
+          "attention": -2.873305250558203,
+          "respect": 11.53225806451613
         }
       }
     }
