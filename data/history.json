@@ -83864,6 +83864,328 @@
         "scoredAt": "2026-10-14T16:41:39.268Z",
         "userId": "0c4e9771-bda9-43b6-b794-7de9ced135c4"
       }
+    },
+    {
+      "id": "d9f913a775d54640923d48a198e9f2bc403494537a3ff03e4ec633203a539438",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:50:55.030Z",
+      "key": "[\"d8084854-7d66-4ac9-a497-59919b39aefd\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "СТРИМ....",
+        "scoredAt": "2026-10-14T16:50:55.030Z",
+        "userId": "d8084854-7d66-4ac9-a497-59919b39aefd"
+      }
+    },
+    {
+      "id": "86561c7346efb266a04643f090af02f41299523ed9966894fa319f094e3d415c",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:46:00.698Z",
+      "key": "[\"db47f330-6e40-4e20-bdf0-e040dbc6dfc2\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "ой, водыыы налил, но ок.",
+        "scoredAt": "2026-10-14T16:46:00.698Z",
+        "userId": "db47f330-6e40-4e20-bdf0-e040dbc6dfc2"
+      }
+    },
+    {
+      "id": "26657edfb891df918c1f40fc2de0843f3244158e218681cdb7cdcde1680ded03",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:48:59.759Z",
+      "key": "[\"0aad7d86-6ba0-4793-9350-26a1bdccd68e\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "брад оч слабо нарифмовал. подал обычно.",
+        "scoredAt": "2026-10-14T16:48:59.759Z",
+        "userId": "0aad7d86-6ba0-4793-9350-26a1bdccd68e"
+      }
+    },
+    {
+      "id": "9cbe1e203835fa84cad4c7ed6d1362cb046cc14d70c23eed021d1e0b6fd2ac15",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:47:48.777Z",
+      "key": "[\"46b0006f-be87-4411-861c-b7ef57a82c3d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Харизматично, стильно, разнообразно. Предираться не хочу, ибо ОВ здоровское.",
+        "scoredAt": "2026-10-14T16:47:48.777Z",
+        "userId": "46b0006f-be87-4411-861c-b7ef57a82c3d"
+      }
+    },
+    {
+      "id": "4cdc327d7f7cfead614cbfc2aae902d522518f102a2f5c573cb1e6525611c340",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:47:00.278Z",
+      "key": "[\"fad282c3-8e1c-449e-a035-25559b880058\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Начал за здравие, концовка прям плохо. Идея текста хорошо.",
+        "scoredAt": "2026-10-14T16:47:00.278Z",
+        "userId": "fad282c3-8e1c-449e-a035-25559b880058"
+      }
+    },
+    {
+      "id": "daad55c1d487912cc7a63ddb4e7db6b65df4e7ac87d16a87bb034ddb1dd72f22",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:43:45.306Z",
+      "key": "[\"8661e0a9-6a4c-4733-825d-0f08e3b53fa5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Вот вроде и простенько, но этот трек могу назвать полноценной композицией. Хорошо, интеренсо.",
+        "scoredAt": "2026-10-14T16:43:45.306Z",
+        "userId": "8661e0a9-6a4c-4733-825d-0f08e3b53fa5"
+      }
+    },
+    {
+      "id": "ba8f9d187713dd543a909fbb3a6e5fd77f72189e7a9448e6beee16cada38d4b7",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:44:33.874Z",
+      "key": "[\"efa254a2-623f-4850-81f7-b193a948330c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошее раскрытие. Норм строки. Здорово.",
+        "scoredAt": "2026-10-14T16:44:33.874Z",
+        "userId": "efa254a2-623f-4850-81f7-b193a948330c"
+      }
+    },
+    {
+      "id": "559517066d2c9d42bbd3b44f5560a0702579cd171c9723a7ef49c754b70fdcad",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:47:34.235Z",
+      "key": "[\"eec5b342-4d09-4275-b341-b75711cdf966\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:47:34.235Z",
+        "userId": "eec5b342-4d09-4275-b341-b75711cdf966"
+      }
+    },
+    {
+      "id": "f39ebbeb73a6e0b45e325d7a9cfb74994983650271d578d4782fe3c3a555105b",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:45:59.248Z",
+      "key": "[\"3cc686ef-5ba9-4b23-95bf-eae26f13a543\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:45:59.248Z",
+        "userId": "3cc686ef-5ba9-4b23-95bf-eae26f13a543"
+      }
+    },
+    {
+      "id": "fb74c200e2ad8e3d4284f6675286903e229b12987c5cca5f000f31f1efc09fe4",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:52:15.186Z",
+      "key": "[\"2d258866-7725-4237-be7b-714e7339e9b3\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 1,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:52:15.186Z",
+        "userId": "2d258866-7725-4237-be7b-714e7339e9b3"
+      }
+    },
+    {
+      "id": "3a30b754c4431c7a80be747235fcab0eb2e633e6f892fbf6f71c3bc4d752cd9e",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:46:46.497Z",
+      "key": "[\"f6960fad-fe4c-4ed3-83dc-31d89dbc30d9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "еб@ть на@уй как-то сумбурно . но в целом по тексту и по читке если вслушаться то нормасно, просто звук долбит в жопу через уши. давай 4 с минусом. но в следующем раунде пощади ушки",
+        "scoredAt": "2026-10-14T16:46:46.497Z",
+        "userId": "f6960fad-fe4c-4ed3-83dc-31d89dbc30d9"
+      }
+    },
+    {
+      "id": "b53ad82ee18d465da761ec796497c88ddfafaa58f243bb7c01b0095b2adea80f",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:48:36.520Z",
+      "key": "[\"e9910b21-0c11-4054-a7a0-5cf57bbd65f0\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 1,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:48:36.520Z",
+        "userId": "e9910b21-0c11-4054-a7a0-5cf57bbd65f0"
+      }
+    },
+    {
+      "id": "97d062fabe82d59505a9b8a9962d5ffa3115f5a6c776132fd44a3a586d4452d4",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:42:28.735Z",
+      "key": "[\"ecfb3000-a3ca-420b-96df-c186cdfa03cf\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:42:28.735Z",
+        "userId": "ecfb3000-a3ca-420b-96df-c186cdfa03cf"
+      }
+    },
+    {
+      "id": "c87df7b8bc234f0b48a74c55cc0053b5329b5372d38d8ece1c91079ffc196391",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:50:59.606Z",
+      "key": "[\"41d9c649-2b5a-4e63-a4a7-a50c9d03a7be\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:50:59.606Z",
+        "userId": "41d9c649-2b5a-4e63-a4a7-a50c9d03a7be"
+      }
+    },
+    {
+      "id": "124bc76a4f644ad258e81ac02f68660bcfd55e3f32621f76dc1a9b03daa239e9",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:46:04.864Z",
+      "key": "[\"c3a5d3fb-dd3d-4b7e-a2f5-0f472b546c1e\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 5,
+        "comment": "СТРИМ.",
+        "scoredAt": "2026-10-14T16:46:04.864Z",
+        "userId": "c3a5d3fb-dd3d-4b7e-a2f5-0f472b546c1e"
+      }
+    },
+    {
+      "id": "c48bf6c725ff293b87b8b9ade756293e9314f41cd0e36c0c50bba59f8ac14ace",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:45:05.842Z",
+      "key": "[\"fa65611f-d68f-44eb-9c8e-400b9f1703c3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Ничего непонятно без текста, но звучит нормуль, точнее раскачивает.",
+        "scoredAt": "2026-10-14T16:45:05.842Z",
+        "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3"
+      }
+    },
+    {
+      "id": "e4b434c5ff16f1be5e7334de80e3136486e3bc1ec9d00310088e102ec546ea3c",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:49:55.804Z",
+      "key": "[\"3b8d2566-cca5-404d-ab46-7d1a4a9b9f41\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Улыбался, слушая трек. Нравицццццааааа!!!!\nИдем обниму!\nЕсть какая-то харизма, неординарность и искренность. \nЯ верю!",
+        "scoredAt": "2026-10-14T16:49:55.804Z",
+        "userId": "3b8d2566-cca5-404d-ab46-7d1a4a9b9f41"
+      }
+    },
+    {
+      "id": "6c0e597057e382f86c21b80f32589b31742bdfb12a147d3b78f13267a53abcdd",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:43:00.134Z",
+      "key": "[\"e93e1f25-f2a8-41c7-8f4c-cb5b43541898\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Сердито. Но ритмика скучная.",
+        "scoredAt": "2026-10-14T16:43:00.134Z",
+        "userId": "e93e1f25-f2a8-41c7-8f4c-cb5b43541898"
+      }
+    },
+    {
+      "id": "d0c5053e0d8cb2ca96ca52e4db31acadda7c805594fd475b3a0ab670e7ec06e1",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:50:36.405Z",
+      "key": "[\"d2274e81-8aae-4b79-81a8-9a2f70be9889\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Типичный такой рэпак.",
+        "scoredAt": "2026-10-14T16:50:36.405Z",
+        "userId": "d2274e81-8aae-4b79-81a8-9a2f70be9889"
+      }
+    },
+    {
+      "id": "cf0c8d833359104b52bc6fe4917d0f4846a1ad2e611fce2496d77410ef8d27cf",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:42:17.659Z",
+      "key": "[\"62a9ba74-c9a5-42be-9ff1-44ea49a52cf9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Жду историю про гонки!",
+        "scoredAt": "2026-10-14T16:42:17.659Z",
+        "userId": "62a9ba74-c9a5-42be-9ff1-44ea49a52cf9"
+      }
+    },
+    {
+      "id": "2b8575fae47499f1860713921345faab8b113292f9a288833d41c98ae891677b",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:52:01.464Z",
+      "key": "[\"882e4121-720a-4b1e-9f9e-00d8e9e93708\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "\"Я мастер: занозы — в панчи, боль — в острые шутки.\" - будто строчечку надо было подправить, звучит кривовато, и ещё есть такие моментики дальше. в принципе приятно звучишь с битом. Образы прикольные есть. концовка очень приятная!\nдавай 4 с минусом, а не 3 с плюсом. . ",
+        "scoredAt": "2026-10-14T16:52:01.464Z",
+        "userId": "882e4121-720a-4b1e-9f9e-00d8e9e93708"
+      }
+    },
+    {
+      "id": "6345ee465565e4200b6a5e61dcdb9cde76d6a69792d589244b1e1cc904dbc95e",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:44:13.114Z",
+      "key": "[\"5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T16:44:13.114Z",
+        "userId": "5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed"
+      }
+    },
+    {
+      "id": "14cfde48129f077ae56db9a428a4456e6f90eddd739d5ec82a12d503137a1ee2",
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "sourceScoredAt": "2026-10-14T16:44:10.841Z",
+      "key": "[\"8e3fc1ea-7fe0-4e70-9c89-78170f355b40\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "вот такая жизнь, действительно - а что по теме ?!",
+        "scoredAt": "2026-10-14T16:44:10.841Z",
+        "userId": "8e3fc1ea-7fe0-4e70-9c89-78170f355b40"
+      }
     }
   ],
   "snapshots": [
@@ -84703,6 +85025,26 @@
           "index": 27.79452230035196,
           "favor": 18.665058153119244,
           "attention": -2.3368820066134366,
+          "respect": 11.466346153846153
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T16:52:21.258Z",
+      "exportedAt": "2026-10-14T16:52:21.258Z",
+      "scores": 9016,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.256722393826763,
+          "favor": 9.990211700432504,
+          "attention": 6.1578150412203465,
+          "respect": 7.108695652173913
+        },
+        "veterans": {
+          "index": 27.83726386651468,
+          "favor": 18.665973277171666,
+          "attention": -2.2950555645031407,
           "respect": 11.466346153846153
         }
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T16:42:09.641Z",
+  "exportedAt": "2026-10-14T16:52:21.258Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -46,8 +46,14 @@
     },
     {
       "userId": "d8084854-7d66-4ac9-a497-59919b39aefd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "СТРИМ....",
+          "scoredAt": "2026-10-14T16:50:55.030Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -67,7 +73,7 @@
           "scoredAt": "2026-09-15T15:49:26.194Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -3361,8 +3367,14 @@
     },
     {
       "userId": "db47f330-6e40-4e20-bdf0-e040dbc6dfc2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "ой, водыыы налил, но ок.",
+          "scoredAt": "2026-10-14T16:46:00.698Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -3388,7 +3400,7 @@
           "scoredAt": "2026-08-30T23:55:27.631Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -22059,8 +22071,14 @@
     },
     {
       "userId": "0aad7d86-6ba0-4793-9350-26a1bdccd68e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "брад оч слабо нарифмовал. подал обычно.",
+          "scoredAt": "2026-10-14T16:48:59.759Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -22080,7 +22098,7 @@
           "scoredAt": "2026-08-30T17:38:09.287Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -42104,8 +42122,14 @@
     },
     {
       "userId": "46b0006f-be87-4411-861c-b7ef57a82c3d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Харизматично, стильно, разнообразно. Предираться не хочу, ибо ОВ здоровское.",
+          "scoredAt": "2026-10-14T16:47:48.777Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -42125,7 +42149,7 @@
           "scoredAt": "2026-09-27T13:59:19.166Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -42137,8 +42161,14 @@
     },
     {
       "userId": "fad282c3-8e1c-449e-a035-25559b880058",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Начал за здравие, концовка прям плохо. Идея текста хорошо.",
+          "scoredAt": "2026-10-14T16:47:00.278Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -42158,7 +42188,7 @@
           "scoredAt": "2026-09-23T17:50:28.956Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -44404,9 +44434,16 @@
     },
     {
       "userId": "8661e0a9-6a4c-4733-825d-0f08e3b53fa5",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Вот вроде и простенько, но этот трек могу назвать полноценной композицией. Хорошо, интеренсо.",
+          "scoredAt": "2026-10-14T16:43:45.306Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -50325,8 +50362,14 @@
     },
     {
       "userId": "efa254a2-623f-4850-81f7-b193a948330c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Хорошее раскрытие. Норм строки. Здорово.",
+          "scoredAt": "2026-10-14T16:44:33.874Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 4,
@@ -50346,7 +50389,7 @@
           "scoredAt": "2026-10-05T11:15:28.295Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -55180,8 +55223,14 @@
     },
     {
       "userId": "eec5b342-4d09-4275-b341-b75711cdf966",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:47:34.235Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -55201,7 +55250,7 @@
           "scoredAt": "2026-09-18T19:21:23.910Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -56609,8 +56658,14 @@
     },
     {
       "userId": "3cc686ef-5ba9-4b23-95bf-eae26f13a543",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:45:59.248Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 5,
@@ -56624,7 +56679,7 @@
           "scoredAt": "2026-09-19T05:06:46.245Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -56910,8 +56965,14 @@
     },
     {
       "userId": "2d258866-7725-4237-be7b-714e7339e9b3",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 1,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:52:15.186Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -56919,7 +56980,7 @@
           "scoredAt": "2026-10-14T07:07:21.388Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -58958,8 +59019,14 @@
     },
     {
       "userId": "f6960fad-fe4c-4ed3-83dc-31d89dbc30d9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "еб@ть на@уй как-то сумбурно . но в целом по тексту и по читке если вслушаться то нормасно, просто звук долбит в жопу через уши. давай 4 с минусом. но в следующем раунде пощади ушки",
+          "scoredAt": "2026-10-14T16:46:46.497Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -58973,7 +59040,7 @@
           "scoredAt": "2026-09-28T13:49:19.561Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -60332,8 +60399,14 @@
     },
     {
       "userId": "e9910b21-0c11-4054-a7a0-5cf57bbd65f0",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 1,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:48:36.520Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 2,
@@ -60341,7 +60414,7 @@
           "scoredAt": "2026-10-13T18:39:07.946Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -61093,8 +61166,14 @@
     },
     {
       "userId": "ecfb3000-a3ca-420b-96df-c186cdfa03cf",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:42:28.735Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -61108,7 +61187,7 @@
           "scoredAt": "2026-10-08T16:46:01.602Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -61268,9 +61347,16 @@
     },
     {
       "userId": "41d9c649-2b5a-4e63-a4a7-a50c9d03a7be",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:50:59.606Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -62170,8 +62256,14 @@
     },
     {
       "userId": "c3a5d3fb-dd3d-4b7e-a2f5-0f472b546c1e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 5,
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T16:46:04.864Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
@@ -62191,7 +62283,7 @@
           "scoredAt": "2026-09-06T12:28:28.216Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -66310,9 +66402,16 @@
     },
     {
       "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Ничего непонятно без текста, но звучит нормуль, точнее раскачивает.",
+          "scoredAt": "2026-10-14T16:45:05.842Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -68866,9 +68965,16 @@
     },
     {
       "userId": "3b8d2566-cca5-404d-ab46-7d1a4a9b9f41",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Улыбался, слушая трек. Нравицццццааааа!!!!\nИдем обниму!\nЕсть какая-то харизма, неординарность и искренность. \nЯ верю!",
+          "scoredAt": "2026-10-14T16:49:55.804Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -69010,8 +69116,14 @@
     },
     {
       "userId": "e93e1f25-f2a8-41c7-8f4c-cb5b43541898",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Сердито. Но ритмика скучная.",
+          "scoredAt": "2026-10-14T16:43:00.134Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -69019,7 +69131,7 @@
           "scoredAt": "2026-10-14T07:13:53.937Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -71234,9 +71346,16 @@
     },
     {
       "userId": "d2274e81-8aae-4b79-81a8-9a2f70be9889",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Типичный такой рэпак.",
+          "scoredAt": "2026-10-14T16:50:36.405Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -71890,8 +72009,14 @@
     },
     {
       "userId": "62a9ba74-c9a5-42be-9ff1-44ea49a52cf9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Жду историю про гонки!",
+          "scoredAt": "2026-10-14T16:42:17.659Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -71899,7 +72024,7 @@
           "scoredAt": "2026-10-14T15:13:38.901Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:22:13.673Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -75511,8 +75636,14 @@
     },
     {
       "userId": "882e4121-720a-4b1e-9f9e-00d8e9e93708",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "\"Я мастер: занозы — в панчи, боль — в острые шутки.\" - будто строчечку надо было подправить, звучит кривовато, и ещё есть такие моментики дальше. в принципе приятно звучишь с битом. Образы прикольные есть. концовка очень приятная!\nдавай 4 с минусом, а не 3 с плюсом. . ",
+          "scoredAt": "2026-10-14T16:52:01.464Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -75520,7 +75651,7 @@
           "scoredAt": "2026-10-11T17:54:39.442Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -77851,8 +77982,14 @@
     },
     {
       "userId": "5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T16:44:13.114Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -77860,7 +77997,7 @@
           "scoredAt": "2026-09-25T17:44:29.684Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
@@ -78418,9 +78555,16 @@
     },
     {
       "userId": "8e3fc1ea-7fe0-4e70-9c89-78170f355b40",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "вот такая жизнь, действительно - а что по теме ?!",
+          "scoredAt": "2026-10-14T16:44:10.841Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T16:52:21.258Z",
       "current": true
     },
     {
