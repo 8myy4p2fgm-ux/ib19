@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T17:32:19.389Z",
-  "exportedAt": "2026-10-14T17:32:19.389Z",
-  "runId": "2026-10-14T17:32:19.389Z",
-  "forumExportedAt": "2026-10-14T17:32:19.389Z",
+  "lastSuccessfulAt": "2026-10-14T17:42:32.485Z",
+  "exportedAt": "2026-10-14T17:42:32.485Z",
+  "runId": "2026-10-14T17:42:32.485Z",
+  "forumExportedAt": "2026-10-14T17:42:32.485Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9060,
+    "scores": 9067,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10321,
-    "scoresBefore": 9052,
-    "scoresAfter": 9060,
-    "fullBaselineRequests": 3005,
-    "requestReductionPercent": 99.66722129783693,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9943,
+    "scoresBefore": 9060,
+    "scoresAfter": 9067,
+    "fullBaselineRequests": 3007,
+    "requestReductionPercent": 99.70069837046891,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "влад ноэ́",
+          "comment": "СТРИМ. БРО НЕ ПОНЯЛ ТОКА, КАК ТО ШО ЧЕЛОВЕК ПОЛЬЗУЕТСЯ ДОСТАВКОЙ МОЖЕТ ДИСКРЕДИТИРОВАТЬ ЕГО КАК РЕПЕРА?",
+          "scoredAt": "2026-10-14T17:41:34.279Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Женя Индиго",
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T17:39:32.801Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "Ksandr Bastard",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:37:26.316Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "artist": "Mrmris",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:37:02.787Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "FADA",
+          "comment": "СТРИМ. БЛИН ВАЛИШЬ ТЫ КОНЕЧНО ИНТЕРЕСНО, ЗА ИСКЛЮЧЕНИЕМ ДАБЛТАЙМОВ, НА НИХ ПОДЗАВАФЛИЛА ВНОТУРЬ. И ПО ТЕХТУ ДАЖЕ КОММЕНТАРИИ ДАВАТЬ НЕ СТОИТ, НУЖНО ГОСТРАЙТЕРА................. НО ПРИ ВСЕ ЭТО ТЫ МОЛОДЕЦ!",
+          "scoredAt": "2026-10-14T17:35:31.202Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "вокинъяле",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:34:39.921Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Мх_шЫфер",
+          "comment": "СТРИМ. ОКОЛОРЭБ Я ТЕБЯ УЗНАЛ.",
+          "scoredAt": "2026-10-14T17:33:06.599Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -136,55 +185,6 @@
           "artist": "x2",
           "comment": "Стрим 10",
           "scoredAt": "2026-10-14T17:22:42.164Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 5,
-          "artist": "ZAGORAD",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:21:09.435Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "TuZ_TuZOV",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:20:25.994Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Дамир Камалов",
-          "comment": "СТРИМ.",
-          "scoredAt": "2026-10-14T17:19:20.266Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "zhostik",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:19:08.814Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "MickeyMouse",
-          "comment": "СТРИМ.",
-          "scoredAt": "2026-10-14T17:17:45.901Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Клевер",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:16:46.595Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 2,
-          "artist": "Бутират Каломойский",
-          "comment": "Блин, вообще бит угарный для такой тяжелой стори, но ты сама себя губишь таким решением по звуку.\n\nДа, такое и должно читаться умирающим голосом на бите, чтобы была абсолютно \"мертвая\" атмосфера. Но все же даже так надо было куплеты нарифмовать как-то поплотнее, чтобы это было референсно похоже на треки МБ Пакета. У него есть абсолютно мертвые по подаче вещи, по типу того же Дереализма. Послушай их, делай капы в следующий раз громче и тогда у этого будет пусть очень андеграундная, но нишевая атмосфера, которая может вполне себе попадать в какие-то ЦА (в теории, даже и в меня, например, я такое иногда люблю). А тут прикольно становится дай боже только к строчкам про коммуниста и Сталина.\n\nНо ты прекрасна в своей настоящести, помни про это и не забывай, неси и дальше свою яркую искру в массы и все получится.\n\nСтрим, ч. 15",
-          "scoredAt": "2026-10-14T17:14:34.753Z"
         }
       ]
     }

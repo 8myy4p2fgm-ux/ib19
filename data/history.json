@@ -84802,6 +84802,104 @@
         "scoredAt": "2026-10-14T17:25:44.164Z",
         "userId": "35e70529-7fdd-4722-9ab4-5e4acc4a992c"
       }
+    },
+    {
+      "id": "4f6e60e0851a9772274822efc94d8ab32cf59783ec367771b0e57f9e2cb4967a",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:41:34.279Z",
+      "key": "[\"3ebc79d9-258a-47bd-8fae-d3e49a0d6af5\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "СТРИМ. БРО НЕ ПОНЯЛ ТОКА, КАК ТО ШО ЧЕЛОВЕК ПОЛЬЗУЕТСЯ ДОСТАВКОЙ МОЖЕТ ДИСКРЕДИТИРОВАТЬ ЕГО КАК РЕПЕРА?",
+        "scoredAt": "2026-10-14T17:41:34.279Z",
+        "userId": "3ebc79d9-258a-47bd-8fae-d3e49a0d6af5"
+      }
+    },
+    {
+      "id": "4064136ac765217c765a1168a1381e6239eb9a99853c2fcdb15b7ef4740fab7f",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:37:26.316Z",
+      "key": "[\"91f07bb2-750e-4015-b98a-de68aff2ecc4\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:37:26.316Z",
+        "userId": "91f07bb2-750e-4015-b98a-de68aff2ecc4"
+      }
+    },
+    {
+      "id": "185224cb9f4baf621e75269a2432a4be422a40ac2d3dd8fb2737df2330a42b23",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:39:32.801Z",
+      "key": "[\"5d899be2-93bd-4309-9c83-75b11add6b41\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "СТРИМ.",
+        "scoredAt": "2026-10-14T17:39:32.801Z",
+        "userId": "5d899be2-93bd-4309-9c83-75b11add6b41"
+      }
+    },
+    {
+      "id": "8797648919fdd4fae53101be9e16bcb3638fe88b15460e9646598e37cd7a64be",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:35:31.202Z",
+      "key": "[\"78340d0b-62d2-4eda-8c2a-baf4d1d02c2b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "СТРИМ. БЛИН ВАЛИШЬ ТЫ КОНЕЧНО ИНТЕРЕСНО, ЗА ИСКЛЮЧЕНИЕМ ДАБЛТАЙМОВ, НА НИХ ПОДЗАВАФЛИЛА ВНОТУРЬ. И ПО ТЕХТУ ДАЖЕ КОММЕНТАРИИ ДАВАТЬ НЕ СТОИТ, НУЖНО ГОСТРАЙТЕРА................. НО ПРИ ВСЕ ЭТО ТЫ МОЛОДЕЦ!",
+        "scoredAt": "2026-10-14T17:35:31.202Z",
+        "userId": "78340d0b-62d2-4eda-8c2a-baf4d1d02c2b"
+      }
+    },
+    {
+      "id": "adc880b7ece2572e0232b570519a4ecb307550d34994eaca7589dd4a4f79ed9b",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:37:02.787Z",
+      "key": "[\"3df95504-c0a0-4581-b5de-db8ffe9951e3\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:37:02.787Z",
+        "userId": "3df95504-c0a0-4581-b5de-db8ffe9951e3"
+      }
+    },
+    {
+      "id": "1f4dcdae4e67c171372a2f41134c35879f426de9deacd5d2a3e0bf543874151c",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:33:06.599Z",
+      "key": "[\"f3121164-d6a0-4234-953f-f5882dd7b629\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "СТРИМ. ОКОЛОРЭБ Я ТЕБЯ УЗНАЛ.",
+        "scoredAt": "2026-10-14T17:33:06.599Z",
+        "userId": "f3121164-d6a0-4234-953f-f5882dd7b629"
+      }
+    },
+    {
+      "id": "7715b700d36b4cb277bb3964c84e9be7d4e2e17d6e9fc2fa4feb9ba24427cd32",
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "sourceScoredAt": "2026-10-14T17:34:39.921Z",
+      "key": "[\"6a7a96c4-04d0-4ce3-bc2a-3c755934ee62\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:34:39.921Z",
+        "userId": "6a7a96c4-04d0-4ce3-bc2a-3c755934ee62"
+      }
     }
   ],
   "snapshots": [
@@ -85741,6 +85839,26 @@
           "index": 27.815151031464556,
           "favor": 18.725293132328307,
           "attention": -2.4101421008637502,
+          "respect": 11.5
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T17:42:32.485Z",
+      "exportedAt": "2026-10-14T17:42:32.485Z",
+      "scores": 9067,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.364978740928425,
+          "favor": 10.046805277113112,
+          "attention": 6.1753163209581725,
+          "respect": 7.142857142857143
+        },
+        "veterans": {
+          "index": 27.822155907766053,
+          "favor": 18.721937067618832,
+          "attention": -2.3997811598527803,
           "respect": 11.5
         }
       }
