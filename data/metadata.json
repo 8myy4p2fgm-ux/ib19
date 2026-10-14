@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T01:51:33.247Z",
-  "exportedAt": "2026-10-14T01:51:33.247Z",
-  "runId": "2026-10-14T01:51:33.247Z",
-  "forumExportedAt": "2026-10-14T01:51:33.247Z",
+  "lastSuccessfulAt": "2026-10-14T06:45:19.222Z",
+  "exportedAt": "2026-10-14T06:45:19.222Z",
+  "runId": "2026-10-14T06:45:19.222Z",
+  "forumExportedAt": "2026-10-14T06:45:19.222Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8594,
+    "scores": 8607,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 115,
+    "httpRequests": 15,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 113,
+    "updatedCards": 13,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 113,
-    "changedParticipants": 113,
-    "logicalRequests": 115,
-    "durationMs": 115585,
-    "scoresBefore": 8480,
-    "scoresAfter": 8594,
-    "fullBaselineRequests": 2928,
-    "requestReductionPercent": 96.0724043715847,
+    "participantsWithNewScores": 13,
+    "changedParticipants": 13,
+    "logicalRequests": 15,
+    "durationMs": 14928,
+    "scoresBefore": 8594,
+    "scoresAfter": 8607,
+    "fullBaselineRequests": 2930,
+    "requestReductionPercent": 99.48805460750853,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,97 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "Stan",
+          "comment": "Квадратно-глагольная рифмовка, прямолинейно и поверхностно по содержанию и мысли. Читаешь отрывисто, выпаливая отдельные слова, как будто игнорируя бит, не чувствуя ритм и мелодику.",
+          "scoredAt": "2026-10-14T06:43:27.247Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "Игорь Гордеев",
+          "comment": "А что так квадратно, братик? Зато это осмысленно, посыл чёткий, приятный трек.",
+          "scoredAt": "2026-10-14T06:41:42.973Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Черная боль",
+          "comment": "Кроме \"бабулинга\" выделить нечего. В остальном чисто поток грязи. Местами рифма на квадраты, местами на ассонансы.",
+          "scoredAt": "2026-10-14T06:38:38.029Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "АртемТемаИванов",
+          "comment": "Зачем тебе бит?) Ещё и не всё слышно, много зажевал.",
+          "scoredAt": "2026-10-14T06:36:12.415Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "тренер мс димас",
+          "comment": "Очень неубедительно, ассонансы среди рифм. По содержанию есть немного интересностей, лексикон своего рода просвет. Но в целом очень слабо.",
+          "scoredAt": "2026-10-14T06:34:36.220Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Klon",
+          "comment": "Спасибо за участие ",
+          "scoredAt": "2026-10-14T06:01:31.789Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "ЭмоГотка2007",
+          "comment": "Бомбовый трек ",
+          "scoredAt": "2026-10-14T05:59:49.017Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "ЛЕМНИСКАТ",
+          "comment": "Топчик",
+          "scoredAt": "2026-10-14T05:57:04.865Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "КАМАЗОВСКИЙ ТОРМОЗ МЦ",
+          "comment": "Слабо по всем критериям ",
+          "scoredAt": "2026-10-14T05:56:23.637Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "АхА 74",
+          "comment": "Лучший ",
+          "scoredAt": "2026-10-14T05:54:27.879Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Андрей UnderSun",
+          "comment": "Скучно и монотонно. По тексту тоже ничего особенного не услышал. ",
+          "scoredAt": "2026-10-14T05:54:00.432Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "Dia'Log",
+          "comment": "Трек середнячок по всем критериям. ",
+          "scoredAt": "2026-10-14T05:52:01.385Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "gggoyard",
+          "comment": "Рифмы уровня любовь -морковь.С таким лучше сюда не лезть. ",
+          "scoredAt": "2026-10-14T05:47:45.998Z"
+        },
+        {
           "judgeName": "СТИШ",
           "score": 5,
           "artist": "сталинские депрессии",
@@ -94,97 +185,6 @@
           "artist": "Кукарек МЦ",
           "comment": "Ку-ка-ре-ку!\nУлыбнуло!",
           "scoredAt": "2026-10-13T23:52:24.567Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Стихотворение под бит",
-          "comment": "А прикольно)",
-          "scoredAt": "2026-10-13T23:51:19.689Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "ImmJinX",
-          "comment": "Есть интересные строки.",
-          "scoredAt": "2026-10-13T23:48:31.055Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Infuse",
-          "comment": "👌👌👌",
-          "scoredAt": "2026-10-13T23:47:19.547Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "Забытый музой",
-          "comment": "Очень простые и однообразные интонации.\nРифмы плохи.",
-          "scoredAt": "2026-10-13T23:46:56.587Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "U Genie",
-          "comment": "Ритмика слаба.",
-          "scoredAt": "2026-10-13T23:45:51.316Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "ЭСКЛАВ",
-          "comment": "C проходом! Но дальше с таким текстом делать нечего!",
-          "scoredAt": "2026-10-13T23:44:56.682Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "ГОРЕ",
-          "comment": "Чувак, ну ты же понимаешь куда идешь, что, блять, с качеством?\nЧувствую, что етсь потенциал, только поэтому 4.\nУверен, тебе пиздец ка кбудут снижать за ОВ и качества.",
-          "scoredAt": "2026-10-13T23:43:01.186Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "CTRL",
-          "comment": "Для отбора пойдет!",
-          "scoredAt": "2026-10-13T23:41:39.500Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Эль Чаба",
-          "comment": "Береги голову, брат!\nНатянул на 4 чутка, ибо раскачал.",
-          "scoredAt": "2026-10-13T23:41:08.735Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "МЦ СЛОЖНЫЙ ЕБАЛЬНИК",
-          "comment": "Слишком расслабленно словно.",
-          "scoredAt": "2026-10-13T23:40:09.815Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Dextra",
-          "comment": "Нормуль!",
-          "scoredAt": "2026-10-13T23:39:05.508Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Bodjee",
-          "comment": "Нормально так головой качнул.\nХорошая скорость.",
-          "scoredAt": "2026-10-13T23:38:04.752Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 1,
-          "artist": "Indigirka",
-          "comment": "Начала читать, а я и не понял, что это читка. Думла на бите такой эффект))",
-          "scoredAt": "2026-10-13T23:37:19.350Z"
         }
       ]
     }
