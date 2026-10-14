@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T13:01:59.335Z",
+  "exportedAt": "2026-10-14T13:12:00.759Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -43869,8 +43869,14 @@
     },
     {
       "userId": "e7b26c7e-bc29-47e6-92ab-f4158ea16a6c",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "в треке происходила какая-то вакханалия",
+          "scoredAt": "2026-10-14T13:05:05.080Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -43878,7 +43884,7 @@
           "scoredAt": "2026-10-11T13:38:43.787Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:12:00.759Z",
       "current": true
     },
     {
@@ -69426,8 +69432,14 @@
     },
     {
       "userId": "c5e6d6d5-3111-45f3-9aed-86578fb01ecd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Мне хотелось бы больше акцента на техничности твоей и более отточенного ритма с рифмами, в остальном начитываешь ты неплохо ",
+          "scoredAt": "2026-10-14T13:09:05.273Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -69447,7 +69459,7 @@
           "scoredAt": "2026-10-07T21:11:30.666Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:12:00.759Z",
       "current": true
     },
     {
@@ -70080,8 +70092,14 @@
     },
     {
       "userId": "609f76d2-733f-4c4e-9bcc-2cccd6b3158e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "я хз на фоне какого-то общего бреда и моего личного сумасшествия, чисто из строчки про коршуна натурала)))) ",
+          "scoredAt": "2026-10-14T13:02:45.617Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -70089,7 +70107,7 @@
           "scoredAt": "2026-10-06T15:29:24.835Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:12:00.759Z",
       "current": true
     },
     {

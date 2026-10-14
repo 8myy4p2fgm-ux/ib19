@@ -80056,6 +80056,48 @@
         "scoredAt": "2026-10-14T13:00:02.377Z",
         "userId": "18a4fe35-c09e-4e09-b09a-9e63ec50aea6"
       }
+    },
+    {
+      "id": "3a2a27018f53f00b4fb79d2ef340cd3cc8183062482acf102fc764dc926a595e",
+      "observedAt": "2026-10-14T13:12:00.759Z",
+      "sourceScoredAt": "2026-10-14T13:05:05.080Z",
+      "key": "[\"e7b26c7e-bc29-47e6-92ab-f4158ea16a6c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "в треке происходила какая-то вакханалия",
+        "scoredAt": "2026-10-14T13:05:05.080Z",
+        "userId": "e7b26c7e-bc29-47e6-92ab-f4158ea16a6c"
+      }
+    },
+    {
+      "id": "89fddf38872b5e14d38d99ef1c724d27672336db71c1c701fbfda3521abbbb20",
+      "observedAt": "2026-10-14T13:12:00.759Z",
+      "sourceScoredAt": "2026-10-14T13:09:05.273Z",
+      "key": "[\"c5e6d6d5-3111-45f3-9aed-86578fb01ecd\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Мне хотелось бы больше акцента на техничности твоей и более отточенного ритма с рифмами, в остальном начитываешь ты неплохо ",
+        "scoredAt": "2026-10-14T13:09:05.273Z",
+        "userId": "c5e6d6d5-3111-45f3-9aed-86578fb01ecd"
+      }
+    },
+    {
+      "id": "aa9d28a79c07c22ab90f3fb8a40a7783aa3e142e0ca7bd014caece55772e0efc",
+      "observedAt": "2026-10-14T13:12:00.759Z",
+      "sourceScoredAt": "2026-10-14T13:02:45.617Z",
+      "key": "[\"609f76d2-733f-4c4e-9bcc-2cccd6b3158e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "я хз на фоне какого-то общего бреда и моего личного сумасшествия, чисто из строчки про коршуна натурала)))) ",
+        "scoredAt": "2026-10-14T13:02:45.617Z",
+        "userId": "609f76d2-733f-4c4e-9bcc-2cccd6b3158e"
+      }
     }
   ],
   "snapshots": [
@@ -80475,6 +80517,26 @@
           "index": 27.194094297073292,
           "favor": 18.49995223701358,
           "attention": -2.702916763469702,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T13:12:00.759Z",
+      "exportedAt": "2026-10-14T13:12:00.759Z",
+      "scores": 8726,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.08211373143995,
+          "favor": 10.092825121172588,
+          "attention": 5.819685086038287,
+          "respect": 7.169603524229075
+        },
+        "veterans": {
+          "index": 27.20611596173454,
+          "favor": 18.501446032958636,
+          "attention": -2.69238889475351,
           "respect": 11.397058823529411
         }
       }

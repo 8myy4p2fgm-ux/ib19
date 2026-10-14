@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T13:01:59.335Z",
-  "exportedAt": "2026-10-14T13:01:59.335Z",
-  "runId": "2026-10-14T13:01:59.335Z",
-  "forumExportedAt": "2026-10-14T13:01:59.335Z",
+  "lastSuccessfulAt": "2026-10-14T13:12:00.759Z",
+  "exportedAt": "2026-10-14T13:12:00.759Z",
+  "runId": "2026-10-14T13:12:00.759Z",
+  "forumExportedAt": "2026-10-14T13:12:00.759Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8723,
+    "scores": 8726,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 7937,
-    "scoresBefore": 8717,
-    "scoresAfter": 8723,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5143,
+    "scoresBefore": 8723,
+    "scoresAfter": 8726,
     "fullBaselineRequests": 2952,
-    "requestReductionPercent": 99.7289972899729,
+    "requestReductionPercent": 99.83062330623305,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Седьмой",
+          "comment": "Мне хотелось бы больше акцента на техничности твоей и более отточенного ритма с рифмами, в остальном начитываешь ты неплохо ",
+          "scoredAt": "2026-10-14T13:09:05.273Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Чикмарь",
+          "comment": "в треке происходила какая-то вакханалия",
+          "scoredAt": "2026-10-14T13:05:05.080Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Паранорвайб",
+          "comment": "я хз на фоне какого-то общего бреда и моего личного сумасшествия, чисто из строчки про коршуна натурала)))) ",
+          "scoredAt": "2026-10-14T13:02:45.617Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -164,27 +185,6 @@
           "artist": "magistr",
           "comment": "вроде есть какой то угар. но если на твоём районе слышали слово свэг, как звучит сам свэг - не слышали явно.",
           "scoredAt": "2026-10-14T12:46:29.200Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "baneoff",
-          "comment": "",
-          "scoredAt": "2026-10-14T12:45:20.726Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "MC DJ",
-          "comment": "хахаха про минуту угарел. в остальном конечно хуезабивной рэб брад.",
-          "scoredAt": "2026-10-14T12:44:27.457Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "молодой Куколд",
-          "comment": "текстом необычно и прикольно, но со стороны я смотреть на такое не буду =3",
-          "scoredAt": "2026-10-14T12:44:03.207Z"
         }
       ]
     }
