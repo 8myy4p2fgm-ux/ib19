@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T14:22:10.742Z",
+  "exportedAt": "2026-10-14T14:32:07.847Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -4321,8 +4321,14 @@
     },
     {
       "userId": "6f7f8cf2-9e50-404c-8248-d80f8a89c97e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Жестко перегруз, вот голос чтоб поярче читался было бы круто",
+          "scoredAt": "2026-10-14T14:22:13.900Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -4336,7 +4342,7 @@
           "scoredAt": "2026-09-29T11:23:12.032Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -5679,9 +5685,16 @@
     },
     {
       "userId": "02c216f6-9160-44e4-8b28-431fe7ba9231",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "comment": "Странную ритмику выбрал под такой биток, сбивки в читке ну и звучок в конце вообще посыпался",
+          "scoredAt": "2026-10-14T14:24:38.899Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -27940,8 +27953,14 @@
     },
     {
       "userId": "665772b2-8246-4449-944a-5e42f993bfbd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T14:27:27.447Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 1,
@@ -27955,7 +27974,7 @@
           "scoredAt": "2026-09-10T17:47:17.036Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -40101,9 +40120,16 @@
     },
     {
       "userId": "59c9ea9e-4589-461b-be31-f485ea897c1b",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Неплохой трек, интересно идейно разложил партитуру, есть около-вокальные штучки, правда самого рэпа маловато\nдавай во 2 чтоб уж точно, не подвести побольше сделай красивава ",
+          "scoredAt": "2026-10-14T14:27:04.269Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -46873,8 +46899,14 @@
     },
     {
       "userId": "7ce37717-39f5-4916-a332-964c63f5ede6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "В целом что поганит этот трек звучок, пофиксить бы это это чтоб голос с бита пробился",
+          "scoredAt": "2026-10-14T14:23:26.851Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -46894,7 +46926,7 @@
           "scoredAt": "2026-09-15T18:18:57.751Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -52492,8 +52524,14 @@
     },
     {
       "userId": "28dbccb1-2519-42fd-97b7-b3cdbb86cc91",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Вот слышно что по флоу что-то умеешь, но почему так звук сыпиться",
+          "scoredAt": "2026-10-14T14:29:50.701Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -52513,7 +52551,7 @@
           "scoredAt": "2026-09-11T13:43:16.986Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -63572,8 +63610,14 @@
     },
     {
       "userId": "696c420f-ace0-45ed-8111-980151da80b2",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "в целом после того как на 1микросекунде меня оглушило , пришлось в читываться в текст. потанцевал есть, попробуй что-то более интересное по строчкам предложить в следующем этапе.\nпопытки в панчики есть, но не докрученные. ",
+          "scoredAt": "2026-10-14T14:25:15.649Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -63593,7 +63637,7 @@
           "scoredAt": "2026-09-17T14:39:01.043Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -64823,8 +64867,14 @@
     },
     {
       "userId": "55637ed1-1f31-40d9-977b-d610c5f1dff2",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Навалил знатно, не хватило какой-то смены схожей около хука, или перейти в мясо с криками",
+          "scoredAt": "2026-10-14T14:29:07.417Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -64832,7 +64882,7 @@
           "scoredAt": "2026-10-09T18:20:48.041Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -71627,8 +71677,14 @@
     },
     {
       "userId": "dfd9dc37-e8a3-41bb-b511-936929b6c325",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "давай во второй! кеков накидал, но и водички так-то многовато будто, давай во втором ультуй",
+          "scoredAt": "2026-10-14T14:27:18.507Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -71654,7 +71710,7 @@
           "scoredAt": "2026-09-27T15:18:33.511Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -72601,8 +72657,14 @@
     },
     {
       "userId": "6d2a1e80-2ab3-4c90-afc6-14db0d112716",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T14:31:35.372Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -72610,7 +72672,7 @@
           "scoredAt": "2026-10-07T16:18:15.863Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -73472,8 +73534,14 @@
     },
     {
       "userId": "1647f09d-cba8-449f-98da-374fa73539b6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Не хватило где нибудь разнообразить по флоу, и добивочные айрэ везде одни и те же и не всегда их можно в каждую строчку делать",
+          "scoredAt": "2026-10-14T14:31:56.049Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -73487,7 +73555,7 @@
           "scoredAt": "2026-09-29T14:29:49.089Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {
@@ -75138,9 +75206,16 @@
     },
     {
       "userId": "7ac9edb7-d11f-4216-a312-aee2fee75f28",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T14:25:09.045Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T14:32:07.847Z",
       "current": true
     },
     {

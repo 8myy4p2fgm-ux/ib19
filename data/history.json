@@ -80966,6 +80966,174 @@
         "scoredAt": "2026-10-14T14:21:46.732Z",
         "userId": "da980a9b-cfee-4bc6-be2c-e0d61adb61f5"
       }
+    },
+    {
+      "id": "2779eef94d38dea5e39ef66af1df10c985dd900a0bf8722f848ae1d647ddcc19",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:22:13.900Z",
+      "key": "[\"6f7f8cf2-9e50-404c-8248-d80f8a89c97e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Жестко перегруз, вот голос чтоб поярче читался было бы круто",
+        "scoredAt": "2026-10-14T14:22:13.900Z",
+        "userId": "6f7f8cf2-9e50-404c-8248-d80f8a89c97e"
+      }
+    },
+    {
+      "id": "aad3201d07cccee6a59d7f36e21790a8f8b4938227d1a06fdf4c116666faac07",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:24:38.899Z",
+      "key": "[\"02c216f6-9160-44e4-8b28-431fe7ba9231\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Странную ритмику выбрал под такой биток, сбивки в читке ну и звучок в конце вообще посыпался",
+        "scoredAt": "2026-10-14T14:24:38.899Z",
+        "userId": "02c216f6-9160-44e4-8b28-431fe7ba9231"
+      }
+    },
+    {
+      "id": "be5a56dfc50fc8c0ed7dd6a6ac9b21badcf7a79bb7dc803d4ab122936316356e",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:27:27.447Z",
+      "key": "[\"665772b2-8246-4449-944a-5e42f993bfbd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T14:27:27.447Z",
+        "userId": "665772b2-8246-4449-944a-5e42f993bfbd"
+      }
+    },
+    {
+      "id": "bb979727494199014d11375387b0f8949c3b5ee8ec4025322ae080b58929e906",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:27:04.269Z",
+      "key": "[\"59c9ea9e-4589-461b-be31-f485ea897c1b\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Неплохой трек, интересно идейно разложил партитуру, есть около-вокальные штучки, правда самого рэпа маловато\nдавай во 2 чтоб уж точно, не подвести побольше сделай красивава ",
+        "scoredAt": "2026-10-14T14:27:04.269Z",
+        "userId": "59c9ea9e-4589-461b-be31-f485ea897c1b"
+      }
+    },
+    {
+      "id": "f77c5e86df9aab961cf02af1279458cdcb28aa054066c12f8d1f2a159d7b679f",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:23:26.851Z",
+      "key": "[\"7ce37717-39f5-4916-a332-964c63f5ede6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом что поганит этот трек звучок, пофиксить бы это это чтоб голос с бита пробился",
+        "scoredAt": "2026-10-14T14:23:26.851Z",
+        "userId": "7ce37717-39f5-4916-a332-964c63f5ede6"
+      }
+    },
+    {
+      "id": "15107b296524bf41e8d686431a2bc79f5564ea7954f475f167f7e274a7d95f87",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:29:50.701Z",
+      "key": "[\"28dbccb1-2519-42fd-97b7-b3cdbb86cc91\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот слышно что по флоу что-то умеешь, но почему так звук сыпиться",
+        "scoredAt": "2026-10-14T14:29:50.701Z",
+        "userId": "28dbccb1-2519-42fd-97b7-b3cdbb86cc91"
+      }
+    },
+    {
+      "id": "d288f55e1b20cf7744e350a2ac78f769c93c9bd723526a1ed594a875a854b64c",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:25:15.649Z",
+      "key": "[\"696c420f-ace0-45ed-8111-980151da80b2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "в целом после того как на 1микросекунде меня оглушило , пришлось в читываться в текст. потанцевал есть, попробуй что-то более интересное по строчкам предложить в следующем этапе.\nпопытки в панчики есть, но не докрученные. ",
+        "scoredAt": "2026-10-14T14:25:15.649Z",
+        "userId": "696c420f-ace0-45ed-8111-980151da80b2"
+      }
+    },
+    {
+      "id": "176a5dfef22b0e9ddde4087da52a29af23e0ff180674ea4aa291f77ba7b6d0dc",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:29:07.417Z",
+      "key": "[\"55637ed1-1f31-40d9-977b-d610c5f1dff2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Навалил знатно, не хватило какой-то смены схожей около хука, или перейти в мясо с криками",
+        "scoredAt": "2026-10-14T14:29:07.417Z",
+        "userId": "55637ed1-1f31-40d9-977b-d610c5f1dff2"
+      }
+    },
+    {
+      "id": "ac6f5cc3a42127b3b8bca279347363e7825cc2c08ced3209400901e5d434f91a",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:27:18.507Z",
+      "key": "[\"dfd9dc37-e8a3-41bb-b511-936929b6c325\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "давай во второй! кеков накидал, но и водички так-то многовато будто, давай во втором ультуй",
+        "scoredAt": "2026-10-14T14:27:18.507Z",
+        "userId": "dfd9dc37-e8a3-41bb-b511-936929b6c325"
+      }
+    },
+    {
+      "id": "465ab1650f0822d10ba640572fb040c48ad20a7daff28358579813ddbeddaec5",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:31:35.372Z",
+      "key": "[\"6d2a1e80-2ab3-4c90-afc6-14db0d112716\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T14:31:35.372Z",
+        "userId": "6d2a1e80-2ab3-4c90-afc6-14db0d112716"
+      }
+    },
+    {
+      "id": "db9a09a86ca542ed6d33ecb39baa07ae7efd38f9308cd658552b9fde32ae6084",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:31:56.049Z",
+      "key": "[\"1647f09d-cba8-449f-98da-374fa73539b6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Не хватило где нибудь разнообразить по флоу, и добивочные айрэ везде одни и те же и не всегда их можно в каждую строчку делать",
+        "scoredAt": "2026-10-14T14:31:56.049Z",
+        "userId": "1647f09d-cba8-449f-98da-374fa73539b6"
+      }
+    },
+    {
+      "id": "424cc19631760d8b78981641ce30910b308671ced9a90dc2efc621412a7d7fc8",
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "sourceScoredAt": "2026-10-14T14:25:09.045Z",
+      "key": "[\"7ac9edb7-d11f-4216-a312-aee2fee75f28\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T14:25:09.045Z",
+        "userId": "7ac9edb7-d11f-4216-a312-aee2fee75f28"
+      }
     }
   ],
   "snapshots": [
@@ -81545,6 +81713,26 @@
           "index": 27.339816085224072,
           "favor": 18.572195113771645,
           "attention": -2.664417863499027,
+          "respect": 11.432038834951456
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T14:32:07.847Z",
+      "exportedAt": "2026-10-14T14:32:07.847Z",
+      "scores": 8800,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 22.886887121964495,
+          "favor": 9.965309330255172,
+          "attention": 5.816314633814585,
+          "respect": 7.105263157894737
+        },
+        "veterans": {
+          "index": 27.396596926856695,
+          "favor": 18.5781169938077,
+          "attention": -2.61355890190246,
           "respect": 11.432038834951456
         }
       }
