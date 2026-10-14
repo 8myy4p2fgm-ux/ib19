@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T14:01:57.684Z",
+  "exportedAt": "2026-10-14T14:12:04.466Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -3305,9 +3305,16 @@
     },
     {
       "userId": "b1a00d6e-1387-4ba0-8236-73edbfbc2500",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "не хватило жирка в голосе, по вокалу всё хорошо, хук упростил но это не сильно критично в отличии что в нем не хватило объемчика",
+          "scoredAt": "2026-10-14T14:06:26.995Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -33606,8 +33613,14 @@
     },
     {
       "userId": "59687f7c-1e81-4271-b8ab-6eb417aba91a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "comment": "Не хватает звука и работы с ритмикой ",
+          "scoredAt": "2026-10-14T14:10:18.789Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -33621,13 +33634,19 @@
           "scoredAt": "2026-09-26T18:42:56.281Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
       "userId": "2486f1ca-7515-4f79-a234-1a1366dcd581",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T14:09:54.513Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -33635,7 +33654,7 @@
           "scoredAt": "2026-10-13T09:53:30.466Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -40303,8 +40322,14 @@
     },
     {
       "userId": "10b02111-e7e4-4ea6-bca4-6f4bb465ab16",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "За идейность 4 балла братик, рифмульки приятные, напеваешь здраво) мне нраица! ",
+          "scoredAt": "2026-10-14T14:10:27.161Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -40330,7 +40355,7 @@
           "scoredAt": "2026-10-08T06:08:14.264Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -41311,9 +41336,16 @@
     },
     {
       "userId": "d841a939-4b2f-4956-9a78-71f820044094",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "С натягом 5 от меня, хорошо стелишь, местами вот эти стоп моменты во флоу сбивают с вайба",
+          "scoredAt": "2026-10-14T14:09:32.511Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -51468,8 +51500,14 @@
     },
     {
       "userId": "6fd9372b-73c6-4bd0-b532-39facfb2d96d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "оч клёвенько! спасибо за рифмовку , мета-раскрытие окей, не очевидно",
+          "scoredAt": "2026-10-14T14:06:08.225Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -51495,7 +51533,7 @@
           "scoredAt": "2026-10-08T19:37:22.706Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -53403,8 +53441,14 @@
     },
     {
       "userId": "272aac88-a2f1-40bc-9b3c-17658e365692",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "В целом хорошо, не хватило только именно чтоб ритмика одной четверки сменилась по флоу",
+          "scoredAt": "2026-10-14T14:03:03.991Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -53418,7 +53462,7 @@
           "scoredAt": "2026-09-18T19:23:55.358Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -53919,8 +53963,14 @@
     },
     {
       "userId": "0a1da29a-a21f-4ba2-bb64-dbd5135ca2a2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "бодренько, с посылом, голос нравится как звучит с битлом! добро пожаловать во второй раунд! давай, бро покажи там пожалуйста пэнчики, что перед парными стало всё яснО )\nкрасавчик!",
+          "scoredAt": "2026-10-14T14:11:12.425Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 5,
@@ -53946,7 +53996,7 @@
           "scoredAt": "2026-09-29T16:35:12.743Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -67749,8 +67799,14 @@
     },
     {
       "userId": "c1f1e2ac-afee-43a3-9748-cd0b5872956e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Очень странная работа по звука, дабл с ревером очень перебивает основу",
+          "scoredAt": "2026-10-14T14:11:22.824Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -67758,7 +67814,7 @@
           "scoredAt": "2026-10-07T15:16:40.419Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {
@@ -76506,8 +76562,14 @@
     },
     {
       "userId": "25724660-06fb-4d3d-9658-72e473c4aa32",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Вот в целом и по флоу разнообразие есть и прикольно с голосом играешься, но под такой биток прям не хватило напора и подачи",
+          "scoredAt": "2026-10-14T14:04:33.343Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -76515,7 +76577,7 @@
           "scoredAt": "2026-10-12T09:46:34.031Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T14:12:04.466Z",
       "current": true
     },
     {

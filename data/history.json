@@ -80672,6 +80672,146 @@
         "scoredAt": "2026-10-14T14:01:01.618Z",
         "userId": "79e3c19a-1c6f-4597-87ce-3c7709998128"
       }
+    },
+    {
+      "id": "2261f18866022eb33c9f1247c91a58a1a4ed0102631fd1c05d8f87e444bc97db",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:06:26.995Z",
+      "key": "[\"b1a00d6e-1387-4ba0-8236-73edbfbc2500\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "не хватило жирка в голосе, по вокалу всё хорошо, хук упростил но это не сильно критично в отличии что в нем не хватило объемчика",
+        "scoredAt": "2026-10-14T14:06:26.995Z",
+        "userId": "b1a00d6e-1387-4ba0-8236-73edbfbc2500"
+      }
+    },
+    {
+      "id": "add7beafe47f191e917a6ecc9b05544cbc386f882ffc347cf45c9d43c75c4057",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:10:18.789Z",
+      "key": "[\"59687f7c-1e81-4271-b8ab-6eb417aba91a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Не хватает звука и работы с ритмикой ",
+        "scoredAt": "2026-10-14T14:10:18.789Z",
+        "userId": "59687f7c-1e81-4271-b8ab-6eb417aba91a"
+      }
+    },
+    {
+      "id": "bcc6e84286c39175260b34a75582f899307e1a84e755e869e11f7db0c53a8566",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:09:54.513Z",
+      "key": "[\"2486f1ca-7515-4f79-a234-1a1366dcd581\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T14:09:54.513Z",
+        "userId": "2486f1ca-7515-4f79-a234-1a1366dcd581"
+      }
+    },
+    {
+      "id": "83b89c3bddb6563d24d1b790d14fc8bdc8744a816b0a2e048b592a90774e9392",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:10:27.161Z",
+      "key": "[\"10b02111-e7e4-4ea6-bca4-6f4bb465ab16\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "За идейность 4 балла братик, рифмульки приятные, напеваешь здраво) мне нраица! ",
+        "scoredAt": "2026-10-14T14:10:27.161Z",
+        "userId": "10b02111-e7e4-4ea6-bca4-6f4bb465ab16"
+      }
+    },
+    {
+      "id": "6427fd055f42e5fa4e0e73d2a101b81b4a2812ca2b4b5de3b2079e145276a55b",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:09:32.511Z",
+      "key": "[\"d841a939-4b2f-4956-9a78-71f820044094\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "С натягом 5 от меня, хорошо стелишь, местами вот эти стоп моменты во флоу сбивают с вайба",
+        "scoredAt": "2026-10-14T14:09:32.511Z",
+        "userId": "d841a939-4b2f-4956-9a78-71f820044094"
+      }
+    },
+    {
+      "id": "a50d737042c1abb248a6d043f5bfeeeac9bef3ac77242860f2f0f990da0d9265",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:06:08.225Z",
+      "key": "[\"6fd9372b-73c6-4bd0-b532-39facfb2d96d\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "оч клёвенько! спасибо за рифмовку , мета-раскрытие окей, не очевидно",
+        "scoredAt": "2026-10-14T14:06:08.225Z",
+        "userId": "6fd9372b-73c6-4bd0-b532-39facfb2d96d"
+      }
+    },
+    {
+      "id": "41628653b2d88552ab9421c2dbd2588e24ebe9a97065dda6d3748d6ba463eea5",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:03:03.991Z",
+      "key": "[\"272aac88-a2f1-40bc-9b3c-17658e365692\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом хорошо, не хватило только именно чтоб ритмика одной четверки сменилась по флоу",
+        "scoredAt": "2026-10-14T14:03:03.991Z",
+        "userId": "272aac88-a2f1-40bc-9b3c-17658e365692"
+      }
+    },
+    {
+      "id": "98d0148cb68e2bbbc52a1cb3433cf1965c5304009cddb3c6e7effa6994caacd4",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:11:12.425Z",
+      "key": "[\"0a1da29a-a21f-4ba2-bb64-dbd5135ca2a2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "бодренько, с посылом, голос нравится как звучит с битлом! добро пожаловать во второй раунд! давай, бро покажи там пожалуйста пэнчики, что перед парными стало всё яснО )\nкрасавчик!",
+        "scoredAt": "2026-10-14T14:11:12.425Z",
+        "userId": "0a1da29a-a21f-4ba2-bb64-dbd5135ca2a2"
+      }
+    },
+    {
+      "id": "a7b30e10e1cb9e95655525db911ac912b2ff47f0c91ff880b714b49cc2c9b7a6",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:11:22.824Z",
+      "key": "[\"c1f1e2ac-afee-43a3-9748-cd0b5872956e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень странная работа по звука, дабл с ревером очень перебивает основу",
+        "scoredAt": "2026-10-14T14:11:22.824Z",
+        "userId": "c1f1e2ac-afee-43a3-9748-cd0b5872956e"
+      }
+    },
+    {
+      "id": "6d501ab2e5c42ee4aab477dfa67682c165a35a59aa47408d61b890be334aeacd",
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "sourceScoredAt": "2026-10-14T14:04:33.343Z",
+      "key": "[\"25724660-06fb-4d3d-9658-72e473c4aa32\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот в целом и по флоу разнообразие есть и прикольно с голосом играешься, но под такой биток прям не хватило напора и подачи",
+        "scoredAt": "2026-10-14T14:04:33.343Z",
+        "userId": "25724660-06fb-4d3d-9658-72e473c4aa32"
+      }
     }
   ],
   "snapshots": [
@@ -81211,6 +81351,26 @@
           "index": 27.247320262437785,
           "favor": 18.572180162977702,
           "attention": -2.7568987354913728,
+          "respect": 11.432038834951456
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T14:12:04.466Z",
+      "exportedAt": "2026-10-14T14:12:04.466Z",
+      "scores": 8777,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 22.804933052866144,
+          "favor": 9.948624338950076,
+          "attention": 5.751045556021331,
+          "respect": 7.105263157894737
+        },
+        "veterans": {
+          "index": 27.28216046077226,
+          "favor": 18.56156441189046,
+          "attention": -2.711442786069652,
           "respect": 11.432038834951456
         }
       }
