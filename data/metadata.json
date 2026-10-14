@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T11:51:58.394Z",
-  "exportedAt": "2026-10-14T11:51:58.394Z",
-  "runId": "2026-10-14T11:51:58.394Z",
-  "forumExportedAt": "2026-10-14T11:51:58.394Z",
+  "lastSuccessfulAt": "2026-10-14T12:02:04.203Z",
+  "exportedAt": "2026-10-14T12:02:04.203Z",
+  "runId": "2026-10-14T12:02:04.203Z",
+  "forumExportedAt": "2026-10-14T12:02:04.203Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8690,
+    "scores": 8691,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5928,
-    "scoresBefore": 8687,
-    "scoresAfter": 8690,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3634,
+    "scoresBefore": 8690,
+    "scoresAfter": 8691,
     "fullBaselineRequests": 2948,
-    "requestReductionPercent": 99.8303934871099,
+    "requestReductionPercent": 99.89823609226595,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "DaGamma",
+          "comment": "по структуре бы доработать твои строчечки и уже звучишь раза в два профессиональнее, так очень даже бодро, красиво по рифмам по раскладкам ",
+          "scoredAt": "2026-10-14T11:54:01.971Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -178,13 +185,6 @@
           "artist": "плакучая",
           "comment": "Круто, красивый слог и строение текста. классно исполняешь. ",
           "scoredAt": "2026-10-14T10:54:50.336Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "GENOZZ",
-          "comment": "Брат, рифмули это хорошо, но если они имеют смысл.\nа тут будто просто накидали рифм и сиди сука разбирайся чо к чему, а вот 2 часть уже и приятная на слух и так же нарифмовано куча всего, но хотя-бы разбираться хочется. ",
-          "scoredAt": "2026-10-14T10:51:19.386Z"
         }
       ]
     }
