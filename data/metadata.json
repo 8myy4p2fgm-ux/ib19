@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T13:52:05.766Z",
-  "exportedAt": "2026-10-14T13:52:05.766Z",
-  "runId": "2026-10-14T13:52:05.766Z",
-  "forumExportedAt": "2026-10-14T13:52:05.766Z",
+  "lastSuccessfulAt": "2026-10-14T14:01:57.684Z",
+  "exportedAt": "2026-10-14T14:01:57.684Z",
+  "runId": "2026-10-14T14:01:57.684Z",
+  "forumExportedAt": "2026-10-14T14:01:57.684Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8760,
+    "scores": 8767,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 8,
-    "logicalRequests": 12,
-    "durationMs": 12260,
-    "scoresBefore": 8751,
-    "scoresAfter": 8760,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9029,
+    "scoresBefore": 8760,
+    "scoresAfter": 8767,
     "fullBaselineRequests": 2955,
-    "requestReductionPercent": 99.59390862944163,
+    "requestReductionPercent": 99.69543147208122,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "ENTY MIKE",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T14:01:24.829Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Мазл Паст",
+          "comment": "блин ну прикольно. НО голос утонул в бите, слова местами хавает твои. жаль что так мало текста. ждал что сменишь флоу или перебежки какие-нибудь , ну кароче приколдесы в флоу, оч прям напрашивались в этой медленнйо читочке",
+          "scoredAt": "2026-10-14T14:01:01.618Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Blanco Negro",
+          "comment": "оч скучно по исполнению, разнообразия бы по исполнению там, ну типа... знаешь ?! XD\nв целом то нормась, но капец скукота, давай разнообразия в следующем иначе пздц . если пройдёшь во второй вообще, но шанс будто есть",
+          "scoredAt": "2026-10-14T13:56:58.886Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "kirnonononame",
+          "comment": "Вот вроде и есть какая-то самобытность, но вот голос с бита достать было бы хорошо",
+          "scoredAt": "2026-10-14T13:54:23.025Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Уиллем Дефолт",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:54:20.802Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "Саша FRG",
+          "comment": "ТЫ Ч Ё ТУТ ДЕЛАЕШЬ В ПЕРВОМ ?! 3.14ЗДУЙ ВО ВТОРОЙ СРАЗУ .\nтут прекрасно всё",
+          "scoredAt": "2026-10-14T13:54:11.694Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "innewway",
+          "comment": "Побеждуй)))) угарно немного, но жаль не хватило по звучку",
+          "scoredAt": "2026-10-14T13:52:54.518Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "ANTON RID [JDM]",
+          "comment": "Чуть тюн шакалит что на добивке четверок, по тексту +- норм, ну и в некст раунде такие вещи как в конце объемом дорожек заправляй",
+          "scoredAt": "2026-10-14T13:52:01.294Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -129,62 +185,6 @@
           "artist": "D.Rector",
           "comment": "В целом звучит хорошо, но по так сказать куплетной интонации одна, вроде сделал разбавку под конец но её не хватило",
           "scoredAt": "2026-10-14T13:44:45.503Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "Maestro",
-          "comment": "Стилево",
-          "scoredAt": "2026-10-14T13:42:49.145Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "L1NAD",
-          "comment": "Слишком дефолтный тречек, не хватило интонаций и эмоций треку",
-          "scoredAt": "2026-10-14T13:41:42.736Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "МС ЛОБОК [#КБС]",
-          "comment": "В таком стильке пока лучшее что слышал, и есть по тексту рофлы, в целом посмотрим что в некст раунде сделаешь",
-          "scoredAt": "2026-10-14T13:40:12.086Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Пятипять",
-          "comment": "Девятый стрим",
-          "scoredAt": "2026-10-14T13:39:37.843Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Xe(54) [категория состояния]",
-          "comment": "Местами по дикции есть провалы, но Санек Мирный ты легенда, когда трек на укулеле",
-          "scoredAt": "2026-10-14T13:38:27.224Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Александр Бахтинов",
-          "comment": "до середины трека все портит ребячество, будто вот именно этим ты занизил сам себе оценку. ",
-          "scoredAt": "2026-10-14T13:37:58.398Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Kombucha",
-          "comment": "Держишь ритму нормально, интонация и харизма имеется, но вот по разнообразию не хватило",
-          "scoredAt": "2026-10-14T13:36:26.914Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Дживан",
-          "comment": "Не хватило содержания треку, по исполнению всё очень хорошо, но 30 секунд трека это \"O no no eeee\"",
-          "scoredAt": "2026-10-14T13:34:33.536Z"
         }
       ]
     }
