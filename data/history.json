@@ -85544,6 +85544,90 @@
         "scoredAt": "2026-10-14T18:29:07.550Z",
         "userId": "fc4654dd-c0f6-44ae-b6e5-258ea6fbaaf7"
       }
+    },
+    {
+      "id": "c76c37cd2c4c113a0c5a2ea9b0c3185e43422082de69169dd4715d916504bd6d",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:40:33.406Z",
+      "key": "[\"50a41374-8e77-4255-be5a-ca6cdb15c090\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:40:33.406Z",
+        "userId": "50a41374-8e77-4255-be5a-ca6cdb15c090"
+      }
+    },
+    {
+      "id": "082d8d61e1cc6f295ab2e8e383a37dc7aad7e69f2823c89b733569e93e25ec82",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:34:25.709Z",
+      "key": "[\"e8cbffe0-102e-4ba7-9214-a0afd00908f8\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:34:25.709Z",
+        "userId": "e8cbffe0-102e-4ba7-9214-a0afd00908f8"
+      }
+    },
+    {
+      "id": "9f0eb6d27e4fa24807a58e450da9cc9d9f290548f3dcf7aacd135db22d6a0a96",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:38:47.176Z",
+      "key": "[\"00e23b35-80d9-46ce-8d71-f36a5195367f\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:38:47.176Z",
+        "userId": "00e23b35-80d9-46ce-8d71-f36a5195367f"
+      }
+    },
+    {
+      "id": "0e8b0c0086384ed78715db37f7853eeed621a9bbd9a63aaa5d73bc1b637eba99",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:38:10.005Z",
+      "key": "[\"7e3c645a-47e8-4cf8-84a6-1e426cde00ca\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:38:10.005Z",
+        "userId": "7e3c645a-47e8-4cf8-84a6-1e426cde00ca"
+      }
+    },
+    {
+      "id": "f024500c2194235f9b262156cb01cb1d1406328f8f22069f4ecf8086732737c3",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:35:56.711Z",
+      "key": "[\"d2b38546-8e17-47c1-b9fe-4075cfa9a214\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:35:56.711Z",
+        "userId": "d2b38546-8e17-47c1-b9fe-4075cfa9a214"
+      }
+    },
+    {
+      "id": "91a00624a2dc7c4f5e0d3c441d2893ac5d92f742e18377e14dc52be982a3c7f2",
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "sourceScoredAt": "2026-10-14T18:37:30.761Z",
+      "key": "[\"ab307abb-cd28-4858-88a8-5b49c7c642c5\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:37:30.761Z",
+        "userId": "ab307abb-cd28-4858-88a8-5b49c7c642c5"
+      }
     }
   ],
   "snapshots": [
@@ -86603,6 +86687,26 @@
           "index": 27.24683589415454,
           "favor": 18.55999427173162,
           "attention": -2.738392022436896,
+          "respect": 11.425233644859814
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T18:42:10.599Z",
+      "exportedAt": "2026-10-14T18:42:10.599Z",
+      "scores": 9119,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.32973770129731,
+          "favor": 10.035389255130509,
+          "attention": 6.149951894442663,
+          "respect": 7.144396551724138
+        },
+        "veterans": {
+          "index": 27.260942482183033,
+          "favor": 18.55952188359446,
+          "attention": -2.7238130462712427,
           "respect": 11.425233644859814
         }
       }

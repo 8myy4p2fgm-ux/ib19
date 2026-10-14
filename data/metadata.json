@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T18:32:19.754Z",
-  "exportedAt": "2026-10-14T18:32:19.754Z",
-  "runId": "2026-10-14T18:32:19.754Z",
-  "forumExportedAt": "2026-10-14T18:32:19.754Z",
+  "lastSuccessfulAt": "2026-10-14T18:42:10.599Z",
+  "exportedAt": "2026-10-14T18:42:10.599Z",
+  "runId": "2026-10-14T18:42:10.599Z",
+  "forumExportedAt": "2026-10-14T18:42:10.599Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9113,
+    "scores": 9119,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11410,
-    "scoresBefore": 9104,
-    "scoresAfter": 9113,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8430,
+    "scoresBefore": 9113,
+    "scoresAfter": 9119,
     "fullBaselineRequests": 3012,
-    "requestReductionPercent": 99.6347941567065,
+    "requestReductionPercent": 99.734395750332,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "ЭКСАЙЗ",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:40:33.406Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "VinS",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:38:47.176Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "МЦ Бобровая Струя",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:38:10.005Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "FlowLiss",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:37:30.761Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "Shkola",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:35:56.711Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "старый соберись",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:34:25.709Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -143,48 +185,6 @@
           "artist": "отрицательный  iq",
           "comment": "Стрим 10",
           "scoredAt": "2026-10-14T18:22:18.113Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "ТОНКИЙ ТОН",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:21:00.863Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Кудесник",
-          "comment": "БЛЯ КАКОЙ ЖЕ ТЫ НЕВЫНОСИМЫЙ ДЕГЕНЕРАТ ПРОСТО, Я НЕ МОГУ НАХУЙ, Я БЫ ТЕБЕ ПРОСТО ЕБАЛЬНИК НАХУЙ РАСКОВЫРЯЛ ПОТОМУ ЧТО Я УЖЕ КОТОРЫЙ РАС ВЫНУЖДЕН ЭТУ ПОЗОРНУЮ ХУЙНЮ СЛУШАТЬ, УЕБИЩЕ ТУПОРЫЛОЕ, КАКОЙ НАХУЙ КАРАБАС БАРАБАС, ТЫ ПИДОРАС-ПИДОРАС...))) А ЕСЛИ СЕРЬЕЗНО КОРОЧЕ СВАГА ЕБАНУТАЯ. ДАЖЕ БЭДБАРСЫ ВЕСЕЛЫЕ ТЫ ПИСАТЬ НАУЧИЛСЯ АНДРЮХА. ЕДИНСТВЕННОЕ ЧТО МНЕ НЕ НРАВИТСЯ МЕСТАМИ ХУЕВЫЕ РИФМЫ И НАХУЯ ТЫ В ТРЕКЕ НА 1 МИНУТУ ДВА РАЗА БРИДЖ ПОВТОРЯЕШЬ. СДЕЛАЕШЬ КАЖДУЮ СТРОЧКУ БЕДБАРС КАК ТИПА АФИША И БОБ МАРЛИ ХОТЯ БЫ И С РИФМАМИ ПОДЗАМОРОЧИШЬСЯ, ЭТО БУДЕТ УБИЙСТВО ЕБАНОЕ",
-          "scoredAt": "2026-10-14T18:20:08.108Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 1,
-          "artist": "lina_aivy",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:20:04.829Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "FreeГад",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:19:44.393Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "AMK FU",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:18:20.789Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "Ali G",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:17:40.783Z"
         }
       ]
     }

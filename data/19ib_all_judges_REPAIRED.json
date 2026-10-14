@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T18:32:19.754Z",
+  "exportedAt": "2026-10-14T18:42:10.599Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -1465,8 +1465,14 @@
     },
     {
       "userId": "50a41374-8e77-4255-be5a-ca6cdb15c090",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:40:33.406Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -1474,7 +1480,7 @@
           "scoredAt": "2026-09-11T15:36:11.151Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
@@ -16291,8 +16297,14 @@
     },
     {
       "userId": "e8cbffe0-102e-4ba7-9214-a0afd00908f8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:34:25.709Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -16312,7 +16324,7 @@
           "scoredAt": "2026-08-30T20:47:59.139Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
@@ -16653,8 +16665,14 @@
     },
     {
       "userId": "00e23b35-80d9-46ce-8d71-f36a5195367f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:38:47.176Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -16668,7 +16686,7 @@
           "scoredAt": "2026-09-06T20:00:43.378Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
@@ -46213,8 +46231,14 @@
     },
     {
       "userId": "7e3c645a-47e8-4cf8-84a6-1e426cde00ca",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:38:10.005Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -46234,7 +46258,7 @@
           "scoredAt": "2026-10-11T19:37:11.975Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
@@ -46982,8 +47006,14 @@
     },
     {
       "userId": "d2b38546-8e17-47c1-b9fe-4075cfa9a214",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:35:56.711Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -46991,7 +47021,7 @@
           "scoredAt": "2026-10-08T13:50:42.322Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
@@ -63090,8 +63120,14 @@
     },
     {
       "userId": "ab307abb-cd28-4858-88a8-5b49c7c642c5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:37:30.761Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -63117,7 +63153,7 @@
           "scoredAt": "2026-09-29T20:00:07.985Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T18:42:10.599Z",
       "current": true
     },
     {
