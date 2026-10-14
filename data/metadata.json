@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T11:32:10.980Z",
-  "exportedAt": "2026-10-14T11:32:10.980Z",
-  "runId": "2026-10-14T11:32:10.980Z",
-  "forumExportedAt": "2026-10-14T11:32:10.980Z",
+  "lastSuccessfulAt": "2026-10-14T11:41:59.589Z",
+  "exportedAt": "2026-10-14T11:41:59.589Z",
+  "runId": "2026-10-14T11:41:59.589Z",
+  "forumExportedAt": "2026-10-14T11:41:59.589Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8685,
+    "scores": 8687,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5049,
-    "scoresBefore": 8682,
-    "scoresAfter": 8685,
-    "fullBaselineRequests": 2946,
-    "requestReductionPercent": 99.83027834351662,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4368,
+    "scoresBefore": 8685,
+    "scoresAfter": 8687,
+    "fullBaselineRequests": 2947,
+    "requestReductionPercent": 99.86426874787921,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "алмазик",
+          "comment": "бит такой будто американский ниндзя 3 смотрю\nну ты прямо каратист я того всё. \nА так, всё очень слабенько ",
+          "scoredAt": "2026-10-14T11:39:01.818Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Mo_loco",
+          "comment": "ну накидал, ну накидался \nвот иногда у человека рифм нет, иногда флоу\nа тут ритм отсутствует полностью, а это самое важное для рэпера\nможно рифмовать да- пизда, но при этом попадать в бит, или читать это как стих, но при этом бит всё ещё осёдлан. \nв твоём случае ты потерял самое важное. ",
+          "scoredAt": "2026-10-14T11:36:59.420Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -171,20 +185,6 @@
           "artist": "Krates",
           "comment": "не подкачай во втором раунде, в целом я тебе всё сказал, но ты обязательно переслушай, либо запиши всё) и прям по пунктам делай работу на 2 раунд! ",
           "scoredAt": "2026-10-14T10:24:16.983Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Новый русский",
-          "comment": "Зачитал неплохо, но будто на похер.\nКакой-то сумбурный трек, просто записал по быстрому и все. Ставлю авансом 4 за голос, флоу хороший, уверенный и красиво им управляешь. ",
-          "scoredAt": "2026-10-14T10:10:41.476Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Rumaizkaragi",
-          "comment": "Крипл какой-то \nприкольно, но не более, какой-то изюминки не хватило до оценки лучше. \nА зачем так искажать голос ? ",
-          "scoredAt": "2026-10-14T10:05:19.279Z"
         }
       ]
     }
