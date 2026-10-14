@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T22:12:15.262Z",
-  "exportedAt": "2026-10-14T22:12:15.262Z",
-  "runId": "2026-10-14T22:12:15.262Z",
-  "forumExportedAt": "2026-10-14T22:12:15.262Z",
+  "lastSuccessfulAt": "2026-10-14T22:22:09.467Z",
+  "exportedAt": "2026-10-14T22:22:09.467Z",
+  "runId": "2026-10-14T22:22:09.467Z",
+  "forumExportedAt": "2026-10-14T22:22:09.467Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9294,
+    "scores": 9296,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4931,
-    "scoresBefore": 9291,
-    "scoresAfter": 9294,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4032,
+    "scoresBefore": 9294,
+    "scoresAfter": 9296,
     "fullBaselineRequests": 3034,
-    "requestReductionPercent": 99.83520105471325,
+    "requestReductionPercent": 99.86816084377061,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "MAX LIBERTY",
+          "comment": "Бэдтрип в аду при температуре 137.7. Хотел лечь спать после этого трека, но теперь страшно засыпать , пожалуй еще пару сотен треков прослушаю, чтоб забыться ",
+          "scoredAt": "2026-10-14T22:14:55.526Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "MODDAM",
+          "comment": "Зажато оч читаешь, попробуй расслабиться, вайб другой будет. В целом сойдёт, но не выше тройки. Добавь интересных строчек/пэнчей, какие-то простенькие рифмы Аля уровень-уволень и т.п , добавь оригинальности и разнообразия по эмоциям, исполнению . лови три с минусом, но потанцевал есть , надо развивать его. Во второй если пройдешь, то с треком такого уровня тебя сольют",
+          "scoredAt": "2026-10-14T22:12:55.931Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -171,20 +185,6 @@
           "artist": "Антон Рандом",
           "comment": "Согласен что что-то получается, но что? Чуток не хватило в реализации до приемлемого, но как работка однозначно нормальная и положительно выделяешься на общем фоне, сумел создать настроение и атмосферку какую-никакую. Не особо понравилась концовка, она пустоватая и недосказанная. Жаль не смог уложить более емко в минуту, с какой-то сюжетной точкой.",
           "scoredAt": "2026-10-14T21:47:21.036Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Первый Человек",
-          "comment": "Это такой хитровыеб@ный текст про самообман ?! Другого раскрытия тут не увидел. Весьма поэтично, достаточное количество двойных смыслов. Хз, или я сам надумал его. В целом проходная работа, не выше тройки кмк, но что-то в этом есть.",
-          "scoredAt": "2026-10-14T21:46:26.756Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Spawn",
-          "comment": "ватаката, с натягой",
-          "scoredAt": "2026-10-14T21:45:46.431Z"
         }
       ]
     }
