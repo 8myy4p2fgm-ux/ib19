@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T23:12:22.932Z",
-  "exportedAt": "2026-10-14T23:12:22.932Z",
-  "runId": "2026-10-14T23:12:22.932Z",
-  "forumExportedAt": "2026-10-14T23:12:22.932Z",
+  "lastSuccessfulAt": "2026-10-14T23:22:10.057Z",
+  "exportedAt": "2026-10-14T23:22:10.057Z",
+  "runId": "2026-10-14T23:22:10.057Z",
+  "forumExportedAt": "2026-10-14T23:22:10.057Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9335,
+    "scores": 9340,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 15,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 13,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 13,
-    "changedParticipants": 13,
-    "logicalRequests": 15,
-    "durationMs": 15020,
-    "scoresBefore": 9322,
-    "scoresAfter": 9335,
-    "fullBaselineRequests": 3036,
-    "requestReductionPercent": 99.50592885375494,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7552,
+    "scoresBefore": 9335,
+    "scoresAfter": 9340,
+    "fullBaselineRequests": 3037,
+    "requestReductionPercent": 99.76950938426079,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "TIBA",
+          "comment": "ой, как режет слух твои интонации, когда тянешь на \"оо\"\nПрсоти, но прям отвратительно. Совсчем не звучит.\nВ целом хорошо.\nКонцовка тыц-тыц повеселила.",
+          "scoredAt": "2026-10-14T23:21:45.430Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "MC Sakhrat",
+          "comment": "Голос чисто Тратила.\nТекст хороший!\n19шка, новый сезон - \"Всё, кроме репа\" - КРУТО!\nЕсли это трек Григора, то вдвойне круто, потому что я фанат образов и подобного.\n\nПрикольно!",
+          "scoredAt": "2026-10-14T23:18:37.785Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "FLEXIN",
+          "comment": "Хороший такой андер.",
+          "scoredAt": "2026-10-14T23:13:55.888Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "DIMA KEX",
+          "comment": "Нормуль перебежки.\nУверенно!",
+          "scoredAt": "2026-10-14T23:13:21.320Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Lobo",
+          "comment": "Типичное раскрытие для отборо. Ну хорошо, ни больше, ни меньше.",
+          "scoredAt": "2026-10-14T23:12:45.332Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -150,41 +185,6 @@
           "artist": "Шапка в рукаве пальто",
           "comment": "Я прощу тебе отсутствие Панчей за такую прекрасную приятную рифмовку, но это будет первый и последний раз !)",
           "scoredAt": "2026-10-14T23:04:27.740Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "baneoff",
-          "comment": "Хорошее раскрытие.\nПриятный голос, вполне рабочие интонации.\nНеплохо.",
-          "scoredAt": "2026-10-14T23:04:07.119Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "rusaggressor [ЛЮДСКОЕ]",
-          "comment": "Нормуль.",
-          "scoredAt": "2026-10-14T23:02:53.749Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Totty Tottenham",
-          "comment": "Нормуль аудиостих.\nОчень нехватает напора, эмоций, подачи.\n3 авансом за приятный вайбик от биточка",
-          "scoredAt": "2026-10-14T23:02:27.609Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "ADV1CE",
-          "comment": "Дружище, прокачивай дальше этот стиль! Потенциал лютейший!\nХорошая работа, но местами грязновато.",
-          "scoredAt": "2026-10-14T23:01:29.817Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "БОРЯ ПИНК",
-          "comment": "Лена! Спасибо за настроение ) и тебе хорошего дня! Батлрэп должен быть батлрэпом инфа 100ка!",
-          "scoredAt": "2026-10-14T23:00:50.087Z"
         }
       ]
     }
