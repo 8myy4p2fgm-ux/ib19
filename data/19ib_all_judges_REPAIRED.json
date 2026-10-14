@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T17:22:33.011Z",
+  "exportedAt": "2026-10-14T17:32:19.389Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -12374,8 +12374,14 @@
     },
     {
       "userId": "707e36cf-808a-4126-9994-4a3a874fcbbb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:22:42.164Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -12395,7 +12401,7 @@
           "scoredAt": "2026-09-02T19:41:21.784Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -25802,8 +25808,14 @@
     },
     {
       "userId": "5ad1d684-e90c-443c-bc6b-8668a7873af5",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "СТРИМ. НУ ТАКОЙ ДЕФОЛТНЫЙ ПРИЯТНЫЙ РЭБ, ПРО ГИТАРУ И ПЕРЕБОР, ЗЕНИТ И УЛИЦУ, ВОТ ТАКОВА БОЛЬШЕ НАДА БРАД. И РИФМУЙ ПОСЛОЖНЕЙ ИНТЕРЕСНЕЙ ЧТОЛИ.",
+          "scoredAt": "2026-10-14T17:28:50.079Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -25811,7 +25823,7 @@
           "scoredAt": "2026-09-09T10:04:05.135Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -37829,8 +37841,14 @@
     },
     {
       "userId": "851cee83-7c2b-4815-ac44-cc97daaf74b9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:25:21.315Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -37838,7 +37856,7 @@
           "scoredAt": "2026-10-14T16:17:57.836Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:22:33.848Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -44806,9 +44824,16 @@
     },
     {
       "userId": "ea7fa903-5104-47ea-90f7-9ab5f35516f7",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:28:21.596Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -52043,8 +52068,14 @@
     },
     {
       "userId": "41aa7f63-9362-4a6c-a000-42f9733549e7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:30:59.306Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -52064,7 +52095,7 @@
           "scoredAt": "2026-10-12T09:19:13.435Z"
         }
       ],
-      "fetchedAt": "2026-10-14T12:22:03.028Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -55912,8 +55943,14 @@
     },
     {
       "userId": "65f52454-cf46-47c8-b4e1-0d57476446d6",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:31:45.283Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -55921,7 +55958,7 @@
           "scoredAt": "2026-09-18T16:42:49.243Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -73814,8 +73851,14 @@
     },
     {
       "userId": "1a8f8531-5f44-4145-9b93-ebaab37a3790",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T17:31:21.999Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -73829,7 +73872,7 @@
           "scoredAt": "2026-10-05T21:36:18.701Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {
@@ -76618,8 +76661,14 @@
     },
     {
       "userId": "35e70529-7fdd-4722-9ab4-5e4acc4a992c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:25:44.164Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -76633,7 +76682,7 @@
           "scoredAt": "2026-08-31T19:18:24.396Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T17:32:19.389Z",
       "current": true
     },
     {

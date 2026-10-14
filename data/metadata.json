@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T17:22:33.011Z",
-  "exportedAt": "2026-10-14T17:22:33.011Z",
-  "runId": "2026-10-14T17:22:33.011Z",
-  "forumExportedAt": "2026-10-14T17:22:33.011Z",
+  "lastSuccessfulAt": "2026-10-14T17:32:19.389Z",
+  "exportedAt": "2026-10-14T17:32:19.389Z",
+  "runId": "2026-10-14T17:32:19.389Z",
+  "forumExportedAt": "2026-10-14T17:32:19.389Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9052,
+    "scores": 9060,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 11,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 11,
-    "changedParticipants": 11,
-    "logicalRequests": 13,
-    "durationMs": 13447,
-    "scoresBefore": 9041,
-    "scoresAfter": 9052,
-    "fullBaselineRequests": 3004,
-    "requestReductionPercent": 99.56724367509987,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10321,
+    "scoresBefore": 9052,
+    "scoresAfter": 9060,
+    "fullBaselineRequests": 3005,
+    "requestReductionPercent": 99.66722129783693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "МЦ СЁМА ИЗ СЕЛА",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:31:45.283Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "OneRay",
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T17:31:21.999Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "artist": "PAK!STAN",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:30:59.306Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "пуляБан",
+          "comment": "СТРИМ. НУ ТАКОЙ ДЕФОЛТНЫЙ ПРИЯТНЫЙ РЭБ, ПРО ГИТАРУ И ПЕРЕБОР, ЗЕНИТ И УЛИЦУ, ВОТ ТАКОВА БОЛЬШЕ НАДА БРАД. И РИФМУЙ ПОСЛОЖНЕЙ ИНТЕРЕСНЕЙ ЧТОЛИ.",
+          "scoredAt": "2026-10-14T17:28:50.079Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "artist": "Отвёрткин",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:28:21.596Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "artist": "ANDRÆPER",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:25:44.164Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "ЙОВИ",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:25:21.315Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 2,
+          "artist": "x2",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T17:22:42.164Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 5,
@@ -129,62 +185,6 @@
           "artist": "Бутират Каломойский",
           "comment": "Блин, вообще бит угарный для такой тяжелой стори, но ты сама себя губишь таким решением по звуку.\n\nДа, такое и должно читаться умирающим голосом на бите, чтобы была абсолютно \"мертвая\" атмосфера. Но все же даже так надо было куплеты нарифмовать как-то поплотнее, чтобы это было референсно похоже на треки МБ Пакета. У него есть абсолютно мертвые по подаче вещи, по типу того же Дереализма. Послушай их, делай капы в следующий раз громче и тогда у этого будет пусть очень андеграундная, но нишевая атмосфера, которая может вполне себе попадать в какие-то ЦА (в теории, даже и в меня, например, я такое иногда люблю). А тут прикольно становится дай боже только к строчкам про коммуниста и Сталина.\n\nНо ты прекрасна в своей настоящести, помни про это и не забывай, неси и дальше свою яркую искру в массы и все получится.\n\nСтрим, ч. 15",
           "scoredAt": "2026-10-14T17:14:34.753Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Moymirok",
-          "comment": "СТРИМ.",
-          "scoredAt": "2026-10-14T17:14:30.168Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "artist": "zoo in space",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:14:03.218Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "RUD",
-          "comment": "БРО БЫЛ ПРИКОЛЬНЫЙ КАЛАМБУР ПРО ПРИКОВАЛ К БАТАРЕИ И ЖДУ РАЗВЯКИ, ДАЛЬШЕ ТЬМА И ПУСТОТА ПО ИНТЕРЕСНЫМ ПРЭКАМ В ТЕХТЕ. НО Я УВЕРЕН ЧТО ТЫ ПРОЙДЕШЬ.",
-          "scoredAt": "2026-10-14T17:13:04.206Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "Т7",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:12:16.842Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "ADV1CE",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:11:16.471Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "homie outskirts",
-          "comment": "СТРИМ. СВАГИ РАЗДАЛ КАНЕШНА, НО В ТЕХТ НАДО ПРЭКОВ Я ХЗ, ЭТО ЖЕ БОТОЛ ДРУХ.",
-          "scoredAt": "2026-10-14T17:10:39.234Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "ЭЛФИ",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:10:32.641Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Винчи",
-          "comment": "СТРИМ. БРО КОРОЧЕ НЕПЛОХО ЧТО ТЫ СДЕЛАЛ СТОРИТЕЛЛ И ПОШЕЛ В РАСКРЫТИЕ. НО КАК БУДТО В ТАКОМ ТЕКСТОЦЕНТРИЧНОМ НАПРАВЛЕНИИ НУЖНО И РИФМЫ ПОИЗЪЕБИСТЕЙ И ДРАТУРГИЧЕСКИ ИСТОРИЮ ПОКРУЧЕ ПРОПИСАТЬ, ВОТ. Я БЫ ДАЖЕ МБ 4 ПОСТАВИЛ, НО ПУСТЬ У ТЕБЯ БУДЕТ ТАКОЙ НЕБОЛЬШОЙ ПИНОК -  СДЕЛАТЬ ЛУЧШЕ ВО 2.",
-          "scoredAt": "2026-10-14T17:08:02.792Z"
         }
       ]
     }

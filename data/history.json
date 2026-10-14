@@ -84690,6 +84690,118 @@
         "scoredAt": "2026-10-14T17:12:16.842Z",
         "userId": "ed283c82-a6a7-4cb3-82b2-53613f2bd37a"
       }
+    },
+    {
+      "id": "8c2933ca8c53a9b986207d90bb8d68cff60be0b696d40c4daff90a75dd0c7e0f",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:22:42.164Z",
+      "key": "[\"707e36cf-808a-4126-9994-4a3a874fcbbb\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 2,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:22:42.164Z",
+        "userId": "707e36cf-808a-4126-9994-4a3a874fcbbb"
+      }
+    },
+    {
+      "id": "34fa8c4089ad4673eac04e7276e5d44033529524d85110af861fa391467451af",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:28:50.079Z",
+      "key": "[\"5ad1d684-e90c-443c-bc6b-8668a7873af5\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "СТРИМ. НУ ТАКОЙ ДЕФОЛТНЫЙ ПРИЯТНЫЙ РЭБ, ПРО ГИТАРУ И ПЕРЕБОР, ЗЕНИТ И УЛИЦУ, ВОТ ТАКОВА БОЛЬШЕ НАДА БРАД. И РИФМУЙ ПОСЛОЖНЕЙ ИНТЕРЕСНЕЙ ЧТОЛИ.",
+        "scoredAt": "2026-10-14T17:28:50.079Z",
+        "userId": "5ad1d684-e90c-443c-bc6b-8668a7873af5"
+      }
+    },
+    {
+      "id": "5d3fdf000d95073cf3d3174f7ec5687ec513695dd72e3eec9a290d7d51327fc3",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:25:21.315Z",
+      "key": "[\"851cee83-7c2b-4815-ac44-cc97daaf74b9\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:25:21.315Z",
+        "userId": "851cee83-7c2b-4815-ac44-cc97daaf74b9"
+      }
+    },
+    {
+      "id": "cda88de3d864b0e34388fbf4f1eab07609f9a49528ca50ce1c49c4ac1b9912a8",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:28:21.596Z",
+      "key": "[\"ea7fa903-5104-47ea-90f7-9ab5f35516f7\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 2,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:28:21.596Z",
+        "userId": "ea7fa903-5104-47ea-90f7-9ab5f35516f7"
+      }
+    },
+    {
+      "id": "e12a7dbcdd45933a7f85c86898a8d8e9c17466428a6d486a63e811dd5c59783b",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:30:59.306Z",
+      "key": "[\"41aa7f63-9362-4a6c-a000-42f9733549e7\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 2,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:30:59.306Z",
+        "userId": "41aa7f63-9362-4a6c-a000-42f9733549e7"
+      }
+    },
+    {
+      "id": "e96e83d4063c390b9a429d8684aea15ea4d0d47714c531a23416d5e6ea5d8b90",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:31:45.283Z",
+      "key": "[\"65f52454-cf46-47c8-b4e1-0d57476446d6\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:31:45.283Z",
+        "userId": "65f52454-cf46-47c8-b4e1-0d57476446d6"
+      }
+    },
+    {
+      "id": "8676bcdbc2c2d043848fa26b2d7d649eb9a64bf806aee667c380f6c55f641743",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:31:21.999Z",
+      "key": "[\"1a8f8531-5f44-4145-9b93-ebaab37a3790\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "СТРИМ.",
+        "scoredAt": "2026-10-14T17:31:21.999Z",
+        "userId": "1a8f8531-5f44-4145-9b93-ebaab37a3790"
+      }
+    },
+    {
+      "id": "0d0a2d700d7463d6a0866cdaf19fb8d5004d7053e3d79210402eb8990b990923",
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "sourceScoredAt": "2026-10-14T17:25:44.164Z",
+      "key": "[\"35e70529-7fdd-4722-9ab4-5e4acc4a992c\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 2,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T17:25:44.164Z",
+        "userId": "35e70529-7fdd-4722-9ab4-5e4acc4a992c"
+      }
     }
   ],
   "snapshots": [
@@ -85609,6 +85721,26 @@
           "index": 27.792108330142945,
           "favor": 18.716441265228568,
           "attention": -2.4243329350856233,
+          "respect": 11.5
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T17:32:19.389Z",
+      "exportedAt": "2026-10-14T17:32:19.389Z",
+      "scores": 9060,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.348180212963268,
+          "favor": 10.050240279598077,
+          "attention": 6.155082790508048,
+          "respect": 7.142857142857143
+        },
+        "veterans": {
+          "index": 27.815151031464556,
+          "favor": 18.725293132328307,
+          "attention": -2.4101421008637502,
           "respect": 11.5
         }
       }
