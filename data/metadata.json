@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T22:02:11.068Z",
-  "exportedAt": "2026-10-14T22:02:11.068Z",
-  "runId": "2026-10-14T22:02:11.068Z",
-  "forumExportedAt": "2026-10-14T22:02:11.068Z",
+  "lastSuccessfulAt": "2026-10-14T22:12:15.262Z",
+  "exportedAt": "2026-10-14T22:12:15.262Z",
+  "runId": "2026-10-14T22:12:15.262Z",
+  "forumExportedAt": "2026-10-14T22:12:15.262Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9291,
+    "scores": 9294,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 5,
-    "durationMs": 5470,
-    "scoresBefore": 9288,
-    "scoresAfter": 9291,
+    "durationMs": 4931,
+    "scoresBefore": 9291,
+    "scoresAfter": 9294,
     "fullBaselineRequests": 3034,
     "requestReductionPercent": 99.83520105471325,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Mad Marx",
+          "comment": "Нененене, тут же такое не прокатывает, мэд",
+          "scoredAt": "2026-10-14T22:08:22.901Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Александр Фальков",
+          "comment": "Гуф залогинься чето как-то мало и банально , три с минусом авансом ",
+          "scoredAt": "2026-10-14T22:06:26.855Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Хип-Хоп Не Одинокой Старухи",
+          "comment": "Проходная работа, простенькая но обёрнутая в эффекты, без них действительно звучало бы хуже, но текст они не украсили к сожалению, постарайся в интересные строчки , скучновато в целом ",
+          "scoredAt": "2026-10-14T22:03:50.225Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -164,27 +185,6 @@
           "artist": "Spawn",
           "comment": "ватаката, с натягой",
           "scoredAt": "2026-10-14T21:45:46.431Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Денис",
-          "comment": "По звуку вроде есть попытка сделать интересно, но флоу за ней не успевает. Как будто задумка сильнее, чем результат.",
-          "scoredAt": "2026-10-14T21:44:57.698Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Тона",
-          "comment": "жирно, с авансом, но толстеть это круто, в стиле",
-          "scoredAt": "2026-10-14T21:44:38.161Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Анастасия GERA",
-          "comment": "прям как ИИ, класс",
-          "scoredAt": "2026-10-14T21:42:35.435Z"
         }
       ]
     }
