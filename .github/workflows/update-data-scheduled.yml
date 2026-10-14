@@ -1,9 +1,6 @@
 name: Update judging data
 run-name: ${{ inputs.source == 'cloudflare' && format('Cloudflare {0}', inputs.clock_slot) || format('Judging data · {0}', github.event_name) }}
 on:
-  schedule:
-    - cron: '1-59/10 * * * *'
-      timezone: 'Europe/Moscow'
   workflow_dispatch:
     inputs:
       mode:
@@ -32,7 +29,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 65
     environment:

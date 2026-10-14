@@ -12,7 +12,7 @@
   },
   "vars": {
     "ENABLED": "true",
-    "DRY_RUN": "true",
+    "DRY_RUN": "false",
     "GH_APP_ID": "5313552",
     "GH_INSTALLATION_ID": "171308771"
   },

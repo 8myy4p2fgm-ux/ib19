@@ -8,9 +8,9 @@ GitHub App ID 5313552, Installation ID 171308771. Установка тольк�
 
 Cloudflare: авторизация владельца аккаунта для Workers и SQLite-backed Durable Objects. Права на DNS, настройки tuz19.ru и платный тариф не нужны. При необходимости платного тарифа сначала согласовать стоимость; автоматически его не включать.
 
-## Исходное состояние безопасно
+## Рабочая конфигурация
 
-`wrangler.jsonc`: crons пустой, ENABLED=false, DRY_RUN=true, workers_dev=false и preview_urls=false. Даже развёрнутый в таком состоянии Worker не запускает GitHub и не имеет публичного HTTP-интерфейса. GitHub cron пока сохранён для текущей работы; реализация только в локальной ветке до проверки доступов.
+`wrangler.jsonc`: crons=["1-59/10 * * * *"], ENABLED=true, DRY_RUN=false, workers_dev=false и preview_urls=false. Только Cloudflare запускает автоматический сбор; GitHub workflow оставлен с workflow_dispatch. Публичного HTTP-интерфейса Worker нет. Для безопасного первоначального развёртывания выставить ENABLED=false, DRY_RUN=true и пустой список crons; для проверки настоящего таймера — ENABLED=true, DRY_RUN=true.
 
 Сборка без публикации: `wrangler deploy --dry-run --config cloudflare/wrangler.jsonc`. Локальная проверка таймера: `wrangler dev --test-scheduled --config cloudflare/wrangler.jsonc`, затем GET `http://localhost:8787/cdn-cgi/local/scheduled`. Начальная конфигурация не использует ключ и не обращается к GitHub. Для preflight с секретом создать игнорируемый `.dev.vars` локально, выставить ENABLED=true и оставить DRY_RUN=true. Это только чтение GitHub; ready=false ожидается, пока main содержит native cron или не получил source/clock_slot.
 
@@ -18,7 +18,7 @@ Cloudflare: авторизация владельца аккаунта для Wo
 
 1. Все тесты, валидация данных, build и Wrangler dry-run должны пройти. Проверить App permissions и installation по настоящему ключу запросами чтения, не делать dispatch для проверки авторизации.
 2. Авторизоваться в Cloudflare через Wrangler. Развернуть начальную выключенную конфигурацию. Загрузить PEM через `wrangler secret put GH_PRIVATE_KEY --config cloudflare/wrangler.jsonc` со stdin из локального файла; не вставлять содержимое в командную строку и не включать shell tracing. Не сохранять ключ в Git.
-3. Перед переключением проверить свежий main и отсутствие незавершённых collector/deploy. Удалить только schedule-блок из update-data-scheduled.yml, сохранив workflow_dispatch и новые поля source/clock_slot. Отправить обычным git push после проверки актуальности main; не force-push. Дождаться успешного Deploy Pages и завершения всех прежних заданий.
+3. Перед переключением проверить свежий main и отсутствие незавершённых collector/deploy. Удалить schedule-блок из update-data-scheduled.yml, сохранив workflow_dispatch и новые поля source/clock_slot. Отправить обычным git push после проверки актуальности main; не force-push. Дождаться успешного Deploy Pages и завершения всех прежних заданий.
 4. Выполнить preflight: ready=true, workflow active; без dispatch. Для проверки настоящего Cloudflare Cron разрешён ENABLED=true, DRY_RUN=true, triggers.crons=["1-59/10 * * * *"] ещё до удаления GitHub cron: этот режим только читает GitHub, не запускает второй сборщик. При оставшемся native cron Worker блокирует отправку.
 5. Включить ENABLED=true, DRY_RUN=false, triggers.crons=["1-59/10 * * * *"] и развернуть Worker. Это 01,11,21,31,41,51 минута каждого часа по UTC и МСК. Распространение настроек Cron Cloudflare может занять до 15 минут.
 6. Получить минимум три настоящих Cron invocation и связанные workflow_dispatch (run-name `Cloudflare <slot>`). Для каждого сверить mode, запросы, lastCheckedAt, статусы публикации и сохранность истории. При unchanged build/commit/deploy должны быть skipped; успешный Actions artifact должен сохраниться. Если все три нашли изменения, реальный no-op ещё не проверен — дождаться подходящего запуска, не объявлять тестовую фикстуру production-доказательством.
@@ -37,4 +37,4 @@ GitHub API не предоставляет idempotency-key для dispatch. Зд
 
 ## Откат
 
-Сначала выключить Worker ENABLED=false, дождаться распространения и завершения/сверки отправленных runs. Только затем вернуть GitHub cron. Не оставлять оба таймера включёнными. Историю, данные и секреты для отката не удалять; исправный сайт продолжает работать.
+Сначала выключить Worker ENABLED=false, дождаться распространения и завершения/сверки отправленных runs. Только затем вернуть GitHub cron и разрешить событие schedule в условии update-job. Не оставлять оба таймера включёнными. Историю, данные и секреты для отката не удалять; исправный сайт продолжает работать.
