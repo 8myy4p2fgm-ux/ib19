@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T18:02:22.315Z",
-  "exportedAt": "2026-10-14T18:02:22.315Z",
-  "runId": "2026-10-14T18:02:22.315Z",
-  "forumExportedAt": "2026-10-14T18:02:22.315Z",
+  "lastSuccessfulAt": "2026-10-14T18:12:12.316Z",
+  "exportedAt": "2026-10-14T18:12:12.316Z",
+  "runId": "2026-10-14T18:12:12.316Z",
+  "forumExportedAt": "2026-10-14T18:12:12.316Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9089,
+    "scores": 9095,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 14,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 12,
-    "logicalRequests": 14,
-    "durationMs": 14096,
-    "scoresBefore": 9077,
-    "scoresAfter": 9089,
-    "fullBaselineRequests": 3009,
-    "requestReductionPercent": 99.53472914589565,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8118,
+    "scoresBefore": 9089,
+    "scoresAfter": 9095,
+    "fullBaselineRequests": 3011,
+    "requestReductionPercent": 99.73430753902358,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Еб@л Мадрид",
+          "comment": "СУДИЛ НА СТРИМЕ. КОРОЧЕ БРО ОХУЕННО, ЭКСПРЕССИЯ И ХИМИЯ ЕСТЬ, ГАЛАВА КАЧАЛАСЬ. ПРИКОЛЬНЫЕ РИТМИЧЕСКИЕ ПАЗУЫ ВЫДЕРЖАНЫ, КОРОЧЕ НЕ ДОЕБАТЬСЯ ДО ИСПОЛНЕНИЯ. ИЗ МИНУСОВ ДЛЯ СЕБЯ ЗАМЕТИЛ, ПАНЧИ - МОЖНО ДОКРУТИТЬ ГЛУБЖЕ. У ТЕБЯ МНОГО КРУТЫХ ЗАХОДОВ, НО КАК БУДТО ТЫ ИХ НЕ ТУДА УВЕЛ. ПО РИФМОКОНСРУКЦИИ В НЕКОТОРЫХ ЧЕТВРКАХ ИНТЕРЕСНО, НО САМИ РИФМЫ ИНОГДА ПРОСТОВАТЫ, НУ ТЫ ПОНИМАЕШЬ ТИПО УКАЗКА-СКАЗКА, ВОТ ТАКИЕ МОМЕНТЫ ИСКЛЮЧИТЬ И БУДЕТ ПРЯМ ОГОНЬ ПОТОМУ ЧТО ЕСТЬ И ХОРОШИЕ АВТОРСКИЕ РИФМЫ ТИПО: СЮР И БРЕД - S`IL VOUS PLAI. НУ И ПРО ПАНЧИ ДА, ЗАХОДЫ ТЫ ПРИДУМЫВАТЬ УМЕЕШЬ, НАДО ТОЛЬКО ДОКРУТИТЬ ДО ПАНЧЛАЙНА.",
+          "scoredAt": "2026-10-14T18:11:05.519Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "не будем",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:09:35.959Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "Джейаут",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:05:50.491Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Кирбадн",
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T18:05:23.347Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "Бордо",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:03:33.714Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "GhostOn",
+          "comment": "СУДИЛ НА СТРИМЕ. КОРОЧЕ БРО СМОТРИ. ТЫ НЕПЛОХО ЧУВСТВЕШЬ СЕБЯ НА БИТЕ, МБ ДАЖЕ ХОРОШО. РИТМИЧЕСКИ ИГРАЕШЬ ПРИКОЛЬНО НА БУМБАПЕ, ПУЗЫ, КРЧ МУЗЫКУ ЧУВСТВЕШЬ. НЕМНОГО КАК БУДТО СТЕСНЯЯСЬ ЗАЧИТАНО, ДАЙ БОЛЬШЕ ХАРИЗМЫ В ГОЛОС И БУДЕТ КРУТО. ПО ТЕХТУ НЕ ХВАТАЕТ ПАНЧЛАЙНОВ.",
+          "scoredAt": "2026-10-14T18:03:04.166Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -143,48 +185,6 @@
           "artist": "Снэк",
           "comment": "Стрим 10",
           "scoredAt": "2026-10-14T17:54:23.187Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "Мазл Паст",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:53:10.671Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "silent hill",
-          "comment": "СУДИЛ СТРИМ.",
-          "scoredAt": "2026-10-14T17:52:43.200Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "MC Welkin",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:52:40.360Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "Dionaea",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:51:47.749Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Майкл",
-          "comment": "ВЫДЕРЖАНО, ПРИЯТНО, ДАВАЙ ЕЩЕ КРУЧЕ СДЕЛАЙ, БОЛЬШЕ КРУТЫХ МЫСЛЕЙ, ПУНЧЕЙ В СЛЕД РОВОНДЕ. СУДИЛ ЕС ЧЕ НА СТРИМЕ.",
-          "scoredAt": "2026-10-14T17:50:51.444Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "ПИБ",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:49:44.807Z"
         }
       ]
     }
