@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T21:52:19.398Z",
-  "exportedAt": "2026-10-14T21:52:19.398Z",
-  "runId": "2026-10-14T21:52:19.398Z",
-  "forumExportedAt": "2026-10-14T21:52:19.398Z",
+  "lastSuccessfulAt": "2026-10-14T22:02:11.068Z",
+  "exportedAt": "2026-10-14T22:02:11.068Z",
+  "runId": "2026-10-14T22:02:11.068Z",
+  "forumExportedAt": "2026-10-14T22:02:11.068Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9288,
+    "scores": 9291,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 15,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 11,
-    "logicalRequests": 15,
-    "durationMs": 15213,
-    "scoresBefore": 9276,
-    "scoresAfter": 9288,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5470,
+    "scoresBefore": 9288,
+    "scoresAfter": 9291,
     "fullBaselineRequests": 3034,
-    "requestReductionPercent": 99.50560316413974,
+    "requestReductionPercent": 99.83520105471325,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Могавк",
+          "comment": "Потенциал где-то там есть , но трек слабоватый конечно, редактируй строки чтоб в дит умещались и не звучали награможденно. Не ленись . три с минусом , хз пройдешь дальше или нет ",
+          "scoredAt": "2026-10-14T22:00:15.040Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Coga",
+          "comment": "Давай я не буду занищать за 2 часть, и авансом 4 с минусом поставлю . потанцевал в тебе есть, просто чуть посиди над текстом еще, выпиши панчо а потом отсей остальные и оставь лучшие. Давай во второй раунд, но там выдай свой Прайм пж. Потанцевал в тебе есть, просто не забывай на него болт ",
+          "scoredAt": "2026-10-14T21:56:25.548Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Евгений Районский",
+          "comment": "как у кого у них? золотишко 3",
+          "scoredAt": "2026-10-14T21:52:49.178Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "i-ron[yoBro]",
+          "comment": "Лови свою пятерку, легенда! Всё прекрасно, приятный напев",
+          "scoredAt": "2026-10-14T21:52:10.129Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -157,34 +185,6 @@
           "artist": "Анастасия GERA",
           "comment": "прям как ИИ, класс",
           "scoredAt": "2026-10-14T21:42:35.435Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Андрей Николаевич",
-          "comment": "зажал, будь свободней в стиле",
-          "scoredAt": "2026-10-14T21:42:03.960Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Эти дни",
-          "comment": "с барскими",
-          "scoredAt": "2026-10-14T21:41:15.465Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Big Moorchik",
-          "comment": "Какой же флоу интересный. Даже не пойму своё отношение к нему. Но наверно 3 - честная оценка.",
-          "scoredAt": "2026-10-14T21:39:39.800Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "ZAGORAD",
-          "comment": "Бодренько, есть интересные строчки, звучит хорошо , тема раскрыта, на бите уверено сидишь и звучишь , жду тебя в парных - хз че ты в отборах забыл. Мб во втором покажешь зубастых пЭнчиков ?",
-          "scoredAt": "2026-10-14T21:36:50.808Z"
         }
       ]
     }
