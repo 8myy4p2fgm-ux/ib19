@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T21:12:14.233Z",
-  "exportedAt": "2026-10-14T21:12:14.233Z",
-  "runId": "2026-10-14T21:12:14.233Z",
-  "forumExportedAt": "2026-10-14T21:12:14.233Z",
+  "lastSuccessfulAt": "2026-10-14T21:22:07.546Z",
+  "exportedAt": "2026-10-14T21:22:07.546Z",
+  "runId": "2026-10-14T21:22:07.546Z",
+  "forumExportedAt": "2026-10-14T21:22:07.546Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9261,
+    "scores": 9263,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9357,
-    "scoresBefore": 9254,
-    "scoresAfter": 9261,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4476,
+    "scoresBefore": 9261,
+    "scoresAfter": 9263,
     "fullBaselineRequests": 3030,
-    "requestReductionPercent": 99.70297029702971,
+    "requestReductionPercent": 99.86798679867987,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Костя Сумрак",
+          "comment": "Не совсем мимо, но и до нормального проходного уровня, по-моему, не дотягивает. Есть над чем работать.",
+          "scoredAt": "2026-10-14T21:20:12.162Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "яособенный",
+          "comment": "Так как ты особенный то давай хотя бы три. Не борщи с дозировкой",
+          "scoredAt": "2026-10-14T21:12:58.969Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 1,
@@ -171,20 +185,6 @@
           "artist": "Хила",
           "comment": "Вполне хорошо и грамотно 👍\nСтрочек бы сюда цепляющих добавить и бомба пушка получится. Для первого отбора, весьма бодро",
           "scoredAt": "2026-10-14T20:56:03.814Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "MC Welkin",
-          "comment": "Ну попытка в оригинальность, как мне кажется, не удалась. Ни по звуку, ни по тексту.",
-          "scoredAt": "2026-10-14T20:54:43.603Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "IvCity",
-          "comment": "Прикольная целостная работа. Не хватает только буквально 1-2 ярких панчлайнов.",
-          "scoredAt": "2026-10-14T20:53:58.013Z"
         }
       ]
     }
