@@ -41,10 +41,11 @@ try{
    window.loaderTimes={};
    new MutationObserver(()=>{const l=document.getElementById('carrot-loader');if(l&&!window.loaderTimes.start)window.loaderTimes.start=performance.now();if(l?.classList.contains('is-hidden')&&!window.loaderTimes.fade)window.loaderTimes.fade=performance.now();}).observe(document,{subtree:true,childList:true,attributes:true,attributeFilter:['class']});
   });
-  let requestStarted=false;
+  let requestStarted=false,releaseSlow;
+  const slowGate=new Promise(resolve=>{releaseSlow=resolve;});
   await context.route('**/data/metadata.json?*',async route=>{
    requestStarted=true;
-   if(scenario==='slow')await new Promise(r=>setTimeout(r,3200));
+   if(scenario==='slow')await slowGate;
    if(scenario==='error')await route.fulfill({status:503,body:'unavailable'});else await route.continue();
   });
   const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));
@@ -52,8 +53,12 @@ try{
   await page.waitForSelector('#carrot-loader',{state:'visible'});
   const style=await page.locator('#carrot-loader .carrot').evaluate(e=>{const c=getComputedStyle(e);return {size:c.fontSize,duration:c.animationDuration,iteration:c.animationIterationCount};});
   assert.deepEqual(style,{size:'68px',duration:'1s',iteration:'infinite'});
-  await page.waitForTimeout(1100);assert.ok(requestStarted,'fetch starts during loader');assert.equal(await page.locator('#carrot-loader.is-hidden').count(),0,'not dismissed early');
-  if(scenario==='slow'){await page.waitForTimeout(1050);assert.equal(await page.locator('#carrot-loader.is-hidden').count(),0,'still waiting for slow data after 2 seconds');}
+  await page.waitForTimeout(1100);assert.ok(requestStarted,'fetch starts during loader');
+  // DOMContentLoaded may already be late on a busy runner: anchor to loader start,
+  // and retain the unconditional fade-start minimum-duration assertion below.
+  const observed=await page.evaluate(()=>({elapsed:performance.now()-window.loaderTimes.start,hidden:document.getElementById('carrot-loader')?.classList.contains('is-hidden')??true}));
+  if(observed.elapsed<1985)assert.equal(observed.hidden,false,'not dismissed early');
+  if(scenario==='slow'){await page.waitForFunction(()=>performance.now()-window.loaderTimes.start>=2100);assert.equal(await page.locator('#carrot-loader.is-hidden').count(),0,'still waiting for slow data after 2 seconds');releaseSlow();}
   await page.waitForSelector('#carrot-loader',{state:'detached'});
   const timing=await page.evaluate(()=>window.loaderTimes);assert.ok(timing.fade-timing.start>=1985,JSON.stringify(timing));
   if(scenario==='error'){assert.match(await page.locator('#load-state').textContent(),/Не удалось подготовить аналитику/);assert.ok(await page.locator('#load-state button').isVisible());}
