@@ -49,7 +49,7 @@ dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
   const days=Math.floor(diff/86400),hours=Math.floor(diff%86400/3600),minutes=Math.floor(diff%3600/60);
   output.textContent=`${days}д ${hours}ч ${minutes}м`;
  }
- window.addEventListener('hashchange',refreshDeadlineCountdown);
+ window.addEventListener('ib19:route',refreshDeadlineCountdown);
  window.addEventListener('deadline-data-ready',refreshDeadlineCountdown);
  // Recheck after data loads and when navigation changes active sections.
  setInterval(refreshDeadlineCountdown,10000);

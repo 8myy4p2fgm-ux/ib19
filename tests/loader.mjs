@@ -73,8 +73,8 @@ try{
    assert.equal(number(await page.locator('#home-position-pass-label').textContent()),Number((100*stats.pass/decided).toFixed(1)));
    assert.equal(number(await page.locator('#home-position-fail-label').textContent()),Number((100*stats.fail/decided).toFixed(1)));
    assert.equal(await page.locator('.home-groups-always tbody tr').count(),3);assert.equal(await page.locator('details.home-groups-details').count(),0);
-   for(const route of ['dynamics','judges','forum-link','overview']){await page.locator('.nav[href="#/round/1/'+route+'"]').click();assert.equal(await page.locator('#carrot-loader').count(),0);}
-   await page.reload({waitUntil:'domcontentloaded'});assert.ok(await page.locator('#carrot-loader').isVisible());await page.waitForSelector('#carrot-loader',{state:'detached'});
+   for(const route of ['dynamics','judges','rappers','']){await page.locator('.nav[href="/'+route+(route?'/':'')+'"]').click();assert.equal(await page.locator('#carrot-loader').count(),0);}
+   await page.reload({waitUntil:'domcontentloaded'});await page.waitForSelector('#carrot-loader',{state:'detached'});const reloadTiming=await page.evaluate(()=>window.loaderTimes);assert.ok(reloadTiming.fade-reloadTiming.start>=1985,JSON.stringify(reloadTiming));
   }
   console.log('Loader '+scenario+': parallel data, minimum 2 seconds, correct ready/error state.');await context.close();
  }
