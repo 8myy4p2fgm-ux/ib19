@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T19:12:13.253Z",
-  "exportedAt": "2026-10-14T19:12:13.253Z",
-  "runId": "2026-10-14T19:12:13.253Z",
-  "forumExportedAt": "2026-10-14T19:12:13.253Z",
+  "lastSuccessfulAt": "2026-10-14T19:22:24.753Z",
+  "exportedAt": "2026-10-14T19:22:24.753Z",
+  "runId": "2026-10-14T19:22:24.753Z",
+  "forumExportedAt": "2026-10-14T19:22:24.753Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9144,
+    "scores": 9153,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 11,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9100,
-    "scoresBefore": 9137,
-    "scoresAfter": 9144,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 11,
+    "logicalRequests": 13,
+    "durationMs": 13427,
+    "scoresBefore": 9144,
+    "scoresAfter": 9153,
     "fullBaselineRequests": 3016,
-    "requestReductionPercent": 99.70159151193634,
+    "requestReductionPercent": 99.56896551724138,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,18 +82,81 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Этот Парень",
+          "comment": "Ультра странный текст, я пытался вслушаться и вчитаться, но не понял... Стилёк есть, потенциал есть\n",
+          "scoredAt": "2026-10-14T19:21:31.050Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Sizzam",
+          "comment": "Натянутая 4ка, скучновато по тексту, но по исполнению всё в порядке",
+          "scoredAt": "2026-10-14T19:19:12.216Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "AncientDragon",
+          "comment": "злой стим под питчем? нет конечно, норм!",
+          "scoredAt": "2026-10-14T19:18:02.108Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "DIEGO DULO",
+          "comment": "На очень уверенном! Поймал ностальгический ретро-вайб от трека. В конце красиво напел. За строителя спасибо! Не понял, че ты тут делаешь в 1 раунде, тебя во втором заждались!",
+          "scoredAt": "2026-10-14T19:17:44.213Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Говорит Магадан",
+          "comment": "батлово! с натяжкой!",
+          "scoredAt": "2026-10-14T19:16:49.286Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Часики Casio",
+          "comment": "с барскими плечами!",
+          "scoredAt": "2026-10-14T19:15:43.212Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "старый соберись",
+          "comment": "хорошо, с натяжечкой!",
+          "scoredAt": "2026-10-14T19:14:33.964Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "artist": "Zibarelli",
+          "comment": "С чувством ритма есть проблемы, кривые ускорения в моментах, вообще не ахти. Сам рэпасек - обычненький, meh. Стоит сначала просто поднабраться опыта.",
+          "scoredAt": "2026-10-14T19:13:54.762Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "neuro",
+          "comment": "бит заебись",
+          "scoredAt": "2026-10-14T19:13:24.104Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Sema Demon",
+          "comment": "пенис мой медведь-шатун",
+          "scoredAt": "2026-10-14T19:12:20.618Z"
+        },
+        {
           "judgeName": "AL Hammer",
           "score": 3,
           "artist": "Рид Ридди",
           "comment": "раскрытие? а тут только ртимика",
           "scoredAt": "2026-10-14T19:11:05.713Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "MIHEQ",
-          "comment": "Я «закричу на весь мир», да у меня внутри «ТРАВМА» (с) - прекрасно. Я «единственный рэпер», но где Слава - отлично. Очень уместный неймдропинг. В тексте хорошо по смыслу заложил, много интересных строк, закончил эффектно на \"работаю 7\\0, у меня безвыходная жизнь. По флоу могу только похвалить. Жду во втором. ",
-          "scoredAt": "2026-10-14T19:07:46.528Z"
         },
         {
           "judgeName": "H1GH",
@@ -122,69 +185,6 @@
           "artist": "DROGHT",
           "comment": "беки охуенно, раскрытия 0, барствуйте",
           "scoredAt": "2026-10-14T19:04:04.270Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "THE PATHOS",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T19:02:34.775Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "FLEXIN",
-          "comment": "Ну вот с рифмой что-то надо делать. Это прям портит впечатление, хотя голос нормальный и флоу в порядке.",
-          "scoredAt": "2026-10-14T19:01:52.029Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "дунадан",
-          "comment": "с натяжечкой",
-          "scoredAt": "2026-10-14T19:01:03.048Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "меркнет",
-          "comment": "пойдёт",
-          "scoredAt": "2026-10-14T19:00:03.100Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "Забытый музой",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:59:21.447Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "Vector Geology",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:58:35.895Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Reisig",
-          "comment": "гот за готом, год за годом - интересная находка. Давай договоримся во втором на глаголы не рифмовать. По флоу вопросов нет, эмоционально идешь хорошо. ",
-          "scoredAt": "2026-10-14T18:57:37.077Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "sorrymike",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:56:51.610Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "Ха",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:56:00.759Z"
         }
       ]
     }

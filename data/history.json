@@ -85978,6 +85978,160 @@
         "scoredAt": "2026-10-14T19:05:38.471Z",
         "userId": "d7aa5a65-da04-4144-87eb-d53775b831fb"
       }
+    },
+    {
+      "id": "713ae7c8add7a8227f1afaf210a0329c08e355712067ff5945037976df736663",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": null,
+      "key": "[\"46b0006f-be87-4411-861c-b7ef57a82c3d\",\"Вла-Да\"]",
+      "before": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Я «закричу на весь мир», да у меня внутри «ТРАВМА» (с) - прекрасно. Я «единственный рэпер», но где Слава - отлично. Очень уместный неймдропинг. В тексте хорошо по смыслу заложил, много интересных строк, закончил эффектно на \"работаю 7\\0, у меня безвыходная жизнь. По флоу могу только похвалить. Жду во втором. ",
+        "scoredAt": "2026-10-14T19:07:46.528Z",
+        "userId": "46b0006f-be87-4411-861c-b7ef57a82c3d"
+      },
+      "after": null
+    },
+    {
+      "id": "f0f2f76b91ce01f87b25b461ea6247d45f865775e03a656388b87e95eced6234",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:14:33.964Z",
+      "key": "[\"e8cbffe0-102e-4ba7-9214-a0afd00908f8\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "хорошо, с натяжечкой!",
+        "scoredAt": "2026-10-14T19:14:33.964Z",
+        "userId": "e8cbffe0-102e-4ba7-9214-a0afd00908f8"
+      }
+    },
+    {
+      "id": "86cfe49f759aba257228239dff822ea20722d3be6bc17c4cb426e1444316d377",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:19:12.216Z",
+      "key": "[\"a368bf5b-4723-42de-9346-18944ee8a0f9\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Натянутая 4ка, скучновато по тексту, но по исполнению всё в порядке",
+        "scoredAt": "2026-10-14T19:19:12.216Z",
+        "userId": "a368bf5b-4723-42de-9346-18944ee8a0f9"
+      }
+    },
+    {
+      "id": "1743fbc9b47ed059244a7073f8af0ca300c9c02f5e1a9f2f638233d2d5eb81dc",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:15:43.212Z",
+      "key": "[\"550d882c-9728-4317-9be4-7f1f7d90c268\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "с барскими плечами!",
+        "scoredAt": "2026-10-14T19:15:43.212Z",
+        "userId": "550d882c-9728-4317-9be4-7f1f7d90c268"
+      }
+    },
+    {
+      "id": "d5db1b5f6761a42b94064cffd68cf0f5f4dc1605b1e5976c8e5ff138c52a907b",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:18:02.108Z",
+      "key": "[\"e92a2619-5a4c-4ced-91ce-477865f09975\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "злой стим под питчем? нет конечно, норм!",
+        "scoredAt": "2026-10-14T19:18:02.108Z",
+        "userId": "e92a2619-5a4c-4ced-91ce-477865f09975"
+      }
+    },
+    {
+      "id": "93013a232b961d21783cd3463c05bca8b07c035c8fd59ee7f1eea1d9262dea3c",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:17:44.213Z",
+      "key": "[\"d5e6b82f-286b-4765-b500-5ac09440c085\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "На очень уверенном! Поймал ностальгический ретро-вайб от трека. В конце красиво напел. За строителя спасибо! Не понял, че ты тут делаешь в 1 раунде, тебя во втором заждались!",
+        "scoredAt": "2026-10-14T19:17:44.213Z",
+        "userId": "d5e6b82f-286b-4765-b500-5ac09440c085"
+      }
+    },
+    {
+      "id": "af1685b42a8eb73aadb066102ed76bf18e8a80a3bb1b4b4edd41ea7c900ce340",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:12:20.618Z",
+      "key": "[\"ab487ea9-2199-44a0-87cd-aeec9e89ccdc\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "пенис мой медведь-шатун",
+        "scoredAt": "2026-10-14T19:12:20.618Z",
+        "userId": "ab487ea9-2199-44a0-87cd-aeec9e89ccdc"
+      }
+    },
+    {
+      "id": "6c9e78df3d236ff04ac3da368c1514dba3880bddb110a92d5fc3028a963e032f",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:13:54.762Z",
+      "key": "[\"7f128898-3ae2-4231-9b71-2432711bd91d\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 1,
+        "comment": "С чувством ритма есть проблемы, кривые ускорения в моментах, вообще не ахти. Сам рэпасек - обычненький, meh. Стоит сначала просто поднабраться опыта.",
+        "scoredAt": "2026-10-14T19:13:54.762Z",
+        "userId": "7f128898-3ae2-4231-9b71-2432711bd91d"
+      }
+    },
+    {
+      "id": "2303f94c1e79a939600633c7fff2190e8c45abd8c829af0ed9ef5f7057accd8e",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:21:31.050Z",
+      "key": "[\"1c4169a8-484e-4cf8-88b5-8943b074737e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ультра странный текст, я пытался вслушаться и вчитаться, но не понял... Стилёк есть, потенциал есть\n",
+        "scoredAt": "2026-10-14T19:21:31.050Z",
+        "userId": "1c4169a8-484e-4cf8-88b5-8943b074737e"
+      }
+    },
+    {
+      "id": "15274e2edf6a32784cb9e00bad6130f77ebcfe7a3804a2bc3dba9178195e878a",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:13:24.104Z",
+      "key": "[\"19abae80-d2c5-44ed-9235-591f84623e6e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "бит заебись",
+        "scoredAt": "2026-10-14T19:13:24.104Z",
+        "userId": "19abae80-d2c5-44ed-9235-591f84623e6e"
+      }
+    },
+    {
+      "id": "08e55b9aec50167b3309d2e8629fdc0f27194c70b948e6677d0b2329350a87ae",
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "sourceScoredAt": "2026-10-14T19:16:49.286Z",
+      "key": "[\"d23f3938-ce36-49b4-8274-570389bb9426\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "батлово! с натяжкой!",
+        "scoredAt": "2026-10-14T19:16:49.286Z",
+        "userId": "d23f3938-ce36-49b4-8274-570389bb9426"
+      }
     }
   ],
   "snapshots": [
@@ -87117,6 +87271,26 @@
           "index": 27.3106621571727,
           "favor": 18.5564537896643,
           "attention": -2.6710252773514154,
+          "respect": 11.425233644859814
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T19:22:24.753Z",
+      "exportedAt": "2026-10-14T19:22:24.753Z",
+      "scores": 9153,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.366235286060526,
+          "favor": 10.033104279325416,
+          "attention": 6.188734455010973,
+          "respect": 7.144396551724138
+        },
+        "veterans": {
+          "index": 27.330422042812486,
+          "favor": 18.557409584656618,
+          "attention": -2.652221186703945,
           "respect": 11.425233644859814
         }
       }
