@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-14T23:42:17.665Z",
+  "exportedAt": "2026-10-14T23:52:12.741Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2776,6 +2776,12 @@
       "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Ой, ностальгия)\n\nСлушай, да неплохо, живчиком.\nИ идея прикольная.",
+          "scoredAt": "2026-10-14T23:42:31.815Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
