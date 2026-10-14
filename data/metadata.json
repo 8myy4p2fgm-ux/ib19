@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T20:02:10.406Z",
-  "exportedAt": "2026-10-14T20:02:10.406Z",
-  "runId": "2026-10-14T20:02:10.406Z",
-  "forumExportedAt": "2026-10-14T20:02:10.406Z",
+  "lastSuccessfulAt": "2026-10-14T20:12:15.049Z",
+  "exportedAt": "2026-10-14T20:12:15.049Z",
+  "runId": "2026-10-14T20:12:15.049Z",
+  "forumExportedAt": "2026-10-14T20:12:15.049Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9203,
+    "scores": 9210,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11153,
-    "scoresBefore": 9194,
-    "scoresAfter": 9203,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9209,
+    "scoresBefore": 9203,
+    "scoresAfter": 9210,
     "fullBaselineRequests": 3022,
-    "requestReductionPercent": 99.63600264725348,
+    "requestReductionPercent": 99.70218398411647,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "DREAM GOA",
+          "comment": " Не попал в бит? да я в процессе (с) - отличная ирония. Классно получилось скосплеить ребяток. Давай во второй и помни - ТЫ ОБЕЩАЛ!",
+          "scoredAt": "2026-10-14T20:11:57.826Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "2НДФЛ",
+          "comment": "Интересные образы и нагнетание - что-то в этом есть , но хотелось бы внутренних рифм сюда для красоты. Давай 4 с минусом и дальше ты поинтереснее закрутишь ;)",
+          "scoredAt": "2026-10-14T20:08:38.621Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "kazus",
+          "comment": "Боюсь представить, что такое костные клетчатки. По исполнению есть неровности/шероховатости. ",
+          "scoredAt": "2026-10-14T20:08:37.405Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "пуляБан",
+          "comment": "Приятный хип-хоп, рэп йоу, свэг, улица. Хорошая работа",
+          "scoredAt": "2026-10-14T20:05:59.775Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "IKIGAI",
+          "comment": "Хук бы сюда какой-то уместный, было б здорово и логично. Умение интонировать дарит надежду, что во втором раунде интереснее будет. Тема вскользь. ",
+          "scoredAt": "2026-10-14T20:05:58.022Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "SHKODIN",
+          "comment": "На первых секундах подумала, что какой-то \"средний рэп\" ждет меня, но к середине, а тем более к концу трека ты круто разошелся. Даже оч плохое качество не справилось с задачей потушить харизму. ",
+          "scoredAt": "2026-10-14T20:03:23.935Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "SIMAPO",
+          "comment": "Веет каким-то приятным олдскулом. В целом есть харизма, но вот опыта не хватает. Для отбора норм\n",
+          "scoredAt": "2026-10-14T20:02:57.372Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -136,55 +185,6 @@
           "artist": "NotaB",
           "comment": "Ну какой-то Брутто без панчлайнов. В целом как трек нормальный. Посмотрим, что дальше будет на баттле.",
           "scoredAt": "2026-10-14T19:53:10.051Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "LeКарь(СОЮЗ77)",
-          "comment": "хорошо",
-          "scoredAt": "2026-10-14T19:52:30.258Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Веялеб Атикин",
-          "comment": "осуждаю нрктк, что с темой? авансом пиздец каким",
-          "scoredAt": "2026-10-14T19:51:43.269Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "INDEX",
-          "comment": "Нормас по раскрытию (классически для турниров я бы даже сказал касательно использованных энглов), звучит приятно , интруха конечно пздц. ПЭнчик про собаку на английском честно говоря не выкупил во втором смысле. Лови 4 с минусом где минус за интруху. Интересно как в парных будешь базарить 😎",
-          "scoredAt": "2026-10-14T19:51:30.530Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "IWNBTTW",
-          "comment": "А ведь по тексту есть зерно) но у нас все же не конкурс мелодекламации. Рэпа бы немножко. ",
-          "scoredAt": "2026-10-14T19:50:54.184Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Рома Гордей",
-          "comment": "Ну местами смешно было, но бит конечно прям ужасный. В целом спорная работа, но хватает для прохода.",
-          "scoredAt": "2026-10-14T19:50:33.064Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "filhardo",
-          "comment": "что то с голосом надо сделать, авансом",
-          "scoredAt": "2026-10-14T19:50:01.273Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Юра Мексиканец",
-          "comment": "хорошо",
-          "scoredAt": "2026-10-14T19:48:46.752Z"
         }
       ]
     }
