@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T19:02:18.299Z",
-  "exportedAt": "2026-10-14T19:02:18.299Z",
-  "runId": "2026-10-14T19:02:18.299Z",
-  "forumExportedAt": "2026-10-14T19:02:18.299Z",
+  "lastSuccessfulAt": "2026-10-14T19:12:13.253Z",
+  "exportedAt": "2026-10-14T19:12:13.253Z",
+  "runId": "2026-10-14T19:12:13.253Z",
+  "forumExportedAt": "2026-10-14T19:12:13.253Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9137,
+    "scores": 9144,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 12528,
-    "scoresBefore": 9127,
-    "scoresAfter": 9137,
-    "fullBaselineRequests": 3014,
-    "requestReductionPercent": 99.60185799601858,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9100,
+    "scoresBefore": 9137,
+    "scoresAfter": 9144,
+    "fullBaselineRequests": 3016,
+    "requestReductionPercent": 99.70159151193634,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Рид Ридди",
+          "comment": "раскрытие? а тут только ртимика",
+          "scoredAt": "2026-10-14T19:11:05.713Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "MIHEQ",
+          "comment": "Я «закричу на весь мир», да у меня внутри «ТРАВМА» (с) - прекрасно. Я «единственный рэпер», но где Слава - отлично. Очень уместный неймдропинг. В тексте хорошо по смыслу заложил, много интересных строк, закончил эффектно на \"работаю 7\\0, у меня безвыходная жизнь. По флоу могу только похвалить. Жду во втором. ",
+          "scoredAt": "2026-10-14T19:07:46.528Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "artist": "Fill_Terr",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:07:12.797Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "OneTooth",
+          "comment": "с натяжечкой, пение - усилить",
+          "scoredAt": "2026-10-14T19:06:04.165Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "Последний вагон",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:05:38.471Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "DROGHT",
+          "comment": "беки охуенно, раскрытия 0, барствуйте",
+          "scoredAt": "2026-10-14T19:04:04.270Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "THE PATHOS",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:02:34.775Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -136,55 +185,6 @@
           "artist": "Ха",
           "comment": "Стрим 10",
           "scoredAt": "2026-10-14T18:56:00.759Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "Izovsexsil",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:53:22.876Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "RODIN OLDATE",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:53:09.598Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "Дядь Дима",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:51:31.083Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 2,
-          "artist": "Надя Черника",
-          "comment": "Блин, это очень обидная будто бы от меня 2, потому что здесь я прям очень сильно сомневаюсь.\n\nТы вывозишь ритмику достаточно быструю (поджевываешь дикционно, но для 3 достаточно) вкупе с тем, что у тебя есть плотность в голосе и какая-то подача.\n\nНо помимо этого есть так же достаточно своеобразный текст, который поначалу еще и ощущается женским таким рассказом о тупых мужланах, но ближе к концу сводится как по рифмам, так и по мыслям, к каким-то суперпростым строчкам, которые будто бы написаны с камчатки в школе на уроке химии, подекламировать и похихикать с одноклассницами на перемене. Увы, руиню оценку (\n\nСтрим, ч. 15",
-          "scoredAt": "2026-10-14T18:51:24.353Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "Околосмыслов[lamp_gang]",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:50:10.539Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "Aresfa1",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:49:26.264Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Not Enough",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:46:32.768Z"
         }
       ]
     }

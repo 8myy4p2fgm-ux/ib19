@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T19:02:18.299Z",
+  "exportedAt": "2026-10-14T19:12:13.253Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -1439,8 +1439,14 @@
     },
     {
       "userId": "59efa3bf-739a-4bfa-b28c-459ce88bc3db",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "с натяжечкой, пение - усилить",
+          "scoredAt": "2026-10-14T19:06:04.165Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -1460,7 +1466,7 @@
           "scoredAt": "2026-09-08T15:09:05.584Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -6638,9 +6644,16 @@
     },
     {
       "userId": "5af8f131-21c5-430d-8e7a-7a9e7c357566",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "беки охуенно, раскрытия 0, барствуйте",
+          "scoredAt": "2026-10-14T19:04:04.270Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -19358,8 +19371,14 @@
     },
     {
       "userId": "65c63973-03d4-4080-be25-8e30ad5fa91d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:07:12.797Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -19379,7 +19398,7 @@
           "scoredAt": "2026-08-31T11:54:40.354Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -42435,8 +42454,14 @@
     },
     {
       "userId": "46b0006f-be87-4411-861c-b7ef57a82c3d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Я «закричу на весь мир», да у меня внутри «ТРАВМА» (с) - прекрасно. Я «единственный рэпер», но где Слава - отлично. Очень уместный неймдропинг. В тексте хорошо по смыслу заложил, много интересных строк, закончил эффектно на \"работаю 7\\0, у меня безвыходная жизнь. По флоу могу только похвалить. Жду во втором. ",
+          "scoredAt": "2026-10-14T19:07:46.528Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -42462,7 +42487,7 @@
           "scoredAt": "2026-09-27T13:59:19.166Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:52:21.258Z",
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -45941,8 +45966,14 @@
     },
     {
       "userId": "2dedad65-292d-49e0-8c70-c3ea1968b071",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:02:34.775Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -45968,7 +45999,7 @@
           "scoredAt": "2026-09-11T11:22:23.923Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -66932,8 +66963,14 @@
     },
     {
       "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "раскрытие? а тут только ртимика",
+          "scoredAt": "2026-10-14T19:11:05.713Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -66941,7 +66978,7 @@
           "scoredAt": "2026-10-14T16:45:05.842Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:52:21.258Z",
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
@@ -80542,9 +80579,16 @@
     },
     {
       "userId": "d7aa5a65-da04-4144-87eb-d53775b831fb",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T19:05:38.471Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T19:12:13.253Z",
       "current": true
     },
     {
