@@ -1,0 +1,24 @@
+/* Shared wallpaper. Decorative layers preserve existing content/grid dimensions. */
+.app{isolation:isolate}
+.app::before{
+ content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+ background-image:linear-gradient(rgba(9,14,12,.73),rgba(9,14,12,.73)),url("./assets/overview-wallpaper.jpg");
+ background-size:cover;background-position:center;background-repeat:no-repeat;
+}
+.app .site-header{background:rgba(14,20,17,.78)}
+#home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics),
+.page.active:not(#home)>:is(.pace-intro,.pace-section,.pace-insight,.judge-summary,.fl-metrics,.fl-section,.panel){position:relative;isolation:isolate}
+#home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics)::before,
+.page.active:not(#home)>:is(.pace-intro,.pace-section,.pace-insight,.judge-summary,.fl-metrics,.fl-section,.panel)::before{
+ content:"";position:absolute;inset:0 -22px;z-index:-1;pointer-events:none;
+ background:rgba(13,20,16,.86);border:1px solid rgba(169,188,174,.24);border-radius:6px;
+}
+#home.active .home-own::before{top:-16px}
+#home.active .home-lower-analytics::before{bottom:-22px;background:rgba(13,20,16,.92)}
+.page.active:not(#home)>:is(.judge-summary,.fl-section,.panel)::before{background:rgba(13,20,16,.92)}
+#dynamics.active>.pace-intro::before{top:-12px}
+#forum-link.active>.fl-section::before{top:-16px;bottom:-16px}
+@media(max-width:760px){
+ #home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics)::before,
+.page.active:not(#home)>:is(.pace-intro,.pace-section,.pace-insight,.judge-summary,.fl-metrics,.fl-section,.panel)::before{left:-8px;right:-8px;border-radius:4px}
+}
