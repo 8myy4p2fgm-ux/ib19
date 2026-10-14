@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T11:41:59.589Z",
+  "exportedAt": "2026-10-14T11:51:58.394Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -6061,8 +6061,14 @@
     },
     {
       "userId": "870824da-4e7d-462a-876d-dded817ccf81",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "слабовато пока, очень плохо по тексту и слишком вальяжно по исполнению ",
+          "scoredAt": "2026-10-14T11:44:52.282Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -6076,7 +6082,7 @@
           "scoredAt": "2026-09-08T15:47:24.930Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T11:51:58.394Z",
       "current": true
     },
     {
@@ -49098,9 +49104,16 @@
     },
     {
       "userId": "bfc2a828-e9f9-4225-be19-292b1201b626",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Набор слов, но рифмуется\nчто за это ставить ? \nдам проход за эдлибы и какую-то идейную структуру, но текст оставляет желать лучшего ",
+          "scoredAt": "2026-10-14T11:43:04.846Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T11:51:58.394Z",
       "current": true
     },
     {
@@ -73705,6 +73718,20 @@
       "current": true
     },
     {
+      "userId": "6069827b-6c6e-4f6e-ba9f-366d88e5faa1",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Восьмой стрим.",
+          "scoredAt": "2026-10-13T14:33:37.743Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true
+    },
+    {
       "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8",
       "scoredCount": 2,
       "scores": [
@@ -73819,20 +73846,6 @@
         }
       ],
       "fetchedAt": "2026-10-14T01:51:33.247Z",
-      "current": true
-    },
-    {
-      "userId": "6069827b-6c6e-4f6e-ba9f-366d88e5faa1",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "comment": "Восьмой стрим.",
-          "scoredAt": "2026-10-13T14:33:37.743Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
       "current": true
     },
     {
@@ -74314,8 +74327,14 @@
     },
     {
       "userId": "95a1b537-e3fe-4a2b-b3db-c638b32b2c65",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "ну трек ничё так, но жаль не чёток ",
+          "scoredAt": "2026-10-14T11:48:26.402Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -74329,7 +74348,7 @@
           "scoredAt": "2026-10-08T16:42:27.121Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T11:51:58.394Z",
       "current": true
     },
     {

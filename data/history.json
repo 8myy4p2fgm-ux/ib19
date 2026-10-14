@@ -79552,6 +79552,48 @@
         "scoredAt": "2026-10-14T11:39:01.818Z",
         "userId": "c1f3e6f7-b9b4-45f2-83e6-b061040ec989"
       }
+    },
+    {
+      "id": "0fb01e6553fa6e5719548eeaf9ee0a71ad05c31f95c0d235a68ff7a6b2f13ab7",
+      "observedAt": "2026-10-14T11:51:58.394Z",
+      "sourceScoredAt": "2026-10-14T11:44:52.282Z",
+      "key": "[\"870824da-4e7d-462a-876d-dded817ccf81\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "слабовато пока, очень плохо по тексту и слишком вальяжно по исполнению ",
+        "scoredAt": "2026-10-14T11:44:52.282Z",
+        "userId": "870824da-4e7d-462a-876d-dded817ccf81"
+      }
+    },
+    {
+      "id": "6b890dead472f70c0d9674514044b7ed6c37ea7ffc04551237d55c39328305e1",
+      "observedAt": "2026-10-14T11:51:58.394Z",
+      "sourceScoredAt": "2026-10-14T11:43:04.846Z",
+      "key": "[\"bfc2a828-e9f9-4225-be19-292b1201b626\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Набор слов, но рифмуется\nчто за это ставить ? \nдам проход за эдлибы и какую-то идейную структуру, но текст оставляет желать лучшего ",
+        "scoredAt": "2026-10-14T11:43:04.846Z",
+        "userId": "bfc2a828-e9f9-4225-be19-292b1201b626"
+      }
+    },
+    {
+      "id": "3ef0809da1e1c4c1bb155c7823893e20336101618915bba8cf0d0e61c4aa3e89",
+      "observedAt": "2026-10-14T11:51:58.394Z",
+      "sourceScoredAt": "2026-10-14T11:48:26.402Z",
+      "key": "[\"95a1b537-e3fe-4a2b-b3db-c638b32b2c65\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "ну трек ничё так, но жаль не чёток ",
+        "scoredAt": "2026-10-14T11:48:26.402Z",
+        "userId": "95a1b537-e3fe-4a2b-b3db-c638b32b2c65"
+      }
     }
   ],
   "snapshots": [
@@ -79851,6 +79893,26 @@
           "index": 27.08982807821053,
           "favor": 18.48019801980198,
           "attention": -2.787428765120861,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T11:51:58.394Z",
+      "exportedAt": "2026-10-14T11:51:58.394Z",
+      "scores": 8690,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.06940918595221,
+          "favor": 10.070569575254698,
+          "attention": 5.8306980177771575,
+          "respect": 7.168141592920354
+        },
+        "veterans": {
+          "index": 27.103673847996447,
+          "favor": 18.483451601413734,
+          "attention": -2.7768365769466974,
           "respect": 11.397058823529411
         }
       }
