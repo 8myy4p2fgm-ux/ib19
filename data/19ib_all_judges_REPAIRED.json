@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T21:42:20.525Z",
+  "exportedAt": "2026-10-14T21:52:19.398Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -2437,8 +2437,14 @@
     },
     {
       "userId": "16149895-d74e-4572-a37e-16d8f6f8b6df",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Крепкая четверка. Приятно звучишь, текст пустоват, но везде попал , по строчкам бы чего интересного предложил и можно было бы пятерку рассматривать, жаль текст на скоряк ( порадуй пж во 2 раунде ",
+          "scoredAt": "2026-10-14T21:49:52.374Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -2458,7 +2464,7 @@
           "scoredAt": "2026-09-07T08:13:55.270Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -4160,8 +4166,14 @@
     },
     {
       "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "норм, го",
+          "scoredAt": "2026-10-14T21:51:17.192Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -4169,7 +4181,7 @@
           "scoredAt": "2026-10-14T13:47:48.775Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:52:05.766Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -15396,8 +15408,14 @@
     },
     {
       "userId": "e6b8f3cc-c0a6-4c15-bd07-29793dd11e87",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Это такой хитровыеб@ный текст про самообман ?! Другого раскрытия тут не увидел. Весьма поэтично, достаточное количество двойных смыслов. Хз, или я сам надумал его. В целом проходная работа, не выше тройки кмк, но что-то в этом есть.",
+          "scoredAt": "2026-10-14T21:46:26.756Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -15411,7 +15429,7 @@
           "scoredAt": "2026-09-11T12:09:39.163Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -18467,9 +18485,16 @@
     },
     {
       "userId": "061851e6-d851-4648-b6d8-49ddbe42b1e9",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "По звуку вроде есть попытка сделать интересно, но флоу за ней не успевает. Как будто задумка сильнее, чем результат.",
+          "scoredAt": "2026-10-14T21:44:57.698Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -38699,8 +38724,14 @@
     },
     {
       "userId": "7d6a897e-6b10-474b-b2b7-8c3c91cd214f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Согласен что что-то получается, но что? Чуток не хватило в реализации до приемлемого, но как работка однозначно нормальная и положительно выделяешься на общем фоне, сумел создать настроение и атмосферку какую-никакую. Не особо понравилась концовка, она пустоватая и недосказанная. Жаль не смог уложить более емко в минуту, с какой-то сюжетной точкой.",
+          "scoredAt": "2026-10-14T21:47:21.036Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -38726,7 +38757,7 @@
           "scoredAt": "2026-10-08T16:10:05.565Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -44980,8 +45011,14 @@
     },
     {
       "userId": "baff66c1-e298-4b5e-a2b5-ce37db731ef3",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "ватаката, с натягой",
+          "scoredAt": "2026-10-14T21:45:46.431Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -44989,7 +45026,7 @@
           "scoredAt": "2026-10-11T11:29:07.101Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -49802,8 +49839,14 @@
     },
     {
       "userId": "b2866669-07fc-40c8-a57c-0ce3722fa93a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "прям как ИИ, класс",
+          "scoredAt": "2026-10-14T21:42:35.435Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -49817,7 +49860,7 @@
           "scoredAt": "2026-10-12T18:13:54.291Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -50261,8 +50304,14 @@
     },
     {
       "userId": "23e4a811-e723-4714-8e3f-4e938bad1b33",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "с авансом",
+          "scoredAt": "2026-10-14T21:49:44.959Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -50276,7 +50325,7 @@
           "scoredAt": "2026-10-08T15:07:23.987Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -51470,8 +51519,14 @@
     },
     {
       "userId": "711799cf-4eb7-4c12-bebe-4d860116b7ba",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Лови свою пятерку, легенда! Всё прекрасно, приятный напев",
+          "scoredAt": "2026-10-14T21:52:10.129Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 5,
@@ -51497,7 +51552,7 @@
           "scoredAt": "2026-09-23T16:08:37.245Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -55012,9 +55067,16 @@
     },
     {
       "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "норм, искранул в прошляки",
+          "scoredAt": "2026-10-14T21:47:45.019Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -69895,9 +69957,16 @@
     },
     {
       "userId": "b1a29f76-7225-42b1-a54e-2c0d6413d02b",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "жирно, с авансом, но толстеть это круто, в стиле",
+          "scoredAt": "2026-10-14T21:44:38.161Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {
@@ -71865,8 +71934,14 @@
     },
     {
       "userId": "a9e90076-d240-4f99-bc9e-6e276eba7f1a",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "золотая среединка",
+          "scoredAt": "2026-10-14T21:48:20.466Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -71874,7 +71949,7 @@
           "scoredAt": "2026-10-14T16:22:50.575Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:32:09.769Z",
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
       "current": true
     },
     {

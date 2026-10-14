@@ -87854,6 +87854,174 @@
         "scoredAt": "2026-10-14T21:36:50.808Z",
         "userId": "a878a58b-80a2-454c-941d-6b5784e20358"
       }
+    },
+    {
+      "id": "276524cf24dfed6955425c01d0ddbedf69c95aec499ea5f8ffc6b7b6deb16ab4",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:49:52.374Z",
+      "key": "[\"16149895-d74e-4572-a37e-16d8f6f8b6df\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Крепкая четверка. Приятно звучишь, текст пустоват, но везде попал , по строчкам бы чего интересного предложил и можно было бы пятерку рассматривать, жаль текст на скоряк ( порадуй пж во 2 раунде ",
+        "scoredAt": "2026-10-14T21:49:52.374Z",
+        "userId": "16149895-d74e-4572-a37e-16d8f6f8b6df"
+      }
+    },
+    {
+      "id": "5e60af28198c3b7f50fa21d1c547a00d27965192b209c13c2f50a7f08dca7a4d",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:51:17.192Z",
+      "key": "[\"aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "норм, го",
+        "scoredAt": "2026-10-14T21:51:17.192Z",
+        "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4"
+      }
+    },
+    {
+      "id": "6302e6c93bc7b86662348979a4df0073d6ffe01e46d28f50a3ec68e7c7e4a927",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:46:26.756Z",
+      "key": "[\"e6b8f3cc-c0a6-4c15-bd07-29793dd11e87\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Это такой хитровыеб@ный текст про самообман ?! Другого раскрытия тут не увидел. Весьма поэтично, достаточное количество двойных смыслов. Хз, или я сам надумал его. В целом проходная работа, не выше тройки кмк, но что-то в этом есть.",
+        "scoredAt": "2026-10-14T21:46:26.756Z",
+        "userId": "e6b8f3cc-c0a6-4c15-bd07-29793dd11e87"
+      }
+    },
+    {
+      "id": "8988cd56a206115a97482217820d611e77614307b54c446ef655e6c7706a5601",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:44:57.698Z",
+      "key": "[\"061851e6-d851-4648-b6d8-49ddbe42b1e9\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "По звуку вроде есть попытка сделать интересно, но флоу за ней не успевает. Как будто задумка сильнее, чем результат.",
+        "scoredAt": "2026-10-14T21:44:57.698Z",
+        "userId": "061851e6-d851-4648-b6d8-49ddbe42b1e9"
+      }
+    },
+    {
+      "id": "6cbe662d782a36aff5ee2831489f078777894e20c996839d01eb7473bd46c8d0",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:47:21.036Z",
+      "key": "[\"7d6a897e-6b10-474b-b2b7-8c3c91cd214f\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 3,
+        "comment": "Согласен что что-то получается, но что? Чуток не хватило в реализации до приемлемого, но как работка однозначно нормальная и положительно выделяешься на общем фоне, сумел создать настроение и атмосферку какую-никакую. Не особо понравилась концовка, она пустоватая и недосказанная. Жаль не смог уложить более емко в минуту, с какой-то сюжетной точкой.",
+        "scoredAt": "2026-10-14T21:47:21.036Z",
+        "userId": "7d6a897e-6b10-474b-b2b7-8c3c91cd214f"
+      }
+    },
+    {
+      "id": "f0064fb48493fa904df42174d92cdc691511e2a9890ec0966f94c096ecf3c482",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:45:46.431Z",
+      "key": "[\"baff66c1-e298-4b5e-a2b5-ce37db731ef3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "ватаката, с натягой",
+        "scoredAt": "2026-10-14T21:45:46.431Z",
+        "userId": "baff66c1-e298-4b5e-a2b5-ce37db731ef3"
+      }
+    },
+    {
+      "id": "822ea948b525b8fbae78336dfd8ead9ae036bad79438b63298cfc1a97f63154b",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:42:35.435Z",
+      "key": "[\"b2866669-07fc-40c8-a57c-0ce3722fa93a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "прям как ИИ, класс",
+        "scoredAt": "2026-10-14T21:42:35.435Z",
+        "userId": "b2866669-07fc-40c8-a57c-0ce3722fa93a"
+      }
+    },
+    {
+      "id": "ee2b010480f23aeac0cc1d82657aee7a390dcbb726d389cc022953337e7a63ed",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:49:44.959Z",
+      "key": "[\"23e4a811-e723-4714-8e3f-4e938bad1b33\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "с авансом",
+        "scoredAt": "2026-10-14T21:49:44.959Z",
+        "userId": "23e4a811-e723-4714-8e3f-4e938bad1b33"
+      }
+    },
+    {
+      "id": "3f5f55fda4053d2f440fdb48d36dcd8d23dcb4a5d5fe3bffcc9eaa0b08dbcb7e",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:52:10.129Z",
+      "key": "[\"711799cf-4eb7-4c12-bebe-4d860116b7ba\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Лови свою пятерку, легенда! Всё прекрасно, приятный напев",
+        "scoredAt": "2026-10-14T21:52:10.129Z",
+        "userId": "711799cf-4eb7-4c12-bebe-4d860116b7ba"
+      }
+    },
+    {
+      "id": "d5de14d0249174957e0a89d2e7e8bfa12ede0e8137042a7a65213bc642c0f912",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:47:45.019Z",
+      "key": "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "норм, искранул в прошляки",
+        "scoredAt": "2026-10-14T21:47:45.019Z",
+        "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1"
+      }
+    },
+    {
+      "id": "542d8881a6209d500c9428d263cab3a2c74446b9897977d58ac38df98943d559",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:44:38.161Z",
+      "key": "[\"b1a29f76-7225-42b1-a54e-2c0d6413d02b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "жирно, с авансом, но толстеть это круто, в стиле",
+        "scoredAt": "2026-10-14T21:44:38.161Z",
+        "userId": "b1a29f76-7225-42b1-a54e-2c0d6413d02b"
+      }
+    },
+    {
+      "id": "3a6fcc840e265f50569583332e99930ded717d863874c325cf1a151102cad23b",
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "sourceScoredAt": "2026-10-14T21:48:20.466Z",
+      "key": "[\"a9e90076-d240-4f99-bc9e-6e276eba7f1a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая среединка",
+        "scoredAt": "2026-10-14T21:48:20.466Z",
+        "userId": "a9e90076-d240-4f99-bc9e-6e276eba7f1a"
+      }
     }
   ],
   "snapshots": [
@@ -89294,6 +89462,26 @@
           "favor": 18.57246532658297,
           "attention": -2.319113020793371,
           "respect": 11.425233644859814
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T21:52:19.398Z",
+      "exportedAt": "2026-10-14T21:52:19.398Z",
+      "scores": 9288,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.44192172287586,
+          "favor": 9.983403758149407,
+          "attention": 6.344784059147056,
+          "respect": 7.113733905579399
+        },
+        "veterans": {
+          "index": 27.542062619523,
+          "favor": 18.638888888888886,
+          "attention": -2.555159602699219,
+          "respect": 11.458333333333334
         }
       }
     }
