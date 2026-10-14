@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T18:52:17.830Z",
-  "exportedAt": "2026-10-14T18:52:17.830Z",
-  "runId": "2026-10-14T18:52:17.830Z",
-  "forumExportedAt": "2026-10-14T18:52:17.830Z",
+  "lastSuccessfulAt": "2026-10-14T19:02:18.299Z",
+  "exportedAt": "2026-10-14T19:02:18.299Z",
+  "runId": "2026-10-14T19:02:18.299Z",
+  "forumExportedAt": "2026-10-14T19:02:18.299Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9127,
+    "scores": 9137,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10884,
-    "scoresBefore": 9119,
-    "scoresAfter": 9127,
-    "fullBaselineRequests": 3013,
-    "requestReductionPercent": 99.66810487885827,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 12,
+    "durationMs": 12528,
+    "scoresBefore": 9127,
+    "scoresAfter": 9137,
+    "fullBaselineRequests": 3014,
+    "requestReductionPercent": 99.60185799601858,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,76 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "FLEXIN",
+          "comment": "Ну вот с рифмой что-то надо делать. Это прям портит впечатление, хотя голос нормальный и флоу в порядке.",
+          "scoredAt": "2026-10-14T19:01:52.029Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "дунадан",
+          "comment": "с натяжечкой",
+          "scoredAt": "2026-10-14T19:01:03.048Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "меркнет",
+          "comment": "пойдёт",
+          "scoredAt": "2026-10-14T19:00:03.100Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "Забытый музой",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:59:21.447Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "artist": "Vector Geology",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:58:35.895Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Reisig",
+          "comment": "гот за готом, год за годом - интересная находка. Давай договоримся во втором на глаголы не рифмовать. По флоу вопросов нет, эмоционально идешь хорошо. ",
+          "scoredAt": "2026-10-14T18:57:37.077Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "sorrymike",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:56:51.610Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "Ха",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:56:00.759Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "Izovsexsil",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T18:53:22.876Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "RODIN OLDATE",
+          "comment": "Стрим 10",
+          "scoredAt": "2026-10-14T18:53:09.598Z"
+        },
+        {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
           "artist": "Дядь Дима",
@@ -115,76 +185,6 @@
           "artist": "Not Enough",
           "comment": "Стрим 10",
           "scoredAt": "2026-10-14T18:46:32.768Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "ASSIDo",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:44:57.309Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "Lazo",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:43:44.179Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Панк Василий",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:43:08.372Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "ЭКСАЙЗ",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:40:33.406Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "VinS",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:38:47.176Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "МЦ Бобровая Струя",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:38:10.005Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "FlowLiss",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:37:30.761Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Shkola",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:35:56.711Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "старый соберись",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T18:34:25.709Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "artist": "Eddie Jones",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T18:30:58.466Z"
         }
       ]
     }

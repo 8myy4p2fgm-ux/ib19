@@ -85740,6 +85740,146 @@
         "scoredAt": "2026-10-14T18:51:31.083Z",
         "userId": "c2d6ed58-a731-48c7-b605-678f36c24d05"
       }
+    },
+    {
+      "id": "ffc25b5c90dc00e04c68a084a36782f77fde3a2af160fab1928f0a3f688579f9",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:53:09.598Z",
+      "key": "[\"c724110a-6781-43ad-8f26-b7321e32104b\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:53:09.598Z",
+        "userId": "c724110a-6781-43ad-8f26-b7321e32104b"
+      }
+    },
+    {
+      "id": "afb3df351ef9609426f48328df96b1188030968eb8b1a0a3ae83ea73064852eb",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:58:35.895Z",
+      "key": "[\"c14121ba-6841-491b-8f0c-3c7440a004bf\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:58:35.895Z",
+        "userId": "c14121ba-6841-491b-8f0c-3c7440a004bf"
+      }
+    },
+    {
+      "id": "a1e0cc1260ca93032fa34b6d3f798610fda3faa4cb74351b637e0bfc74221dd0",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:59:21.447Z",
+      "key": "[\"8e14f39c-0fc6-4819-9295-2b1f6c920bd0\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:59:21.447Z",
+        "userId": "8e14f39c-0fc6-4819-9295-2b1f6c920bd0"
+      }
+    },
+    {
+      "id": "ad8038a5db9cee3d8a8196b8c9dc249bbfd197cb53a6c311cae65afd73fdfbb7",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T19:00:03.100Z",
+      "key": "[\"6daf6397-6cc6-4e0a-89f8-b15fefef8c43\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "пойдёт",
+        "scoredAt": "2026-10-14T19:00:03.100Z",
+        "userId": "6daf6397-6cc6-4e0a-89f8-b15fefef8c43"
+      }
+    },
+    {
+      "id": "05929aaeaffcfb9e2dcf01fcb8c059096dfaafbd78dd5a92d041a03afbeeb743",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:56:00.759Z",
+      "key": "[\"dc97df18-ab10-42ca-8b3d-b877282c89b3\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 10",
+        "scoredAt": "2026-10-14T18:56:00.759Z",
+        "userId": "dc97df18-ab10-42ca-8b3d-b877282c89b3"
+      }
+    },
+    {
+      "id": "6578434fedf69d243f0efb7674e117a1b9fa4e23a46bc1291b097c8450ec039c",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:57:37.077Z",
+      "key": "[\"0e8b8857-ec59-4edb-a1e0-11937c3e868e\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "гот за готом, год за годом - интересная находка. Давай договоримся во втором на глаголы не рифмовать. По флоу вопросов нет, эмоционально идешь хорошо. ",
+        "scoredAt": "2026-10-14T18:57:37.077Z",
+        "userId": "0e8b8857-ec59-4edb-a1e0-11937c3e868e"
+      }
+    },
+    {
+      "id": "95c9689098fceb7c0032cd6e54a0da363249ffe5c0436f4e22713e6e2418f706",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T19:01:52.029Z",
+      "key": "[\"8354857f-9f17-4dd5-a09b-b2d1115576e4\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну вот с рифмой что-то надо делать. Это прям портит впечатление, хотя голос нормальный и флоу в порядке.",
+        "scoredAt": "2026-10-14T19:01:52.029Z",
+        "userId": "8354857f-9f17-4dd5-a09b-b2d1115576e4"
+      }
+    },
+    {
+      "id": "5e658dd4f96cc53a3cb1ef83ca8871597f6a4f5d2e22bbd6a61c01fa8e319a61",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T19:01:03.048Z",
+      "key": "[\"731f4a8e-45b6-4273-b54e-e2881409d8f9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "с натяжечкой",
+        "scoredAt": "2026-10-14T19:01:03.048Z",
+        "userId": "731f4a8e-45b6-4273-b54e-e2881409d8f9"
+      }
+    },
+    {
+      "id": "c6e9b50acd68026081996c630b05bc38d6b970b24dbb3b7327781404a94e4efb",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:56:51.610Z",
+      "key": "[\"e5b57f41-ecc8-459c-b359-c176681487b2\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:56:51.610Z",
+        "userId": "e5b57f41-ecc8-459c-b359-c176681487b2"
+      }
+    },
+    {
+      "id": "2a441ea9ad6bc2c11ae5b64b2395b136e99a85aa4d478370793f461663f0207e",
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "sourceScoredAt": "2026-10-14T18:53:22.876Z",
+      "key": "[\"a9467d58-515f-4ca2-8e53-dd43625b7231\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T18:53:22.876Z",
+        "userId": "a9467d58-515f-4ca2-8e53-dd43625b7231"
+      }
     }
   ],
   "snapshots": [
@@ -86839,6 +86979,26 @@
           "index": 27.282500040121974,
           "favor": 18.561664628965744,
           "attention": -2.7043982337035812,
+          "respect": 11.425233644859814
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T19:02:18.299Z",
+      "exportedAt": "2026-10-14T19:02:18.299Z",
+      "scores": 9137,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.357470257403488,
+          "favor": 10.037249027086679,
+          "attention": 6.1758246785926705,
+          "respect": 7.144396551724138
+        },
+        "veterans": {
+          "index": 27.305958475363816,
+          "favor": 18.561430744869128,
+          "attention": -2.680705914365124,
           "respect": 11.425233644859814
         }
       }
