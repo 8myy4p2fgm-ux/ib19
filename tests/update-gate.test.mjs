@@ -10,3 +10,9 @@ test('already fresh ten-minute bucket is skipped',()=>{
 test('new ten-minute boundary allows collection, even across an hour',()=>{
  for(const [now,lastSuccessfulAt] of [['2026-10-13T14:30:00Z','2026-10-13T14:29:59Z'],['2026-10-13T15:00:00Z','2026-10-13T14:59:59Z']])assert.equal(shouldCollect({event:'schedule',now:Date.parse(now),lastSuccessfulAt}),true);
 });
+test('Cloudflare dispatch uses the same freshness gate; ordinary manual runs remain immediate',()=>{
+ const clockSlot=String(Math.floor(now/600000)*600000);
+ assert.equal(shouldCollect({event:'workflow_dispatch',source:'cloudflare',clockSlot,lastSuccessfulAt:'2026-10-13T14:26:00Z',now}),false);
+ assert.equal(shouldCollect({event:'workflow_dispatch',source:'cloudflare',clockSlot,lastSuccessfulAt:'2026-10-13T14:19:00Z',now}),true);
+ for(const invalid of ['', 'not-a-slot', String(Number(clockSlot)+1),String(Number(clockSlot)+600000)])assert.throws(()=>shouldCollect({event:'workflow_dispatch',source:'cloudflare',clockSlot:invalid,now}));
+});

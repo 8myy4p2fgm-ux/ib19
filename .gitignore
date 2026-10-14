@@ -8,3 +8,9 @@ docs/screenshots/
 # Runner-local diagnostics, never commit these.
 collection-report.json
 previous-check.json
+
+# Cloudflare credentials and local runtime state.
+cloudflare/.wrangler/
+cloudflare/.dev.vars*
+cloudflare/.env*
+cloudflare/*.pem

@@ -1,0 +1,39 @@
+{
+  "name": "tuz19-clock",
+  "account_id": "660084c298a97e43501e05ca13db9fd0",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-14",
+  "workers_dev": false,
+  "preview_urls": false,
+  "triggers": {
+    "crons": [
+      "1-59/10 * * * *"
+    ]
+  },
+  "vars": {
+    "ENABLED": "true",
+    "DRY_RUN": "true",
+    "GH_APP_ID": "5313552",
+    "GH_INSTALLATION_ID": "171308771"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  },
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "SCHEDULER",
+        "class_name": "Scheduler"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "Scheduler"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 name: Update judging data
+run-name: ${{ inputs.source == 'cloudflare' && format('Cloudflare {0}', inputs.clock_slot) || format('Judging data · {0}', github.event_name) }}
 on:
   schedule:
     - cron: '1-59/10 * * * *'
@@ -10,6 +11,15 @@ on:
         type: choice
         options: [auto, incremental, full]
         default: auto
+      source:
+        description: 'Manual or Cloudflare clock'
+        type: choice
+        options: [manual, cloudflare]
+        default: manual
+      clock_slot:
+        description: 'Cloudflare ten-minute slot (Unix milliseconds); leave empty for manual runs'
+        type: string
+        default: ''
 permissions:
   actions: read
   contents: write
@@ -43,6 +53,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: node scripts/restore-check-report.mjs
       - id: gate
+        env:
+          UPDATE_SOURCE: ${{ inputs.source || 'manual' }}
+          CLOCK_SLOT: ${{ inputs.clock_slot }}
         run: node scripts/update-gate.mjs
       - run: npm ci
         if: steps.gate.outputs.run == 'true'
