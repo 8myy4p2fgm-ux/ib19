@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T13:32:05.258Z",
+  "exportedAt": "2026-10-14T13:42:03.821Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -11014,8 +11014,14 @@
     },
     {
       "userId": "f2e68317-4865-44ca-98a0-5f72a28625a4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Местами по дикции есть провалы, но Санек Мирный ты легенда, когда трек на укулеле",
+          "scoredAt": "2026-10-14T13:38:27.224Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 1,
@@ -11041,7 +11047,7 @@
           "scoredAt": "2026-09-07T15:35:32.893Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -17250,8 +17256,14 @@
     },
     {
       "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Ты звучишь как гуф записавшийся в подвале\nно текст лучше намного, если бы это записано хорошо, то мог бы получить спокойно 4. ",
+          "scoredAt": "2026-10-14T13:32:49.828Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -17265,7 +17277,7 @@
           "scoredAt": "2026-10-13T13:19:24.824Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -33869,8 +33881,14 @@
     },
     {
       "userId": "d9d40c9a-4b59-402d-b18e-48a1918c11e8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Держишь ритму нормально, интонация и харизма имеется, но вот по разнообразию не хватило",
+          "scoredAt": "2026-10-14T13:36:26.914Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -33884,7 +33902,7 @@
           "scoredAt": "2026-10-11T13:45:05.125Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -36365,8 +36383,14 @@
     },
     {
       "userId": "ad305998-989b-4ef4-9cd5-2c46b23ac813",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "В таком стильке пока лучшее что слышал, и есть по тексту рофлы, в целом посмотрим что в некст раунде сделаешь",
+          "scoredAt": "2026-10-14T13:40:12.086Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 5,
@@ -36374,7 +36398,7 @@
           "scoredAt": "2026-10-12T11:54:26.289Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -37360,8 +37384,14 @@
     },
     {
       "userId": "96503c8e-0e44-4d95-9d39-06bdfbe149fe",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Слишком дефолтный тречек, не хватило интонаций и эмоций треку",
+          "scoredAt": "2026-10-14T13:41:42.736Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -37369,7 +37399,7 @@
           "scoredAt": "2026-10-13T15:35:04.938Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -37951,32 +37981,6 @@
           "score": 5,
           "comment": "Запись стрима здесь: https://vk.ru/wall-53109527_1110437",
           "scoredAt": "2026-09-23T18:20:28.266Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true
-    },
-    {
-      "userId": "313a9cf3-97e6-4282-85c2-a93a52e0e9f5",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "comment": "Я не понимаю, где что-то по теме, или хотя бы репрезент? Есть ощущение, что ты просто сдал часть какого-то своего старого трека. Он даже так же резко оборвался. ",
-          "scoredAt": "2026-10-10T14:20:46.760Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "comment": "Пятый стрим.",
-          "scoredAt": "2026-10-10T13:42:11.048Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "comment": "спасибо за обрезку какого-то трека",
-          "scoredAt": "2026-10-06T15:43:46.091Z"
         }
       ],
       "fetchedAt": "2026-10-13T18:20:00.020Z",
@@ -40084,8 +40088,14 @@
     },
     {
       "userId": "c4b67b0c-c32a-45b9-96c6-1a1842e871e6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Дефолтно немного, не хватило разнообразия по флоу",
+          "scoredAt": "2026-10-14T13:32:47.801Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -40105,7 +40115,7 @@
           "scoredAt": "2026-09-19T22:31:56.171Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -69693,8 +69703,14 @@
     },
     {
       "userId": "74c84c3c-2120-47f5-ae39-e124d1e5cf29",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Девятый стрим",
+          "scoredAt": "2026-10-14T13:39:37.843Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -69714,7 +69730,7 @@
           "scoredAt": "2026-10-07T12:30:28.937Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -74249,9 +74265,16 @@
     },
     {
       "userId": "0aa9313d-5349-4fd7-92f7-78879a2da680",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Не хватило содержания треку, по исполнению всё очень хорошо, но 30 секунд трека это \"O no no eeee\"",
+          "scoredAt": "2026-10-14T13:34:33.536Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -74691,8 +74714,14 @@
     },
     {
       "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "до середины трека все портит ребячество, будто вот именно этим ты занизил сам себе оценку. ",
+          "scoredAt": "2026-10-14T13:37:58.398Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -74700,7 +74729,7 @@
           "scoredAt": "2026-10-13T21:46:50.386Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-14T13:42:03.821Z",
       "current": true
     },
     {
@@ -78368,6 +78397,32 @@
           "score": 3,
           "comment": "Стрим 2",
           "scoredAt": "2026-09-02T16:57:55.295Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true
+    },
+    {
+      "userId": "313a9cf3-97e6-4282-85c2-a93a52e0e9f5",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Я не понимаю, где что-то по теме, или хотя бы репрезент? Есть ощущение, что ты просто сдал часть какого-то своего старого трека. Он даже так же резко оборвался. ",
+          "scoredAt": "2026-10-10T14:20:46.760Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Пятый стрим.",
+          "scoredAt": "2026-10-10T13:42:11.048Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "спасибо за обрезку какого-то трека",
+          "scoredAt": "2026-10-06T15:43:46.091Z"
         }
       ],
       "fetchedAt": "2026-10-13T18:20:00.020Z",

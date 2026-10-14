@@ -80322,6 +80322,132 @@
         "scoredAt": "2026-10-14T13:24:55.438Z",
         "userId": "14c5f976-e0cf-43c3-a324-6321e72f43a2"
       }
+    },
+    {
+      "id": "25623f8f9cff1872fd7d2bd720018f588ad99dbce8e7437ed720825759337a49",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:38:27.224Z",
+      "key": "[\"f2e68317-4865-44ca-98a0-5f72a28625a4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Местами по дикции есть провалы, но Санек Мирный ты легенда, когда трек на укулеле",
+        "scoredAt": "2026-10-14T13:38:27.224Z",
+        "userId": "f2e68317-4865-44ca-98a0-5f72a28625a4"
+      }
+    },
+    {
+      "id": "61712eae29bcf134f82d69ce4b2a97b59ad06403cbf04d75e55c3cb6791a2db2",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:32:49.828Z",
+      "key": "[\"4f8b4112-3810-49f6-934e-ef9e0d5575d6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Ты звучишь как гуф записавшийся в подвале\nно текст лучше намного, если бы это записано хорошо, то мог бы получить спокойно 4. ",
+        "scoredAt": "2026-10-14T13:32:49.828Z",
+        "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6"
+      }
+    },
+    {
+      "id": "b604d9d5ba9938392d0d5be5187a4df31817c31c64c18f9fba9413cd2c1224f6",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:36:26.914Z",
+      "key": "[\"d9d40c9a-4b59-402d-b18e-48a1918c11e8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Держишь ритму нормально, интонация и харизма имеется, но вот по разнообразию не хватило",
+        "scoredAt": "2026-10-14T13:36:26.914Z",
+        "userId": "d9d40c9a-4b59-402d-b18e-48a1918c11e8"
+      }
+    },
+    {
+      "id": "4265c06a212a7bc47afa892e966534aeeafd23cc25c77bf433493fe0e73d13bf",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:40:12.086Z",
+      "key": "[\"ad305998-989b-4ef4-9cd5-2c46b23ac813\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "В таком стильке пока лучшее что слышал, и есть по тексту рофлы, в целом посмотрим что в некст раунде сделаешь",
+        "scoredAt": "2026-10-14T13:40:12.086Z",
+        "userId": "ad305998-989b-4ef4-9cd5-2c46b23ac813"
+      }
+    },
+    {
+      "id": "7564615ba53208de5a9f4d76a06b8f439570280c50d81f1d6ba7173ae1c0927c",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:41:42.736Z",
+      "key": "[\"96503c8e-0e44-4d95-9d39-06bdfbe149fe\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Слишком дефолтный тречек, не хватило интонаций и эмоций треку",
+        "scoredAt": "2026-10-14T13:41:42.736Z",
+        "userId": "96503c8e-0e44-4d95-9d39-06bdfbe149fe"
+      }
+    },
+    {
+      "id": "f128a6d93650912b3bd04313484925f1026970a760192755af98a1bb2c940efb",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:32:47.801Z",
+      "key": "[\"c4b67b0c-c32a-45b9-96c6-1a1842e871e6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Дефолтно немного, не хватило разнообразия по флоу",
+        "scoredAt": "2026-10-14T13:32:47.801Z",
+        "userId": "c4b67b0c-c32a-45b9-96c6-1a1842e871e6"
+      }
+    },
+    {
+      "id": "f738fc90f6ac4ad0bc11d3dbd14350ee339d875ce6772d559e41a5c8be621623",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:39:37.843Z",
+      "key": "[\"74c84c3c-2120-47f5-ae39-e124d1e5cf29\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Девятый стрим",
+        "scoredAt": "2026-10-14T13:39:37.843Z",
+        "userId": "74c84c3c-2120-47f5-ae39-e124d1e5cf29"
+      }
+    },
+    {
+      "id": "9f6fdb65d429c6b7e798bf1f4029630bac80b8a15542bee0887164196c61526a",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:34:33.536Z",
+      "key": "[\"0aa9313d-5349-4fd7-92f7-78879a2da680\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не хватило содержания треку, по исполнению всё очень хорошо, но 30 секунд трека это \"O no no eeee\"",
+        "scoredAt": "2026-10-14T13:34:33.536Z",
+        "userId": "0aa9313d-5349-4fd7-92f7-78879a2da680"
+      }
+    },
+    {
+      "id": "ae8be9515f4d5c3ed1b783414ed9eb77117e925b50a0f1198db1796d5fede3c3",
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "sourceScoredAt": "2026-10-14T13:37:58.398Z",
+      "key": "[\"0e0340dd-b8dd-4f06-8bfd-dd98779700fb\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "до середины трека все портит ребячество, будто вот именно этим ты занизил сам себе оценку. ",
+        "scoredAt": "2026-10-14T13:37:58.398Z",
+        "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb"
+      }
     }
   ],
   "snapshots": [
@@ -80801,6 +80927,26 @@
           "index": 27.266628012361117,
           "favor": 18.502450980392158,
           "attention": -2.6328817915604525,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T13:42:03.821Z",
+      "exportedAt": "2026-10-14T13:42:03.821Z",
+      "scores": 8751,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.144324127955127,
+          "favor": 10.096480628936797,
+          "attention": 5.8782399747892535,
+          "respect": 7.169603524229075
+        },
+        "veterans": {
+          "index": 27.314112442445747,
+          "favor": 18.505182510048762,
+          "attention": -2.5881288911324245,
           "respect": 11.397058823529411
         }
       }
