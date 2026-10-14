@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T13:22:03.986Z",
-  "exportedAt": "2026-10-14T13:22:03.986Z",
-  "runId": "2026-10-14T13:22:03.986Z",
-  "forumExportedAt": "2026-10-14T13:22:03.986Z",
+  "lastSuccessfulAt": "2026-10-14T13:32:05.258Z",
+  "exportedAt": "2026-10-14T13:32:05.258Z",
+  "runId": "2026-10-14T13:32:05.258Z",
+  "forumExportedAt": "2026-10-14T13:32:05.258Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8734,
+    "scores": 8742,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10244,
-    "scoresBefore": 8726,
-    "scoresAfter": 8734,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9723,
+    "scoresBefore": 8734,
+    "scoresAfter": 8742,
     "fullBaselineRequests": 2953,
-    "requestReductionPercent": 99.6613613274636,
+    "requestReductionPercent": 99.69522519471724,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "TRONK",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:31:51.403Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "POINTWAVE",
+          "comment": "Мне не хватило под конец жесткого хука а в целом звучит мега вайбова",
+          "scoredAt": "2026-10-14T13:31:27.046Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "andrey mashonka",
+          "comment": "лютая какофония происходит, я хз даже чо тут ещё сказать\n",
+          "scoredAt": "2026-10-14T13:29:58.416Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "emou3e",
+          "comment": "В целом хорошо настелил, вопросов зиро",
+          "scoredAt": "2026-10-14T13:29:56.991Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Grims",
+          "comment": "Во второй части немного дикционно не вывез, по рифмам тоже есть простые моменты",
+          "scoredAt": "2026-10-14T13:28:36.255Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 5,
+          "artist": "emou3e",
+          "comment": "Ну очень крепкая работа, я думаю здесь можно спокойно поставить 5 и пожелать удачи далее. \n",
+          "scoredAt": "2026-10-14T13:28:10.292Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "КАМАЗОВСКИЙ ТОРМОЗ МЦ",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:24:55.438Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "бензобак",
+          "comment": "нихуя ты кентавр внатуре, прикольно \nнравится как ты моментами эмоционируешь и делаешь необычные рифмы, сплетаешь это красиво\nинтересно посмотреть, как будет дальше ",
+          "scoredAt": "2026-10-14T13:23:40.883Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -129,62 +185,6 @@
           "artist": "Денис Туретта",
           "comment": "Девятый стрим.",
           "scoredAt": "2026-10-14T13:14:42.635Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "ОГ23",
-          "comment": "братик текст у тебя хороший, правда\nНо исполнение... я поставлю проход, но хз чо там решат другие.\nМне правда понравился текст и будь за ним другой, более техничный мс в исполнении - ОК\nно тебе бы фониатру показаться ",
-          "scoredAt": "2026-10-14T13:12:50.704Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Седьмой",
-          "comment": "Мне хотелось бы больше акцента на техничности твоей и более отточенного ритма с рифмами, в остальном начитываешь ты неплохо ",
-          "scoredAt": "2026-10-14T13:09:05.273Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Чикмарь",
-          "comment": "в треке происходила какая-то вакханалия",
-          "scoredAt": "2026-10-14T13:05:05.080Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Паранорвайб",
-          "comment": "я хз на фоне какого-то общего бреда и моего личного сумасшествия, чисто из строчки про коршуна натурала)))) ",
-          "scoredAt": "2026-10-14T13:02:45.617Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Гитарист курильщика",
-          "comment": "Во втором отнесись посерьёзнее к работе, гитара круто и то, что лайв) но давай там запиши это всё потом, чтобы во 2 это звучало огненно) а не демкой. ",
-          "scoredAt": "2026-10-14T13:00:02.377Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "все мы носим маски",
-          "comment": "ну ты нихуя себе бля индивид ебать\nу тебя получается нас всех тут удивлять\nмы просто все в ахуе, как же так твою мать\nэто выдумка что-ли, так на бите лежать\nЯ не понимаю, что ещё можно сказать\nНо ты просто гений, что ещё можешь зачитать\nу тебя прекрасно получается, но Кстати\nЯ не знаю как теперь встать с кровати \n\n\nя хз в каком детском саде ты придумывал эти рифмы, но вышло просто КРУТО!!!! ",
-          "scoredAt": "2026-10-14T12:57:06.509Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "СД",
-          "comment": "Угарно отчитваешь дядька. Как будто ещё угаров в техте хочется как против дипиксцеса было.",
-          "scoredAt": "2026-10-14T12:55:30.067Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Adamant",
-          "comment": "",
-          "scoredAt": "2026-10-14T12:53:22.866Z"
         }
       ]
     }

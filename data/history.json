@@ -80210,6 +80210,118 @@
         "scoredAt": "2026-10-14T13:14:42.635Z",
         "userId": "d01d33f1-6f5c-465f-acd5-4eaf04154754"
       }
+    },
+    {
+      "id": "0190d90dd84920f3ff155317694b7d89fd4203e688dceb09d45c816a2a2cb797",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:29:58.416Z",
+      "key": "[\"ab6138e0-5819-4cd8-9095-d27e9df739cc\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "лютая какофония происходит, я хз даже чо тут ещё сказать\n",
+        "scoredAt": "2026-10-14T13:29:58.416Z",
+        "userId": "ab6138e0-5819-4cd8-9095-d27e9df739cc"
+      }
+    },
+    {
+      "id": "e0fd1acd6384a1a37b25295180e94f9de677be9777738e3fa3c63c8fa7369073",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:29:56.991Z",
+      "key": "[\"39a852ad-b89d-4f59-a44f-486691169bdc\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "В целом хорошо настелил, вопросов зиро",
+        "scoredAt": "2026-10-14T13:29:56.991Z",
+        "userId": "39a852ad-b89d-4f59-a44f-486691169bdc"
+      }
+    },
+    {
+      "id": "6581ff78d9e7bb6c30f9461230b80844ae38fa1ee85438ae8bf5192a0eebded6",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:28:10.292Z",
+      "key": "[\"39a852ad-b89d-4f59-a44f-486691169bdc\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 5,
+        "comment": "Ну очень крепкая работа, я думаю здесь можно спокойно поставить 5 и пожелать удачи далее. \n",
+        "scoredAt": "2026-10-14T13:28:10.292Z",
+        "userId": "39a852ad-b89d-4f59-a44f-486691169bdc"
+      }
+    },
+    {
+      "id": "20aa3d1fde99ab0e5cf2aa55b9a46f7801981dec32485fb4d39c07e6ff181c05",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:31:51.403Z",
+      "key": "[\"4edbe679-182e-4231-9568-704168f79ee1\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:31:51.403Z",
+        "userId": "4edbe679-182e-4231-9568-704168f79ee1"
+      }
+    },
+    {
+      "id": "4bc2405a89504bbde0b3afe508a1453e4470cb4a294c8052b849e5eeb6620488",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:28:36.255Z",
+      "key": "[\"4ab3d441-4a32-403b-ad67-d6b1ae83e366\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Во второй части немного дикционно не вывез, по рифмам тоже есть простые моменты",
+        "scoredAt": "2026-10-14T13:28:36.255Z",
+        "userId": "4ab3d441-4a32-403b-ad67-d6b1ae83e366"
+      }
+    },
+    {
+      "id": "7bcd606bdaafe720658d66bb1c96c2341c83d14823cf932532f577d66f5fb308",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:31:27.046Z",
+      "key": "[\"9e304aba-c4a5-493a-9096-98f5ac80ed43\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Мне не хватило под конец жесткого хука а в целом звучит мега вайбова",
+        "scoredAt": "2026-10-14T13:31:27.046Z",
+        "userId": "9e304aba-c4a5-493a-9096-98f5ac80ed43"
+      }
+    },
+    {
+      "id": "154a1659588830c2fea2de4a030abdccab88acd2cdee45a2c52b0ad72b5e96f5",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:23:40.883Z",
+      "key": "[\"487283cc-0837-4d18-922b-f9437e645faa\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "нихуя ты кентавр внатуре, прикольно \nнравится как ты моментами эмоционируешь и делаешь необычные рифмы, сплетаешь это красиво\nинтересно посмотреть, как будет дальше ",
+        "scoredAt": "2026-10-14T13:23:40.883Z",
+        "userId": "487283cc-0837-4d18-922b-f9437e645faa"
+      }
+    },
+    {
+      "id": "d77160a61cf81b23357ddc0a66f93930284e420c864fea0a8cf4ce963fc74680",
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "sourceScoredAt": "2026-10-14T13:24:55.438Z",
+      "key": "[\"14c5f976-e0cf-43c3-a324-6321e72f43a2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:24:55.438Z",
+        "userId": "14c5f976-e0cf-43c3-a324-6321e72f43a2"
+      }
     }
   ],
   "snapshots": [
@@ -80669,6 +80781,26 @@
           "index": 27.232320036181363,
           "favor": 18.501948972360026,
           "attention": -2.6666877597080725,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T13:32:05.258Z",
+      "exportedAt": "2026-10-14T13:32:05.258Z",
+      "scores": 8742,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.11652325119744,
+          "favor": 10.093757841176881,
+          "attention": 5.853161885791482,
+          "respect": 7.169603524229075
+        },
+        "veterans": {
+          "index": 27.266628012361117,
+          "favor": 18.502450980392158,
+          "attention": -2.6328817915604525,
           "respect": 11.397058823529411
         }
       }
