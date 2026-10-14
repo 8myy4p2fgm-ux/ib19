@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T11:03:03.437Z",
+  "exportedAt": "2026-10-14T11:11:56.308Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -62480,6 +62480,13 @@
       "current": true
     },
     {
+      "userId": "c73f0721-2062-4627-835b-610debc3c90f",
+      "scoredCount": 0,
+      "scores": [],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true
+    },
+    {
       "userId": "c4258778-9304-4322-8112-e29d0282ca1a",
       "scoredCount": 4,
       "scores": [
@@ -62522,13 +62529,6 @@
           "scoredAt": "2026-10-03T17:11:06.395Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true
-    },
-    {
-      "userId": "c73f0721-2062-4627-835b-610debc3c90f",
-      "scoredCount": 0,
-      "scores": [],
       "fetchedAt": "2026-10-13T18:20:00.020Z",
       "current": true
     },
@@ -66563,8 +66563,14 @@
     },
     {
       "userId": "5a7dd0c3-5ed0-4f5a-b374-51dbe10bd852",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Зачитал ты хорошо, я не очень заценил твои протяжки, очень тягомотно звучало. \nа так ты вроде и интонируешь хорошо и текст расставляешь правильно по структуре. ",
+          "scoredAt": "2026-10-14T11:08:24.491Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -66578,7 +66584,7 @@
           "scoredAt": "2026-10-02T17:46:21.072Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T11:11:56.308Z",
       "current": true
     },
     {
@@ -70986,9 +70992,16 @@
     },
     {
       "userId": "a533b642-00de-43c1-ba89-7d956a7e6d8a",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "ну нажевал слов ты достаточно, потом нарифмовал тоже так прям, будто мы тут всем селом рифмы придумывали типо да - пизда\nну такое. По конструкции и идее прикольно, припев есть, бридж есть \nза идею авансом 4, но в следующем раунде если будет такая же каша и рифмули не подтянешь, то не пройдёшь",
+          "scoredAt": "2026-10-14T11:03:53.546Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T11:11:56.308Z",
       "current": true
     },
     {
@@ -76968,8 +76981,14 @@
     },
     {
       "userId": "c095192e-f760-41c6-b8ac-a61ea2040a61",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "comment": "всё правило, бодишейминг это наше всё ! ",
+          "scoredAt": "2026-10-14T11:10:45.049Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 1,
@@ -76989,7 +77008,7 @@
           "scoredAt": "2026-10-07T18:48:15.806Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T11:11:56.308Z",
       "current": true
     },
     {
