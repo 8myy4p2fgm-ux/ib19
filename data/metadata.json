@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T12:52:13.942Z",
-  "exportedAt": "2026-10-14T12:52:13.942Z",
-  "runId": "2026-10-14T12:52:13.942Z",
-  "forumExportedAt": "2026-10-14T12:52:13.942Z",
+  "lastSuccessfulAt": "2026-10-14T13:01:59.335Z",
+  "exportedAt": "2026-10-14T13:01:59.335Z",
+  "runId": "2026-10-14T13:01:59.335Z",
+  "forumExportedAt": "2026-10-14T13:01:59.335Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8717,
+    "scores": 8723,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 21,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 19,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 19,
-    "changedParticipants": 19,
-    "logicalRequests": 21,
-    "durationMs": 21336,
-    "scoresBefore": 8698,
-    "scoresAfter": 8717,
-    "fullBaselineRequests": 2951,
-    "requestReductionPercent": 99.28837682141646,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 7937,
+    "scoresBefore": 8717,
+    "scoresAfter": 8723,
+    "fullBaselineRequests": 2952,
+    "requestReductionPercent": 99.7289972899729,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Гитарист курильщика",
+          "comment": "Во втором отнесись посерьёзнее к работе, гитара круто и то, что лайв) но давай там запиши это всё потом, чтобы во 2 это звучало огненно) а не демкой. ",
+          "scoredAt": "2026-10-14T13:00:02.377Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "все мы носим маски",
+          "comment": "ну ты нихуя себе бля индивид ебать\nу тебя получается нас всех тут удивлять\nмы просто все в ахуе, как же так твою мать\nэто выдумка что-ли, так на бите лежать\nЯ не понимаю, что ещё можно сказать\nНо ты просто гений, что ещё можешь зачитать\nу тебя прекрасно получается, но Кстати\nЯ не знаю как теперь встать с кровати \n\n\nя хз в каком детском саде ты придумывал эти рифмы, но вышло просто КРУТО!!!! ",
+          "scoredAt": "2026-10-14T12:57:06.509Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "СД",
+          "comment": "Угарно отчитваешь дядька. Как будто ещё угаров в техте хочется как против дипиксцеса было.",
+          "scoredAt": "2026-10-14T12:55:30.067Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Adamant",
+          "comment": "",
+          "scoredAt": "2026-10-14T12:53:22.866Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "D-501",
+          "comment": "За биток ставлю 4, он тебя вывез, точнее вот этот битбокс\nА читаешь ты очень кривовато, поработай над читкой на бит больше, а не над битом. ",
+          "scoredAt": "2026-10-14T12:53:03.769Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Wiollado",
+          "comment": "подачка интересная. рифмуешь ужасно братан, просто оч хуево.",
+          "scoredAt": "2026-10-14T12:52:24.311Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -143,48 +185,6 @@
           "artist": "молодой Куколд",
           "comment": "текстом необычно и прикольно, но со стороны я смотреть на такое не буду =3",
           "scoredAt": "2026-10-14T12:44:03.207Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Addelweiss",
-          "comment": "слушай есть удачные как будто мысли, но основной песняк это чисто бля поток первомысленный как будто. ещё и нал обнал рифманул. но что то в тебе определенно есть.",
-          "scoredAt": "2026-10-14T12:43:09.517Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "MC_CROW",
-          "comment": "немного не дотянул до лучшего трека раунда ",
-          "scoredAt": "2026-10-14T12:42:31.823Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "qaraqan",
-          "comment": "Вот за хук хочется как будто 4 поставить. Он наверное правильно выстроен как для такой песни. Вот куплет душнейший братуха.",
-          "scoredAt": "2026-10-14T12:41:39.494Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "GENRIXXX",
-          "comment": "рановато тебе на айби ботол братуха, сорян.",
-          "scoredAt": "2026-10-14T12:40:19.994Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Semmi Tsokur",
-          "comment": "Не знаю, оправдан ли такой рифмодроч в 1 раунде, но хотелось бы больше увидеть смысла и при этом не терять в рифме + и рифмы тоже хотелось бы более приличные, чтобы играли красивше. \nпо ритму всё прекрасно, по идейности, нравится биты и структура, как было сделано.",
-          "scoredAt": "2026-10-14T12:39:47.541Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 5,
-          "artist": "nickpwr",
-          "comment": "уверенно.",
-          "scoredAt": "2026-10-14T12:39:30.991Z"
         }
       ]
     }
