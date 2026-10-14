@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T21:32:13.876Z",
+  "exportedAt": "2026-10-14T21:42:20.525Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -45860,8 +45860,14 @@
     },
     {
       "userId": "ff80844e-57ac-4665-b4f6-956c3c561745",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Текст местами интересный, но по звуку мне не хватило энергии. ",
+          "scoredAt": "2026-10-14T21:36:24.755Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -45875,7 +45881,7 @@
           "scoredAt": "2026-10-12T12:57:48.094Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
@@ -47291,8 +47297,14 @@
     },
     {
       "userId": "676ce3bc-9b1e-42fd-af20-47b1303fa98b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "с барскими",
+          "scoredAt": "2026-10-14T21:41:15.465Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -47306,7 +47318,7 @@
           "scoredAt": "2026-10-12T19:06:12.444Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
@@ -60967,8 +60979,14 @@
     },
     {
       "userId": "07b99e4e-70f1-4215-bbb3-d7d95cba112e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Какой же флоу интересный. Даже не пойму своё отношение к нему. Но наверно 3 - честная оценка.",
+          "scoredAt": "2026-10-14T21:39:39.800Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -60976,7 +60994,7 @@
           "scoredAt": "2026-10-09T11:38:20.962Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
@@ -63253,8 +63271,14 @@
     },
     {
       "userId": "82cd3bac-b911-4930-95cf-401eb2519f22",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "зажал, будь свободней в стиле",
+          "scoredAt": "2026-10-14T21:42:03.960Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -63262,7 +63286,7 @@
           "scoredAt": "2026-10-07T18:29:35.595Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
@@ -74657,8 +74681,14 @@
     },
     {
       "userId": "fce964d9-b015-478c-a820-892d831de02f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Красивый трек и исполнение, текст в принципе понятен, про ноги строчку хорошо подвязал. Но по теме будто тут мало сказал буквально 2 строчки. Хороший поток размышлений )",
+          "scoredAt": "2026-10-14T21:32:31.363Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -74684,7 +74714,7 @@
           "scoredAt": "2026-09-17T18:37:08.686Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
@@ -76029,8 +76059,14 @@
     },
     {
       "userId": "a878a58b-80a2-454c-941d-6b5784e20358",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Бодренько, есть интересные строчки, звучит хорошо , тема раскрыта, на бите уверено сидишь и звучишь , жду тебя в парных - хз че ты в отборах забыл. Мб во втором покажешь зубастых пЭнчиков ?",
+          "scoredAt": "2026-10-14T21:36:50.808Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 5,
@@ -76050,7 +76086,7 @@
           "scoredAt": "2026-10-09T19:11:00.066Z"
         }
       ],
-      "fetchedAt": "2026-10-14T17:22:33.011Z",
+      "fetchedAt": "2026-10-14T21:42:20.525Z",
       "current": true
     },
     {
