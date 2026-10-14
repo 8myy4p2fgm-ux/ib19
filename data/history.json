@@ -80448,6 +80448,132 @@
         "scoredAt": "2026-10-14T13:37:58.398Z",
         "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb"
       }
+    },
+    {
+      "id": "805af8e8e38db1f581ece7f5db6b41d786d80b3481a6d0ca6b7ad0173bb3af84",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:47:48.775Z",
+      "key": "[\"aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Местами всё перетюнено, и содержание трека  не хватило",
+        "scoredAt": "2026-10-14T13:47:48.775Z",
+        "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4"
+      }
+    },
+    {
+      "id": "5be9da686dbec9c783082e4c1399359fcc6aae8fd4809e0614ae369befd57f09",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:49:38.872Z",
+      "key": "[\"824cec17-0e59-4df1-9b39-6fe72a3f727e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:49:38.872Z",
+        "userId": "824cec17-0e59-4df1-9b39-6fe72a3f727e"
+      }
+    },
+    {
+      "id": "22b91633d579cdc4e7ec4c9778d79350d8208a990afced709d65ccddf476e9e6",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:42:49.145Z",
+      "key": "[\"9cd4295b-77ed-4428-b396-ba41bd82e88c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Стилево",
+        "scoredAt": "2026-10-14T13:42:49.145Z",
+        "userId": "9cd4295b-77ed-4428-b396-ba41bd82e88c"
+      }
+    },
+    {
+      "id": "0349dac01054ef46b93609a00502e1038c1e3f9d940a7e6404304779344a3b12",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:44:45.503Z",
+      "key": "[\"e5275d00-8e08-4175-bff0-4d70508e8442\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом звучит хорошо, но по так сказать куплетной интонации одна, вроде сделал разбавку под конец но её не хватило",
+        "scoredAt": "2026-10-14T13:44:45.503Z",
+        "userId": "e5275d00-8e08-4175-bff0-4d70508e8442"
+      }
+    },
+    {
+      "id": "0cb1c14c8ddc07ee4f56bdf1a43645eea072ff695bf5c77cf321bf4fe64640ab",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:50:08.795Z",
+      "key": "[\"ae850a16-2edf-438a-9d2b-7da96193c6ea\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот вроде слышно что ты понимаешь что делаешь, но в начале сбивки по ритме.",
+        "scoredAt": "2026-10-14T13:50:08.795Z",
+        "userId": "ae850a16-2edf-438a-9d2b-7da96193c6ea"
+      }
+    },
+    {
+      "id": "6b0eb8f47a85d794f3fdffaa8f4ea6c6b87bb99fed21cddc9ad939e7b30e5ac9",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:46:32.167Z",
+      "key": "[\"8f8b1311-4468-44bf-b5fd-0878f1420f00\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Короче в целом хороший трек под конец только не хватило ярких бэков для атмосферы ",
+        "scoredAt": "2026-10-14T13:46:32.167Z",
+        "userId": "8f8b1311-4468-44bf-b5fd-0878f1420f00"
+      }
+    },
+    {
+      "id": "e3349d0e8a4a7873577ba55c0b1d149cea6a0ebea674f6f99d724c756be80474",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:45:33.551Z",
+      "key": "[\"b5931d8f-0ab0-4f70-b439-524cdd3eb2d3\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:45:33.551Z",
+        "userId": "b5931d8f-0ab0-4f70-b439-524cdd3eb2d3"
+      }
+    },
+    {
+      "id": "89e1ced522af38d14038bea54293e75c47912cdd99bc3c88b9b1a820c959300e",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:52:01.294Z",
+      "key": "[\"a5e5bcab-e76e-44d8-a5dc-6da4c97cdbad\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Чуть тюн шакалит что на добивке четверок, по тексту +- норм, ну и в некст раунде такие вещи как в конце объемом дорожек заправляй",
+        "scoredAt": "2026-10-14T13:52:01.294Z",
+        "userId": "a5e5bcab-e76e-44d8-a5dc-6da4c97cdbad"
+      }
+    },
+    {
+      "id": "f43c6d059cce9a850f87e73d240f337a658f38ffdce1701897b165b31da48279",
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "sourceScoredAt": "2026-10-14T13:49:34.074Z",
+      "key": "[\"e45283b4-e66c-42fa-b969-b3f3eb428ff5\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Не хватает вайба, легкости какой-то. \nСлишком напряжённо читаешь из-за этого вылезают все КОСЯКИ, прям которые в целом, если бы ты был расслабленнее то терялись бы на фоне твоей энергии.  ",
+        "scoredAt": "2026-10-14T13:49:34.074Z",
+        "userId": "e45283b4-e66c-42fa-b969-b3f3eb428ff5"
+      }
     }
   ],
   "snapshots": [
@@ -80947,6 +81073,26 @@
           "index": 27.314112442445747,
           "favor": 18.505182510048762,
           "attention": -2.5881288911324245,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T13:52:05.766Z",
+      "exportedAt": "2026-10-14T13:52:05.766Z",
+      "scores": 8760,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.16232511275323,
+          "favor": 10.090408267255764,
+          "attention": 5.902313321268393,
+          "respect": 7.169603524229075
+        },
+        "veterans": {
+          "index": 27.352205557698802,
+          "favor": 18.49924585218703,
+          "attention": -2.5440991180176398,
           "respect": 11.397058823529411
         }
       }

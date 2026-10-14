@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T13:42:03.821Z",
-  "exportedAt": "2026-10-14T13:42:03.821Z",
-  "runId": "2026-10-14T13:42:03.821Z",
-  "forumExportedAt": "2026-10-14T13:42:03.821Z",
+  "lastSuccessfulAt": "2026-10-14T13:52:05.766Z",
+  "exportedAt": "2026-10-14T13:52:05.766Z",
+  "runId": "2026-10-14T13:52:05.766Z",
+  "forumExportedAt": "2026-10-14T13:52:05.766Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8751,
+    "scores": 8760,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
     "updatedCards": 9,
     "mode": "incremental",
     "participants": 3281,
     "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 10977,
-    "scoresBefore": 8742,
-    "scoresAfter": 8751,
-    "fullBaselineRequests": 2954,
-    "requestReductionPercent": 99.62762356127286,
+    "changedParticipants": 8,
+    "logicalRequests": 12,
+    "durationMs": 12260,
+    "scoresBefore": 8751,
+    "scoresAfter": 8760,
+    "fullBaselineRequests": 2955,
+    "requestReductionPercent": 99.59390862944163,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "FIRE_WAY404",
+          "comment": "Вот вроде слышно что ты понимаешь что делаешь, но в начале сбивки по ритме.",
+          "scoredAt": "2026-10-14T13:50:08.795Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Черный котэ",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:49:38.872Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Zавтрашний день",
+          "comment": "Не хватает вайба, легкости какой-то. \nСлишком напряжённо читаешь из-за этого вылезают все КОСЯКИ, прям которые в целом, если бы ты был расслабленнее то терялись бы на фоне твоей энергии.  ",
+          "scoredAt": "2026-10-14T13:49:34.074Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "D1STANT",
+          "comment": "Местами всё перетюнено, и содержание трека  не хватило",
+          "scoredAt": "2026-10-14T13:47:48.775Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Саша Нгуен",
+          "comment": "Короче в целом хороший трек под конец только не хватило ярких бэков для атмосферы ",
+          "scoredAt": "2026-10-14T13:46:32.167Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "NECELOVAN",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:45:33.551Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "D.Rector",
+          "comment": "В целом звучит хорошо, но по так сказать куплетной интонации одна, вроде сделал разбавку под конец но её не хватило",
+          "scoredAt": "2026-10-14T13:44:45.503Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "Maestro",
+          "comment": "Стилево",
+          "scoredAt": "2026-10-14T13:42:49.145Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -129,62 +185,6 @@
           "artist": "Дживан",
           "comment": "Не хватило содержания треку, по исполнению всё очень хорошо, но 30 секунд трека это \"O no no eeee\"",
           "scoredAt": "2026-10-14T13:34:33.536Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "OPUS",
-          "comment": "Ты звучишь как гуф записавшийся в подвале\nно текст лучше намного, если бы это записано хорошо, то мог бы получить спокойно 4. ",
-          "scoredAt": "2026-10-14T13:32:49.828Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Тори Райм",
-          "comment": "Дефолтно немного, не хватило разнообразия по флоу",
-          "scoredAt": "2026-10-14T13:32:47.801Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "TRONK",
-          "comment": "Девятый стрим.",
-          "scoredAt": "2026-10-14T13:31:51.403Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "POINTWAVE",
-          "comment": "Мне не хватило под конец жесткого хука а в целом звучит мега вайбова",
-          "scoredAt": "2026-10-14T13:31:27.046Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "andrey mashonka",
-          "comment": "лютая какофония происходит, я хз даже чо тут ещё сказать\n",
-          "scoredAt": "2026-10-14T13:29:58.416Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "emou3e",
-          "comment": "В целом хорошо настелил, вопросов зиро",
-          "scoredAt": "2026-10-14T13:29:56.991Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Grims",
-          "comment": "Во второй части немного дикционно не вывез, по рифмам тоже есть простые моменты",
-          "scoredAt": "2026-10-14T13:28:36.255Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "artist": "emou3e",
-          "comment": "Ну очень крепкая работа, я думаю здесь можно спокойно поставить 5 и пожелать удачи далее. \n",
-          "scoredAt": "2026-10-14T13:28:10.292Z"
         }
       ]
     }
