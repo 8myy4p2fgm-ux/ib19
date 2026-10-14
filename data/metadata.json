@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-13T21:11:49.905Z",
-  "exportedAt": "2026-10-13T21:11:49.905Z",
-  "runId": "2026-10-13T21:11:49.905Z",
-  "forumExportedAt": "2026-10-13T21:11:49.905Z",
+  "lastSuccessfulAt": "2026-10-14T01:51:33.247Z",
+  "exportedAt": "2026-10-14T01:51:33.247Z",
+  "runId": "2026-10-14T01:51:33.247Z",
+  "forumExportedAt": "2026-10-14T01:51:33.247Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8480,
+    "scores": 8594,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 159,
+    "httpRequests": 115,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 156,
+    "updatedCards": 113,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 156,
-    "changedParticipants": 154,
-    "logicalRequests": 159,
-    "durationMs": 159148,
-    "scoresBefore": 8320,
-    "scoresAfter": 8480,
-    "fullBaselineRequests": 2911,
-    "requestReductionPercent": 94.53795946410169,
+    "participantsWithNewScores": 113,
+    "changedParticipants": 113,
+    "logicalRequests": 115,
+    "durationMs": 115585,
+    "scoresBefore": 8480,
+    "scoresAfter": 8594,
+    "fullBaselineRequests": 2928,
+    "requestReductionPercent": 96.0724043715847,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,109 +82,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "Illumate",
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "сталинские депрессии",
+          "comment": "Там местами зажевал, но закрыл уши на это.",
+          "scoredAt": "2026-10-13T23:54:59.947Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Кукарек МЦ",
+          "comment": "Ку-ка-ре-ку!\nУлыбнуло!",
+          "scoredAt": "2026-10-13T23:52:24.567Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Стихотворение под бит",
+          "comment": "А прикольно)",
+          "scoredAt": "2026-10-13T23:51:19.689Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "ImmJinX",
+          "comment": "Есть интересные строки.",
+          "scoredAt": "2026-10-13T23:48:31.055Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Infuse",
+          "comment": "👌👌👌",
+          "scoredAt": "2026-10-13T23:47:19.547Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 2,
-          "artist": "V",
-          "comment": "Имя из одной буквы? Можно проиграть конкуренцию с алфавитом. Трэк, конечно, слабый: подача хилая, голос не поставлен, минусушные напевы.",
-          "scoredAt": "2026-10-13T21:07:37.215Z"
+          "artist": "Забытый музой",
+          "comment": "Очень простые и однообразные интонации.\nРифмы плохи.",
+          "scoredAt": "2026-10-13T23:46:56.587Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "U Genie",
+          "comment": "Ритмика слаба.",
+          "scoredAt": "2026-10-13T23:45:51.316Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 3,
-          "artist": "MAREKASOV",
-          "comment": "напористо",
-          "scoredAt": "2026-10-13T21:06:55.812Z"
+          "artist": "ЭСКЛАВ",
+          "comment": "C проходом! Но дальше с таким текстом делать нечего!",
+          "scoredAt": "2026-10-13T23:44:56.682Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Вдумчивый",
-          "comment": "нормик, дай больше разнообразия в подаче, с авансом",
-          "scoredAt": "2026-10-13T21:06:04.840Z"
+          "artist": "ГОРЕ",
+          "comment": "Чувак, ну ты же понимаешь куда идешь, что, блять, с качеством?\nЧувствую, что етсь потенциал, только поэтому 4.\nУверен, тебе пиздец ка кбудут снижать за ОВ и качества.",
+          "scoredAt": "2026-10-13T23:43:01.186Z"
         },
         {
-          "judgeName": "Illumate",
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "CTRL",
+          "comment": "Для отбора пойдет!",
+          "scoredAt": "2026-10-13T23:41:39.500Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Basten",
-          "comment": "Бросается какая-то корявость в ритме, приглядись к этому моменту. Выделю уникальнейшую рифму «крабле» / «правды». Больше ни у кого здесь не слышал. В целом в трэке много обычности, не хватает индивидуальность.",
-          "scoredAt": "2026-10-13T21:05:21.707Z"
+          "artist": "Эль Чаба",
+          "comment": "Береги голову, брат!\nНатянул на 4 чутка, ибо раскачал.",
+          "scoredAt": "2026-10-13T23:41:08.735Z"
         },
         {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Антигона",
-          "comment": "норм, с натяжкой",
-          "scoredAt": "2026-10-13T21:04:49.335Z"
-        },
-        {
-          "judgeName": "AL Hammer",
+          "judgeName": "СТИШ",
           "score": 3,
-          "artist": "Helium Loyman",
-          "comment": "гоу дальше",
-          "scoredAt": "2026-10-13T21:03:31.509Z"
+          "artist": "МЦ СЛОЖНЫЙ ЕБАЛЬНИК",
+          "comment": "Слишком расслабленно словно.",
+          "scoredAt": "2026-10-13T23:40:09.815Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Эксклюзив",
-          "comment": "с браскими плечами накину до 4",
-          "scoredAt": "2026-10-13T21:01:50.745Z"
+          "artist": "Dextra",
+          "comment": "Нормуль!",
+          "scoredAt": "2026-10-13T23:39:05.508Z"
         },
         {
-          "judgeName": "Illumate",
+          "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Prophet",
-          "comment": "Проклёвывается радирифменная графомания. Читать умеешь, но как-то излишне пыжишься, слишком много напускной злобы. Relax, bro.",
-          "scoredAt": "2026-10-13T21:01:48.708Z"
+          "artist": "Bodjee",
+          "comment": "Нормально так головой качнул.\nХорошая скорость.",
+          "scoredAt": "2026-10-13T23:38:04.752Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "СТИШ",
           "score": 1,
-          "artist": "HIPHOP Skomoroh",
-          "comment": "инди темочка, кто такое слушает",
-          "scoredAt": "2026-10-13T21:00:37.579Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Новый русский",
-          "comment": "с ебейшим авансом за домашнего)",
-          "scoredAt": "2026-10-13T20:59:55.510Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Yznk",
-          "comment": "Умело, но не хватает какой-то яркости и запоминаемости строк. Голос и звук грязные.",
-          "scoredAt": "2026-10-13T20:58:27.513Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Soni Plastony",
-          "comment": "батлово",
-          "scoredAt": "2026-10-13T20:57:59.123Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Donaldfuck [Болт Disney]",
-          "comment": "надо пунчлиний",
-          "scoredAt": "2026-10-13T20:57:26.479Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "люблю кипарисы [TLW]",
-          "comment": "под конец все испортил",
-          "scoredAt": "2026-10-13T20:56:59.929Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Алексей Дрищ",
-          "comment": "оч лоускильно. но за добрую наивность в песне хочется поставить проход.",
-          "scoredAt": "2026-10-13T20:56:30.248Z"
+          "artist": "Indigirka",
+          "comment": "Начала читать, а я и не понял, что это читка. Думла на бите такой эффект))",
+          "scoredAt": "2026-10-13T23:37:19.350Z"
         }
       ]
     }

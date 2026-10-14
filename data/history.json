@@ -76654,6 +76654,1602 @@
         "scoredAt": "2026-10-13T20:56:30.248Z",
         "userId": "252ff774-6492-41f8-96da-f29c36b39196"
       }
+    },
+    {
+      "id": "92c604a375840da3d9ff028242899c34596c4fef5b25870ae67acd8ecbad7727",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:07:00.775Z",
+      "key": "[\"3c1c75ca-f393-4f2d-961f-fedeebd41022\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Скучно, неинтеренсо, но опыт слышен.",
+        "scoredAt": "2026-10-13T23:07:00.775Z",
+        "userId": "3c1c75ca-f393-4f2d-961f-fedeebd41022"
+      }
+    },
+    {
+      "id": "760a887512b64bc9fd979f3fe3f28562540a5b5cae743e51ee9e440a012e4ce5",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:57:32.591Z",
+      "key": "[\"fa274d17-7069-450d-9ea1-63e0eccabf0d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "ритмично, с авансом с нихуевеньким",
+        "scoredAt": "2026-10-13T21:57:32.591Z",
+        "userId": "fa274d17-7069-450d-9ea1-63e0eccabf0d"
+      }
+    },
+    {
+      "id": "aae32cbd3b825310ec7d815ff9ccdc4720ce5f5194e70e1865c47d07fae2798e",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:14:26.445Z",
+      "key": "[\"4ad2a4d8-bf16-4fe6-a4d4-c64b6fef7833\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Словно уж слишком глубоко для отбора копнул.\nНорм, пойдет.",
+        "scoredAt": "2026-10-13T23:14:26.445Z",
+        "userId": "4ad2a4d8-bf16-4fe6-a4d4-c64b6fef7833"
+      }
+    },
+    {
+      "id": "4627f8af3dbd5b765bbc260504ef70bbbc6e9164ec70e62883f490f1be021e0b",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:11:53.730Z",
+      "key": "[\"109ccdb9-71ea-4998-a861-16709832cc97\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая серединка",
+        "scoredAt": "2026-10-13T21:11:53.730Z",
+        "userId": "109ccdb9-71ea-4998-a861-16709832cc97"
+      }
+    },
+    {
+      "id": "d38460c6bd25c48f1f6d3866aee9e9712c6fa32ab6632df02143f965ebdaf4ee",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:14:48.765Z",
+      "key": "[\"3711aa12-1678-49fd-96d9-872b8b5f10b7\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-13T23:14:48.765Z",
+        "userId": "3711aa12-1678-49fd-96d9-872b8b5f10b7"
+      }
+    },
+    {
+      "id": "110f3c0ea67bb42a1210214cf5c42894da6e7fcf4e92f9b3bb994d02e2d9c32c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:16:05.891Z",
+      "key": "[\"ce6c7847-240b-4e41-a9c3-5ed24dda984b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "163ONMYNECK?\nПанчей бы добавить.\nВ целом, прикольно.",
+        "scoredAt": "2026-10-13T23:16:05.891Z",
+        "userId": "ce6c7847-240b-4e41-a9c3-5ed24dda984b"
+      }
+    },
+    {
+      "id": "311087f4f49c7d8f050ed6efba6117b6a4c72fc7424fba49e07c29ede1ee9225",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:44:56.682Z",
+      "key": "[\"bd1e8a8f-c458-484e-990c-9c716a8657e1\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "C проходом! Но дальше с таким текстом делать нечего!",
+        "scoredAt": "2026-10-13T23:44:56.682Z",
+        "userId": "bd1e8a8f-c458-484e-990c-9c716a8657e1"
+      }
+    },
+    {
+      "id": "02eaa23a6a3b2ac0c424b57853aaefaf49f1dc6b8c1af4f55012a71c4ef6fefa",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:05:55.825Z",
+      "key": "[\"768b78d5-8445-45fb-b41b-68ec8e444c4e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "тихо так в следующий батл",
+        "scoredAt": "2026-10-13T22:05:55.825Z",
+        "userId": "768b78d5-8445-45fb-b41b-68ec8e444c4e"
+      }
+    },
+    {
+      "id": "5f8663a3db70ee1c14b9e3bb70e5f50204c082d0ac062b29c88a9be4c5a5da8f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:43:01.186Z",
+      "key": "[\"69a1f09c-5022-4e40-980a-0cfac6c19c6e\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Чувак, ну ты же понимаешь куда идешь, что, блять, с качеством?\nЧувствую, что етсь потенциал, только поэтому 4.\nУверен, тебе пиздец ка кбудут снижать за ОВ и качества.",
+        "scoredAt": "2026-10-13T23:43:01.186Z",
+        "userId": "69a1f09c-5022-4e40-980a-0cfac6c19c6e"
+      }
+    },
+    {
+      "id": "57062997ce7b2cba35eec72dd02eacb806d3560344847bbc6c4330ce84a7b06f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:24:35.995Z",
+      "key": "[\"1f8ac527-4729-4ade-ab56-3abbb2f819e5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "НЕ ОРИ НА МЕНЯ!\n🙀🙀🙀\nГрязно, монотонно, дерзко. Но что-то в этом есть.",
+        "scoredAt": "2026-10-13T23:24:35.995Z",
+        "userId": "1f8ac527-4729-4ade-ab56-3abbb2f819e5"
+      }
+    },
+    {
+      "id": "eca43af05456f668974da27f8374f6adda9275dd47443616933578503657c1b8",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:17:33.083Z",
+      "key": "[\"a8f20957-8df0-488e-8dba-a365199cf9cd\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "ладно, больше репа бы",
+        "scoredAt": "2026-10-13T21:17:33.083Z",
+        "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd"
+      }
+    },
+    {
+      "id": "474068c6d3665e3631906d6e44836fcbad43eac11cb9fbaad5b81d38778ae0e0",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:04:04.294Z",
+      "key": "[\"b3a65136-9a81-4d5c-be27-6ebb922c15d1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "без б?",
+        "scoredAt": "2026-10-13T22:04:04.294Z",
+        "userId": "b3a65136-9a81-4d5c-be27-6ebb922c15d1"
+      }
+    },
+    {
+      "id": "24c46eaa8f0591d1fb765712ae98117a0c52d291076f45816e827cc130990f47",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:23:54.038Z",
+      "key": "[\"3a9eb3c7-a9ee-4bb3-90a8-15b1e338ec9c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "погруженность в тему ок, но траваматы и инвалиды? ок",
+        "scoredAt": "2026-10-13T21:23:54.038Z",
+        "userId": "3a9eb3c7-a9ee-4bb3-90a8-15b1e338ec9c"
+      }
+    },
+    {
+      "id": "74fa3a313082dd54d63c7a1adf62617e443875be35896b78c0d6abf086199400",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:45:48.218Z",
+      "key": "[\"d4fa41c9-08d4-44bf-9f6f-f8c6c088e422\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая середеинка",
+        "scoredAt": "2026-10-13T21:45:48.218Z",
+        "userId": "d4fa41c9-08d4-44bf-9f6f-f8c6c088e422"
+      }
+    },
+    {
+      "id": "16e3e42ce9dd92ec8cd207c24619749fd2a5f644e84e68e4e24f14d0f7d1d5cc",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:35:47.345Z",
+      "key": "[\"9cd4295b-77ed-4428-b396-ba41bd82e88c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Плотно, клево.\nКачает.",
+        "scoredAt": "2026-10-13T23:35:47.345Z",
+        "userId": "9cd4295b-77ed-4428-b396-ba41bd82e88c"
+      }
+    },
+    {
+      "id": "61abacc572679190592f5d9c525e752e98ca682b11fd95d2d7f86a083910e1f0",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:03:56.435Z",
+      "key": "[\"c5160c39-001c-4b73-8bcd-ca9eca0a8bb6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Зацепил с первой строки.",
+        "scoredAt": "2026-10-13T23:03:56.435Z",
+        "userId": "c5160c39-001c-4b73-8bcd-ca9eca0a8bb6"
+      }
+    },
+    {
+      "id": "3eb680391f90ae984937a540066b3248efe5c1cdf4fab3ef8b6a177b5831cd0f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:40:19.427Z",
+      "key": "[\"fdff36a8-ebba-4fd1-b99e-f91030928529\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "АНДРЕЙ-ПЕЛЬМЕНЬ, СЪЕЛ ЧЕБУРЕК\nЧЕБУРЕК-АРТЁМ, АРТЁМ ПОТЕРЯЛСЯ СРЕДИ ТЫСЯЧИ ВЁРСТ,\nОН БАЛОВАЛСЯ СРЕДИ ТЫСЯЧИ ДЕВ.\nОН СТАЛ, КАК АБСУРД. ЕГО ГЛАЗА-ИЗУМРУД.\nЧЕБУРЕК ЗАГЛОТИЛ ТЫСЯЧУ РЕК, \nЕГО РОТ-КРОТ, ЕГО РОТ-ГРОБ.\nСРЕДИ ТЫСЯЧИ НОТ, ОН НЕ ПОНЯЛ ЧТО\nЕГО ПЕРДУТ ТЫСЯЧИ НЕФОРОВ,\nБУДЕШЬ ЧИПС? А НЕ ТО, БУДЕШЬ МЕГАЧЕБУРИПС!\nСЕБЯ ОТКРОЙ, ТЫ-ПОЛНЫЙ ОТСТОЙ!\nТЫ-ПОЛНЫЙ МОХ, ТЫ СЪЕЛ ПОНОС,\nНАМ ОСТАЛОСЬ ОДНУ ТРЕТЬ СПЕТЬ,\nА ТЕБЕ НА КОЛ СЕСТЬ\nЯ ПОСТАВИЛ НА ТЕБЕ КРЕСТ, ТЫ-ЧЕБУРЕПС,\nА НЕ ТО ТЕБЯ СЪЕСТ РЕКС!\nТЫ- ДИНОЗАВР РЕКС, КОТОРЫЙ СЪЕЛ ЧЕБУРЕКС, \nКОТОРЫЙ ЕЛ ПАНЕС!\nТЫ СЪЕЛ ГОВНЕС!!!!!!",
+        "scoredAt": "2026-10-13T22:40:19.427Z",
+        "userId": "fdff36a8-ebba-4fd1-b99e-f91030928529"
+      }
+    },
+    {
+      "id": "0ff1d69e12fbcf2fe57381ba224961c1587676a3e2762f5be81add88c1991663",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:28:14.976Z",
+      "key": "[\"6a311c99-f75f-4533-9d8a-0061b4471292\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Ох, дружище, пока что еще рано на такие проекты.",
+        "scoredAt": "2026-10-13T23:28:14.976Z",
+        "userId": "6a311c99-f75f-4533-9d8a-0061b4471292"
+      }
+    },
+    {
+      "id": "a45d6aa39306e65c5eaa15003ae2bd22eacc90cd1d57839f8f0575c10d04366f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:52:30.046Z",
+      "key": "[\"de94fe2f-70ee-4f26-ae32-22cd3851c1a3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Еще немного практики и будешь как Оксимирон!\nЕсли без шуток, у тебя правда потенциал большой.\nНо здесь, цитата, \"хуйню высрал\"",
+        "scoredAt": "2026-10-13T22:52:30.046Z",
+        "userId": "de94fe2f-70ee-4f26-ae32-22cd3851c1a3"
+      }
+    },
+    {
+      "id": "c332bacfb4c2efcbb6605d999e4cf6405c485f0b59671f99a7ccf47bc245b091",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:06:10.352Z",
+      "key": "[\"3f2eb2ca-36ba-43f9-ab75-039402d533f5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "го в кс.",
+        "scoredAt": "2026-10-13T23:06:10.352Z",
+        "userId": "3f2eb2ca-36ba-43f9-ab75-039402d533f5"
+      }
+    },
+    {
+      "id": "cc7dc91af7f2964210afb2ed6a7ec03c00a2fb70aa0c7555bda4db4196096005",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:05:03.515Z",
+      "key": "[\"3f2eb2ca-36ba-43f9-ab75-039402d533f5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "боб ты че спился?",
+        "scoredAt": "2026-10-13T22:05:03.515Z",
+        "userId": "3f2eb2ca-36ba-43f9-ab75-039402d533f5"
+      }
+    },
+    {
+      "id": "027d180a1d2b5adf965b10f1367e56bcc761bcf0bc1c54518cac3067747b0830",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:34:21.120Z",
+      "key": "[\"ea64c82a-a3fc-49ab-b81b-02a4fbfe3fb2\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Хорош!",
+        "scoredAt": "2026-10-13T23:34:21.120Z",
+        "userId": "ea64c82a-a3fc-49ab-b81b-02a4fbfe3fb2"
+      }
+    },
+    {
+      "id": "36e12f0e82a6c9a1a65801dcba43a506d87e22f2fbaf4fab7874c9a3109c00e7",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:43:19.779Z",
+      "key": "[\"c92a4fe4-e7e5-405a-82d7-fb8c30f86628\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Извини, но ритмика очень слабая. Скорее говоришь, чем читаешь. Прогерссируй, тренируйся. ",
+        "scoredAt": "2026-10-13T22:43:19.779Z",
+        "userId": "c92a4fe4-e7e5-405a-82d7-fb8c30f86628"
+      }
+    },
+    {
+      "id": "8739c28b858ac558ff06ebb736aee13bcb43220329b86dcd59c743c8346a65ff",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:36:05.601Z",
+      "key": "[\"ef3d7a5e-752e-4831-8d52-c434bb54f7b0\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Рад тебя здесь видеть в разы сильнее, чем некоторых популярных и хайповых старичков. Молодец, что решился! \n\nРазогревайся и дальше делай сильнее. Работа проходная, но далеко не твой уровень.\nУдачи!",
+        "scoredAt": "2026-10-13T22:36:05.601Z",
+        "userId": "ef3d7a5e-752e-4831-8d52-c434bb54f7b0"
+      }
+    },
+    {
+      "id": "66013df2670eeb9a3a3c63175572669022d33e73b92fd3c6e371be7da970d279",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:16:31.105Z",
+      "key": "[\"7846cd1d-96f4-492f-a302-5167768c462f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хороший олд.",
+        "scoredAt": "2026-10-13T23:16:31.105Z",
+        "userId": "7846cd1d-96f4-492f-a302-5167768c462f"
+      }
+    },
+    {
+      "id": "3e46a7908eb0af19ba0245b592005235f9e495ba0e3df5640880e39e45f44dd5",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:12:18.551Z",
+      "key": "[\"e5275d00-8e08-4175-bff0-4d70508e8442\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "с авансом, шаришь вроде ",
+        "scoredAt": "2026-10-13T22:12:18.551Z",
+        "userId": "e5275d00-8e08-4175-bff0-4d70508e8442"
+      }
+    },
+    {
+      "id": "3f30b2e83931278ce7ce2b5d8c03c584cbd40957a9f9a681eb3ecea1554165ce",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:54:22.008Z",
+      "key": "[\"48b49a05-e832-4e41-affe-e893acd3a146\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Не кушай слога и хорошо будет.\nСлишком торопишься, интонациями бы разбавить не помешало.",
+        "scoredAt": "2026-10-13T22:54:22.008Z",
+        "userId": "48b49a05-e832-4e41-affe-e893acd3a146"
+      }
+    },
+    {
+      "id": "87a070f9586e4c7d89eb569fac98dc18627a246ba43024e433a4daedc0c05d00",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:27:03.196Z",
+      "key": "[\"36368a3b-e988-4b79-b6d8-17602a003273\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "с жирным и большим плюсом, с авансом пиздец",
+        "scoredAt": "2026-10-13T21:27:03.196Z",
+        "userId": "36368a3b-e988-4b79-b6d8-17602a003273"
+      }
+    },
+    {
+      "id": "1579539bf2474d0e67c308844cbd976b1cbff2639b1ca10eaa998cdf590c6117",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:21:20.160Z",
+      "key": "[\"4eec2639-2c36-4f1b-aa5b-71a218c9c2ca\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "рифмоебабельно, больше надо",
+        "scoredAt": "2026-10-13T21:21:20.160Z",
+        "userId": "4eec2639-2c36-4f1b-aa5b-71a218c9c2ca"
+      }
+    },
+    {
+      "id": "a5ba3d9900fc939d95588d7e9cf59d6fb96651a25bc395e8be948d0fc084b8e5",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:01:48.180Z",
+      "key": "[\"01288fd3-0ba0-4de5-a6d2-ad5e6eaf91b0\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хочешь играть со мной в игрушки? У меня макбук.",
+        "scoredAt": "2026-10-13T23:01:48.180Z",
+        "userId": "01288fd3-0ba0-4de5-a6d2-ad5e6eaf91b0"
+      }
+    },
+    {
+      "id": "ad52adccdba9e9582c4b3ec8e4ae3629e912de7dcf06f788b8c5fe03765a6ae1",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:47:19.547Z",
+      "key": "[\"d15bab0b-58a0-463d-8f8f-9a040a9b933f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "👌👌👌",
+        "scoredAt": "2026-10-13T23:47:19.547Z",
+        "userId": "d15bab0b-58a0-463d-8f8f-9a040a9b933f"
+      }
+    },
+    {
+      "id": "6a990cc772dfeeee53ef39d04ed017c4d7665d5da82f4743d0158680cb11e217",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:56:23.978Z",
+      "key": "[\"66bda300-b3d1-4351-b4b5-72348b9e407e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "ровненько, но не со вкусом",
+        "scoredAt": "2026-10-13T21:56:23.978Z",
+        "userId": "66bda300-b3d1-4351-b4b5-72348b9e407e"
+      }
+    },
+    {
+      "id": "b26ca4202e249d9efcf81531ee0f99a0475519ea952814ec0e9539a8585fc005",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:05:33.855Z",
+      "key": "[\"87e2f4ee-4ce9-4a9b-a9aa-45c9ceceb276\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Подача прям хорошая. Бит крутой.",
+        "scoredAt": "2026-10-13T23:05:33.855Z",
+        "userId": "87e2f4ee-4ce9-4a9b-a9aa-45c9ceceb276"
+      }
+    },
+    {
+      "id": "04de3905032a3ef090479272933c0aa6d35145812377154a06f21e85c7fdd91f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:18:18.929Z",
+      "key": "[\"f0b00857-da51-4b3a-9aeb-d24e376df4ec\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "ритимчно, текс ты еще",
+        "scoredAt": "2026-10-13T21:18:18.929Z",
+        "userId": "f0b00857-da51-4b3a-9aeb-d24e376df4ec"
+      }
+    },
+    {
+      "id": "4e9e1bd4de2909dd9173b207aab9d063154e7ae491a5c5ccedc6fb43593a350c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:32:13.283Z",
+      "key": "[\"15f0cda3-bb69-40da-a885-2fd8c5bbfd1a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Как всегда на стиле!",
+        "scoredAt": "2026-10-13T22:32:13.283Z",
+        "userId": "15f0cda3-bb69-40da-a885-2fd8c5bbfd1a"
+      }
+    },
+    {
+      "id": "b5481b5c6f6b3d0aedaaf84fd861216412300924ae175f443faaf6509781f0fc",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:48:31.055Z",
+      "key": "[\"6987fc26-bc4c-42c3-9bc4-fda8c347481d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Есть интересные строки.",
+        "scoredAt": "2026-10-13T23:48:31.055Z",
+        "userId": "6987fc26-bc4c-42c3-9bc4-fda8c347481d"
+      }
+    },
+    {
+      "id": "be18015d1e35f63ca4387a627fe573c29ce9338e6ad83a5312edd35bd18fc9d9",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:26:29.437Z",
+      "key": "[\"1132d528-2e70-40b6-b8c7-4ee3a65c1348\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Женя Мильковский из группы Нервы в рэпе?\nКрутые эмоции. Хорошая плотность. \nНо необходимо разнообразие и интересный текст дальше.",
+        "scoredAt": "2026-10-13T23:26:29.437Z",
+        "userId": "1132d528-2e70-40b6-b8c7-4ee3a65c1348"
+      }
+    },
+    {
+      "id": "1b1433ba62aa3f26b8c85e9a5aaed23a4e4e830c66f62fa322bf41cef2b12acb",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:37:47.149Z",
+      "key": "[\"13f34117-3727-474b-935a-5cd3cf4e3134\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Что-то в этом есть. Какая-то скрытая агрессия, которая подкупает.",
+        "scoredAt": "2026-10-13T22:37:47.149Z",
+        "userId": "13f34117-3727-474b-935a-5cd3cf4e3134"
+      }
+    },
+    {
+      "id": "1d1414376d0e3a6bb26fd2204e3aec6564dfd1be61aa69614c7ee01aea18c98a",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:03:17.448Z",
+      "key": "[\"a4f09db5-4923-4c61-8be2-b5c9cf4f2510\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "4 сыра) с пиздец каким сыром",
+        "scoredAt": "2026-10-13T22:03:17.448Z",
+        "userId": "a4f09db5-4923-4c61-8be2-b5c9cf4f2510"
+      }
+    },
+    {
+      "id": "396dd30b1d1e01f1b2a55193d309cb9b93f78b5eacf847b3e1c63b3dd9d9003b",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:41:39.500Z",
+      "key": "[\"73f582c2-b028-41f9-9cfe-5a75d1a2b913\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Для отбора пойдет!",
+        "scoredAt": "2026-10-13T23:41:39.500Z",
+        "userId": "73f582c2-b028-41f9-9cfe-5a75d1a2b913"
+      }
+    },
+    {
+      "id": "7671e70bc759cdbb25f0b0ee7149ff44e8cbe72d3beccdd23b90d3a3d8d14848",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:16:17.087Z",
+      "key": "[\"8e48cf3d-ba51-4528-90c2-3665b3cd1fbb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "че то с персонажем надо додумать, рифуешь же",
+        "scoredAt": "2026-10-13T21:16:17.087Z",
+        "userId": "8e48cf3d-ba51-4528-90c2-3665b3cd1fbb"
+      }
+    },
+    {
+      "id": "50178cbb2f6978711bbd918fdbdcac0686dd89d56ebe6538f357bf8cb1b41167",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:46:56.587Z",
+      "key": "[\"8e14f39c-0fc6-4819-9295-2b1f6c920bd0\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Очень простые и однообразные интонации.\nРифмы плохи.",
+        "scoredAt": "2026-10-13T23:46:56.587Z",
+        "userId": "8e14f39c-0fc6-4819-9295-2b1f6c920bd0"
+      }
+    },
+    {
+      "id": "26acbf60e3ad44f200a562213c814ccaf0c011fc4bf35dc50ea7e0511a94a50c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:11:49.761Z",
+      "key": "[\"c11abc53-9643-43c9-87a2-e7481cedfd6b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Нормальные рифмы, ну пару квадратов и хуй с ним. Мне нравится как ты обыграл их интонациями.\nСтроки есть хорошенькие. 3.5 оценка где-то, но я хотел бы видеть и слышать тебя дальше, поэтому 4.",
+        "scoredAt": "2026-10-13T23:11:49.761Z",
+        "userId": "c11abc53-9643-43c9-87a2-e7481cedfd6b"
+      }
+    },
+    {
+      "id": "85a64b63cb652e7e175327ffb453b57d2f691a1d117df3324bdf416c668c4b99",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:01:53.284Z",
+      "key": "[\"0460e777-7403-40dd-8176-fd168c93a530\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 1,
+        "comment": "я понял тебя",
+        "scoredAt": "2026-10-13T22:01:53.284Z",
+        "userId": "0460e777-7403-40dd-8176-fd168c93a530"
+      }
+    },
+    {
+      "id": "9ecd6a4376534c9eb593818b3e59981fe2b42113a2f3a03211b157cfb039d45b",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:12:56.576Z",
+      "key": "[\"e35d6608-e0ed-4a3a-818f-e7f769c817eb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "норм",
+        "scoredAt": "2026-10-13T21:12:56.576Z",
+        "userId": "e35d6608-e0ed-4a3a-818f-e7f769c817eb"
+      }
+    },
+    {
+      "id": "0213185aa3c78d3d5bb49aac303baf176a1d6c91d6a30f7afb6cd7e415b362e8",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:00:10.966Z",
+      "key": "[\"5e90fca2-5599-4306-99e4-409ea5c76a68\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "харош, харош!",
+        "scoredAt": "2026-10-13T22:00:10.966Z",
+        "userId": "5e90fca2-5599-4306-99e4-409ea5c76a68"
+      }
+    },
+    {
+      "id": "07268df634386230937176c9c3c0b7b1d0dbd54000f71aee4f18f3ef17cbd716",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:40:35.894Z",
+      "key": "[\"9a31e7eb-146d-4ec9-88f8-05a6e1774f1c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 5,
+        "comment": "я твоя карма, Сатир, где мои цацки?) с авансом)",
+        "scoredAt": "2026-10-13T21:40:35.894Z",
+        "userId": "9a31e7eb-146d-4ec9-88f8-05a6e1774f1c"
+      }
+    },
+    {
+      "id": "815a92cad608f01ce66b467d324f10868253e47003e038bdc38a0199f9ce01d6",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:22:29.523Z",
+      "key": "[\"7e3c645a-47e8-4cf8-84a6-1e426cde00ca\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Да клевенько! Весело, иронично, бодро.",
+        "scoredAt": "2026-10-13T23:22:29.523Z",
+        "userId": "7e3c645a-47e8-4cf8-84a6-1e426cde00ca"
+      }
+    },
+    {
+      "id": "c38bfcc6dc7a788f5a8818122a9dbe2d493364b6cc729910c3a1e7da884548a4",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:36:33.650Z",
+      "key": "[\"7ce37717-39f5-4916-a332-964c63f5ede6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "😑😑😑",
+        "scoredAt": "2026-10-13T23:36:33.650Z",
+        "userId": "7ce37717-39f5-4916-a332-964c63f5ede6"
+      }
+    },
+    {
+      "id": "c5c4b73cc7b3a06a77897492cd1c33d1bdf08898f9f63df3be5b60e2cfbb76a3",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:46:16.370Z",
+      "key": "[\"69554435-e3a6-418f-81c5-3da943c9dcbb\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Ой, как стильно звучишь! Голос безумно приятный.\nНе хватило ударных строк и немного ритмического разнообразия, но ОВ хорошее остаивл трек.",
+        "scoredAt": "2026-10-13T22:46:16.370Z",
+        "userId": "69554435-e3a6-418f-81c5-3da943c9dcbb"
+      }
+    },
+    {
+      "id": "0f2236fe4c482a2d951d649ff93d7efd5b079bec17b74e53fb180bf90784a057",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:42:27.283Z",
+      "key": "[\"fb0c0924-4b33-4450-953b-e8c35d911ab9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Чем-то Рому Чудо интонациями напомнил.\nТекст - беда.\nЭмоции хороши.",
+        "scoredAt": "2026-10-13T22:42:27.283Z",
+        "userId": "fb0c0924-4b33-4450-953b-e8c35d911ab9"
+      }
+    },
+    {
+      "id": "e802d667c9ef180012e9b6768b89f71aff47319564dac9d4ddd9f788a0a9ed08",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:20:14.652Z",
+      "key": "[\"c9a4994a-d08b-4c79-8b7a-19e94b266eb5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Что-то в этом есть!",
+        "scoredAt": "2026-10-13T23:20:14.652Z",
+        "userId": "c9a4994a-d08b-4c79-8b7a-19e94b266eb5"
+      }
+    },
+    {
+      "id": "a87dededd00e9dc411362d269a983b9181b4a7fa5b917eb41292b228b71330b7",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:40:09.815Z",
+      "key": "[\"b790d1b6-5784-4398-a836-71c4f42a22f2\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Слишком расслабленно словно.",
+        "scoredAt": "2026-10-13T23:40:09.815Z",
+        "userId": "b790d1b6-5784-4398-a836-71c4f42a22f2"
+      }
+    },
+    {
+      "id": "b040a32f2a1ecb12a59bc92ddb56e1b58415650be5e9c52b2f1fc2e058176413",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:55:42.700Z",
+      "key": "[\"41aa7f63-9362-4a6c-a000-42f9733549e7\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "надо интереснее",
+        "scoredAt": "2026-10-13T21:55:42.700Z",
+        "userId": "41aa7f63-9362-4a6c-a000-42f9733549e7"
+      }
+    },
+    {
+      "id": "57c4789588826d579ee93f9c76d0b319811a3aff29875b29377fc0693e56fab2",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:02:47.866Z",
+      "key": "[\"c4099ed7-033e-4628-8694-23d709a76482\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "тОрта, блять.\n\nЗвучишь интересно. Есть какая-то  харизма.",
+        "scoredAt": "2026-10-13T23:02:47.866Z",
+        "userId": "c4099ed7-033e-4628-8694-23d709a76482"
+      }
+    },
+    {
+      "id": "9718ec669fc2a8e30570fd257df18736d25e24ead790b91110f3f9c616d01d9f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:23:25.097Z",
+      "key": "[\"5340a902-0e8b-41f0-aadf-8e2cf1f8ec5a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "👌👌👌",
+        "scoredAt": "2026-10-13T23:23:25.097Z",
+        "userId": "5340a902-0e8b-41f0-aadf-8e2cf1f8ec5a"
+      }
+    },
+    {
+      "id": "1a5398860903c9e2e5bd6e79f747f899a41f6bc6106aed4dfaa071bddc4abd1a",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:09:10.541Z",
+      "key": "[\"4a58019e-5dde-4961-9788-cf68daa02af9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Энергетика решает.",
+        "scoredAt": "2026-10-13T23:09:10.541Z",
+        "userId": "4a58019e-5dde-4961-9788-cf68daa02af9"
+      }
+    },
+    {
+      "id": "7622a2355f27ad7261f2c2a8cd5e5672aaeee5a16f4b67f68324dbea31ae2adc",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:18:13.858Z",
+      "key": "[\"542d9591-bf39-477b-9f2e-c788f1af6e29\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "авансом, что с темой?",
+        "scoredAt": "2026-10-13T22:18:13.858Z",
+        "userId": "542d9591-bf39-477b-9f2e-c788f1af6e29"
+      }
+    },
+    {
+      "id": "a38518d0d7c4d8007ae2299a2d65cc23bcba25ada094c70dd28b1e6d4cb70670",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:14:16.354Z",
+      "key": "[\"a1c5ffa1-e0f2-4931-92d6-f2bd8a5f815c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "хорошо",
+        "scoredAt": "2026-10-13T22:14:16.354Z",
+        "userId": "a1c5ffa1-e0f2-4931-92d6-f2bd8a5f815c"
+      }
+    },
+    {
+      "id": "d156d41465e764582ca0b314f71780629ea2fd4b0eaea1799b2056a16c7e7df8",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:41:22.998Z",
+      "key": "[\"94b48624-3fc4-42d7-9ce9-6f5accf1124b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Радирифмия ой ка крежут слух. Голос приятный. Флоу нормуль",
+        "scoredAt": "2026-10-13T22:41:22.998Z",
+        "userId": "94b48624-3fc4-42d7-9ce9-6f5accf1124b"
+      }
+    },
+    {
+      "id": "bd223ee4f131bdf1774316ff17974604dc15a30633833082ee2f9bbaff9d225f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:38:37.171Z",
+      "key": "[\"38bc9162-e7dc-4ad2-84c6-e38334b83c42\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-13T22:38:37.171Z",
+        "userId": "38bc9162-e7dc-4ad2-84c6-e38334b83c42"
+      }
+    },
+    {
+      "id": "57b3a74954f503031617217772a06e042a960b835c2db9967914c8d2f62d93da",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:32:04.822Z",
+      "key": "[\"411e09d0-8282-43ea-81c8-9b8136a277e3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Обычный, нормальный рэпак.\nНи больше, ни меньше.",
+        "scoredAt": "2026-10-13T23:32:04.822Z",
+        "userId": "411e09d0-8282-43ea-81c8-9b8136a277e3"
+      }
+    },
+    {
+      "id": "5c7570a38e958079ab62ab8ce31efa81b4ba88e7967f86c787cb6b493fb83320",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:27:28.015Z",
+      "key": "[\"89edf9d1-0948-4250-91d5-06fa4bd53776\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "салам, салам, бро.\nпопробую не врать, чисто тру, мы ж с тобой други, ну.\n\nТекст пиздец. Звук норм.",
+        "scoredAt": "2026-10-13T23:27:28.015Z",
+        "userId": "89edf9d1-0948-4250-91d5-06fa4bd53776"
+      }
+    },
+    {
+      "id": "b4af1b39821f69bcdb4d49b0ff9d114e6f5d745cf20c2ee20002216fb26743d0",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:41:08.735Z",
+      "key": "[\"34931351-a64b-40a4-926c-83996f1b47ad\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Береги голову, брат!\nНатянул на 4 чутка, ибо раскачал.",
+        "scoredAt": "2026-10-13T23:41:08.735Z",
+        "userId": "34931351-a64b-40a4-926c-83996f1b47ad"
+      }
+    },
+    {
+      "id": "eee89cc90c67bfe6da1aab01f66187a631209f98692a649eee3d631c40952cdd",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:15:35.387Z",
+      "key": "[\"01a716fc-575a-4213-9582-1407a7aa3887\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-13T22:15:35.387Z",
+        "userId": "01a716fc-575a-4213-9582-1407a7aa3887"
+      }
+    },
+    {
+      "id": "1d3c413fe8dec7cadcc78abd5db31fd9e366645c3bf82803f1a67480748434d7",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:54:59.947Z",
+      "key": "[\"e601b84f-bc76-427f-b5d1-872eb5556cd1\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Там местами зажевал, но закрыл уши на это.",
+        "scoredAt": "2026-10-13T23:54:59.947Z",
+        "userId": "e601b84f-bc76-427f-b5d1-872eb5556cd1"
+      }
+    },
+    {
+      "id": "fe27c66e980727614eb8185e49c33952f71935a7f0bf1405eb17114b89e44059",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:59:16.699Z",
+      "key": "[\"43a85297-d94d-4036-886c-4f5d2d9169e2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "поэтично, с авансом прям пиздец каким",
+        "scoredAt": "2026-10-13T21:59:16.699Z",
+        "userId": "43a85297-d94d-4036-886c-4f5d2d9169e2"
+      }
+    },
+    {
+      "id": "cd03f94df57923fdd5ef726a02c7fb71aba51ef297f7153a9798ffc535d78963",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:38:04.752Z",
+      "key": "[\"f72a72f5-ec13-4ad0-9bf7-f0b755dcba0d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Нормально так головой качнул.\nХорошая скорость.",
+        "scoredAt": "2026-10-13T23:38:04.752Z",
+        "userId": "f72a72f5-ec13-4ad0-9bf7-f0b755dcba0d"
+      }
+    },
+    {
+      "id": "afd96af9314a1b6b56fa6a3c1149443bc15f49aae6a37e4892e8674aa74b9bf0",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:07:33.116Z",
+      "key": "[\"fa456f17-93fa-48e1-a2fb-f094996ae002\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "харизма есть, текст бы",
+        "scoredAt": "2026-10-13T22:07:33.116Z",
+        "userId": "fa456f17-93fa-48e1-a2fb-f094996ae002"
+      }
+    },
+    {
+      "id": "445ad0201d54dab7eac3f0ec63ff9f3a4e19099809e2e302bf9b533807e92283",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:25:54.064Z",
+      "key": "[\"1a5a3e39-6b23-4067-8a96-4077575fe107\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "с навалом, еще бы харда больше",
+        "scoredAt": "2026-10-13T21:25:54.064Z",
+        "userId": "1a5a3e39-6b23-4067-8a96-4077575fe107"
+      }
+    },
+    {
+      "id": "a523d6d48e9a7a89c3649a370ffc1eab62587abea85a1e8eea7d7dc1491714e0",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:51:13.742Z",
+      "key": "[\"6d97438e-30b3-4d9a-81c0-59b329a5f96b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "с авансиком, что с раскрытием?",
+        "scoredAt": "2026-10-13T21:51:13.742Z",
+        "userId": "6d97438e-30b3-4d9a-81c0-59b329a5f96b"
+      }
+    },
+    {
+      "id": "9942c047b80b289f3d5650c75939de3fd7ada7a9282cc9b9769e6957d21f77c9",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:37:19.350Z",
+      "key": "[\"08dd25ee-ebcf-4611-9655-f9ae15770c57\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Начала читать, а я и не понял, что это читка. Думла на бите такой эффект))",
+        "scoredAt": "2026-10-13T23:37:19.350Z",
+        "userId": "08dd25ee-ebcf-4611-9655-f9ae15770c57"
+      }
+    },
+    {
+      "id": "059a7c5700f7e82a666a8bd93c3318f4a8f1086c086c8527c5ddf9ca781d0cc2",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:17:57.677Z",
+      "key": "[\"cc6a7a7e-424f-45a1-b7e1-6ed7d956412b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "каааааааашааааааа",
+        "scoredAt": "2026-10-13T23:17:57.677Z",
+        "userId": "cc6a7a7e-424f-45a1-b7e1-6ed7d956412b"
+      }
+    },
+    {
+      "id": "e628cdcd5096ca09eeb34a1cc087df429d473504d7068989d00cdf46d41f1c74",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:31:01.670Z",
+      "key": "[\"c1947238-9d21-472d-a6d2-43951542d697\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Даже 4 хотел ставить, а потмо не увидел раскрытия и решил, что все же 3.\nЕсли это левак, то скатертью дорога))",
+        "scoredAt": "2026-10-13T23:31:01.670Z",
+        "userId": "c1947238-9d21-472d-a6d2-43951542d697"
+      }
+    },
+    {
+      "id": "9b77bbea387a3794d974a8d71a1bd1114c50b3d3ea1b401855775ac1fe4a5868",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:28:41.331Z",
+      "key": "[\"d948a7c6-231f-4fc0-920b-5143f479bd82\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "😰😰😰",
+        "scoredAt": "2026-10-13T23:28:41.331Z",
+        "userId": "d948a7c6-231f-4fc0-920b-5143f479bd82"
+      }
+    },
+    {
+      "id": "77af2f5bdf3861455de82a0e28dd31d0e6dc910386f6395a8acaaf7899741ffd",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:50:55.477Z",
+      "key": "[\"72b0ab38-3813-4536-9d9b-b88291f34e3d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Ой, какие люди! Обнял! 😍\nНе, без шуток, хороший трек. И текст интересный, и раскачал. \nДа здравствует УХХБ! Да здравствует Катровасер!\n",
+        "scoredAt": "2026-10-13T22:50:55.477Z",
+        "userId": "72b0ab38-3813-4536-9d9b-b88291f34e3d"
+      }
+    },
+    {
+      "id": "df6ec3c61eefefaa0261050293c9a918bc141d8402e8f903b9c9b13f08a92293",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:09:10.337Z",
+      "key": "[\"584b6580-4dbb-4f5e-a920-aca30ee6b353\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "пойдет",
+        "scoredAt": "2026-10-13T22:09:10.337Z",
+        "userId": "584b6580-4dbb-4f5e-a920-aca30ee6b353"
+      }
+    },
+    {
+      "id": "9ea7d83bdf4e66f3f603dccd9f140accf6e73d5ffd8c8c621c01cb1a92aa5b40",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:34:39.843Z",
+      "key": "[\"5518e949-e9fb-4892-9dfd-8f58e08453ad\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "с плечами барскими, с надеждой",
+        "scoredAt": "2026-10-13T21:34:39.843Z",
+        "userId": "5518e949-e9fb-4892-9dfd-8f58e08453ad"
+      }
+    },
+    {
+      "id": "cc027d03958729cf7d36f2627d6986fee0da832ce0c549810969278297f85c02",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:21:39.661Z",
+      "key": "[\"812ef0a9-015f-47b2-bef8-9ee4103dfef6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Респект, что шаришь за КС.\nГо фасик!\nМне понравился звук и работа с голосом.",
+        "scoredAt": "2026-10-13T23:21:39.661Z",
+        "userId": "812ef0a9-015f-47b2-bef8-9ee4103dfef6"
+      }
+    },
+    {
+      "id": "b95a21d0dd38ad67291be9c8364023a17cedf704fc6fe81dfc7df8aca44d1c02",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:44:49.192Z",
+      "key": "[\"ae4164d9-a262-4c62-a16f-8464e2686fa3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Знаешь, чуть не поставил 5 на интро. Но потом начался бит и ритмически не особо уверенно и красиво получилось. Вроде и эмоции есть, и напор, но не хватает интонаций красивых и в некоторых моментах сбивался минимально, что чутка резало слух. Начало пиздец бодрое.",
+        "scoredAt": "2026-10-13T22:44:49.192Z",
+        "userId": "ae4164d9-a262-4c62-a16f-8464e2686fa3"
+      }
+    },
+    {
+      "id": "a196363ef8b20b91001d63e4a791a54e38f06e98051b0d6b60e020f2ea965f44",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:14:02.526Z",
+      "key": "[\"8c63d0ed-fb3f-4add-a34f-f8ee9fd561cc\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "что со звуком? я про остальное на митингах",
+        "scoredAt": "2026-10-13T21:14:02.526Z",
+        "userId": "8c63d0ed-fb3f-4add-a34f-f8ee9fd561cc"
+      }
+    },
+    {
+      "id": "c88cfe83794cef6f242a602e3c2733275d8555cd78c7686fdaf13f8a33b83e3c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:49:13.821Z",
+      "key": "[\"0e5f60dc-633e-4042-a07b-f022627f74b5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 5,
+        "comment": "это что такое",
+        "scoredAt": "2026-10-13T21:49:13.821Z",
+        "userId": "0e5f60dc-633e-4042-a07b-f022627f74b5"
+      }
+    },
+    {
+      "id": "4fe88b7571a1e9241fde0279ec737b309cefa11647b4beeb1b37c3453fdd93f8",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:19:37.781Z",
+      "key": "[\"e2fa40f6-050f-469c-87ad-9df2470be1d9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Знаешь, а идея то хорошая. И текст неплохай. Жаль, что запорол все рифмами и однотипным флоу.\nЗа задумку риса тебе.",
+        "scoredAt": "2026-10-13T23:19:37.781Z",
+        "userId": "e2fa40f6-050f-469c-87ad-9df2470be1d9"
+      }
+    },
+    {
+      "id": "ee352ae331999c49294a314faed76fd7bf1b6562b2fe42509e5ea509d96671ad",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:17:14.610Z",
+      "key": "[\"3a0a204f-4833-4587-8037-3b69e204661c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Побубнел чутка. \nПока рано.\nДобавляй эмоций.",
+        "scoredAt": "2026-10-13T23:17:14.610Z",
+        "userId": "3a0a204f-4833-4587-8037-3b69e204661c"
+      }
+    },
+    {
+      "id": "347021ff48c1989868119a48802ef0bc5ac749df99ab0e2ce2f836ed818e2829",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:01:06.603Z",
+      "key": "[\"8cecf7af-733d-450d-857e-e5ee1f295ea6\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "где эмоции? где все?",
+        "scoredAt": "2026-10-13T22:01:06.603Z",
+        "userId": "8cecf7af-733d-450d-857e-e5ee1f295ea6"
+      }
+    },
+    {
+      "id": "03a4e1e977d0d012b7927cf01a719bdaaf5dc413bafa4e23e7001dfbf01a6d6d",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:55:52.593Z",
+      "key": "[\"6d7eb2dd-8503-468f-acce-4e78ba967a5c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Словно КБС возрадились. Чисто астронафт голосом и айко интонациями.\nНу атмосферненько вышло.",
+        "scoredAt": "2026-10-13T22:55:52.593Z",
+        "userId": "6d7eb2dd-8503-468f-acce-4e78ba967a5c"
+      }
+    },
+    {
+      "id": "3d818ab97b58d3dc38d62e9c6710da4e5e09860d9d4a6674633c053f050a4d83",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:39:57.146Z",
+      "key": "[\"699c05f5-a962-43bb-b8a2-ec6a3a96dfda\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Раскачало. Стильно. Спокойно.\nХоть и весьма простой текст, но что-то в этом всём есть.",
+        "scoredAt": "2026-10-13T22:39:57.146Z",
+        "userId": "699c05f5-a962-43bb-b8a2-ec6a3a96dfda"
+      }
+    },
+    {
+      "id": "d138eafea42641c28da1cceeb5fabeeb8d604b8b6a33b03f716e89fd811cde30",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:19:56.292Z",
+      "key": "[\"68b93742-c0cc-499d-935f-230956b4e3a7\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "хорошо",
+        "scoredAt": "2026-10-13T22:19:56.292Z",
+        "userId": "68b93742-c0cc-499d-935f-230956b4e3a7"
+      }
+    },
+    {
+      "id": "6a05e5c297bf09f7eeb3d0a0aa131cdac579c830848ee34ec670839cef074b80",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:39:05.508Z",
+      "key": "[\"8b553263-f54d-439c-b0ec-87921e869f7e\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Нормуль!",
+        "scoredAt": "2026-10-13T23:39:05.508Z",
+        "userId": "8b553263-f54d-439c-b0ec-87921e869f7e"
+      }
+    },
+    {
+      "id": "e68c0d65558cc4a8ca565a8554979cc1f4cf5bf620acae38b547dd6b884397a7",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:47:45.676Z",
+      "key": "[\"d324ad9c-3f3b-427c-a607-ce04f9611724\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая серединка",
+        "scoredAt": "2026-10-13T21:47:45.676Z",
+        "userId": "d324ad9c-3f3b-427c-a607-ce04f9611724"
+      }
+    },
+    {
+      "id": "63799a41e8a564694272e239685e22283890461ef146a23c6653febe94c0b4c3",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:20:52.587Z",
+      "key": "[\"5b5e7d77-2659-412d-a396-89abf3720482\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "ритмично, батлово, с авансом",
+        "scoredAt": "2026-10-13T22:20:52.587Z",
+        "userId": "5b5e7d77-2659-412d-a396-89abf3720482"
+      }
+    },
+    {
+      "id": "8da1d0625d566f8f33a60a6201f3bf7c556bdcad14581def1ff291dcb6097087",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:33:34.780Z",
+      "key": "[\"eb847b27-a9a8-4a7c-a90f-48192c7148f9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Слушал улыбаясь.\nТакой странный, но интересный текст)",
+        "scoredAt": "2026-10-13T23:33:34.780Z",
+        "userId": "eb847b27-a9a8-4a7c-a90f-48192c7148f9"
+      }
+    },
+    {
+      "id": "5d60166446f615973d7d282a1435b0496b16b2418678c02c999854dbecf9835c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:53:14.794Z",
+      "key": "[\"c8b62048-b56d-4b11-aa3a-7277f64f201d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Рифмыыыыыыы 🤒",
+        "scoredAt": "2026-10-13T22:53:14.794Z",
+        "userId": "c8b62048-b56d-4b11-aa3a-7277f64f201d"
+      }
+    },
+    {
+      "id": "17bcf0fe66ca6190fb6d538abf072119553ce56f4d58737cf1d11754715a0fc3",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:11:08.900Z",
+      "key": "[\"149af48c-15d7-4718-9a92-4c20089b9795\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "батлово вроде",
+        "scoredAt": "2026-10-13T22:11:08.900Z",
+        "userId": "149af48c-15d7-4718-9a92-4c20089b9795"
+      }
+    },
+    {
+      "id": "0c868d2c62d6f7aab04993d80e6c43a22e47c9c92efe6e269aa2b1d836610017",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:47:54.513Z",
+      "key": "[\"750ff312-243f-4a4d-a1c1-a560462ef81a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "\"Хотел кинуть крутой парт,  но битмейкеры хуета\" - ЖИЗА! 😂\nРаскачал трекан. \nТекст слабоват на самом деле, надо усиливать, но флоу решает.",
+        "scoredAt": "2026-10-13T22:47:54.513Z",
+        "userId": "750ff312-243f-4a4d-a1c1-a560462ef81a"
+      }
+    },
+    {
+      "id": "7d2c71f5c62a8e2ac0e5985f286e8d51082ff5f03d6071ca6625d75097704507",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:33:15.768Z",
+      "key": "[\"93a9217a-8ee5-4178-a041-03679ad0b047\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "хорошо",
+        "scoredAt": "2026-10-13T21:33:15.768Z",
+        "userId": "93a9217a-8ee5-4178-a041-03679ad0b047"
+      }
+    },
+    {
+      "id": "2060894fe1b62136feeb26c18ff8a3655040567b9ef0d126005c88ee0fb5211f",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:18:32.619Z",
+      "key": "[\"92f6be5c-62a2-4f71-b13d-26cded0fe690\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Артист №14 как-то был посильнее.\nПока рано. Не хватает опыта и уверенности",
+        "scoredAt": "2026-10-13T23:18:32.619Z",
+        "userId": "92f6be5c-62a2-4f71-b13d-26cded0fe690"
+      }
+    },
+    {
+      "id": "8ef35b81f0231f45c0b58765a7f303672f049cef3b3302eeb5c149e8229a9d63",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:34:52.740Z",
+      "key": "[\"67d26ca3-9daf-47b2-a729-df8ddbb3bae4\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-13T23:34:52.740Z",
+        "userId": "67d26ca3-9daf-47b2-a729-df8ddbb3bae4"
+      }
+    },
+    {
+      "id": "991498e4e3c28b532f53d7360b4f485598e40246fde7b26bf8c95437768c6ebd",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:10:06.104Z",
+      "key": "[\"1b726574-107e-4688-b6d4-ed363df449ff\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "ритмично, с авансом нихуевеньким",
+        "scoredAt": "2026-10-13T22:10:06.104Z",
+        "userId": "1b726574-107e-4688-b6d4-ed363df449ff"
+      }
+    },
+    {
+      "id": "1e64354b8d90b54e2b7f9438ff5e7669b84b77be43316e986041721b21c824fe",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:08:33.885Z",
+      "key": "[\"16fe488f-7aa3-4e0a-b393-8ea08cecb247\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Голова сама начала качаться. Клево, хоть и простенько.",
+        "scoredAt": "2026-10-13T23:08:33.885Z",
+        "userId": "16fe488f-7aa3-4e0a-b393-8ea08cecb247"
+      }
+    },
+    {
+      "id": "1c62a5c3c2035d115d5d5bc4ef129be317d5fd289529dc439bd1f98b11816b9c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:04:28.320Z",
+      "key": "[\"9d2a94a0-1e4d-4a95-a7b0-24e8be9fb88c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Очень скучно. Слышны тейки. ",
+        "scoredAt": "2026-10-13T23:04:28.320Z",
+        "userId": "9d2a94a0-1e4d-4a95-a7b0-24e8be9fb88c"
+      }
+    },
+    {
+      "id": "607e34923f05193576cf7a35cfe2cedc078376e7b1e24259f12052e097ab8fb2",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:52:15.372Z",
+      "key": "[\"ba915c8b-8b5f-4005-94d2-d6a6f9bee2a2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "норм",
+        "scoredAt": "2026-10-13T21:52:15.372Z",
+        "userId": "ba915c8b-8b5f-4005-94d2-d6a6f9bee2a2"
+      }
+    },
+    {
+      "id": "15eedd1c51fee4889b15d77f4e6fe3e11bae0565a4a9f446ec0a03f802c5c63e",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:20:16.753Z",
+      "key": "[\"b0d0f269-486b-4748-b2db-951ad2d5776a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "ну а раскрытие то где? авансом",
+        "scoredAt": "2026-10-13T21:20:16.753Z",
+        "userId": "b0d0f269-486b-4748-b2db-951ad2d5776a"
+      }
+    },
+    {
+      "id": "52cce434afb3d6c860e9b82b9c6774aa2a540ea8c377d2f5ceb05cfd63c5a4dd",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:16:46.518Z",
+      "key": "[\"89a637bb-c415-45f6-94af-86f1c0f8526e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая серединка",
+        "scoredAt": "2026-10-13T22:16:46.518Z",
+        "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e"
+      }
+    },
+    {
+      "id": "6073acda76eb64679827cd01c9bcf94a9f389901b6cd821de3944fccfd89665c",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:07:55.675Z",
+      "key": "[\"2eed73cf-b8d8-4aff-8a6d-4d946443e3ec\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "братан, надо как-то биток погромче то делать.\nТекстовик ты неплохой.",
+        "scoredAt": "2026-10-13T23:07:55.675Z",
+        "userId": "2eed73cf-b8d8-4aff-8a6d-4d946443e3ec"
+      }
+    },
+    {
+      "id": "42cf6e2ecc19a05f948795fd25933fbe8ac752e49ae718df2f5499deb528a6de",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:52:24.567Z",
+      "key": "[\"025340cb-8d34-4049-b163-33b7a117d5f1\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Ку-ка-ре-ку!\nУлыбнуло!",
+        "scoredAt": "2026-10-13T23:52:24.567Z",
+        "userId": "025340cb-8d34-4049-b163-33b7a117d5f1"
+      }
+    },
+    {
+      "id": "74191ef736ede821964c0d4b3daa42c7824c5d5dd00fe9ad3c600f9a82b3273b",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:06:43.302Z",
+      "key": "[\"0c4e9771-bda9-43b6-b794-7de9ced135c4\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "середеночка",
+        "scoredAt": "2026-10-13T22:06:43.302Z",
+        "userId": "0c4e9771-bda9-43b6-b794-7de9ced135c4"
+      }
+    },
+    {
+      "id": "61374ee299f3b9d34295eee29ae812bbbb6bae59cdef866f73ec9398bb5aa1e5",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:46:50.386Z",
+      "key": "[\"0e0340dd-b8dd-4f06-8bfd-dd98779700fb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая серединка",
+        "scoredAt": "2026-10-13T21:46:50.386Z",
+        "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb"
+      }
+    },
+    {
+      "id": "f504bb980bbda895ee9bdd2cd87269868eed8416aeffcb6fcdba128867bbfcc2",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T22:13:02.751Z",
+      "key": "[\"f1c2d311-ad2e-4f2b-b915-0a3c5c4e3c50\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "что с флоучиком? авансом",
+        "scoredAt": "2026-10-13T22:13:02.751Z",
+        "userId": "f1c2d311-ad2e-4f2b-b915-0a3c5c4e3c50"
+      }
+    },
+    {
+      "id": "70ae2fc0fd0d8a174cb3c079497de5bcd501866caef483b3e5545e4cc0871afc",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:51:19.689Z",
+      "key": "[\"0eb391e3-088e-48b6-b138-bb0487f1c738\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "А прикольно)",
+        "scoredAt": "2026-10-13T23:51:19.689Z",
+        "userId": "0eb391e3-088e-48b6-b138-bb0487f1c738"
+      }
+    },
+    {
+      "id": "7ce2001f920f98628d811acfa8326328289ac1c5ba9ee22c351688453833b109",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:25:14.133Z",
+      "key": "[\"4204c562-17c2-4613-b7cc-4b440bf15a0a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "🥲🥲🥲",
+        "scoredAt": "2026-10-13T23:25:14.133Z",
+        "userId": "4204c562-17c2-4613-b7cc-4b440bf15a0a"
+      }
+    },
+    {
+      "id": "ac4a0a498fea78dd8784fa131af83d04ac6d14d8d6f276f7d1e81056ddc67f02",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T23:45:51.316Z",
+      "key": "[\"e722a437-10a4-4e34-b1f6-ae97c738665d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Ритмика слаба.",
+        "scoredAt": "2026-10-13T23:45:51.316Z",
+        "userId": "e722a437-10a4-4e34-b1f6-ae97c738665d"
+      }
+    },
+    {
+      "id": "5fffe3c6ce9a25c8f117d93814c0f9e72d8535dd9f763e1f86bccadc9a460ccd",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:43:16.989Z",
+      "key": "[\"a2db5e97-759f-430d-9f69-eccbce2a8527\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 5,
+        "comment": "я знаю кто ты и что это, рад видеть",
+        "scoredAt": "2026-10-13T21:43:16.989Z",
+        "userId": "a2db5e97-759f-430d-9f69-eccbce2a8527"
+      }
+    },
+    {
+      "id": "7f9fdec1114922200ea4b85bd2049648adce4c93f2803c16a054d0897ad69af1",
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "sourceScoredAt": "2026-10-13T21:32:17.228Z",
+      "key": "[\"90cd5449-ea7c-44e3-a042-30974cb5d3de\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "меньше припевов",
+        "scoredAt": "2026-10-13T21:32:17.228Z",
+        "userId": "90cd5449-ea7c-44e3-a042-30974cb5d3de"
+      }
     }
   ],
   "snapshots": [
@@ -76814,6 +78410,26 @@
           "favor": 18.53503415011588,
           "attention": -2.9011515690399254,
           "respect": 11.43939393939394
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T01:51:33.247Z",
+      "exportedAt": "2026-10-14T01:51:33.247Z",
+      "scores": 8594,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.401944627258175,
+          "favor": 10.253252081092922,
+          "attention": 5.882025879498585,
+          "respect": 7.266666666666667
+        },
+        "veterans": {
+          "index": 26.86202112283155,
+          "favor": 18.464748829348036,
+          "attention": -2.999786530045896,
+          "respect": 11.397058823529411
         }
       }
     }
