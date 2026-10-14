@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T13:12:00.759Z",
+  "exportedAt": "2026-10-14T13:22:03.986Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -15235,8 +15235,14 @@
     },
     {
       "userId": "30f19b0d-458a-4257-8b5e-2e7cf1fbba50",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:16:48.870Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -15244,7 +15250,7 @@
           "scoredAt": "2026-10-10T07:48:31.063Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -21174,9 +21180,16 @@
     },
     {
       "userId": "e3fe4f1b-97a7-40c6-94ab-89b7fe4e4176",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "братик текст у тебя хороший, правда\nНо исполнение... я поставлю проход, но хз чо там решат другие.\nМне правда понравился текст и будь за ним другой, более техничный мс в исполнении - ОК\nно тебе бы фониатру показаться ",
+          "scoredAt": "2026-10-14T13:12:50.704Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -34064,8 +34077,14 @@
     },
     {
       "userId": "27b38ca0-6c06-4e53-84fa-5bbb27eeefb5",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "это что-то С ЧЕМ-ТО, но я был БЕЗ ЧЕГО-ТО, ПОЭТОМУ 2!",
+          "scoredAt": "2026-10-14T13:19:26.099Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -34073,7 +34092,7 @@
           "scoredAt": "2026-10-13T11:45:52.566Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -36750,8 +36769,14 @@
     },
     {
       "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:19:17.567Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -36759,7 +36784,7 @@
           "scoredAt": "2026-10-13T13:38:25.160Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -55010,8 +55035,14 @@
     },
     {
       "userId": "73203d24-ab62-4c51-86f8-6e8e4c91342c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Уверенно и круто зачитано, но рифмы нужно подтянуть к следующему раунду. \n",
+          "scoredAt": "2026-10-14T13:14:48.905Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 5,
@@ -55025,7 +55056,7 @@
           "scoredAt": "2026-10-12T10:06:24.538Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -59275,8 +59306,14 @@
     },
     {
       "userId": "da3d5a93-213a-4999-9631-d208c7bc9bfe",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Прикольно, но будто не хватило какого-то отыгрыша по перфомансу с голосом. Исполняешь весело и подача крутая в целом, можно что-то обыграть, но не работает как тот же БЛАНК в своё время, ибо по тексту пустовато. Может нужны парные баттлы для этого, хз ",
+          "scoredAt": "2026-10-14T13:17:02.971Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,
@@ -59296,7 +59333,7 @@
           "scoredAt": "2026-10-10T15:53:09.741Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -73696,8 +73733,14 @@
     },
     {
       "userId": "1b73e0fc-5a51-428f-ae5e-9b5d0f774da2",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:21:42.538Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 2,
@@ -73717,7 +73760,7 @@
           "scoredAt": "2026-10-08T14:12:52.948Z"
         }
       ],
-      "fetchedAt": "2026-10-14T06:45:19.222Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {
@@ -76550,8 +76593,14 @@
     },
     {
       "userId": "d01d33f1-6f5c-465f-acd5-4eaf04154754",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:14:42.635Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 1,
@@ -76577,7 +76626,7 @@
           "scoredAt": "2026-10-02T11:56:31.784Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T13:22:03.986Z",
       "current": true
     },
     {

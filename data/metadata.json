@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T13:12:00.759Z",
-  "exportedAt": "2026-10-14T13:12:00.759Z",
-  "runId": "2026-10-14T13:12:00.759Z",
-  "forumExportedAt": "2026-10-14T13:12:00.759Z",
+  "lastSuccessfulAt": "2026-10-14T13:22:03.986Z",
+  "exportedAt": "2026-10-14T13:22:03.986Z",
+  "runId": "2026-10-14T13:22:03.986Z",
+  "forumExportedAt": "2026-10-14T13:22:03.986Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8726,
+    "scores": 8734,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5143,
-    "scoresBefore": 8723,
-    "scoresAfter": 8726,
-    "fullBaselineRequests": 2952,
-    "requestReductionPercent": 99.83062330623305,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10244,
+    "scoresBefore": 8726,
+    "scoresAfter": 8734,
+    "fullBaselineRequests": 2953,
+    "requestReductionPercent": 99.6613613274636,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "gggoyard",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:21:42.538Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "KADOOM",
+          "comment": "это что-то С ЧЕМ-ТО, но я был БЕЗ ЧЕГО-ТО, ПОЭТОМУ 2!",
+          "scoredAt": "2026-10-14T13:19:26.099Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Rottenville",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:19:17.567Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "KidJunior",
+          "comment": "Прикольно, но будто не хватило какого-то отыгрыша по перфомансу с голосом. Исполняешь весело и подача крутая в целом, можно что-то обыграть, но не работает как тот же БЛАНК в своё время, ибо по тексту пустовато. Может нужны парные баттлы для этого, хз ",
+          "scoredAt": "2026-10-14T13:17:02.971Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "M[u]S",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:16:48.870Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Big63",
+          "comment": "Уверенно и круто зачитано, но рифмы нужно подтянуть к следующему раунду. \n",
+          "scoredAt": "2026-10-14T13:14:48.905Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Денис Туретта",
+          "comment": "Девятый стрим.",
+          "scoredAt": "2026-10-14T13:14:42.635Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "ОГ23",
+          "comment": "братик текст у тебя хороший, правда\nНо исполнение... я поставлю проход, но хз чо там решат другие.\nМне правда понравился текст и будь за ним другой, более техничный мс в исполнении - ОК\nно тебе бы фониатру показаться ",
+          "scoredAt": "2026-10-14T13:12:50.704Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -129,62 +185,6 @@
           "artist": "Adamant",
           "comment": "",
           "scoredAt": "2026-10-14T12:53:22.866Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "D-501",
-          "comment": "За биток ставлю 4, он тебя вывез, точнее вот этот битбокс\nА читаешь ты очень кривовато, поработай над читкой на бит больше, а не над битом. ",
-          "scoredAt": "2026-10-14T12:53:03.769Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Wiollado",
-          "comment": "подачка интересная. рифмуешь ужасно братан, просто оч хуево.",
-          "scoredAt": "2026-10-14T12:52:24.311Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "E45",
-          "comment": "крепкий средняк, но хочется 4 поставить от чего то.",
-          "scoredAt": "2026-10-14T12:51:30.647Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "peacedeal",
-          "comment": "",
-          "scoredAt": "2026-10-14T12:50:31.891Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "PALLADON",
-          "comment": "хех блинб) ",
-          "scoredAt": "2026-10-14T12:49:28.853Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Propel",
-          "comment": "брат тебе надо брать никнейм МС ДЕ-ЭССЕР ",
-          "scoredAt": "2026-10-14T12:48:52.879Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Бебиволк",
-          "comment": "ну какая ялда баофа братан, я сюда деградировать пришел. ну чето есть в етом, давай четыре авансом. хотя скорее три, но ладно четыре",
-          "scoredAt": "2026-10-14T12:48:18.041Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "magistr",
-          "comment": "вроде есть какой то угар. но если на твоём районе слышали слово свэг, как звучит сам свэг - не слышали явно.",
-          "scoredAt": "2026-10-14T12:46:29.200Z"
         }
       ]
     }

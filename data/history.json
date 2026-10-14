@@ -80098,6 +80098,118 @@
         "scoredAt": "2026-10-14T13:02:45.617Z",
         "userId": "609f76d2-733f-4c4e-9bcc-2cccd6b3158e"
       }
+    },
+    {
+      "id": "953bd57712d9b51043fa0b36f50c589acdda314ba24417b56ecc996b3122cf88",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:16:48.870Z",
+      "key": "[\"30f19b0d-458a-4257-8b5e-2e7cf1fbba50\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:16:48.870Z",
+        "userId": "30f19b0d-458a-4257-8b5e-2e7cf1fbba50"
+      }
+    },
+    {
+      "id": "3812f25e9e43941cb882f46dae29a581fd23510b643a3e8e9637c44a1aeaa984",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:12:50.704Z",
+      "key": "[\"e3fe4f1b-97a7-40c6-94ab-89b7fe4e4176\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "братик текст у тебя хороший, правда\nНо исполнение... я поставлю проход, но хз чо там решат другие.\nМне правда понравился текст и будь за ним другой, более техничный мс в исполнении - ОК\nно тебе бы фониатру показаться ",
+        "scoredAt": "2026-10-14T13:12:50.704Z",
+        "userId": "e3fe4f1b-97a7-40c6-94ab-89b7fe4e4176"
+      }
+    },
+    {
+      "id": "cb0ac05a163b14bc7ad882b05a04f212543dbe5fa46e7ba3dd6f5a5fb7ce9416",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:19:26.099Z",
+      "key": "[\"27b38ca0-6c06-4e53-84fa-5bbb27eeefb5\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "это что-то С ЧЕМ-ТО, но я был БЕЗ ЧЕГО-ТО, ПОЭТОМУ 2!",
+        "scoredAt": "2026-10-14T13:19:26.099Z",
+        "userId": "27b38ca0-6c06-4e53-84fa-5bbb27eeefb5"
+      }
+    },
+    {
+      "id": "955778981e113a71cb25209b337bdb0f1fec99fcd61018e072580b8fc371d3ba",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:19:17.567Z",
+      "key": "[\"dfc3a63a-cf04-4f11-92c4-901320c98206\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:19:17.567Z",
+        "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206"
+      }
+    },
+    {
+      "id": "a2f7a36279893b64e244d74da404217fba74b778fc5b8bae7014e97349e6bca5",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:14:48.905Z",
+      "key": "[\"73203d24-ab62-4c51-86f8-6e8e4c91342c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Уверенно и круто зачитано, но рифмы нужно подтянуть к следующему раунду. \n",
+        "scoredAt": "2026-10-14T13:14:48.905Z",
+        "userId": "73203d24-ab62-4c51-86f8-6e8e4c91342c"
+      }
+    },
+    {
+      "id": "e3cd5589609601e0dbfe75310b876cb91602e1bf2c00ccab0deff6a70a12eb7e",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:17:02.971Z",
+      "key": "[\"da3d5a93-213a-4999-9631-d208c7bc9bfe\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Прикольно, но будто не хватило какого-то отыгрыша по перфомансу с голосом. Исполняешь весело и подача крутая в целом, можно что-то обыграть, но не работает как тот же БЛАНК в своё время, ибо по тексту пустовато. Может нужны парные баттлы для этого, хз ",
+        "scoredAt": "2026-10-14T13:17:02.971Z",
+        "userId": "da3d5a93-213a-4999-9631-d208c7bc9bfe"
+      }
+    },
+    {
+      "id": "6e96ab4be3b07b485877f2bcbb1f3df5f45566826e9dc48273917251ce5fdb39",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:21:42.538Z",
+      "key": "[\"1b73e0fc-5a51-428f-ae5e-9b5d0f774da2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:21:42.538Z",
+        "userId": "1b73e0fc-5a51-428f-ae5e-9b5d0f774da2"
+      }
+    },
+    {
+      "id": "104c40afc9ec8bf9c6e928c0f7cc43d71abca7032e66c4caf7b416d7bbb40957",
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "sourceScoredAt": "2026-10-14T13:14:42.635Z",
+      "key": "[\"d01d33f1-6f5c-465f-acd5-4eaf04154754\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Девятый стрим.",
+        "scoredAt": "2026-10-14T13:14:42.635Z",
+        "userId": "d01d33f1-6f5c-465f-acd5-4eaf04154754"
+      }
     }
   ],
   "snapshots": [
@@ -80537,6 +80649,26 @@
           "index": 27.20611596173454,
           "favor": 18.501446032958636,
           "attention": -2.69238889475351,
+          "respect": 11.397058823529411
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T13:22:03.986Z",
+      "exportedAt": "2026-10-14T13:22:03.986Z",
+      "scores": 8734,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.09696907934627,
+          "favor": 10.093291919740627,
+          "attention": 5.8340736353765665,
+          "respect": 7.169603524229075
+        },
+        "veterans": {
+          "index": 27.232320036181363,
+          "favor": 18.501948972360026,
+          "attention": -2.6666877597080725,
           "respect": 11.397058823529411
         }
       }
