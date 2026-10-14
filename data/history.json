@@ -86328,6 +86328,132 @@
         "scoredAt": "2026-10-14T19:29:19.005Z",
         "userId": "cdeaac77-54da-42c7-aec1-63fd38dddbc3"
       }
+    },
+    {
+      "id": "751f44ad04f9ecd7ba86ec101cbd895afddf4cd70d9ed25e640b37b85ab06d29",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:38:20.906Z",
+      "key": "[\"beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "я понял, что с темой?",
+        "scoredAt": "2026-10-14T19:38:20.906Z",
+        "userId": "beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3"
+      }
+    },
+    {
+      "id": "1e4264374f9f950f597ebb871d06c06428d8eed268a314a3dfa8fb92ab8db237",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:35:39.281Z",
+      "key": "[\"3805e199-6d11-4c86-bec8-c4ff12f0a83b\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Ну прям рановато для прохода. Звук плохой, текст средний.",
+        "scoredAt": "2026-10-14T19:35:39.281Z",
+        "userId": "3805e199-6d11-4c86-bec8-c4ff12f0a83b"
+      }
+    },
+    {
+      "id": "2ef09a710cb55f133882e22c86ad4493e05c1f69a9b53e5d002b9e26234e5f1e",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:40:49.074Z",
+      "key": "[\"13e9b8a9-588e-44d8-b6bf-8812614f0104\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Увы, не за что зацепиться, чтобы натянуть тройку. Сыровато пока что.",
+        "scoredAt": "2026-10-14T19:40:49.074Z",
+        "userId": "13e9b8a9-588e-44d8-b6bf-8812614f0104"
+      }
+    },
+    {
+      "id": "d0925b90e6e3bc63da02ea2fcd5728aa79761d6c46ded21fc6020184a60b9428",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:33:07.877Z",
+      "key": "[\"be5e19c2-3034-46cc-b130-8674bb286606\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-14T19:33:07.877Z",
+        "userId": "be5e19c2-3034-46cc-b130-8674bb286606"
+      }
+    },
+    {
+      "id": "4fc7142262a3e812f46efd9b1d3255c8b0e17aae68aeea840ee3781f2c956ba9",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:36:46.084Z",
+      "key": "[\"e911c738-62c4-459d-811f-31fc1a917ae8\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "нормаааально",
+        "scoredAt": "2026-10-14T19:36:46.084Z",
+        "userId": "e911c738-62c4-459d-811f-31fc1a917ae8"
+      }
+    },
+    {
+      "id": "7f12675320700599438406d14359f2774921edc3a57495ff46b8ced9ac9392d5",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:35:32.886Z",
+      "key": "[\"b9069629-9830-443d-a7c0-ceebec942c2d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "законом разрешено быть свобоным внутри своих мысле, где раскрытие?",
+        "scoredAt": "2026-10-14T19:35:32.886Z",
+        "userId": "b9069629-9830-443d-a7c0-ceebec942c2d"
+      }
+    },
+    {
+      "id": "55e208fbbe3de306e7e304ab433630aace6f63dd5977f83ca2eb6fe12d7e6e54",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:40:06.914Z",
+      "key": "[\"d282e647-93a8-4d5a-88d0-40bf5d6ad9a8\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Я затащу туда весь мир и буду первым (c) самое крутое в этом треке - подход к расставлению интонационных акцентов и эстетичный хук. ",
+        "scoredAt": "2026-10-14T19:40:06.914Z",
+        "userId": "d282e647-93a8-4d5a-88d0-40bf5d6ad9a8"
+      }
+    },
+    {
+      "id": "04417f18348a50555e61a7feab7e2cfd1dc0fbc6e6d223d361179516d5fbc97a",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:36:08.145Z",
+      "key": "[\"096467ec-30e8-464c-9368-f96063b22f3b\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "На красивом, вальяжном раскрыл тему, простенько по тексту, строчек бы интересных/пэнчиков аккуратных нейтральных и забрал бы пятерочку . оч органично с этим битом звучишь ",
+        "scoredAt": "2026-10-14T19:36:08.145Z",
+        "userId": "096467ec-30e8-464c-9368-f96063b22f3b"
+      }
+    },
+    {
+      "id": "63f858242e49756bc687f9cf2493759c7f3bc5ee21e232bb9377f51c2723628b",
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "sourceScoredAt": "2026-10-14T19:40:16.012Z",
+      "key": "[\"ac1c8078-044c-4aec-9d58-498b3643255f\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Приятный по звуку но скучный сторииел. Очень разнообразия мне не хватило, будто просто текст ради текста",
+        "scoredAt": "2026-10-14T19:40:16.012Z",
+        "userId": "ac1c8078-044c-4aec-9d58-498b3643255f"
+      }
     }
   ],
   "snapshots": [
@@ -87507,6 +87633,26 @@
           "index": 27.359298326054883,
           "favor": 18.55410967382559,
           "attention": -2.6200449926305174,
+          "respect": 11.425233644859814
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T19:42:14.934Z",
+      "exportedAt": "2026-10-14T19:42:14.934Z",
+      "scores": 9176,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.403304562774306,
+          "favor": 10.035662513108381,
+          "attention": 6.223245497941786,
+          "respect": 7.144396551724138
+        },
+        "veterans": {
+          "index": 27.386090383417987,
+          "favor": 18.56002732941529,
+          "attention": -2.5991705908571205,
           "respect": 11.425233644859814
         }
       }

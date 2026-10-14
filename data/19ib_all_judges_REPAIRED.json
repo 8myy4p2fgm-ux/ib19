@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T19:32:28.249Z",
+  "exportedAt": "2026-10-14T19:42:14.934Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -1243,8 +1243,14 @@
     },
     {
       "userId": "beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "я понял, что с темой?",
+          "scoredAt": "2026-10-14T19:38:20.906Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -1264,7 +1270,7 @@
           "scoredAt": "2026-09-01T12:37:29.614Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -4103,8 +4109,14 @@
     },
     {
       "userId": "3805e199-6d11-4c86-bec8-c4ff12f0a83b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну прям рановато для прохода. Звук плохой, текст средний.",
+          "scoredAt": "2026-10-14T19:35:39.281Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -4130,7 +4142,7 @@
           "scoredAt": "2026-09-09T17:49:49.863Z"
         }
       ],
-      "fetchedAt": "2026-10-14T12:52:13.942Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -19295,8 +19307,14 @@
     },
     {
       "userId": "13e9b8a9-588e-44d8-b6bf-8812614f0104",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Увы, не за что зацепиться, чтобы натянуть тройку. Сыровато пока что.",
+          "scoredAt": "2026-10-14T19:40:49.074Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -19310,7 +19328,7 @@
           "scoredAt": "2026-10-07T18:59:36.450Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -31633,9 +31651,16 @@
     },
     {
       "userId": "be5e19c2-3034-46cc-b130-8674bb286606",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-14T19:33:07.877Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -33011,8 +33036,14 @@
     },
     {
       "userId": "e911c738-62c4-459d-811f-31fc1a917ae8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "нормаааально",
+          "scoredAt": "2026-10-14T19:36:46.084Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -33032,7 +33063,7 @@
           "scoredAt": "2026-09-30T17:26:52.290Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -33618,8 +33649,14 @@
     },
     {
       "userId": "b9069629-9830-443d-a7c0-ceebec942c2d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "законом разрешено быть свобоным внутри своих мысле, где раскрытие?",
+          "scoredAt": "2026-10-14T19:35:32.886Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -33639,7 +33676,7 @@
           "scoredAt": "2026-09-07T17:56:07.588Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -39809,8 +39846,14 @@
     },
     {
       "userId": "d282e647-93a8-4d5a-88d0-40bf5d6ad9a8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Я затащу туда весь мир и буду первым (c) самое крутое в этом треке - подход к расставлению интонационных акцентов и эстетичный хук. ",
+          "scoredAt": "2026-10-14T19:40:06.914Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -39830,7 +39873,7 @@
           "scoredAt": "2026-09-18T17:59:36.868Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -40537,8 +40580,14 @@
     },
     {
       "userId": "096467ec-30e8-464c-9368-f96063b22f3b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "На красивом, вальяжном раскрыл тему, простенько по тексту, строчек бы интересных/пэнчиков аккуратных нейтральных и забрал бы пятерочку . оч органично с этим битом звучишь ",
+          "scoredAt": "2026-10-14T19:36:08.145Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -40552,7 +40601,7 @@
           "scoredAt": "2026-09-22T20:34:25.282Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {
@@ -78005,8 +78054,14 @@
     },
     {
       "userId": "ac1c8078-044c-4aec-9d58-498b3643255f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Приятный по звуку но скучный сторииел. Очень разнообразия мне не хватило, будто просто текст ради текста",
+          "scoredAt": "2026-10-14T19:40:16.012Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -78020,7 +78075,7 @@
           "scoredAt": "2026-10-07T18:50:14.164Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-14T19:42:14.934Z",
       "current": true
     },
     {

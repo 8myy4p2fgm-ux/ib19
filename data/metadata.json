@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T19:32:28.249Z",
-  "exportedAt": "2026-10-14T19:32:28.249Z",
-  "runId": "2026-10-14T19:32:28.249Z",
-  "forumExportedAt": "2026-10-14T19:32:28.249Z",
+  "lastSuccessfulAt": "2026-10-14T19:42:14.934Z",
+  "exportedAt": "2026-10-14T19:42:14.934Z",
+  "runId": "2026-10-14T19:42:14.934Z",
+  "forumExportedAt": "2026-10-14T19:42:14.934Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9167,
+    "scores": 9176,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 16,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 14,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 14,
-    "changedParticipants": 14,
-    "logicalRequests": 16,
-    "durationMs": 16673,
-    "scoresBefore": 9153,
-    "scoresAfter": 9167,
-    "fullBaselineRequests": 3017,
-    "requestReductionPercent": 99.46967185946303,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 11,
+    "durationMs": 11593,
+    "scoresBefore": 9167,
+    "scoresAfter": 9176,
+    "fullBaselineRequests": 3018,
+    "requestReductionPercent": 99.63552021206097,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,69 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "P11vV",
+          "comment": "Увы, не за что зацепиться, чтобы натянуть тройку. Сыровато пока что.",
+          "scoredAt": "2026-10-14T19:40:49.074Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Старая Камуна",
+          "comment": "Приятный по звуку но скучный сторииел. Очень разнообразия мне не хватило, будто просто текст ради текста",
+          "scoredAt": "2026-10-14T19:40:16.012Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Грех",
+          "comment": "Я затащу туда весь мир и буду первым (c) самое крутое в этом треке - подход к расставлению интонационных акцентов и эстетичный хук. ",
+          "scoredAt": "2026-10-14T19:40:06.914Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Kerry Brain",
+          "comment": "я понял, что с темой?",
+          "scoredAt": "2026-10-14T19:38:20.906Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Сатановский",
+          "comment": "нормаааально",
+          "scoredAt": "2026-10-14T19:36:46.084Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "darkside [Табак Без Сигарет]",
+          "comment": "На красивом, вальяжном раскрыл тему, простенько по тексту, строчек бы интересных/пэнчиков аккуратных нейтральных и забрал бы пятерочку . оч органично с этим битом звучишь ",
+          "scoredAt": "2026-10-14T19:36:08.145Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Wormir",
+          "comment": "Ну прям рановато для прохода. Звук плохой, текст средний.",
+          "scoredAt": "2026-10-14T19:35:39.281Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Don Cartuletti",
+          "comment": "законом разрешено быть свобоным внутри своих мысле, где раскрытие?",
+          "scoredAt": "2026-10-14T19:35:32.886Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Пластилин",
+          "comment": "",
+          "scoredAt": "2026-10-14T19:33:07.877Z"
+        },
+        {
           "judgeName": "AL Hammer",
           "score": 3,
           "artist": "SL3NDA",
@@ -122,69 +185,6 @@
           "artist": "SKOBEE",
           "comment": "золотая серединка",
           "scoredAt": "2026-10-14T19:29:28.331Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "INCLUS",
-          "comment": "Ну вот концовка вкатила по стильку, но в целом звучит средне. По тексту тоже есть много вопросов.",
-          "scoredAt": "2026-10-14T19:29:19.005Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Ник Реккл",
-          "comment": "серединка",
-          "scoredAt": "2026-10-14T19:28:33.982Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "милый котёнок",
-          "comment": "Ну сыроватое звучание, по тексту не за что зацепиться.",
-          "scoredAt": "2026-10-14T19:27:44.947Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "MIHEQ",
-          "comment": "Я «закричу на весь мир», да у меня внутри «ТРАВМА» (с) - прекрасно. Я «единственный рэпер», но где Слава - отлично. Очень уместный неймдропинг. В тексте хорошо по смыслу заложил, много интересных строк, закончил эффектно на \"работаю 7\\0, у меня безвыходная жизнь. По флоу могу только похвалить. Жду во втором. \n",
-          "scoredAt": "2026-10-14T19:26:47.906Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "См",
-          "comment": "с барскими, техника впереди, чем текст",
-          "scoredAt": "2026-10-14T19:26:42.626Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "krasst",
-          "comment": "с авансиком!",
-          "scoredAt": "2026-10-14T19:25:55.022Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "BIO MOYKA",
-          "comment": "Попсовенько) прикольный рофлотречок. Хотелось бы конечно про рифмы сказать , но будто тут как раз прикол в простоте и заедании в голове. Осмелюсь предположить что еосскть ты так и не сходил ;) лови свою пятерку",
-          "scoredAt": "2026-10-14T19:25:35.002Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Alexander Nedifar",
-          "comment": "Интересными оборотами раскрыл тему, понравилось , правда пришлось чуть покопаться в тексте , вникнуть. Чуть разнообразия бы в исполнении, а так добротная работа. Интересно как бы ты мог сделать в парных раундах, попробуй во втором раунде если пройдешь показать как умеешь в пЭнчики",
-          "scoredAt": "2026-10-14T19:22:31.660Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Этот Парень",
-          "comment": "Ультра странный текст, я пытался вслушаться и вчитаться, но не понял... Стилёк есть, потенциал есть\n",
-          "scoredAt": "2026-10-14T19:21:31.050Z"
         }
       ]
     }
