@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T12:22:03.028Z",
-  "exportedAt": "2026-10-14T12:22:03.028Z",
-  "runId": "2026-10-14T12:22:03.028Z",
-  "forumExportedAt": "2026-10-14T12:22:03.028Z",
+  "lastSuccessfulAt": "2026-10-14T12:31:51.005Z",
+  "exportedAt": "2026-10-14T12:31:51.005Z",
+  "runId": "2026-10-14T12:31:51.005Z",
+  "forumExportedAt": "2026-10-14T12:31:51.005Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8696,
+    "scores": 8698,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7343,
-    "scoresBefore": 8691,
-    "scoresAfter": 8696,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4437,
+    "scoresBefore": 8696,
+    "scoresAfter": 8698,
     "fullBaselineRequests": 2949,
-    "requestReductionPercent": 99.76263140047473,
+    "requestReductionPercent": 99.86436080027129,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "flameb",
+          "comment": "Я дам шанс для новой школы, но хз по другим судьям, что у тебя будет.\nпо тексту очень странно, по ритму тоже ",
+          "scoredAt": "2026-10-14T12:31:43.114Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Ola",
+          "comment": "Моя оценка уже ничего не решает, но для меня это не проходная работа. \nочень слабо по рифмам, очень слабо по исполнению. \n\nУ девушек чаще всего выделяются либо вокал и идейность, либо они цельно смотрятся приятнее на фоне рэп треков, тут же получается так, что и вокал нет и рэп так себе, не ярко звучит. \n\n",
+          "scoredAt": "2026-10-14T12:22:11.162Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -171,20 +185,6 @@
           "artist": "Леверкюн",
           "comment": "Идейно но ничего кроме 6 строчек тут нет, делим на 3, и получает оценку. ",
           "scoredAt": "2026-10-14T11:27:25.188Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "SlavDem",
-          "comment": "Мне кажется, что твой текст это какая-то графомания... возможно это полный бред, но я утверждать не буду\nЧитаешь ты более-менее норм, я поставлю проход, но чисто как 1 оценку, дальше я не знаю, что будет у тебя в баллах. ",
-          "scoredAt": "2026-10-14T11:24:14.012Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Мишарик",
-          "comment": "мне нравится твоя рифмовка, очень красиво звучит, но зачитываешь немного сумбурно, хоть и круто, что так играешь эмоциями. \nНемного не дотянул до 5",
-          "scoredAt": "2026-10-14T11:16:56.563Z"
         }
       ]
     }
