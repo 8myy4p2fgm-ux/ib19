@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T17:42:32.485Z",
-  "exportedAt": "2026-10-14T17:42:32.485Z",
-  "runId": "2026-10-14T17:42:32.485Z",
-  "forumExportedAt": "2026-10-14T17:42:32.485Z",
+  "lastSuccessfulAt": "2026-10-14T17:52:21.840Z",
+  "exportedAt": "2026-10-14T17:52:21.840Z",
+  "runId": "2026-10-14T17:52:21.840Z",
+  "forumExportedAt": "2026-10-14T17:52:21.840Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9067,
+    "scores": 9077,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9943,
-    "scoresBefore": 9060,
-    "scoresAfter": 9067,
-    "fullBaselineRequests": 3007,
-    "requestReductionPercent": 99.70069837046891,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 12,
+    "durationMs": 13118,
+    "scoresBefore": 9067,
+    "scoresAfter": 9077,
+    "fullBaselineRequests": 3008,
+    "requestReductionPercent": 99.60106382978722,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,76 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "Dionaea",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:51:47.749Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Майкл",
+          "comment": "ВЫДЕРЖАНО, ПРИЯТНО, ДАВАЙ ЕЩЕ КРУЧЕ СДЕЛАЙ, БОЛЬШЕ КРУТЫХ МЫСЛЕЙ, ПУНЧЕЙ В СЛЕД РОВОНДЕ. СУДИЛ ЕС ЧЕ НА СТРИМЕ.",
+          "scoredAt": "2026-10-14T17:50:51.444Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "ПИБ",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:49:44.807Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "artist": "zhostik",
+          "comment": "",
+          "scoredAt": "2026-10-14T17:49:03.227Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "exokeee",
+          "comment": "блин ну бит сок конечно. в остальном слабо. удачи. думаю ты хороший парень по жизни! респек!",
+          "scoredAt": "2026-10-14T17:49:02.574Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "Уиллем Дефолт",
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+          "scoredAt": "2026-10-14T17:48:23.679Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Hwoabak$",
+          "comment": "ОПАСНЫЙ РЭБ, НО НАДО ПОНЧЛАЙНОВ. СТРИМ.",
+          "scoredAt": "2026-10-14T17:47:41.981Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": ".SN",
+          "comment": "СТРИМ. Пусть и гость непрошен  брошу кости коршунам\nГорсти крошек  в носик тощим опущам\nМне так проще просто помощь тонущим\nЯ дома, а кто ещё? - ВОТ ЭТОТ КУСОК, ВРОДЕ КРУТО ЗАРИФМОВАН, ПЛОТНО, НО ИЗ-ЗА РАДИРАЙМИ, НЕ ИМЕЕТ ВООБЩЕ НИКАКОГО СМЫСЛА, НАБОР ПРИКОЛЬНЫХ РИФМ. ПРИПЕВ КЛАССНЫЙ. ВООБЩЕМ ЗВУЧИТ НА ПЯТЬ, ПО ТЕХТУ НА 3, ОТ ТОГО СТАВЛЮ 4.",
+          "scoredAt": "2026-10-14T17:46:24.464Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "ST4YAWAY",
+          "comment": "СТРИМ.",
+          "scoredAt": "2026-10-14T17:43:34.688Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "ЙОВИ",
+          "comment": "",
+          "scoredAt": "2026-10-14T17:43:04.343Z"
+        },
+        {
           "judgeName": "Гукер Капюшон",
           "score": 3,
           "artist": "влад ноэ́",
@@ -115,76 +185,6 @@
           "artist": "FADA",
           "comment": "СТРИМ. БЛИН ВАЛИШЬ ТЫ КОНЕЧНО ИНТЕРЕСНО, ЗА ИСКЛЮЧЕНИЕМ ДАБЛТАЙМОВ, НА НИХ ПОДЗАВАФЛИЛА ВНОТУРЬ. И ПО ТЕХТУ ДАЖЕ КОММЕНТАРИИ ДАВАТЬ НЕ СТОИТ, НУЖНО ГОСТРАЙТЕРА................. НО ПРИ ВСЕ ЭТО ТЫ МОЛОДЕЦ!",
           "scoredAt": "2026-10-14T17:35:31.202Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "вокинъяле",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:34:39.921Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Мх_шЫфер",
-          "comment": "СТРИМ. ОКОЛОРЭБ Я ТЕБЯ УЗНАЛ.",
-          "scoredAt": "2026-10-14T17:33:06.599Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "МЦ СЁМА ИЗ СЕЛА",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:31:45.283Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "OneRay",
-          "comment": "СТРИМ.",
-          "scoredAt": "2026-10-14T17:31:21.999Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "PAK!STAN",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:30:59.306Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "пуляБан",
-          "comment": "СТРИМ. НУ ТАКОЙ ДЕФОЛТНЫЙ ПРИЯТНЫЙ РЭБ, ПРО ГИТАРУ И ПЕРЕБОР, ЗЕНИТ И УЛИЦУ, ВОТ ТАКОВА БОЛЬШЕ НАДА БРАД. И РИФМУЙ ПОСЛОЖНЕЙ ИНТЕРЕСНЕЙ ЧТОЛИ.",
-          "scoredAt": "2026-10-14T17:28:50.079Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "Отвёрткин",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:28:21.596Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "ANDRÆPER",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:25:44.164Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "ЙОВИ",
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
-          "scoredAt": "2026-10-14T17:25:21.315Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "x2",
-          "comment": "Стрим 10",
-          "scoredAt": "2026-10-14T17:22:42.164Z"
         }
       ]
     }

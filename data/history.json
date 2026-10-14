@@ -84900,6 +84900,146 @@
         "scoredAt": "2026-10-14T17:34:39.921Z",
         "userId": "6a7a96c4-04d0-4ce3-bc2a-3c755934ee62"
       }
+    },
+    {
+      "id": "48bb85f64ed3a387b4d4f4b732445816838f9415202ea8a07bbb3296107cee48",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:43:34.688Z",
+      "key": "[\"790cc2e2-f504-4a7c-bd03-c54cbf55b157\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "СТРИМ.",
+        "scoredAt": "2026-10-14T17:43:34.688Z",
+        "userId": "790cc2e2-f504-4a7c-bd03-c54cbf55b157"
+      }
+    },
+    {
+      "id": "175e64a00b1b72597bb2c992d3dbb5e38d29fdb8a36206c583480ebe6be536e6",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:46:24.464Z",
+      "key": "[\"c4b7bcc5-99a9-48ba-8016-2993c7925bc1\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "СТРИМ. Пусть и гость непрошен  брошу кости коршунам\nГорсти крошек  в носик тощим опущам\nМне так проще просто помощь тонущим\nЯ дома, а кто ещё? - ВОТ ЭТОТ КУСОК, ВРОДЕ КРУТО ЗАРИФМОВАН, ПЛОТНО, НО ИЗ-ЗА РАДИРАЙМИ, НЕ ИМЕЕТ ВООБЩЕ НИКАКОГО СМЫСЛА, НАБОР ПРИКОЛЬНЫХ РИФМ. ПРИПЕВ КЛАССНЫЙ. ВООБЩЕМ ЗВУЧИТ НА ПЯТЬ, ПО ТЕХТУ НА 3, ОТ ТОГО СТАВЛЮ 4.",
+        "scoredAt": "2026-10-14T17:46:24.464Z",
+        "userId": "c4b7bcc5-99a9-48ba-8016-2993c7925bc1"
+      }
+    },
+    {
+      "id": "bde0bf7880e06f2fbd1481e5a1f634c89532d91c845d691236d7607ec832ffec",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:51:47.749Z",
+      "key": "[\"f83d228b-61b2-48e1-9c5b-3bf75a02c25f\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:51:47.749Z",
+        "userId": "f83d228b-61b2-48e1-9c5b-3bf75a02c25f"
+      }
+    },
+    {
+      "id": "253cb3cdca2c6f61b56e2bd9d439b1d754e1a81308468a6de579059f1f013299",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:50:51.444Z",
+      "key": "[\"61316d40-8a92-4107-a481-c9f8fe3fbe3e\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "ВЫДЕРЖАНО, ПРИЯТНО, ДАВАЙ ЕЩЕ КРУЧЕ СДЕЛАЙ, БОЛЬШЕ КРУТЫХ МЫСЛЕЙ, ПУНЧЕЙ В СЛЕД РОВОНДЕ. СУДИЛ ЕС ЧЕ НА СТРИМЕ.",
+        "scoredAt": "2026-10-14T17:50:51.444Z",
+        "userId": "61316d40-8a92-4107-a481-c9f8fe3fbe3e"
+      }
+    },
+    {
+      "id": "d6fd86f44e65e5f951e5e5a5815b1ab52ed82e6660152b1ae2d8da331c23eb20",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:49:03.227Z",
+      "key": "[\"86a03f1f-df27-4653-8321-5e659013b125\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-14T17:49:03.227Z",
+        "userId": "86a03f1f-df27-4653-8321-5e659013b125"
+      }
+    },
+    {
+      "id": "7889539f05498ad2fa49c1c01f8cb7bfa7c99e0036855eebe76a8e3ac7a9c15d",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:43:04.343Z",
+      "key": "[\"851cee83-7c2b-4815-ac44-cc97daaf74b9\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-14T17:43:04.343Z",
+        "userId": "851cee83-7c2b-4815-ac44-cc97daaf74b9"
+      }
+    },
+    {
+      "id": "f9d5bf90f37c2819d1ea7ca188a643aee08eed1383e74ac0d30174f8102313e0",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:49:02.574Z",
+      "key": "[\"13f1dd8b-b9c7-4d73-921c-7243fc55e57b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "блин ну бит сок конечно. в остальном слабо. удачи. думаю ты хороший парень по жизни! респек!",
+        "scoredAt": "2026-10-14T17:49:02.574Z",
+        "userId": "13f1dd8b-b9c7-4d73-921c-7243fc55e57b"
+      }
+    },
+    {
+      "id": "57e6e5a0ad58a050e44c043c417a362bb53b8ab1c5bacc71ef73cabd82901e09",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:49:44.807Z",
+      "key": "[\"ad6006f2-9c84-42a5-9652-741d29b3de8a\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:49:44.807Z",
+        "userId": "ad6006f2-9c84-42a5-9652-741d29b3de8a"
+      }
+    },
+    {
+      "id": "f1b0632bc9eeab1a6bc35c6fff424dadd46a885490dd7bcc4c6ec6e94e284a32",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:48:23.679Z",
+      "key": "[\"b056aa7d-849b-4823-97bd-c9f748ade179\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111781",
+        "scoredAt": "2026-10-14T17:48:23.679Z",
+        "userId": "b056aa7d-849b-4823-97bd-c9f748ade179"
+      }
+    },
+    {
+      "id": "6efa6bebbb7e649c1f28e06c139135f309381ba49540a7a51f91eef59beef29b",
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "sourceScoredAt": "2026-10-14T17:47:41.981Z",
+      "key": "[\"4137b992-bc36-4302-8443-1add83e38db1\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "ОПАСНЫЙ РЭБ, НО НАДО ПОНЧЛАЙНОВ. СТРИМ.",
+        "scoredAt": "2026-10-14T17:47:41.981Z",
+        "userId": "4137b992-bc36-4302-8443-1add83e38db1"
+      }
     }
   ],
   "snapshots": [
@@ -85859,6 +85999,26 @@
           "index": 27.822155907766053,
           "favor": 18.721937067618832,
           "attention": -2.3997811598527803,
+          "respect": 11.5
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-14T17:52:21.840Z",
+      "exportedAt": "2026-10-14T17:52:21.840Z",
+      "scores": 9077,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.38643286397821,
+          "favor": 10.039727398985825,
+          "attention": 6.203848322135245,
+          "respect": 7.142857142857143
+        },
+        "veterans": {
+          "index": 27.832108957326614,
+          "favor": 18.715002229157378,
+          "attention": -2.382893271830762,
           "respect": 11.5
         }
       }
