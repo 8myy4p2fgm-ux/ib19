@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T11:11:56.308Z",
-  "exportedAt": "2026-10-14T11:11:56.308Z",
-  "runId": "2026-10-14T11:11:56.308Z",
-  "forumExportedAt": "2026-10-14T11:11:56.308Z",
+  "lastSuccessfulAt": "2026-10-14T11:21:51.432Z",
+  "exportedAt": "2026-10-14T11:21:51.432Z",
+  "runId": "2026-10-14T11:21:51.432Z",
+  "forumExportedAt": "2026-10-14T11:21:51.432Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 8681,
+    "scores": 8682,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5281,
-    "scoresBefore": 8678,
-    "scoresAfter": 8681,
-    "fullBaselineRequests": 2943,
-    "requestReductionPercent": 99.83010533469249,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 4202,
+    "scoresBefore": 8681,
+    "scoresAfter": 8682,
+    "fullBaselineRequests": 2944,
+    "requestReductionPercent": 99.89809782608695,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Мишарик",
+          "comment": "мне нравится твоя рифмовка, очень красиво звучит, но зачитываешь немного сумбурно, хоть и круто, что так играешь эмоциями. \nНемного не дотянул до 5",
+          "scoredAt": "2026-10-14T11:16:56.563Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -178,13 +185,6 @@
           "artist": "portti",
           "comment": "Короче, хочу, чтобы в 2 раунде ты доделал песню свою до ума. \nОчень красиво и потенциально звучит материал, если поработаешь над рифмой то будет ещё круче, но хотя-бы сделай пачку беков\\аиров, припев норм сведи и тд. ",
           "scoredAt": "2026-10-14T10:00:10.403Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "artist": "Jerry Crisp",
-          "comment": "тут необычный бит, крутой текст и норм читка.\nно во втором этого будет точно мало. \nХочу больше разнообразий читки, больше интересных моментов и разных стилей исполнения. ",
-          "scoredAt": "2026-10-14T09:52:00.263Z"
         }
       ]
     }
