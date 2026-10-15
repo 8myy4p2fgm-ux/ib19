@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T07:22:09.490Z",
-  "exportedAt": "2026-10-15T07:22:09.490Z",
-  "runId": "2026-10-15T07:22:09.490Z",
-  "forumExportedAt": "2026-10-15T07:22:09.490Z",
+  "lastSuccessfulAt": "2026-10-15T07:32:11.334Z",
+  "exportedAt": "2026-10-15T07:32:11.334Z",
+  "runId": "2026-10-15T07:32:11.334Z",
+  "forumExportedAt": "2026-10-15T07:32:11.334Z",
   "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 9491,
+    "scores": 9494,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 5,
-    "durationMs": 5005,
-    "scoresBefore": 9488,
-    "scoresAfter": 9491,
+    "durationMs": 4902,
+    "scoresBefore": 9491,
+    "scoresAfter": 9494,
     "fullBaselineRequests": 3053,
     "requestReductionPercent": 99.83622666229938,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "WXN",
+          "comment": "Ой красиво как про поводок, битые пиксели, море траблов, верю рэпу на батлах - очень красивое звучание, органичное, садись 5, вам в следующий кабинет теперь, пройдите пожалуйста, будьте добры, вас заждались!! 👍👍👍👍👍",
+          "scoredAt": "2026-10-15T07:30:33.151Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "IVENTON [Не ТоТ Формат]",
+          "comment": "Это что за жирнюший соус ??!? Спасибо за строчки хорошие, закончил красиво ! Скорей бы тебя послушать дальше, где больше минуты! ",
+          "scoredAt": "2026-10-15T07:25:46.207Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Рэ Тррай",
+          "comment": "Рифмуешь хорошо, но смыслов в тексте очень мало. Крутой игрок, базара ноль. Читаешь уверенно.",
+          "scoredAt": "2026-10-15T07:23:22.148Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -164,27 +185,6 @@
           "artist": "MLV.LVN",
           "comment": "Маловато пока скиллов для второго. Но ты на верном пути - на моменте про барабан стало это понятно. ",
           "scoredAt": "2026-10-15T06:58:31.936Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "MusicMuggle",
-          "comment": "Скруглила в сторону четверки, потому что ощущается опыт и перспектива.",
-          "scoredAt": "2026-10-15T06:56:36.612Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "darkside [Табак Без Сигарет]",
-          "comment": "Стильно и вайбово. По тексту все просто, но неплохо. Строчка про \"ликбез\" высосана из пальца и подается как панч. Не делай так. Припев приятный. Считаю, что трек ближе к пятерке, чем к четверке, но это не прямо уверенная работа.",
-          "scoredAt": "2026-10-15T06:54:55.519Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "ERROSE",
-          "comment": "Набор произвольных фраз не в бит",
-          "scoredAt": "2026-10-15T06:54:14.290Z"
         }
       ]
     }
