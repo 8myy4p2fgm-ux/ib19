@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T20:12:17.815Z",
-  "exportedAt": "2026-10-15T20:12:17.815Z",
-  "runId": "2026-10-15T20:12:17.815Z",
-  "forumExportedAt": "2026-10-15T20:12:17.815Z",
+  "lastSuccessfulAt": "2026-10-15T20:22:11.367Z",
+  "exportedAt": "2026-10-15T20:22:11.367Z",
+  "runId": "2026-10-15T20:22:11.367Z",
+  "forumExportedAt": "2026-10-15T20:22:11.367Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10449,
+    "scores": 10453,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10397,
-    "scoresBefore": 10441,
-    "scoresAfter": 10449,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6072,
+    "scoresBefore": 10449,
+    "scoresAfter": 10453,
     "fullBaselineRequests": 3122,
-    "requestReductionPercent": 99.67969250480462,
+    "requestReductionPercent": 99.80781550288278,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "ВПОРЯДЕ",
+          "comment": "Добротно! Ждем тебя дальше!",
+          "scoredAt": "2026-10-15T20:22:03.614Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "GURU",
+          "comment": "убил бит, потому что его не слышно.",
+          "scoredAt": "2026-10-15T20:21:24.956Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "INTAET",
+          "comment": "А круто же! ",
+          "scoredAt": "2026-10-15T20:20:15.488Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 1,
+          "artist": "люблю кипарисы [TLW]",
+          "comment": "Не ну.\n\nНу не.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T20:16:39.275Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -157,34 +185,6 @@
           "artist": "Johnnykushmen",
           "comment": "Уверенно по подаче, простовато по тексту уж слишком местами. В таком бумбэп стильке все же нет упора на какую-то невероятно техничную читку, чтобы под нее слова особо как-то корявить, потому для таких квадратов надо бы поугарнее панчики, чтобы это было как-то интересно. А так - за подачу работяжная четверка, без минусов, но и без плюсов.\n\nСтрим, ч. 16",
           "scoredAt": "2026-10-15T20:00:12.993Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "OG G",
-          "comment": "",
-          "scoredAt": "2026-10-15T20:00:06.087Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "nonrange",
-          "comment": "",
-          "scoredAt": "2026-10-15T19:59:33.397Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "МЦ Олег",
-          "comment": "Кизару от олдскула.\nНе знаю почему, но я прям угорнул от трека.\nЗабавно",
-          "scoredAt": "2026-10-15T19:57:47.004Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 2,
-          "artist": "МЦ ВИРТУАЛ",
-          "comment": "Это близко к контейнеровскому стильку, у меня сегодня где-то на стриме был в целом чел похожий, который тоже так офбитно читал, но при этом там я даже думал 5 поставить (поставил 4). Здесь же ток 2. Голос и там и там мертвый, но там он звучал плотненько и в бите, здесь звучит просто как разговор \"рядышком\" с битом где-то.\n\nТам угарные полноценные строки, хоть и тоже местами достаточно рандомно выдуманные из головы, а тут ну угарные слова максимум, кекать над ними не хочется.\n\nА для стиля такого, чтобы это проходило, нужно и то, и то - гарные строки + харизма в подаче.\n\nЯ вижу только зачатки такого.\n\nСтрим, ч. 16",
-          "scoredAt": "2026-10-15T19:57:19.744Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T20:12:17.815Z",
+  "exportedAt": "2026-10-15T20:22:11.367Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -3624,8 +3624,14 @@
     },
     {
       "userId": "b1a00d6e-1387-4ba0-8236-73edbfbc2500",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "А круто же! ",
+          "scoredAt": "2026-10-15T20:20:15.488Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -3633,7 +3639,7 @@
           "scoredAt": "2026-10-14T14:06:26.995Z"
         }
       ],
-      "fetchedAt": "2026-10-14T14:12:04.466Z",
+      "fetchedAt": "2026-10-15T20:22:11.367Z",
       "current": true
     },
     {
@@ -42368,8 +42374,14 @@
     },
     {
       "userId": "21a245ea-bd9a-45b4-baf7-3381060e6f20",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Добротно! Ждем тебя дальше!",
+          "scoredAt": "2026-10-15T20:22:03.614Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -42389,7 +42401,7 @@
           "scoredAt": "2026-10-02T11:41:13.535Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:22:46.526Z",
+      "fetchedAt": "2026-10-15T20:22:11.367Z",
       "current": true
     },
     {
@@ -76243,8 +76255,14 @@
     },
     {
       "userId": "48a467ff-2573-4144-9010-51055e590b07",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "убил бит, потому что его не слышно.",
+          "scoredAt": "2026-10-15T20:21:24.956Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -76252,7 +76270,7 @@
           "scoredAt": "2026-10-11T16:24:38.421Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T20:22:11.367Z",
       "current": true
     },
     {
@@ -82009,8 +82027,14 @@
     },
     {
       "userId": "a336499d-36c9-4a5e-84a4-613d82f22648",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 1,
+          "comment": "Не ну.\n\nНу не.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T20:16:39.275Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -82030,7 +82054,7 @@
           "scoredAt": "2026-10-13T04:53:41.162Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:02:23.223Z",
+      "fetchedAt": "2026-10-15T20:22:11.367Z",
       "current": true
     },
     {
