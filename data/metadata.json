@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T07:32:11.334Z",
-  "exportedAt": "2026-10-15T07:32:11.334Z",
-  "runId": "2026-10-15T07:32:11.334Z",
-  "forumExportedAt": "2026-10-15T07:32:11.334Z",
+  "lastSuccessfulAt": "2026-10-15T07:42:05.996Z",
+  "exportedAt": "2026-10-15T07:42:05.996Z",
+  "runId": "2026-10-15T07:42:05.996Z",
+  "forumExportedAt": "2026-10-15T07:42:05.996Z",
   "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 9494,
+    "scores": 9498,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4902,
-    "scoresBefore": 9491,
-    "scoresAfter": 9494,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6088,
+    "scoresBefore": 9494,
+    "scoresAfter": 9498,
     "fullBaselineRequests": 3053,
-    "requestReductionPercent": 99.83622666229938,
+    "requestReductionPercent": 99.80347199475925,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "БАРСИЙ",
+          "comment": "Вооо, это крутой читака! Звук хорош, все вкусно. С темой проблемы, как мне кажется. Возможно, не понял сути отбора - разберемся со втором с этим",
+          "scoredAt": "2026-10-15T07:41:02.834Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "Тот самый брат",
+          "comment": "Ооооо, салют братик! Оч люблю твой стилек и рифмовку, спасибо рвать на битах что открыл тебя для меня! Тречок оч крутой, увидимся в парных , бро",
+          "scoredAt": "2026-10-15T07:37:56.620Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Eighty Eight",
+          "comment": "На проход тебя твой бодрый фло вытянул. Так-то набор рифмовалок.",
+          "scoredAt": "2026-10-15T07:36:57.136Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "petren",
+          "comment": "Что-то в этом есть! Простенько, но со вкусом, звук понравился, раскрытие интересное ) добавь в следующий раунд клевых строчек/пэнчиков, лови 5 с минусом ! ",
+          "scoredAt": "2026-10-15T07:34:32.730Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -157,34 +185,6 @@
           "artist": "yoonilorde",
           "comment": "Я от таких треков и байта окси тоже скоро седой стану)) ",
           "scoredAt": "2026-10-15T07:03:16.656Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "Мастер Спирта",
-          "comment": "я @хуела. И вам хорошего дня. ",
-          "scoredAt": "2026-10-15T07:01:45.819Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "МЦ РАССОЛ",
-          "comment": "это очень скучно, в целом как будто тебе 9 лет, вот и разрывают тебя шутки про жопу",
-          "scoredAt": "2026-10-15T06:59:55.035Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Jimmy Jhones",
-          "comment": "Ну про Гарначо строчка - мое уважение. Не хочу, чтобы ты выйграл этот баттл ибо ты все деньги потратишь на шлюх. Есть неплохие моменты(парочка панчуль) но пока это выглядит как точки для роста, нежели твое преимущество. Работай, я думаю из тебя может получится крепкий эмце.",
-          "scoredAt": "2026-10-15T06:59:52.681Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "MLV.LVN",
-          "comment": "Маловато пока скиллов для второго. Но ты на верном пути - на моменте про барабан стало это понятно. ",
-          "scoredAt": "2026-10-15T06:58:31.936Z"
         }
       ]
     }
