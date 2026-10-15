@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T22:22:08.330Z",
-  "exportedAt": "2026-10-15T22:22:08.330Z",
-  "runId": "2026-10-15T22:22:08.330Z",
-  "forumExportedAt": "2026-10-15T22:22:08.330Z",
+  "lastSuccessfulAt": "2026-10-15T22:32:05.222Z",
+  "exportedAt": "2026-10-15T22:32:05.222Z",
+  "runId": "2026-10-15T22:32:05.222Z",
+  "forumExportedAt": "2026-10-15T22:32:05.222Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10486,
+    "scores": 10487,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4385,
-    "scoresBefore": 10484,
-    "scoresAfter": 10486,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2958,
+    "scoresBefore": 10486,
+    "scoresAfter": 10487,
     "fullBaselineRequests": 3124,
-    "requestReductionPercent": 99.8719590268886,
+    "requestReductionPercent": 99.90396927016644,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "AVENUE SS",
+          "comment": "Стильно, модно, молодёжной! Подкупает эта лёгкость с которой ты делаешь это дерьмо, красиво, чувствуется что как рыба в воде. Панчики на поверхности все конечно особо тут думать не надо, но для этого стилька самое то, забирай свой топ, господин разогревочный 😎",
+          "scoredAt": "2026-10-15T22:27:28.510Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -178,13 +185,6 @@
           "artist": "МцБитцаВздумал",
           "comment": "Парадокс в том, что это демо на диктофон пизже, чем сотни фейк-рэперков с отбора. И в контексте этого, твои первые строчки как никогда к месту. Кидаю шатаут, брат. Несмотря на то что это ерунда непроходная (хотя и явно не претендует на это), конечно же, но вот просто за смелость быть собой и не казаться кем-то, кем не являешься, лови респект от братанов с улиц. Такое хотя бы не скучно.",
           "scoredAt": "2026-10-15T21:21:42.524Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 2,
-          "artist": "Октябрьская грязь",
-          "comment": "Звучит как будто бы чел-озвучкер старых фильмов на VHS-кассетах из 90-х залетел на баттл и делать грязь-грязь, ну не прям совсем грязь.\n\nСюжетно в этом идея есть (поначалу), потом ушел на репрезентик по баттлу (который в итоге не оч прикольный), но зацепиться за что-то текстово, что повысило бы балл, нету!\n\nСтрим, ч. 16",
-          "scoredAt": "2026-10-15T21:19:26.500Z"
         }
       ]
     }
