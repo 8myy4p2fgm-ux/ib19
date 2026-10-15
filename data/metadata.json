@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T00:12:07.354Z",
-  "exportedAt": "2026-10-15T00:12:07.354Z",
-  "runId": "2026-10-15T00:12:07.354Z",
-  "forumExportedAt": "2026-10-15T00:12:07.354Z",
+  "lastSuccessfulAt": "2026-10-15T00:22:13.540Z",
+  "exportedAt": "2026-10-15T00:22:13.540Z",
+  "runId": "2026-10-15T00:22:13.540Z",
+  "forumExportedAt": "2026-10-15T00:22:13.540Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9382,
+    "scores": 9386,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 7955,
-    "scoresBefore": 9376,
-    "scoresAfter": 9382,
-    "fullBaselineRequests": 3039,
-    "requestReductionPercent": 99.73675551168148,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5794,
+    "scoresBefore": 9382,
+    "scoresAfter": 9386,
+    "fullBaselineRequests": 3040,
+    "requestReductionPercent": 99.80263157894737,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Anderkava",
+          "comment": "подкупил своей бредовой идеей... с тебя чоколадка! \nи во 2 хороший трек, а не такой сумбур из гомна и палок ",
+          "scoredAt": "2026-10-15T00:21:37.646Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Мц Лаваш",
+          "comment": "Тебе бы мц люля кебаб ещё и мц лучок ухххххххххх\n\nслишком сумбурный рэпачок, напевки атональные какие-то\nВо 2 сделай более цельный трек",
+          "scoredAt": "2026-10-15T00:19:37.341Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Dead Romance Club",
+          "comment": "За идейность + \nприколдесненько, но давай без скажи-доложи и путь-свернуть\nИдея не победит критерии, если по ним всё плохо, подтяни текст и исполнение речитативной части ",
+          "scoredAt": "2026-10-15T00:17:11.091Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Григорий",
+          "comment": "соу соу, набирайся опыта ( может даже в следующем раунде)",
+          "scoredAt": "2026-10-15T00:13:04.828Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -157,34 +185,6 @@
           "artist": "kt03Ta",
           "comment": "жеееееесть\nрэпер надеюсь в глаголы не сунется, \nдаже если с ним пол интернета судится, \nсчастье не за горами, но рэпер трудится ... и всё у него сбудется ...",
           "scoredAt": "2026-10-14T23:50:51.694Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Лёха_Монтана",
-          "comment": "Айс айс айс бейби, я буду тебя любить даже когда я буду на небе ",
-          "scoredAt": "2026-10-14T23:48:47.005Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Wise bro",
-          "comment": "тсссссссс\n\n\nбит секс, ты на нём огромная кучка стресса, больше вайба и релакса\nменьше напряжённости и \"КВАДРАТНОЙ\" читки\nдаю шанс, не подведи во 2, постарайся прям, в твоих же интересах. ",
-          "scoredAt": "2026-10-14T23:47:42.209Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "EniWay",
-          "comment": "Рановато брат, ты в ускорениях плывешь, читаешь очень слабовато \n",
-          "scoredAt": "2026-10-14T23:46:11.164Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Edgelord",
-          "comment": "Хорошая ритмика, интересный текст.\nМестами грязновато получилось и монотонно, плюс, видимо, сведение подводит.\nА так для отбора более чем достаточно.",
-          "scoredAt": "2026-10-14T23:45:02.651Z"
         }
       ]
     }
