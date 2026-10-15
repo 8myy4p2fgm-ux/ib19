@@ -89702,6 +89702,118 @@
         "scoredAt": "2026-10-15T00:49:03.015Z",
         "userId": "69820fbc-2826-4dd4-9675-527f0f1e3cde"
       }
+    },
+    {
+      "id": "58595b629b383aeab198831cc3153634b31d870d3e12540d28daa625641d18b0",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T01:00:48.354Z",
+      "key": "[\"795eacd1-e6fa-457a-8274-dcf5b5aa5233\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+        "scoredAt": "2026-10-15T01:00:48.354Z",
+        "userId": "795eacd1-e6fa-457a-8274-dcf5b5aa5233"
+      }
+    },
+    {
+      "id": "5cbea59bf00557307b3c3c4d757c1b0af7c699f7d816b3c21da218f8c9bec871",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T01:02:18.786Z",
+      "key": "[\"c3136b02-a53b-4478-a987-f799cfaecb96\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+        "scoredAt": "2026-10-15T01:02:18.786Z",
+        "userId": "c3136b02-a53b-4478-a987-f799cfaecb96"
+      }
+    },
+    {
+      "id": "06ebf6a17bcb4a2d3c287fb068b203ac712a9c817625ccf662d8ba56bc7b1b60",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T00:52:26.781Z",
+      "key": "[\"07893cca-1296-4ddc-b51b-5b9b3328cecd\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "ну спасибо, что хоть 4 строчки написал! ",
+        "scoredAt": "2026-10-15T00:52:26.781Z",
+        "userId": "07893cca-1296-4ddc-b51b-5b9b3328cecd"
+      }
+    },
+    {
+      "id": "82510f77173376263187138448b125ef280af42f0c9e4d6016ad0ffd12eb75b1",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T01:00:28.708Z",
+      "key": "[\"178120a9-8975-4fed-9b29-6dc88ff38fc1\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+        "scoredAt": "2026-10-15T01:00:28.708Z",
+        "userId": "178120a9-8975-4fed-9b29-6dc88ff38fc1"
+      }
+    },
+    {
+      "id": "e9397f0ce7cb33bd812deeaae92a851fd8704d931c13f1aac07c5d931d8f4f96",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T01:01:44.335Z",
+      "key": "[\"46a064a8-cdaf-4443-85e1-aa5286e6c302\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "читаешь как инстасамка + рам ( который мартовен)\n",
+        "scoredAt": "2026-10-15T01:01:44.335Z",
+        "userId": "46a064a8-cdaf-4443-85e1-aa5286e6c302"
+      }
+    },
+    {
+      "id": "7ec088263a6dbf81a5605e78ca5ac1250ac1591836b66972da94366b8c9588c2",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T00:59:26.552Z",
+      "key": "[\"cded9aaa-065a-4008-9a2d-4d316956d839\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "понял принял!\nАвансом",
+        "scoredAt": "2026-10-15T00:59:26.552Z",
+        "userId": "cded9aaa-065a-4008-9a2d-4d316956d839"
+      }
+    },
+    {
+      "id": "4750073ad3cbcdd7a5a339c14163cdbe0251f1a96e88705c4e3437eff23aabb0",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T00:53:32.316Z",
+      "key": "[\"09a96f64-621d-43bd-855a-cab713820aa0\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Хорошо читаешь дядька, больше бы ПОКАЗАТЕЛЬНЫХ моментов, чтобы понимать твои способности ",
+        "scoredAt": "2026-10-15T00:53:32.316Z",
+        "userId": "09a96f64-621d-43bd-855a-cab713820aa0"
+      }
+    },
+    {
+      "id": "b6e3e3e31e1724fa2df374a246d6bea6476126f027ffe30c3a709707b8282bac",
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "sourceScoredAt": "2026-10-15T00:55:06.341Z",
+      "key": "[\"9f0c4feb-3a24-487a-8394-038a4e463ad1\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Палмдропов ? эээ звучит похоже\nТехнично, больше синергии бы с битом и послушать чо дальше сделать сможешь ",
+        "scoredAt": "2026-10-15T00:55:06.341Z",
+        "userId": "9f0c4feb-3a24-487a-8394-038a4e463ad1"
+      }
     }
   ],
   "snapshots": [
@@ -91501,6 +91613,26 @@
           "index": 27.810166688655393,
           "favor": 18.6247311827957,
           "attention": -2.2728978274736407,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T01:02:23.885Z",
+      "exportedAt": "2026-10-15T01:02:23.885Z",
+      "scores": 9416,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.291658644419996,
+          "favor": 9.914140442681113,
+          "attention": 6.292411818760161,
+          "respect": 7.085106382978723
+        },
+        "veterans": {
+          "index": 27.836781925958626,
+          "favor": 18.626808480160435,
+          "attention": -2.248359887535145,
           "respect": 11.458333333333334
         }
       }

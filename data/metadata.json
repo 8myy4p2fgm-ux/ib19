@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T00:52:16.070Z",
-  "exportedAt": "2026-10-15T00:52:16.070Z",
-  "runId": "2026-10-15T00:52:16.070Z",
-  "forumExportedAt": "2026-10-15T00:52:16.070Z",
+  "lastSuccessfulAt": "2026-10-15T01:02:23.885Z",
+  "exportedAt": "2026-10-15T01:02:23.885Z",
+  "runId": "2026-10-15T01:02:23.885Z",
+  "forumExportedAt": "2026-10-15T01:02:23.885Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9408,
+    "scores": 9416,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 7,
+    "participantsWithNewScores": 8,
     "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9149,
-    "scoresBefore": 9401,
-    "scoresAfter": 9408,
-    "fullBaselineRequests": 3042,
-    "requestReductionPercent": 99.70414201183432,
+    "logicalRequests": 11,
+    "durationMs": 11279,
+    "scoresBefore": 9408,
+    "scoresAfter": 9416,
+    "fullBaselineRequests": 3043,
+    "requestReductionPercent": 99.63851462372658,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "clownkai",
+          "comment": "читаешь как инстасамка + рам ( который мартовен)\n",
+          "scoredAt": "2026-10-15T01:01:44.335Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "рачии",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:00:48.354Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Энтони Хип-Хопкинс",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:00:28.708Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "БИЛЛИ РУКАМИ",
+          "comment": "понял принял!\nАвансом",
+          "scoredAt": "2026-10-15T00:59:26.552Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Гойдный",
+          "comment": "Палмдропов ? эээ звучит похоже\nТехнично, больше синергии бы с битом и послушать чо дальше сделать сможешь ",
+          "scoredAt": "2026-10-15T00:55:06.341Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "БОРЯЛОЕР",
+          "comment": "Хорошо читаешь дядька, больше бы ПОКАЗАТЕЛЬНЫХ моментов, чтобы понимать твои способности ",
+          "scoredAt": "2026-10-15T00:53:32.316Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Ваня Епты",
+          "comment": "ну спасибо, что хоть 4 строчки написал! ",
+          "scoredAt": "2026-10-15T00:52:26.781Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -136,55 +185,6 @@
           "artist": "EBOSKE",
           "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
           "scoredAt": "2026-10-15T00:41:31.348Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "gacy",
-          "comment": "Мое очко кудрявое \nПобрей его скорей же! АХАХФЫАХФЫАХФЫХАХФ\n\nза идею 4, за рэп 3, за очко БАЛЛ!!!!!\n",
-          "scoredAt": "2026-10-15T00:41:03.024Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "INCLUS",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T00:39:47.440Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "NOPVER",
-          "comment": "НУ ЭПИК НУ ЭПИК, ещё бы рэпа не было на бите и вообще эпично было брат\n\nты не вывозишь такое музло, давай это... во 2 раунде постарайся повыделять, поагрессивнее сделать и песенно прям со сведосиком. ",
-          "scoredAt": "2026-10-15T00:38:54.967Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "БЭДБАРС ГРАФ",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T00:37:24.625Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "artist": "MYDAO",
-          "comment": "а стильно звучит\nКрутой какой-то! Во 2 давай побольше куплета и фишечек в нём ",
-          "scoredAt": "2026-10-15T00:36:40.064Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "димантаж",
-          "comment": "Что-то невероятно странное, особенно по рифмам \nпоганка - банка - изнанка \nнадеюсь это новый гоуйстрайт для бьянки, чтобы она спела про склянку, скоблянку, не забывала сменку и сметанку, кушала по утрам манку и слушала МАМу) ",
-          "scoredAt": "2026-10-15T00:35:44.302Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "ДИММИН",
-          "comment": "Приятно читаешь, не хватило какого-то развития по читке, каких-то смен топлайнов в куплетах.\nПрипев тоже ничо , если б ещё сведосик был) на 2 постарайся \n",
-          "scoredAt": "2026-10-15T00:32:55.109Z"
         }
       ]
     }
