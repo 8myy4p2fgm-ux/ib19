@@ -92544,6 +92544,230 @@
         "scoredAt": "2026-10-15T09:31:22.765Z",
         "userId": "ccc4e26d-2e6e-459f-80c9-e6ec0e798bc0"
       }
+    },
+    {
+      "id": "a3280e3d362704392e263376a3f67b1c3ea1f3fbaa56529009be135ab2ec7c34",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:32:53.458Z",
+      "key": "[\"cd91cbf5-32df-4330-a002-0195ee324379\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Спасибо, что греешь мою жопу.\n\nЖалко, что козыря не вскрыл, возможно с ними оценка была бы выше. Читаешь уверенно, а текст пустой.",
+        "scoredAt": "2026-10-15T09:32:53.458Z",
+        "userId": "cd91cbf5-32df-4330-a002-0195ee324379"
+      }
+    },
+    {
+      "id": "d3ed196179a0511f22bda736847c597055f0cc02ccdb612e41f3084cec3ee08a",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:36:02.703Z",
+      "key": "[\"e486658a-eb41-4c27-a869-cf9b52438556\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Переизбыток торопливости, но с задачаей вроде справляешься.",
+        "scoredAt": "2026-10-15T09:36:02.703Z",
+        "userId": "e486658a-eb41-4c27-a869-cf9b52438556"
+      }
+    },
+    {
+      "id": "90225e4856e767e9a9b5c83e3a0eddd49c2d5ca7ab8b66a10e0e06dc72c58c7c",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:38:52.126Z",
+      "key": "[\"5133faf7-fda6-47d8-ad6b-fc5210ec96b2\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:38:52.126Z",
+        "userId": "5133faf7-fda6-47d8-ad6b-fc5210ec96b2"
+      }
+    },
+    {
+      "id": "d1909aa950e57b235a16d046afc6d4b487eea9c74f613aac4143406bd96ca59f",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:37:01.515Z",
+      "key": "[\"6b5b0eec-fae2-423e-9bc6-325f586f4d82\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:37:01.515Z",
+        "userId": "6b5b0eec-fae2-423e-9bc6-325f586f4d82"
+      }
+    },
+    {
+      "id": "eca55b9413ed3137c9085980eb9dc2ebaf43ae5b248e864d646c5da128d23219",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:34:36.013Z",
+      "key": "[\"01afdd38-632d-4d02-8aa0-63d13795ddc7\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Посыл хорош, понимаю о чём ты, но, к сожалению, тут нет настолько выверенного стилька, чтобы закрыть глаза на не самое разнообразное исполнение и отсутствие каких-то вау эффектов по тексту. Это неплохая работа, но я бы не сказал, что тут прям огромная работа проделана. Просто раздал жизы типо.",
+        "scoredAt": "2026-10-15T09:34:36.013Z",
+        "userId": "01afdd38-632d-4d02-8aa0-63d13795ddc7"
+      }
+    },
+    {
+      "id": "731147f54dff3e66b8bf4e965b8f47bf69e409338777e1afe3e87ff23ae33aeb",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:34:26.564Z",
+      "key": "[\"e722d34c-aaf4-45eb-a21d-5a52480e4a02\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:34:26.564Z",
+        "userId": "e722d34c-aaf4-45eb-a21d-5a52480e4a02"
+      }
+    },
+    {
+      "id": "beb72a2584352df3268fc1c607c1a1f0b445c119b746ad8b8ade1be034ae0801",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:33:31.947Z",
+      "key": "[\"28f20d21-c843-47e8-8d14-31a9a9bb31c9\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:33:31.947Z",
+        "userId": "28f20d21-c843-47e8-8d14-31a9a9bb31c9"
+      }
+    },
+    {
+      "id": "3b19384a6957b2078aae67a1b3bef9fff5786f2bc40b8e6ad14f60830d23803f",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:38:11.865Z",
+      "key": "[\"c831759a-1ac3-48c0-873c-53025c1f8d80\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Прикольно",
+        "scoredAt": "2026-10-15T09:38:11.865Z",
+        "userId": "c831759a-1ac3-48c0-873c-53025c1f8d80"
+      }
+    },
+    {
+      "id": "1349b55450579edb1a9e6c6bd8a8eac15a11cbced60349f0deeebe576f601c64",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:32:31.824Z",
+      "key": "[\"4d729044-7c22-40d4-b6e2-42d18d1e2b84\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Эх, качества б",
+        "scoredAt": "2026-10-15T09:32:31.824Z",
+        "userId": "4d729044-7c22-40d4-b6e2-42d18d1e2b84"
+      }
+    },
+    {
+      "id": "d7f3f86c1fcf0b365ff38e71101ccc656ea85690d9c84b336ef58b4115ba19af",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:41:24.836Z",
+      "key": "[\"3e3ff3c2-0755-48ab-869c-804a580c642b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:41:24.836Z",
+        "userId": "3e3ff3c2-0755-48ab-869c-804a580c642b"
+      }
+    },
+    {
+      "id": "4068b1e061b09dbeb48f512a55bb813f072d1398d03c16f78113908a7c45df0b",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:39:49.460Z",
+      "key": "[\"ea226567-2d29-4fe8-a74a-43568b857c59\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:39:49.460Z",
+        "userId": "ea226567-2d29-4fe8-a74a-43568b857c59"
+      }
+    },
+    {
+      "id": "c1cf0170cef7007ff386c6fefd31009087e11797ca40039e6da07f1bb5a7508a",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:35:18.260Z",
+      "key": "[\"c58bdb85-155f-4281-8e62-1b2e001d43ff\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:35:18.260Z",
+        "userId": "c58bdb85-155f-4281-8e62-1b2e001d43ff"
+      }
+    },
+    {
+      "id": "99c7d0b3829d771b607c3c530cab3f0f2be513e7b6e7fe375604f6632cdd7602",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:37:50.622Z",
+      "key": "[\"9787c17f-8b7e-4e7f-8a82-321758241a60\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Качество опечалило. Данная стилистика исполнения предполагает жирное звучание. Пока же слишком сыро.",
+        "scoredAt": "2026-10-15T09:37:50.622Z",
+        "userId": "9787c17f-8b7e-4e7f-8a82-321758241a60"
+      }
+    },
+    {
+      "id": "90cba6f20f3b24049066c2ebab619b78ff11a110f0d7b4a46fd1975788854a21",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:40:28.809Z",
+      "key": "[\"f264f8bb-3bc1-4018-87f2-8bfe089f794f\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Стиль и рифмы присутствуют. Идёт дальше.",
+        "scoredAt": "2026-10-15T09:40:28.809Z",
+        "userId": "f264f8bb-3bc1-4018-87f2-8bfe089f794f"
+      }
+    },
+    {
+      "id": "579f88b3eb2f43fcf9aec988343b6e3615162eea53d79d9c78baa9cb721dd5a5",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:42:14.349Z",
+      "key": "[\"eb847b27-a9a8-4a7c-a90f-48192c7148f9\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:42:14.349Z",
+        "userId": "eb847b27-a9a8-4a7c-a90f-48192c7148f9"
+      }
+    },
+    {
+      "id": "f4ff4853304d3b83e30fbd333882a7acd546ff429a3299130c7e64b1179342df",
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "sourceScoredAt": "2026-10-15T09:36:02.840Z",
+      "key": "[\"e80560cb-eb8b-432c-a86a-b6483c7e5a42\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-15T09:36:02.840Z",
+        "userId": "e80560cb-eb8b-432c-a86a-b6483c7e5a42"
+      }
     }
   ],
   "snapshots": [
@@ -94943,6 +95167,26 @@
           "index": 28.197975170248156,
           "favor": 18.577510610684346,
           "attention": -1.8378687737695234,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T09:42:22.478Z",
+      "exportedAt": "2026-10-15T09:42:22.478Z",
+      "scores": 9627,
+      "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
+      "indices": {
+        "forum": {
+          "index": 23.497293694035644,
+          "favor": 9.807113373966061,
+          "attention": 6.635095574306871,
+          "respect": 7.055084745762712
+        },
+        "veterans": {
+          "index": 28.253054052004842,
+          "favor": 18.581652484504673,
+          "attention": -1.7869317658331645,
           "respect": 11.458333333333334
         }
       }

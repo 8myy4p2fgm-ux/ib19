@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T09:32:29.654Z",
+  "exportedAt": "2026-10-15T09:42:22.478Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -2869,8 +2869,14 @@
     },
     {
       "userId": "cd91cbf5-32df-4330-a002-0195ee324379",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Спасибо, что греешь мою жопу.\n\nЖалко, что козыря не вскрыл, возможно с ними оценка была бы выше. Читаешь уверенно, а текст пустой.",
+          "scoredAt": "2026-10-15T09:32:53.458Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -2896,7 +2902,7 @@
           "scoredAt": "2026-08-31T18:55:17.805Z"
         }
       ],
-      "fetchedAt": "2026-10-14T18:32:19.754Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -6103,8 +6109,14 @@
     },
     {
       "userId": "e486658a-eb41-4c27-a869-cf9b52438556",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Переизбыток торопливости, но с задачаей вроде справляешься.",
+          "scoredAt": "2026-10-15T09:36:02.703Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -6118,7 +6130,7 @@
           "scoredAt": "2026-09-08T15:59:54.862Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -11043,8 +11055,14 @@
     },
     {
       "userId": "5133faf7-fda6-47d8-ad6b-fc5210ec96b2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:38:52.126Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -11058,7 +11076,7 @@
           "scoredAt": "2026-09-05T18:42:38.735Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:32:12.851Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -18129,8 +18147,14 @@
     },
     {
       "userId": "6b5b0eec-fae2-423e-9bc6-325f586f4d82",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:37:01.515Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -18150,7 +18174,7 @@
           "scoredAt": "2026-10-09T10:37:37.821Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -24142,8 +24166,14 @@
     },
     {
       "userId": "01afdd38-632d-4d02-8aa0-63d13795ddc7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Посыл хорош, понимаю о чём ты, но, к сожалению, тут нет настолько выверенного стилька, чтобы закрыть глаза на не самое разнообразное исполнение и отсутствие каких-то вау эффектов по тексту. Это неплохая работа, но я бы не сказал, что тут прям огромная работа проделана. Просто раздал жизы типо.",
+          "scoredAt": "2026-10-15T09:34:36.013Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -24163,7 +24193,7 @@
           "scoredAt": "2026-08-30T21:55:44.922Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -31148,8 +31178,14 @@
     },
     {
       "userId": "e722d34c-aaf4-45eb-a21d-5a52480e4a02",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:34:26.564Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -31169,7 +31205,7 @@
           "scoredAt": "2026-09-15T14:14:44.947Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -39843,9 +39879,16 @@
     },
     {
       "userId": "28f20d21-c843-47e8-8d14-31a9a9bb31c9",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:33:31.947Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -40942,8 +40985,14 @@
     },
     {
       "userId": "c831759a-1ac3-48c0-873c-53025c1f8d80",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Прикольно",
+          "scoredAt": "2026-10-15T09:38:11.865Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -40963,7 +41012,7 @@
           "scoredAt": "2026-10-12T18:54:54.412Z"
         }
       ],
-      "fetchedAt": "2026-10-15T01:22:16.647Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -41995,8 +42044,14 @@
     },
     {
       "userId": "4d729044-7c22-40d4-b6e2-42d18d1e2b84",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Эх, качества б",
+          "scoredAt": "2026-10-15T09:32:31.824Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -42016,7 +42071,7 @@
           "scoredAt": "2026-10-05T18:39:24.633Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -53286,8 +53341,14 @@
     },
     {
       "userId": "3e3ff3c2-0755-48ab-869c-804a580c642b",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:41:24.836Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -53295,7 +53356,7 @@
           "scoredAt": "2026-10-13T17:11:08.377Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -56146,8 +56207,14 @@
     },
     {
       "userId": "ea226567-2d29-4fe8-a74a-43568b857c59",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:39:49.460Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 2,
@@ -56155,7 +56222,7 @@
           "scoredAt": "2026-10-12T18:57:03.419Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -68657,8 +68724,14 @@
     },
     {
       "userId": "c58bdb85-155f-4281-8e62-1b2e001d43ff",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:35:18.260Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -68678,7 +68751,7 @@
           "scoredAt": "2026-09-06T18:57:11.904Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -68721,8 +68794,14 @@
     },
     {
       "userId": "9787c17f-8b7e-4e7f-8a82-321758241a60",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Качество опечалило. Данная стилистика исполнения предполагает жирное звучание. Пока же слишком сыро.",
+          "scoredAt": "2026-10-15T09:37:50.622Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -68742,7 +68821,7 @@
           "scoredAt": "2026-10-06T18:19:02.358Z"
         }
       ],
-      "fetchedAt": "2026-10-15T07:02:25.886Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -72326,8 +72405,14 @@
     },
     {
       "userId": "f264f8bb-3bc1-4018-87f2-8bfe089f794f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Стиль и рифмы присутствуют. Идёт дальше.",
+          "scoredAt": "2026-10-15T09:40:28.809Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -72341,7 +72426,7 @@
           "scoredAt": "2026-10-09T13:55:59.236Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:02:18.813Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -72580,8 +72665,14 @@
     },
     {
       "userId": "eb847b27-a9a8-4a7c-a90f-48192c7148f9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:42:14.349Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -72589,7 +72680,7 @@
           "scoredAt": "2026-10-13T23:33:34.780Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
@@ -82910,9 +83001,16 @@
     },
     {
       "userId": "e80560cb-eb8b-432c-a86a-b6483c7e5a42",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-15T09:36:02.840Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T09:42:22.478Z",
       "current": true
     },
     {
