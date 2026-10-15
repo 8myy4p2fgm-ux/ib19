@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-15T17:42:28.233Z",
+  "exportedAt": "2026-10-15T17:52:25.005Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3003,6 +3003,12 @@
       "userId": "66caebea-d33d-4ff6-951c-91ed9d93c4be",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Стиль текста симбиоз Дяди Жени и Катровасера, хорошо прописано, интересно, а вот с подачей и сведением нужно что-то делать. ",
+          "scoredAt": "2026-10-15T17:48:15.317Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
