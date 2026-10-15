@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T01:22:16.647Z",
-  "exportedAt": "2026-10-15T01:22:16.647Z",
-  "runId": "2026-10-15T01:22:16.647Z",
-  "forumExportedAt": "2026-10-15T01:22:16.647Z",
+  "lastSuccessfulAt": "2026-10-15T04:52:09.407Z",
+  "exportedAt": "2026-10-15T04:52:09.407Z",
+  "runId": "2026-10-15T04:52:09.407Z",
+  "forumExportedAt": "2026-10-15T04:52:09.407Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9434,
+    "scores": 9435,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 11960,
-    "scoresBefore": 9424,
-    "scoresAfter": 9434,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3123,
+    "scoresBefore": 9434,
+    "scoresAfter": 9435,
     "fullBaselineRequests": 3047,
-    "requestReductionPercent": 99.60617000328192,
+    "requestReductionPercent": 99.90154250082048,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "44364356456",
+          "comment": "Бочка долбит как надо - настоящий трэп. По исполнению очень вяло. На записи все заклиповало и задулось твоими мощными легкими. Из-за звука текст вообще не заходит, да и сам текст очень слабый. Работай, я думаю у тебя все должно получится.",
+          "scoredAt": "2026-10-15T04:49:56.450Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -178,13 +185,6 @@
           "artist": "Royzik",
           "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
           "scoredAt": "2026-10-15T01:07:36.395Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "one of three",
-          "comment": "Слабовато, но потанцевал виден. \nСвёл бы песенку и вышло на +балл точно, если не на 2",
-          "scoredAt": "2026-10-15T01:07:04.293Z"
         }
       ]
     }
