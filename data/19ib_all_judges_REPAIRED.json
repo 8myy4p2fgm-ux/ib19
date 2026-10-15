@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-14T23:52:12.741Z",
+  "exportedAt": "2026-10-15T00:02:11.968Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -13116,8 +13116,14 @@
     },
     {
       "userId": "f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Сори, я не знаю чем зацепило остальных\nЯ послушал работу, потом переслушал с мыслями \" НУ МОЖЕТ Я ЧОТ НЕ ПОНЯЛ\"\nНеплохо, но не более. \n",
+          "scoredAt": "2026-10-14T23:56:28.922Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -13137,7 +13143,7 @@
           "scoredAt": "2026-09-15T18:43:53.406Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T00:02:11.968Z",
       "current": true
     },
     {
@@ -28283,8 +28289,14 @@
     },
     {
       "userId": "7cd69974-ebee-49a1-a133-b7de0f3fd8c8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "блин в конце уже хотелось кислородный баллон заказывать. \nну ты даёшь, нарифмовал а нарифмовал ёмае...\n",
+          "scoredAt": "2026-10-14T23:58:07.575Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -28304,7 +28316,7 @@
           "scoredAt": "2026-09-05T13:54:46.763Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T00:02:11.968Z",
       "current": true
     },
     {
@@ -65907,8 +65919,14 @@
     },
     {
       "userId": "812ef0a9-015f-47b2-bef8-9ee4103dfef6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Неплохо, не хватило какого-то более серьёзного отношения \n",
+          "scoredAt": "2026-10-15T00:00:02.935Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -65928,7 +65946,7 @@
           "scoredAt": "2026-09-07T16:42:17.489Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-15T00:02:11.968Z",
       "current": true
     },
     {

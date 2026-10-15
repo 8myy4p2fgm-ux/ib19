@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-14T23:52:12.741Z",
-  "exportedAt": "2026-10-14T23:52:12.741Z",
-  "runId": "2026-10-14T23:52:12.741Z",
-  "forumExportedAt": "2026-10-14T23:52:12.741Z",
+  "lastSuccessfulAt": "2026-10-15T00:02:11.968Z",
+  "exportedAt": "2026-10-15T00:02:11.968Z",
+  "runId": "2026-10-15T00:02:11.968Z",
+  "forumExportedAt": "2026-10-15T00:02:11.968Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9373,
+    "scores": 9376,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 10667,
-    "scoresBefore": 9364,
-    "scoresAfter": 9373,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5105,
+    "scoresBefore": 9373,
+    "scoresAfter": 9376,
     "fullBaselineRequests": 3039,
-    "requestReductionPercent": 99.63803882856203,
+    "requestReductionPercent": 99.83547219480093,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Spolohov",
+          "comment": "Неплохо, не хватило какого-то более серьёзного отношения \n",
+          "scoredAt": "2026-10-15T00:00:02.935Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "ZLOY",
+          "comment": "блин в конце уже хотелось кислородный баллон заказывать. \nну ты даёшь, нарифмовал а нарифмовал ёмае...\n",
+          "scoredAt": "2026-10-14T23:58:07.575Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Боргес (33)",
+          "comment": "Сори, я не знаю чем зацепило остальных\nЯ послушал работу, потом переслушал с мыслями \" НУ МОЖЕТ Я ЧОТ НЕ ПОНЯЛ\"\nНеплохо, но не более. \n",
+          "scoredAt": "2026-10-14T23:56:28.922Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -164,27 +185,6 @@
           "artist": "ха-ха-харви",
           "comment": "Отлично! Сердито, уверенно!",
           "scoredAt": "2026-10-14T23:40:04.518Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "roha",
-          "comment": "По тексту и структуре неплохо брат, но начитываешь это как-то не очень уверенно и слишком ровно, дай огня больше во 2 ",
-          "scoredAt": "2026-10-14T23:39:22.133Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Stas L'artiste",
-          "comment": "Бит решает.\nОтсутствие эмоций не решает.\nНо знаешь, есть какая-то изюминка, харизма в тебе.\nОценка 3,5 по справедливости, но что-то как-то навайбил на 4.\n",
-          "scoredAt": "2026-10-14T23:39:18.765Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Lazo",
-          "comment": "Исполнение надо качать. Точнее качество.\nТекст хороший.",
-          "scoredAt": "2026-10-14T23:38:00.751Z"
         }
       ]
     }

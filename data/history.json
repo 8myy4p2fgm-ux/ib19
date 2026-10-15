@@ -89212,6 +89212,48 @@
         "scoredAt": "2026-10-14T23:42:31.815Z",
         "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878"
       }
+    },
+    {
+      "id": "4bf93f05133c13e63a730990114b68712c69b564f2325b07f176ac4368030c29",
+      "observedAt": "2026-10-15T00:02:11.968Z",
+      "sourceScoredAt": "2026-10-14T23:56:28.922Z",
+      "key": "[\"f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Сори, я не знаю чем зацепило остальных\nЯ послушал работу, потом переслушал с мыслями \" НУ МОЖЕТ Я ЧОТ НЕ ПОНЯЛ\"\nНеплохо, но не более. \n",
+        "scoredAt": "2026-10-14T23:56:28.922Z",
+        "userId": "f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d"
+      }
+    },
+    {
+      "id": "06c0122110f3b3810420fc1033575a8f667049c6e1ae2496e57d9048f8deae67",
+      "observedAt": "2026-10-15T00:02:11.968Z",
+      "sourceScoredAt": "2026-10-14T23:58:07.575Z",
+      "key": "[\"7cd69974-ebee-49a1-a133-b7de0f3fd8c8\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "блин в конце уже хотелось кислородный баллон заказывать. \nну ты даёшь, нарифмовал а нарифмовал ёмае...\n",
+        "scoredAt": "2026-10-14T23:58:07.575Z",
+        "userId": "7cd69974-ebee-49a1-a133-b7de0f3fd8c8"
+      }
+    },
+    {
+      "id": "babe44216177f9f8e5f2d440d929506e8aa23c79e302f8bf460b8a8c83b33394",
+      "observedAt": "2026-10-15T00:02:11.968Z",
+      "sourceScoredAt": "2026-10-15T00:00:02.935Z",
+      "key": "[\"812ef0a9-015f-47b2-bef8-9ee4103dfef6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Неплохо, не хватило какого-то более серьёзного отношения \n",
+        "scoredAt": "2026-10-15T00:00:02.935Z",
+        "userId": "812ef0a9-015f-47b2-bef8-9ee4103dfef6"
+      }
     }
   ],
   "snapshots": [
@@ -90891,6 +90933,26 @@
           "index": 27.69417303564414,
           "favor": 18.616612700125923,
           "attention": -2.3807729978151135,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T00:02:11.968Z",
+      "exportedAt": "2026-10-15T00:02:11.968Z",
+      "scores": 9376,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.484251193508136,
+          "favor": 9.963103512108107,
+          "attention": 6.405763066015412,
+          "respect": 7.115384615384615
+        },
+        "veterans": {
+          "index": 27.70160786519164,
+          "favor": 18.61476765932959,
+          "attention": -2.371493127471286,
           "respect": 11.458333333333334
         }
       }
