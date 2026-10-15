@@ -92222,6 +92222,132 @@
         "scoredAt": "2026-10-15T09:10:54.338Z",
         "userId": "0eb391e3-088e-48b6-b138-bb0487f1c738"
       }
+    },
+    {
+      "id": "6458b6f0f0aa9e90819eb2d474b7fe910e93cd44199ec28c9f81f738ab3bc04e",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:19:31.102Z",
+      "key": "[\"6f06b938-18a0-49ca-a0f8-9789ef6e1b66\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Текст слабоват",
+        "scoredAt": "2026-10-15T09:19:31.102Z",
+        "userId": "6f06b938-18a0-49ca-a0f8-9789ef6e1b66"
+      }
+    },
+    {
+      "id": "210165ce9e17f6d42a1800806264bd9808bd4c0cca4b555954332d81630380f8",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:16:21.358Z",
+      "key": "[\"ce015c36-efb0-4387-a4da-6f8f92c6b6e3\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Тот самый случай, когда грязь подается мощно и уверенно. Кайфово и качово. Закрываются глаза на простой текст и рука сама тянется поставить вышку. Если пройдешь, то буду ждать от тебя что-нибудь еще кроме грязюки.",
+        "scoredAt": "2026-10-15T09:16:21.358Z",
+        "userId": "ce015c36-efb0-4387-a4da-6f8f92c6b6e3"
+      }
+    },
+    {
+      "id": "2673e914d2dacce0e2db11e4039378168f13658551734deaaa23ce95fd5c7bdc",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:12:42.574Z",
+      "key": "[\"a5f64a24-262b-40b2-880d-32296721428c\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Сырое очень произведение",
+        "scoredAt": "2026-10-15T09:12:42.574Z",
+        "userId": "a5f64a24-262b-40b2-880d-32296721428c"
+      }
+    },
+    {
+      "id": "90ee785dfe7397f50a40ee357b95e4d750a6fa06a87553fa98c5b17815330c57",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:20:19.606Z",
+      "key": "[\"0ffca20b-0189-422a-a70a-1ce3fab26a13\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Гэнста",
+        "scoredAt": "2026-10-15T09:20:19.606Z",
+        "userId": "0ffca20b-0189-422a-a70a-1ce3fab26a13"
+      }
+    },
+    {
+      "id": "9991f693e7156a92bf4a23acad726c9df83aa7e527636ae5a58fd368fcbb7294",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:19:22.527Z",
+      "key": "[\"c4099ed7-033e-4628-8694-23d709a76482\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Круто подаешь, но все как-то грязно и сыро по звуку",
+        "scoredAt": "2026-10-15T09:19:22.527Z",
+        "userId": "c4099ed7-033e-4628-8694-23d709a76482"
+      }
+    },
+    {
+      "id": "19d5a4efc047a8a5238c89bc482059cdb5572089a44b8089f9aaeb26112d38a4",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:15:22.871Z",
+      "key": "[\"99aa9ebc-8f9e-4ae0-94c5-def32ed6fb15\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Как-то подаешь так, как будто тебе тяжело читать, получается как-то грязно по голосу, дикция слабая. В целом чувствуется стилек, думаю будешь продолжать развивать то все будет охуенно",
+        "scoredAt": "2026-10-15T09:15:22.871Z",
+        "userId": "99aa9ebc-8f9e-4ae0-94c5-def32ed6fb15"
+      }
+    },
+    {
+      "id": "fc9615581a26bbc2c83864137ff1485837671c240ecce733d12b5c8cfb6f7767",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:21:24.885Z",
+      "key": "[\"0c382263-2a81-4942-bd44-5e0598d91293\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "Тема",
+        "scoredAt": "2026-10-15T09:21:24.885Z",
+        "userId": "0c382263-2a81-4942-bd44-5e0598d91293"
+      }
+    },
+    {
+      "id": "b2bc7e39627dde8960107f51f49215de206c9dc39732028e85f89b1cf8784b6a",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:21:35.383Z",
+      "key": "[\"ab16f1d2-0227-4f03-930d-822784130d91\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-15T09:21:35.383Z",
+        "userId": "ab16f1d2-0227-4f03-930d-822784130d91"
+      }
+    },
+    {
+      "id": "58df8d685fe470f71814eff987efb2c173fec98b16062c362a8dc4b5887a6f98",
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "sourceScoredAt": "2026-10-15T09:17:33.147Z",
+      "key": "[\"9f0c4feb-3a24-487a-8394-038a4e463ad1\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Забавная тема",
+        "scoredAt": "2026-10-15T09:17:33.147Z",
+        "userId": "9f0c4feb-3a24-487a-8394-038a4e463ad1"
+      }
     }
   ],
   "snapshots": [
@@ -94581,6 +94707,26 @@
           "index": 28.136854719051513,
           "favor": 18.576476793248943,
           "attention": -1.8979554075307614,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T09:22:19.243Z",
+      "exportedAt": "2026-10-15T09:22:19.243Z",
+      "scores": 9597,
+      "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
+      "indices": {
+        "forum": {
+          "index": 23.444602900626332,
+          "favor": 9.802937358206334,
+          "attention": 6.586580796657286,
+          "respect": 7.055084745762712
+        },
+        "veterans": {
+          "index": 28.163168231594554,
+          "favor": 18.57743176309411,
+          "attention": -1.8725968648328897,
           "respect": 11.458333333333334
         }
       }
