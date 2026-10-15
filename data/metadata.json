@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:52:04.164Z",
-  "exportedAt": "2026-10-15T05:52:04.164Z",
-  "runId": "2026-10-15T05:52:04.164Z",
-  "forumExportedAt": "2026-10-15T05:52:04.164Z",
+  "lastSuccessfulAt": "2026-10-15T06:02:10.128Z",
+  "exportedAt": "2026-10-15T06:02:10.128Z",
+  "runId": "2026-10-15T06:02:10.128Z",
+  "forumExportedAt": "2026-10-15T06:02:10.128Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9448,
+    "scores": 9449,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3983,
-    "scoresBefore": 9446,
-    "scoresAfter": 9448,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3254,
+    "scoresBefore": 9448,
+    "scoresAfter": 9449,
     "fullBaselineRequests": 3048,
-    "requestReductionPercent": 99.86876640419948,
+    "requestReductionPercent": 99.9015748031496,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Haruken",
+          "comment": "Зачем ты так рифму выделяешь в конце каждой строчки, может, стоит попробовать не так в лоб слушателю рифмовать?",
+          "scoredAt": "2026-10-15T05:59:17.998Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -178,13 +185,6 @@
           "artist": "44364356456",
           "comment": "Бочка долбит как надо - настоящий трэп. По исполнению очень вяло. На записи все заклиповало и задулось твоими мощными легкими. Из-за звука текст вообще не заходит, да и сам текст очень слабый. Работай, я думаю у тебя все должно получится.",
           "scoredAt": "2026-10-15T04:49:56.450Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Nedelia",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:20:54.175Z"
         }
       ]
     }
