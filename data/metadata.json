@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T19:02:28.909Z",
-  "exportedAt": "2026-10-15T19:02:28.909Z",
-  "runId": "2026-10-15T19:02:28.909Z",
-  "forumExportedAt": "2026-10-15T19:02:28.909Z",
+  "lastSuccessfulAt": "2026-10-15T19:12:21.250Z",
+  "exportedAt": "2026-10-15T19:12:21.250Z",
+  "runId": "2026-10-15T19:12:21.250Z",
+  "forumExportedAt": "2026-10-15T19:12:21.250Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10386,
+    "scores": 10394,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 11,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 11,
-    "changedParticipants": 11,
-    "logicalRequests": 13,
-    "durationMs": 13481,
-    "scoresBefore": 10375,
-    "scoresAfter": 10386,
-    "fullBaselineRequests": 3118,
-    "requestReductionPercent": 99.58306606799229,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10188,
+    "scoresBefore": 10386,
+    "scoresAfter": 10394,
+    "fullBaselineRequests": 3119,
+    "requestReductionPercent": 99.67938441808272,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "АРОМАМАСЛАВ",
+          "comment": "Что это такое было в конце? В кал насрал и весь трек себе засрал ",
+          "scoredAt": "2026-10-15T19:11:50.342Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Раххбельд",
+          "comment": "Лучший ",
+          "scoredAt": "2026-10-15T19:09:49.991Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "kaliano",
+          "comment": "С такими рифмами во втором делать нечего. ",
+          "scoredAt": "2026-10-15T19:08:07.801Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "SlepokPasti",
+          "comment": "заключительный стрим разбор 25",
+          "scoredAt": "2026-10-15T19:06:12.856Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "mrexx",
+          "comment": "",
+          "scoredAt": "2026-10-15T19:05:21.863Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "artist": "ДВОЙНОЙ ДИАГНОЗ",
+          "comment": "Это немного Кунтеинир, конечно, но вот пример всем чувакам, которые пишут такие фановые бэдбарсики - вот исполнитель звучит аутентично и грязновато, но оч уместно для таких строк. Хочется просто и дальше слушать это, млеть под биток с аналоговым шумком и угарать с каких-то смешных комбинаций слов.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T19:04:21.643Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "INFINITIF",
+          "comment": "Слабо по всем критериям ",
+          "scoredAt": "2026-10-15T19:04:01.943Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Маруся Небесная",
+          "comment": "Нужно работать над текстами. ",
+          "scoredAt": "2026-10-15T19:02:28.983Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -129,62 +185,6 @@
           "artist": "youill",
           "comment": "ну сильно, но сведос оценки подруинит.\n\nУ тебя еще блин стиль такой, что ему звук критически прям нужен, это не околобабановская текстоцентричная читка, здесь ты много играешь голосом, делаешь свои вот эти придыхания и штробассики и когда это не звучит - непонятно, звука ли не хватает в этом или ты не доигрываешь.\n\nЯ думаю, что ты доигрываешь все же. Но 5 тут с большой натяжкой по итоговой работе, просто имаджинируем себе, как бы это было досведено.\n\nСтрим, ч. 16",
           "scoredAt": "2026-10-15T18:55:06.510Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "PsevDoniM",
-          "comment": "заключительный стрим разбор 23",
-          "scoredAt": "2026-10-15T18:54:49.309Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 1,
-          "artist": "BIGyMotya",
-          "comment": "Интересно ты относишься к биту)) Ты его нахер просто послал)))\nНу а по тексту, там всё в золотой фонд. ",
-          "scoredAt": "2026-10-15T18:54:40.663Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Gulyan",
-          "comment": "20 секунд из 50 играет музыка, потом 8 строк, у тебя творческий кризис? Мне нравится как ты исполняешь, но хочется чуть более полноценной работы. ",
-          "scoredAt": "2026-10-15T18:53:33.305Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "Дядь Дима",
-          "comment": "Вроде и есть у тебя какие-то скиллы, но случается это тяжело. ",
-          "scoredAt": "2026-10-15T18:53:08.500Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Benson Margiello",
-          "comment": "Ну это вайбит и качает однозначно. Жалко, что в тексте только грязюка. Если пройдешь, то придется писать панчи для умных. ",
-          "scoredAt": "2026-10-15T18:51:28.412Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Gaga (Dz9)",
-          "comment": "Вот так напор! Мне кажется, что ты продаёшь дороже, чем это стоит. Но я поверил, лови 4. ",
-          "scoredAt": "2026-10-15T18:51:28.301Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "kozha[мутанты squad]",
-          "comment": "",
-          "scoredAt": "2026-10-15T18:51:22.432Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "Тополь Power - М",
-          "comment": "Нужно тренироваться. ",
-          "scoredAt": "2026-10-15T18:50:31.819Z"
         }
       ]
     }
