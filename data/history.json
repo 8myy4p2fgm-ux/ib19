@@ -89604,6 +89604,104 @@
         "scoredAt": "2026-10-15T00:32:55.109Z",
         "userId": "0025ac76-291b-4d2a-9a8f-d3aef7da36a3"
       }
+    },
+    {
+      "id": "c1c3e4c673393830a411193cead90405acdf374086af64f75f9919a7f963a12c",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:43:33.601Z",
+      "key": "[\"8f2561ec-a3f8-4c38-bdcd-a52d96ebc36b\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "За драники + балл, аж захотелось покушац!\nПриятно читаешь, во 2 более бы баттловое что-то, а так неплохо читаешь, приятно складываешь текст в рифмованные строчки ",
+        "scoredAt": "2026-10-15T00:43:33.601Z",
+        "userId": "8f2561ec-a3f8-4c38-bdcd-a52d96ebc36b"
+      }
+    },
+    {
+      "id": "d83d51e70a9db9a264bdf63ca973730ed67499f0201750f786e71171cbc49526",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:51:40.218Z",
+      "key": "[\"e916df34-96b4-4889-b0a2-edca7ae4ff72\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "полифония ",
+        "scoredAt": "2026-10-15T00:51:40.218Z",
+        "userId": "e916df34-96b4-4889-b0a2-edca7ae4ff72"
+      }
+    },
+    {
+      "id": "d0205aad33c6e69b90d24ae7354b9daf67fcba2727a4f97d46974609961e3664",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:49:59.599Z",
+      "key": "[\"c41e3561-9e15-44c2-94d8-9da082777065\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "брат, демочка какая-то но приятная. \nОтнесись серьёзнее если пройдёшь ",
+        "scoredAt": "2026-10-15T00:49:59.599Z",
+        "userId": "c41e3561-9e15-44c2-94d8-9da082777065"
+      }
+    },
+    {
+      "id": "7bd9ee682bca65bb5f4317bb9ce7408add263054053580c1577507b1068f81b6",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:51:06.872Z",
+      "key": "[\"e1d94c27-3f49-482b-b874-e54481baea3a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Голос кайфовый, но как-то техничности не хватило до оценки выше. Проход но не в тузах xD ",
+        "scoredAt": "2026-10-15T00:51:06.872Z",
+        "userId": "e1d94c27-3f49-482b-b874-e54481baea3a"
+      }
+    },
+    {
+      "id": "2035a55b725ad3c1a444e36d5c6898ab3595ffcae57e6a65ba47aab436ef9da1",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:47:40.503Z",
+      "key": "[\"dd869596-05b5-4cf1-b067-6f52a07479ac\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Пожалуйста... не надо больше дрилла =( ",
+        "scoredAt": "2026-10-15T00:47:40.503Z",
+        "userId": "dd869596-05b5-4cf1-b067-6f52a07479ac"
+      }
+    },
+    {
+      "id": "58a3062cbd5244cf453e89034abd0bf558c978a15316eaeb207264aeed82abdd",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:45:27.765Z",
+      "key": "[\"302cd802-98ab-4916-9fd8-17fcecd02220\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Это какое-то радио я поймал ? Не знал, что на лысину нынче можно поймать радиоволны, ну так себе волна\nтут какой-то рэп из подвала читают, в целом чот неплохое, но дорабатывать надо на студии канеш! ",
+        "scoredAt": "2026-10-15T00:45:27.765Z",
+        "userId": "302cd802-98ab-4916-9fd8-17fcecd02220"
+      }
+    },
+    {
+      "id": "22bbb1642d10f867d0df4ce1c1df3e6f2c8952f0eb269f3472a511fb7a537e59",
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "sourceScoredAt": "2026-10-15T00:49:03.015Z",
+      "key": "[\"69820fbc-2826-4dd4-9675-527f0f1e3cde\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "где-то видел твой никнейм\nРифмуешь приятно прям! \nЗаписать бы красиво, с ровненьким флоу и интонациями как по канонам, во 2 сделоеш ?? ",
+        "scoredAt": "2026-10-15T00:49:03.015Z",
+        "userId": "69820fbc-2826-4dd4-9675-527f0f1e3cde"
+      }
     }
   ],
   "snapshots": [
@@ -91383,6 +91481,26 @@
           "index": 27.78542678706357,
           "favor": 18.621498260339322,
           "attention": -2.2944048066090876,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T00:52:16.070Z",
+      "exportedAt": "2026-10-15T00:52:16.070Z",
+      "scores": 9408,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.272375412642273,
+          "favor": 9.912063850662559,
+          "attention": 6.275205179000991,
+          "respect": 7.085106382978723
+        },
+        "veterans": {
+          "index": 27.810166688655393,
+          "favor": 18.6247311827957,
+          "attention": -2.2728978274736407,
           "respect": 11.458333333333334
         }
       }

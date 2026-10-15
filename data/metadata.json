@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T00:42:10.402Z",
-  "exportedAt": "2026-10-15T00:42:10.402Z",
-  "runId": "2026-10-15T00:42:10.402Z",
-  "forumExportedAt": "2026-10-15T00:42:10.402Z",
+  "lastSuccessfulAt": "2026-10-15T00:52:16.070Z",
+  "exportedAt": "2026-10-15T00:52:16.070Z",
+  "runId": "2026-10-15T00:52:16.070Z",
+  "forumExportedAt": "2026-10-15T00:52:16.070Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9401,
+    "scores": 9408,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10030,
-    "scoresBefore": 9393,
-    "scoresAfter": 9401,
-    "fullBaselineRequests": 3041,
-    "requestReductionPercent": 99.67116080236764,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9149,
+    "scoresBefore": 9401,
+    "scoresAfter": 9408,
+    "fullBaselineRequests": 3042,
+    "requestReductionPercent": 99.70414201183432,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "undercat",
+          "comment": "полифония ",
+          "scoredAt": "2026-10-15T00:51:40.218Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "petrovdimm",
+          "comment": "Голос кайфовый, но как-то техничности не хватило до оценки выше. Проход но не в тузах xD ",
+          "scoredAt": "2026-10-15T00:51:06.872Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Memphis Black",
+          "comment": "брат, демочка какая-то но приятная. \nОтнесись серьёзнее если пройдёшь ",
+          "scoredAt": "2026-10-15T00:49:59.599Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Филипп Эйльхарт",
+          "comment": "где-то видел твой никнейм\nРифмуешь приятно прям! \nЗаписать бы красиво, с ровненьким флоу и интонациями как по канонам, во 2 сделоеш ?? ",
+          "scoredAt": "2026-10-15T00:49:03.015Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "install.bat",
+          "comment": "Пожалуйста... не надо больше дрилла =( ",
+          "scoredAt": "2026-10-15T00:47:40.503Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "LÁ #НОВАЯВОЛНА",
+          "comment": "Это какое-то радио я поймал ? Не знал, что на лысину нынче можно поймать радиоволны, ну так себе волна\nтут какой-то рэп из подвала читают, в целом чот неплохое, но дорабатывать надо на студии канеш! ",
+          "scoredAt": "2026-10-15T00:45:27.765Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "TREUG",
+          "comment": "За драники + балл, аж захотелось покушац!\nПриятно читаешь, во 2 более бы баттловое что-то, а так неплохо читаешь, приятно складываешь текст в рифмованные строчки ",
+          "scoredAt": "2026-10-15T00:43:33.601Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -136,55 +185,6 @@
           "artist": "ДИММИН",
           "comment": "Приятно читаешь, не хватило какого-то развития по читке, каких-то смен топлайнов в куплетах.\nПрипев тоже ничо , если б ещё сведосик был) на 2 постарайся \n",
           "scoredAt": "2026-10-15T00:32:55.109Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Amon",
-          "comment": "Вечеркалось, хливкие шорьки \nСинерялись в быской раствове, \nХрюкотались настиша вкробки \nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T00:31:15.246Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "monaxphonker",
-          "comment": "ты в конце пытаешься догнать то, что проебал в начале\nМожно же текст просто сократить. \nВо 2 тебе нужно очень много работать над песняком, если пройдёшь. \n",
-          "scoredAt": "2026-10-15T00:30:32.493Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "ОЛ УШЁЛ",
-          "comment": "а зачем тебе бит брат, ты вообще читал с ним ? \nЛучше бы бита вообще не было. ",
-          "scoredAt": "2026-10-15T00:28:48.309Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "Шпиш",
-          "comment": "это правильно",
-          "scoredAt": "2026-10-15T00:27:40.828Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "вечныйвечно",
-          "comment": "Нарифмовал норм, не особо со смыслом порой, но ладно.\nчитаешь обычно, не хватило каких-то интересностей до 4-ки ",
-          "scoredAt": "2026-10-15T00:25:30.304Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Grims",
-          "comment": "Блин, дикция конечно твоя слабая сторона. Может что-то не так с прикусом или ещё чем. \nЧитаешь вроде норм, но за плохой дикцией сложно углядеть что-то. ",
-          "scoredAt": "2026-10-15T00:24:08.144Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "GNG",
-          "comment": "технично, но не хватает этой читке музыкальности, какой-то общей структуры того, за что бы восхищал песняк\nСтавлю за потанцевал 4!",
-          "scoredAt": "2026-10-15T00:22:40.543Z"
         }
       ]
     }
