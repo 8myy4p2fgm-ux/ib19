@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:22:13.108Z",
-  "exportedAt": "2026-10-15T05:22:13.108Z",
-  "runId": "2026-10-15T05:22:13.108Z",
-  "forumExportedAt": "2026-10-15T05:22:13.108Z",
+  "lastSuccessfulAt": "2026-10-15T05:32:10.379Z",
+  "exportedAt": "2026-10-15T05:32:10.379Z",
+  "runId": "2026-10-15T05:32:10.379Z",
+  "forumExportedAt": "2026-10-15T05:32:10.379Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9442,
+    "scores": 9444,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -32,11 +32,11 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4014,
-    "scoresBefore": 9440,
-    "scoresAfter": 9442,
-    "fullBaselineRequests": 3047,
-    "requestReductionPercent": 99.8687233344273,
+    "durationMs": 4319,
+    "scoresBefore": 9442,
+    "scoresAfter": 9444,
+    "fullBaselineRequests": 3048,
+    "requestReductionPercent": 99.86876640419948,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "deli hell",
+          "comment": "Забавный рэпчик. Если прикольные заходы. Биток веселый. Но не хватает какой-то органичности. По отдельности все это смотрится классно, но когда ты собираешь это в один трек, то все это разваливается. Поставлю тройку. Попробуй найти какой-то соус, который превратит набор забавных ингредиентов во вкусный салат! ",
+          "scoredAt": "2026-10-15T05:27:09.365Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Vlad Bul",
+          "comment": "ЛЕГЕНДА. Брат, большие проблемы с ритмикой. Ты торопишься и сбиваешься через строчку. БЕЗ ИРОНИИ: ты реально яркий и интересный персонаж, ты можешь на этом прямо люто выезжать, при условии нормального исполнения. ",
+          "scoredAt": "2026-10-15T05:23:15.491Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -171,20 +185,6 @@
           "artist": "Rebel RV [МС с Клинта́ра]",
           "comment": "хмммммм крутой! ",
           "scoredAt": "2026-10-15T01:17:44.654Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Feeling Damage",
-          "comment": "гавнюк до припева думал 3 ставить...\nКак вы меня подкупаете своей музыкальностью\n\nно во 2 хуй получится же, вот рапа тут почти нет, надо подтягивать",
-          "scoredAt": "2026-10-15T01:16:42.340Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "ANKASAT",
-          "comment": "очень странная работа\n",
-          "scoredAt": "2026-10-15T01:15:25.891Z"
         }
       ]
     }
