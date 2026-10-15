@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:32:10.379Z",
-  "exportedAt": "2026-10-15T05:32:10.379Z",
-  "runId": "2026-10-15T05:32:10.379Z",
-  "forumExportedAt": "2026-10-15T05:32:10.379Z",
+  "lastSuccessfulAt": "2026-10-15T05:42:14.337Z",
+  "exportedAt": "2026-10-15T05:42:14.337Z",
+  "runId": "2026-10-15T05:42:14.337Z",
+  "forumExportedAt": "2026-10-15T05:42:14.337Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9444,
+    "scores": 9446,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4319,
-    "scoresBefore": 9442,
-    "scoresAfter": 9444,
+    "durationMs": 4323,
+    "scoresBefore": 9444,
+    "scoresAfter": 9446,
     "fullBaselineRequests": 3048,
     "requestReductionPercent": 99.86876640419948,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "АД Наконечника булавки",
+          "comment": "Сначала тупила сидела в текст, потом поняла, что это история двойного обмана по сути. Со строчек про женский оргазм и кредита, который нужно обсудить с женой выпала)) кайфанула с разнообразия подачи и необычности раскрытия в итоге. ",
+          "scoredAt": "2026-10-15T05:37:44.400Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "кириешк4",
+          "comment": "Охуенно работаешь со словом. Хорошая манера исполнения. Я сразу вспомнил про крип-а-крипа. Надеюсь, что ты пройдешь во второй и воспользуешься своим скиллом не только для репрезента, но и для какого-то раскрытия темы. Ну и если пройдешь, сгоняй на студийку и запиши все это четко, будет вообще огонь",
+          "scoredAt": "2026-10-15T05:32:42.565Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -171,20 +185,6 @@
           "artist": "Soundelluxe это #lamp_gang",
           "comment": "блин сори, я вообще не выкупил. \nочень коряво по куплетному темпу и припев вообще не понравился. \n",
           "scoredAt": "2026-10-15T01:19:31.934Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Тёмный Глянец",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:18:23.493Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "artist": "Rebel RV [МС с Клинта́ра]",
-          "comment": "хмммммм крутой! ",
-          "scoredAt": "2026-10-15T01:17:44.654Z"
         }
       ]
     }
