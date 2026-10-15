@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T04:52:09.407Z",
-  "exportedAt": "2026-10-15T04:52:09.407Z",
-  "runId": "2026-10-15T04:52:09.407Z",
-  "forumExportedAt": "2026-10-15T04:52:09.407Z",
+  "lastSuccessfulAt": "2026-10-15T05:02:07.268Z",
+  "exportedAt": "2026-10-15T05:02:07.268Z",
+  "runId": "2026-10-15T05:02:07.268Z",
+  "forumExportedAt": "2026-10-15T05:02:07.268Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9435,
+    "scores": 9437,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3123,
-    "scoresBefore": 9434,
-    "scoresAfter": 9435,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3626,
+    "scoresBefore": 9435,
+    "scoresAfter": 9437,
     "fullBaselineRequests": 3047,
-    "requestReductionPercent": 99.90154250082048,
+    "requestReductionPercent": 99.8687233344273,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "SANITAR",
+          "comment": "С гребнем не только реперы, но и судьи. Наваливаешь уверенно, но с текстом явные беды. Про \"вынесу говно\" еще можно засчитать как панч, остальное только попытки. Если бы не сделал рэп про рэп, то оценка была бы выше.",
+          "scoredAt": "2026-10-15T04:56:11.336Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Апология",
+          "comment": "Жанульку люблю. Спасибо, что половина трека это её голос. С первых строчек появилост желание написать про маракеша, но ты сам в конце раскрыл все карты. Стильно, но по тексту очень жиденько, УННВ делают намного сильнее. Да и зачем тебе баттлить, если у тебя три бэхи?",
+          "scoredAt": "2026-10-15T04:52:51.807Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -171,20 +185,6 @@
           "artist": "The Mighty",
           "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
           "scoredAt": "2026-10-15T01:10:33.825Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Di Rare",
-          "comment": "ахаха \nну кстати неплохо, во 2 бы более ЦЕЛЬНО сделать работу) ",
-          "scoredAt": "2026-10-15T01:08:48.518Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Royzik",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:07:36.395Z"
         }
       ]
     }
