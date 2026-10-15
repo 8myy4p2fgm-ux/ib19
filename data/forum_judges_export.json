@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-15T17:52:25.005Z",
+  "exportedAt": "2026-10-15T18:23:02.897Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1884,7 +1884,14 @@
       "userId": "82e316f7-4a9b-4e45-ab28-9237e5affea7",
       "forum_name": "coolsem",
       "group": "OG",
-      "scores": [],
+      "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "легенда",
+          "scoredAt": "2026-10-15T17:55:41.115Z"
+        }
+      ],
       "veteran": false,
       "current": true
     },
@@ -1953,6 +1960,12 @@
       "forum_name": "типатрик",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "заключительный стрим разбор 16",
+          "scoredAt": "2026-10-15T17:55:03.538Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -2782,6 +2795,12 @@
       "userId": "b3a0fb99-8389-4b1d-97f6-a58c1854d09b",
       "veteran": true,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 5,
+          "comment": "Блин, мне правда очень сильно понравилось. Есть небольшая претензия: ощущается как левак, написанный на другую тему, а нужную тему задевает как-то вскользь. Но если от этого абстрагироваться, то вообще уверенная пятёрка: и по тексту хорошо, и по звуку особенно.",
+          "scoredAt": "2026-10-15T18:10:03.888Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
