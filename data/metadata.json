@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T20:42:11.670Z",
-  "exportedAt": "2026-10-15T20:42:11.670Z",
-  "runId": "2026-10-15T20:42:11.670Z",
-  "forumExportedAt": "2026-10-15T20:42:11.670Z",
+  "lastSuccessfulAt": "2026-10-15T20:52:20.521Z",
+  "exportedAt": "2026-10-15T20:52:20.521Z",
+  "runId": "2026-10-15T20:52:20.521Z",
+  "forumExportedAt": "2026-10-15T20:52:20.521Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10469,
+    "scores": 10470,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 7951,
-    "scoresBefore": 10463,
-    "scoresAfter": 10469,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3446,
+    "scoresBefore": 10469,
+    "scoresAfter": 10470,
     "fullBaselineRequests": 3123,
-    "requestReductionPercent": 99.74383605507525,
+    "requestReductionPercent": 99.90393852065321,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "artist": "Иван Смирнов",
+          "comment": "Опять та самая 4 с минусами ...\nУ тебя неплохая подача именно по части напором голоса, экспресии (для таких чисто биточков наваливать), но при этом даже на такой скорости уже начинает слегка прихрамывать произношение, чутка съедаются некоторые вещи.\n\nНадо бы почище их будто бы в некст раунде записывать.\n\nКусок с двойными рифмами как будто бы стею, но как будто бы и не прям стеб.\n Лучше бы вместо него показался бы припев или какой-то еще приколдес по тексту, какие-то строки крутые, так он просто ну есть и есть.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T20:50:04.336Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 1,
@@ -178,13 +185,6 @@
           "artist": "JOHNNY KATANA",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чтко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
           "scoredAt": "2026-10-15T20:25:24.582Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Amet-Han",
-          "comment": "Верю! Живо.",
-          "scoredAt": "2026-10-15T20:23:02.278Z"
         }
       ]
     }
