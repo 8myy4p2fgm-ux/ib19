@@ -2945,7 +2945,7 @@
     },
     {
       "group": "OG",
-      "forum_name": "Кот Форумчанина",
+      "forum_name": "K_Slim",
       "userId": "66caebea-d33d-4ff6-951c-91ed9d93c4be",
       "veteran": false,
       "scores": [
@@ -2956,13 +2956,16 @@
           "scoredAt": "2026-10-12T14:03:07.774Z"
         }
       ],
-      "current": true
+      "current": true,
+      "battle_name": "Кот Форумчанина",
+      "battle_profile_url": "https://19ib.ru/artist/kot-forumchanina",
+      "forum_profile_url": "https://www.hip-hop.ru/forum/id166698-k_slim"
     }
   ],
   "errors": [],
   "directory": {
     "source": "data/forum.csv",
-    "sha256": "071845037d2d84616b2dd2b9444e863f7cca2875dcde81ec62b995b85e4df094",
+    "sha256": "d59fa45e32c4dc48f0a6c8c5d6c4bdb3f2ac6034933534177728d7d07aeb2279",
     "total": 95,
     "og": 66,
     "veterans": 29
