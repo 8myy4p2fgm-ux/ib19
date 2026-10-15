@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T07:12:13.358Z",
-  "exportedAt": "2026-10-15T07:12:13.358Z",
-  "runId": "2026-10-15T07:12:13.358Z",
-  "forumExportedAt": "2026-10-15T07:12:13.358Z",
+  "lastSuccessfulAt": "2026-10-15T07:22:09.490Z",
+  "exportedAt": "2026-10-15T07:22:09.490Z",
+  "runId": "2026-10-15T07:22:09.490Z",
+  "forumExportedAt": "2026-10-15T07:22:09.490Z",
   "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 9488,
+    "scores": 9491,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7102,
-    "scoresBefore": 9483,
-    "scoresAfter": 9488,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5005,
+    "scoresBefore": 9488,
+    "scoresAfter": 9491,
     "fullBaselineRequests": 3053,
-    "requestReductionPercent": 99.77071732721913,
+    "requestReductionPercent": 99.83622666229938,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "БАНД",
+          "comment": "Недореп, недорок. Есть вопросы как и к исполнению, нет уверенности ты и не поешь и не читаешь, последнюю строчку излишне прокривлялся. Так и по тексту - очень просто и наивно(для рока норм, для рэпа плохо). За старания поставлю тройку, но для себя определись что ты хочешь делать больше репак или роцк.",
+          "scoredAt": "2026-10-15T07:22:00.137Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "Canterville",
+          "comment": "Дорогой, ты что тут забыл в отборе с таким треком ?! Какой же потрясный звучок! Вот есть подъездная романтика, а у тебя проскочила поездная романтика. Призакрою глаза на тексток немного особенно про блока, но текст тут будто бы и не должен быть важен своими сложностям 😏",
+          "scoredAt": "2026-10-15T07:21:41.073Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "MAX",
+          "comment": "О, тебя слышно даже на парковке. А я ведь тебя даже не скачивала. Но тут два варианта - или на сто пятый в рехаб - или проход во второй. Ну, проходи... ",
+          "scoredAt": "2026-10-15T07:13:23.203Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -164,27 +185,6 @@
           "artist": "ERROSE",
           "comment": "Набор произвольных фраз не в бит",
           "scoredAt": "2026-10-15T06:54:14.290Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "Т. Малый",
-          "comment": "Понятно, что ничего не понятно. Ребят, ну мы в 2026 году все-таки... ",
-          "scoredAt": "2026-10-15T06:53:23.143Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 5,
-          "artist": "White P",
-          "comment": "Стильно. Модно. Молодежно. ",
-          "scoredAt": "2026-10-15T06:52:45.930Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Алехандро",
-          "comment": "Звучит реально легко и элегантно. \n\nСпасибо за позитивный тречок. Хочется какого-то разнообразия по ритмике. И по тексту все довольно просто. Не могу поставить вышку, но четверку - вполне! ",
-          "scoredAt": "2026-10-15T06:51:51.099Z"
         }
       ]
     }
