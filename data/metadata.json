@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T07:02:25.886Z",
-  "exportedAt": "2026-10-15T07:02:25.886Z",
-  "runId": "2026-10-15T07:02:25.886Z",
-  "forumExportedAt": "2026-10-15T07:02:25.886Z",
+  "lastSuccessfulAt": "2026-10-15T07:12:13.358Z",
+  "exportedAt": "2026-10-15T07:12:13.358Z",
+  "runId": "2026-10-15T07:12:13.358Z",
+  "forumExportedAt": "2026-10-15T07:12:13.358Z",
   "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 9483,
+    "scores": 9488,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 24,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 22,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 22,
-    "changedParticipants": 22,
-    "logicalRequests": 24,
-    "durationMs": 23614,
-    "scoresBefore": 9461,
-    "scoresAfter": 9483,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7102,
+    "scoresBefore": 9483,
+    "scoresAfter": 9488,
     "fullBaselineRequests": 3053,
-    "requestReductionPercent": 99.21388797903701,
+    "requestReductionPercent": 99.77071732721913,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "yashashasha96",
+          "comment": "Ты будешь меня судить за то что в уши твои срал я (с) - это плохо\nИ если выиграю раздам все бабки ебанатам (с) - это хорошо",
+          "scoredAt": "2026-10-15T07:10:50.203Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "mwttm",
+          "comment": "Ну не на баттл же трек. Так не пойдет. Тема все же не просто так дается",
+          "scoredAt": "2026-10-15T07:08:45.238Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "TEAKY",
+          "comment": "На фоне последних двух десятков треков, что я послушала - это вообще шедевр. Цепляющее исполнение, отличный голос. Но очень квадратно в основе своей и рифма в лоб прямо бьет. Посмотрим во втором)",
+          "scoredAt": "2026-10-15T07:06:48.671Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "саша галактус",
+          "comment": "Про супы - смешно обыграл. Но во второй рано. ",
+          "scoredAt": "2026-10-15T07:04:31.257Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "yoonilorde",
+          "comment": "Я от таких треков и байта окси тоже скоро седой стану)) ",
+          "scoredAt": "2026-10-15T07:03:16.656Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 1,
@@ -150,41 +185,6 @@
           "artist": "Алехандро",
           "comment": "Звучит реально легко и элегантно. \n\nСпасибо за позитивный тречок. Хочется какого-то разнообразия по ритмике. И по тексту все довольно просто. Не могу поставить вышку, но четверку - вполне! ",
           "scoredAt": "2026-10-15T06:51:51.099Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "MicSoloG",
-          "comment": "В голову приходит только ненормативная лексика, мой трипл-дабл-бро. ",
-          "scoredAt": "2026-10-15T06:50:50.765Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Крутой Эмси Глеб",
-          "comment": "Один зондбе вам или два зондбе другому? \n\nСтилёво и вайбово. Читаешь уверенно, рифмуешь тоже. Биток выбрал хороший. В наборе идеального трека на отбор не хватет только интересной идеи в тексте, чтобы это был не просто реп про реп, а еще и интересная история и какое-нибудь размышление.",
-          "scoredAt": "2026-10-15T06:49:05.867Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Amon",
-          "comment": "Кстати, про Микки Рурка прикольно. Качай подачу, над ритмикой работай. ",
-          "scoredAt": "2026-10-15T06:48:04.664Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "The_k_o_t_",
-          "comment": "Мне лень играть скилами - ну тогда давай до следующего баттла. Качай давай подачу, умирать на бите - моветон. ",
-          "scoredAt": "2026-10-15T06:46:48.112Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "MAX LIBERTY",
-          "comment": "Это прямо в храм идти надо свечку поставить, наверное. ",
-          "scoredAt": "2026-10-15T06:45:02.080Z"
         }
       ]
     }
