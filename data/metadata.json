@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T00:02:11.968Z",
-  "exportedAt": "2026-10-15T00:02:11.968Z",
-  "runId": "2026-10-15T00:02:11.968Z",
-  "forumExportedAt": "2026-10-15T00:02:11.968Z",
+  "lastSuccessfulAt": "2026-10-15T00:12:07.354Z",
+  "exportedAt": "2026-10-15T00:12:07.354Z",
+  "runId": "2026-10-15T00:12:07.354Z",
+  "forumExportedAt": "2026-10-15T00:12:07.354Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9376,
+    "scores": 9382,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5105,
-    "scoresBefore": 9373,
-    "scoresAfter": 9376,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 7955,
+    "scoresBefore": 9376,
+    "scoresAfter": 9382,
     "fullBaselineRequests": 3039,
-    "requestReductionPercent": 99.83547219480093,
+    "requestReductionPercent": 99.73675551168148,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Destendy",
+          "comment": "Вечеркалось, хливкие шорьки \nСинерялись в быской раствове, \nХрюкотались настиша вкробки \nНезаблудки в мутраве",
+          "scoredAt": "2026-10-15T00:11:41.811Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Георгий Римэйк",
+          "comment": "Ритмически красиво, читаешь приятно. \nДам 4, чтобы повысить шанс на проход, хотелось бы послушать во 2. Но что-то более ПОКАЗАТЕЛЬНОЕ по способностям ",
+          "scoredAt": "2026-10-15T00:10:18.474Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Sprout17",
+          "comment": "сука, чо за хуйня с кентаврами...\nуже не первый трек об этом\nКакой-то флешмоб есть с лошадо-людской еблей или чо кого ? \n\nтехнично звучишь, но хочется каких-то других структур ещё послушать ",
+          "scoredAt": "2026-10-15T00:07:25.328Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Игорь Family",
+          "comment": "где-то я слышал этот бит, что-то супер старое\n\nПрикольно, но звучит как демка \n",
+          "scoredAt": "2026-10-15T00:05:30.031Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Long G",
+          "comment": "обычно - циклично\nинфляции - папарацци \nрации- нации\nвремя - бремя\nсигу - двигу \nпринимать - отнять\n\nЯ был бы плохим учителем, мне даже за такой текст ставить 2 больно... \n",
+          "scoredAt": "2026-10-15T00:04:18.238Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Don Cartuletti",
+          "comment": "опять мой решающий...\n\nМне не нравится ни дрилл, особенно такой посредственный, ни твоё отсутствие идей на треке.\n\nчитаешь ты норм, но это надо в какое-то другое русло пустить, либо делать более стилёво.\nЯ не знаю, почему в 1 раунде многие решили массово забить хуй",
+          "scoredAt": "2026-10-15T00:02:37.263Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -143,48 +185,6 @@
           "artist": "Edgelord",
           "comment": "Хорошая ритмика, интересный текст.\nМестами грязновато получилось и монотонно, плюс, видимо, сведение подводит.\nА так для отбора более чем достаточно.",
           "scoredAt": "2026-10-14T23:45:02.651Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "agap ottawa",
-          "comment": "Ну флекс, ну танец, ну драмнбейс\nслишком не свегово для того, что ты доносишь и должен доносить",
-          "scoredAt": "2026-10-14T23:44:28.740Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "VLA2",
-          "comment": "слишком трещишь голосом ( то есть он очень расслаблен) \nааа ну под конец разогнался, ладно)) неплохо \nДавай во 2 побольше скилухи, напомнил крайма немного или что-то смежное между краймом и карабином",
-          "scoredAt": "2026-10-14T23:42:59.472Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Никита Никман",
-          "comment": "Ой, ностальгия)\n\nСлушай, да неплохо, живчиком.\nИ идея прикольная.",
-          "scoredAt": "2026-10-14T23:42:31.815Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "SOULmate",
-          "comment": "Ну с гроулом ты немного не туда пришел брат.\nЭто 1) не приятно, если используется просто так\n2) соу соу на хип-хоп конкурсе",
-          "scoredAt": "2026-10-14T23:41:32.609Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "NEBES1",
-          "comment": "Очень стильно! ",
-          "scoredAt": "2026-10-14T23:40:58.697Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "ха-ха-харви",
-          "comment": "Отлично! Сердито, уверенно!",
-          "scoredAt": "2026-10-14T23:40:04.518Z"
         }
       ]
     }
