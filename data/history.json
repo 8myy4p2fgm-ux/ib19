@@ -99642,6 +99642,244 @@
         "scoredAt": "2026-10-15T16:07:39.580Z",
         "userId": "29d86c5d-d908-4c61-9aec-aa3d2aebd40b"
       }
+    },
+    {
+      "id": "9ad1ee930dabb9479bfcfc8e302d4f71d05b61f3e020bd01715aad4076277a5c",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:16:08.785Z",
+      "key": "[\"e4a7b635-1b2b-4494-8677-81645ae23e57\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Хорошо подошел к теме, но не хватило выхода. Твоя история звучит как предисловие к чему-то более интересному. Надеюсь во втором раунде узнаем почему на лицах родителей нет ничего кроме правды.",
+        "scoredAt": "2026-10-15T16:16:08.785Z",
+        "userId": "e4a7b635-1b2b-4494-8677-81645ae23e57"
+      }
+    },
+    {
+      "id": "17db295edc62c83823967744cf6068a9c2697b292b439b515feaba3b09027cac",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:21:55.063Z",
+      "key": "[\"17ddb234-c064-4740-8f19-ddc1cd391d80\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Подаешь мега-уверенно. Что касается исполнения - ноль вопросов. Твоим ртом да тексты бы получше читать)\n\nЯ думаю ты понял о чем я. Работай над текстом, тогда будешь получать вышки! Надеюсь во втором подтянешься и я услышу тебя в парных!",
+        "scoredAt": "2026-10-15T16:21:55.063Z",
+        "userId": "17ddb234-c064-4740-8f19-ddc1cd391d80"
+      }
+    },
+    {
+      "id": "7205752f0cb75ebb063b7511cfbe1802c340b5743d98d3603675f67639a1ab6d",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:19:23.244Z",
+      "key": "[\"27c18a98-08c0-488a-98a1-b0642a0824ce\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "необычно. чуть над звуком подзаебаться бы. ",
+        "scoredAt": "2026-10-15T16:19:23.244Z",
+        "userId": "27c18a98-08c0-488a-98a1-b0642a0824ce"
+      }
+    },
+    {
+      "id": "d7049d54d6443fc7ed35e78e88444ace52d7c472aa7c3fdaccd87228055fb3ca",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:20:35.025Z",
+      "key": "[\"64ed8ea2-ed88-45b4-b684-62f42864a5cd\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "читать еще бы чуть подучится. рифмы слабые. но вайб есть какой то \n",
+        "scoredAt": "2026-10-15T16:20:35.025Z",
+        "userId": "64ed8ea2-ed88-45b4-b684-62f42864a5cd"
+      }
+    },
+    {
+      "id": "319917ef79e10887f8c05119ce44c40054a9ca2f900465eec0768c513595d767",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:21:24.419Z",
+      "key": "[\"0a504dbb-4bdf-40b1-a05c-75240aa6fffe\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "звук ужас. стилек есть. текст слабый",
+        "scoredAt": "2026-10-15T16:21:24.419Z",
+        "userId": "0a504dbb-4bdf-40b1-a05c-75240aa6fffe"
+      }
+    },
+    {
+      "id": "090b6a8aa9779160a67df758b4dfad9ecd701a32017f31722ab8eebbb9466561",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:15:01.960Z",
+      "key": "[\"446a2692-f090-42ee-a719-00b8ace4b1a0\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "еще тренироваться и тренироваться. ",
+        "scoredAt": "2026-10-15T16:15:01.960Z",
+        "userId": "446a2692-f090-42ee-a719-00b8ace4b1a0"
+      }
+    },
+    {
+      "id": "2626b2f85c8bc2b4fb9b1e2a00fd634c113fef7863c331151e408028f64c6891",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:14:18.794Z",
+      "key": "[\"8c0ebea1-0c85-4281-a209-d9672abbd0b9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "какой-то поток мыслей без раскрытия темы, но звучит бодро и нарифмовано",
+        "scoredAt": "2026-10-15T16:14:18.794Z",
+        "userId": "8c0ebea1-0c85-4281-a209-d9672abbd0b9"
+      }
+    },
+    {
+      "id": "dcb7b6d863d99b00695c07ced355d9bb0f00d11d09340ef61c6f2cf60ddfd09e",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:15:38.810Z",
+      "key": "[\"0d226edf-a116-4ccc-b405-1bb89b99b343\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "скучноватый текст, с хорошим исполнением и звуком. давай во втором покажешь пэнчики, цепляющие строки чё-нить такое",
+        "scoredAt": "2026-10-15T16:15:38.810Z",
+        "userId": "0d226edf-a116-4ccc-b405-1bb89b99b343"
+      }
+    },
+    {
+      "id": "f0c1c083faf8228bb77d1cae48d44bc10fc57799a842dfab8189b9071ebdfe2e",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:19:19.021Z",
+      "key": "[\"83204f1b-a6b0-4384-b11c-35cf08e07918\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-15T16:19:19.021Z",
+        "userId": "83204f1b-a6b0-4384-b11c-35cf08e07918"
+      }
+    },
+    {
+      "id": "bb272b51974b440c11d5ff3588d15ee0dc0039973c80403beddf53ceab067f4e",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:12:55.066Z",
+      "key": "[\"a3b7906f-9366-4834-be1e-1c5ad8048855\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "за прикол 3 ставлю. но слабо канеш\n",
+        "scoredAt": "2026-10-15T16:12:55.066Z",
+        "userId": "a3b7906f-9366-4834-be1e-1c5ad8048855"
+      }
+    },
+    {
+      "id": "b94a6da4a16bba5b7ff927a413704ab086dc98788e6be7c5b31eeb1562738c25",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:19:09.368Z",
+      "key": "[\"a280b4a8-2b9e-4d46-9bbb-6ba998fa7307\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "топовый персонаж ! я бы тебя в батле с the process послушал бы !\nинтруха ваще разеб@ла , улетел куда-то в космос ! \nдальше жесть какая-то",
+        "scoredAt": "2026-10-15T16:19:09.368Z",
+        "userId": "a280b4a8-2b9e-4d46-9bbb-6ba998fa7307"
+      }
+    },
+    {
+      "id": "e1679035354d5a13e8a40247fd06ba31dfe9b0f4a40d2d311534bdd19f340a92",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:18:17.165Z",
+      "key": "[\"c4d1123a-f49d-4c88-8c28-45dcc2e49942\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "заключительный стрим разбор 3",
+        "scoredAt": "2026-10-15T16:18:17.165Z",
+        "userId": "c4d1123a-f49d-4c88-8c28-45dcc2e49942"
+      }
+    },
+    {
+      "id": "d5b3f8d79899c9eea541cdae5b9d34a1f611399d740e45808d4834243edeb1c7",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:17:36.092Z",
+      "key": "[\"c5393707-362e-4b06-adb8-216c361eff1d\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "так красиво но скучно по тексту капец. попробуй в следующем раунде ЕСЛИ ПРОЙДЁШЬ интересных строчек нацарапать на бричке",
+        "scoredAt": "2026-10-15T16:17:36.092Z",
+        "userId": "c5393707-362e-4b06-adb8-216c361eff1d"
+      }
+    },
+    {
+      "id": "31ccd3aa55639a371c509cc0191a9faba12c2a654c0e3f8be141a66971b892be",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:16:23.663Z",
+      "key": "[\"bf18f38c-f019-43d0-96b1-cedfa90203e2\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "за то что на одну рифму 3 ставлю. а так текст оч плох",
+        "scoredAt": "2026-10-15T16:16:23.663Z",
+        "userId": "bf18f38c-f019-43d0-96b1-cedfa90203e2"
+      }
+    },
+    {
+      "id": "69c8c32eb3349b567ef483128d5032893959b8438b56feeecbd57fb49e125af5",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:18:04.129Z",
+      "key": "[\"1b62f13e-c21b-41d1-84f5-74437798ba52\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "прикол имеется. но слабовато. постарайся в след раз",
+        "scoredAt": "2026-10-15T16:18:04.129Z",
+        "userId": "1b62f13e-c21b-41d1-84f5-74437798ba52"
+      }
+    },
+    {
+      "id": "e919045b102a49f4d8a4e26e451fe9ebb6f589bbec227b9315ec7b3aad647ab9",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:14:12.255Z",
+      "key": "[\"1a8f8531-5f44-4145-9b93-ebaab37a3790\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "голос жирный. рифмы текст все не о чем! ",
+        "scoredAt": "2026-10-15T16:14:12.255Z",
+        "userId": "1a8f8531-5f44-4145-9b93-ebaab37a3790"
+      }
+    },
+    {
+      "id": "7913368ed3ef87c9e8619ba761f490b24a99845bf9918a8e088b8a5b8aea3c09",
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "sourceScoredAt": "2026-10-15T16:16:31.506Z",
+      "key": "[\"a0a756cb-ae94-4552-b49a-e22ab2ac1953\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом. Немного ритмику разнообразить бы.",
+        "scoredAt": "2026-10-15T16:16:31.506Z",
+        "userId": "a0a756cb-ae94-4552-b49a-e22ab2ac1953"
+      }
     }
   ],
   "snapshots": [
@@ -102821,6 +103059,26 @@
           "index": 29.293857563553082,
           "favor": 18.53708851100938,
           "attention": -0.6977764020017541,
+          "respect": 11.454545454545455
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T16:22:29.429Z",
+      "exportedAt": "2026-10-15T16:22:29.429Z",
+      "scores": 10135,
+      "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+      "indices": {
+        "forum": {
+          "index": 23.03457697721816,
+          "favor": 9.48862478060035,
+          "attention": 6.629968590060428,
+          "respect": 6.915983606557377
+        },
+        "veterans": {
+          "index": 29.325743411794598,
+          "favor": 18.538517343006124,
+          "attention": -0.6673193857569824,
           "respect": 11.454545454545455
         }
       }

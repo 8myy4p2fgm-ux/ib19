@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-15T16:12:15.093Z",
+  "exportedAt": "2026-10-15T16:22:29.429Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -664,6 +664,12 @@
       "group": "OG",
       "scores": [
         {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "звук ужас. стилек есть. текст слабый",
+          "scoredAt": "2026-10-15T16:21:24.419Z"
+        },
+        {
           "judgeName": "Samarskij",
           "score": 3,
           "comment": "Первый стрим. Абстрактно, но много про каки)",
@@ -947,6 +953,12 @@
       "forum_name": "Сиян",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-15T16:19:19.021Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
