@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T09:42:22.478Z",
-  "exportedAt": "2026-10-15T09:42:22.478Z",
-  "runId": "2026-10-15T09:42:22.478Z",
-  "forumExportedAt": "2026-10-15T09:42:22.478Z",
+  "lastSuccessfulAt": "2026-10-15T09:52:22.986Z",
+  "exportedAt": "2026-10-15T09:52:22.986Z",
+  "runId": "2026-10-15T09:52:22.986Z",
+  "forumExportedAt": "2026-10-15T09:52:22.986Z",
   "selectionVersion": "ebf0acf3dc8fd18d4a067e48f56bc192d581a84987210276eaac8c69c8679243",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 9627,
+    "scores": 9639,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 19,
+    "httpRequests": 14,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 16,
+    "updatedCards": 12,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 16,
-    "changedParticipants": 15,
-    "logicalRequests": 19,
-    "durationMs": 19029,
-    "scoresBefore": 9611,
-    "scoresAfter": 9627,
+    "participantsWithNewScores": 12,
+    "changedParticipants": 12,
+    "logicalRequests": 14,
+    "durationMs": 13870,
+    "scoresBefore": 9627,
+    "scoresAfter": 9639,
     "fullBaselineRequests": 3059,
-    "requestReductionPercent": 99.37888198757764,
+    "requestReductionPercent": 99.54233409610984,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,97 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Lazo",
+          "comment": "Золотая середина. ",
+          "scoredAt": "2026-10-15T09:50:23.956Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "ДОЖАЛ",
+          "comment": "Качество, флоу, это ведь отбор баттла, зачем такое делать? ",
+          "scoredAt": "2026-10-15T09:50:08.464Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "КаЕв",
+          "comment": "Есть интересные мысли, но, к сожалению, не хватает необычностей каких-то в реализации по всем аспектам. Как в написании, так и в исполнении. Неплохо, но если брать общую картину по уровню на баттле, тут почти нет каких-то вау эффектов, способных выгодно выделить эту работу среди всех.",
+          "scoredAt": "2026-10-15T09:50:07.705Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Gromila",
+          "comment": "Половина слов сжевал",
+          "scoredAt": "2026-10-15T09:49:17.544Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Mark",
+          "comment": "Хороший трек. Зря делаешь эти выкрики фальцетные, без них будет лучше. Много хороших строчек, про рим вообще круто, про кресты тоже кайф. Молодец.",
+          "scoredAt": "2026-10-15T09:48:28.830Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "DIMA KEX",
+          "comment": "Неплохо по ритмикам. Есть заходы в оригинальное исполнение и всё вывезено. Не могу сказать, что панчлайны были какие-то с вау эффектами. Чуть больше раскрепощённости в голосе и интересных ходов по тексту, будет совсем гуд. Структура текста порадовала, тем не менее.",
+          "scoredAt": "2026-10-15T09:48:11.521Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Псайбой",
+          "comment": "Хорош",
+          "scoredAt": "2026-10-15T09:47:19.473Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "Бла-Бла",
+          "comment": "Не везде радует то, как ритмически вывозится стилёк, чуть чуть не филигранно звучит, как мне кажется. Есть неплохие ходы по созвучиям, рифмам, но есть и то, что не вкатывает, типо канарейки какой-то. Посыл местами нормас. К сожалению, для того, чтобы соответствовать типочкам, которые точно на 4/5 начитали, нужно побольше разнообразия, мне кажется.",
+          "scoredAt": "2026-10-15T09:46:38.796Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Воровской карман",
+          "comment": "Ближе к 4м, но отсутсвие качества и норм строк тянет к 3м",
+          "scoredAt": "2026-10-15T09:46:14.715Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "MF Win",
+          "comment": "Очень андерграундно! Как же ты красиво показал этим лохам как делать настоящий рейп! Красава. В боб группе похвалят.\n\nА так неплохо, но тут проблемы не с рэпом а с мировоззрением. Работай над собой, потом уже над рэпом.",
+          "scoredAt": "2026-10-15T09:45:36.494Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "никто",
+          "comment": "",
+          "scoredAt": "2026-10-15T09:44:20.217Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Blanco Negro",
+          "comment": "",
+          "scoredAt": "2026-10-15T09:43:10.183Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Илим",
+          "comment": "",
+          "scoredAt": "2026-10-15T09:42:14.349Z"
+        },
+        {
           "judgeName": "Paradise",
           "score": 4,
           "artist": "егор горе",
@@ -94,97 +185,6 @@
           "artist": "VAYO",
           "comment": "Стиль и рифмы присутствуют. Идёт дальше.",
           "scoredAt": "2026-10-15T09:40:28.809Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Piligrim",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:39:49.460Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Ra Raul",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:38:52.126Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Hard Rap Cafe",
-          "comment": "Прикольно",
-          "scoredAt": "2026-10-15T09:38:11.865Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "MLV.LVN",
-          "comment": "Качество опечалило. Данная стилистика исполнения предполагает жирное звучание. Пока же слишком сыро.",
-          "scoredAt": "2026-10-15T09:37:50.622Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "тгк: репер апофемоз",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:37:01.515Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Дед Кондратий",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:36:02.840Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Лунтик Rytp (с матом)",
-          "comment": "Переизбыток торопливости, но с задачаей вроде справляешься.",
-          "scoredAt": "2026-10-15T09:36:02.703Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Манхолла (KHBR)",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:35:18.260Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "Эскей",
-          "comment": "Посыл хорош, понимаю о чём ты, но, к сожалению, тут нет настолько выверенного стилька, чтобы закрыть глаза на не самое разнообразное исполнение и отсутствие каких-то вау эффектов по тексту. Это неплохая работа, но я бы не сказал, что тут прям огромная работа проделана. Просто раздал жизы типо.",
-          "scoredAt": "2026-10-15T09:34:36.013Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Денис Лайв",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:34:26.564Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Максим Ашуев",
-          "comment": "",
-          "scoredAt": "2026-10-15T09:33:31.947Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Володя с Хабары",
-          "comment": "Спасибо, что греешь мою жопу.\n\nЖалко, что козыря не вскрыл, возможно с ними оценка была бы выше. Читаешь уверенно, а текст пустой.",
-          "scoredAt": "2026-10-15T09:32:53.458Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "ENDOGEN",
-          "comment": "Эх, качества б",
-          "scoredAt": "2026-10-15T09:32:31.824Z"
         }
       ]
     }
