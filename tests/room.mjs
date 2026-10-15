@@ -5,7 +5,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 
 const root=path.resolve('dist');
-const types={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json','.png':'image/png'};
+const types={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json','.png':'image/png','.webp':'image/webp'};
 const server=http.createServer(async(req,res)=>{
  try{
   let file=path.resolve(root,'.'+new URL(req.url,'http://local').pathname);
@@ -22,7 +22,7 @@ try{
   const context=await browser.newContext({viewport:{width,height:1000}}),page=await context.newPage();
   page.on('pageerror',e=>errors.push(e.message));
   page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
-  await page.goto(base);await page.waitForSelector('#carrot-loader',{state:'detached'});
+  await page.goto(base);await page.waitForSelector('#carrot-loader',{state:'detached'});await page.locator('.room-wall.room-on-full-ready').waitFor();await page.waitForTimeout(750);
   const header=page.locator('.site-header'),initial=await header.boundingBox();
   const mainY=await page.locator('.main').evaluate(e=>e.getBoundingClientRect().top+scrollY);
   const control=page.locator(width<=760?'.room-mobile-light':'.room-switch');
@@ -45,9 +45,16 @@ try{
   await page.screenshot({path:`${shots}/${width}-on.png`});
   const value=await page.locator('#index-main').textContent();
   await control.click();assert.equal(await control.getAttribute('aria-checked'),'false');
-  assert.match(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),/room-(?:mobile-)?light-off/);
-  await page.waitForTimeout(600);await page.screenshot({path:`${shots}/${width}-off.png`});
+  await page.locator('.room-wall.room-off-full-ready').waitFor();
+  assert.match(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::after').backgroundImage),/room-(?:mobile-)?light-off/);
+  await page.waitForTimeout(750);await page.screenshot({path:`${shots}/${width}-off.png`});
   assert.equal(await page.locator('#index-main').textContent(),value);
+  if(width===1440||width===390){
+   assert.equal(await page.evaluate(()=>localStorage.getItem('tuz19-room-light')),'off');
+   await page.reload();await page.locator('.app:not([hidden])').waitFor();await page.locator('.room-wall.room-off-full-ready').waitFor();
+   assert.equal(await control.getAttribute('aria-checked'),'false');
+   assert.equal(await page.locator('.room-wall.room-on-full-ready').count(),0,'restored darkness has no chandelier flash');
+  }
   await control.focus();await page.keyboard.press('Space');assert.equal(await control.getAttribute('aria-checked'),'true');
   for(const y of [1,12,24,25,40,100,650,100,25,0]){
    await page.evaluate(y=>scrollTo(0,y),y);await page.waitForTimeout(30);
@@ -66,6 +73,7 @@ try{
  const context=await browser.newContext({reducedMotion:'reduce'}),page=await context.newPage();
  await page.goto(base);await page.waitForSelector('.room-off',{state:'attached'});
  assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e).transitionDuration),'0s');
+ assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::after').transitionDuration),'0s');
  await context.close();assert.deepEqual(errors,[]);
  console.log('Room passed: five widths, stable header geometry in both scroll directions and all routes, baked desktop switch, mobile button, keyboard, live values and reduced motion.');
 }finally{await browser.close();await new Promise(resolve=>server.close(resolve));}

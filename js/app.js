@@ -200,5 +200,19 @@ document.getElementById('deadline-countdown').dataset.deadline=config.deadline;w
 if(D.warnings.length){const note=document.createElement('div');note.className='data-warning';note.textContent=D.warnings.join(' ');document.querySelector('.main').prepend(note);}
 window.ib19Loader.ready();
 }
-bootstrap().catch(error=>{const state=document.getElementById('load-state');state.className='load-error';state.textContent='Не удалось подготовить аналитику. '+error.message;const retry=document.createElement('button');retry.className='control';retry.textContent='Повторить загрузку';retry.onclick=()=>location.reload();state.append(document.createElement('br'),retry);state.hidden=false;window.ib19Loader.ready();console.error(error);});
+function runBootstrap(retry=false){
+ const state=document.getElementById('load-state');
+ if(retry){state.className='load-pending';state.textContent='Загружаем аналитику…';state.hidden=false;}
+ bootstrap().catch(error=>{
+  state.className='load-error';
+  const title=document.createElement('h2'),detail=document.createElement('p'),button=document.createElement('button');
+  title.textContent='Сайт упал';
+  detail.textContent='Не удалось загрузить аналитику. Возможно, данные ещё обновляются.';
+  button.type='button';button.className='control';button.textContent='Разбудить программиста';
+  button.addEventListener('click',()=>runBootstrap(true));
+  state.replaceChildren(title,detail,button);state.hidden=false;
+  window.ib19Loader.ready();console.error(error);
+ });
+}
+runBootstrap();
 

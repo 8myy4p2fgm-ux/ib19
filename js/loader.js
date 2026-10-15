@@ -1,17 +1,18 @@
-// Start the minimum display time immediately; data loading runs independently.
+// Show the carrot only if preparing analytics takes perceptible time.
 (() => {
-  const started = performance.now();
   const loader = document.getElementById('carrot-loader');
   let settled = false;
+  const showTimer = setTimeout(() => {
+    if (!settled) loader.classList.add('is-visible');
+  }, 300);
   window.ib19Loader = {
     ready() {
       if (settled) return;
       settled = true;
-      const remaining = Math.max(0, 2000 - (performance.now() - started));
-      setTimeout(() => {
-        loader.classList.add('is-hidden');
-        setTimeout(() => loader.remove(), 350);
-      }, remaining);
+      clearTimeout(showTimer);
+      if (!loader.classList.contains('is-visible')) return loader.remove();
+      loader.classList.add('is-hidden');
+      setTimeout(() => loader.remove(), 180);
     }
   };
 })();

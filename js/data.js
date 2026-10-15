@@ -27,7 +27,7 @@ export async function loadData(){
  for(let attempt=0;attempt<3;attempt++){
   try{
    const read=async (url,cache='default')=>{
-    const response=await fetch(url,{cache,signal:AbortSignal.timeout(30000)});
+    const response=await fetch(url,{cache,priority:'high',signal:AbortSignal.timeout(30000)});
     if(!response.ok)throw new Error('Не удалось загрузить '+url.pathname.split('/').pop()+': '+response.status);
     return response.json();
    };
