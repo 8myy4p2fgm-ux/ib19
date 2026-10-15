@@ -35,16 +35,18 @@ try{
   const a=PNG.sync.read(await page.screenshot({path:`${dir}/project-${width}-loader.png`,animations:'disabled'})),b=PNG.sync.read(await ref.screenshot({path:`${dir}/reference-${width}-loader.png`,animations:'disabled'}));
   assert.equal(pixelmatch(a.data,b.data,null,width,900,{threshold:.1}),0,'loader reference '+width);release();await context.close();
  }
- for(const scenario of ['fast','slow','error']){
+ for(const scenario of ['fast','slow','transient','error']){
   const context=await browser.newContext({viewport:{width:390,height:844}});
   await context.addInitScript(()=>{
    window.loaderTimes={};
    new MutationObserver(()=>{const l=document.getElementById('carrot-loader');if(l&&!window.loaderTimes.start)window.loaderTimes.start=performance.now();if(l?.classList.contains('is-hidden')&&!window.loaderTimes.fade)window.loaderTimes.fade=performance.now();}).observe(document,{subtree:true,childList:true,attributes:true,attributeFilter:['class']});
   });
-  let requestStarted=false,releaseSlow;
+  let requestStarted=false,releaseSlow,requestCount=0,roomRequests=0;
+  context.on('request',request=>{if(/room-(?:mobile-)?light-/.test(request.url()))roomRequests++;});
   const slowGate=new Promise(resolve=>{releaseSlow=resolve;});
   await context.route('**/data/metadata.json?*',async route=>{
-   requestStarted=true;
+   requestStarted=true;requestCount++;
+   if(scenario==='transient'&&requestCount===1)return route.abort('connectionreset');
    if(scenario==='slow')await slowGate;
    if(scenario==='error')await route.fulfill({status:503,body:'unavailable'});else await route.continue();
   });
@@ -58,7 +60,7 @@ try{
   // and retain the unconditional fade-start minimum-duration assertion below.
   const observed=await page.evaluate(()=>({elapsed:performance.now()-window.loaderTimes.start,hidden:document.getElementById('carrot-loader')?.classList.contains('is-hidden')??true}));
   if(observed.elapsed<1985)assert.equal(observed.hidden,false,'not dismissed early');
-  if(scenario==='slow'){await page.waitForFunction(()=>performance.now()-window.loaderTimes.start>=2100);assert.equal(await page.locator('#carrot-loader.is-hidden').count(),0,'still waiting for slow data after 2 seconds');releaseSlow();}
+  if(scenario==='slow'){await page.waitForFunction(()=>performance.now()-window.loaderTimes.start>=2100);assert.equal(await page.locator('#carrot-loader.is-hidden').count(),0,'still waiting for slow data after 2 seconds');assert.equal(roomRequests,0,'room images wait for analytics');releaseSlow();}
   await page.waitForSelector('#carrot-loader',{state:'detached'});
   const timing=await page.evaluate(()=>window.loaderTimes);assert.ok(timing.fade-timing.start>=1985,JSON.stringify(timing));
   if(scenario==='error'){assert.match(await page.locator('#load-state').textContent(),/Не удалось подготовить аналитику/);assert.ok(await page.locator('#load-state button').isVisible());}

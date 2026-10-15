@@ -31,6 +31,7 @@ try{
   assert.equal(await header.evaluate(e=>getComputedStyle(e).position),'sticky');
   assert.equal(await page.locator('.site-header-inner').evaluate(e=>getComputedStyle(e).borderBottomWidth),'0px');
   assert.equal(await page.locator('.room-wall').evaluate(e=>getComputedStyle(e).position),'fixed');
+  assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),'none');
   if(width<=760){
    assert.equal(await page.locator('.room-switch').isVisible(),false);
    assert.match(await page.locator('.room-on').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),/room-mobile-light-on/);
@@ -44,6 +45,7 @@ try{
   await page.screenshot({path:`${shots}/${width}-on.png`});
   const value=await page.locator('#index-main').textContent();
   await control.click();assert.equal(await control.getAttribute('aria-checked'),'false');
+  assert.match(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),/room-(?:mobile-)?light-off/);
   await page.waitForTimeout(600);await page.screenshot({path:`${shots}/${width}-off.png`});
   assert.equal(await page.locator('#index-main').textContent(),value);
   await control.focus();await page.keyboard.press('Space');assert.equal(await control.getAttribute('aria-checked'),'true');

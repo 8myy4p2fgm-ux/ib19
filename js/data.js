@@ -21,12 +21,30 @@ export function normalizeData(main,forum){
  const events=main.members.flatMap(p=>p.scores.map(s=>({...s,userId:p.userId,forum:metadata.has(p.userId),judge:s.judgeName,t:Date.parse(s.scoredAt)}))).sort((a,b)=>(Number.isFinite(a.t)?a.t:Infinity)-(Number.isFinite(b.t)?b.t:Infinity));
  return {updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,warnings,forumExportedAt:forum.exportedAt};
 }
+// Retry a complete snapshot: never combine data from different published versions.
 export async function loadData(){
+ let lastError;
  for(let attempt=0;attempt<3;attempt++){
-  const metaResponse=await fetch(new URL('../data/metadata.json?check='+Date.now(),import.meta.url),{cache:'no-store'});if(!metaResponse.ok)throw new Error('Не удалось прочитать метаданные обновления');const meta=await metaResponse.json();
-  const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(async file=>{const url=new URL('../data/'+file,import.meta.url);url.searchParams.set('v',meta.runId);const response=await fetch(url,{cache:'no-store'});if(!response.ok)throw new Error('Не удалось загрузить '+file+': '+response.status);return response.json();}));
-  if(values[0].exportedAt!==meta.exportedAt||(meta.forumExportedAt&&values[1].exportedAt!==meta.forumExportedAt))continue;
-  const D=normalizeData(...values);D.lastSuccessfulAt=meta.lastSuccessfulAt;return D;
+  try{
+   const read=async (url,cache='default')=>{
+    const response=await fetch(url,{cache,signal:AbortSignal.timeout(30000)});
+    if(!response.ok)throw new Error('Не удалось загрузить '+url.pathname.split('/').pop()+': '+response.status);
+    return response.json();
+   };
+   const meta=await read(new URL('../data/metadata.json?check='+Date.now(),import.meta.url),'no-store');
+   const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(file=>{
+    const url=new URL('../data/'+file,import.meta.url);url.searchParams.set('v',meta.runId);return read(url,attempt===0?'default':'no-store');
+   }));
+   if(values[0].exportedAt!==meta.exportedAt||(meta.forumExportedAt&&values[1].exportedAt!==meta.forumExportedAt)){
+    lastError=new Error('Обновление данных ещё публикуется. Повторите загрузку.');
+    if(attempt<2)await new Promise(resolve=>setTimeout(resolve,500*(attempt+1)));
+    continue;
+   }
+   const D=normalizeData(...values);D.lastSuccessfulAt=meta.lastSuccessfulAt;return D;
+  }catch(error){
+   lastError=error;
+   if(attempt<2)await new Promise(resolve=>setTimeout(resolve,500*(attempt+1)));
+  }
  }
- throw new Error('Обновление данных ещё публикуется. Повторите загрузку.');
+ throw lastError;
 }
