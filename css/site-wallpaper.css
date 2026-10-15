@@ -1,11 +1,22 @@
-/* Shared wallpaper. Decorative layers preserve existing content/grid dimensions. */
+/* Approved V4 room. The photographs include the desktop wall switch. */
+:root{--room-dim:.42;--room-image-height:50vw;--site-header-height:80px}
+html{scrollbar-gutter:stable;scroll-padding-top:calc(var(--site-header-height) + 16px)}
+body{position:relative;isolation:isolate}
+:where(button,a,input,select,[tabindex]){scroll-margin-top:calc(var(--site-header-height) + 16px)}
 .app{isolation:isolate}
-.app::before{
- content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
- background-image:linear-gradient(rgba(9,14,12,.73),rgba(9,14,12,.73)),url("./assets/overview-wallpaper.jpg");
- background-size:cover;background-position:center;background-repeat:no-repeat;
-}
-.app .site-header{background:rgba(14,20,17,.78)}
+.room-wall{position:fixed;inset:0;z-index:-1;pointer-events:none;overflow:hidden;background:#282720}
+.room-layer{position:absolute;inset:0;background:#393025;transition:opacity 550ms ease;opacity:1}
+.room-layer::before{content:"";position:absolute;inset:0 0 auto;height:max(100vh,var(--room-image-height));background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-on.png");background-size:100% auto;background-position:center top;background-repeat:no-repeat;mask-image:linear-gradient(#000 0%,#000 calc(var(--room-image-height) * .92),transparent var(--room-image-height))}
+.room-off{background:#11171d;opacity:0}
+.room-off::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-off.png")}
+body[data-room-light="off"] .room-off{opacity:1}
+.app .site-header{position:sticky;top:0;z-index:40;background:#0e1411;box-sizing:border-box;transform:none;animation:none}
+.site-header .site-header-inner{width:100%;box-sizing:border-box;border-bottom:0;transition:none}
+.room-switch{position:fixed;z-index:46;left:95.55%;top:41.35vw;width:max(44px,4.2vw);height:max(44px,5vw);transform:translate(-50%,-50%);padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;cursor:pointer;touch-action:manipulation}
+.room-switch:focus{outline:none}
+.room-switch:focus-visible{outline:1px solid #a8b9ae;outline-offset:3px}
+.room-mobile-light{display:none}
+.app .chart,.app #chart-main{background:rgba(14,20,17,.18)!important}
 #home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics),
 .page.active:not(#home)>:is(.pace-intro,.pace-section,.pace-insight,.judge-summary,.fl-metrics,.fl-section,.panel){position:relative;isolation:isolate}
 #home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics)::before,
@@ -22,3 +33,17 @@
  #home.active :is(.home-index-panel,.experiment-judging,.home-own,.home-lower-analytics)::before,
 .page.active:not(#home)>:is(.pace-intro,.pace-section,.pace-insight,.judge-summary,.fl-metrics,.fl-section,.panel)::before{left:-8px;right:-8px;border-radius:4px}
 }
+
+@media(max-width:760px){
+ :root{--room-image-height:150vw}
+ .room-layer::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-on.png")}
+ .room-off::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-off.png")}
+ .room-switch{display:none}
+ .site-header-inner{position:relative}
+ .site-header .navs{min-width:0;max-width:100%;justify-self:stretch}
+ .room-mobile-light{display:block;position:absolute;right:0;top:20px;width:88px;height:32px;padding:0 6px;background:#19241d;border:1px solid #435247;border-radius:5px;color:#c7d6cb;font:12px system-ui;cursor:pointer}
+ .room-mobile-light:focus-visible{outline:2px solid #a8b9ae;outline-offset:2px}
+ .site-header .site-brand{max-width:calc(100% - 100px)}
+}
+@media(max-width:360px){#home .home-index-header #index-main{font-size:88px}#forum-link .fl-filter-set{min-width:0;max-width:100%}#forum-link .fl-filters{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){.room-layer{transition:none}}

@@ -7,9 +7,9 @@ function currentDataReference(original){
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
  let code=first.slice(first.indexOf('const module3='));
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");
- return original.replace(first,code).replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"></head>');
+ return original.replace(first,code).replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><script type="module" src="/ib19/js/room.js"></script></head>');
 }
-// Apply the shared decoration to each reference; preserve all original layout,
+// Apply the approved room and stable header to each reference; preserve all original layout,
 // interaction and pixel comparisons.
 const reference=currentDataReference(original),overviewReference=currentDataReference(overview),mime={'.html':'text/html','.js':'application/javascript','.css':'text/css','.json':'application/json'};
 const server=http.createServer(async(req,res)=>{try{let name=decodeURIComponent(new URL(req.url,'http://local').pathname);if(name==='/reference.html'||name==='/overview-reference.html'){res.setHeader('Content-Type','text/html');return res.end(name==='/overview-reference.html'?overviewReference:reference);}if(!name.startsWith('/ib19/'))throw new Error('not found');name=name.slice('/ib19'.length);if(name==='/')name='/index.html';const file=path.resolve(root,'.'+name);if(!file.startsWith(root+path.sep))throw new Error('outside');res.setHeader('Content-Type',mime[path.extname(file)]||'application/octet-stream');res.end(await fs.readFile(file));}catch{res.writeHead(404);res.end();}});await new Promise(r=>server.listen(0,'127.0.0.1',r));const base='http://127.0.0.1:'+server.address().port,dir='docs/screenshots/ui-reference';await fs.mkdir(dir,{recursive:true});
