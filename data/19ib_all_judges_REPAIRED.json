@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T20:32:20.459Z",
+  "exportedAt": "2026-10-15T20:42:11.670Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -14469,8 +14469,14 @@
     },
     {
       "userId": "2dcc3e89-db93-418e-8db0-d61de90d616d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 1,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чтко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-15T20:33:58.530Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 2,
@@ -14484,7 +14490,7 @@
           "scoredAt": "2026-10-13T09:57:00.268Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
@@ -25331,8 +25337,14 @@
     },
     {
       "userId": "f4f1ab15-eecf-4124-aa6e-fd2daa47a61f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 1,
+          "comment": "Трек левак.\n\nБыл выпущен спиппет еще минимум 2 июня, да и темы нет.\nhttps://www.instagram.com/reel/DZDCFl1tzLI/",
+          "scoredAt": "2026-10-15T20:41:51.707Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -25358,7 +25370,7 @@
           "scoredAt": "2026-09-04T11:42:24.202Z"
         }
       ],
-      "fetchedAt": "2026-10-15T09:32:29.654Z",
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
@@ -47245,8 +47257,14 @@
     },
     {
       "userId": "e730afa4-421a-461c-a8ac-5064f94716e9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Ой, подано очнеь жирно!",
+          "scoredAt": "2026-10-15T20:40:20.284Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -47266,7 +47284,7 @@
           "scoredAt": "2026-09-17T16:46:38.981Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
@@ -69535,9 +69553,16 @@
     },
     {
       "userId": "47b0a509-fb80-4ff7-ba39-53d62f0cf7b0",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Если глянуть на чарт Я.Музыки, то имеет место быть.",
+          "scoredAt": "2026-10-15T20:32:53.789Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
@@ -79830,8 +79855,14 @@
     },
     {
       "userId": "1ff29fd6-661e-44dc-b7e5-d42d16d80562",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Когда без бита читаешь, то прям очень хорошо))",
+          "scoredAt": "2026-10-15T20:39:25.251Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -79845,7 +79876,7 @@
           "scoredAt": "2026-10-13T17:27:37.830Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:42:23.783Z",
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
@@ -80864,8 +80895,14 @@
     },
     {
       "userId": "cd31e6f6-6bb3-4765-b26f-12d10b5723da",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "несреьезно это все, братан.",
+          "scoredAt": "2026-10-15T20:33:32.177Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -80873,7 +80910,7 @@
           "scoredAt": "2026-10-13T11:38:07.978Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T20:42:11.670Z",
       "current": true
     },
     {
