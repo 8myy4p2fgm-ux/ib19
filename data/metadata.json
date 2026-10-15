@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:42:14.337Z",
-  "exportedAt": "2026-10-15T05:42:14.337Z",
-  "runId": "2026-10-15T05:42:14.337Z",
-  "forumExportedAt": "2026-10-15T05:42:14.337Z",
+  "lastSuccessfulAt": "2026-10-15T05:52:04.164Z",
+  "exportedAt": "2026-10-15T05:52:04.164Z",
+  "runId": "2026-10-15T05:52:04.164Z",
+  "forumExportedAt": "2026-10-15T05:52:04.164Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9446,
+    "scores": 9448,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4323,
-    "scoresBefore": 9444,
-    "scoresAfter": 9446,
+    "durationMs": 3983,
+    "scoresBefore": 9446,
+    "scoresAfter": 9448,
     "fullBaselineRequests": 3048,
     "requestReductionPercent": 99.86876640419948,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "typee",
+          "comment": "Начитал на проход, но при чем тут все, кроме правды?",
+          "scoredAt": "2026-10-15T05:50:34.670Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "обналон",
+          "comment": " Тоже с баннера на дзене увидела, что надо трек твой послушать. Цепанул насмешливостью, забавное раскрытие, по флоу для прохода хватает с головой. Раза три послушала с удовольствием",
+          "scoredAt": "2026-10-15T05:48:01.165Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -171,20 +185,6 @@
           "artist": "Nedelia",
           "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
           "scoredAt": "2026-10-15T01:20:54.175Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "обналон",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:20:22.333Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Soundelluxe это #lamp_gang",
-          "comment": "блин сори, я вообще не выкупил. \nочень коряво по куплетному темпу и припев вообще не понравился. \n",
-          "scoredAt": "2026-10-15T01:19:31.934Z"
         }
       ]
     }
