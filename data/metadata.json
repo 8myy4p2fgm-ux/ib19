@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:02:07.268Z",
-  "exportedAt": "2026-10-15T05:02:07.268Z",
-  "runId": "2026-10-15T05:02:07.268Z",
-  "forumExportedAt": "2026-10-15T05:02:07.268Z",
+  "lastSuccessfulAt": "2026-10-15T05:12:09.510Z",
+  "exportedAt": "2026-10-15T05:12:09.510Z",
+  "runId": "2026-10-15T05:12:09.510Z",
+  "forumExportedAt": "2026-10-15T05:12:09.510Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9437,
+    "scores": 9440,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3626,
-    "scoresBefore": 9435,
-    "scoresAfter": 9437,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5005,
+    "scoresBefore": 9437,
+    "scoresAfter": 9440,
     "fullBaselineRequests": 3047,
-    "requestReductionPercent": 99.8687233344273,
+    "requestReductionPercent": 99.83590416803413,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Navali",
+          "comment": "Читаешь неплохо и строчки есть забавные, но запись все портит. Такой зародыш МЧТ или любого другого казаха. Братуха, потрать пару тысяч и сгоняй на студийку. Тебе пойдет на пользу. Тройка с надеждой на то, что ты исправишься. ЛЕСГЕРИТ!",
+          "scoredAt": "2026-10-15T05:10:36.628Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "ТАО",
+          "comment": "НЕ ВЕРЮ БЛЯ ЛЮДЯМ И РЫБАМ. Недавно у меня был стрим на котором слушал свежий альбом Брутто. Так вот, ты взял форму и взял очень круто. Голос, подача - все работает, но у тебя нет таких крутых строчек, как у каспийского гангстера. Авансом за харизму поставлю 4, но если пройдешь - постарайся наполнить текст какими-то сильными строчками.",
+          "scoredAt": "2026-10-15T05:07:24.773Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "McGuffin",
+          "comment": "Сострадание - дар. Хороший трек, но достаточно поверхностно. Ты молодец, что поднимаешь интересные темы, теперь попробуй добавить глубины, метафор, разные тропы. Ну и по исполнению тоже нужно подтягиваться. Я думаю - наберешься опыта и станешь очень сильным эмси.",
+          "scoredAt": "2026-10-15T05:03:14.702Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -164,27 +185,6 @@
           "artist": "КСШ х Re!men'",
           "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.\n\nбля... даже кот нарифмовал лучше",
           "scoredAt": "2026-10-15T01:13:17.611Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Brox",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:12:19.611Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "DIROL",
-          "comment": "запотеть полететь конечно испортило немного, я не поставлю 5, потому что хотелось бы твоих ДРУГИХ способностей ещё увидеть, смены ритма и тд\nНо звучишь хорошо! ",
-          "scoredAt": "2026-10-15T01:11:52.023Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "The Mighty",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T01:10:33.825Z"
         }
       ]
     }
