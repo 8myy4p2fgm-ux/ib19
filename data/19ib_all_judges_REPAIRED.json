@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T14:02:21.405Z",
+  "exportedAt": "2026-10-15T14:12:22.305Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -6547,8 +6547,14 @@
     },
     {
       "userId": "870824da-4e7d-462a-876d-dded817ccf81",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "искусство не судится!",
+          "scoredAt": "2026-10-15T14:11:12.394Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -6568,7 +6574,7 @@
           "scoredAt": "2026-09-08T15:47:24.930Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:51:58.394Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -10865,8 +10871,14 @@
     },
     {
       "userId": "22087e43-1a03-40ee-90c4-4dde6cf11a54",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "comment": "Очень жестко, и фишки и эффекты, во второй половине трека набубнил мимо ритмики",
+          "scoredAt": "2026-10-15T14:11:12.441Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -10874,7 +10886,7 @@
           "scoredAt": "2026-09-06T13:55:32.613Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -15446,8 +15458,14 @@
     },
     {
       "userId": "524eeebc-9509-47ab-a7d2-7544795b1a94",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Жёстко стелишь! Смешной панч: Сегодня он любит братика , завтра любит мужчину\n",
+          "scoredAt": "2026-10-15T14:10:15.734Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -15461,7 +15479,7 @@
           "scoredAt": "2026-10-11T16:53:19.801Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:42:23.783Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -16873,9 +16891,16 @@
     },
     {
       "userId": "65a2df13-a200-48ca-bd26-9c3017d85964",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "По флоу нормас, но вот в одной четверке рифму потерял, где-то можно было подчеркнуть бэками добивки строк, где-то сменить флоу ",
+          "scoredAt": "2026-10-15T14:05:22.365Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -21625,8 +21650,14 @@
     },
     {
       "userId": "bc51b1e9-fbb5-48fa-93ed-b8d69eb6a4b6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 1,
+          "comment": "Стильно. Модно. Мегагалактично.",
+          "scoredAt": "2026-10-15T14:03:49.505Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -21652,13 +21683,19 @@
           "scoredAt": "2026-10-06T15:55:22.763Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:12:14.233Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
       "userId": "18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень стандартно, скучно слушается... Одна раскладка, колких строк для себя не нашел не верю в твой трек",
+          "scoredAt": "2026-10-15T14:10:03.113Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -21666,7 +21703,7 @@
           "scoredAt": "2026-10-08T19:10:18.552Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -22417,8 +22454,14 @@
     },
     {
       "userId": "801d7fe9-d1f7-48e1-83eb-b715bd3f6585",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Есть в тебе какой-то прикол, интересно делаешь. Припев классно звучит, накину за него балл.",
+          "scoredAt": "2026-10-15T14:11:44.138Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -22438,7 +22481,7 @@
           "scoredAt": "2026-09-24T16:09:21.424Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -29395,8 +29438,14 @@
     },
     {
       "userId": "7888188a-d0f0-4ec2-8352-72b2cc869773",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Жёсткий рэп! Дело Бабана живёт. Мне кажется тебе нужен другой бит, этот сильно тебе не подходит. ",
+          "scoredAt": "2026-10-15T14:03:20.010Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -29410,7 +29459,7 @@
           "scoredAt": "2026-09-11T16:36:07.825Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -37623,8 +37672,14 @@
     },
     {
       "userId": "6c996eb8-21ba-4a95-9945-6fb98ae02f15",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Классно застелил. Чувствуешь это дерьмо, знаешь как нужно делать на баттлах. Давай до парных дотягивай, интересно было бы тебя там глянуть. ",
+          "scoredAt": "2026-10-15T14:04:37.231Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -37644,7 +37699,7 @@
           "scoredAt": "2026-10-11T14:22:01.419Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:22:13.673Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -50457,8 +50512,14 @@
     },
     {
       "userId": "d46b57e1-c43d-487a-a947-0e48a67fe97a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Блин есть что-то в этом, не хватило под такое чуть больше напора дать, можно безумие в исполнение или фишками добавить",
+          "scoredAt": "2026-10-15T14:02:35.356Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -50478,7 +50539,7 @@
           "scoredAt": "2026-09-19T23:31:25.264Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -55796,8 +55857,14 @@
     },
     {
       "userId": "d9af6a70-3c0d-4c04-83c6-32f80586f959",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "ну это так плохо что аж хорошо, спасибо за приятный кринж) оу да!",
+          "scoredAt": "2026-10-15T14:09:36.660Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -55823,7 +55890,7 @@
           "scoredAt": "2026-09-22T06:23:40.677Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -62268,8 +62335,14 @@
     },
     {
       "userId": "035ec6b6-d608-4e9e-b071-6963999cae44",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Посыл понятен, но вот разнообразие бы треку по флоу сделать, всё как то в одной ритмике",
+          "scoredAt": "2026-10-15T14:07:13.894Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -62295,7 +62368,7 @@
           "scoredAt": "2026-10-07T14:14:31.674Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -69807,9 +69880,16 @@
     },
     {
       "userId": "9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "авансом 4 с минусом, по тексту много воды , и будто её можно было бы в колкие строчки превратить. такой рэп на выебонах про другой рэп но это же всё один хрен всё равно рэп, поэтому ну хз..\nв конце хорошо закончил актуалочкой!",
+          "scoredAt": "2026-10-15T14:05:59.100Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -78698,8 +78778,14 @@
     },
     {
       "userId": "d17607b7-f34e-4b44-b128-268722637a7e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-15T14:05:35.848Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -78725,7 +78811,7 @@
           "scoredAt": "2026-09-16T20:39:32.560Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {
@@ -80826,8 +80912,14 @@
     },
     {
       "userId": "33b94e10-f7d9-4514-9350-042727a79d3e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Нравится что не наврал что на диктофон записал, надо выходить на новый уровень мс конденсаторный микро",
+          "scoredAt": "2026-10-15T14:08:29.770Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -80841,7 +80933,7 @@
           "scoredAt": "2026-10-07T12:38:58.870Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T14:12:22.305Z",
       "current": true
     },
     {

@@ -97752,6 +97752,216 @@
         "scoredAt": "2026-10-15T13:58:34.773Z",
         "userId": "526fbc7e-a5d4-4405-897c-21d4ffa5b1a7"
       }
+    },
+    {
+      "id": "53bd96b641b6620473e8fe92be35eaf1d52fcc3aa9417e836e864bf9921837d0",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:11:12.394Z",
+      "key": "[\"870824da-4e7d-462a-876d-dded817ccf81\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "искусство не судится!",
+        "scoredAt": "2026-10-15T14:11:12.394Z",
+        "userId": "870824da-4e7d-462a-876d-dded817ccf81"
+      }
+    },
+    {
+      "id": "bd8db0e097905cb7c0a502a4242826b3f7708b42a66ae60b2000598671bdf8ea",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:11:12.441Z",
+      "key": "[\"22087e43-1a03-40ee-90c4-4dde6cf11a54\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Очень жестко, и фишки и эффекты, во второй половине трека набубнил мимо ритмики",
+        "scoredAt": "2026-10-15T14:11:12.441Z",
+        "userId": "22087e43-1a03-40ee-90c4-4dde6cf11a54"
+      }
+    },
+    {
+      "id": "1141146c9274b22a753b3e496b5d3af5c088a022619fb1c4832165a21591df56",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:10:15.734Z",
+      "key": "[\"524eeebc-9509-47ab-a7d2-7544795b1a94\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Жёстко стелишь! Смешной панч: Сегодня он любит братика , завтра любит мужчину\n",
+        "scoredAt": "2026-10-15T14:10:15.734Z",
+        "userId": "524eeebc-9509-47ab-a7d2-7544795b1a94"
+      }
+    },
+    {
+      "id": "888bdde38efa73a41b0d678d70e41a534add3864bd26d001ac6fb63ba0941273",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:05:22.365Z",
+      "key": "[\"65a2df13-a200-48ca-bd26-9c3017d85964\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По флоу нормас, но вот в одной четверке рифму потерял, где-то можно было подчеркнуть бэками добивки строк, где-то сменить флоу ",
+        "scoredAt": "2026-10-15T14:05:22.365Z",
+        "userId": "65a2df13-a200-48ca-bd26-9c3017d85964"
+      }
+    },
+    {
+      "id": "cd8d78dd61222fb6076473aabc62a2515d6479d38661d0b80bf4d97c1c766216",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:03:49.505Z",
+      "key": "[\"bc51b1e9-fbb5-48fa-93ed-b8d69eb6a4b6\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 1,
+        "comment": "Стильно. Модно. Мегагалактично.",
+        "scoredAt": "2026-10-15T14:03:49.505Z",
+        "userId": "bc51b1e9-fbb5-48fa-93ed-b8d69eb6a4b6"
+      }
+    },
+    {
+      "id": "9e78eb1e0da745891495e8a7bb77af7a1a5bc75462340791fbc2b039c4cd09ba",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:10:03.113Z",
+      "key": "[\"18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень стандартно, скучно слушается... Одна раскладка, колких строк для себя не нашел не верю в твой трек",
+        "scoredAt": "2026-10-15T14:10:03.113Z",
+        "userId": "18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600"
+      }
+    },
+    {
+      "id": "8ac77d372b12cfc1bdcafda79d4ba7193a789c15ac368dc4041d4e555f78e555",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:11:44.138Z",
+      "key": "[\"801d7fe9-d1f7-48e1-83eb-b715bd3f6585\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Есть в тебе какой-то прикол, интересно делаешь. Припев классно звучит, накину за него балл.",
+        "scoredAt": "2026-10-15T14:11:44.138Z",
+        "userId": "801d7fe9-d1f7-48e1-83eb-b715bd3f6585"
+      }
+    },
+    {
+      "id": "555a093e52309105871953d2e235503520280290730d6ff7ee3785157e819563",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:03:20.010Z",
+      "key": "[\"7888188a-d0f0-4ec2-8352-72b2cc869773\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Жёсткий рэп! Дело Бабана живёт. Мне кажется тебе нужен другой бит, этот сильно тебе не подходит. ",
+        "scoredAt": "2026-10-15T14:03:20.010Z",
+        "userId": "7888188a-d0f0-4ec2-8352-72b2cc869773"
+      }
+    },
+    {
+      "id": "270ec6bda44a3ab6d78a9eb1e2afe22194d7abbda34b5b7528b16b9bbbc779dd",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:04:37.231Z",
+      "key": "[\"6c996eb8-21ba-4a95-9945-6fb98ae02f15\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Классно застелил. Чувствуешь это дерьмо, знаешь как нужно делать на баттлах. Давай до парных дотягивай, интересно было бы тебя там глянуть. ",
+        "scoredAt": "2026-10-15T14:04:37.231Z",
+        "userId": "6c996eb8-21ba-4a95-9945-6fb98ae02f15"
+      }
+    },
+    {
+      "id": "f959891b2d479b3b6df36702e1f4a30956d4b0ebad392d62988c2bcd672a5830",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:02:35.356Z",
+      "key": "[\"d46b57e1-c43d-487a-a947-0e48a67fe97a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Блин есть что-то в этом, не хватило под такое чуть больше напора дать, можно безумие в исполнение или фишками добавить",
+        "scoredAt": "2026-10-15T14:02:35.356Z",
+        "userId": "d46b57e1-c43d-487a-a947-0e48a67fe97a"
+      }
+    },
+    {
+      "id": "f52f69eb2cc6e936e37f900c34ad11c42c3e359b8ca1de18c9c51201519ed61d",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:09:36.660Z",
+      "key": "[\"d9af6a70-3c0d-4c04-83c6-32f80586f959\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "ну это так плохо что аж хорошо, спасибо за приятный кринж) оу да!",
+        "scoredAt": "2026-10-15T14:09:36.660Z",
+        "userId": "d9af6a70-3c0d-4c04-83c6-32f80586f959"
+      }
+    },
+    {
+      "id": "d1a24c3656ea372e2635596f0cdb1f9e9c9d48dca86751aaa6442544493aca0c",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:07:13.894Z",
+      "key": "[\"035ec6b6-d608-4e9e-b071-6963999cae44\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Посыл понятен, но вот разнообразие бы треку по флоу сделать, всё как то в одной ритмике",
+        "scoredAt": "2026-10-15T14:07:13.894Z",
+        "userId": "035ec6b6-d608-4e9e-b071-6963999cae44"
+      }
+    },
+    {
+      "id": "8ca2d44d14132a8fc80940dff923ef27ac02c2c4abbd5ca2a1625156aa1cf5d6",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:05:59.100Z",
+      "key": "[\"9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "авансом 4 с минусом, по тексту много воды , и будто её можно было бы в колкие строчки превратить. такой рэп на выебонах про другой рэп но это же всё один хрен всё равно рэп, поэтому ну хз..\nв конце хорошо закончил актуалочкой!",
+        "scoredAt": "2026-10-15T14:05:59.100Z",
+        "userId": "9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f"
+      }
+    },
+    {
+      "id": "cff7a03ba9b7f60ac65037e550371efe598d7dea4785db07f4db220df9a7614b",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:05:35.848Z",
+      "key": "[\"d17607b7-f34e-4b44-b128-268722637a7e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-15T14:05:35.848Z",
+        "userId": "d17607b7-f34e-4b44-b128-268722637a7e"
+      }
+    },
+    {
+      "id": "6e727759c54af4a7b2bd6153f2b4a00ec4ba76a88952d27c236c29c804ae2831",
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "sourceScoredAt": "2026-10-15T14:08:29.770Z",
+      "key": "[\"33b94e10-f7d9-4514-9350-042727a79d3e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Нравится что не наврал что на диктофон записал, надо выходить на новый уровень мс конденсаторный микро",
+        "scoredAt": "2026-10-15T14:08:29.770Z",
+        "userId": "33b94e10-f7d9-4514-9350-042727a79d3e"
+      }
     }
   ],
   "snapshots": [
@@ -100671,6 +100881,26 @@
           "index": 29.119125931563453,
           "favor": 18.508407772799668,
           "attention": -0.8113001898600661,
+          "respect": 11.422018348623853
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T14:12:22.305Z",
+      "exportedAt": "2026-10-15T14:12:22.305Z",
+      "scores": 9998,
+      "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+      "indices": {
+        "forum": {
+          "index": 23.099828649124845,
+          "favor": 9.583867016356113,
+          "attention": 6.573812872438154,
+          "respect": 6.9421487603305785
+        },
+        "veterans": {
+          "index": 29.185297192779032,
+          "favor": 18.51346737780186,
+          "attention": -0.7501885336466791,
           "respect": 11.422018348623853
         }
       }
