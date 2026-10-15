@@ -4,7 +4,8 @@ test('CLI no-op leaves all four files byte-identical; pending deployment retries
  const root=process.cwd(),temp=await fs.mkdtemp(path.join(os.tmpdir(),'ib19-noop-'));let server;
  try{
   await fs.mkdir(path.join(temp,'data'));await fs.mkdir(path.join(temp,'scripts'));
-  for(const f of [...stateFiles,'forum.csv'])await fs.copyFile(path.join(root,'data',f),path.join(temp,'data',f));
+  for(const f of stateFiles)await fs.copyFile(path.join(root,'data',f),path.join(temp,'data',f));
+  await fs.copyFile(path.join(root,'tests/fixtures/forum-20261012.csv'),path.join(temp,'data/forum.csv'));
   const metadata=JSON.parse(await fs.readFile(path.join(temp,'data/metadata.json'))),main=JSON.parse(await fs.readFile(path.join(temp,'data/19ib_all_judges_REPAIRED.json')));
   const full={...metadata.source.round,id:metadata.source.roundId,entries:main.members.map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length?p.scores.reduce((n,s)=>n+s.score,0):null}))};let changed=false,calls=[];
   const target=main.members.find(p=>p.scores.some(s=>s.score>1));const details=structuredClone(target.scores);details.find(s=>s.score>1).score--;
