@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T21:42:15.341Z",
-  "exportedAt": "2026-10-15T21:42:15.341Z",
-  "runId": "2026-10-15T21:42:15.341Z",
-  "forumExportedAt": "2026-10-15T21:42:15.341Z",
+  "lastSuccessfulAt": "2026-10-15T21:52:22.872Z",
+  "exportedAt": "2026-10-15T21:52:22.872Z",
+  "runId": "2026-10-15T21:52:22.872Z",
+  "forumExportedAt": "2026-10-15T21:52:22.872Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10481,
+    "scores": 10482,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5430,
-    "scoresBefore": 10478,
-    "scoresAfter": 10481,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3193,
+    "scoresBefore": 10481,
+    "scoresAfter": 10482,
     "fullBaselineRequests": 3124,
-    "requestReductionPercent": 99.83994878361075,
+    "requestReductionPercent": 99.90396927016644,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "Бабаджи",
+          "comment": "Местами вроде бы бодро даже под этот бит ритмично делаешь, но мне кажется, что под такой биток, надо и интонациями как-то интересно играть, а у тебя скупо на этот счет в подаче по эмоциям. Под конец так вообще чутка устал. Текстово - ну такие, приколдесы по классике отборочного репа на реп баттле.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T21:44:32.976Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -178,13 +185,6 @@
           "artist": "Ulysses",
           "comment": "Это что за абоба? В этом нет единой композиции, какие-то механизированные наброски. Замахнулся на концепцию, которая явно не по зубам. Ощущение, что текст писал бот-графоман в припадке, ну нельзя же так шизить. Рифмы неплохие и исполнил ок.",
           "scoredAt": "2026-10-15T21:05:29.648Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 4,
-          "artist": "Черный",
-          "comment": "So so, прописано то норм, но пластинка заезженная, только по верхам прошелся. Стоит дожимать рефлексию, чтобы до глубины души (напр. последние две четверки я бы под нож), либо добавлять разнообразия, чтобы не воспринималось так серо. С авансом за потенциал.",
-          "scoredAt": "2026-10-15T21:05:14.479Z"
         }
       ]
     }
