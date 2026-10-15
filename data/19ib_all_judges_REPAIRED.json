@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T00:22:13.540Z",
+  "exportedAt": "2026-10-15T00:32:12.959Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -9195,9 +9195,16 @@
     },
     {
       "userId": "4e6bd737-d817-4c35-9a8f-2a25ef00ed6a",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "comment": "это правильно",
+          "scoredAt": "2026-10-15T00:27:40.828Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -43737,8 +43744,14 @@
     },
     {
       "userId": "4ab3d441-4a32-403b-ad67-d6b1ae83e366",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "Блин, дикция конечно твоя слабая сторона. Может что-то не так с прикусом или ещё чем. \nЧитаешь вроде норм, но за плохой дикцией сложно углядеть что-то. ",
+          "scoredAt": "2026-10-15T00:24:08.144Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -43758,7 +43771,7 @@
           "scoredAt": "2026-10-12T10:36:07.774Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:32:05.258Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -56365,8 +56378,14 @@
     },
     {
       "userId": "d3a4ff60-9822-4542-9e07-73baeac9a0c6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "технично, но не хватает этой читке музыкальности, какой-то общей структуры того, за что бы восхищал песняк\nСтавлю за потанцевал 4!",
+          "scoredAt": "2026-10-15T00:22:40.543Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -56380,7 +56399,7 @@
           "scoredAt": "2026-10-11T13:05:11.230Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -56797,8 +56816,14 @@
     },
     {
       "userId": "347ccd68-8b97-4697-95fc-4cec9edd5db5",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "Вечеркалось, хливкие шорьки \nСинерялись в быской раствове, \nХрюкотались настиша вкробки \nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T00:31:15.246Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -56806,7 +56831,7 @@
           "scoredAt": "2026-10-09T20:59:59.948Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -74191,8 +74216,14 @@
     },
     {
       "userId": "a5b071a8-176c-4296-a26d-8a1686911d69",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "а зачем тебе бит брат, ты вообще читал с ним ? \nЛучше бы бита вообще не было. ",
+          "scoredAt": "2026-10-15T00:28:48.309Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -74206,7 +74237,7 @@
           "scoredAt": "2026-10-12T17:57:28.313Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -75411,8 +75442,14 @@
     },
     {
       "userId": "2501bc75-c673-4886-9ad9-8db339ecec9d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "ты в конце пытаешься догнать то, что проебал в начале\nМожно же текст просто сократить. \nВо 2 тебе нужно очень много работать над песняком, если пройдёшь. \n",
+          "scoredAt": "2026-10-15T00:30:32.493Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -75420,7 +75457,7 @@
           "scoredAt": "2026-10-11T11:37:56.568Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {
@@ -76116,8 +76153,14 @@
     },
     {
       "userId": "16fe488f-7aa3-4e0a-b393-8ea08cecb247",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Нарифмовал норм, не особо со смыслом порой, но ладно.\nчитаешь обычно, не хватило каких-то интересностей до 4-ки ",
+          "scoredAt": "2026-10-15T00:25:30.304Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -76131,7 +76174,7 @@
           "scoredAt": "2026-10-07T19:01:29.582Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-15T00:32:12.959Z",
       "current": true
     },
     {

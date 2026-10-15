@@ -89394,6 +89394,104 @@
         "scoredAt": "2026-10-15T00:21:37.646Z",
         "userId": "8bb99af2-c3c9-4b57-877f-fa9dddb670d4"
       }
+    },
+    {
+      "id": "1ae3fd5891e9b1e050c3494d2a615a5d9f536c1d45440ee27e6dc8a511ea22ae",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:27:40.828Z",
+      "key": "[\"4e6bd737-d817-4c35-9a8f-2a25ef00ed6a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "это правильно",
+        "scoredAt": "2026-10-15T00:27:40.828Z",
+        "userId": "4e6bd737-d817-4c35-9a8f-2a25ef00ed6a"
+      }
+    },
+    {
+      "id": "df0b3f6d8673d616a482a7ffbdc99162a285f3199f9715a73cfeda00c67fb704",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:24:08.144Z",
+      "key": "[\"4ab3d441-4a32-403b-ad67-d6b1ae83e366\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "Блин, дикция конечно твоя слабая сторона. Может что-то не так с прикусом или ещё чем. \nЧитаешь вроде норм, но за плохой дикцией сложно углядеть что-то. ",
+        "scoredAt": "2026-10-15T00:24:08.144Z",
+        "userId": "4ab3d441-4a32-403b-ad67-d6b1ae83e366"
+      }
+    },
+    {
+      "id": "50c2a0e87e3f0e4cc7411a2594aeb1fb5e92e88990e07e52e9b3453757fa0453",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:22:40.543Z",
+      "key": "[\"d3a4ff60-9822-4542-9e07-73baeac9a0c6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "технично, но не хватает этой читке музыкальности, какой-то общей структуры того, за что бы восхищал песняк\nСтавлю за потанцевал 4!",
+        "scoredAt": "2026-10-15T00:22:40.543Z",
+        "userId": "d3a4ff60-9822-4542-9e07-73baeac9a0c6"
+      }
+    },
+    {
+      "id": "4bd8dd2016b0807370f43e1a0be2f89f67369eb08eb02be3dcf1137579991c78",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:31:15.246Z",
+      "key": "[\"347ccd68-8b97-4697-95fc-4cec9edd5db5\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "Вечеркалось, хливкие шорьки \nСинерялись в быской раствове, \nХрюкотались настиша вкробки \nНезаблудки в мутраве.",
+        "scoredAt": "2026-10-15T00:31:15.246Z",
+        "userId": "347ccd68-8b97-4697-95fc-4cec9edd5db5"
+      }
+    },
+    {
+      "id": "7107ba54d611db77ed965b2f125837044d188ece5f918de9fd0a2a645c6fa8d2",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:28:48.309Z",
+      "key": "[\"a5b071a8-176c-4296-a26d-8a1686911d69\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "а зачем тебе бит брат, ты вообще читал с ним ? \nЛучше бы бита вообще не было. ",
+        "scoredAt": "2026-10-15T00:28:48.309Z",
+        "userId": "a5b071a8-176c-4296-a26d-8a1686911d69"
+      }
+    },
+    {
+      "id": "def032412cb751ba22e913a852b82d2b97d9c10304544abf6295ec428e7b4879",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:30:32.493Z",
+      "key": "[\"2501bc75-c673-4886-9ad9-8db339ecec9d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "ты в конце пытаешься догнать то, что проебал в начале\nМожно же текст просто сократить. \nВо 2 тебе нужно очень много работать над песняком, если пройдёшь. \n",
+        "scoredAt": "2026-10-15T00:30:32.493Z",
+        "userId": "2501bc75-c673-4886-9ad9-8db339ecec9d"
+      }
+    },
+    {
+      "id": "dfc3ccc5c267adac050f8e31eb8f93e80b9967d45cc6d2b91fb3513a889ef24d",
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "sourceScoredAt": "2026-10-15T00:25:30.304Z",
+      "key": "[\"16fe488f-7aa3-4e0a-b393-8ea08cecb247\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Нарифмовал норм, не особо со смыслом порой, но ладно.\nчитаешь обычно, не хватило каких-то интересностей до 4-ки ",
+        "scoredAt": "2026-10-15T00:25:30.304Z",
+        "userId": "16fe488f-7aa3-4e0a-b393-8ea08cecb247"
+      }
     }
   ],
   "snapshots": [
@@ -91133,6 +91231,26 @@
           "index": 27.729048415598704,
           "favor": 18.611320686929652,
           "attention": -2.3406056046642845,
+          "respect": 11.458333333333334
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T00:32:12.959Z",
+      "exportedAt": "2026-10-15T00:32:12.959Z",
+      "scores": 9393,
+      "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
+      "indices": {
+        "forum": {
+          "index": 23.52434447806202,
+          "favor": 9.96938698379904,
+          "attention": 6.439572878878361,
+          "respect": 7.115384615384615
+        },
+        "veterans": {
+          "index": 27.760336090332487,
+          "favor": 18.621028540656972,
+          "attention": -2.3190257836578216,
           "respect": 11.458333333333334
         }
       }

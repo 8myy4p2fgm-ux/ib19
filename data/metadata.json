@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T00:22:13.540Z",
-  "exportedAt": "2026-10-15T00:22:13.540Z",
-  "runId": "2026-10-15T00:22:13.540Z",
-  "forumExportedAt": "2026-10-15T00:22:13.540Z",
+  "lastSuccessfulAt": "2026-10-15T00:32:12.959Z",
+  "exportedAt": "2026-10-15T00:32:12.959Z",
+  "runId": "2026-10-15T00:32:12.959Z",
+  "forumExportedAt": "2026-10-15T00:32:12.959Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9386,
+    "scores": 9393,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 5794,
-    "scoresBefore": 9382,
-    "scoresAfter": 9386,
-    "fullBaselineRequests": 3040,
-    "requestReductionPercent": 99.80263157894737,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9092,
+    "scoresBefore": 9386,
+    "scoresAfter": 9393,
+    "fullBaselineRequests": 3041,
+    "requestReductionPercent": 99.70404472213087,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Amon",
+          "comment": "Вечеркалось, хливкие шорьки \nСинерялись в быской раствове, \nХрюкотались настиша вкробки \nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T00:31:15.246Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "monaxphonker",
+          "comment": "ты в конце пытаешься догнать то, что проебал в начале\nМожно же текст просто сократить. \nВо 2 тебе нужно очень много работать над песняком, если пройдёшь. \n",
+          "scoredAt": "2026-10-15T00:30:32.493Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "ОЛ УШЁЛ",
+          "comment": "а зачем тебе бит брат, ты вообще читал с ним ? \nЛучше бы бита вообще не было. ",
+          "scoredAt": "2026-10-15T00:28:48.309Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "Шпиш",
+          "comment": "это правильно",
+          "scoredAt": "2026-10-15T00:27:40.828Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "вечныйвечно",
+          "comment": "Нарифмовал норм, не особо со смыслом порой, но ладно.\nчитаешь обычно, не хватило каких-то интересностей до 4-ки ",
+          "scoredAt": "2026-10-15T00:25:30.304Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Grims",
+          "comment": "Блин, дикция конечно твоя слабая сторона. Может что-то не так с прикусом или ещё чем. \nЧитаешь вроде норм, но за плохой дикцией сложно углядеть что-то. ",
+          "scoredAt": "2026-10-15T00:24:08.144Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "GNG",
+          "comment": "технично, но не хватает этой читке музыкальности, какой-то общей структуры того, за что бы восхищал песняк\nСтавлю за потанцевал 4!",
+          "scoredAt": "2026-10-15T00:22:40.543Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -136,55 +185,6 @@
           "artist": "Игорь Family",
           "comment": "где-то я слышал этот бит, что-то супер старое\n\nПрикольно, но звучит как демка \n",
           "scoredAt": "2026-10-15T00:05:30.031Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Long G",
-          "comment": "обычно - циклично\nинфляции - папарацци \nрации- нации\nвремя - бремя\nсигу - двигу \nпринимать - отнять\n\nЯ был бы плохим учителем, мне даже за такой текст ставить 2 больно... \n",
-          "scoredAt": "2026-10-15T00:04:18.238Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Don Cartuletti",
-          "comment": "опять мой решающий...\n\nМне не нравится ни дрилл, особенно такой посредственный, ни твоё отсутствие идей на треке.\n\nчитаешь ты норм, но это надо в какое-то другое русло пустить, либо делать более стилёво.\nЯ не знаю, почему в 1 раунде многие решили массово забить хуй",
-          "scoredAt": "2026-10-15T00:02:37.263Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Spolohov",
-          "comment": "Неплохо, не хватило какого-то более серьёзного отношения \n",
-          "scoredAt": "2026-10-15T00:00:02.935Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "ZLOY",
-          "comment": "блин в конце уже хотелось кислородный баллон заказывать. \nну ты даёшь, нарифмовал а нарифмовал ёмае...\n",
-          "scoredAt": "2026-10-14T23:58:07.575Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Боргес (33)",
-          "comment": "Сори, я не знаю чем зацепило остальных\nЯ послушал работу, потом переслушал с мыслями \" НУ МОЖЕТ Я ЧОТ НЕ ПОНЯЛ\"\nНеплохо, но не более. \n",
-          "scoredAt": "2026-10-14T23:56:28.922Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Ноубадиев",
-          "comment": "ТАК ИХ ЭТИХ ШАРОЁБОВ! ",
-          "scoredAt": "2026-10-14T23:51:26.240Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "kt03Ta",
-          "comment": "жеееееесть\nрэпер надеюсь в глаголы не сунется, \nдаже если с ним пол интернета судится, \nсчастье не за горами, но рэпер трудится ... и всё у него сбудется ...",
-          "scoredAt": "2026-10-14T23:50:51.694Z"
         }
       ]
     }
