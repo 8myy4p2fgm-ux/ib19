@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-15T19:42:19.621Z",
+  "exportedAt": "2026-10-15T19:52:20.006Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2551,6 +2551,12 @@
       "forum_name": "Граф",
       "group": "Ветераны",
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "заключительный стрим разбор 30",
+          "scoredAt": "2026-10-15T19:45:03.833Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 5,

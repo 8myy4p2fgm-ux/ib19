@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T19:42:19.621Z",
+  "exportedAt": "2026-10-15T19:52:20.006Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -12845,8 +12845,14 @@
     },
     {
       "userId": "a89f9a3f-fba4-4545-a81c-34357f680026",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "comment": "По читке увы ритмически очень плохо, еще и эти бэки с питчем нагоняют тоски, если честно, а не агрессии и атмосферы.\n\nЭто могла бы быть 1, но я отмечу все же, что в тексте какие-то чисто панчлайновые приколы есть, так что пусть будет 2.\n\nСтрим, ч. 16",
+          "scoredAt": "2026-10-15T19:48:58.521Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -12860,7 +12866,7 @@
           "scoredAt": "2026-09-01T16:39:32.196Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
@@ -21397,9 +21403,16 @@
     },
     {
       "userId": "8c0ec389-ce55-4400-bf78-1abbe6a0471c",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Дружище, это только отбор, у тебя даже оппонента нет, а ты уже невидимого чувака забаттлил))",
+          "scoredAt": "2026-10-15T19:44:30.112Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
@@ -35836,9 +35849,16 @@
     },
     {
       "userId": "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "С таких плохих рифм начал, а потмо исправился. Подано зачяетно!\nПожалел, 4.",
+          "scoredAt": "2026-10-15T19:42:33.126Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
@@ -36677,8 +36697,14 @@
     },
     {
       "userId": "41f8b03c-7546-404c-94b0-6688e2b69f77",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Отличный текст! Красавчик!\nПо исполнению местами слишком торопишься и где-то неуверенно начинаешь жевать. \nМеста, где даешь эмоции, прям заебись. Очень харизматично на самом деле. Прокачивай свой стиль дальше",
+          "scoredAt": "2026-10-15T19:46:30.045Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -36692,7 +36718,7 @@
           "scoredAt": "2026-10-01T16:53:34.739Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:32:12.851Z",
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
@@ -37627,8 +37653,14 @@
     },
     {
       "userId": "728340ba-1dbf-4a6f-9bbb-26cc2ffd9dc1",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "заключительный стрим разбор 30",
+          "scoredAt": "2026-10-15T19:45:03.833Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 5,
@@ -37642,7 +37674,7 @@
           "scoredAt": "2026-09-14T15:38:05.643Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
@@ -59892,6 +59924,26 @@
       "current": true
     },
     {
+      "userId": "dbd7e17a-bdca-4c17-ab33-2a69753f34cb",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+          "scoredAt": "2026-10-13T09:16:39.979Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Седьмой стрим.",
+          "scoredAt": "2026-10-12T16:29:03.227Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true
+    },
+    {
       "userId": "955285f2-7132-4ee3-a2e4-b48fdfbe999c",
       "scoredCount": 3,
       "scores": [
@@ -60001,26 +60053,6 @@
         }
       ],
       "fetchedAt": "2026-10-15T12:32:34.312Z",
-      "current": true
-    },
-    {
-      "userId": "dbd7e17a-bdca-4c17-ab33-2a69753f34cb",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
-          "scoredAt": "2026-10-13T09:16:39.979Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "comment": "Седьмой стрим.",
-          "scoredAt": "2026-10-12T16:29:03.227Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
       "current": true
     },
     {
@@ -77381,8 +77413,14 @@
     },
     {
       "userId": "ac330f45-fb9c-4bbd-86ae-cb44bd2f9ab1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "заключительный стрим разбор 31",
+          "scoredAt": "2026-10-15T19:49:40.981Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -77402,7 +77440,7 @@
           "scoredAt": "2026-10-07T16:30:21.978Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:02:20.053Z",
+      "fetchedAt": "2026-10-15T19:52:20.006Z",
       "current": true
     },
     {
