@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T05:12:09.510Z",
-  "exportedAt": "2026-10-15T05:12:09.510Z",
-  "runId": "2026-10-15T05:12:09.510Z",
-  "forumExportedAt": "2026-10-15T05:12:09.510Z",
+  "lastSuccessfulAt": "2026-10-15T05:22:13.108Z",
+  "exportedAt": "2026-10-15T05:22:13.108Z",
+  "runId": "2026-10-15T05:22:13.108Z",
+  "forumExportedAt": "2026-10-15T05:22:13.108Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9440,
+    "scores": 9442,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5005,
-    "scoresBefore": 9437,
-    "scoresAfter": 9440,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4014,
+    "scoresBefore": 9440,
+    "scoresAfter": 9442,
     "fullBaselineRequests": 3047,
-    "requestReductionPercent": 99.83590416803413,
+    "requestReductionPercent": 99.8687233344273,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -81,6 +81,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "МЦ Лягушкин",
+          "comment": "Много интересных строчек. Про звездолеты из хлеба вообще кайф. Про фанфикшен хорошо подметил. Проблема - исполнение. Ты зря каверкаешь голос и пытаешься в а-ля читку по нотам. Звучит как детская песенка. Будет круто, если ты просто это зачитаешь.",
+          "scoredAt": "2026-10-15T05:18:20.909Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "PHOEN1X",
+          "comment": "Очень просто по ритмике. Прямо детская считалочка. Текст соответствует исполнению. Простой и наивный. Нужно делать больше рэпа, я думаю, что со временем у тебя начнет получаться лучше!",
+          "scoredAt": "2026-10-15T05:14:45.553Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -171,20 +185,6 @@
           "artist": "ANKASAT",
           "comment": "очень странная работа\n",
           "scoredAt": "2026-10-15T01:15:25.891Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Hard Rap Cafe",
-          "comment": "Слишком потизивно!!!! РОССИЯ ДЛЯ ГРУСТНЫХ !!!\nда не, не хватает именно серьёзности, звучит слишком вальяжно ",
-          "scoredAt": "2026-10-15T01:14:18.317Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "КСШ х Re!men'",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.\n\nбля... даже кот нарифмовал лучше",
-          "scoredAt": "2026-10-15T01:13:17.611Z"
         }
       ]
     }
