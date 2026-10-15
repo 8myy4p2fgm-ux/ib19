@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-15T13:02:20.053Z",
+  "exportedAt": "2026-10-15T13:12:20.164Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2806,6 +2806,12 @@
       "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Супер приятный звук, голос и сочетание с битом. Но текст можно было и лучше написать",
+          "scoredAt": "2026-10-15T13:03:36.106Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
