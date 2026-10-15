@@ -1,6 +1,6 @@
 /* Approved V4 room. The photographs include the desktop wall switch. */
 :root{--room-dim:.42;--room-image-height:50vw;--site-header-height:80px}
-html{scrollbar-gutter:stable;scroll-padding-top:calc(var(--site-header-height) + 16px)}
+html{scroll-padding-top:calc(var(--site-header-height) + 16px)}
 body{position:relative;isolation:isolate}
 :where(button,a,input,select,[tabindex]){scroll-margin-top:calc(var(--site-header-height) + 16px)}
 .app{isolation:isolate}
