@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-15T18:42:30.532Z",
+  "exportedAt": "2026-10-15T18:52:20.758Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -1800,8 +1800,14 @@
     },
     {
       "userId": "2a4041c4-b2bb-4260-9ab0-4069d600598a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Позитивненько. Хотел поставить 4, но когда пошли ускорения, впечатление испортилось, там через строчку просто тараторка получилась. Но я за то, чтобы ты прошёл дальше. ",
+          "scoredAt": "2026-10-15T18:48:11.751Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -1815,7 +1821,7 @@
           "scoredAt": "2026-09-27T14:53:49.394Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -11594,8 +11600,14 @@
     },
     {
       "userId": "c6aadfbb-c216-45b4-a08e-a2b3128c99a8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "comment": "Исполнил довольно таки неплохо. По тексту ничего интересного для себя не выделил.",
+          "scoredAt": "2026-10-15T18:45:09.757Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -11615,7 +11627,7 @@
           "scoredAt": "2026-10-06T17:32:18.688Z"
         }
       ],
-      "fetchedAt": "2026-10-15T10:32:24.542Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -19696,8 +19708,14 @@
     },
     {
       "userId": "685f7687-840d-4c25-931c-db4f4dd47632",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Нужно тренироваться. ",
+          "scoredAt": "2026-10-15T18:50:31.819Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -19717,7 +19735,7 @@
           "scoredAt": "2026-09-20T04:34:31.919Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -23649,8 +23667,14 @@
     },
     {
       "userId": "17c89277-dea9-426e-9b8c-76aa03994412",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Нормально по звуку, старался, а по тексту пока нет прям ударных строк, если получится во втором добавить, то можешь составить опытным конкуренцию, наверное... Всё в твоих руках. ",
+          "scoredAt": "2026-10-15T18:43:52.751Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -23664,7 +23688,7 @@
           "scoredAt": "2026-09-12T14:29:58.973Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -36604,8 +36628,14 @@
     },
     {
       "userId": "66447efb-fceb-4afb-b3f9-958773c3d56c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "У тебя видимо дипрессия, или я не понимаю тогда, почему ты решил выбрать именно такую интонацию. ",
+          "scoredAt": "2026-10-15T18:46:19.432Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -36625,7 +36655,7 @@
           "scoredAt": "2026-09-06T19:57:19.934Z"
         }
       ],
-      "fetchedAt": "2026-10-15T05:12:09.510Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -63341,8 +63371,14 @@
     },
     {
       "userId": "923810fd-ec96-41c1-a85d-eeec73537e1d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Ну это вайбит и качает однозначно. Жалко, что в тексте только грязюка. Если пройдешь, то придется писать панчи для умных. ",
+          "scoredAt": "2026-10-15T18:51:28.412Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -63362,7 +63398,7 @@
           "scoredAt": "2026-09-23T21:31:43.562Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -66535,8 +66571,14 @@
     },
     {
       "userId": "bad65d48-c704-426d-b75b-ff702a38f8eb",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "Стилек твой понравился. Раскрытие есть,рифмы совсем простенькие, интересных строк не услышал. ",
+          "scoredAt": "2026-10-15T18:49:13.988Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -66544,7 +66586,7 @@
           "scoredAt": "2026-10-01T12:43:14.724Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -69043,8 +69085,14 @@
     },
     {
       "userId": "0c382263-2a81-4942-bd44-5e0598d91293",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Уверенно читаешь, но блин по тексту как-то все печально. Хочется поставить тебе оценку выше, но вообще не вижу за что можно было бы зацепиться.",
+          "scoredAt": "2026-10-15T18:45:00.631Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -69070,7 +69118,7 @@
           "scoredAt": "2026-09-25T13:06:00.465Z"
         }
       ],
-      "fetchedAt": "2026-10-15T09:22:19.243Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -69584,8 +69632,14 @@
     },
     {
       "userId": "8ef0158e-1a15-42e2-9089-fd910df48e52",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-15T18:51:22.432Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -69599,7 +69653,7 @@
           "scoredAt": "2026-09-29T13:52:04.565Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -73666,8 +73720,14 @@
     },
     {
       "userId": "df10b4f0-c36f-4f3d-8d74-14bb7cf63c87",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "На Ин Да Утке, это бы хорошо смотрелось. Автотюн на хрип я ещё не слышал))) ",
+          "scoredAt": "2026-10-15T18:44:58.294Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -73693,7 +73753,7 @@
           "scoredAt": "2026-10-07T16:44:01.475Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:02:20.053Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -78562,8 +78622,14 @@
     },
     {
       "userId": "9823ca00-87ea-45ca-bae1-9f4071800fa6",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "\"Я не воздухан  если я пукну то обкакаюсь\" 😂😂😂\nМинус тебе этот сильно не пдоходит. Но в тебе есть прикол, ставлю проход. ",
+          "scoredAt": "2026-10-15T18:49:42.083Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -78571,7 +78637,7 @@
           "scoredAt": "2026-10-15T15:21:58.055Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:22:19.469Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {
@@ -78962,8 +79028,14 @@
     },
     {
       "userId": "ed8b9f96-40f2-4f33-a435-abb40f4f4332",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Вот так напор! Мне кажется, что ты продаёшь дороже, чем это стоит. Но я поверил, лови 4. ",
+          "scoredAt": "2026-10-15T18:51:28.301Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -78983,7 +79055,7 @@
           "scoredAt": "2026-09-18T17:21:32.875Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:52:10.924Z",
+      "fetchedAt": "2026-10-15T18:52:20.758Z",
       "current": true
     },
     {

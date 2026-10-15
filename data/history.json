@@ -103072,6 +103072,174 @@
         "scoredAt": "2026-10-15T18:34:00.952Z",
         "userId": "ce53f5ba-f1ba-4fce-adfe-2884ec649c07"
       }
+    },
+    {
+      "id": "65d5f48ec801d325bd8e3f47350e1ef4996a08f0bfec13524d1efab4ae60670a",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:48:11.751Z",
+      "key": "[\"2a4041c4-b2bb-4260-9ab0-4069d600598a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Позитивненько. Хотел поставить 4, но когда пошли ускорения, впечатление испортилось, там через строчку просто тараторка получилась. Но я за то, чтобы ты прошёл дальше. ",
+        "scoredAt": "2026-10-15T18:48:11.751Z",
+        "userId": "2a4041c4-b2bb-4260-9ab0-4069d600598a"
+      }
+    },
+    {
+      "id": "d879227a65565fd413845128e3feb17fca6219134de5f40ec499d81058a4384c",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:45:09.757Z",
+      "key": "[\"c6aadfbb-c216-45b4-a08e-a2b3128c99a8\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "Исполнил довольно таки неплохо. По тексту ничего интересного для себя не выделил.",
+        "scoredAt": "2026-10-15T18:45:09.757Z",
+        "userId": "c6aadfbb-c216-45b4-a08e-a2b3128c99a8"
+      }
+    },
+    {
+      "id": "0d0b350d1dfd45daec0add3804f3b60322331e947ffd3a203442984f284d35cd",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:50:31.819Z",
+      "key": "[\"685f7687-840d-4c25-931c-db4f4dd47632\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Нужно тренироваться. ",
+        "scoredAt": "2026-10-15T18:50:31.819Z",
+        "userId": "685f7687-840d-4c25-931c-db4f4dd47632"
+      }
+    },
+    {
+      "id": "0fc7ac69991b48092bab8a27571b367c70bf367d536fc600e0156bfb3e96069a",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:43:52.751Z",
+      "key": "[\"17c89277-dea9-426e-9b8c-76aa03994412\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Нормально по звуку, старался, а по тексту пока нет прям ударных строк, если получится во втором добавить, то можешь составить опытным конкуренцию, наверное... Всё в твоих руках. ",
+        "scoredAt": "2026-10-15T18:43:52.751Z",
+        "userId": "17c89277-dea9-426e-9b8c-76aa03994412"
+      }
+    },
+    {
+      "id": "0e8932a5678b5f834b778c8a25082934c6ac1a1ce06a928818795e36a931a7e1",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:46:19.432Z",
+      "key": "[\"66447efb-fceb-4afb-b3f9-958773c3d56c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "У тебя видимо дипрессия, или я не понимаю тогда, почему ты решил выбрать именно такую интонацию. ",
+        "scoredAt": "2026-10-15T18:46:19.432Z",
+        "userId": "66447efb-fceb-4afb-b3f9-958773c3d56c"
+      }
+    },
+    {
+      "id": "23990ef342a3e7137b01e09255550b51ba40bdfafb74a12247fd0b5e68ea1386",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:51:28.412Z",
+      "key": "[\"923810fd-ec96-41c1-a85d-eeec73537e1d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Ну это вайбит и качает однозначно. Жалко, что в тексте только грязюка. Если пройдешь, то придется писать панчи для умных. ",
+        "scoredAt": "2026-10-15T18:51:28.412Z",
+        "userId": "923810fd-ec96-41c1-a85d-eeec73537e1d"
+      }
+    },
+    {
+      "id": "fd10ee14701b129897a491ab7cfbf570d15a06e4ccc22303cf3286a8481dfbc9",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:49:13.988Z",
+      "key": "[\"bad65d48-c704-426d-b75b-ff702a38f8eb\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "Стилек твой понравился. Раскрытие есть,рифмы совсем простенькие, интересных строк не услышал. ",
+        "scoredAt": "2026-10-15T18:49:13.988Z",
+        "userId": "bad65d48-c704-426d-b75b-ff702a38f8eb"
+      }
+    },
+    {
+      "id": "b6dbcf1fb7c33fa3c956b4db7959888e0ef6b396577aac456436b428b98adf5c",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:45:00.631Z",
+      "key": "[\"0c382263-2a81-4942-bd44-5e0598d91293\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Уверенно читаешь, но блин по тексту как-то все печально. Хочется поставить тебе оценку выше, но вообще не вижу за что можно было бы зацепиться.",
+        "scoredAt": "2026-10-15T18:45:00.631Z",
+        "userId": "0c382263-2a81-4942-bd44-5e0598d91293"
+      }
+    },
+    {
+      "id": "f5f390ed5823ccf410cca41961a3bff87d4e8b65c6869a9c8730cf4f234a6d6a",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:51:22.432Z",
+      "key": "[\"8ef0158e-1a15-42e2-9089-fd910df48e52\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-15T18:51:22.432Z",
+        "userId": "8ef0158e-1a15-42e2-9089-fd910df48e52"
+      }
+    },
+    {
+      "id": "e83e91d3f5c702057d2dd7bc85db1303bdf325989efb5ec4042a880d79e92598",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:44:58.294Z",
+      "key": "[\"df10b4f0-c36f-4f3d-8d74-14bb7cf63c87\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "На Ин Да Утке, это бы хорошо смотрелось. Автотюн на хрип я ещё не слышал))) ",
+        "scoredAt": "2026-10-15T18:44:58.294Z",
+        "userId": "df10b4f0-c36f-4f3d-8d74-14bb7cf63c87"
+      }
+    },
+    {
+      "id": "243804c0e80fe14a990b96764b034cfea9f401daccafb27d091056f8b93a1a41",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:49:42.083Z",
+      "key": "[\"9823ca00-87ea-45ca-bae1-9f4071800fa6\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "\"Я не воздухан  если я пукну то обкакаюсь\" 😂😂😂\nМинус тебе этот сильно не пдоходит. Но в тебе есть прикол, ставлю проход. ",
+        "scoredAt": "2026-10-15T18:49:42.083Z",
+        "userId": "9823ca00-87ea-45ca-bae1-9f4071800fa6"
+      }
+    },
+    {
+      "id": "1eed09193ce9be6eaa1f2ffc877aa0b34bf3b6e5d2da4c629fe53f42d25e499a",
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "sourceScoredAt": "2026-10-15T18:51:28.301Z",
+      "key": "[\"ed8b9f96-40f2-4f33-a435-abb40f4f4332\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Вот так напор! Мне кажется, что ты продаёшь дороже, чем это стоит. Но я поверил, лови 4. ",
+        "scoredAt": "2026-10-15T18:51:28.301Z",
+        "userId": "ed8b9f96-40f2-4f33-a435-abb40f4f4332"
+      }
     }
   ],
   "snapshots": [
@@ -106491,6 +106659,26 @@
           "index": 29.17298398059416,
           "favor": 18.32204187351609,
           "attention": -0.4986154150458232,
+          "respect": 11.349557522123893
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-15T18:52:20.758Z",
+      "exportedAt": "2026-10-15T18:52:20.758Z",
+      "scores": 10375,
+      "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+      "indices": {
+        "forum": {
+          "index": 22.78767079418143,
+          "favor": 9.379586907564262,
+          "attention": 6.543164531778461,
+          "respect": 6.86491935483871
+        },
+        "veterans": {
+          "index": 29.22049043922187,
+          "favor": 18.324236852862096,
+          "attention": -0.4533039357641174,
           "respect": 11.349557522123893
         }
       }
