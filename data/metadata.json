@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-15T01:02:23.885Z",
-  "exportedAt": "2026-10-15T01:02:23.885Z",
-  "runId": "2026-10-15T01:02:23.885Z",
-  "forumExportedAt": "2026-10-15T01:02:23.885Z",
+  "lastSuccessfulAt": "2026-10-15T01:12:16.909Z",
+  "exportedAt": "2026-10-15T01:12:16.909Z",
+  "runId": "2026-10-15T01:12:16.909Z",
+  "forumExportedAt": "2026-10-15T01:12:16.909Z",
   "selectionVersion": "dfc8ee4825f69a2bafa044ee27f3030b09334ede020e533c30aecec56fa26b03",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 93,
-    "scores": 9416,
+    "scores": 9424,
     "judges": 22,
     "forumDirectory": 94,
     "og": 64,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
     "updatedCards": 8,
     "mode": "incremental",
     "participants": 3281,
     "participantsWithNewScores": 8,
-    "changedParticipants": 7,
-    "logicalRequests": 11,
-    "durationMs": 11279,
-    "scoresBefore": 9408,
-    "scoresAfter": 9416,
-    "fullBaselineRequests": 3043,
-    "requestReductionPercent": 99.63851462372658,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10289,
+    "scoresBefore": 9416,
+    "scoresAfter": 9424,
+    "fullBaselineRequests": 3044,
+    "requestReductionPercent": 99.67148488830486,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,6 +84,69 @@
         {
           "judgeName": "KseroN",
           "score": 4,
+          "artist": "DIROL",
+          "comment": "запотеть полететь конечно испортило немного, я не поставлю 5, потому что хотелось бы твоих ДРУГИХ способностей ещё увидеть, смены ритма и тд\nНо звучишь хорошо! ",
+          "scoredAt": "2026-10-15T01:11:52.023Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "The Mighty",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:10:33.825Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Di Rare",
+          "comment": "ахаха \nну кстати неплохо, во 2 бы более ЦЕЛЬНО сделать работу) ",
+          "scoredAt": "2026-10-15T01:08:48.518Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Royzik",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:07:36.395Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "one of three",
+          "comment": "Слабовато, но потанцевал виден. \nСвёл бы песенку и вышло на +балл точно, если не на 2",
+          "scoredAt": "2026-10-15T01:07:04.293Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "NIcalls",
+          "comment": "Ну вроде неплохо накидываешь рэпа!\n",
+          "scoredAt": "2026-10-15T01:05:04.620Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "парижское небо",
+          "comment": "Доделай во 2 песню до ума, чтоб и сведение было крутое\nПотенциально ставлю 4",
+          "scoredAt": "2026-10-15T01:04:18.316Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Redne",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:02:57.107Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Догор",
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T01:02:18.786Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
           "artist": "clownkai",
           "comment": "читаешь как инстасамка + рам ( который мартовен)\n",
           "scoredAt": "2026-10-15T01:01:44.335Z"
@@ -122,69 +185,6 @@
           "artist": "БОРЯЛОЕР",
           "comment": "Хорошо читаешь дядька, больше бы ПОКАЗАТЕЛЬНЫХ моментов, чтобы понимать твои способности ",
           "scoredAt": "2026-10-15T00:53:32.316Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Ваня Епты",
-          "comment": "ну спасибо, что хоть 4 строчки написал! ",
-          "scoredAt": "2026-10-15T00:52:26.781Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "undercat",
-          "comment": "полифония ",
-          "scoredAt": "2026-10-15T00:51:40.218Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "petrovdimm",
-          "comment": "Голос кайфовый, но как-то техничности не хватило до оценки выше. Проход но не в тузах xD ",
-          "scoredAt": "2026-10-15T00:51:06.872Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Memphis Black",
-          "comment": "брат, демочка какая-то но приятная. \nОтнесись серьёзнее если пройдёшь ",
-          "scoredAt": "2026-10-15T00:49:59.599Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Филипп Эйльхарт",
-          "comment": "где-то видел твой никнейм\nРифмуешь приятно прям! \nЗаписать бы красиво, с ровненьким флоу и интонациями как по канонам, во 2 сделоеш ?? ",
-          "scoredAt": "2026-10-15T00:49:03.015Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "install.bat",
-          "comment": "Пожалуйста... не надо больше дрилла =( ",
-          "scoredAt": "2026-10-15T00:47:40.503Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "LÁ #НОВАЯВОЛНА",
-          "comment": "Это какое-то радио я поймал ? Не знал, что на лысину нынче можно поймать радиоволны, ну так себе волна\nтут какой-то рэп из подвала читают, в целом чот неплохое, но дорабатывать надо на студии канеш! ",
-          "scoredAt": "2026-10-15T00:45:27.765Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "TREUG",
-          "comment": "За драники + балл, аж захотелось покушац!\nПриятно читаешь, во 2 более бы баттловое что-то, а так неплохо читаешь, приятно складываешь текст в рифмованные строчки ",
-          "scoredAt": "2026-10-15T00:43:33.601Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "EBOSKE",
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T00:41:31.348Z"
         }
       ]
     }
