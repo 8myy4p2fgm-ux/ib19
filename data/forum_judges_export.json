@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T07:12:25.257Z",
+  "exportedAt": "2026-10-16T07:22:29.407Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1037,6 +1037,12 @@
       "forum_name": "Барни",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо, навайбил! ",
+          "scoredAt": "2026-10-16T07:16:57.590Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
