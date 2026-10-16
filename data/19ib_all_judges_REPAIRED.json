@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T09:02:22.753Z",
+  "exportedAt": "2026-10-16T09:12:27.604Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -14749,8 +14749,14 @@
     },
     {
       "userId": "57539d2f-c1f7-47e3-ab8b-69ceac7d4d89",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T09:11:47.243Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -14770,7 +14776,7 @@
           "scoredAt": "2026-09-10T19:01:04.312Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Гурьян",
       "artistSlug": "guryan"
@@ -17815,8 +17821,14 @@
     },
     {
       "userId": "d046befe-02ca-45c5-a726-f0b2b94c1269",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Смело отдавать 23 секунды на интро из 50. Исполнение неплохое, но, к сожалению, по тексту и по вау-эффектам, способным удерживать внимание и удивлять - маловато. В те 23 секунды можно было вкрутить нечто интересное по тексту, дать ритмики и т.д",
+          "scoredAt": "2026-10-16T09:02:44.995Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -17842,7 +17854,7 @@
           "scoredAt": "2026-08-31T20:03:10.836Z"
         }
       ],
-      "fetchedAt": "2026-10-15T19:02:28.909Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Gulyan",
       "artistSlug": "gulyan"
@@ -39133,8 +39145,14 @@
     },
     {
       "userId": "840dcc16-2eeb-4d43-aaa8-843259269de3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 4,
+          "comment": "Стилевое попурри, находчивый текст. В звучании слегка не хватает сочности до отвала жопы, но дрип ебанутый, брад.",
+          "scoredAt": "2026-10-16T09:04:45.663Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -39148,7 +39166,7 @@
           "scoredAt": "2026-09-11T13:28:21.829Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "zaplakal",
       "artistSlug": "zaplakal"
@@ -48117,8 +48135,14 @@
     },
     {
       "userId": "56a37b00-e104-41bd-a8bd-cdccf1eb8c30",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Очень нравится стилёк сходу. Ритмически и по игре голосом в напевах нормас прям. Умения очевидны",
+          "scoredAt": "2026-10-16T09:09:06.636Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 5,
@@ -48126,7 +48150,7 @@
           "scoredAt": "2026-09-27T10:51:13.048Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Okatovsky",
       "artistSlug": "okatovsky"
@@ -49165,8 +49189,14 @@
     },
     {
       "userId": "1aee44ab-d4d7-4d70-b37a-b0366af633ed",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Нормас, интруха оправдана, текстец не примитивный и манера исполнения, способна удерживать внимание. Точно должен идти дальше уверенно",
+          "scoredAt": "2026-10-16T09:05:52.048Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -49186,7 +49216,7 @@
           "scoredAt": "2026-10-09T22:34:52.996Z"
         }
       ],
-      "fetchedAt": "2026-10-15T05:02:07.268Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Апология",
       "artistSlug": "apologiya"
@@ -50818,8 +50848,14 @@
     },
     {
       "userId": "70d31563-9c37-427c-9c9b-fc5a3614ab5d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Есть интересные текстовые ходы, есть фишки в исполнении. Не особо разнообразно, но стилёк вывозится хорошечно. Это скорее нравится, чем убаюкивает.",
+          "scoredAt": "2026-10-16T09:07:17.376Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -50839,7 +50875,7 @@
           "scoredAt": "2026-09-23T11:10:02.685Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:01:59.335Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Wiollado",
       "artistSlug": "wiollado"
@@ -57607,8 +57643,14 @@
     },
     {
       "userId": "c42e3b5c-320c-4e3b-8914-4ea62fb70315",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Начало трэка совсем не понравилось, но дальше разгон имеется как по тексту, так и по исполнению. Это порадовало. Отсылочка норм вкручена для аутро. Есть что-то не самое обычное в этой работе",
+          "scoredAt": "2026-10-16T09:04:26.555Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -57628,7 +57670,7 @@
           "scoredAt": "2026-09-23T09:42:11.385Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:22:33.848Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "Саша Маст",
       "artistSlug": "sasha-mast"
@@ -75596,8 +75638,14 @@
     },
     {
       "userId": "7231d1d4-e023-455b-be59-d2e534f186ca",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Есть нормальные заходы текстовые, это порадовало. Нормально по разнообразию, этого более чем достаточно чтобы уверенно идти дальше",
+          "scoredAt": "2026-10-16T09:10:04.663Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -75605,7 +75653,7 @@
           "scoredAt": "2026-10-15T11:46:46.783Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:52:21.634Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "NWR",
       "artistSlug": "nwr"
@@ -86370,8 +86418,14 @@
     },
     {
       "userId": "12964d8e-cf77-4139-94c6-a10fdde6a9a6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "По ритмике нормально, по фишкам в тексте тоже. Агрессия, динамика нормас. 4,5 где-то по ощущениям, это удерживает внимание. Качества бы попизже",
+          "scoredAt": "2026-10-16T09:08:26.095Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -86397,7 +86451,7 @@
           "scoredAt": "2026-10-06T15:25:00.185Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T09:12:27.604Z",
       "current": true,
       "artistName": "NIKE__TOS [6 кадров]",
       "artistSlug": "nike-tos-6-kadrov"
