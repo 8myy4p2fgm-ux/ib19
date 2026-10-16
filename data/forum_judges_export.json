@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T11:22:40.625Z",
+  "exportedAt": "2026-10-16T11:32:36.483Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2931,6 +2931,12 @@
       "userId": "c095192e-f760-41c6-b8ac-a61ea2040a61",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Искусство не судится !",
+          "scoredAt": "2026-10-16T11:23:55.234Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
