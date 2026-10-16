@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T12:32:12.919Z",
-  "exportedAt": "2026-10-16T12:32:12.919Z",
-  "runId": "2026-10-16T12:32:12.919Z",
-  "forumExportedAt": "2026-10-16T12:32:12.919Z",
+  "lastSuccessfulAt": "2026-10-16T12:42:15.963Z",
+  "exportedAt": "2026-10-16T12:42:15.963Z",
+  "runId": "2026-10-16T12:42:15.963Z",
+  "forumExportedAt": "2026-10-16T12:42:15.963Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11190,
+    "scores": 11195,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4906,
-    "scoresBefore": 11187,
-    "scoresAfter": 11190,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7371,
+    "scoresBefore": 11190,
+    "scoresAfter": 11195,
     "fullBaselineRequests": 3167,
-    "requestReductionPercent": 99.84212188190716,
+    "requestReductionPercent": 99.77897063467005,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 1,
+          "artist": "Антон Zabe",
+          "comment": "Респект",
+          "scoredAt": "2026-10-16T12:41:14.907Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "artist": "Прощай, Белла",
+          "comment": "Спасибо за трек! \nТекст: слабенько\nИсполнение: очень скучно и слабо\nОбщее впечатление: не уверен, что ты сможешь чтото во втором показать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-16T12:38:29.632Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Nochee",
+          "comment": "выдержанная слезливая лиричка. прикольно наверное.",
+          "scoredAt": "2026-10-16T12:37:32.039Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Xbhhhhh",
+          "comment": "Нет ощущения что ты на рифмы хуяку навалил?",
+          "scoredAt": "2026-10-16T12:36:33.980Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Надя Черника",
+          "comment": "очень просто нарифомавано. но при это концепт какой то есть, хоть и простоватый.",
+          "scoredAt": "2026-10-16T12:34:53.956Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -151,41 +186,6 @@
           "artist": "SL",
           "comment": "Слушай не нашел за что поставить парашу и за что поставить выше среднего, крепкая-средняя работа. Спасибо.",
           "scoredAt": "2026-10-16T12:02:15.021Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "ZURA14",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-16T11:56:42.168Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "sshalfir",
-          "comment": "Очень костноязычно. Я прямо чувствую как ты напрягался выдумывая эти вычурные образы братан.",
-          "scoredAt": "2026-10-16T11:55:43.506Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "гном второй великий",
-          "comment": "Авансом. Наркотитки осуждаем.",
-          "scoredAt": "2026-10-16T11:54:56.148Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Eva Maslou",
-          "comment": "Крепкая, средняя работа. Ничего особенного, ничего овер плохого. Всё просто, для прохода во 2ой наверное хватит.",
-          "scoredAt": "2026-10-16T11:54:24.731Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Юрий Милославский",
-          "comment": "Авансом. Текст скучноват.",
-          "scoredAt": "2026-10-16T11:52:59.417Z"
         }
       ]
     }

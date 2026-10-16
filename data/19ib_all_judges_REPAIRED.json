@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T12:32:12.919Z",
+  "exportedAt": "2026-10-16T12:42:15.963Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -33760,8 +33760,14 @@
     },
     {
       "userId": "cf78f30b-743e-4269-9dd0-a160627f64c3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "очень просто нарифомавано. но при это концепт какой то есть, хоть и простоватый.",
+          "scoredAt": "2026-10-16T12:34:53.956Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -33787,7 +33793,7 @@
           "scoredAt": "2026-09-11T16:00:45.125Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:22:24.622Z",
+      "fetchedAt": "2026-10-16T12:42:15.963Z",
       "current": true,
       "artistName": "Надя Черника",
       "artistSlug": "nadya-chernika"
@@ -61639,8 +61645,14 @@
     },
     {
       "userId": "df3ebcdd-75c8-4b1d-9721-83c1bdd526dd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: слабенько\nИсполнение: очень скучно и слабо\nОбщее впечатление: не уверен, что ты сможешь чтото во втором показать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-16T12:38:29.632Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -61654,7 +61666,7 @@
           "scoredAt": "2026-10-12T17:05:25.673Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:52:25.949Z",
+      "fetchedAt": "2026-10-16T12:42:15.963Z",
       "current": true,
       "artistName": "Прощай, Белла",
       "artistSlug": "proschay-bella"
@@ -61757,8 +61769,14 @@
     },
     {
       "userId": "66f47b49-b214-4ed2-9229-512f94ce8537",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "выдержанная слезливая лиричка. прикольно наверное.",
+          "scoredAt": "2026-10-16T12:37:32.039Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -61778,7 +61796,7 @@
           "scoredAt": "2026-09-29T08:54:13.414Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:32:26.907Z",
+      "fetchedAt": "2026-10-16T12:42:15.963Z",
       "current": true,
       "artistName": "Nochee",
       "artistSlug": "nochee"
@@ -96441,8 +96459,14 @@
     },
     {
       "userId": "03bfce20-d354-412a-983b-af7b20b7bf6f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Нет ощущения что ты на рифмы хуяку навалил?",
+          "scoredAt": "2026-10-16T12:36:33.980Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -96462,7 +96486,7 @@
           "scoredAt": "2026-08-31T17:21:51.577Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:42:15.963Z",
       "current": true,
       "artistName": "Xbhhhhh",
       "artistSlug": "xbhhhhh"
@@ -99513,8 +99537,14 @@
     },
     {
       "userId": "ce53f5ba-f1ba-4fce-adfe-2884ec649c07",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 1,
+          "comment": "Респект",
+          "scoredAt": "2026-10-16T12:41:14.907Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 1,
@@ -99534,7 +99564,7 @@
           "scoredAt": "2026-10-08T18:27:10.566Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:22:29.407Z",
+      "fetchedAt": "2026-10-16T12:42:15.963Z",
       "current": true,
       "artistName": "Антон Zabe",
       "artistSlug": "anton-zabe"
