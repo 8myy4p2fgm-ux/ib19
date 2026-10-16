@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T22:51:51.677Z",
+  "exportedAt": "2026-10-16T23:01:54.651Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -35868,8 +35868,14 @@
     },
     {
       "userId": "f6c6d8a5-e395-4f04-aa5d-1f4a6bab50cc",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Уснул брат",
+          "scoredAt": "2026-10-16T23:00:52.786Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -35895,7 +35901,7 @@
           "scoredAt": "2026-09-08T06:04:19.179Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:42:13.700Z",
+      "fetchedAt": "2026-10-16T23:01:54.651Z",
       "current": true,
       "artistName": "Тимур(Znaushiy)",
       "artistSlug": "timur-znaushiy"
@@ -42920,8 +42926,14 @@
     },
     {
       "userId": "6fc1a44f-119a-42bb-b9b0-79fa1fad92c4",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Есть ощущение будто тебе надо грайм хуярить, панчи будто соответствующие, есть интересные решения по тексту у тебя, давай авансом 4, но докрути панчики пж пж пж ",
+          "scoredAt": "2026-10-16T22:57:38.816Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -42929,7 +42941,7 @@
           "scoredAt": "2026-10-15T11:03:15.789Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:12:22.016Z",
+      "fetchedAt": "2026-10-16T23:01:54.651Z",
       "current": true,
       "artistName": "TCELYA",
       "artistSlug": "tcelya"
@@ -68593,8 +68605,14 @@
     },
     {
       "userId": "27c39bdd-0a68-43ff-bd02-8a15ceca3e16",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Скучно ",
+          "scoredAt": "2026-10-16T22:53:33.855Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -68620,7 +68638,7 @@
           "scoredAt": "2026-09-18T20:19:38.452Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T23:01:54.651Z",
       "current": true,
       "artistName": "Paha Beat ON",
       "artistSlug": "paha-beat-on"
@@ -75297,8 +75315,14 @@
     },
     {
       "userId": "e93b6b16-932d-494b-a39b-afcff5d39f6d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "\"вроде терпимо, но все как то мимо, я не сужу, но выглядит скудно\"",
+          "scoredAt": "2026-10-16T23:00:00.335Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -75312,7 +75336,7 @@
           "scoredAt": "2026-10-12T15:56:20.745Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T23:01:54.651Z",
       "current": true,
       "artistName": "Грегор Наземный",
       "artistSlug": "gregor-nazemnyy"
@@ -81873,8 +81897,14 @@
     },
     {
       "userId": "a3dc6893-dba9-4b67-95ad-01e3ff03a831",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": " У меня наушники сгорели от такой реализации и у телевизора настройка каналов сбилась в белый шум ",
+          "scoredAt": "2026-10-16T22:52:03.447Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -81900,7 +81930,7 @@
           "scoredAt": "2026-10-07T18:03:00.374Z"
         }
       ],
-      "fetchedAt": "2026-10-16T21:11:53.190Z",
+      "fetchedAt": "2026-10-16T23:01:54.651Z",
       "current": true,
       "artistName": "Б.А.Н.",
       "artistSlug": "b-a-n"

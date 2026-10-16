@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T22:51:51.677Z",
-  "exportedAt": "2026-10-16T22:51:51.677Z",
-  "runId": "2026-10-16T22:51:51.677Z",
-  "forumExportedAt": "2026-10-16T22:51:51.677Z",
+  "lastSuccessfulAt": "2026-10-16T23:01:54.651Z",
+  "exportedAt": "2026-10-16T23:01:54.651Z",
+  "runId": "2026-10-16T23:01:54.651Z",
+  "forumExportedAt": "2026-10-16T23:01:54.651Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11965,
+    "scores": 11970,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3741,
-    "scoresBefore": 11963,
-    "scoresAfter": 11965,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 6936,
+    "scoresBefore": 11965,
+    "scoresAfter": 11970,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.87515605493134,
+    "requestReductionPercent": 99.78152309612985,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Тимур(Znaushiy)",
+          "comment": "Уснул брат",
+          "scoredAt": "2026-10-16T23:00:52.786Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Грегор Наземный",
+          "comment": "\"вроде терпимо, но все как то мимо, я не сужу, но выглядит скудно\"",
+          "scoredAt": "2026-10-16T23:00:00.335Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "TCELYA",
+          "comment": "Есть ощущение будто тебе надо грайм хуярить, панчи будто соответствующие, есть интересные решения по тексту у тебя, давай авансом 4, но докрути панчики пж пж пж ",
+          "scoredAt": "2026-10-16T22:57:38.816Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Paha Beat ON",
+          "comment": "Скучно ",
+          "scoredAt": "2026-10-16T22:53:33.855Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Б.А.Н.",
+          "comment": " У меня наушники сгорели от такой реализации и у телевизора настройка каналов сбилась в белый шум ",
+          "scoredAt": "2026-10-16T22:52:03.447Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -152,41 +187,6 @@
           "artist": "PALEVA NET",
           "comment": "4ка за читку и жирный саунд, синергию с битом голоса, но боже мой что с рифмами ? Но энергетика топчик под такой биток ☢️☢️☢️ Панчи тебе еще надо завозить в следующий раунд ;)",
           "scoredAt": "2026-10-16T22:10:02.990Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Kidanuza1000_K1k",
-          "comment": "Скучно, но раз уж у тебя праздник, то лови проходной ",
-          "scoredAt": "2026-10-16T21:51:00.990Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "S$hane",
-          "comment": "Что вообще значат первые 2 строчки ?))))  \"ведь понимаю то что пацаны , я будто в омуте\" понимаешь то что пацаны что ?!)))))  будто мысль после пацанов обрывается )\nНу в целом странный трек, исполнение будто мамка ща может зайти и напугать, но трек надо сдать .. По мысли В ЦЕЛОМ не плохо, но исполнение хромает , авансом тройка",
-          "scoredAt": "2026-10-16T21:49:12.210Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "zoo in space",
-          "comment": "Старичок, ты чего тут делаешь в первом раунде.?! Тебя там дальше заждались ",
-          "scoredAt": "2026-10-16T21:42:12.766Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "artist": "KRO",
-          "comment": "Просто быстро говоришь под музыку , это плохо и ничего не понятно. Вот зачем делать трек в котором ты доносишь мысль так что никто её не поймет ?",
-          "scoredAt": "2026-10-16T21:40:39.392Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "n0trixx",
-          "comment": "Брось своего звукаря и больше не общайся с ним пожалуйста",
-          "scoredAt": "2026-10-16T21:38:38.666Z"
         }
       ]
     }
