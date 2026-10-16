@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T18:52:36.548Z",
+  "exportedAt": "2026-10-16T19:02:27.839Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -4816,8 +4816,14 @@
     },
     {
       "userId": "2375c044-bcc8-45a8-b9aa-bff8712884c7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Рано. Надо прокачивать умения (и достать капу из минуса)",
+          "scoredAt": "2026-10-16T18:59:43.884Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -4843,7 +4849,7 @@
           "scoredAt": "2026-09-04T18:55:24.554Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "m",
       "artistSlug": "m"
@@ -17152,8 +17158,14 @@
     },
     {
       "userId": "7c27b328-729d-4490-a5ec-2651bbbc6b61",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Средненький реп",
+          "scoredAt": "2026-10-16T18:58:44.101Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -17173,7 +17185,7 @@
           "scoredAt": "2026-09-27T09:25:23.756Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:52:21.224Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Tomили Jerry",
       "artistSlug": "tomili-jerry"
@@ -20845,8 +20857,14 @@
     },
     {
       "userId": "91c0821c-26b4-4351-807d-aab29fd3e894",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Дошел бы до норм микро, зачем так(",
+          "scoredAt": "2026-10-16T19:02:12.899Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -20866,7 +20884,7 @@
           "scoredAt": "2026-09-27T18:46:51.287Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:12:28.750Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "SlowMC",
       "artistSlug": "slowmc"
@@ -41951,8 +41969,14 @@
     },
     {
       "userId": "f2e7fb6f-053b-473b-bab9-16215528d6bf",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T18:55:34.226Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -41966,7 +41990,7 @@
           "scoredAt": "2026-10-07T19:10:53.088Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:52:29.544Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "нуартур",
       "artistSlug": "nuartur"
@@ -43729,9 +43753,16 @@
     },
     {
       "userId": "f44f2e3b-0a0e-4d3d-9491-8ecf850a746c",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Что-то примерно вторая часть – ваще очень тихо капа. Ну по тексту угарчики есть неплохие ",
+          "scoredAt": "2026-10-16T18:57:04.495Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Кэмэл со вкусом гангрены",
       "artistSlug": "kemel-so-vkusom-gangreny"
@@ -47722,8 +47753,14 @@
     },
     {
       "userId": "c4d253fb-0c7b-49b8-b522-92108199fc80",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T18:59:42.691Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -47737,7 +47774,7 @@
           "scoredAt": "2026-09-30T17:57:54.366Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:02:22.753Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "M0rdekaY",
       "artistSlug": "m0rdekay"
@@ -71536,8 +71573,14 @@
     },
     {
       "userId": "61c3ea2b-2027-4e7a-a1ce-71ae9fedffe4",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Даже не преставляешь, как уже хочется тебя в парных видеть",
+          "scoredAt": "2026-10-16T18:58:59.835Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -71545,7 +71588,7 @@
           "scoredAt": "2026-10-16T16:14:55.677Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:22:26.568Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "БИЗОН",
       "artistSlug": "bizon"
@@ -73571,8 +73614,14 @@
     },
     {
       "userId": "47be7e37-9ede-4864-b6fb-d8dd428421bb",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Печальная стори. Это мы осуждаем, если что. Зачастую квадратно, было и глагольно, по тексту такая чисто мрачная незамысловатая стори. Читка вялая оч, невыразительная",
+          "scoredAt": "2026-10-16T18:59:47.935Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -73586,7 +73635,7 @@
           "scoredAt": "2026-10-13T20:35:06.527Z"
         }
       ],
-      "fetchedAt": "2026-10-15T10:32:24.542Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Жан Робер",
       "artistSlug": "zhan-rober"
@@ -74514,8 +74563,14 @@
     },
     {
       "userId": "babdffbc-402a-4d95-a71e-5df6ed19271b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Круто. Пока хз как ты в рамках баттла будешь, но в плеер я такое бы добавил",
+          "scoredAt": "2026-10-16T18:57:33.152Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -74535,7 +74590,7 @@
           "scoredAt": "2026-09-22T15:44:19.174Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Какбынибыло",
       "artistSlug": "kakbynibylo"
@@ -76028,8 +76083,14 @@
     },
     {
       "userId": "fa0fe4d1-fbf2-4088-8781-5593083c9974",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "Несмотря на то, что не разнообразил никак, верю в тебя и наполнение текста. ",
+          "scoredAt": "2026-10-16T19:01:41.790Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -76049,7 +76110,7 @@
           "scoredAt": "2026-10-09T20:26:02.495Z"
         }
       ],
-      "fetchedAt": "2026-10-15T20:32:20.459Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Amet-Han",
       "artistSlug": "amet-han"
@@ -82638,8 +82699,14 @@
     },
     {
       "userId": "7125d934-e170-42ad-a368-608747896f0e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T18:52:56.790Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -82659,7 +82726,7 @@
           "scoredAt": "2026-09-10T12:42:52.026Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Steplan",
       "artistSlug": "steplan"
@@ -84807,8 +84874,14 @@
     },
     {
       "userId": "389a1c39-f146-46b9-adf1-9f7f9f66a878",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "\"но теперь это хит поясню на голгофе за местные тренды любым солнцеликим\" - как красиво написано и как красиво подано. Кайф, когда ты - это ТЫ. Акценты как всегда прекрасны. И актуальность - в неё ты умеешь. ",
+          "scoredAt": "2026-10-16T18:53:29.273Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -84834,7 +84907,7 @@
           "scoredAt": "2026-09-22T17:09:24.400Z"
         }
       ],
-      "fetchedAt": "2026-10-16T04:42:11.099Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Anaconda",
       "artistSlug": "anaconda"
@@ -85080,8 +85153,14 @@
     },
     {
       "userId": "1f022d72-f01c-4e36-af12-c4fb563c8aff",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Я устал писать о том, что треки участников квадратны по рифме) о том, что примитивны по смыслу) исполнение сероватое",
+          "scoredAt": "2026-10-16T19:01:21.563Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -85095,7 +85174,7 @@
           "scoredAt": "2026-10-10T15:06:29.604Z"
         }
       ],
-      "fetchedAt": "2026-10-16T08:12:20.030Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "В этом нету радости",
       "artistSlug": "v-etom-netu-radosti"
@@ -85678,9 +85757,16 @@
     },
     {
       "userId": "dd186eef-55e0-43b5-8c88-9cba27a653af",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Видимо, тема, которую можно раскрыть с ебанинкой, тебе подходит :D но это по-прежнему \"специфично\" исполнением) с натяжкой 3 за приколюхи по тексту, но даже по тексту ты мог гораздо лучше ",
+          "scoredAt": "2026-10-16T18:54:45.027Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Старый Гурд",
       "artistSlug": "staryy-gurd"
@@ -85985,8 +86071,14 @@
     },
     {
       "userId": "d13da139-286b-4e47-865a-03092ad067d6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Спасибо, что удостоил нас чести",
+          "scoredAt": "2026-10-16T18:54:35.714Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -86006,7 +86098,7 @@
           "scoredAt": "2026-10-14T14:16:58.051Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:12:41.080Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Vlad Bul",
       "artistSlug": "vlad-bul"
@@ -95535,8 +95627,14 @@
     },
     {
       "userId": "20879858-17fb-481c-82ff-8657bfa8eb91",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:00:36.867Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -95550,7 +95648,7 @@
           "scoredAt": "2026-10-08T17:18:03.145Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:22:29.407Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "Доктор Вайт",
       "artistSlug": "doktor-vayt"
@@ -96631,8 +96729,14 @@
     },
     {
       "userId": "1cdc0b38-8404-4818-95aa-c82faa882e7d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Стрим 11",
+          "scoredAt": "2026-10-16T19:00:16.952Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -96640,7 +96744,7 @@
           "scoredAt": "2026-10-08T18:40:00.291Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "PETKO",
       "artistSlug": "petko"
@@ -98403,6 +98507,40 @@
       "artistSlug": "mace-assminec"
     },
     {
+      "userId": "c6019d75-7de7-4a48-9617-8ea73da5e903",
+      "scoredCount": 4,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Слишком дефолтно, и по рифмам и по исполнению",
+          "scoredAt": "2026-10-15T14:00:11.715Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "\"сулит-молчит-торчит-кречит\" в обычных песнях всем всё равно на такие рифмы, а вот на баттлах глаголы сильно не в почёте, это как в юморе каламбур \"подтянуться в бар - подтянуться на турнике\". В конце прикольно ускорился, а главное всё попал. ",
+          "scoredAt": "2026-10-15T13:42:37.496Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "средняя проходная работа, ярких моментиков в принципе нету. по русскому языку ставлю тройку xD\nс Гульмиры чёто поржал. добавь строчек интересных в трек",
+          "scoredAt": "2026-10-13T16:33:36.624Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Седьмой стрим.",
+          "scoredAt": "2026-10-12T15:43:16.856Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T14:02:21.405Z",
+      "current": true,
+      "artistName": "Vo100k",
+      "artistSlug": "vo100k-2"
+    },
+    {
       "userId": "082b4fa8-2afd-4a85-9965-d0ae9891cb2f",
       "scoredCount": 5,
       "scores": [
@@ -98463,40 +98601,6 @@
       "current": true,
       "artistName": "Виталий Чуприков",
       "artistSlug": "vitaliy-chuprikov"
-    },
-    {
-      "userId": "c6019d75-7de7-4a48-9617-8ea73da5e903",
-      "scoredCount": 4,
-      "scores": [
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "comment": "Слишком дефолтно, и по рифмам и по исполнению",
-          "scoredAt": "2026-10-15T14:00:11.715Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "comment": "\"сулит-молчит-торчит-кречит\" в обычных песнях всем всё равно на такие рифмы, а вот на баттлах глаголы сильно не в почёте, это как в юморе каламбур \"подтянуться в бар - подтянуться на турнике\". В конце прикольно ускорился, а главное всё попал. ",
-          "scoredAt": "2026-10-15T13:42:37.496Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "comment": "средняя проходная работа, ярких моментиков в принципе нету. по русскому языку ставлю тройку xD\nс Гульмиры чёто поржал. добавь строчек интересных в трек",
-          "scoredAt": "2026-10-13T16:33:36.624Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "comment": "Седьмой стрим.",
-          "scoredAt": "2026-10-12T15:43:16.856Z"
-        }
-      ],
-      "fetchedAt": "2026-10-15T14:02:21.405Z",
-      "current": true,
-      "artistName": "Vo100k",
-      "artistSlug": "vo100k-2"
     },
     {
       "userId": "a906ff2c-c167-4f49-b03d-632be7c6f08c",
@@ -102658,8 +102762,14 @@
     },
     {
       "userId": "75a2ce9e-4c8f-49d1-b0bc-c42ad91047b7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Про калачик чето порвало, братик xD\nПро не было пару слов - прикольный кек \nТекстовый панч про прес это очень круто, типа I и l как две стенки пресса, а внутри $ - мощнейшая , но боюсь никто не выкупил такую Находку ! Вау!\nВесь трек сияешь, очень удивился что ты в интересные панчи полез, ведь ожидал звучок фирменный и не настолько интересные пЭнчи! Респект!",
+          "scoredAt": "2026-10-16T18:59:45.517Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -102685,7 +102795,7 @@
           "scoredAt": "2026-10-07T16:48:26.052Z"
         }
       ],
-      "fetchedAt": "2026-10-15T23:42:18.703Z",
+      "fetchedAt": "2026-10-16T19:02:27.839Z",
       "current": true,
       "artistName": "ISLA DE MUERTA",
       "artistSlug": "isla-de-muerta"

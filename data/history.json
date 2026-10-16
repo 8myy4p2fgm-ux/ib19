@@ -122950,6 +122950,258 @@
         "scoredAt": "2026-10-16T18:49:44.786Z",
         "userId": "f54b4a8b-fb5c-4ecb-9edb-a8c730ceeb58"
       }
+    },
+    {
+      "id": "5b4ec0119379687f127c23cb5c7247fa3701f9f02209fa48044c8f5d71c2117d",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:59:43.884Z",
+      "key": "[\"2375c044-bcc8-45a8-b9aa-bff8712884c7\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Рано. Надо прокачивать умения (и достать капу из минуса)",
+        "scoredAt": "2026-10-16T18:59:43.884Z",
+        "userId": "2375c044-bcc8-45a8-b9aa-bff8712884c7"
+      }
+    },
+    {
+      "id": "4f439ab8fe95d5ddcf3498c9434d95b8c19085be506bec0ae199e2b9b30abaa2",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:58:44.101Z",
+      "key": "[\"7c27b328-729d-4490-a5ec-2651bbbc6b61\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Средненький реп",
+        "scoredAt": "2026-10-16T18:58:44.101Z",
+        "userId": "7c27b328-729d-4490-a5ec-2651bbbc6b61"
+      }
+    },
+    {
+      "id": "0a909854bb3f18a089c74d0ad433a20b7188839419aad380435684c4f37facb7",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T19:02:12.899Z",
+      "key": "[\"91c0821c-26b4-4351-807d-aab29fd3e894\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Дошел бы до норм микро, зачем так(",
+        "scoredAt": "2026-10-16T19:02:12.899Z",
+        "userId": "91c0821c-26b4-4351-807d-aab29fd3e894"
+      }
+    },
+    {
+      "id": "d5403e46ccb221893797728e36076c0a4337834837a78c3cc19d366dfbede020",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:55:34.226Z",
+      "key": "[\"f2e7fb6f-053b-473b-bab9-16215528d6bf\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:55:34.226Z",
+        "userId": "f2e7fb6f-053b-473b-bab9-16215528d6bf"
+      }
+    },
+    {
+      "id": "22dd0a879a8f544b59bd73645f1689e768de6786d8bc424f172e18df84ff1a7d",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:57:04.495Z",
+      "key": "[\"f44f2e3b-0a0e-4d3d-9491-8ecf850a746c\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Что-то примерно вторая часть – ваще очень тихо капа. Ну по тексту угарчики есть неплохие ",
+        "scoredAt": "2026-10-16T18:57:04.495Z",
+        "userId": "f44f2e3b-0a0e-4d3d-9491-8ecf850a746c"
+      }
+    },
+    {
+      "id": "9f0beaac2b3a2d3e03360367b1c1e6ef2a1c3354823dd68c9ea81482d5ca0314",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:59:42.691Z",
+      "key": "[\"c4d253fb-0c7b-49b8-b522-92108199fc80\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:59:42.691Z",
+        "userId": "c4d253fb-0c7b-49b8-b522-92108199fc80"
+      }
+    },
+    {
+      "id": "edac6a29fa208a192fe8b568966a6437885a02e00553ef246ec4dd2026c22e38",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:58:59.835Z",
+      "key": "[\"61c3ea2b-2027-4e7a-a1ce-71ae9fedffe4\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Даже не преставляешь, как уже хочется тебя в парных видеть",
+        "scoredAt": "2026-10-16T18:58:59.835Z",
+        "userId": "61c3ea2b-2027-4e7a-a1ce-71ae9fedffe4"
+      }
+    },
+    {
+      "id": "814e70a5e856844759b021e147f7816050ccb47f0e627c5606ae07d3ba8b739f",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:59:47.935Z",
+      "key": "[\"47be7e37-9ede-4864-b6fb-d8dd428421bb\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Печальная стори. Это мы осуждаем, если что. Зачастую квадратно, было и глагольно, по тексту такая чисто мрачная незамысловатая стори. Читка вялая оч, невыразительная",
+        "scoredAt": "2026-10-16T18:59:47.935Z",
+        "userId": "47be7e37-9ede-4864-b6fb-d8dd428421bb"
+      }
+    },
+    {
+      "id": "6ecf9956f1ed26913f06e5378a9ed7c56087b9a947c2437182ac35d848641a06",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:57:33.152Z",
+      "key": "[\"babdffbc-402a-4d95-a71e-5df6ed19271b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Круто. Пока хз как ты в рамках баттла будешь, но в плеер я такое бы добавил",
+        "scoredAt": "2026-10-16T18:57:33.152Z",
+        "userId": "babdffbc-402a-4d95-a71e-5df6ed19271b"
+      }
+    },
+    {
+      "id": "e75308172f63f501a87758991d68e7d72c28660fef0817b8d2c74b9df7c59c30",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T19:01:41.790Z",
+      "key": "[\"fa0fe4d1-fbf2-4088-8781-5593083c9974\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 5,
+        "comment": "Несмотря на то, что не разнообразил никак, верю в тебя и наполнение текста. ",
+        "scoredAt": "2026-10-16T19:01:41.790Z",
+        "userId": "fa0fe4d1-fbf2-4088-8781-5593083c9974"
+      }
+    },
+    {
+      "id": "a73d97254848647e882a842f918890c1ffbfb82f7b4c2339c401087766824aaa",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:52:56.790Z",
+      "key": "[\"7125d934-e170-42ad-a368-608747896f0e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:52:56.790Z",
+        "userId": "7125d934-e170-42ad-a368-608747896f0e"
+      }
+    },
+    {
+      "id": "65b30ddacadc72e7f9703185d8a58bea2a54023c6dad1191ced25255aeff5cd6",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:53:29.273Z",
+      "key": "[\"389a1c39-f146-46b9-adf1-9f7f9f66a878\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 5,
+        "comment": "\"но теперь это хит поясню на голгофе за местные тренды любым солнцеликим\" - как красиво написано и как красиво подано. Кайф, когда ты - это ТЫ. Акценты как всегда прекрасны. И актуальность - в неё ты умеешь. ",
+        "scoredAt": "2026-10-16T18:53:29.273Z",
+        "userId": "389a1c39-f146-46b9-adf1-9f7f9f66a878"
+      }
+    },
+    {
+      "id": "ca32c00d7df35bb8e5967223d89319633523b3999055df2c4fce1218d66f8e01",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T19:01:21.563Z",
+      "key": "[\"1f022d72-f01c-4e36-af12-c4fb563c8aff\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Я устал писать о том, что треки участников квадратны по рифме) о том, что примитивны по смыслу) исполнение сероватое",
+        "scoredAt": "2026-10-16T19:01:21.563Z",
+        "userId": "1f022d72-f01c-4e36-af12-c4fb563c8aff"
+      }
+    },
+    {
+      "id": "5fbf2fd13aeed1ea6afa5caa06db515ff4fdd35a902912d08558b8c9c72938a9",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:54:45.027Z",
+      "key": "[\"dd186eef-55e0-43b5-8c88-9cba27a653af\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Видимо, тема, которую можно раскрыть с ебанинкой, тебе подходит :D но это по-прежнему \"специфично\" исполнением) с натяжкой 3 за приколюхи по тексту, но даже по тексту ты мог гораздо лучше ",
+        "scoredAt": "2026-10-16T18:54:45.027Z",
+        "userId": "dd186eef-55e0-43b5-8c88-9cba27a653af"
+      }
+    },
+    {
+      "id": "f3e7d61a4a5ef9be0d56ae5f44037bffe884e06227e2633300f21c359df7f409",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:54:35.714Z",
+      "key": "[\"d13da139-286b-4e47-865a-03092ad067d6\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Спасибо, что удостоил нас чести",
+        "scoredAt": "2026-10-16T18:54:35.714Z",
+        "userId": "d13da139-286b-4e47-865a-03092ad067d6"
+      }
+    },
+    {
+      "id": "240a76221aedffdc61e7997cd11e09b413f68c7262c1e36f7142f228b3e3e7c5",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T19:00:36.867Z",
+      "key": "[\"20879858-17fb-481c-82ff-8657bfa8eb91\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:00:36.867Z",
+        "userId": "20879858-17fb-481c-82ff-8657bfa8eb91"
+      }
+    },
+    {
+      "id": "51fd6e321bf88f22ad8fc8290601682545632c98db27d051b68ef315936558ab",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T19:00:16.952Z",
+      "key": "[\"1cdc0b38-8404-4818-95aa-c82faa882e7d\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T19:00:16.952Z",
+        "userId": "1cdc0b38-8404-4818-95aa-c82faa882e7d"
+      }
+    },
+    {
+      "id": "dbbc70fbcd0e1189d861031d3ba229bebb4e41c3409e412f387b0091455503c5",
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "sourceScoredAt": "2026-10-16T18:59:45.517Z",
+      "key": "[\"75a2ce9e-4c8f-49d1-b0bc-c42ad91047b7\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Про калачик чето порвало, братик xD\nПро не было пару слов - прикольный кек \nТекстовый панч про прес это очень круто, типа I и l как две стенки пресса, а внутри $ - мощнейшая , но боюсь никто не выкупил такую Находку ! Вау!\nВесь трек сияешь, очень удивился что ты в интересные панчи полез, ведь ожидал звучок фирменный и не настолько интересные пЭнчи! Респект!",
+        "scoredAt": "2026-10-16T18:59:45.517Z",
+        "userId": "75a2ce9e-4c8f-49d1-b0bc-c42ad91047b7"
+      }
     }
   ],
   "snapshots": [
@@ -128869,6 +129121,26 @@
           "index": 29.23032928940799,
           "favor": 18.19957395636489,
           "attention": -0.12924466695690032,
+          "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T19:02:27.839Z",
+      "exportedAt": "2026-10-16T19:02:27.839Z",
+      "scores": 11785,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.63045604993313,
+          "favor": 9.368833529874209,
+          "attention": 6.52577346345515,
+          "respect": 6.735849056603773
+        },
+        "veterans": {
+          "index": 29.262012186062385,
+          "favor": 18.199502572898805,
+          "attention": -0.09749038683641996,
           "respect": 11.16
         }
       }
