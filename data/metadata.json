@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T04:52:13.885Z",
-  "exportedAt": "2026-10-16T04:52:13.885Z",
-  "runId": "2026-10-16T04:52:13.885Z",
-  "forumExportedAt": "2026-10-16T04:52:13.885Z",
+  "lastSuccessfulAt": "2026-10-16T05:12:12.862Z",
+  "exportedAt": "2026-10-16T05:12:12.862Z",
+  "runId": "2026-10-16T05:12:12.862Z",
+  "forumExportedAt": "2026-10-16T05:12:12.862Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10631,
+    "scores": 10632,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4971,
-    "scoresBefore": 10628,
-    "scoresAfter": 10631,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3030,
+    "scoresBefore": 10631,
+    "scoresAfter": 10632,
     "fullBaselineRequests": 3138,
-    "requestReductionPercent": 99.84066284257489,
+    "requestReductionPercent": 99.90439770554494,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Принц Комы",
+          "comment": "Я сводил наториуса бигуса и ребята тебя несколько раз упоминали. Вот теперь и я познакомился с твоим творчеством. Поток сознания забавный, но не более. ",
+          "scoredAt": "2026-10-16T05:10:53.338Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -179,13 +186,6 @@
           "artist": "undercat",
           "comment": "Неплохо, но по тексту видно, что пытаешься запихнуть вообще всё. От баттла до какой-то попытки в социальщину. Читаешь неплохо.",
           "scoredAt": "2026-10-16T04:01:10.390Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "evil twin",
-          "comment": "Строчка про краснокнижного человека затащила на вышку. В целом неплохо, но очень сильно напрягает как ты достаточно серьезную тему раскрываешь и при этом используешь не очень удачные ходы по типу \"чи нет\" или \"Ержана\". Хочется, чтобы работа была более целостной. Читаешь ровно.",
-          "scoredAt": "2026-10-16T03:55:10.635Z"
         }
       ]
     }

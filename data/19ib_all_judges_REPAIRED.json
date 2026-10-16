@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T04:52:13.885Z",
+  "exportedAt": "2026-10-16T05:12:12.862Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -67500,8 +67500,14 @@
     },
     {
       "userId": "e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Я сводил наториуса бигуса и ребята тебя несколько раз упоминали. Вот теперь и я познакомился с твоим творчеством. Поток сознания забавный, но не более. ",
+          "scoredAt": "2026-10-16T05:10:53.338Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -67509,7 +67515,7 @@
           "scoredAt": "2026-10-01T19:43:29.381Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T05:12:12.862Z",
       "current": true
     },
     {
