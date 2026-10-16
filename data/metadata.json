@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T22:11:41.001Z",
-  "exportedAt": "2026-10-16T22:11:41.001Z",
-  "runId": "2026-10-16T22:11:41.001Z",
-  "forumExportedAt": "2026-10-16T22:11:41.001Z",
+  "lastSuccessfulAt": "2026-10-16T22:21:54.908Z",
+  "exportedAt": "2026-10-16T22:21:54.908Z",
+  "runId": "2026-10-16T22:21:54.908Z",
+  "forumExportedAt": "2026-10-16T22:21:54.908Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11956,
+    "scores": 11958,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 2910,
-    "scoresBefore": 11955,
-    "scoresAfter": 11956,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4044,
+    "scoresBefore": 11956,
+    "scoresAfter": 11958,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.90636704119851,
+    "requestReductionPercent": 99.87515605493134,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "диссарик",
+          "comment": "Заруинил себя второй частью ",
+          "scoredAt": "2026-10-16T22:21:09.912Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "CHC[КХК]",
+          "comment": "Я вроде уши продолбил себе на всякий случай, но что-то с дикцией , ощущение что это какой-то чешский рэп, нарифмовал ты конечно всякого тут красиво, но говорить челу что у него ОСЛАБЛЕН азарт ? Это что за предъява вообще ? Букмекеры залогиньтесь )))  оружие пожоще лозы - воу воу полегче , это уже опасно ))) рифмаешь красиво но строчки беззубые ",
+          "scoredAt": "2026-10-16T22:19:09.380Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -173,20 +187,6 @@
           "artist": "PAHAOX",
           "comment": "Р",
           "scoredAt": "2026-10-16T21:16:09.092Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "иссиня",
-          "comment": "Четко",
-          "scoredAt": "2026-10-16T21:15:12.346Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "фанатсонигрезе",
-          "comment": "Очень круто наваливаешь. ",
-          "scoredAt": "2026-10-16T21:14:02.805Z"
         }
       ]
     }
