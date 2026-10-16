@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T20:41:58.598Z",
-  "exportedAt": "2026-10-16T20:41:58.598Z",
-  "runId": "2026-10-16T20:41:58.598Z",
-  "forumExportedAt": "2026-10-16T20:41:58.598Z",
+  "lastSuccessfulAt": "2026-10-16T20:52:02.492Z",
+  "exportedAt": "2026-10-16T20:52:02.492Z",
+  "runId": "2026-10-16T20:52:02.492Z",
+  "forumExportedAt": "2026-10-16T20:52:02.492Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11913,
+    "scores": 11919,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 15,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 13,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 13,
-    "changedParticipants": 13,
-    "logicalRequests": 15,
-    "durationMs": 15229,
-    "scoresBefore": 11900,
-    "scoresAfter": 11913,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8254,
+    "scoresBefore": 11913,
+    "scoresAfter": 11919,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.53183520599251,
+    "requestReductionPercent": 99.75031210986268,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Серая слизь",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:51:17.051Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Manool",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:49:19.170Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "sorry, we are closed",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:48:26.090Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "Антон Ami",
+          "comment": "Очень подходит такой стилек, отвечаю. Ты очень кайфовый сейчас, держи этот вайб, прошу. Кайф, чистый кайф. Ахуеть просто. Это реально происходит? Это Антон Ами? Да зачитал рэп и стало ясно. Ясно.",
+          "scoredAt": "2026-10-16T20:48:04.195Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Саша Нгуен",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:45:21.464Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "асфальтоукладочный",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:43:20.663Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 1,
@@ -144,48 +186,6 @@
           "artist": "Кое-кто из Авимсэта",
           "comment": "Прямо сииильно авансом, считай проскочил на удачу. Иди купи билет лотерейный. Удивилась, что просел так, ты ж можешь ахуенно",
           "scoredAt": "2026-10-16T20:35:58.348Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "GNG",
-          "comment": "Скилл читаки оч недурный. Текст, конечно, пустоватый, но на отбор пока что всё в совокупности хорошо.",
-          "scoredAt": "2026-10-16T20:35:58.224Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Роман Манакин",
-          "comment": "Брат, у меня-то какой передоз. Квадратненько по рифме, просто по мысли, неплохо по читке. Два с плюсом ",
-          "scoredAt": "2026-10-16T20:34:47.259Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "LANI LOUD",
-          "comment": "Оооочень натянула до 4 за счет более-менее вменяемого фло. ",
-          "scoredAt": "2026-10-16T20:33:40.272Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "PETKO",
-          "comment": "Рифме зачастую не хватает остроты, голос оч неплох для репов так-то, читка средненькая. Ну про руку неплохо, хоть за что-то зацепился.",
-          "scoredAt": "2026-10-16T20:33:34.965Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "Миша Конфуз",
-          "comment": "Бит ок.",
-          "scoredAt": "2026-10-16T20:31:53.606Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "AN-AGE",
-          "comment": "Местами ускоряешься неуклюже, по тексту поверхностно ",
-          "scoredAt": "2026-10-16T20:31:38.647Z"
         }
       ]
     }

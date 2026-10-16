@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T20:41:58.598Z",
+  "exportedAt": "2026-10-16T20:52:02.492Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -25426,8 +25426,14 @@
     },
     {
       "userId": "fa19c49e-41f6-4e6e-a43a-18caa3d6369a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:48:26.090Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -25447,7 +25453,7 @@
           "scoredAt": "2026-09-25T07:29:05.221Z"
         }
       ],
-      "fetchedAt": "2026-10-15T06:12:05.191Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "sorry, we are closed",
       "artistSlug": "sorry-we-are-closed"
@@ -39756,8 +39762,14 @@
     },
     {
       "userId": "ec946bdb-ce34-48f5-975d-24f4f7e4d0d4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:49:19.170Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -39771,7 +39783,7 @@
           "scoredAt": "2026-10-07T17:06:49.322Z"
         }
       ],
-      "fetchedAt": "2026-10-15T10:02:24.520Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "Manool",
       "artistSlug": "manool"
@@ -54107,8 +54119,14 @@
     },
     {
       "userId": "8f8b1311-4468-44bf-b5fd-0878f1420f00",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:45:21.464Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 5,
@@ -54128,7 +54146,7 @@
           "scoredAt": "2026-10-12T11:19:33.998Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:22:46.526Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "Саша Нгуен",
       "artistSlug": "sasha-nguen"
@@ -67015,8 +67033,14 @@
     },
     {
       "userId": "3ad71863-7263-44b5-8019-ad5bb5084e1d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:43:20.663Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 1,
@@ -67036,7 +67060,7 @@
           "scoredAt": "2026-10-08T14:41:23.836Z"
         }
       ],
-      "fetchedAt": "2026-10-15T23:52:25.111Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "асфальтоукладочный",
       "artistSlug": "asfaltoukladochnyy"
@@ -73942,8 +73966,14 @@
     },
     {
       "userId": "4c54706b-9d1e-45b0-842d-363cb6e543f4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "Очень подходит такой стилек, отвечаю. Ты очень кайфовый сейчас, держи этот вайб, прошу. Кайф, чистый кайф. Ахуеть просто. Это реально происходит? Это Антон Ами? Да зачитал рэп и стало ясно. Ясно.",
+          "scoredAt": "2026-10-16T20:48:04.195Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -73969,7 +73999,7 @@
           "scoredAt": "2026-10-09T17:17:17.507Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:42:26.240Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "Антон Ami",
       "artistSlug": "anton-ami"
@@ -84623,8 +84653,14 @@
     },
     {
       "userId": "34564a67-f7a3-421e-a100-7045b14293b9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:51:17.051Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -84638,7 +84674,7 @@
           "scoredAt": "2026-10-11T14:50:47.101Z"
         }
       ],
-      "fetchedAt": "2026-10-14T22:32:06.187Z",
+      "fetchedAt": "2026-10-16T20:52:02.492Z",
       "current": true,
       "artistName": "Серая слизь",
       "artistSlug": "seraya-sliz"

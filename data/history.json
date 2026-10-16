@@ -124994,6 +124994,90 @@
         "scoredAt": "2026-10-16T20:33:34.965Z",
         "userId": "1cdc0b38-8404-4818-95aa-c82faa882e7d"
       }
+    },
+    {
+      "id": "c358b688c593ac71f912bfead7c3926309e0e8db7c368eb3d1c62797d590a752",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:48:26.090Z",
+      "key": "[\"fa19c49e-41f6-4e6e-a43a-18caa3d6369a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:48:26.090Z",
+        "userId": "fa19c49e-41f6-4e6e-a43a-18caa3d6369a"
+      }
+    },
+    {
+      "id": "7176208aaebb5feea84cc8c16fbc2a3350f841cfdda2accfe03bfe5b1d4413a4",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:49:19.170Z",
+      "key": "[\"ec946bdb-ce34-48f5-975d-24f4f7e4d0d4\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:49:19.170Z",
+        "userId": "ec946bdb-ce34-48f5-975d-24f4f7e4d0d4"
+      }
+    },
+    {
+      "id": "d9686c37c58a7106e8f8ab6163006694595dd4176aeb6cc56358fd770cc76bbe",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:45:21.464Z",
+      "key": "[\"8f8b1311-4468-44bf-b5fd-0878f1420f00\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:45:21.464Z",
+        "userId": "8f8b1311-4468-44bf-b5fd-0878f1420f00"
+      }
+    },
+    {
+      "id": "1d6890c74fed702ea89583deb05068f1c69f5684c7214ee81f3eb4836cfe5277",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:43:20.663Z",
+      "key": "[\"3ad71863-7263-44b5-8019-ad5bb5084e1d\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:43:20.663Z",
+        "userId": "3ad71863-7263-44b5-8019-ad5bb5084e1d"
+      }
+    },
+    {
+      "id": "17d76421379436d113400e759b3fc62f1acc3e5d1edaa9d7a4d7bff03531dc38",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:48:04.195Z",
+      "key": "[\"4c54706b-9d1e-45b0-842d-363cb6e543f4\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 5,
+        "comment": "Очень подходит такой стилек, отвечаю. Ты очень кайфовый сейчас, держи этот вайб, прошу. Кайф, чистый кайф. Ахуеть просто. Это реально происходит? Это Антон Ами? Да зачитал рэп и стало ясно. Ясно.",
+        "scoredAt": "2026-10-16T20:48:04.195Z",
+        "userId": "4c54706b-9d1e-45b0-842d-363cb6e543f4"
+      }
+    },
+    {
+      "id": "036a951157ee2c8107bdfdf8b1b4718c4c8a83058a6809a83f8a9aa54e7653ba",
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "sourceScoredAt": "2026-10-16T20:51:17.051Z",
+      "key": "[\"34564a67-f7a3-421e-a100-7045b14293b9\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:51:17.051Z",
+        "userId": "34564a67-f7a3-421e-a100-7045b14293b9"
+      }
     }
   ],
   "snapshots": [
@@ -131133,6 +131217,26 @@
           "index": 29.256797157454606,
           "favor": 18.27693272814002,
           "attention": -0.18155289352006077,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:52:02.492Z",
+      "exportedAt": "2026-10-16T20:52:02.492Z",
+      "scores": 11919,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.394459807877,
+          "favor": 9.214915122831783,
+          "attention": 6.550331201899146,
+          "respect": 6.629213483146067
+        },
+        "veterans": {
+          "index": 29.26216262641269,
+          "favor": 18.267542922467122,
+          "attention": -0.16679761888908126,
           "respect": 11.161417322834646
         }
       }
