@@ -121872,6 +121872,328 @@
         "scoredAt": "2026-10-16T18:06:57.024Z",
         "userId": "55805da6-4420-4fd6-9319-168a99b76ca6"
       }
+    },
+    {
+      "id": "77e4527ca3161c8a62551eb2018ae437de757a88ec694c664e8efc7bdad25102",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:12:43.189Z",
+      "key": "[\"1fbba9d1-737b-440c-a5af-8146eedb5270\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:12:43.189Z",
+        "userId": "1fbba9d1-737b-440c-a5af-8146eedb5270"
+      }
+    },
+    {
+      "id": "95c87f4e8c4f9ca0f984f23a2abe911a508774d2bb260678500db10d5f3156d8",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:20:17.415Z",
+      "key": "[\"6f3c7f76-951b-48f6-a9c1-5f6db8b65707\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока равно в турнир уровня хх ру. Надо расти по всем параметрам. Спасибо за трек. ",
+        "scoredAt": "2026-10-16T18:20:17.415Z",
+        "userId": "6f3c7f76-951b-48f6-a9c1-5f6db8b65707"
+      }
+    },
+    {
+      "id": "6fef0361c28cbf23465dde2fc50f7f026182e12495371db4bb033d0109cd06f8",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:19:43.384Z",
+      "key": "[\"359fea67-500e-48d1-a468-1de4a3fb5087\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень просто и наивно. Делай больше репака, с опытом начнет получаться.",
+        "scoredAt": "2026-10-16T18:19:43.384Z",
+        "userId": "359fea67-500e-48d1-a468-1de4a3fb5087"
+      }
+    },
+    {
+      "id": "c716a854650948b9f2d187a040dbe98ca306469d3f805e45769bd6835081351d",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:19:49.912Z",
+      "key": "[\"a5c65ec1-b85c-4c06-8fd9-c0a55b9b0eba\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Неуверенно зачитал, жаль, неплохо сваян текст. Про Биззи хорош пунч, уж не знаю на основе чего это, сколь правдиво, но сама ударка занятная",
+        "scoredAt": "2026-10-16T18:19:49.912Z",
+        "userId": "a5c65ec1-b85c-4c06-8fd9-c0a55b9b0eba"
+      }
+    },
+    {
+      "id": "a839e8e6f8e397f9818a877d531dd74336cc640633d1acab7ae7251b207b6ca8",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:14:01.720Z",
+      "key": "[\"250e7ab1-de25-4689-8693-3dd25401c77d\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:14:01.720Z",
+        "userId": "250e7ab1-de25-4689-8693-3dd25401c77d"
+      }
+    },
+    {
+      "id": "ce6ea0ec4c6c3e383eb9561b0df38a2132b887b3d44e2416bd939fa8e7c8276f",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:16:59.800Z",
+      "key": "[\"560c6b99-1f25-4118-95f3-956425fe62e4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Ну ты сам все сказал про свой трек в своем треке. Закинул бы донат, тогда поставил бы вышку, а так соури(",
+        "scoredAt": "2026-10-16T18:16:59.800Z",
+        "userId": "560c6b99-1f25-4118-95f3-956425fe62e4"
+      }
+    },
+    {
+      "id": "aca2f16a36e1ccf6b56355ec2db4b8ea55b37be8cfb999bfdc23ab3bc8e99f1f",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:13:19.178Z",
+      "key": "[\"84bf04b7-f73b-41b0-9cf1-6303828b2c5f\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Клёво! В хуке голос бы из бита вытащить и ноль претензий к тебе, закрою глаза на это лови 5 с минусом, клевая работа ! ",
+        "scoredAt": "2026-10-16T18:13:19.178Z",
+        "userId": "84bf04b7-f73b-41b0-9cf1-6303828b2c5f"
+      }
+    },
+    {
+      "id": "07e329fb6415c000c35cd180884c93adf92e06ed1143eb5f416133f620d93801",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:17:22.275Z",
+      "key": "[\"846d3aca-4dc4-4304-b65c-7d5305104ba5\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Некая \"игривость\" в этом есть, допустим",
+        "scoredAt": "2026-10-16T18:17:22.275Z",
+        "userId": "846d3aca-4dc4-4304-b65c-7d5305104ba5"
+      }
+    },
+    {
+      "id": "b2adc052e66672da7c11a9016a9f3e793a3168da3432f73090384defcb4a7fd5",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:18:18.423Z",
+      "key": "[\"9dc0a0f0-5d54-49ab-ba27-8a1cb61af368\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Тебе бы качество записи и сведения получше и было бы очень даже годно.",
+        "scoredAt": "2026-10-16T18:18:18.423Z",
+        "userId": "9dc0a0f0-5d54-49ab-ba27-8a1cb61af368"
+      }
+    },
+    {
+      "id": "1713f1e946b90d7ce424b1277d659f4f0530cc1981e0b8b9aa327443b781902b",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:16:30.130Z",
+      "key": "[\"bd00f9e0-d0c3-405d-b820-94a0fa7bdf59\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Тебе надо сильно подтягивать подачу и технику исполнения. Только за счет текста 3 поставлю.",
+        "scoredAt": "2026-10-16T18:16:30.130Z",
+        "userId": "bd00f9e0-d0c3-405d-b820-94a0fa7bdf59"
+      }
+    },
+    {
+      "id": "3d9200a4c8fe5a0493110882381621171465cffcd202b49ff92f683597475cf4",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:21:41.044Z",
+      "key": "[\"49732d79-9aa6-4e11-9948-5d8893d8e884\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Это от ума. Это Вавилон. Прикольно, но к сожалению пусто по тексту. Рассказал про баттл - круто, но это делает 80% участников(",
+        "scoredAt": "2026-10-16T18:21:41.044Z",
+        "userId": "49732d79-9aa6-4e11-9948-5d8893d8e884"
+      }
+    },
+    {
+      "id": "f36c2eec2c248312d28d49d72781c62d18b85cc81515c83d63cca1c3fb6b37b5",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:22:11.665Z",
+      "key": "[\"32dd6ef3-5764-4474-b082-ae49768a0dc8\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Текст прям кринж. Для прохода хватит, наверное, но дальше уже вряд ли с подобным пройдешь.",
+        "scoredAt": "2026-10-16T18:22:11.665Z",
+        "userId": "32dd6ef3-5764-4474-b082-ae49768a0dc8"
+      }
+    },
+    {
+      "id": "5d0cc7e1fe1b2c846797be80b023a8953b88fd583f148a7b2570d622bff93f6f",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:13:08.875Z",
+      "key": "[\"fe2ced77-6a9c-4e2b-8638-a6fdbb7b1bad\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Крепко, уверенно начитал на проход, панчей не хватило до 5, но это проход. ",
+        "scoredAt": "2026-10-16T18:13:08.875Z",
+        "userId": "fe2ced77-6a9c-4e2b-8638-a6fdbb7b1bad"
+      }
+    },
+    {
+      "id": "dcc0c0cc4f8431b03ae3416fe99268a9caa4399116a925b1cac3018422ad4b81",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:18:37.230Z",
+      "key": "[\"a87ebf0f-a61c-4b04-ab44-74c5fa576940\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Подаешь пиздато. Звучит хорошо и вайбово. Хотелось бы еще каких-нибудь интересных строчек, мы же на онлайн баттле вроде бы)",
+        "scoredAt": "2026-10-16T18:18:37.230Z",
+        "userId": "a87ebf0f-a61c-4b04-ab44-74c5fa576940"
+      }
+    },
+    {
+      "id": "486b7e7f3a042ec6f88fbeebbe73bc3d3b1bc045de3f7f4c2e93610a32552f75",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:19:14.987Z",
+      "key": "[\"4c54706b-9d1e-45b0-842d-363cb6e543f4\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Круто нарифмовал и биток тебе очень подходит.",
+        "scoredAt": "2026-10-16T18:19:14.987Z",
+        "userId": "4c54706b-9d1e-45b0-842d-363cb6e543f4"
+      }
+    },
+    {
+      "id": "7c37077e8f88a23a5f8ebe7a20e9201c3828bcb33b75e11c213267a49e218f71",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:19:06.032Z",
+      "key": "[\"c8c1df37-932c-492e-8f6e-de9de16dca32\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:19:06.032Z",
+        "userId": "c8c1df37-932c-492e-8f6e-de9de16dca32"
+      }
+    },
+    {
+      "id": "989b0dd4f359f5dca8e731911f4f61e8026a4b26125fc9b76aad47f9a700a7fc",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:16:30.479Z",
+      "key": "[\"97f4db42-7a60-455c-bbe9-85d29f125b73\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Нормас, бито ебанутый конечно. По скиллу средне, крепкая 3. ",
+        "scoredAt": "2026-10-16T18:16:30.479Z",
+        "userId": "97f4db42-7a60-455c-bbe9-85d29f125b73"
+      }
+    },
+    {
+      "id": "913713863d5f368593d3f8c1f32a18acad68e7c8c6b2928352b327421fd4b352",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:16:41.237Z",
+      "key": "[\"88c3a4bf-cd35-4eec-975d-61c0cc3262bd\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11 ",
+        "scoredAt": "2026-10-16T18:16:41.237Z",
+        "userId": "88c3a4bf-cd35-4eec-975d-61c0cc3262bd"
+      }
+    },
+    {
+      "id": "cbd8388f50f7b0cb2040f0d033b97821e60342d84542391a2d24ff1546b454cc",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:17:18.021Z",
+      "key": "[\"d5afc15c-4a40-431b-8d98-824d19e3a76e\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Прокачивай флоу. Сыро, сыро. Спасибо за трек. ",
+        "scoredAt": "2026-10-16T18:17:18.021Z",
+        "userId": "d5afc15c-4a40-431b-8d98-824d19e3a76e"
+      }
+    },
+    {
+      "id": "1c3751f71ae56748dd4af65651ca328b30f477164441b198f2b923387585b018",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:15:25.798Z",
+      "key": "[\"2cc67e6c-e005-45ba-90f3-c72b0d991ac0\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Для фристайла пиздато. Спасибо за трек.",
+        "scoredAt": "2026-10-16T18:15:25.798Z",
+        "userId": "2cc67e6c-e005-45ba-90f3-c72b0d991ac0"
+      }
+    },
+    {
+      "id": "871e7baecc87d3fb8e4be478fb531d108fef60419f5e6f255b46deb6a2d33d64",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:16:31.084Z",
+      "key": "[\"0e0340dd-b8dd-4f06-8bfd-dd98779700fb\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Панч про картрайта осуждаю . в целом норм , заряд в тебе есть , но начало затянул. 4 с минусом ",
+        "scoredAt": "2026-10-16T18:16:31.084Z",
+        "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb"
+      }
+    },
+    {
+      "id": "211561ee6d6d5a310176af3adf9ca382939f2282d5928910fa306aaa1b8f1559",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:14:04.532Z",
+      "key": "[\"f1c2d311-ad2e-4f2b-b915-0a3c5c4e3c50\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. Спасибо за трек. ",
+        "scoredAt": "2026-10-16T18:14:04.532Z",
+        "userId": "f1c2d311-ad2e-4f2b-b915-0a3c5c4e3c50"
+      }
+    },
+    {
+      "id": "f2c75aa1e17c5b1a382390fb04f92201782db06d4dccb7517ad5d2a60d936fc8",
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "sourceScoredAt": "2026-10-16T18:20:30.843Z",
+      "key": "[\"a26164a5-0e4c-46e2-9bac-034050251366\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Надо что-то делать с качеством записи, брат. Оно не дает нормально воспринимать твой трек. При этом в целом всё довольно неплохо по исполнению и тексту. В этом раунде не буду снижать за качество, но в следующем будет тяжко.",
+        "scoredAt": "2026-10-16T18:20:30.843Z",
+        "userId": "a26164a5-0e4c-46e2-9bac-034050251366"
+      }
     }
   ],
   "snapshots": [
@@ -127711,6 +128033,26 @@
           "index": 29.074478518886927,
           "favor": 18.18640726329443,
           "attention": -0.2719287444075032,
+          "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T18:22:35.845Z",
+      "exportedAt": "2026-10-16T18:22:35.845Z",
+      "scores": 11713,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.671137376271453,
+          "favor": 9.408830862560443,
+          "attention": 6.500942877347372,
+          "respect": 6.761363636363637
+        },
+        "veterans": {
+          "index": 29.121769970443843,
+          "favor": 18.188139454608223,
+          "attention": -0.22636948416437908,
           "respect": 11.16
         }
       }
