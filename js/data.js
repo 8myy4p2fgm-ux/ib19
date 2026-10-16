@@ -13,13 +13,17 @@ export function normalizeData(main,forum){
  const archivedIds=checkMembers(archived,'Архив');for(const id of archivedIds)fail(!ids.has(id),'UUID одновременно в текущем составе и архиве: '+id);
  if(main.totalParticipants!==undefined)fail(main.totalParticipants===main.members.length,'totalParticipants не совпадает с members');
  const byId=new Map(main.members.map(p=>[p.userId,p])),archivedById=new Map(archived.map(p=>[p.userId,p]));
+ const artists=new Map([...main.members,...archived].map(p=>[p.userId,{
+  artistName:typeof p.artistName==='string'&&p.artistName.trim()?p.artistName.trim():null,
+  artistSlug:typeof p.artistSlug==='string'&&p.artistSlug.trim()?p.artistSlug.trim():null
+ }]));
  for(const f of forum.members){const m=byId.get(f.userId)||archivedById.get(f.userId);fail(!!m||(f.current===false&&f.scores.length===0),'Форумщик отсутствует в базе и архиве: '+f.userId);if(m&&Array.isArray(m.scores)&&Array.isArray(f.scores)){for(const s of f.scores){const actual=m.scores.find(x=>x.judgeName===s.judgeName);fail(actual&&actual.score===s.score&&actual.scoredAt===s.scoredAt,'Несогласованные оценки источников: '+f.userId+' / '+s.judgeName);}}}
  if(errors.length)throw new Error(errors.slice(0,20).join('\n'));
  const referenceMetadata=new Map(forum.members.map(p=>[p.userId,p]));
  const metadata=new Map(forum.members.filter(p=>ids.has(p.userId)).map(p=>[p.userId,p]));
  const people=main.members.map(p=>{const f=metadata.get(p.userId);return [p.userId,f?.forum_name||'',f?.group||'',p.scores.map(s=>[s.judgeName,s.score,s.scoredAt])];});
  const events=main.members.flatMap(p=>p.scores.map(s=>({...s,userId:p.userId,forum:metadata.has(p.userId),judge:s.judgeName,t:Date.parse(s.scoredAt)}))).sort((a,b)=>(Number.isFinite(a.t)?a.t:Infinity)-(Number.isFinite(b.t)?b.t:Infinity));
- return {updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,warnings,forumExportedAt:forum.exportedAt};
+ return {updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
 }
 // Retry a complete snapshot: never combine data from different published versions.
 export async function loadData(){
