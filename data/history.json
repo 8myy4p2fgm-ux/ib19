@@ -125862,6 +125862,62 @@
         "scoredAt": "2026-10-16T23:22:45.956Z",
         "userId": "a26164a5-0e4c-46e2-9bac-034050251366"
       }
+    },
+    {
+      "id": "505f50e484fc4011491b6c71b2d2721a8401ec9ccd6566bdf953ea2e6317debd",
+      "observedAt": "2026-10-16T23:41:57.801Z",
+      "sourceScoredAt": "2026-10-16T23:33:28.085Z",
+      "key": "[\"8077ffe6-3d8e-4ef0-92d6-be0ff37da543\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 1,
+        "comment": "Послушай воровскую лапу альбом сияние лапы и твой мозг поймет как сделать то что ты хотел но не получилось, братик ",
+        "scoredAt": "2026-10-16T23:33:28.085Z",
+        "userId": "8077ffe6-3d8e-4ef0-92d6-be0ff37da543"
+      }
+    },
+    {
+      "id": "ab7ffc4a8ba4c916ca55426850fd2e1beb7b2b3975d03f3f2e498347ce5048c9",
+      "observedAt": "2026-10-16T23:41:57.801Z",
+      "sourceScoredAt": "2026-10-16T23:39:24.336Z",
+      "key": "[\"2c233cf9-20fb-416d-97d0-6e6097a9afdc\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "\"Патриотам, что за бугор еще сто раз сьебут\nя и там найду этих уродов и в порох сотру\" жёстко ты блин их!! \nВроде есть качество и читка норм, но по тексту хочется мощнее, ты продал его дороже, чем он стоит.",
+        "scoredAt": "2026-10-16T23:39:24.336Z",
+        "userId": "2c233cf9-20fb-416d-97d0-6e6097a9afdc"
+      }
+    },
+    {
+      "id": "77f1594fd9eaafb3c9d54138c5d0589ddd08991daa561890f388d6c7eaf569f5",
+      "observedAt": "2026-10-16T23:41:57.801Z",
+      "sourceScoredAt": "2026-10-16T23:37:07.559Z",
+      "key": "[\"24c4333a-bb40-47a8-8cf3-f9ff643dad3f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормально читаешь, хороший напор, по панчам хотелось чуть интереснее.",
+        "scoredAt": "2026-10-16T23:37:07.559Z",
+        "userId": "24c4333a-bb40-47a8-8cf3-f9ff643dad3f"
+      }
+    },
+    {
+      "id": "d853e5cc31fdc1df785ee357a7eba46a42e22927ad49fdae66337c8fc17248bf",
+      "observedAt": "2026-10-16T23:41:57.801Z",
+      "sourceScoredAt": "2026-10-16T23:40:38.165Z",
+      "key": "[\"e57716ee-295d-4bd4-8f32-0af99950653b\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Классное качество делаешь. Увидимся во втором.",
+        "scoredAt": "2026-10-16T23:40:38.165Z",
+        "userId": "e57716ee-295d-4bd4-8f32-0af99950653b"
+      }
     }
   ],
   "snapshots": [
@@ -132301,6 +132357,26 @@
           "index": 29.419060942172123,
           "favor": 18.291093973712517,
           "attention": -0.0334503543750414,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T23:41:57.801Z",
+      "exportedAt": "2026-10-16T23:41:57.801Z",
+      "scores": 11977,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.246574727903393,
+          "favor": 9.25489100961056,
+          "attention": 6.355995985950828,
+          "respect": 6.635687732342007
+        },
+        "veterans": {
+          "index": 29.436992629426484,
+          "favor": 18.292454898833846,
+          "attention": -0.016879592242007017,
           "respect": 11.161417322834646
         }
       }

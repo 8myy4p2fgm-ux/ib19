@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T23:31:48.605Z",
+  "exportedAt": "2026-10-16T23:41:57.801Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -3447,8 +3447,14 @@
     },
     {
       "userId": "8077ffe6-3d8e-4ef0-92d6-be0ff37da543",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Послушай воровскую лапу альбом сияние лапы и твой мозг поймет как сделать то что ты хотел но не получилось, братик ",
+          "scoredAt": "2026-10-16T23:33:28.085Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -3462,7 +3468,7 @@
           "scoredAt": "2026-10-12T14:04:51.233Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T23:41:57.801Z",
       "current": true,
       "artistName": "НеЩиплетГлазки",
       "artistSlug": "neschipletglazki"
@@ -33318,8 +33324,14 @@
     },
     {
       "userId": "2c233cf9-20fb-416d-97d0-6e6097a9afdc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "\"Патриотам, что за бугор еще сто раз сьебут\nя и там найду этих уродов и в порох сотру\" жёстко ты блин их!! \nВроде есть качество и читка норм, но по тексту хочется мощнее, ты продал его дороже, чем он стоит.",
+          "scoredAt": "2026-10-16T23:39:24.336Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -33339,7 +33351,7 @@
           "scoredAt": "2026-10-10T16:02:39.581Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:02:58.094Z",
+      "fetchedAt": "2026-10-16T23:41:57.801Z",
       "current": true,
       "artistName": "Типо Очень Умный",
       "artistSlug": "tipo-ochen-umnyy"
@@ -77363,8 +77375,14 @@
     },
     {
       "userId": "24c4333a-bb40-47a8-8cf3-f9ff643dad3f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Нормально читаешь, хороший напор, по панчам хотелось чуть интереснее.",
+          "scoredAt": "2026-10-16T23:37:07.559Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -77384,7 +77402,7 @@
           "scoredAt": "2026-09-24T14:04:21.956Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:02:23.223Z",
+      "fetchedAt": "2026-10-16T23:41:57.801Z",
       "current": true,
       "artistName": "SKAPOLOMIN",
       "artistSlug": "skapolomin"
@@ -95589,8 +95607,14 @@
     },
     {
       "userId": "e57716ee-295d-4bd4-8f32-0af99950653b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Классное качество делаешь. Увидимся во втором.",
+          "scoredAt": "2026-10-16T23:40:38.165Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -95604,7 +95628,7 @@
           "scoredAt": "2026-10-14T23:34:36.630Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:52:24.228Z",
+      "fetchedAt": "2026-10-16T23:41:57.801Z",
       "current": true,
       "artistName": "ColdEyes",
       "artistSlug": "coldeyes"
