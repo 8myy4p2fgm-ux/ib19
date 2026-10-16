@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T19:12:37.485Z",
+  "exportedAt": "2026-10-16T19:22:25.316Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -17774,8 +17774,14 @@
     },
     {
       "userId": "0e7fafb5-7ca0-4b2e-a583-4dccd64ba4c0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Последние пару строк неплохо по рифме, нельзя было хотя бы на таком уровне весь текст? По исполнению ничего яркого",
+          "scoredAt": "2026-10-16T19:15:18.894Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -17801,7 +17807,7 @@
           "scoredAt": "2026-09-03T15:31:07.615Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:42:23.979Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "Nepridyman",
       "artistSlug": "nepridyman"
@@ -18627,8 +18633,14 @@
     },
     {
       "userId": "53090e9f-d4a0-4186-a863-ecc078e8722f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Ещё один квадратный тречок, примитив по смыслу. За минуту манера исполнения успела надоесть(",
+          "scoredAt": "2026-10-16T19:16:28.480Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -18654,7 +18666,7 @@
           "scoredAt": "2026-09-24T15:22:37.708Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:12:23.989Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "Nedelia",
       "artistSlug": "nedelia"
@@ -21787,8 +21799,14 @@
     },
     {
       "userId": "57baa038-7889-4829-bcdd-6ea587c98f3b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Смотри: звук тихий, текста нет - как следить за мыслью полноценно? Ставлю проходной балл, потому что не поленилась вникнуть. ",
+          "scoredAt": "2026-10-16T19:18:27.987Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -21808,7 +21826,7 @@
           "scoredAt": "2026-10-03T17:10:02.002Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:42:27.581Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "The Atacka",
       "artistSlug": "the-atacka"
@@ -44173,8 +44191,14 @@
     },
     {
       "userId": "9dc0a0f0-5d54-49ab-ba27-8a1cb61af368",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Симпатично по тексту, бодро по исполнению. Мне было интересно за мыслью следить. ",
+          "scoredAt": "2026-10-16T19:13:08.227Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -44194,7 +44218,7 @@
           "scoredAt": "2026-09-05T18:05:26.812Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "JEKA_MUZON",
       "artistSlug": "jeka-muzon"
@@ -45487,8 +45511,14 @@
     },
     {
       "userId": "8ef45a88-a592-4987-9766-05c4713556dd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "старичок-олдовичок. Думаю, должен проходить. Раскрытие имеется. ",
+          "scoredAt": "2026-10-16T19:21:25.413Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -45508,7 +45538,7 @@
           "scoredAt": "2026-09-10T14:40:50.437Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "Симбиоз",
       "artistSlug": "simbioz"
@@ -65463,8 +65493,14 @@
     },
     {
       "userId": "d70284d7-3a6f-4a62-a8a1-394fb9964436",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Ты сын Кадешевой? ",
+          "scoredAt": "2026-10-16T19:20:52.769Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -65472,7 +65508,7 @@
           "scoredAt": "2026-10-13T17:10:22.867Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "DaveBRA",
       "artistSlug": "davebra"
@@ -68006,8 +68042,14 @@
     },
     {
       "userId": "4d32cb2f-ae9a-4f9c-ad80-de448e45cc63",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "Рифмы капец плохие брат ну зачем ты так, ну ладно бы если б там панчи из них хорошие вышли, но нееее.. Увы",
+          "scoredAt": "2026-10-16T19:13:03.605Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -68033,7 +68075,7 @@
           "scoredAt": "2026-10-15T01:13:17.611Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:02:32.657Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "КСШ х Re!men'",
       "artistSlug": "kssh-h-re-men"
@@ -73361,8 +73403,14 @@
     },
     {
       "userId": "84367501-47ea-4d9e-be0c-6c8a1847c354",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Сложная ситуация. Некая харизма есть, даю проход, но сделаешь ли лучше во втором? Там пздц будет борьба уже. ",
+          "scoredAt": "2026-10-16T19:20:22.197Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -73382,7 +73430,7 @@
           "scoredAt": "2026-10-07T18:45:12.347Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:52:25.586Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "КакТрупак",
       "artistSlug": "kaktrupak"
@@ -77015,8 +77063,14 @@
     },
     {
       "userId": "ecb8b75f-2d13-45ad-8558-d05250d813ec",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Ещё один квадратно-глагольный рэпак, в лоб мысли, читочка тягостная",
+          "scoredAt": "2026-10-16T19:13:24.258Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -77042,7 +77096,7 @@
           "scoredAt": "2026-08-30T21:38:35.172Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "Under96",
       "artistSlug": "under96"
@@ -78609,8 +78663,14 @@
     },
     {
       "userId": "709e9d8c-4a72-44c2-9a06-6a777dd67031",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Хз, текст как будто в любое время напиши он и подходит и нет, тема избита. Подаешь интересно, но интонации иногда страно звучат. ",
+          "scoredAt": "2026-10-16T19:18:29.192Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -78624,7 +78684,7 @@
           "scoredAt": "2026-10-13T16:15:43.952Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:22:24.305Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "В мгновение ока",
       "artistSlug": "v-mgnovenie-oka"
@@ -95742,8 +95802,14 @@
     },
     {
       "userId": "20879858-17fb-481c-82ff-8657bfa8eb91",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Можно шаблон комментария кнопкой про квадратно-глагольный рэпчик?( Серенько по исполнению",
+          "scoredAt": "2026-10-16T19:18:59.208Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -95763,7 +95829,7 @@
           "scoredAt": "2026-10-08T17:18:03.145Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:02:27.839Z",
+      "fetchedAt": "2026-10-16T19:22:25.316Z",
       "current": true,
       "artistName": "Доктор Вайт",
       "artistSlug": "doktor-vayt"
