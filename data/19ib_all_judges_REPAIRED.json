@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T05:12:12.862Z",
+  "exportedAt": "2026-10-16T05:22:09.198Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -24035,8 +24035,14 @@
     },
     {
       "userId": "7598e089-c678-4b53-b187-3fb9541a2c2f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Забавный поток сознания. Для баттла простовато. АЁУ",
+          "scoredAt": "2026-10-16T05:19:35.836Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -24056,7 +24062,7 @@
           "scoredAt": "2026-09-01T11:51:38.894Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T05:22:09.198Z",
       "current": true
     },
     {
@@ -35076,8 +35082,14 @@
     },
     {
       "userId": "fb2ed133-5413-4d37-b6bc-fdc8682c60b3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Сумбурно как-то. Рифмы на месте, но кроме них ничего интересного. Три раза переслушал не нашел за что зацепиться, чтобы оценку поставить выше(",
+          "scoredAt": "2026-10-16T05:17:38.095Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -35103,7 +35115,7 @@
           "scoredAt": "2026-09-02T17:46:10.315Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T05:22:09.198Z",
       "current": true
     },
     {
@@ -61772,8 +61784,14 @@
     },
     {
       "userId": "34976fb9-76ec-4825-aedb-e1bc54b95c67",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Стилёво. Припев годный. Текст мега-простой. За харизму и вайб поставлю четверку. Если пройдешь, то постарайся удивить еще и текстом.",
+          "scoredAt": "2026-10-16T05:21:38.973Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -61787,7 +61805,7 @@
           "scoredAt": "2026-10-06T14:03:34.413Z"
         }
       ],
-      "fetchedAt": "2026-10-15T09:32:29.654Z",
+      "fetchedAt": "2026-10-16T05:22:09.198Z",
       "current": true
     },
     {

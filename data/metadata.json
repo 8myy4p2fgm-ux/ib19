@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T05:12:12.862Z",
-  "exportedAt": "2026-10-16T05:12:12.862Z",
-  "runId": "2026-10-16T05:12:12.862Z",
-  "forumExportedAt": "2026-10-16T05:12:12.862Z",
+  "lastSuccessfulAt": "2026-10-16T05:22:09.198Z",
+  "exportedAt": "2026-10-16T05:22:09.198Z",
+  "runId": "2026-10-16T05:22:09.198Z",
+  "forumExportedAt": "2026-10-16T05:22:09.198Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10632,
+    "scores": 10635,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3030,
-    "scoresBefore": 10631,
-    "scoresAfter": 10632,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4660,
+    "scoresBefore": 10632,
+    "scoresAfter": 10635,
     "fullBaselineRequests": 3138,
-    "requestReductionPercent": 99.90439770554494,
+    "requestReductionPercent": 99.84066284257489,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Gentle St.",
+          "comment": "Стилёво. Припев годный. Текст мега-простой. За харизму и вайб поставлю четверку. Если пройдешь, то постарайся удивить еще и текстом.",
+          "scoredAt": "2026-10-16T05:21:38.973Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Yura Mekhonoshin",
+          "comment": "Забавный поток сознания. Для баттла простовато. АЁУ",
+          "scoredAt": "2026-10-16T05:19:35.836Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "ANDRMAL",
+          "comment": "Сумбурно как-то. Рифмы на месте, но кроме них ничего интересного. Три раза переслушал не нашел за что зацепиться, чтобы оценку поставить выше(",
+          "scoredAt": "2026-10-16T05:17:38.095Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -165,27 +186,6 @@
           "artist": "Саша FRG",
           "comment": "Саньтьяго на опыте. Как обычно всё круто по исполнению. Как обычно всё мега претенциозно. ",
           "scoredAt": "2026-10-16T04:10:49.948Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "VCPR",
-          "comment": "Про доминантсептаккорд круто, остальное очень плохо. По исполнению ровно, но подачу бы подтянуть. Хотел бы тебе поставить тройку, но очень уж много стремных строчек, которые портят впечатление.",
-          "scoredAt": "2026-10-16T04:06:39.022Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "2ZID",
-          "comment": "Харизматично и артистично. Под конец переиграл, конечно с этим завыванием. По тексту слабо. Слушается, не как рэп трек, а как кривляния под бит.",
-          "scoredAt": "2026-10-16T04:03:57.971Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "undercat",
-          "comment": "Неплохо, но по тексту видно, что пытаешься запихнуть вообще всё. От баттла до какой-то попытки в социальщину. Читаешь неплохо.",
-          "scoredAt": "2026-10-16T04:01:10.390Z"
         }
       ]
     }

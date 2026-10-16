@@ -107060,6 +107060,48 @@
         "scoredAt": "2026-10-16T05:10:53.338Z",
         "userId": "e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294"
       }
+    },
+    {
+      "id": "3406e802c740551c51e2e7ccfb321e11f2b1b7d738581e35b16278756c688166",
+      "observedAt": "2026-10-16T05:22:09.198Z",
+      "sourceScoredAt": "2026-10-16T05:19:35.836Z",
+      "key": "[\"7598e089-c678-4b53-b187-3fb9541a2c2f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Забавный поток сознания. Для баттла простовато. АЁУ",
+        "scoredAt": "2026-10-16T05:19:35.836Z",
+        "userId": "7598e089-c678-4b53-b187-3fb9541a2c2f"
+      }
+    },
+    {
+      "id": "7f9ebccba84664aae2c87fa781298f776914adcb0f8f8c8b7a6cdab36aa43c21",
+      "observedAt": "2026-10-16T05:22:09.198Z",
+      "sourceScoredAt": "2026-10-16T05:17:38.095Z",
+      "key": "[\"fb2ed133-5413-4d37-b6bc-fdc8682c60b3\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Сумбурно как-то. Рифмы на месте, но кроме них ничего интересного. Три раза переслушал не нашел за что зацепиться, чтобы оценку поставить выше(",
+        "scoredAt": "2026-10-16T05:17:38.095Z",
+        "userId": "fb2ed133-5413-4d37-b6bc-fdc8682c60b3"
+      }
+    },
+    {
+      "id": "a2573cd4b75a1c4ed0d3d29e077ec8aedf537063511f22191c57b529ed80b57f",
+      "observedAt": "2026-10-16T05:22:09.198Z",
+      "sourceScoredAt": "2026-10-16T05:21:38.973Z",
+      "key": "[\"34976fb9-76ec-4825-aedb-e1bc54b95c67\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Стилёво. Припев годный. Текст мега-простой. За харизму и вайб поставлю четверку. Если пройдешь, то постарайся удивить еще и текстом.",
+        "scoredAt": "2026-10-16T05:21:38.973Z",
+        "userId": "34976fb9-76ec-4825-aedb-e1bc54b95c67"
+      }
     }
   ],
   "snapshots": [
@@ -111359,6 +111401,26 @@
           "index": 27.59305876831072,
           "favor": 18.022642159217696,
           "attention": -1.6485916553697846,
+          "respect": 11.21900826446281
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T05:22:09.198Z",
+      "exportedAt": "2026-10-16T05:22:09.198Z",
+      "scores": 10635,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 23.01050844323936,
+          "favor": 9.400385170919597,
+          "attention": 6.710123272319761,
+          "respect": 6.9
+        },
+        "veterans": {
+          "index": 27.600115100386013,
+          "favor": 18.022475345741295,
+          "attention": -1.6413685098180941,
           "respect": 11.21900826446281
         }
       }
