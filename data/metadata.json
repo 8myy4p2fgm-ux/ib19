@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T00:42:27.969Z",
-  "exportedAt": "2026-10-16T00:42:27.969Z",
-  "runId": "2026-10-16T00:42:27.969Z",
-  "forumExportedAt": "2026-10-16T00:42:27.969Z",
-  "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+  "lastSuccessfulAt": "2026-10-16T02:32:02.751Z",
+  "exportedAt": "2026-10-16T02:32:02.751Z",
+  "runId": "2026-10-16T02:32:02.751Z",
+  "forumExportedAt": "2026-10-16T02:32:02.751Z",
+  "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
     "sha256": "d59fa45e32c4dc48f0a6c8c5d6c4bdb3f2ac6034933534177728d7d07aeb2279",
@@ -13,30 +13,30 @@
     "veterans": 29
   },
   "counts": {
-    "participants": 3281,
+    "participants": 3280,
     "forum": 94,
-    "scores": 10618,
+    "scores": 10613,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
     "veterans": 29,
-    "archivedParticipants": 7
+    "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 2,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
     "mode": "incremental",
-    "participants": 3281,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11357,
-    "scoresBefore": 10609,
-    "scoresAfter": 10618,
-    "fullBaselineRequests": 3137,
-    "requestReductionPercent": 99.6493465094039,
+    "participants": 3280,
+    "participantsWithNewScores": 0,
+    "changedParticipants": 0,
+    "updatedCards": 0,
+    "logicalRequests": 2,
+    "durationMs": 1838,
+    "scoresBefore": 10618,
+    "scoresAfter": 10613,
+    "fullBaselineRequests": 3136,
+    "requestReductionPercent": 99.93622448979592,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -49,7 +49,8 @@
       "0fb3f5ae-9bdf-471c-bff0-40ed60b7ce82",
       "01a99616-b41f-43b8-8c87-f1d7f4bd2aed",
       "a6b0ded9-64f9-4dc0-be63-56968ffce8b6",
-      "735e3c6f-e2c4-472f-a1bf-080e0dbc5587"
+      "735e3c6f-e2c4-472f-a1bf-080e0dbc5587",
+      "f4f1ab15-eecf-4124-aa6e-fd2daa47a61f"
     ],
     "round": {
       "id": "c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c",
