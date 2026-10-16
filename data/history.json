@@ -120962,6 +120962,258 @@
         "scoredAt": "2026-10-16T17:40:04.418Z",
         "userId": "6c2ac8e5-1969-4fc4-bb6f-3d82e427cd37"
       }
+    },
+    {
+      "id": "fb689725dad8c4b64a529c1b8e2a711242dd42ea2d3ec8876449ab14a8873d7f",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:46:12.235Z",
+      "key": "[\"0961406e-0893-41bf-aa38-afd3726d3f95\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Качество записи и обработки конечно нечто, то что услышал вопреки это вцелом нормально. Уверенное 3. Дикцию подкачай чуть если пройдешь. ",
+        "scoredAt": "2026-10-16T17:46:12.235Z",
+        "userId": "0961406e-0893-41bf-aa38-afd3726d3f95"
+      }
+    },
+    {
+      "id": "1929e34b4b8c7c7b1c774005d6d68451bf1a2c66513a0acbe2e9e6c1c4276242",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:51:29.514Z",
+      "key": "[\"84f8e839-f626-4fe8-be42-c042c821cf66\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Текст пустота, но как звучит ! Почти везде в бит попал, авансом 4. Но давай теперь покажи как в текст могешь ",
+        "scoredAt": "2026-10-16T17:51:29.514Z",
+        "userId": "84f8e839-f626-4fe8-be42-c042c821cf66"
+      }
+    },
+    {
+      "id": "f15ec914a320972c75fe69dbf42bcd7a923f55f35bf90d5838a18566ffe88587",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:45:27.359Z",
+      "key": "[\"d1a8c834-13d2-449f-8815-1cb31cdfd0fc\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "очень сексуализированный трек конечно)))) но когда один и тот же мат на репите в каждой строчке, есть сомнения, что можешь по-другому. Стиль то прикольный, просто хочется больше содержания, пусть и грязного ",
+        "scoredAt": "2026-10-16T17:45:27.359Z",
+        "userId": "d1a8c834-13d2-449f-8815-1cb31cdfd0fc"
+      }
+    },
+    {
+      "id": "72d48ef4cf8bead77845b8bb76f3f7100d3b193dfdc8a72db0c3acc55398b3b8",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:42:44.541Z",
+      "key": "[\"f1ed32df-f7e3-4c16-ad15-5b8be06073e2\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T17:42:44.541Z",
+        "userId": "f1ed32df-f7e3-4c16-ad15-5b8be06073e2"
+      }
+    },
+    {
+      "id": "e1315ec089add1cd42f754a5b687dd014407e8d352aed04e44849eb02f2ae077",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:46:01.875Z",
+      "key": "[\"f2e7fb6f-053b-473b-bab9-16215528d6bf\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:46:01.875Z",
+        "userId": "f2e7fb6f-053b-473b-bab9-16215528d6bf"
+      }
+    },
+    {
+      "id": "7a05b954e09441dd0782eb9354cff5c400029bd805332c989cd9a3d224e3c5a5",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:44:45.029Z",
+      "key": "[\"4eea1aa4-3449-4d4c-ad64-902e197113a0\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Скинь своему знакомому Роману. Веселый трек. Если пройдешь во второй сделай, пожалуйста рэп.",
+        "scoredAt": "2026-10-16T17:44:45.029Z",
+        "userId": "4eea1aa4-3449-4d4c-ad64-902e197113a0"
+      }
+    },
+    {
+      "id": "92ecc4dc41d06bc4d083ef4b651f0aec0ed686207d593f85762e1fe8037d3d1b",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:51:15.557Z",
+      "key": "[\"33b4c97a-96e9-4559-9ddc-aecc8cde4bbd\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:51:15.557Z",
+        "userId": "33b4c97a-96e9-4559-9ddc-aecc8cde4bbd"
+      }
+    },
+    {
+      "id": "fe38b8f87066b757b21bda298bc1bdf14cb6cf8dd80e8eb5845f3db1fd5174c5",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:50:11.144Z",
+      "key": "[\"896cd11e-ada5-4fcf-8afc-2e1da6a32562\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Зачитал ронво, но по тексту все очень печально. Панчи, которые летят как писок это вообще бомба!",
+        "scoredAt": "2026-10-16T17:50:11.144Z",
+        "userId": "896cd11e-ada5-4fcf-8afc-2e1da6a32562"
+      }
+    },
+    {
+      "id": "2a47d763cd48a5309ad7cb29552fff777144addd8547070be8b551b771f4ce7c",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:48:49.496Z",
+      "key": "[\"8bb6f9cb-f00a-43f1-9d3a-5a62cdcee68f\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Хорош, крепкий бумбеп, ничего лишнего. Соуса бы побольше. Но с проходом.  5- после повторного прослушивания подтянул чуть. ",
+        "scoredAt": "2026-10-16T17:48:49.496Z",
+        "userId": "8bb6f9cb-f00a-43f1-9d3a-5a62cdcee68f"
+      }
+    },
+    {
+      "id": "99f63fa6a62ee3bc0d09f26ef075a722a9b92d0770940b6cc95811c573c06394",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:49:15.887Z",
+      "key": "[\"9cc174c0-1577-4095-9516-f03c938a4152\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Правильно строишь, интересно.. слушабельно, но слабое место это подача, то как работаешь с голосом, тут надо ставить.. ",
+        "scoredAt": "2026-10-16T17:49:15.887Z",
+        "userId": "9cc174c0-1577-4095-9516-f03c938a4152"
+      }
+    },
+    {
+      "id": "b50644ee204b9824224aa0a7adbcf46f0ab56456466ba1497cb0db633ba9c981",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:49:21.802Z",
+      "key": "[\"0cc0e8fa-dd57-471a-8efa-963cef3670ab\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Гранжовенько, текст оч плохо слышно, музон крутяк, но сведос испортил ов.\nНе знаю как к этому относиться. Но давай ты рхпася который будет слышно навалишь. Авансом 3",
+        "scoredAt": "2026-10-16T17:49:21.802Z",
+        "userId": "0cc0e8fa-dd57-471a-8efa-963cef3670ab"
+      }
+    },
+    {
+      "id": "529ba2df556c9b2b61edfa83bfce45a7daa1ac283b3cc186aa3f0959b010d162",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:45:55.390Z",
+      "key": "[\"902d582e-ecbf-476d-bae5-36b08b2ca5ef\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Вот сучка",
+        "scoredAt": "2026-10-16T17:45:55.390Z",
+        "userId": "902d582e-ecbf-476d-bae5-36b08b2ca5ef"
+      }
+    },
+    {
+      "id": "a2af6a72251b5eb31832925d86571145dc350bae51c92d8017991ef393c65f80",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:44:11.222Z",
+      "key": "[\"df3ebcdd-75c8-4b1d-9721-83c1bdd526dd\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T17:44:11.222Z",
+        "userId": "df3ebcdd-75c8-4b1d-9721-83c1bdd526dd"
+      }
+    },
+    {
+      "id": "3e073082d36c03137ae6170dc8252c0ce6dc672d54f3ea2aeef19c3031fe5fb1",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:46:48.869Z",
+      "key": "[\"6ce8424a-4a05-4712-95ef-13dc14337023\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Дал авансом 3, так как ты реально строишь прикольные конструкции по тексту, но с подачей надо что-то делать ",
+        "scoredAt": "2026-10-16T17:46:48.869Z",
+        "userId": "6ce8424a-4a05-4712-95ef-13dc14337023"
+      }
+    },
+    {
+      "id": "e084a7692bd186eaa055f206d93d8455f5a222f943312746d280d8d8bd68c3f5",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:48:36.243Z",
+      "key": "[\"097e6c69-8e35-4c92-a14d-048ca280c8a9\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:48:36.243Z",
+        "userId": "097e6c69-8e35-4c92-a14d-048ca280c8a9"
+      }
+    },
+    {
+      "id": "43e880f8efa38a51442d59dade20fbccbd51adcb5de5b981df071552f8eb24a1",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:43:29.635Z",
+      "key": "[\"ed8b9f96-40f2-4f33-a435-abb40f4f4332\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Всегда делаешь рифму на последнее слово квадрата, попробуй покрутить конструкцию.. часто на это влияет ещё выбранный бит ",
+        "scoredAt": "2026-10-16T17:43:29.635Z",
+        "userId": "ed8b9f96-40f2-4f33-a435-abb40f4f4332"
+      }
+    },
+    {
+      "id": "db793d009cd6c7be6d4b2d9311cb05ebbec3f88a8140c0d8baa12aa8898299cf",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:43:03.564Z",
+      "key": "[\"ea9a9e6f-85ee-42d5-b125-4cc364affa03\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:43:03.564Z",
+        "userId": "ea9a9e6f-85ee-42d5-b125-4cc364affa03"
+      }
+    },
+    {
+      "id": "778633779203ec8a89f5107238d3d5ad07562a904e29d62be469913ac921ee75",
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "sourceScoredAt": "2026-10-16T17:48:18.331Z",
+      "key": "[\"faa54ff5-ef45-4a39-b64f-b62edff3a461\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Очень простой текст, но момент : я прав как руль на японской тачке. -хорош) авансом 3)",
+        "scoredAt": "2026-10-16T17:48:18.331Z",
+        "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461"
+      }
     }
   ],
   "snapshots": [
@@ -126741,6 +126993,26 @@
           "index": 28.93412578398151,
           "favor": 18.18652173913044,
           "attention": -0.4123959551489303,
+          "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T17:52:29.544Z",
+      "exportedAt": "2026-10-16T17:52:29.544Z",
+      "scores": 11643,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.77549762619245,
+          "favor": 9.453757843458273,
+          "attention": 6.5346675393881695,
+          "respect": 6.787072243346008
+        },
+        "veterans": {
+          "index": 28.964127670396355,
+          "favor": 18.18126063552701,
+          "attention": -0.37713296513065697,
           "respect": 11.16
         }
       }
