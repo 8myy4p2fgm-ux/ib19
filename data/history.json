@@ -116258,6 +116258,132 @@
         "scoredAt": "2026-10-16T14:21:40.932Z",
         "userId": "5185eb56-ed75-485e-9c26-483e897c3ef2"
       }
+    },
+    {
+      "id": "cbe4bf76b6638ed59d17394680fa989f33b4ed7117bf6df6585d1b02752f96d3",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:30:18.732Z",
+      "key": "[\"aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Рифме не хватает, наполнению не хватает ударности. Модный рэп, у которого в парных нет шансов",
+        "scoredAt": "2026-10-16T14:30:18.732Z",
+        "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4"
+      }
+    },
+    {
+      "id": "4a0d100694faeb3e73290a1441d4548ad1077c8cdcc09af602c3dd537290d6db",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:31:54.790Z",
+      "key": "[\"5da121e5-8fca-4bef-b429-86526da05863\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Короче по исполнению не плохо, но вот текст конечно, ладно авансом поставлю, но исправляйся",
+        "scoredAt": "2026-10-16T14:31:54.790Z",
+        "userId": "5da121e5-8fca-4bef-b429-86526da05863"
+      }
+    },
+    {
+      "id": "f7ba259da57f6548811fafa2c8fc2997d3cf44c79b50625a8738aa7772e33789",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:26:03.348Z",
+      "key": "[\"3a2860bb-f66e-4b69-9f36-850bc9deff0c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень странная конструкция текста, порой теряешь рифму, звук ещё подводит дороги убивают друг друга",
+        "scoredAt": "2026-10-16T14:26:03.348Z",
+        "userId": "3a2860bb-f66e-4b69-9f36-850bc9deff0c"
+      }
+    },
+    {
+      "id": "5050050a0cf447546f4447e3349d43e61d086cb9e51b939372816d52ee14e5ca",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:24:50.677Z",
+      "key": "[\"3e71b25b-8ef7-48f0-9a58-894f1b757868\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Напор мощный, чуть по легче брат, но ритмически всё странно очень",
+        "scoredAt": "2026-10-16T14:24:50.677Z",
+        "userId": "3e71b25b-8ef7-48f0-9a58-894f1b757868"
+      }
+    },
+    {
+      "id": "c9dfa0fd25962179c03a133fa86f14d101889ddaa2ceaa03db24fb873492c82d",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:26:13.762Z",
+      "key": "[\"d455cce8-ad6e-4b8e-99f6-5edc63f3e932\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-16T14:26:13.762Z",
+        "userId": "d455cce8-ad6e-4b8e-99f6-5edc63f3e932"
+      }
+    },
+    {
+      "id": "082e656590517740b6a4fd40dd76371b0ed20a3f40b4f1957bfce19b6f2b9916",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:30:55.718Z",
+      "key": "[\"ff7ca68d-a632-4709-9206-bdee73543fbf\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Две проблемы есть в треке это местами рифма, и вторая ну звук честно говоря, если пробиваться сквозь звучание слышно что есть задатки ",
+        "scoredAt": "2026-10-16T14:30:55.718Z",
+        "userId": "ff7ca68d-a632-4709-9206-bdee73543fbf"
+      }
+    },
+    {
+      "id": "d7ab1b93bf97af472194b3d16907b8353ba7b28a805e5dd4e671330e4095f0ed",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:29:10.604Z",
+      "key": "[\"ed9a9b3d-9eea-4d43-b9b6-1dd0fdbc3668\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень не хватает подачи треку, стиля и флоу, прям надо с этим поработать ",
+        "scoredAt": "2026-10-16T14:29:10.604Z",
+        "userId": "ed9a9b3d-9eea-4d43-b9b6-1dd0fdbc3668"
+      }
+    },
+    {
+      "id": "c9e81cce3e1fb5107896a422fb80dde93c8c00f97c9fbbaaf145e31125d63850",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:29:19.894Z",
+      "key": "[\"7cf3edc8-5e1c-466d-8484-784d4adca9dd\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Ужасная артикуляция там, где ты ускорялся. И похоже, что у тебя цель была квадратить по рифме (вплоть до последнего катрена)",
+        "scoredAt": "2026-10-16T14:29:19.894Z",
+        "userId": "7cf3edc8-5e1c-466d-8484-784d4adca9dd"
+      }
+    },
+    {
+      "id": "7cfc943c2d947e86e2bcefd34b49a836f2c78a9fbd445c4fd90e156ce7183b09",
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "sourceScoredAt": "2026-10-16T14:28:00.004Z",
+      "key": "[\"252ff774-6492-41f8-96da-f29c36b39196\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот вроде пытаешься дать разнообразие, и текст такой вроде с посылом, но почему так сложно дать акценты и эмоции было тут",
+        "scoredAt": "2026-10-16T14:28:00.004Z",
+        "userId": "252ff774-6492-41f8-96da-f29c36b39196"
+      }
     }
   ],
   "snapshots": [
@@ -121637,6 +121763,26 @@
           "index": 28.16403745879173,
           "favor": 17.999219912456834,
           "attention": -0.9642147117296223,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T14:32:26.568Z",
+      "exportedAt": "2026-10-16T14:32:26.568Z",
+      "scores": 11298,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.66835087881828,
+          "favor": 9.256035136501515,
+          "attention": 6.668129695805138,
+          "respect": 6.744186046511628
+        },
+        "veterans": {
+          "index": 28.201176274021073,
+          "favor": 18.012046975409497,
+          "attention": -0.939902959452941,
           "respect": 11.129032258064516
         }
       }

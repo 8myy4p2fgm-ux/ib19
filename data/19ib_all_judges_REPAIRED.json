@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T14:22:16.228Z",
+  "exportedAt": "2026-10-16T14:32:26.568Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -4970,8 +4970,14 @@
     },
     {
       "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Рифме не хватает, наполнению не хватает ударности. Модный рэп, у которого в парных нет шансов",
+          "scoredAt": "2026-10-16T14:30:18.732Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -4985,7 +4991,7 @@
           "scoredAt": "2026-10-14T13:47:48.775Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:52:19.398Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "D1STANT",
       "artistSlug": "d1stant"
@@ -9948,8 +9954,14 @@
     },
     {
       "userId": "5da121e5-8fca-4bef-b429-86526da05863",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Короче по исполнению не плохо, но вот текст конечно, ладно авансом поставлю, но исправляйся",
+          "scoredAt": "2026-10-16T14:31:54.790Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -9975,7 +9987,7 @@
           "scoredAt": "2026-09-02T13:55:26.808Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Black Image",
       "artistSlug": "black-image"
@@ -10124,8 +10136,14 @@
     },
     {
       "userId": "3a2860bb-f66e-4b69-9f36-850bc9deff0c",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень странная конструкция текста, порой теряешь рифму, звук ещё подводит дороги убивают друг друга",
+          "scoredAt": "2026-10-16T14:26:03.348Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -10133,7 +10151,7 @@
           "scoredAt": "2026-10-12T11:56:19.875Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Артем Попов",
       "artistSlug": "artem-popov"
@@ -48494,8 +48512,14 @@
     },
     {
       "userId": "3e71b25b-8ef7-48f0-9a58-894f1b757868",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Напор мощный, чуть по легче брат, но ритмически всё странно очень",
+          "scoredAt": "2026-10-16T14:24:50.677Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -48515,7 +48539,7 @@
           "scoredAt": "2026-10-10T17:27:42.498Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Мужик в трико",
       "artistSlug": "muzhik-v-triko"
@@ -49267,8 +49291,14 @@
     },
     {
       "userId": "d455cce8-ad6e-4b8e-99f6-5edc63f3e932",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T14:26:13.762Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -49282,7 +49312,7 @@
           "scoredAt": "2026-09-30T17:12:54.916Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:22:40.625Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "VZRYVNOY",
       "artistSlug": "vzryvnoy"
@@ -78341,8 +78371,14 @@
     },
     {
       "userId": "ff7ca68d-a632-4709-9206-bdee73543fbf",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Две проблемы есть в треке это местами рифма, и вторая ну звук честно говоря, если пробиваться сквозь звучание слышно что есть задатки ",
+          "scoredAt": "2026-10-16T14:30:55.718Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -78356,7 +78392,7 @@
           "scoredAt": "2026-10-10T16:07:59.826Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:02:17.851Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "гном второй великий",
       "artistSlug": "gnom-vtoroy-velikiy"
@@ -78813,8 +78849,14 @@
     },
     {
       "userId": "ed9a9b3d-9eea-4d43-b9b6-1dd0fdbc3668",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень не хватает подачи треку, стиля и флоу, прям надо с этим поработать ",
+          "scoredAt": "2026-10-16T14:29:10.604Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -78828,7 +78870,7 @@
           "scoredAt": "2026-10-13T07:02:24.115Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:02:47.880Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Hastla",
       "artistSlug": "hastla"
@@ -84224,8 +84266,14 @@
     },
     {
       "userId": "7cf3edc8-5e1c-466d-8484-784d4adca9dd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Ужасная артикуляция там, где ты ускорялся. И похоже, что у тебя цель была квадратить по рифме (вплоть до последнего катрена)",
+          "scoredAt": "2026-10-16T14:29:19.894Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -84239,7 +84287,7 @@
           "scoredAt": "2026-10-06T13:32:35.505Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Отец",
       "artistSlug": "otec"
@@ -100359,8 +100407,14 @@
     },
     {
       "userId": "252ff774-6492-41f8-96da-f29c36b39196",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Вот вроде пытаешься дать разнообразие, и текст такой вроде с посылом, но почему так сложно дать акценты и эмоции было тут",
+          "scoredAt": "2026-10-16T14:28:00.004Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -100368,7 +100422,7 @@
           "scoredAt": "2026-10-13T20:56:30.248Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-16T14:32:26.568Z",
       "current": true,
       "artistName": "Алексей Дрищ",
       "artistSlug": "aleksey-drisch"
