@@ -123622,6 +123622,272 @@
         "scoredAt": "2026-10-16T19:18:59.208Z",
         "userId": "20879858-17fb-481c-82ff-8657bfa8eb91"
       }
+    },
+    {
+      "id": "34231f96235aa8c4ac7dc81b37328e2f1c25fd626742f5b545bd87ea98709c7d",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:32:22.355Z",
+      "key": "[\"3b837e73-d953-486c-95bd-f5e2a90c69ad\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Жаль над дикцией в школе у вас не работают(",
+        "scoredAt": "2026-10-16T19:32:22.355Z",
+        "userId": "3b837e73-d953-486c-95bd-f5e2a90c69ad"
+      }
+    },
+    {
+      "id": "72c4086e54e6cbc2e262c8cfd29bfc0a666a1611b5477c3fda4b1d94caee5c8b",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:27:50.005Z",
+      "key": "[\"ef3d7a5e-752e-4831-8d52-c434bb54f7b0\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:27:50.005Z",
+        "userId": "ef3d7a5e-752e-4831-8d52-c434bb54f7b0"
+      }
+    },
+    {
+      "id": "f6baa1ba6dccfdf65e5054dc7100b3d5c63964b5e586926e03125b3a408cbef1",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:23:26.893Z",
+      "key": "[\"29b29a19-e113-435d-a693-12a0ca9c9a39\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Квадратно и иногда глагольно, примитивчик по смыслу, читка покатит, в целом 2 с плюсом ",
+        "scoredAt": "2026-10-16T19:23:26.893Z",
+        "userId": "29b29a19-e113-435d-a693-12a0ca9c9a39"
+      }
+    },
+    {
+      "id": "c1c8086929c28039d37cd7cf15bb7668d75ef7b67b169589704096c3e47956b8",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:28:31.098Z",
+      "key": "[\"bf46a8e7-911b-47a8-b9d5-4381ccc8bdcd\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:28:31.098Z",
+        "userId": "bf46a8e7-911b-47a8-b9d5-4381ccc8bdcd"
+      }
+    },
+    {
+      "id": "a3d37ff4d73abae71890535658fe21e1099da3f5df5e6e6d2107b196f27f47a9",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:26:48.682Z",
+      "key": "[\"f77e9053-6a2b-4af3-9b7f-37459800d327\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Сын Лжедмитрия? ",
+        "scoredAt": "2026-10-16T19:26:48.682Z",
+        "userId": "f77e9053-6a2b-4af3-9b7f-37459800d327"
+      }
+    },
+    {
+      "id": "8ef939cca64c313bcff84f288708c6b4cd886247e9442ce64ea138038bc4cae2",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:22:51.549Z",
+      "key": "[\"7f128898-3ae2-4231-9b71-2432711bd91d\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Средне. Пойму, если ты пройдешь, и пойму если ты не пройдешь. Просто много треков такого плана тут. А надо выделяться кровь из носа. ",
+        "scoredAt": "2026-10-16T19:22:51.549Z",
+        "userId": "7f128898-3ae2-4231-9b71-2432711bd91d"
+      }
+    },
+    {
+      "id": "3d0c3caf3984e79f4db1f030b2c3af9ec2d23aa335d95c84ec00a7a88be9f994",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:24:58.733Z",
+      "key": "[\"44bb6d51-fe6e-415f-ba18-8b8b62884a98\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Рифме явно не хватает остроты, мыслям нетривиальности, ну вот ты битмарь, видимо, да, во всяком случае бит прикольный. Но битом не выехать тут",
+        "scoredAt": "2026-10-16T19:24:58.733Z",
+        "userId": "44bb6d51-fe6e-415f-ba18-8b8b62884a98"
+      }
+    },
+    {
+      "id": "5e6941f1f27f492916be52d2fff772897cbb9e1249460df4b8a7ef3712be8cfd",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:26:08.620Z",
+      "key": "[\"fd4e1fac-14a8-4609-9fb8-5c2583ac9466\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "За флоу",
+        "scoredAt": "2026-10-16T19:26:08.620Z",
+        "userId": "fd4e1fac-14a8-4609-9fb8-5c2583ac9466"
+      }
+    },
+    {
+      "id": "7656089012b5e1859920ae409057394673c0d1ba7e16c916d6d80506341b3d92",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:30:13.569Z",
+      "key": "[\"ccf3f66b-d2da-4d47-ae11-9ef724fe3361\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Очень неубедительно по читке и я не уверен, что начеркать любую несусветную чушь это круто) частенько квадратишь ",
+        "scoredAt": "2026-10-16T19:30:13.569Z",
+        "userId": "ccf3f66b-d2da-4d47-ae11-9ef724fe3361"
+      }
+    },
+    {
+      "id": "83b0a0c43c28f9b98020efbf1ba186771885052f5eb985cd8e051e9a78ddd73a",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:26:54.138Z",
+      "key": "[\"cb69727f-66a1-4469-92b5-cb574be11aa5\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Местами потешно. Обожаю женщин, обещаю жемчуг :D\nТри с плюсом ",
+        "scoredAt": "2026-10-16T19:26:54.138Z",
+        "userId": "cb69727f-66a1-4469-92b5-cb574be11aa5"
+      }
+    },
+    {
+      "id": "8fc4f31475925ec170da230dc4daf1a5b9ab8d4681468a089f6774534ff0a6f0",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:23:29.546Z",
+      "key": "[\"4322872d-0961-4ad5-8cb1-0c1458bca32c\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Эх, панчей бы и звучало бы круто, прям почти Паша Морган",
+        "scoredAt": "2026-10-16T19:23:29.546Z",
+        "userId": "4322872d-0961-4ad5-8cb1-0c1458bca32c"
+      }
+    },
+    {
+      "id": "6df3f4f07619b1d9490a84f6fcbb6ee0b0065988d82990e07538995599a58c6f",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:31:28.610Z",
+      "key": "[\"b7690fc4-f3dc-4ed1-bf06-51b954854052\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Уверенный куплет, припев, интересно, что дальше сделаешь) ",
+        "scoredAt": "2026-10-16T19:31:28.610Z",
+        "userId": "b7690fc4-f3dc-4ed1-bf06-51b954854052"
+      }
+    },
+    {
+      "id": "1f4df2e4ef7a7cf67e56dd4917c575124f2c38561c82d400e4b49bba6a5c03d5",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:25:02.937Z",
+      "key": "[\"47b0a509-fb80-4ff7-ba39-53d62f0cf7b0\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Как-то шумно вышло, но бодренько, плюс в раскрытие смогла очень даже. ",
+        "scoredAt": "2026-10-16T19:25:02.937Z",
+        "userId": "47b0a509-fb80-4ff7-ba39-53d62f0cf7b0"
+      }
+    },
+    {
+      "id": "25a7c29412974b2ac6a5be4dd57becd06f5ad0d772365c1944f48552db0c842d",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:24:30.503Z",
+      "key": "[\"2e904e4e-dc04-4745-ab79-ff9181174370\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "Монотонно это звучит ",
+        "scoredAt": "2026-10-16T19:24:30.503Z",
+        "userId": "2e904e4e-dc04-4745-ab79-ff9181174370"
+      }
+    },
+    {
+      "id": "fda3442a580db0fdaaae305263fb0668e174afdc33958020038ecd54fb796076",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:23:13.999Z",
+      "key": "[\"be131ab6-e107-4846-8eac-57dd979e1af2\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "Во втором ждём нормальное раскрытие и текст ",
+        "scoredAt": "2026-10-16T19:23:13.999Z",
+        "userId": "be131ab6-e107-4846-8eac-57dd979e1af2"
+      }
+    },
+    {
+      "id": "e48640e1a833b2896efd2d820c813705a084aee75167dcfa0d822e8e0ee236d8",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:24:57.747Z",
+      "key": "[\"b1a29f76-7225-42b1-a54e-2c0d6413d02b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Интересно",
+        "scoredAt": "2026-10-16T19:24:57.747Z",
+        "userId": "b1a29f76-7225-42b1-a54e-2c0d6413d02b"
+      }
+    },
+    {
+      "id": "85678dbf2a8a5e281d55e1e8b30376b4d55c2ada437407bbc52f075a5ca68dcc",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:28:30.836Z",
+      "key": "[\"a4216c71-0884-470e-a589-b509b9fa09dc\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Правды прав ты – популярная, но увы, однокоренная рифма отборки. В целом сплошь квадратно-глагольно, по мыслям нет чего-то крутого, читка такой просед не вытаскивает ",
+        "scoredAt": "2026-10-16T19:28:30.836Z",
+        "userId": "a4216c71-0884-470e-a589-b509b9fa09dc"
+      }
+    },
+    {
+      "id": "03809ea486f16afe385a961d02e9435d94b8f7df0b379873655ab716245d361f",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:31:51.658Z",
+      "key": "[\"a5b071a8-176c-4296-a26d-8a1686911d69\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Слабо по всем критериям ",
+        "scoredAt": "2026-10-16T19:31:51.658Z",
+        "userId": "a5b071a8-176c-4296-a26d-8a1686911d69"
+      }
+    },
+    {
+      "id": "83562af6b360e44c0ae6cef8a0e4631db5303c29d1d0bd8a84a21d9e8eea419f",
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "sourceScoredAt": "2026-10-16T19:28:02.795Z",
+      "key": "[\"e478f2b7-6c06-4d96-80a6-9e2d368482d8\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "я конечно, может и ебанутая, но я вообще не поняла че ты хотел мне донести, сорри. ",
+        "scoredAt": "2026-10-16T19:28:02.795Z",
+        "userId": "e478f2b7-6c06-4d96-80a6-9e2d368482d8"
+      }
     }
   ],
   "snapshots": [
@@ -129602,6 +129868,26 @@
           "favor": 18.2177758768178,
           "attention": -0.045763332384167923,
           "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T19:32:26.602Z",
+      "exportedAt": "2026-10-16T19:32:26.602Z",
+      "scores": 11834,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.73389568226473,
+          "favor": 9.396583582997497,
+          "attention": 6.601463042663461,
+          "respect": 6.735849056603773
+        },
+        "veterans": {
+          "index": 29.040125563658812,
+          "favor": 18.169830966209513,
+          "attention": -0.2606577835030796,
+          "respect": 11.130952380952381
         }
       }
     }
