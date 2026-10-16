@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T15:32:47.284Z",
-  "exportedAt": "2026-10-16T15:32:47.284Z",
-  "runId": "2026-10-16T15:32:47.284Z",
-  "forumExportedAt": "2026-10-16T15:32:47.284Z",
+  "lastSuccessfulAt": "2026-10-16T15:42:35.539Z",
+  "exportedAt": "2026-10-16T15:42:35.539Z",
+  "runId": "2026-10-16T15:42:35.539Z",
+  "forumExportedAt": "2026-10-16T15:42:35.539Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11376,
+    "scores": 11403,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 33,
+    "httpRequests": 29,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 30,
+    "updatedCards": 27,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 30,
-    "changedParticipants": 29,
-    "logicalRequests": 33,
-    "durationMs": 33004,
-    "scoresBefore": 11346,
-    "scoresAfter": 11376,
-    "fullBaselineRequests": 3178,
-    "requestReductionPercent": 98.96161107614853,
+    "participantsWithNewScores": 27,
+    "changedParticipants": 27,
+    "logicalRequests": 29,
+    "durationMs": 28847,
+    "scoresBefore": 11376,
+    "scoresAfter": 11403,
+    "fullBaselineRequests": 3179,
+    "requestReductionPercent": 99.08776344762504,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,108 +84,108 @@
       "feed": [
         {
           "judgeName": "OttO",
+          "score": 2,
+          "artist": "dk.ghost7",
+          "comment": "слабо ",
+          "scoredAt": "2026-10-16T15:41:53.833Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Злая белка",
+          "comment": "Врал-брал-знал-сдал понял) Читаешь вроде норма, но рифма и качество конечно",
+          "scoredAt": "2026-10-16T15:41:37.543Z"
+        },
+        {
+          "judgeName": "OttO",
           "score": 4,
-          "artist": "2thousandtears",
-          "comment": "свежо. хорош",
-          "scoredAt": "2026-10-16T15:31:53.228Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "ПЛБ",
-          "comment": "По теме плотно прошёлся, это ты молодец. Но по содержанию какого-то хода мб не хватило или цепких элементов. По рифме – квадратов жопой жуй. Зачитал без шероховатостей. Ну 3 с минусом, ок",
-          "scoredAt": "2026-10-16T15:31:44.281Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Aresfa1",
-          "comment": "строки норм есть. читает слабо",
-          "scoredAt": "2026-10-16T15:31:10.853Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "SashaSibirsky",
-          "comment": "звук ужас. читать умеет ",
-          "scoredAt": "2026-10-16T15:30:39.078Z"
+          "artist": "антон зацепер",
+          "comment": "прикольно че то есть в этом ",
+          "scoredAt": "2026-10-16T15:41:21.141Z"
         },
         {
           "judgeName": "OFFSTAGE",
-          "score": 1,
-          "artist": "Canes Insaniunt",
-          "comment": "Ты выбрал очень сложный бит для себя. Совсем не получилось с ним справиться. Возьми что-то попроще, попрактикуйся. Всегда начинай с простого.",
-          "scoredAt": "2026-10-16T15:30:20.096Z"
+          "score": 3,
+          "artist": "COSMWAY",
+          "comment": "В некоторых местах некрасиво ритмику поломал. Текст не понравился, вроде и диссовая направленность, но без панчей как таковых.",
+          "scoredAt": "2026-10-16T15:41:08.583Z"
         },
         {
           "judgeName": "OttO",
           "score": 3,
-          "artist": "MR.Рогалик",
-          "comment": "читать умеет. текст такое се ",
-          "scoredAt": "2026-10-16T15:30:08.637Z"
+          "artist": "эмцэ цээм",
+          "comment": "норм ",
+          "scoredAt": "2026-10-16T15:40:31.229Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "SHPAKK",
+          "comment": "читает норм. текст нет ",
+          "scoredAt": "2026-10-16T15:39:44.107Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Броуновские Движения",
+          "comment": "Ну трек соответствует твоему нику. Сумбурно и хаотично. Про узкие глаза - в сердце.",
+          "scoredAt": "2026-10-16T15:39:39.985Z"
         },
         {
           "judgeName": "r1fmabes",
-          "score": 4,
-          "artist": "MAG",
-          "comment": "крепкий трек, чуть менее монотонно бы и рифмы покрасивше поставил бы 5, а тембр и подача пиздатые. ",
-          "scoredAt": "2026-10-16T15:29:52.080Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Отец Стрипухи",
-          "comment": "Очень странные затяжки в читке, и смены по флоу",
-          "scoredAt": "2026-10-16T15:29:43.691Z"
+          "score": 5,
+          "artist": "Ялли 21",
+          "comment": "Не, ну музыкально. красавчик, есть соус в этом.",
+          "scoredAt": "2026-10-16T15:39:19.658Z"
         },
         {
           "judgeName": "OttO",
-          "score": 4,
-          "artist": "Навротский",
-          "comment": "4 с минусом. текст получше бы ",
-          "scoredAt": "2026-10-16T15:29:15.655Z"
-        },
-        {
-          "judgeName": "Роженов",
           "score": 2,
-          "artist": "нечет-ай",
-          "comment": "В голосе не хватает уверенности, было неудачное ускорение, по тексту незамысловато, часто используешь слабосозвучные рифмы, есть квадраты.",
-          "scoredAt": "2026-10-16T15:28:46.798Z"
+          "artist": "АЙД",
+          "comment": "тренируемся ",
+          "scoredAt": "2026-10-16T15:39:07.775Z"
         },
         {
           "judgeName": "OttO",
-          "score": 3,
-          "artist": "Saint 3.14",
-          "comment": "текст слабый. правильно «надеваю»",
-          "scoredAt": "2026-10-16T15:28:27.711Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 1,
-          "artist": "Адиль Жало",
-          "comment": "Жестко брат, ну и биток на диктофон записан, и ну и сам как то не в него читаешь",
-          "scoredAt": "2026-10-16T15:28:10.409Z"
+          "score": 4,
+          "artist": "Donaldfuck [Болт Disney]",
+          "comment": "дикция не оч. 4 с минусом. текст лучше бы ",
+          "scoredAt": "2026-10-16T15:38:52.118Z"
         },
         {
           "judgeName": "OFFSTAGE",
+          "score": 2,
+          "artist": "КУНИGАМИ",
+          "comment": "Очень много повторений припева. В начале куплета проблема с соблюдением темпа.\nТекст очень простой.",
+          "scoredAt": "2026-10-16T15:38:33.228Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 5,
+          "artist": "ВИРА",
+          "comment": "чуть панчей попизже добавить. читает хорошо ",
+          "scoredAt": "2026-10-16T15:38:10.281Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
           "score": 4,
-          "artist": "DARKBUSINESS",
-          "comment": "Подача не понравилась, как будто реально лет 10 назад не читал.\nТекст не стыдный, но и не цепляющий.\nСкорее на 3.5 работа.",
-          "scoredAt": "2026-10-16T15:28:03.655Z"
+          "artist": "Неповторимый [АвтоградРап]",
+          "comment": "В целом хорошо стелишь",
+          "scoredAt": "2026-10-16T15:37:44.111Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Давид Шоуа",
+          "comment": "оч слабо. ",
+          "scoredAt": "2026-10-16T15:37:06.022Z"
         },
         {
           "judgeName": "OttO",
           "score": 3,
-          "artist": "СНЭЛ",
-          "comment": "текст оч слабый. голос рэперский",
-          "scoredAt": "2026-10-16T15:27:38.392Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "artist": "Мсье Кучер",
-          "comment": "искусство не судят!",
-          "scoredAt": "2026-10-16T15:27:05.793Z"
+          "artist": "Khomyakov",
+          "comment": "хорошо читает ",
+          "scoredAt": "2026-10-16T15:36:42.344Z"
         }
       ]
     }

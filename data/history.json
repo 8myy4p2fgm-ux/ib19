@@ -117476,6 +117476,384 @@
         "scoredAt": "2026-10-16T15:29:52.080Z",
         "userId": "90cd5449-ea7c-44e3-a042-30974cb5d3de"
       }
+    },
+    {
+      "id": "4c40e6a3b31218d4885a208e47882d886bbae5defc7d04b9d39b5e569e4b6746",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:34:10.859Z",
+      "key": "[\"cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Ревера конечно пизданул не щадя, перебор бро, слышен скилл, но это эхо не дает насладиться работой. Средне, 3 с заделом на 4, но пока 3. ",
+        "scoredAt": "2026-10-16T15:34:10.859Z",
+        "userId": "cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70"
+      }
+    },
+    {
+      "id": "a52eae966eb51779ee3929a4cc7fa088d5fa7ade6b6289282b096c075ba6fee4",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:36:42.344Z",
+      "key": "[\"1f8ac527-4729-4ade-ab56-3abbb2f819e5\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "хорошо читает ",
+        "scoredAt": "2026-10-16T15:36:42.344Z",
+        "userId": "1f8ac527-4729-4ade-ab56-3abbb2f819e5"
+      }
+    },
+    {
+      "id": "18788a0521fc5370dfafe21ab5d309a2e5437d61e4de8d24b015474ae03e3d55",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:36:11.468Z",
+      "key": "[\"4f8b4112-3810-49f6-934e-ef9e0d5575d6\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "мрачно. глубоко. но текст такой че. читать умеет ",
+        "scoredAt": "2026-10-16T15:36:11.468Z",
+        "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6"
+      }
+    },
+    {
+      "id": "10cadf759c24c5d57ef434f9797fb2ed1966d93d94199e56ea1446534f5bed4e",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:38:10.281Z",
+      "key": "[\"307d4848-ca02-4e97-aaae-47b93e5d7b42\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 5,
+        "comment": "чуть панчей попизже добавить. читает хорошо ",
+        "scoredAt": "2026-10-16T15:38:10.281Z",
+        "userId": "307d4848-ca02-4e97-aaae-47b93e5d7b42"
+      }
+    },
+    {
+      "id": "a4cd43144e1b6542ed92f6c5bd0b4150c0893e682712c0753906e3eabcd1bd31",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:39:44.107Z",
+      "key": "[\"0a7f08ab-6a5b-4596-b419-0e0657a27e65\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "читает норм. текст нет ",
+        "scoredAt": "2026-10-16T15:39:44.107Z",
+        "userId": "0a7f08ab-6a5b-4596-b419-0e0657a27e65"
+      }
+    },
+    {
+      "id": "4493e8b8f735a278d1d3f337e2787e329a17548553238e51de9b79579c15b7e7",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:33:01.811Z",
+      "key": "[\"0fb155b2-da45-4e02-84ab-fbc9350bb06c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "просто набор слов",
+        "scoredAt": "2026-10-16T15:33:01.811Z",
+        "userId": "0fb155b2-da45-4e02-84ab-fbc9350bb06c"
+      }
+    },
+    {
+      "id": "2d96617ca6d3361ffc49213e5c8494fc57164fb923d88d6db1e13b6b39d988a4",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:34:21.375Z",
+      "key": "[\"5e90fca2-5599-4306-99e4-409ea5c76a68\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "\"но я всё думаю об этом...\" - подубил ритмику и темп в этой строке.\nВ остальном неплохо.",
+        "scoredAt": "2026-10-16T15:34:21.375Z",
+        "userId": "5e90fca2-5599-4306-99e4-409ea5c76a68"
+      }
+    },
+    {
+      "id": "bb76a1feb0a227f6e3ce21e44886dc28b40d6b842093e6c056146b2a54322c56",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:41:53.833Z",
+      "key": "[\"e2e7f69d-3f66-460d-b2f2-0097fe5029d4\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо ",
+        "scoredAt": "2026-10-16T15:41:53.833Z",
+        "userId": "e2e7f69d-3f66-460d-b2f2-0097fe5029d4"
+      }
+    },
+    {
+      "id": "a8918fc229240add4444c0a425caf4219c7874fa39a9b4789d104ed8085af858",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:32:46.698Z",
+      "key": "[\"ecb126a6-b29b-4a2a-812a-2321c54ae67a\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Суетливо, слишком суетливо и неряшливо, тейки залезают друг на друга и руинят, потенциально трек на крепкую 4, но пока только 3. Старайся. ",
+        "scoredAt": "2026-10-16T15:32:46.698Z",
+        "userId": "ecb126a6-b29b-4a2a-812a-2321c54ae67a"
+      }
+    },
+    {
+      "id": "6416b1d6793a42280cba61d925310ab9ecbc3b8b299ca7ddcf73b00814b59bec",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:36:38.795Z",
+      "key": "[\"20c9f5b5-0d5e-4c50-aab5-8c33d2dc4468\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Не ну модно, но однотипненько. 4-. ",
+        "scoredAt": "2026-10-16T15:36:38.795Z",
+        "userId": "20c9f5b5-0d5e-4c50-aab5-8c33d2dc4468"
+      }
+    },
+    {
+      "id": "74dd740df4014d0003d0c0061fc7ca9b5c9095b626365147c59ffb5048ced114",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:38:52.118Z",
+      "key": "[\"3be02e6e-5813-4c27-9b98-e50aaf588f27\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "дикция не оч. 4 с минусом. текст лучше бы ",
+        "scoredAt": "2026-10-16T15:38:52.118Z",
+        "userId": "3be02e6e-5813-4c27-9b98-e50aaf588f27"
+      }
+    },
+    {
+      "id": "981cfce2e6eb3681c9de75399b021d3ced8f7e2c2578c5abf4b315effa67922b",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:35:28.684Z",
+      "key": "[\"bc258dcc-f6a6-431c-af51-c085b8f26ea0\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "текст вообще не понял о чем. но исполнено хорошо ",
+        "scoredAt": "2026-10-16T15:35:28.684Z",
+        "userId": "bc258dcc-f6a6-431c-af51-c085b8f26ea0"
+      }
+    },
+    {
+      "id": "518815dcc801aed50bc4b4f1d3bbc2c66b79135d61b8ab2851136598106ab03a",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:41:08.583Z",
+      "key": "[\"a8fbdd7b-e66a-4688-8693-de6293c41b25\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "В некоторых местах некрасиво ритмику поломал. Текст не понравился, вроде и диссовая направленность, но без панчей как таковых.",
+        "scoredAt": "2026-10-16T15:41:08.583Z",
+        "userId": "a8fbdd7b-e66a-4688-8693-de6293c41b25"
+      }
+    },
+    {
+      "id": "cf7c24842fb64732fa93dc84df3b93c2321cfbd2de797edf7c4e537019fb188f",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:34:15.161Z",
+      "key": "[\"2670ad2c-f8ba-4cca-ba44-fec7b5a223bb\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Я хз, вот какая цель была? С этого нужно посмеяться или глубокие смыслы тут? Или просто послушать покайфовать. Тоже нет, неуверенная подача ж. Непонятно в чём функция трека...",
+        "scoredAt": "2026-10-16T15:34:15.161Z",
+        "userId": "2670ad2c-f8ba-4cca-ba44-fec7b5a223bb"
+      }
+    },
+    {
+      "id": "3dcb7436c7bef720b04a46bfd43ff4e50218e16e70fd6e4338443fb017166a71",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:37:06.022Z",
+      "key": "[\"8c8aa783-aa9a-4974-94fc-df53ab9d412f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "оч слабо. ",
+        "scoredAt": "2026-10-16T15:37:06.022Z",
+        "userId": "8c8aa783-aa9a-4974-94fc-df53ab9d412f"
+      }
+    },
+    {
+      "id": "aacf87509dee97c709c00b83e37d7beef238550cf9abe1c504ba6be479a22442",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:39:39.985Z",
+      "key": "[\"5d8f6f42-359e-4001-a7cd-0c7b9159926b\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну трек соответствует твоему нику. Сумбурно и хаотично. Про узкие глаза - в сердце.",
+        "scoredAt": "2026-10-16T15:39:39.985Z",
+        "userId": "5d8f6f42-359e-4001-a7cd-0c7b9159926b"
+      }
+    },
+    {
+      "id": "fe09d172db0bafc671f861ba72d55fe63d87540ab3e1580ad2651147f6dbee61",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:39:07.775Z",
+      "key": "[\"9fe74460-5cf1-44f5-8024-3aaabbc648a4\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "тренируемся ",
+        "scoredAt": "2026-10-16T15:39:07.775Z",
+        "userId": "9fe74460-5cf1-44f5-8024-3aaabbc648a4"
+      }
+    },
+    {
+      "id": "7da47a89c8b05d742fc74dfef9cd36a906fd9a0e2f9454a7ec7229351b844bf0",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:39:19.658Z",
+      "key": "[\"4b436cee-7bd5-441c-b35f-409e8e19b30f\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Не, ну музыкально. красавчик, есть соус в этом.",
+        "scoredAt": "2026-10-16T15:39:19.658Z",
+        "userId": "4b436cee-7bd5-441c-b35f-409e8e19b30f"
+      }
+    },
+    {
+      "id": "41544f8f2cab1186cdcc15cce7053f2782cf5e437828c6e896c2e824e6826721",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:38:33.228Z",
+      "key": "[\"d948a7c6-231f-4fc0-920b-5143f479bd82\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "Очень много повторений припева. В начале куплета проблема с соблюдением темпа.\nТекст очень простой.",
+        "scoredAt": "2026-10-16T15:38:33.228Z",
+        "userId": "d948a7c6-231f-4fc0-920b-5143f479bd82"
+      }
+    },
+    {
+      "id": "30c25ef8114c2abcbfcb625a0c1816cd4caeffb4e569ec8905d3128788cd7dad",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:41:37.543Z",
+      "key": "[\"15fe5f74-b385-4ffb-93dd-a214872a0f2c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Врал-брал-знал-сдал понял) Читаешь вроде норма, но рифма и качество конечно",
+        "scoredAt": "2026-10-16T15:41:37.543Z",
+        "userId": "15fe5f74-b385-4ffb-93dd-a214872a0f2c"
+      }
+    },
+    {
+      "id": "092cc247c505474f9eceb32cc636dfe7a961b285c3d8f8f09b29af1698429cd5",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:35:30.352Z",
+      "key": "[\"5d30da74-782c-430f-b1f8-6f812c4a6812\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Тейки палятся, концовки строк подъедаешь, монотонно. Средняя работа 3-. Спел тоже слабовато.  3--",
+        "scoredAt": "2026-10-16T15:35:30.352Z",
+        "userId": "5d30da74-782c-430f-b1f8-6f812c4a6812"
+      }
+    },
+    {
+      "id": "25a383bccf1f5bc14caaad6b6ed567901d42fb947098ead32d040b5b3ba2da29",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:40:31.229Z",
+      "key": "[\"b6a4869c-10fd-4391-9253-0a42d2585b2f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "норм ",
+        "scoredAt": "2026-10-16T15:40:31.229Z",
+        "userId": "b6a4869c-10fd-4391-9253-0a42d2585b2f"
+      }
+    },
+    {
+      "id": "6aa17f24e981e68e6bb44da25bcafa5adee0481521708673f6bca79f7473ee4e",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:34:26.874Z",
+      "key": "[\"c782472b-5ddc-4d36-8f51-0fbff2d27798\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 5,
+        "comment": "5 с минусом. чуть текст ещё раскрыть бы и не делать интро такое долгое ",
+        "scoredAt": "2026-10-16T15:34:26.874Z",
+        "userId": "c782472b-5ddc-4d36-8f51-0fbff2d27798"
+      }
+    },
+    {
+      "id": "fba598b4b19df1ea0109823c3032f689ceaf72552c7a39fd47af0c5c3a6d6499",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:41:21.141Z",
+      "key": "[\"dfee081b-d691-4a28-9292-98e7d3502609\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "прикольно че то есть в этом ",
+        "scoredAt": "2026-10-16T15:41:21.141Z",
+        "userId": "dfee081b-d691-4a28-9292-98e7d3502609"
+      }
+    },
+    {
+      "id": "500ac31a126003759d597274362270535873062d206081bd0dfd8afda19ab453",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:33:22.425Z",
+      "key": "[\"987f1891-f672-471f-9e0c-5f49157e828b\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Вайб на месте, голова качается. Я почему-то вспомнил тбили, люблю такой мрачный звучок. По тексту все просто, переслушал три раза и ничего интересного не нашел. Зачитал ровно. ",
+        "scoredAt": "2026-10-16T15:33:22.425Z",
+        "userId": "987f1891-f672-471f-9e0c-5f49157e828b"
+      }
+    },
+    {
+      "id": "be87bf3b55658fe6ed4f35ba1cae05e620ea71596265f8fbf0578f1c2ea8ffd1",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:37:44.111Z",
+      "key": "[\"337e6080-0fa7-493e-9d17-07b0f311e0d2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом хорошо стелишь",
+        "scoredAt": "2026-10-16T15:37:44.111Z",
+        "userId": "337e6080-0fa7-493e-9d17-07b0f311e0d2"
+      }
+    },
+    {
+      "id": "4a0d42e1b08dd0900adc7e3aa22b2a362300af32d680bcc4ce66c2f2de97a4d7",
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "sourceScoredAt": "2026-10-16T15:36:14.392Z",
+      "key": "[\"75db49a1-a2fd-4370-9fb7-92e0647d9b8d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Превращаешься в мастяка. Биток нейрушный блин так сильно воняет пластмассой. В целом рэп про рэп. ",
+        "scoredAt": "2026-10-16T15:36:14.392Z",
+        "userId": "75db49a1-a2fd-4370-9fb7-92e0647d9b8d"
+      }
     }
   ],
   "snapshots": [
@@ -122995,6 +123373,26 @@
           "index": 28.40533634642609,
           "favor": 18.041480797678975,
           "attention": -0.7651767093174003,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T15:42:35.539Z",
+      "exportedAt": "2026-10-16T15:42:35.539Z",
+      "scores": 11403,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.631904106022215,
+          "favor": 9.301399982051509,
+          "attention": 6.580504123970707,
+          "respect": 6.75
+        },
+        "veterans": {
+          "index": 28.456372606696217,
+          "favor": 18.043595148277266,
+          "attention": -0.7162547996455646,
           "respect": 11.129032258064516
         }
       }
