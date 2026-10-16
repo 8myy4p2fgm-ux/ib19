@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T19:52:09.322Z",
-  "exportedAt": "2026-10-16T19:52:09.322Z",
-  "runId": "2026-10-16T19:52:09.322Z",
-  "forumExportedAt": "2026-10-16T19:52:09.322Z",
+  "lastSuccessfulAt": "2026-10-16T20:01:59.841Z",
+  "exportedAt": "2026-10-16T20:01:59.841Z",
+  "runId": "2026-10-16T20:01:59.841Z",
+  "forumExportedAt": "2026-10-16T20:01:59.841Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11862,
+    "scores": 11868,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 16,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 14,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 14,
-    "changedParticipants": 14,
-    "logicalRequests": 16,
-    "durationMs": 16302,
-    "scoresBefore": 11848,
-    "scoresAfter": 11862,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8046,
+    "scoresBefore": 11862,
+    "scoresAfter": 11868,
     "fullBaselineRequests": 3202,
-    "requestReductionPercent": 99.50031230480948,
+    "requestReductionPercent": 99.75015615240474,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Добрый",
+          "comment": "Проходной трек. Пойдет. На \"удовлетворительно\" точно есть",
+          "scoredAt": "2026-10-16T20:00:45.396Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Inkognito",
+          "comment": "Понятно ",
+          "scoredAt": "2026-10-16T20:00:00.253Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Yura Mekhonoshin",
+          "comment": "По тексту всё уныло ",
+          "scoredAt": "2026-10-16T19:56:51.317Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "cherezcry",
+          "comment": "Кайф, забрал в плеер",
+          "scoredAt": "2026-10-16T19:55:01.149Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "Дима Shedam",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:54:36.495Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "N-Ron",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:52:49.566Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -144,48 +186,6 @@
           "artist": "bostiLOm",
           "comment": "что-то в тебе есть, инфа сотка. ",
           "scoredAt": "2026-10-16T19:46:31.620Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "FADA",
-          "comment": "Как так можно не чувствовать.... ",
-          "scoredAt": "2026-10-16T19:45:32.728Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 2,
-          "artist": "Flektor",
-          "comment": "Я здесь, ставлю тебе оценку как учитель .\nВот такие вот у тебя \"панчи\". ",
-          "scoredAt": "2026-10-16T19:45:05.970Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "НИТЛЕР T-GIRL [#КБС]",
-          "comment": "Ебать аххахах, круто",
-          "scoredAt": "2026-10-16T19:44:22.952Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "пуляБан",
-          "comment": "Кайфово",
-          "scoredAt": "2026-10-16T19:43:13.849Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "H-ATE",
-          "comment": "Красивенько исполнил местами, базару нет, вот из-за этого я натянул до тройки ",
-          "scoredAt": "2026-10-16T19:43:02.239Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "MegaWolt",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:42:07.788Z"
         }
       ]
     }

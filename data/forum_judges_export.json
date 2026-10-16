@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T19:52:09.322Z",
+  "exportedAt": "2026-10-16T20:01:59.841Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1521,6 +1521,12 @@
       "forum_name": "глаза коалы",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "comment": "Понятно ",
+          "scoredAt": "2026-10-16T20:00:00.253Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,

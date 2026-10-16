@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T19:52:09.322Z",
+  "exportedAt": "2026-10-16T20:01:59.841Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -27055,8 +27055,14 @@
     },
     {
       "userId": "7598e089-c678-4b53-b187-3fb9541a2c2f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "По тексту всё уныло ",
+          "scoredAt": "2026-10-16T19:56:51.317Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -27082,7 +27088,7 @@
           "scoredAt": "2026-09-01T11:51:38.894Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:22:09.198Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "Yura Mekhonoshin",
       "artistSlug": "yura-mekhonoshin"
@@ -42851,8 +42857,14 @@
     },
     {
       "userId": "26544200-576f-41bc-b02b-ca6d65c2d129",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:54:36.495Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -42878,7 +42890,7 @@
           "scoredAt": "2026-09-06T11:48:20.030Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:42:32.704Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "Дима Shedam",
       "artistSlug": "dima-shedam"
@@ -46476,8 +46488,14 @@
     },
     {
       "userId": "bd00f9e0-d0c3-405d-b820-94a0fa7bdf59",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "comment": "Понятно ",
+          "scoredAt": "2026-10-16T20:00:00.253Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -46503,7 +46521,7 @@
           "scoredAt": "2026-09-15T15:27:17.594Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "Inkognito",
       "artistSlug": "inkognito"
@@ -55603,8 +55621,14 @@
     },
     {
       "userId": "9077f2fe-35f4-4b5c-9d93-3f3c66475ad7",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Проходной трек. Пойдет. На \"удовлетворительно\" точно есть",
+          "scoredAt": "2026-10-16T20:00:45.396Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -55618,7 +55642,7 @@
           "scoredAt": "2026-10-15T15:55:52.682Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:02:47.880Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "Добрый",
       "artistSlug": "dobryy"
@@ -62880,8 +62904,14 @@
     },
     {
       "userId": "f7d48d8a-5df1-485a-8153-52f9f67a5302",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "Кайф, забрал в плеер",
+          "scoredAt": "2026-10-16T19:55:01.149Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -62895,7 +62925,7 @@
           "scoredAt": "2026-10-10T17:13:25.944Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:52:20.451Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "cherezcry",
       "artistSlug": "cherezcry"
@@ -69316,28 +69346,6 @@
       "current": true,
       "artistName": "Раймер",
       "artistSlug": "raymer"
-    },
-    {
-      "userId": "c2b3318a-6238-4822-99e2-19e552bbc8c2",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "comment": "Ты словно не знаешь как положить текст на бит и начинаешь неуклюже тянуть слоги, но все равно скажешь. По рифме много квадратов",
-          "scoredAt": "2026-10-16T18:36:04.816Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "comment": "Понравился стилёк. И текст, и исполнение нормас. Слышно старание, слышно нестандарт какой-то. Но без особых вау-эффектов. Хотя, очевидно работа достойная идти дальше.",
-          "scoredAt": "2026-10-16T06:18:28.751Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T18:42:25.785Z",
-      "current": true,
-      "artistName": "Трушный Душный",
-      "artistSlug": "trushnyy-dushnyy"
     },
     {
       "userId": "a1c5ffa1-e0f2-4931-92d6-f2bd8a5f815c",
@@ -90898,8 +90906,14 @@
     },
     {
       "userId": "6320f348-f857-4398-a360-72e23751c31f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:52:49.566Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -90913,7 +90927,7 @@
           "scoredAt": "2026-10-12T17:57:28.279Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:32:24.786Z",
+      "fetchedAt": "2026-10-16T20:01:59.841Z",
       "current": true,
       "artistName": "N-Ron",
       "artistSlug": "n-ron"
@@ -101001,6 +101015,28 @@
       "current": true,
       "artistName": "sinus",
       "artistSlug": "sinus"
+    },
+    {
+      "userId": "c2b3318a-6238-4822-99e2-19e552bbc8c2",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Ты словно не знаешь как положить текст на бит и начинаешь неуклюже тянуть слоги, но все равно скажешь. По рифме много квадратов",
+          "scoredAt": "2026-10-16T18:36:04.816Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Понравился стилёк. И текст, и исполнение нормас. Слышно старание, слышно нестандарт какой-то. Но без особых вау-эффектов. Хотя, очевидно работа достойная идти дальше.",
+          "scoredAt": "2026-10-16T06:18:28.751Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T18:42:25.785Z",
+      "current": true,
+      "artistName": "Трушный Душный",
+      "artistSlug": "trushnyy-dushnyy"
     },
     {
       "userId": "46571f27-5da6-4374-99e7-087649eab13d",

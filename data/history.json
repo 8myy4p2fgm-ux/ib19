@@ -124280,6 +124280,90 @@
         "scoredAt": "2026-10-16T19:47:56.463Z",
         "userId": "0ed9d7e7-fd2a-4b34-b90b-a65d653af217"
       }
+    },
+    {
+      "id": "201bd1d70a089edd9e248fc4a0d1dd2d09caf83040351fb8630106914af8cbaa",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T19:56:51.317Z",
+      "key": "[\"7598e089-c678-4b53-b187-3fb9541a2c2f\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "По тексту всё уныло ",
+        "scoredAt": "2026-10-16T19:56:51.317Z",
+        "userId": "7598e089-c678-4b53-b187-3fb9541a2c2f"
+      }
+    },
+    {
+      "id": "a285aa20dd703705fab0a37a77cb1763e5bdd0c17464ede7921dfc9f94f7226e",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T19:54:36.495Z",
+      "key": "[\"26544200-576f-41bc-b02b-ca6d65c2d129\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:54:36.495Z",
+        "userId": "26544200-576f-41bc-b02b-ca6d65c2d129"
+      }
+    },
+    {
+      "id": "9c2181e2ebc716a698f1958b3f311c889609d9f19315ed64f8c7287d6ba9f4d5",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T20:00:00.253Z",
+      "key": "[\"bd00f9e0-d0c3-405d-b820-94a0fa7bdf59\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 1,
+        "comment": "Понятно ",
+        "scoredAt": "2026-10-16T20:00:00.253Z",
+        "userId": "bd00f9e0-d0c3-405d-b820-94a0fa7bdf59"
+      }
+    },
+    {
+      "id": "88948397c275238090cdc4359cc579793d23a05e169514d4e695916a0621e785",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T20:00:45.396Z",
+      "key": "[\"9077f2fe-35f4-4b5c-9d93-3f3c66475ad7\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Проходной трек. Пойдет. На \"удовлетворительно\" точно есть",
+        "scoredAt": "2026-10-16T20:00:45.396Z",
+        "userId": "9077f2fe-35f4-4b5c-9d93-3f3c66475ad7"
+      }
+    },
+    {
+      "id": "cce778c7ec284bd89347cd63a15af9efcca39e456075c6b625344dfbd65864d8",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T19:55:01.149Z",
+      "key": "[\"f7d48d8a-5df1-485a-8153-52f9f67a5302\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "Кайф, забрал в плеер",
+        "scoredAt": "2026-10-16T19:55:01.149Z",
+        "userId": "f7d48d8a-5df1-485a-8153-52f9f67a5302"
+      }
+    },
+    {
+      "id": "bd26b71319361b7f9862e11aa177f862b8c2b5d56d66689cad64f2f8111dc366",
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "sourceScoredAt": "2026-10-16T19:52:49.566Z",
+      "key": "[\"6320f348-f857-4398-a360-72e23751c31f\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:52:49.566Z",
+        "userId": "6320f348-f857-4398-a360-72e23751c31f"
+      }
     }
   ],
   "snapshots": [
@@ -130319,6 +130403,26 @@
           "index": 29.14074679365484,
           "favor": 18.237619477369332,
           "attention": -0.2582900065491386,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:01:59.841Z",
+      "exportedAt": "2026-10-16T20:01:59.841Z",
+      "scores": 11868,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.50529589381634,
+          "favor": 9.236989863038911,
+          "attention": 6.614170692431562,
+          "respect": 6.654135338345864
+        },
+        "veterans": {
+          "index": 29.150596688067495,
+          "favor": 18.23970714375293,
+          "attention": -0.2505277785200823,
           "respect": 11.161417322834646
         }
       }
