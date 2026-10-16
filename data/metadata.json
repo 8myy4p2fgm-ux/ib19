@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T12:22:07.651Z",
-  "exportedAt": "2026-10-16T12:22:07.651Z",
-  "runId": "2026-10-16T12:22:07.651Z",
-  "forumExportedAt": "2026-10-16T12:22:07.651Z",
+  "lastSuccessfulAt": "2026-10-16T12:32:12.919Z",
+  "exportedAt": "2026-10-16T12:32:12.919Z",
+  "runId": "2026-10-16T12:32:12.919Z",
+  "forumExportedAt": "2026-10-16T12:32:12.919Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11187,
+    "scores": 11190,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4033,
-    "scoresBefore": 11185,
-    "scoresAfter": 11187,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4906,
+    "scoresBefore": 11187,
+    "scoresAfter": 11190,
     "fullBaselineRequests": 3167,
-    "requestReductionPercent": 99.87369750552574,
+    "requestReductionPercent": 99.84212188190716,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "DJ PRIMER (ВВК)",
+          "comment": "Джерр это ты? Слушай с ондой стороны просто всё это по техту. но есть грув.",
+          "scoredAt": "2026-10-16T12:27:26.333Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "МЦ Леонидик",
+          "comment": "Ну слушай веселый бред, а что с этим дальше то делать? Бит прикольны",
+          "scoredAt": "2026-10-16T12:24:10.515Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "ZAGORAD",
+          "comment": "Хорошо!",
+          "scoredAt": "2026-10-16T12:23:04.707Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -165,27 +186,6 @@
           "artist": "Юрий Милославский",
           "comment": "Авансом. Текст скучноват.",
           "scoredAt": "2026-10-16T11:52:59.417Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Zuda",
-          "comment": "ваще не понял про чо ты.",
-          "scoredAt": "2026-10-16T11:52:52.014Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "theLogos",
-          "comment": "Ну пойдет.",
-          "scoredAt": "2026-10-16T11:51:34.802Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "MC Welkin",
-          "comment": "не тру рэп, ни одного шекеля от тебя не видел.",
-          "scoredAt": "2026-10-16T11:50:29.789Z"
         }
       ]
     }

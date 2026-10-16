@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T12:22:07.651Z",
+  "exportedAt": "2026-10-16T12:32:12.919Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -6939,8 +6939,14 @@
     },
     {
       "userId": "02c216f6-9160-44e4-8b28-431fe7ba9231",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Ну слушай веселый бред, а что с этим дальше то делать? Бит прикольны",
+          "scoredAt": "2026-10-16T12:24:10.515Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -6954,7 +6960,7 @@
           "scoredAt": "2026-10-14T14:24:38.899Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:32:09.124Z",
+      "fetchedAt": "2026-10-16T12:32:12.919Z",
       "current": true,
       "artistName": "МЦ Леонидик",
       "artistSlug": "mc-leonidik"
@@ -68023,8 +68029,14 @@
     },
     {
       "userId": "3f823644-41a9-44d6-a146-11e3477a952f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Джерр это ты? Слушай с ондой стороны просто всё это по техту. но есть грув.",
+          "scoredAt": "2026-10-16T12:27:26.333Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 5,
@@ -68038,7 +68050,7 @@
           "scoredAt": "2026-09-29T13:13:21.345Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:32:12.919Z",
       "current": true,
       "artistName": "DJ PRIMER (ВВК)",
       "artistSlug": "dj-primer-vvk"
@@ -92142,8 +92154,14 @@
     },
     {
       "userId": "a878a58b-80a2-454c-941d-6b5784e20358",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Хорошо!",
+          "scoredAt": "2026-10-16T12:23:04.707Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -92169,7 +92187,7 @@
           "scoredAt": "2026-10-09T19:11:00.066Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:42:20.525Z",
+      "fetchedAt": "2026-10-16T12:32:12.919Z",
       "current": true,
       "artistName": "ZAGORAD",
       "artistSlug": "zagorad"
