@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T14:03:18.998Z",
-  "exportedAt": "2026-10-16T14:03:18.998Z",
-  "runId": "2026-10-16T14:03:18.998Z",
-  "forumExportedAt": "2026-10-16T14:03:18.998Z",
+  "lastSuccessfulAt": "2026-10-16T14:12:19.978Z",
+  "exportedAt": "2026-10-16T14:12:19.978Z",
+  "runId": "2026-10-16T14:12:19.978Z",
+  "forumExportedAt": "2026-10-16T14:12:19.978Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11278,
+    "scores": 11281,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9390,
-    "scoresBefore": 11271,
-    "scoresAfter": 11278,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5480,
+    "scoresBefore": 11278,
+    "scoresAfter": 11281,
     "fullBaselineRequests": 3171,
-    "requestReductionPercent": 99.71617786187322,
+    "requestReductionPercent": 99.84232103437401,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Moishe Minsk",
+          "comment": "Мне джейзи звонил, просил, чтобы я тебе тройку поставил за простой и наивный рэп. Не буду спорить, тем более, что я чепуха.",
+          "scoredAt": "2026-10-16T14:09:20.818Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "тухлый дух",
+          "comment": "Биток пиздатый. Текст простой. И про еблю в жопу не забыл, и кожаную флейту упомянул и даже за щеку успел дать. Какой молодец! Жалко, что это за один отбор уже тысячу раз послушал подобное. Но трек твой точно подтверждает, что рэп - музыка пиздлявых.",
+          "scoredAt": "2026-10-16T14:08:02.038Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "TAGI₽OV",
+          "comment": "САНЯ ВЕРНИ СОТКУ!\nНа само деле прикольный трек. Такой можно в риллсы, уверен люди будут скидывать своим знакомым Александрам. Технически простенько, но эта простота добавляет какой-то милоты, что-ли. САНЯЯЯЯЯяя",
+          "scoredAt": "2026-10-16T14:05:06.101Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -165,27 +186,6 @@
           "artist": "roha",
           "comment": "Читаешь уверенно, но надо добавить харизмы. Текст простенький, пытаешься в панчи, но получается простенько по типу \"крошатся как вафли\". ",
           "scoredAt": "2026-10-16T13:46:37.452Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "TOYOHARA BLOCK",
-          "comment": "Исполнение не везде вкатило, но эмоции и лексические приколы фантазийные - нормас. Разгоняешь после середины трэка, это уже хоть что-то. Ну типо в районе 3,5, но вполне себе можно дальше шагать, думаю",
-          "scoredAt": "2026-10-16T13:46:08.235Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "ArtKey",
-          "comment": "Не могу сказать, что прям очень вкатило по панчлайнам, но всё остальное на хорошем достойном уровне. Разнообразие и звучок в целом в порядке.",
-          "scoredAt": "2026-10-16T13:44:36.003Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "artist": "And",
-          "comment": "Стилёк хорош, по эмоциям, по акцентам, по жизе внутри текста. Нравится, что есть разнообразие, какая-то \"вложенность\" в работу очень предрасполагает ",
-          "scoredAt": "2026-10-16T13:43:25.183Z"
         }
       ]
     }
