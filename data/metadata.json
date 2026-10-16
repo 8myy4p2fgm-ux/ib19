@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T00:32:19.543Z",
-  "exportedAt": "2026-10-16T00:32:19.543Z",
-  "runId": "2026-10-16T00:32:19.543Z",
-  "forumExportedAt": "2026-10-16T00:32:19.543Z",
+  "lastSuccessfulAt": "2026-10-16T00:42:27.969Z",
+  "exportedAt": "2026-10-16T00:42:27.969Z",
+  "runId": "2026-10-16T00:42:27.969Z",
+  "forumExportedAt": "2026-10-16T00:42:27.969Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10609,
+    "scores": 10618,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 16,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 14,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 14,
-    "changedParticipants": 14,
-    "logicalRequests": 16,
-    "durationMs": 16496,
-    "scoresBefore": 10595,
-    "scoresAfter": 10609,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 11,
+    "durationMs": 11357,
+    "scoresBefore": 10609,
+    "scoresAfter": 10618,
     "fullBaselineRequests": 3137,
-    "requestReductionPercent": 99.48995855913293,
+    "requestReductionPercent": 99.6493465094039,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,69 @@
       "feed": [
         {
           "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "Творческое Равновесие",
+          "comment": "Вот прям таким и должен быть олдскул. Красавчик! Всем доволен! \n\n\nУ нас всё хорошо, просто сирены стали частью гимна 😢",
+          "scoredAt": "2026-10-16T00:40:20.383Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Twint",
+          "comment": "Интонации хорошие. Эмоции тоже. Мощно. Перебежки кривоватые",
+          "scoredAt": "2026-10-16T00:38:31.498Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "notarsy",
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-16T00:37:43.651Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Haruken",
+          "comment": "Крутое исполнение и скучный текст",
+          "scoredAt": "2026-10-16T00:37:29.822Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Kometa Jessa",
+          "comment": "Для отбора пойдет, но ничего не запомнилось",
+          "scoredAt": "2026-10-16T00:37:08.612Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "OldScooФ",
+          "comment": "ООООООчень стильно! Хорошо ритмически. Звучит, качает!",
+          "scoredAt": "2026-10-16T00:36:29.153Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "mi яT;",
+          "comment": "Норм, но не более",
+          "scoredAt": "2026-10-16T00:35:21.045Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Саша Паул (ЦИТРАМОН)",
+          "comment": "Классное раскрытие!",
+          "scoredAt": "2026-10-16T00:34:19.282Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "shlyapaNastene",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:33:39.354Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 2,
           "artist": "Железный Джон",
           "comment": "",
@@ -122,69 +185,6 @@
           "artist": "Обнять Небо",
           "comment": "",
           "scoredAt": "2026-10-16T00:26:17.675Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "tlvzr",
-          "comment": "Уверенно, мило, интересно!",
-          "scoredAt": "2026-10-16T00:25:58.299Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "LYUBOV",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:25:33.075Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Stride",
-          "comment": "Клево)",
-          "scoredAt": "2026-10-16T00:25:08.853Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "INSOMA",
-          "comment": "Очень мило и приятно! Поработайц над сведением, отдай за бабки.",
-          "scoredAt": "2026-10-16T00:23:56.983Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "COTANGENCE",
-          "comment": "Красавчик!",
-          "scoredAt": "2026-10-16T00:23:13.484Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Kovoto",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:22:55.909Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Moreton Keat",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:22:44.369Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 1,
-          "artist": "R.DCPTKN",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-16T00:22:19.987Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "MC Welkin",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:22:04.151Z"
         }
       ]
     }
