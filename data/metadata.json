@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T21:21:52.482Z",
-  "exportedAt": "2026-10-16T21:21:52.482Z",
-  "runId": "2026-10-16T21:21:52.482Z",
-  "forumExportedAt": "2026-10-16T21:21:52.482Z",
+  "lastSuccessfulAt": "2026-10-16T21:31:46.823Z",
+  "exportedAt": "2026-10-16T21:31:46.823Z",
+  "runId": "2026-10-16T21:31:46.823Z",
+  "forumExportedAt": "2026-10-16T21:31:46.823Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11946,
+    "scores": 11948,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7401,
-    "scoresBefore": 11941,
-    "scoresAfter": 11946,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3999,
+    "scoresBefore": 11946,
+    "scoresAfter": 11948,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.78152309612985,
+    "requestReductionPercent": 99.87515605493134,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Новичёк",
+          "comment": "Слово бравада существует исключительно в мире рэпа, в нормальной жизни его никто не использует никогда ))\nПо исполнению что-то тяжко такое воспринимать тут звучок тебе нужно было делать для фастылоу, ну и избегай шипящих этих всяких ч/щ они жуются на таких оборотах.\nДавай авансом три, но в следующем раунде сделай нам уже подготовленного новичка, чтоб мы все понимали что ты в треке читаешь ;)",
+          "scoredAt": "2026-10-16T21:28:00.821Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "МЦ КОЛОКОЛЬЧИК",
+          "comment": "Не было бы Панчей тут, влепил бы двойку, но пару кеков сюда запихнул !\n",
+          "scoredAt": "2026-10-16T21:23:39.353Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -173,20 +187,6 @@
           "artist": "Денис Кизим",
           "comment": "",
           "scoredAt": "2026-10-16T21:06:04.520Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Б.А.Н.",
-          "comment": "Слабая реализация идеи",
-          "scoredAt": "2026-10-16T21:04:54.176Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Scrag",
-          "comment": "",
-          "scoredAt": "2026-10-16T21:04:48.554Z"
         }
       ]
     }
