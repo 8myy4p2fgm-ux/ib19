@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T12:42:15.963Z",
+  "exportedAt": "2026-10-16T12:52:25.764Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -13042,8 +13042,14 @@
     },
     {
       "userId": "3c896d96-6f36-48cd-84cc-12d60fe7aa4a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Прикольно, хорошо, качественно. ",
+          "scoredAt": "2026-10-16T12:49:52.504Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -13069,7 +13075,7 @@
           "scoredAt": "2026-09-04T11:39:54.585Z"
         }
       ],
-      "fetchedAt": "2026-10-14T18:22:12.516Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "ТОНКИЙ ТОН",
       "artistSlug": "tonkiy-ton"
@@ -23472,8 +23478,14 @@
     },
     {
       "userId": "9798ab3e-66aa-456a-9704-43cc10dd11bc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-16T12:44:12.291Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -23493,7 +23505,7 @@
           "scoredAt": "2026-09-05T20:28:02.159Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:12:25.257Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "IvCity",
       "artistSlug": "ivcity"
@@ -44288,8 +44300,14 @@
     },
     {
       "userId": "ce9d1e55-59d3-48e0-85c9-52ce5bd010e0",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "прикольно, но нужны пунчи, какие то фишки техтовые.",
+          "scoredAt": "2026-10-16T12:46:16.128Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -44303,7 +44321,7 @@
           "scoredAt": "2026-09-07T14:50:55.300Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "Yung Halo",
       "artistSlug": "yung-halo"
@@ -51922,8 +51940,14 @@
     },
     {
       "userId": "32dd6ef3-5764-4474-b082-ae49768a0dc8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Бля вот есть приколы в техте, всё вроде хорошо. Но етот грув фальцетный напрягает. Хотя понятно для чего это сделано, ок.",
+          "scoredAt": "2026-10-16T12:51:50.554Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -51937,7 +51961,7 @@
           "scoredAt": "2026-10-13T16:41:38.249Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:42:09.641Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "HOLOD MORGA",
       "artistSlug": "holod-morga"
@@ -61077,8 +61101,14 @@
     },
     {
       "userId": "ef155a50-e77e-4e07-95d5-254b42e089c7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "артхаус дичайший братуха. бит кста угарный лол, завайбил.",
+          "scoredAt": "2026-10-16T12:47:09.306Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -61104,7 +61134,7 @@
           "scoredAt": "2026-09-25T20:45:41.726Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:42:30.688Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "P1ER'0",
       "artistSlug": "p1er-0"
@@ -77148,8 +77178,14 @@
     },
     {
       "userId": "3f05a195-b4db-4c36-bbe5-b5444a39abfc",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Кажется как будто ты какой то дадайнасти тайп хотел сделать. Но получилось через чур артхаусно.",
+          "scoredAt": "2026-10-16T12:44:56.433Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -77157,7 +77193,7 @@
           "scoredAt": "2026-10-14T15:44:13.408Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:52:10.924Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "Янг Бульба",
       "artistSlug": "yang-bulba"
@@ -77749,8 +77785,14 @@
     },
     {
       "userId": "7b5bf366-479b-4431-b905-81e3bfa34b6b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Слушай вроде прэк, а вроде как то просто, нет такого ощущения? Думал между 3 и 4, решил все таки 3 бро, но чуствую что дальше можешь круче сделать.",
+          "scoredAt": "2026-10-16T12:43:43.074Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -77764,7 +77806,7 @@
           "scoredAt": "2026-09-25T17:33:53.687Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:23:02.897Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "MC Beast",
       "artistSlug": "mc-beast"
@@ -86191,8 +86233,14 @@
     },
     {
       "userId": "8f9032fc-a7be-4edd-aeed-6be82de8b586",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина ",
+          "scoredAt": "2026-10-16T12:46:15.926Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -86206,7 +86254,7 @@
           "scoredAt": "2026-10-13T17:49:37.842Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "Kidanuza1000_K1k",
       "artistSlug": "kidanuza1000-k1k"
@@ -90591,8 +90639,14 @@
     },
     {
       "userId": "f4451ff8-d21f-48d7-93ca-9a88244452f6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T12:42:32.346Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -90606,7 +90660,7 @@
           "scoredAt": "2026-10-01T18:54:45.540Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "у окна",
       "artistSlug": "u-okna"
@@ -93418,8 +93472,14 @@
     },
     {
       "userId": "d23f3938-ce36-49b4-8274-570389bb9426",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "ахахахаахах. угар, мне как бы похуй. но что бы от остальных судей не парашу получать, надо звук подятнуть, такое вот кажется например.",
+          "scoredAt": "2026-10-16T12:48:33.574Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -93439,7 +93499,7 @@
           "scoredAt": "2026-10-06T14:01:21.644Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:42:23.783Z",
+      "fetchedAt": "2026-10-16T12:52:25.764Z",
       "current": true,
       "artistName": "Говорит Магадан",
       "artistSlug": "govorit-magadan"
