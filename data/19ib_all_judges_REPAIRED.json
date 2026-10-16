@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T11:42:27.581Z",
+  "exportedAt": "2026-10-16T11:52:28.191Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -28000,8 +28000,14 @@
     },
     {
       "userId": "0aa3fe9c-be44-4c07-a1cb-fb67583b2445",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "Бит пушка!",
+          "scoredAt": "2026-10-16T11:45:09.606Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -28027,7 +28033,7 @@
           "scoredAt": "2026-08-30T12:48:13.777Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Мирамар",
       "artistSlug": "miramar"
@@ -58275,8 +58281,14 @@
     },
     {
       "userId": "be6f95f9-4a94-40d3-a86b-f8575ff54c42",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Ну пойдет.",
+          "scoredAt": "2026-10-16T11:51:34.802Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -58290,7 +58302,7 @@
           "scoredAt": "2026-09-24T13:22:14.390Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:42:30.688Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "theLogos",
       "artistSlug": "thelogos"
@@ -60943,8 +60955,14 @@
     },
     {
       "userId": "851f4c91-7100-4787-902f-c381595e83fe",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Немного не дотягиваешь по моему до уровня ботла.",
+          "scoredAt": "2026-10-16T11:49:36.816Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -60970,7 +60988,7 @@
           "scoredAt": "2026-10-12T09:56:32.376Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:52:14.640Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Mills",
       "artistSlug": "mills"
@@ -62215,8 +62233,14 @@
     },
     {
       "userId": "f9629bae-07c9-4146-aa1e-d0d30610fe84",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Что-то в этом есть! Сведение бы конечно тебе чуть подразгрузить либо чуть лучше настроить, но не суть, нравится как наваливаешь , качово, под трек прям видеоряд напрашивается моментально. лови 4 с плюсом, оч круто делаешь , по тексту тебе бы сюда трушных строчек навалить в виде панчлайнов . жду в след. Раунде покажи там что сможешь сделать с оппонентов в парных ",
+          "scoredAt": "2026-10-16T11:48:11.649Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -62236,7 +62260,7 @@
           "scoredAt": "2026-10-03T16:55:50.329Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:32:21.939Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Трпч",
       "artistSlug": "trpch"
@@ -64987,8 +65011,14 @@
     },
     {
       "userId": "df9c04c9-2e6f-452b-a80b-31aed512d45d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T11:42:49.764Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -64996,7 +65026,7 @@
           "scoredAt": "2026-10-15T11:27:52.684Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:32:26.907Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Arhetype",
       "artistSlug": "arhetype"
@@ -65503,8 +65533,14 @@
     },
     {
       "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Текст бы поинтереснее.",
+          "scoredAt": "2026-10-16T11:47:59.808Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -65524,7 +65560,7 @@
           "scoredAt": "2026-09-19T21:19:53.673Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:12:07.322Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Антон Вайс",
       "artistSlug": "anton-vays"
@@ -66869,8 +66905,14 @@
     },
     {
       "userId": "cd3cf931-194e-4b1b-a4ef-56fca996544c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T11:45:03.206Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -66890,7 +66932,7 @@
           "scoredAt": "2026-10-06T06:51:18.996Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:12:14.233Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Matesha",
       "artistSlug": "matesha"
@@ -67496,8 +67538,14 @@
     },
     {
       "userId": "2670ad2c-f8ba-4cca-ba44-fec7b5a223bb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "не тру рэп, ни одного шекеля от тебя не видел.",
+          "scoredAt": "2026-10-16T11:50:29.789Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -67517,7 +67565,7 @@
           "scoredAt": "2026-10-14T17:52:40.360Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:22:22.399Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "MC Welkin",
       "artistSlug": "mc-welkin"
@@ -68966,8 +69014,14 @@
     },
     {
       "userId": "8713ac15-75cb-4e7f-9ddd-dcd58aa93717",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": ":C грустная песни блинб",
+          "scoredAt": "2026-10-16T11:48:19.277Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -68987,7 +69041,7 @@
           "scoredAt": "2026-10-09T16:58:37.642Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:52:41.382Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "KULTEGO",
       "artistSlug": "kultego"
@@ -73933,8 +73987,14 @@
     },
     {
       "userId": "8a401d76-2d70-46b9-8132-5d6965ec63be",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Слушай а что значит try rap в 2026 году братуха? харизма у тебя есть, да и стиль свой. пока не прям что бы проникнуться удалось, но думаю ты ещё покажешь что-то интересное.",
+          "scoredAt": "2026-10-16T11:47:12.232Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -73948,7 +74008,7 @@
           "scoredAt": "2026-10-09T14:36:02.606Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:32:21.939Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Леша Холин",
       "artistSlug": "lesha-holin"
@@ -80922,8 +80982,14 @@
     },
     {
       "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "почему чем сложнее разобрать слова в песне, тем выше шанс что МЦ не прикрепит текст к своей работе?",
+          "scoredAt": "2026-10-16T11:43:22.084Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -80943,7 +81009,7 @@
           "scoredAt": "2026-10-14T16:45:05.842Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:22:24.305Z",
+      "fetchedAt": "2026-10-16T11:52:28.191Z",
       "current": true,
       "artistName": "Рид Ридди",
       "artistSlug": "rid-riddi"
