@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T16:12:28.383Z",
-  "exportedAt": "2026-10-16T16:12:28.383Z",
-  "runId": "2026-10-16T16:12:28.383Z",
-  "forumExportedAt": "2026-10-16T16:12:28.383Z",
+  "lastSuccessfulAt": "2026-10-16T16:22:26.568Z",
+  "exportedAt": "2026-10-16T16:22:26.568Z",
+  "runId": "2026-10-16T16:22:26.568Z",
+  "forumExportedAt": "2026-10-16T16:22:26.568Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11450,
+    "scores": 11459,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 15,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 13,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 13,
-    "changedParticipants": 13,
-    "logicalRequests": 15,
-    "durationMs": 15553,
-    "scoresBefore": 11437,
-    "scoresAfter": 11450,
-    "fullBaselineRequests": 3180,
-    "requestReductionPercent": 99.52830188679245,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 11,
+    "durationMs": 11500,
+    "scoresBefore": 11450,
+    "scoresAfter": 11459,
+    "fullBaselineRequests": 3181,
+    "requestReductionPercent": 99.65419679346118,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,69 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "r1fmabes",
+          "score": 4,
+          "artist": "Клевер",
+          "comment": "Крепкая приятная работа, хороший бумбеп, до 5-ки чутка не дотянул. Слегка монотонно и не все ритмические решения мне зашли. ",
+          "scoredAt": "2026-10-16T16:21:23.810Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "LeChat",
+          "comment": "Блин ну с натягом ставлю 3 не хватило изюма. Сюда бы бэки для подчеркивания акцентов бы сделать, ну и разнообразить как-то",
+          "scoredAt": "2026-10-16T16:20:07.787Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "GRYAZNYMARIK",
+          "comment": "только обрывки слов какие-то понятные, первая четвёрка вообще куда упала ниже некуда, даже не заметил что она вообще есть. непонятно зачем такое сдавать. либо звукарь за тебя скинул и подъеб@л ?!",
+          "scoredAt": "2026-10-16T16:19:28.033Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "MЦ АКАДЕМИК",
+          "comment": "Иногда в треке сумбурно меняется темп. В остальном неплохо исполнил, но текст не порадовал, простенький. ",
+          "scoredAt": "2026-10-16T16:18:19.184Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Стичи [JAMBULA]",
+          "comment": "Ладно учитывая подтекст прям улыбнуло,  по исполнению немного не дожал",
+          "scoredAt": "2026-10-16T16:17:37.099Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "FM17|FROZ",
+          "comment": "Много раз нарушил ритмику, иногда переигрываешь с интонациями, не хватает в подаче. Текст простоват со слабыми рифмами.\nНо потенциал неплохой, надеюсь сможешь во втором раунде раскрыть его.",
+          "scoredAt": "2026-10-16T16:15:35.140Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "MadGuy",
+          "comment": "скучный тексток, исполнением вывез, но иногда текст радирифменный конечно, а может и не иногда. зачитал приятно, с битом хорошо звучишь, скиллуха есть, но ради всевышнего займись текстом пожалуйста 4 с минусом авансом ",
+          "scoredAt": "2026-10-16T16:15:16.633Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "БИЗОН",
+          "comment": "Честно трекс такой дефолтный",
+          "scoredAt": "2026-10-16T16:14:55.677Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 2,
+          "artist": "S$hane",
+          "comment": "Подача слабовата, иногда слышны склейки строк, текст простенький по смысловой нагрузке и рифмам.",
+          "scoredAt": "2026-10-16T16:13:26.694Z"
+        },
+        {
           "judgeName": "OFFSTAGE",
           "score": 4,
           "artist": "Жирно Нарычал",
@@ -123,69 +186,6 @@
           "artist": "one of three",
           "comment": "Несколько раз ритмику подломал.\nВокал надо подтягивать.",
           "scoredAt": "2026-10-16T16:09:18.913Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "директор",
-          "comment": "Средненько получилось и по исполнению и по тексту. Чуть больше хотелось оригинальности в тексте.",
-          "scoredAt": "2026-10-16T16:08:24.549Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "БЛЕСНА",
-          "comment": "Авансом, текст слабоват ",
-          "scoredAt": "2026-10-16T16:08:12.518Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Blooming Pine",
-          "comment": "Подачку и технику надо подтянуть, перспектива имеется.",
-          "scoredAt": "2026-10-16T16:07:22.684Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "AMK FU",
-          "comment": "резануло ухо в яндекстоксикозе, можно было бы вместо \"у нас\" просто \"тут\" и тогда ровненько бы залетел.\nпанчики хорошие имеются, про Птицу честно говоря не выкупил как под ней обоготиться.\nманера исполнения прикольная, можно было б немножко разнообразия ещё дать, но дрип клёвый.\nзвучит всё органично!",
-          "scoredAt": "2026-10-16T16:06:19.317Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "Giguchi",
-          "comment": "Если бы не длинное аутро и пару радирифменных моментов, то поставил бы 5.",
-          "scoredAt": "2026-10-16T16:04:07.147Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Собачий Кайф",
-          "comment": "Четко",
-          "scoredAt": "2026-10-16T16:03:07.597Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 2,
-          "artist": "Stove-man",
-          "comment": "Техники не хватает, не получается вывезти задумку до конца. Особенно это заметно на ускорениях - там почти всё мимо, в том числе дикционно.",
-          "scoredAt": "2026-10-16T16:03:02.658Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Brox",
-          "comment": "Блин ну честно слабовато друг",
-          "scoredAt": "2026-10-16T16:02:07.532Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "КСШ х Re!men'",
-          "comment": "Простой флоу очень. Текст тоже не впечатлил.",
-          "scoredAt": "2026-10-16T16:01:41.440Z"
         }
       ]
     }
