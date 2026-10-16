@@ -121214,6 +121214,314 @@
         "scoredAt": "2026-10-16T17:48:18.331Z",
         "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461"
       }
+    },
+    {
+      "id": "7ec2b3e79631ed1726d88febe48347f49dde4876455e11455a53549c047ecf16",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:56:55.730Z",
+      "key": "[\"17ddb234-c064-4740-8f19-ddc1cd391d80\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Соусно, мне зашло, хорош. ",
+        "scoredAt": "2026-10-16T17:56:55.730Z",
+        "userId": "17ddb234-c064-4740-8f19-ddc1cd391d80"
+      }
+    },
+    {
+      "id": "f5ce559c36c0054dc7f4d73b68c1329d923c2cf5cb5db17d5926c4c6d00bc608",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:52:42.644Z",
+      "key": "[\"ec65d8b9-677f-4ee5-af20-40461c22877b\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Скучно для того стилька, строки почти пустые ",
+        "scoredAt": "2026-10-16T17:52:42.644Z",
+        "userId": "ec65d8b9-677f-4ee5-af20-40461c22877b"
+      }
+    },
+    {
+      "id": "e511be2b4503c6e03e65c391e0e76710c4328d60fd33844a2cdfbe816ef22f6d",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:59:14.717Z",
+      "key": "[\"e63049bf-a3da-4bf2-b992-ec5b4e63b488\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T17:59:14.717Z",
+        "userId": "e63049bf-a3da-4bf2-b992-ec5b4e63b488"
+      }
+    },
+    {
+      "id": "486e4ab5488d517cab34769e49c341644ea851c4afce4924d093d59df518ccaa",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:01:54.247Z",
+      "key": "[\"367fbc01-bbeb-43d9-a665-4f0307e6276d\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Как-то слова не уверенно произносишь",
+        "scoredAt": "2026-10-16T18:01:54.247Z",
+        "userId": "367fbc01-bbeb-43d9-a665-4f0307e6276d"
+      }
+    },
+    {
+      "id": "fcf10e3b20f4086ee9b0ffba4f24da78ee9462181930b999583287fa4071fcc4",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:55:05.264Z",
+      "key": "[\"0b30ed85-e310-49a5-b179-065e43c31219\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Прикольно с битком для вагабунда кекнул , накинул желчи на 4 с минусом. ",
+        "scoredAt": "2026-10-16T17:55:05.264Z",
+        "userId": "0b30ed85-e310-49a5-b179-065e43c31219"
+      }
+    },
+    {
+      "id": "481e7871828d1aa7ec82c8f1a06d3e98850d9f6512613698e94ce759c6873273",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:00:19.168Z",
+      "key": "[\"b5ce15d6-a150-45ff-80a4-9b9b008d5ba9\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Навалил от души",
+        "scoredAt": "2026-10-16T18:00:19.168Z",
+        "userId": "b5ce15d6-a150-45ff-80a4-9b9b008d5ba9"
+      }
+    },
+    {
+      "id": "d244d3b0895a1600f3934c69d885ef8accf2b2552f77bf2243182603ca499394",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:56:23.249Z",
+      "key": "[\"517dd1e5-a800-4cd6-9be9-a0284152dcd4\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:56:23.249Z",
+        "userId": "517dd1e5-a800-4cd6-9be9-a0284152dcd4"
+      }
+    },
+    {
+      "id": "826b11e51ebda4e2e04c28e7845615163e79e80032d155de52568649d2fe8307",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:59:18.152Z",
+      "key": "[\"dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 2,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:59:18.152Z",
+        "userId": "dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b"
+      }
+    },
+    {
+      "id": "386e0fa77bc272eb201956836c5469b5a48cf31c9c37c501c09305f5bdb62124",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:59:03.853Z",
+      "key": "[\"de490858-e930-4b9c-ac87-b75655aa5377\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Флоу слабоват, надо прокачивать читку, звучит как стишок бро. Суммарно средне - 3. ",
+        "scoredAt": "2026-10-16T17:59:03.853Z",
+        "userId": "de490858-e930-4b9c-ac87-b75655aa5377"
+      }
+    },
+    {
+      "id": "c1f9ce3ba7850fb127a9af3a83294f0f94e8dfcd9a03772103238c3d8e73110d",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:53:09.785Z",
+      "key": "[\"aa25743c-9650-44f0-8a09-ee9f00999de5\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T17:53:09.785Z",
+        "userId": "aa25743c-9650-44f0-8a09-ee9f00999de5"
+      }
+    },
+    {
+      "id": "18ff0b3b33ff6ba8b6f9ad52d998a46bf2d80d94e8ede16236a31e5eebb01dd0",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:52:50.972Z",
+      "key": "[\"d1cad89f-b56e-4f28-8d8d-8524bad82619\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Ну это за гранью понимания человека, брат. Текст пустой, даже не помогла перечисление философов и упоминания слова симулякр. По исполнению плохо. Нужно тренироваться больше в записи репа.",
+        "scoredAt": "2026-10-16T17:52:50.972Z",
+        "userId": "d1cad89f-b56e-4f28-8d8d-8524bad82619"
+      }
+    },
+    {
+      "id": "6e1bf79420b9fd611c662612b335b94dac6cd84f72a66dba91b6009d3d9d56b2",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:59:55.303Z",
+      "key": "[\"7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-16T17:59:55.303Z",
+        "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec"
+      }
+    },
+    {
+      "id": "09ed5a043e2e58457102b7cb71b469bddd7b61423757b4166c3488159fce7d00",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:02:16.680Z",
+      "key": "[\"3038d4b9-88df-4acc-8f0b-c435cda1db54\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:02:16.680Z",
+        "userId": "3038d4b9-88df-4acc-8f0b-c435cda1db54"
+      }
+    },
+    {
+      "id": "b41d9379f4e81d91816e7ae99f945f028dfb406c0a27bbaa9a9e2ce66dc3e951",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:57:17.289Z",
+      "key": "[\"dbcf5ee7-2874-4c15-b7ad-5e0b61570da9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Прикольно по рифмам есть , по строчкам пусто, тему раскрыл , проходная работа но не более чем 3 будто",
+        "scoredAt": "2026-10-16T17:57:17.289Z",
+        "userId": "dbcf5ee7-2874-4c15-b7ad-5e0b61570da9"
+      }
+    },
+    {
+      "id": "de19301163478521e14377790bf2ea8d15f36042291bde5edbcc8e7e6485a564",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:54:41.743Z",
+      "key": "[\"f1579853-4f77-40d6-9926-c84da5a4bee0\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Новости 24",
+        "scoredAt": "2026-10-16T17:54:41.743Z",
+        "userId": "f1579853-4f77-40d6-9926-c84da5a4bee0"
+      }
+    },
+    {
+      "id": "567941ce3ba3514f06b0299f4deba8b3a74074a28e891fb5d40cdf0ac68babb8",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:02:04.311Z",
+      "key": "[\"318db77e-cb24-4532-a6cf-1d550c88e23b\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Красиво по рифме , разнообразия в исполнении дал, но на тему хер положил, поэтому 3 максимум",
+        "scoredAt": "2026-10-16T18:02:04.311Z",
+        "userId": "318db77e-cb24-4532-a6cf-1d550c88e23b"
+      }
+    },
+    {
+      "id": "d5b5a11c71e1acec3eb709a2ebec45ab59732a6b31f941665824896edb24d205",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:53:27.605Z",
+      "key": "[\"9c411e45-28c8-434a-9b47-47c81381784c\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 5,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:53:27.605Z",
+        "userId": "9c411e45-28c8-434a-9b47-47c81381784c"
+      }
+    },
+    {
+      "id": "4758d1157adda31e08d973e74e79b55aaa8a76982d19d1a2e65e004f40ff1589",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:02:11.364Z",
+      "key": "[\"9b7715ba-f60d-4e7e-b91a-91c40e818ab4\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Тейки палятся, и с бита срезай войс теги то бро 2-26-ой. А так нормас -3. ",
+        "scoredAt": "2026-10-16T18:02:11.364Z",
+        "userId": "9b7715ba-f60d-4e7e-b91a-91c40e818ab4"
+      }
+    },
+    {
+      "id": "a659c4dea261c714cde7097f162546247bed903a9d5c86e3b07f1ffd615a8739",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:57:29.810Z",
+      "key": "[\"4805f467-0c16-4b6d-ad46-2304a4eab724\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Устал от однообразия читки, а вот текст, идейная составляющая на должном уровне",
+        "scoredAt": "2026-10-16T17:57:29.810Z",
+        "userId": "4805f467-0c16-4b6d-ad46-2304a4eab724"
+      }
+    },
+    {
+      "id": "6b62a5423ea243fab5e4e9ddf3dc4f10210f09b602632d4fe859ddc9b584b300",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T17:52:30.151Z",
+      "key": "[\"a9467d58-515f-4ca2-8e53-dd43625b7231\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T17:52:30.151Z",
+        "userId": "a9467d58-515f-4ca2-8e53-dd43625b7231"
+      }
+    },
+    {
+      "id": "b64e84edcd2cff67ad99c02a2ba971c15eaecbd623dc2071c39be51ea38a07ee",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:01:03.213Z",
+      "key": "[\"e8de81c5-5fd8-458a-9928-c1571f890d74\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Дикцию бы подтянул бро было бы 4, а так 3 крепкое. Оксимироновщина но недотянутая. ",
+        "scoredAt": "2026-10-16T18:01:03.213Z",
+        "userId": "e8de81c5-5fd8-458a-9928-c1571f890d74"
+      }
+    },
+    {
+      "id": "14590446d5aaa59a62c5348a325f526b0d37029163a9461bbf271e3edc5a72e7",
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "sourceScoredAt": "2026-10-16T18:00:16.454Z",
+      "key": "[\"60da15aa-e7b6-400d-9274-84712711a302\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ничего интересного в тексте. По исполнению - ровно до тех пор пока не начинаешь тянуть слоги. Не делай так. Средний трек.",
+        "scoredAt": "2026-10-16T18:00:16.454Z",
+        "userId": "60da15aa-e7b6-400d-9274-84712711a302"
+      }
     }
   ],
   "snapshots": [
@@ -127013,6 +127321,26 @@
           "index": 28.964127670396355,
           "favor": 18.18126063552701,
           "attention": -0.37713296513065697,
+          "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T18:02:36.807Z",
+      "exportedAt": "2026-10-16T18:02:36.807Z",
+      "scores": 11665,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.81374317661163,
+          "favor": 9.457761396006168,
+          "attention": 6.568909537259457,
+          "respect": 6.787072243346008
+        },
+        "veterans": {
+          "index": 29.017878101236285,
+          "favor": 18.185251299826696,
+          "attention": -0.32737319859040986,
           "respect": 11.16
         }
       }
