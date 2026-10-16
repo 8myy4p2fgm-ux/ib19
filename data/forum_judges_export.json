@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T07:22:29.407Z",
+  "exportedAt": "2026-10-16T07:32:22.250Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -701,7 +701,14 @@
       "userId": "86993b62-df9a-40a8-9cd2-86850eb174c9",
       "forum_name": "Клавиатурный Герой",
       "group": "OG",
-      "scores": [],
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "А было бы неплохо, если ты вернешь 2007)\n\nТрек очень простой и унылый. Описал баттл довольно точно. За это +1 балл.",
+          "scoredAt": "2026-10-16T07:26:52.216Z"
+        }
+      ],
       "veteran": false,
       "current": true
     },
