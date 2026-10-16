@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T10:02:28.338Z",
+  "exportedAt": "2026-10-16T10:12:42.870Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1482,6 +1482,12 @@
       "forum_name": "Шматко",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T10:07:48.924Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
