@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T00:22:22.399Z",
+  "exportedAt": "2026-10-16T00:32:19.543Z",
   "totalParticipants": 3281,
   "members": [
     {
@@ -17927,8 +17927,14 @@
     },
     {
       "userId": "99465866-3f86-4294-8949-ecc917055a63",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Красавчик!",
+          "scoredAt": "2026-10-16T00:23:13.484Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -17954,7 +17960,7 @@
           "scoredAt": "2026-09-07T16:00:43.357Z"
         }
       ],
-      "fetchedAt": "2026-10-14T17:02:09.904Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -25699,9 +25705,16 @@
     },
     {
       "userId": "4fc26d5a-7e4a-4ec1-8003-4fc073f69a65",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Уверенно, мило, интересно!",
+          "scoredAt": "2026-10-16T00:25:58.299Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -25886,8 +25899,14 @@
     },
     {
       "userId": "5183d1c5-b903-4be9-a239-c470863931c5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 1,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-16T00:22:19.987Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -25913,7 +25932,7 @@
           "scoredAt": "2026-08-30T21:30:14.420Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -29393,8 +29412,14 @@
     },
     {
       "userId": "d3b94d6c-ffb2-4e3b-8291-f24bb6277d3e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:22:44.369Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 5,
@@ -29408,7 +29433,7 @@
           "scoredAt": "2026-09-11T13:20:28.595Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -46531,8 +46556,14 @@
     },
     {
       "userId": "88bf58cd-6212-4211-8c93-93e893d70c79",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:25:33.075Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -46552,7 +46583,7 @@
           "scoredAt": "2026-09-27T16:27:47.484Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -53796,8 +53827,14 @@
     },
     {
       "userId": "63774b08-71ab-4d89-892a-352db4363b17",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:28:37.772Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 2,
@@ -53805,7 +53842,7 @@
           "scoredAt": "2026-10-08T07:18:30.737Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -58843,9 +58880,16 @@
     },
     {
       "userId": "68861c1b-35c8-4ccf-b6d8-581c1ce24326",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:28:07.748Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -59070,8 +59114,14 @@
     },
     {
       "userId": "0749b3bd-c825-482b-b598-d8640437e4d3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Клево)",
+          "scoredAt": "2026-10-16T00:25:08.853Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -59091,7 +59141,7 @@
           "scoredAt": "2026-10-09T11:20:36.996Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:22:46.526Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -70202,8 +70252,14 @@
     },
     {
       "userId": "2e904e4e-dc04-4745-ab79-ff9181174370",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Очень мило и приятно! Поработайц над сведением, отдай за бабки.",
+          "scoredAt": "2026-10-16T00:23:56.983Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -70217,7 +70273,7 @@
           "scoredAt": "2026-09-24T21:22:52.725Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:02:14.357Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -71137,8 +71193,14 @@
     },
     {
       "userId": "3202a0f8-2a16-43e6-a0b4-bdb9ad8ab6eb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:26:17.675Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,
@@ -71158,7 +71220,7 @@
           "scoredAt": "2026-10-12T19:22:41.851Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:23:02.897Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -79840,8 +79902,14 @@
     },
     {
       "userId": "2fb193b6-423c-48fb-8212-826d2f1b2225",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:28:24.204Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -79849,7 +79917,7 @@
           "scoredAt": "2026-10-08T19:35:49.414Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -80924,9 +80992,16 @@
     },
     {
       "userId": "8da8d9da-c3ed-46ff-be3e-29630c01dba8",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:26:31.717Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -82953,9 +83028,16 @@
     },
     {
       "userId": "796c5e95-f702-40e8-859e-e77a55e5f9cb",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:22:55.909Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {
@@ -85091,8 +85173,14 @@
     },
     {
       "userId": "35e70529-7fdd-4722-9ab4-5e4acc4a992c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:27:16.967Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -85118,7 +85206,7 @@
           "scoredAt": "2026-08-31T19:18:24.396Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:52:15.426Z",
+      "fetchedAt": "2026-10-16T00:32:19.543Z",
       "current": true
     },
     {

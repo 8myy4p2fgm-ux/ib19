@@ -106472,6 +106472,202 @@
         "scoredAt": "2026-10-16T00:21:29.334Z",
         "userId": "f77a5874-291d-4056-8479-22d9374b9b0c"
       }
+    },
+    {
+      "id": "c073ff00434b2a7984b70d7a7eb75a7f728e275c31c3ea4c9087b65a27a79582",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:23:13.484Z",
+      "key": "[\"99465866-3f86-4294-8949-ecc917055a63\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Красавчик!",
+        "scoredAt": "2026-10-16T00:23:13.484Z",
+        "userId": "99465866-3f86-4294-8949-ecc917055a63"
+      }
+    },
+    {
+      "id": "c48634b4898cb38d416f81aacc6bb7e08e0fc491381057f32c0e47b54c34fd07",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:25:58.299Z",
+      "key": "[\"4fc26d5a-7e4a-4ec1-8003-4fc073f69a65\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Уверенно, мило, интересно!",
+        "scoredAt": "2026-10-16T00:25:58.299Z",
+        "userId": "4fc26d5a-7e4a-4ec1-8003-4fc073f69a65"
+      }
+    },
+    {
+      "id": "1a972ed446b5994a032b6a6c2b96d2041d17c40486f2a043e3de0867a6fc6314",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:22:19.987Z",
+      "key": "[\"5183d1c5-b903-4be9-a239-c470863931c5\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-16T00:22:19.987Z",
+        "userId": "5183d1c5-b903-4be9-a239-c470863931c5"
+      }
+    },
+    {
+      "id": "fa30ec9f1d873f9a216cc56a2bb394927f1b6eb90b12ad6ef471cdfcdd8ed08d",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:22:44.369Z",
+      "key": "[\"d3b94d6c-ffb2-4e3b-8291-f24bb6277d3e\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:22:44.369Z",
+        "userId": "d3b94d6c-ffb2-4e3b-8291-f24bb6277d3e"
+      }
+    },
+    {
+      "id": "849db06651a615dd8c48e5d3455e6d48fca99d04b853c963fd90998af11a37c1",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:25:33.075Z",
+      "key": "[\"88bf58cd-6212-4211-8c93-93e893d70c79\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:25:33.075Z",
+        "userId": "88bf58cd-6212-4211-8c93-93e893d70c79"
+      }
+    },
+    {
+      "id": "3a4590fb51f088e8180786de1c03a70999d9c7e7ed81608f44eb529c1bbc8195",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:28:37.772Z",
+      "key": "[\"63774b08-71ab-4d89-892a-352db4363b17\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:28:37.772Z",
+        "userId": "63774b08-71ab-4d89-892a-352db4363b17"
+      }
+    },
+    {
+      "id": "504e4678e1b87604804a316ba461c3c3b9fb595f92b8f031afdf65a284a1b481",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:28:07.748Z",
+      "key": "[\"68861c1b-35c8-4ccf-b6d8-581c1ce24326\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:28:07.748Z",
+        "userId": "68861c1b-35c8-4ccf-b6d8-581c1ce24326"
+      }
+    },
+    {
+      "id": "fbfb0fd0a010fe1a8c4246c049c36898cc0ffaaa099f28d2d07d6bc6c0377488",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:25:08.853Z",
+      "key": "[\"0749b3bd-c825-482b-b598-d8640437e4d3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Клево)",
+        "scoredAt": "2026-10-16T00:25:08.853Z",
+        "userId": "0749b3bd-c825-482b-b598-d8640437e4d3"
+      }
+    },
+    {
+      "id": "b0c3fa63b1db177a4e452a325d45efcf89a0f9492ab6e5f0bc9c6ef1a6d5131e",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:23:56.983Z",
+      "key": "[\"2e904e4e-dc04-4745-ab79-ff9181174370\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Очень мило и приятно! Поработайц над сведением, отдай за бабки.",
+        "scoredAt": "2026-10-16T00:23:56.983Z",
+        "userId": "2e904e4e-dc04-4745-ab79-ff9181174370"
+      }
+    },
+    {
+      "id": "4a29fe0a7512d8a08da1a63b7b4b197859184181682339d2d1ac426615dbfb62",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:26:17.675Z",
+      "key": "[\"3202a0f8-2a16-43e6-a0b4-bdb9ad8ab6eb\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:26:17.675Z",
+        "userId": "3202a0f8-2a16-43e6-a0b4-bdb9ad8ab6eb"
+      }
+    },
+    {
+      "id": "c42720738803976192a405b243636d99fa572573128d90b7ce496fafc10585d8",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:28:24.204Z",
+      "key": "[\"2fb193b6-423c-48fb-8212-826d2f1b2225\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:28:24.204Z",
+        "userId": "2fb193b6-423c-48fb-8212-826d2f1b2225"
+      }
+    },
+    {
+      "id": "68f825dc258816393bd7d7b60a48b1f85616300f69b916b28021244690c57733",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:26:31.717Z",
+      "key": "[\"8da8d9da-c3ed-46ff-be3e-29630c01dba8\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:26:31.717Z",
+        "userId": "8da8d9da-c3ed-46ff-be3e-29630c01dba8"
+      }
+    },
+    {
+      "id": "31de4f758ca4c84557cd3e66a31b7ee3a6d8712c3963b064ae24c1b10308061a",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:22:55.909Z",
+      "key": "[\"796c5e95-f702-40e8-859e-e77a55e5f9cb\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:22:55.909Z",
+        "userId": "796c5e95-f702-40e8-859e-e77a55e5f9cb"
+      }
+    },
+    {
+      "id": "2b109d8d824563f288e926f0cec105d0cf28ff9519745ab59a4ba0b79158fdd1",
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "sourceScoredAt": "2026-10-16T00:27:16.967Z",
+      "key": "[\"35e70529-7fdd-4722-9ab4-5e4acc4a992c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T00:27:16.967Z",
+        "userId": "35e70529-7fdd-4722-9ab4-5e4acc4a992c"
+      }
     }
   ],
   "snapshots": [
@@ -110531,6 +110727,26 @@
           "index": 27.621476576498516,
           "favor": 17.980250596658703,
           "attention": -1.5462740201601852,
+          "respect": 11.1875
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T00:32:19.543Z",
+      "exportedAt": "2026-10-16T00:32:19.543Z",
+      "scores": 10609,
+      "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+      "indices": {
+        "forum": {
+          "index": 22.999956796722714,
+          "favor": 9.419750941210543,
+          "attention": 6.68020585551217,
+          "respect": 6.9
+        },
+        "veterans": {
+          "index": 27.645596672495916,
+          "favor": 17.976105920488127,
+          "attention": -1.5180092479922123,
           "respect": 11.1875
         }
       }

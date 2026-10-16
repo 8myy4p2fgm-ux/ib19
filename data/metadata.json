@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T00:22:22.399Z",
-  "exportedAt": "2026-10-16T00:22:22.399Z",
-  "runId": "2026-10-16T00:22:22.399Z",
-  "forumExportedAt": "2026-10-16T00:22:22.399Z",
+  "lastSuccessfulAt": "2026-10-16T00:32:19.543Z",
+  "exportedAt": "2026-10-16T00:32:19.543Z",
+  "runId": "2026-10-16T00:32:19.543Z",
+  "forumExportedAt": "2026-10-16T00:32:19.543Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10595,
+    "scores": 10609,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 21,
+    "httpRequests": 16,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 18,
+    "updatedCards": 14,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 18,
-    "changedParticipants": 17,
-    "logicalRequests": 21,
-    "durationMs": 21018,
-    "scoresBefore": 10577,
-    "scoresAfter": 10595,
-    "fullBaselineRequests": 3133,
-    "requestReductionPercent": 99.3297159272263,
+    "participantsWithNewScores": 14,
+    "changedParticipants": 14,
+    "logicalRequests": 16,
+    "durationMs": 16496,
+    "scoresBefore": 10595,
+    "scoresAfter": 10609,
+    "fullBaselineRequests": 3137,
+    "requestReductionPercent": 99.48995855913293,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,107 +84,107 @@
         {
           "judgeName": "СТИШ",
           "score": 2,
-          "artist": "OcherednOY",
+          "artist": "Железный Джон",
           "comment": "",
-          "scoredAt": "2026-10-16T00:21:29.334Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Pavlik Sol",
-          "comment": "Верю!",
-          "scoredAt": "2026-10-16T00:21:19.511Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Джейаут",
-          "comment": "Наваливаешь четко",
-          "scoredAt": "2026-10-16T00:20:38.970Z"
+          "scoredAt": "2026-10-16T00:28:37.772Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Неповторимый [АвтоградРап]",
-          "comment": "Нормально так разогнался!",
-          "scoredAt": "2026-10-16T00:20:09.471Z"
+          "artist": "кукиш с хаслом",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:28:24.204Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "TWIN",
+          "artist": "Dice",
           "comment": "",
-          "scoredAt": "2026-10-16T00:19:41.465Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "ALEX MOLE",
-          "comment": "атмосферненько, миленько.\nМузыка для секса. Аж встал.",
-          "scoredAt": "2026-10-16T00:19:04.384Z"
+          "scoredAt": "2026-10-16T00:28:07.748Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 2,
-          "artist": "Sun WalNina",
+          "artist": "ANDRÆPER",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:27:16.967Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Axelll",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:26:31.717Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Обнять Небо",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:26:17.675Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "tlvzr",
+          "comment": "Уверенно, мило, интересно!",
+          "scoredAt": "2026-10-16T00:25:58.299Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "LYUBOV",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:25:33.075Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "Stride",
+          "comment": "Клево)",
+          "scoredAt": "2026-10-16T00:25:08.853Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "INSOMA",
+          "comment": "Очень мило и приятно! Поработайц над сведением, отдай за бабки.",
+          "scoredAt": "2026-10-16T00:23:56.983Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "COTANGENCE",
+          "comment": "Красавчик!",
+          "scoredAt": "2026-10-16T00:23:13.484Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Kovoto",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:22:55.909Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Moreton Keat",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:22:44.369Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 1,
+          "artist": "R.DCPTKN",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-16T00:18:06.213Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Morphine Juice",
-          "comment": "Нравится такой реп. ",
-          "scoredAt": "2026-10-16T00:17:57.173Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Овип Локос",
-          "comment": "ОХУЕННО!!!",
-          "scoredAt": "2026-10-16T00:17:35.040Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Икс Сайв",
-          "comment": "Хоош",
-          "scoredAt": "2026-10-16T00:16:39.635Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "TRAWOLTA",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:16:31.610Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Coga",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:15:57.977Z"
+          "scoredAt": "2026-10-16T00:22:19.987Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 2,
-          "artist": "Brownie",
-          "comment": "Текст прикольный, но пока рано",
-          "scoredAt": "2026-10-16T00:15:21.070Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Джонимо",
-          "comment": "Обычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.",
-          "scoredAt": "2026-10-16T00:14:54.310Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "PALEVA NET",
-          "comment": "Канает",
-          "scoredAt": "2026-10-16T00:14:16.709Z"
+          "artist": "MC Welkin",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:22:04.151Z"
         }
       ]
     }
