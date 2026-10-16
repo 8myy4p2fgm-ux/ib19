@@ -125918,6 +125918,118 @@
         "scoredAt": "2026-10-16T23:40:38.165Z",
         "userId": "e57716ee-295d-4bd4-8f32-0af99950653b"
       }
+    },
+    {
+      "id": "7431c53e249c3773969d27cbfed19925056eb4905e18515dac17b1c59a2b26f9",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:51:01.748Z",
+      "key": "[\"d5429320-f4eb-4e38-b5fe-d99b1a748605\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Это старик Дракон? Неожиданно... Техника как обычно на уровне. Для меня эта работа между 4 и 5, округляю в сторону участника.",
+        "scoredAt": "2026-10-16T23:51:01.748Z",
+        "userId": "d5429320-f4eb-4e38-b5fe-d99b1a748605"
+      }
+    },
+    {
+      "id": "8efd31c87d99589ec893cb0b8fc164f4aec8f4a249bb08dc3f25d49ed4499410",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:48:33.522Z",
+      "key": "[\"3ac1c232-72b5-4bdc-8d29-b598011f72c5\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Клубится-напиться-биться... В 2026 так не круто делать. Но я думаю а минимальный проход ты начитал.",
+        "scoredAt": "2026-10-16T23:48:33.522Z",
+        "userId": "3ac1c232-72b5-4bdc-8d29-b598011f72c5"
+      }
+    },
+    {
+      "id": "5fd967386e35b0035d16a6538e2526b9646345c0345fc3399b265536443f2db0",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:44:04.793Z",
+      "key": "[\"12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Рановато пока, нужно работать над исполнением.",
+        "scoredAt": "2026-10-16T23:44:04.793Z",
+        "userId": "12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a"
+      }
+    },
+    {
+      "id": "33ab3411b6a8fee680e0a1d1f698449b86bbdac9c44e80fe85a0f5089e4c16bd",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:42:13.145Z",
+      "key": "[\"0cc0e8fa-dd57-471a-8efa-963cef3670ab\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ну ты же утонул в этой музыке, тебя вообще нет. Я не знаю, как это оценивать, составлю минимальный проход.",
+        "scoredAt": "2026-10-16T23:42:13.145Z",
+        "userId": "0cc0e8fa-dd57-471a-8efa-963cef3670ab"
+      }
+    },
+    {
+      "id": "510a04d83d8466a56c8080ca786e55ee4fa1b47cc1022ab3f1a6407cf90cee36",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:43:26.072Z",
+      "key": "[\"f778e2a6-345a-4436-935f-f30a5aca0042\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Странная читка, будто нет гармонии с битом. По тексту видно, что старался.",
+        "scoredAt": "2026-10-16T23:43:26.072Z",
+        "userId": "f778e2a6-345a-4436-935f-f30a5aca0042"
+      }
+    },
+    {
+      "id": "7505df15c725a66f601d51b38bf4e2042cf214d4addd6e6eab88754b81e0efa7",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:45:18.888Z",
+      "key": "[\"45f1bbc6-906b-4e0a-a2cf-23cca0d8ef76\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Баттлово, стильно звучит. Нормально продавливаешь. Хорошая работа для первого раунда. ",
+        "scoredAt": "2026-10-16T23:45:18.888Z",
+        "userId": "45f1bbc6-906b-4e0a-a2cf-23cca0d8ef76"
+      }
+    },
+    {
+      "id": "b3c3b0b03556a296235cb42b832f1d7e1bcd6c8bd7619a459ca87fefa66e311a",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:45:24.628Z",
+      "key": "[\"e945940c-827a-4c9c-bca8-345a7f61a74b\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Дайте этому вигеру пройти во второй при условии что он нам пообещает клевых панчлайнов там засветить , keep it real, no caps!",
+        "scoredAt": "2026-10-16T23:45:24.628Z",
+        "userId": "e945940c-827a-4c9c-bca8-345a7f61a74b"
+      }
+    },
+    {
+      "id": "967ed83cfd1b68f2929f683804c38a9f27396ea6d569d7820c6f32bf0213b055",
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "sourceScoredAt": "2026-10-16T23:46:33.481Z",
+      "key": "[\"00c7675a-5298-4c2a-a9dd-b573d854edaa\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Есть качество, но по читке в начале вообще слабо, дальше норм разогнался, потом опять куда-то скатился. В общем неоднозначная работа.",
+        "scoredAt": "2026-10-16T23:46:33.481Z",
+        "userId": "00c7675a-5298-4c2a-a9dd-b573d854edaa"
+      }
     }
   ],
   "snapshots": [
@@ -132377,6 +132489,26 @@
           "index": 29.436992629426484,
           "favor": 18.292454898833846,
           "attention": -0.016879592242007017,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T23:51:55.222Z",
+      "exportedAt": "2026-10-16T23:51:55.222Z",
+      "scores": 11985,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.26696749893647,
+          "favor": 9.253792671921982,
+          "attention": 6.37748709467248,
+          "respect": 6.635687732342007
+        },
+        "veterans": {
+          "index": 29.470974383338074,
+          "favor": 18.291379088239708,
+          "attention": 0.01817797226371941,
           "respect": 11.161417322834646
         }
       }
