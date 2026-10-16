@@ -120374,6 +120374,314 @@
         "scoredAt": "2026-10-16T17:15:26.222Z",
         "userId": "abde96ea-08db-4c5b-860a-dfd329dbc9f2"
       }
+    },
+    {
+      "id": "f3e9f3c5facffe4b9c8b41cefde72c4256949c9aff6f35f571a195ec6d52f56a",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:28:05.220Z",
+      "key": "[\"e493b04e-1930-4f2a-9c47-7632cf60749b\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:28:05.220Z",
+        "userId": "e493b04e-1930-4f2a-9c47-7632cf60749b"
+      }
+    },
+    {
+      "id": "96fbc1a879c4b714a97ca408c546bb6aeb90eb85d394424a9b9833122ba70a06",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:30:46.011Z",
+      "key": "[\"ca2e75f6-fff7-4a51-9ac0-2650b5fb8dca\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Ну про 19 номер отличный панч. Остальное очень плохо. Что по тексту, что по исполнению. С другой стороны, ты уже заранее победил, пофиг на оценки.",
+        "scoredAt": "2026-10-16T17:30:46.011Z",
+        "userId": "ca2e75f6-fff7-4a51-9ac0-2650b5fb8dca"
+      }
+    },
+    {
+      "id": "358a84017715b825e366173c19bb9ccc3a26b0a77076dcdc71d15d1bdaedb833",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:29:12.561Z",
+      "key": "[\"aa8ad77e-3c8a-47ea-bd5f-5e1f7f9e4e7b\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 1,
+        "comment": "Тебе надо внимательнее инструментал слушать под который делаешь, стараться укладывать капу в него. Но это решаемо... опыт всё исправит. ",
+        "scoredAt": "2026-10-16T17:29:12.561Z",
+        "userId": "aa8ad77e-3c8a-47ea-bd5f-5e1f7f9e4e7b"
+      }
+    },
+    {
+      "id": "bd4a4b69704c736c0bb128fca8cf44e2a376afacfc19abff5a184a8c1bc449f5",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:26:28.717Z",
+      "key": "[\"2a24bd5b-a88e-4820-937e-f14341895409\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Очень сумбурно, бро. Сложно слушается. Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-16T17:26:28.717Z",
+        "userId": "2a24bd5b-a88e-4820-937e-f14341895409"
+      }
+    },
+    {
+      "id": "8792b87f9ddbacc89fbc15008916288c5e25404d39e38e60a784838fcdf27a46",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:23:46.745Z",
+      "key": "[\"44cabbad-83ac-4d3d-8c1b-b41c876155a1\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:23:46.745Z",
+        "userId": "44cabbad-83ac-4d3d-8c1b-b41c876155a1"
+      }
+    },
+    {
+      "id": "7b2b9d9cdb94414114f8f9bb458b3349af0a48c0bd8154d2e7a97cabd047608f",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:31:43.999Z",
+      "key": "[\"8857439b-7cf6-4541-b2cf-3730013ddbc2\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Вроде есть скил, что делаешь то(",
+        "scoredAt": "2026-10-16T17:31:43.999Z",
+        "userId": "8857439b-7cf6-4541-b2cf-3730013ddbc2"
+      }
+    },
+    {
+      "id": "7f4a31a0e5b7ebafe207db152267131b095cc24cd443da698a1d329b1514ae7b",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:30:57.846Z",
+      "key": "[\"b3000ba5-c250-4477-9c3d-64c4773f3c3c\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 4,
+        "comment": "Есть концепция, есть работа с подачей.. хоть инструментал и ушёл на фон. Тут 4 будет скорее авансом.. старайся в следующем",
+        "scoredAt": "2026-10-16T17:30:57.846Z",
+        "userId": "b3000ba5-c250-4477-9c3d-64c4773f3c3c"
+      }
+    },
+    {
+      "id": "6b2002882adeb77e66b5f7793491268b0000d1f711cc454569f53b368c9300dd",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:26:40.089Z",
+      "key": "[\"95303e21-cdd6-48a4-abb0-03eb9f9a047a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Оч слабо",
+        "scoredAt": "2026-10-16T17:26:40.089Z",
+        "userId": "95303e21-cdd6-48a4-abb0-03eb9f9a047a"
+      }
+    },
+    {
+      "id": "64cd37a0fa5d38c861e2841f3c5adb06b41877849ab7f7698eac81473d9bf9e2",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:30:26.132Z",
+      "key": "[\"d841a939-4b2f-4956-9a78-71f820044094\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Мне нравится, уральский такой вайбик",
+        "scoredAt": "2026-10-16T17:30:26.132Z",
+        "userId": "d841a939-4b2f-4956-9a78-71f820044094"
+      }
+    },
+    {
+      "id": "17969806da525a16a513c6f9e013d17087b70806a8b747ccd7ff5e7b78e99aa7",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:24:04.864Z",
+      "key": "[\"eff1ca9c-70cf-45f0-87ec-152ffbe0baab\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну про баттл ты попал в точку. Жалко, что не сказал про хуевое судейство, не хватило этой строчки как по мне. А если без шуток, читаешь уверенно, но по тексту ничего интересного.",
+        "scoredAt": "2026-10-16T17:24:04.864Z",
+        "userId": "eff1ca9c-70cf-45f0-87ec-152ffbe0baab"
+      }
+    },
+    {
+      "id": "83f99280a444d3e0733867ebeca53abdf9308077f4505fc1a61be4e6fc839841",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:25:29.897Z",
+      "key": "[\"98515756-be98-4097-a96b-767854f4fc42\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Нормас, но скучновато. Стабильные 3. ",
+        "scoredAt": "2026-10-16T17:25:29.897Z",
+        "userId": "98515756-be98-4097-a96b-767854f4fc42"
+      }
+    },
+    {
+      "id": "fdc82cd46517e2f032035be59f47fe2654771a352966d7771e3bf260f0e7a31d",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:28:45.961Z",
+      "key": "[\"166b278a-3444-4abe-b172-324ccb49eed7\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Начал хорошо, но со второго квадрата посыпался. Перемудрил с исполнением. Как по мне лучше подавать попроще, но без косяков. Из-за исполнения строчки теряются и сильные моменты в тексте легко упустить.",
+        "scoredAt": "2026-10-16T17:28:45.961Z",
+        "userId": "166b278a-3444-4abe-b172-324ccb49eed7"
+      }
+    },
+    {
+      "id": "3a7af665af47ccd560d8c57324c27765e2f4e2545900d754f575198cfcc26031",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:26:30.076Z",
+      "key": "[\"9cab407c-19cd-46ce-adf6-4fbb2dc36159\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Сильнее оригинала по всем параметрам.",
+        "scoredAt": "2026-10-16T17:26:30.076Z",
+        "userId": "9cab407c-19cd-46ce-adf6-4fbb2dc36159"
+      }
+    },
+    {
+      "id": "5a9a9ac61d13c764e79b0cc5694a9e41b75ad4d80845c03896cccce57f839ccb",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:24:23.072Z",
+      "key": "[\"7838b953-dca4-40b5-865b-ec7278945cb6\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Рифмы вначале топ (нет). Потом разогнался маленько. Суммарно средний уровень показал. Крепкое 3. ",
+        "scoredAt": "2026-10-16T17:24:23.072Z",
+        "userId": "7838b953-dca4-40b5-865b-ec7278945cb6"
+      }
+    },
+    {
+      "id": "ce3893aa4c72f011c8f8c1868b76d81c59774117ac50f5e43e4e15840559255c",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:24:52.488Z",
+      "key": "[\"dad9cda1-d6bf-47de-9b46-3bf9b758a77c\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 5,
+        "comment": "Было бы странно, если бы сделал слабо.. пушка .. чё",
+        "scoredAt": "2026-10-16T17:24:52.488Z",
+        "userId": "dad9cda1-d6bf-47de-9b46-3bf9b758a77c"
+      }
+    },
+    {
+      "id": "6d630e6f072dff71e1e31f47cd6cb3fdf0450c5249eff40154c1ae0cda63e63a",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:32:00.156Z",
+      "key": "[\"8da8d9da-c3ed-46ff-be3e-29630c01dba8\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T17:32:00.156Z",
+        "userId": "8da8d9da-c3ed-46ff-be3e-29630c01dba8"
+      }
+    },
+    {
+      "id": "3c1c81db09cada33cdcd2e02a769c8fdc236934374f2fe1792c6e78111da9a8e",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:22:58.520Z",
+      "key": "[\"025340cb-8d34-4049-b163-33b7a117d5f1\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "Поднял оценку за неплохую конструкцию местами) но подача, совсем никуда не годится.. ( ",
+        "scoredAt": "2026-10-16T17:22:58.520Z",
+        "userId": "025340cb-8d34-4049-b163-33b7a117d5f1"
+      }
+    },
+    {
+      "id": "30ca402896902832381c7f5ac2ec11b9d2f71a2caa32f090bccf7530b35b81e0",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:28:06.956Z",
+      "key": "[\"5185eb56-ed75-485e-9c26-483e897c3ef2\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "Есть протяжки, но они все мимо нот.. может это было бы и в тему, как фишка, если бы не на протяжении всего трека продолжалось) ",
+        "scoredAt": "2026-10-16T17:28:06.956Z",
+        "userId": "5185eb56-ed75-485e-9c26-483e897c3ef2"
+      }
+    },
+    {
+      "id": "a9e7814ebc5b2407654271d297f0935ab4cca98f9ae9d13ef7f380c118607e69",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:28:02.414Z",
+      "key": "[\"992cdd91-af40-47ea-8dd2-4f0efcd154fb\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Ну прикольно, что-то в этом есть. Олдово но стильно, я бы глянул на тебя во втором. ",
+        "scoredAt": "2026-10-16T17:28:02.414Z",
+        "userId": "992cdd91-af40-47ea-8dd2-4f0efcd154fb"
+      }
+    },
+    {
+      "id": "c4549c5545cbdeba88d53e9e275793a994ace03185e1f72300647c02c8eb4123",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:26:43.989Z",
+      "key": "[\"5abd908c-d595-4228-8d8a-99995720c403\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 4,
+        "comment": "Есть что-то в этом.. слушается.  Но припев нужен ли был? Понравилось, что хорошо с созвучиями работаешь. ",
+        "scoredAt": "2026-10-16T17:26:43.989Z",
+        "userId": "5abd908c-d595-4228-8d8a-99995720c403"
+      }
+    },
+    {
+      "id": "4939a0af94300d1d82e330693fb4b67f2ae921af049a3913bfe0a03d92336691",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:25:03.539Z",
+      "key": "[\"673c7d2b-06e8-4f88-b41e-9c3a264c8dfe\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Поэтично",
+        "scoredAt": "2026-10-16T17:25:03.539Z",
+        "userId": "673c7d2b-06e8-4f88-b41e-9c3a264c8dfe"
+      }
+    },
+    {
+      "id": "85071b9a5451a20dabda334485bdffb0c9a9c0990f25d06c60eff794296f2cad",
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "sourceScoredAt": "2026-10-16T17:28:42.839Z",
+      "key": "[\"8f7847e1-87e9-4f91-8875-b3ae0d992921\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Прикольный текст, читаешь очень страно и нудно",
+        "scoredAt": "2026-10-16T17:28:42.839Z",
+        "userId": "8f7847e1-87e9-4f91-8875-b3ae0d992921"
+      }
     }
   ],
   "snapshots": [
@@ -126113,6 +126421,26 @@
           "index": 28.888572773117975,
           "favor": 18.12157791171328,
           "attention": -0.36203739665982354,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T17:32:25.658Z",
+      "exportedAt": "2026-10-16T17:32:25.658Z",
+      "scores": 11605,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.745244887992026,
+          "favor": 9.463758311414285,
+          "attention": 6.4944143332317354,
+          "respect": 6.787072243346008
+        },
+        "veterans": {
+          "index": 28.935330815754302,
+          "favor": 18.126891273380135,
+          "attention": -0.3205927156903476,
           "respect": 11.129032258064516
         }
       }
