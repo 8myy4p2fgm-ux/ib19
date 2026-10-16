@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T00:02:21.262Z",
+  "exportedAt": "2026-10-16T00:12:39.632Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3040,7 +3040,14 @@
       "forum_name": "VRS",
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
       "veteran": true,
-      "scores": [],
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T00:04:52.475Z"
+        }
+      ],
       "current": true
     },
     {

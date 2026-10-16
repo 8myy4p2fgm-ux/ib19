@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T00:02:21.262Z",
-  "exportedAt": "2026-10-16T00:02:21.262Z",
-  "runId": "2026-10-16T00:02:21.262Z",
-  "forumExportedAt": "2026-10-16T00:02:21.262Z",
+  "lastSuccessfulAt": "2026-10-16T00:12:39.632Z",
+  "exportedAt": "2026-10-16T00:12:39.632Z",
+  "runId": "2026-10-16T00:12:39.632Z",
+  "forumExportedAt": "2026-10-16T00:12:39.632Z",
   "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3281,
     "forum": 94,
-    "scores": 10545,
+    "scores": 10577,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 7
   },
   "collection": {
-    "httpRequests": 14,
+    "httpRequests": 34,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 32,
     "mode": "incremental",
     "participants": 3281,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 12,
-    "logicalRequests": 14,
-    "durationMs": 13913,
-    "scoresBefore": 10533,
-    "scoresAfter": 10545,
-    "fullBaselineRequests": 3126,
-    "requestReductionPercent": 99.55214331413947,
+    "participantsWithNewScores": 32,
+    "changedParticipants": 32,
+    "logicalRequests": 34,
+    "durationMs": 34378,
+    "scoresBefore": 10545,
+    "scoresAfter": 10577,
+    "fullBaselineRequests": 3130,
+    "requestReductionPercent": 98.91373801916933,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,108 +83,108 @@
       "feed": [
         {
           "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Джама Дагни",
-          "comment": "Уныло(",
-          "scoredAt": "2026-10-16T00:01:27.591Z"
-        },
-        {
-          "judgeName": "Paradise",
           "score": 3,
-          "artist": "Александр Кинг",
-          "comment": "Хорошая подача, стилек формируется, успехов",
-          "scoredAt": "2026-10-16T00:00:27.245Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "МЦ ТЦ",
-          "comment": "ОК.",
-          "scoredAt": "2026-10-16T00:00:20.599Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Пыха Пулемёт",
-          "comment": "Ой, как это необычно и атмосферно! ",
-          "scoredAt": "2026-10-15T23:59:58.979Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Иван Аура",
-          "comment": "Хорошахя демка",
-          "scoredAt": "2026-10-15T23:59:20.141Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "АВЕРЪ",
+          "artist": "Тримм",
           "comment": "",
-          "scoredAt": "2026-10-15T23:58:42.049Z"
+          "scoredAt": "2026-10-16T00:11:37.738Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 4,
-          "artist": "one of three",
-          "comment": "Где-то икает один Пирокинезис",
-          "scoredAt": "2026-10-15T23:58:19.555Z"
+          "artist": "KONGA",
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-16T00:11:04.877Z"
         },
         {
           "judgeName": "Paradise",
           "score": 2,
-          "artist": "ЭФИРР",
-          "comment": "Что с записью? Читка слабая",
-          "scoredAt": "2026-10-15T23:58:16.162Z"
+          "artist": "РСМ",
+          "comment": "Навалил столько текста, но даже не за что уцепиться. Просто очень",
+          "scoredAt": "2026-10-16T00:10:47.339Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "INIMIR",
-          "comment": "\nОбычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.\n",
-          "scoredAt": "2026-10-15T23:57:28.258Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "RORY",
-          "comment": "Для отбора прям хорошо! Дальше, придумывай оригинальную идею песни, без этого будет тяжело",
-          "scoredAt": "2026-10-15T23:57:06.384Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Proces38",
-          "comment": "Считаю тебя одним из самых сильных мс, кто до сих пор предан \"мелким/средним\" онлайн баттлам. Давай, не подкачай дальше.",
-          "scoredAt": "2026-10-15T23:55:51.962Z"
+          "artist": "Kidanuza1000_K1k",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:10:45.300Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 4,
-          "artist": "DJ REZINOVЫY MC",
-          "comment": "Знаешь в чем парадокс?! Эта хуйня в разы интереснее, чем однообразная и пластмассовая хуита 40% участников здесь)",
-          "scoredAt": "2026-10-15T23:53:44.892Z"
+          "artist": "hiphopelander",
+          "comment": "стильно",
+          "scoredAt": "2026-10-16T00:10:29.351Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "Ахой",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:10:10.675Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "Парень Кати",
+          "comment": "Готов пропускать во 2 уже за первые 2 строчки! Прикольно!",
+          "scoredAt": "2026-10-16T00:09:59.836Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "MC_HEMORR",
-          "comment": "Иебе всего 18, а уже строки \"Не нацелен я на запад, в прицеле у меня нато\"\n\nПиздец, братан. ",
-          "scoredAt": "2026-10-15T23:52:07.448Z"
+          "artist": "SVNCTUM239",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:09:21.780Z"
         },
         {
           "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Rudsan",
-          "comment": "Не знаю, что ты сделал, но меня разъебало в щи!",
-          "scoredAt": "2026-10-15T23:50:46.124Z"
+          "score": 2,
+          "artist": "Murakato",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:09:08.758Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Polidiliveri",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:08:55.454Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "Under96",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:08:27.804Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "polumore",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:08:27.573Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Рома Но Не Суровый",
-          "comment": "Молодец, что знаешь ники рэпперов!",
-          "scoredAt": "2026-10-15T23:49:39.325Z"
+          "artist": "DanvoL",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:08:11.838Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "БОРЯ ПИНК",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:07:59.965Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "Влад Шевченко SomeOneMe",
+          "comment": "",
+          "scoredAt": "2026-10-16T00:07:39.328Z"
         }
       ]
     }
