@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T21:41:52.510Z",
+  "exportedAt": "2026-10-16T21:51:42.557Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -26698,8 +26698,14 @@
     },
     {
       "userId": "d3d6952c-8206-4b2a-9358-065226ecca76",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Что вообще значат первые 2 строчки ?))))  \"ведь понимаю то что пацаны , я будто в омуте\" понимаешь то что пацаны что ?!)))))  будто мысль после пацанов обрывается )\nНу в целом странный трек, исполнение будто мамка ща может зайти и напугать, но трек надо сдать .. По мысли В ЦЕЛОМ не плохо, но исполнение хромает , авансом тройка",
+          "scoredAt": "2026-10-16T21:49:12.210Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 2,
@@ -26725,7 +26731,7 @@
           "scoredAt": "2026-10-14T15:25:41.552Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:22:26.568Z",
+      "fetchedAt": "2026-10-16T21:51:42.557Z",
       "current": true,
       "artistName": "S$hane",
       "artistSlug": "s-hane"
@@ -87128,8 +87134,14 @@
     },
     {
       "userId": "dad9cda1-d6bf-47de-9b46-3bf9b758a77c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Старичок, ты чего тут делаешь в первом раунде.?! Тебя там дальше заждались ",
+          "scoredAt": "2026-10-16T21:42:12.766Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 5,
@@ -87155,7 +87167,7 @@
           "scoredAt": "2026-10-10T01:20:31.088Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "fetchedAt": "2026-10-16T21:51:42.557Z",
       "current": true,
       "artistName": "zoo in space",
       "artistSlug": "zoo-in-space"
@@ -89860,8 +89872,14 @@
     },
     {
       "userId": "8f9032fc-a7be-4edd-aeed-6be82de8b586",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Скучно, но раз уж у тебя праздник, то лови проходной ",
+          "scoredAt": "2026-10-16T21:51:00.990Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -89881,7 +89899,7 @@
           "scoredAt": "2026-10-13T17:49:37.842Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:52:25.764Z",
+      "fetchedAt": "2026-10-16T21:51:42.557Z",
       "current": true,
       "artistName": "Kidanuza1000_K1k",
       "artistSlug": "kidanuza1000-k1k"
