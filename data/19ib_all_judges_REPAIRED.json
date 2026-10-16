@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T08:12:20.030Z",
+  "exportedAt": "2026-10-16T08:22:20.820Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -6735,8 +6735,14 @@
     },
     {
       "userId": "d7b54345-4376-4886-bbbe-e17e2a7746d1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "3 за работу над текстом, а так еще рано, оч слабо звучишь",
+          "scoredAt": "2026-10-16T08:19:31.486Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -6756,7 +6762,7 @@
           "scoredAt": "2026-08-30T12:56:56.675Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "матумат",
       "artistSlug": "matumat"
@@ -15229,8 +15235,14 @@
     },
     {
       "userId": "b3db6542-bbf9-47df-b297-b1b3f8f44266",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Нормальный текстец, неплохо по ритмике, но, к сожалению, по качеству и дикции не везде идеально. В целом работа производит впечатление, есть угарные моменты и точно легко проходить отбор должна",
+          "scoredAt": "2026-10-16T08:15:53.074Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -15238,7 +15250,7 @@
           "scoredAt": "2026-10-15T11:00:52.963Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:02:58.094Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "Ворон МЦ",
       "artistSlug": "voron-mc"
@@ -35670,8 +35682,14 @@
     },
     {
       "userId": "48b49a05-e832-4e41-affe-e893acd3a146",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "По ритмике норм местами, но по дикции не везде понравилось. Текст неплохой, точно 4 тут есть за разнообразие и подход не самый обычно. Качество не помешало бы. ",
+          "scoredAt": "2026-10-16T08:14:18.870Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -35685,7 +35703,7 @@
           "scoredAt": "2026-09-23T11:47:36.319Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "YVRD$",
       "artistSlug": "yvrd"
@@ -35730,8 +35748,14 @@
     },
     {
       "userId": "6d6b8f1e-10b4-4b7e-9616-2702585531c5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Похоже рычишь на сида",
+          "scoredAt": "2026-10-16T08:20:16.906Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -35751,7 +35775,7 @@
           "scoredAt": "2026-09-11T12:04:09.451Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "SoWW13",
       "artistSlug": "soww13"
@@ -46011,8 +46035,14 @@
     },
     {
       "userId": "21a245ea-bd9a-45b4-baf7-3381060e6f20",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Нормально по тексту, но довольно просто по ритмике, по исполнению в целом. Не производит какого-то мощного впечатления, хоть и считано и написано неплохо.",
+          "scoredAt": "2026-10-16T08:13:11.994Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -46038,7 +46068,7 @@
           "scoredAt": "2026-10-02T11:41:13.535Z"
         }
       ],
-      "fetchedAt": "2026-10-15T20:22:11.367Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "ВПОРЯДЕ",
       "artistSlug": "vporyade"
@@ -46215,8 +46245,14 @@
     },
     {
       "userId": "6987fc26-bc4c-42c3-9bc4-fda8c347481d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "Есть хотя бы перепады по настроениям, по ритмике - это позитивный момент. Но работа не звучит целостно и увесисто по исполнению, к сожалению. Каких-то вау-эффектов по тексту тоже не случалось. Просто неплохо, но и не кайфец.",
+          "scoredAt": "2026-10-16T08:22:10.658Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -46236,7 +46272,7 @@
           "scoredAt": "2026-09-13T15:56:22.623Z"
         }
       ],
-      "fetchedAt": "2026-10-14T22:52:27.606Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "ImmJinX",
       "artistSlug": "immjinx"
@@ -53967,8 +54003,14 @@
     },
     {
       "userId": "f202515e-4965-4e0a-b098-5b6db815c060",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "К сожалению, простенько как по рифме, так и по исполнению. Не хватает разнообразия, какого-нибудь полёта фантазии, чего-то необычного.",
+          "scoredAt": "2026-10-16T08:20:34.607Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -53994,7 +54036,7 @@
           "scoredAt": "2026-09-24T12:51:48.786Z"
         }
       ],
-      "fetchedAt": "2026-10-16T04:32:13.982Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "MZ1",
       "artistSlug": "mz1"
@@ -54606,22 +54648,6 @@
       "current": true,
       "artistName": "land of hope",
       "artistSlug": "land-of-hope"
-    },
-    {
-      "userId": "54a75e7d-7c37-4c11-b7ca-6691a35ac8b1",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "comment": "Пххахахах панч про борна крутой))) круто что еще и произнёс его 🤣🤣\nТречок бодрый, сторителлинг скучноватый по сути, но за счет подачи и смесью рифмовки с мини кеками в целом нормально 👌 особенно для первого отбора, лови 5 но с большим минусом, можно ж было ещё строчек по типу борна интересных накидать, но ты видимо на рифмовку упор сделал",
-          "scoredAt": "2026-10-15T23:20:57.316Z"
-        }
-      ],
-      "fetchedAt": "2026-10-15T23:22:14.268Z",
-      "current": true,
-      "artistName": "ripvanwinkle",
-      "artistSlug": "ripvanwinkle"
     },
     {
       "userId": "a1ae8c34-fdc5-40c4-83e1-8ffb325a658e",
@@ -57948,8 +57974,14 @@
     },
     {
       "userId": "88105496-c826-4caf-98b1-40c311105c0b",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "Максимально прокачанный, на пике творческой формы залетел, этот факт радует. Надеюсь, азарт не настолько растерян, чтобы отказаться от мысли зайти тут максимально далеко. Очень ценный баттл-игрок пришел, рада. ",
+          "scoredAt": "2026-10-16T08:20:16.925Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -57957,7 +57989,7 @@
           "scoredAt": "2026-10-10T15:18:39.110Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "Ваня Вульф (Calvary Cross)",
       "artistSlug": "vanya-vulf-calvary-cross"
@@ -63165,8 +63197,14 @@
     },
     {
       "userId": "a20f3f53-c9a4-49c1-a732-1f3a6b45255c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Голос слышно, что прикольный и харизматичный, но с таким звуком он утонул и превратился в шум. ",
+          "scoredAt": "2026-10-16T08:12:28.145Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -63180,7 +63218,7 @@
           "scoredAt": "2026-10-15T18:19:27.907Z"
         }
       ],
-      "fetchedAt": "2026-10-15T21:12:25.842Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "DИ это #lamp_gang",
       "artistSlug": "di-eto-lamp-gang"
@@ -65820,8 +65858,14 @@
     },
     {
       "userId": "184e0e7b-f05d-4fe9-90d3-9a9ca5b4a0fd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Прикольный вайб, техничное исполнение, качественный трек. ",
+          "scoredAt": "2026-10-16T08:15:37.092Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -65835,7 +65879,7 @@
           "scoredAt": "2026-10-12T20:22:34.024Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "Раймер",
       "artistSlug": "raymer"
@@ -81584,8 +81628,14 @@
     },
     {
       "userId": "47c0ca35-6431-4f8b-b3f4-5b2205c31dff",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Необычный стилёк. Расшевелить мозги - нормас тема, в трэчке есть работа над текстом, есть работа над нестандартным исполнением. Без особых вау-эффектов, но крепко сделано",
+          "scoredAt": "2026-10-16T08:19:45.635Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -81605,7 +81655,7 @@
           "scoredAt": "2026-10-02T18:57:02.129Z"
         }
       ],
-      "fetchedAt": "2026-10-15T17:32:18.605Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "MadGuy",
       "artistSlug": "madguy"
@@ -85508,8 +85558,14 @@
     },
     {
       "userId": "750ff312-243f-4a4d-a1c1-a560462ef81a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Ну раз во-второй не собираешься... ",
+          "scoredAt": "2026-10-16T08:21:30.559Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -85523,7 +85579,7 @@
           "scoredAt": "2026-10-13T22:47:54.513Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:22:29.407Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "Некто в сером",
       "artistSlug": "nekto-v-serom"
@@ -87796,8 +87852,14 @@
     },
     {
       "userId": "a533b642-00de-43c1-ba89-7d956a7e6d8a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Нестандартно по тексту, не очень просто по ритмике, поэтому всё-таки тут 3,5. Не везде нравится реализация, качество трэка.",
+          "scoredAt": "2026-10-16T08:18:45.152Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -87811,7 +87873,7 @@
           "scoredAt": "2026-10-14T11:03:53.546Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:42:17.665Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "Stas L'artiste",
       "artistSlug": "stas-l-artiste"
@@ -92304,6 +92366,22 @@
       "artistSlug": "maks-medved"
     },
     {
+      "userId": "54a75e7d-7c37-4c11-b7ca-6691a35ac8b1",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Пххахахах панч про борна крутой))) круто что еще и произнёс его 🤣🤣\nТречок бодрый, сторителлинг скучноватый по сути, но за счет подачи и смесью рифмовки с мини кеками в целом нормально 👌 особенно для первого отбора, лови 5 но с большим минусом, можно ж было ещё строчек по типу борна интересных накидать, но ты видимо на рифмовку упор сделал",
+          "scoredAt": "2026-10-15T23:20:57.316Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T23:22:14.268Z",
+      "current": true,
+      "artistName": "ripvanwinkle",
+      "artistSlug": "ripvanwinkle"
+    },
+    {
       "userId": "693d473e-2dbd-4bd7-b445-66b70fb819c2",
       "scoredCount": 0,
       "scores": [],
@@ -94806,8 +94884,14 @@
     },
     {
       "userId": "71977627-b70c-490a-99ec-8a9f3a8c6628",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Каша",
+          "scoredAt": "2026-10-16T08:12:57.522Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -94833,7 +94917,7 @@
           "scoredAt": "2026-10-12T16:30:50.562Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:42:30.532Z",
+      "fetchedAt": "2026-10-16T08:22:20.820Z",
       "current": true,
       "artistName": "MC-ID",
       "artistSlug": "mc-id"
