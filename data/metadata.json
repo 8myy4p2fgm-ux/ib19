@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T23:11:48.787Z",
-  "exportedAt": "2026-10-16T23:11:48.787Z",
-  "runId": "2026-10-16T23:11:48.787Z",
-  "forumExportedAt": "2026-10-16T23:11:48.787Z",
+  "lastSuccessfulAt": "2026-10-16T23:31:48.605Z",
+  "exportedAt": "2026-10-16T23:31:48.605Z",
+  "runId": "2026-10-16T23:31:48.605Z",
+  "forumExportedAt": "2026-10-16T23:31:48.605Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11971,
+    "scores": 11973,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 4067,
-    "scoresBefore": 11970,
-    "scoresAfter": 11971,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4141,
+    "scoresBefore": 11971,
+    "scoresAfter": 11973,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.90636704119851,
+    "requestReductionPercent": 99.87515605493134,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Tixtinbix",
+          "comment": "Давай мы тебя в самом начале сольём, чтоб ты всех наших топов не выебал и не устроил переворот в рэп игре? ",
+          "scoredAt": "2026-10-16T23:28:30.299Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "Misstherecord",
+          "comment": "За механика с разводным ключом я минусанул тебе 1920 баллов ровно столько же как и в каком году его придумали.\nСыровато, сынуля, но ты молодец ! Читать умеешь в принципе.  Приятный сторителлинг, будто сценарий прочитал или тизер к фильму. Но нало тебе что-то делать с панчлайнами, потанцевал в тебе есть но его надо резко тебе сейчас развивать , потому что дальше 1 раунда такое уже не прокатит .",
+          "scoredAt": "2026-10-16T23:22:45.956Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -173,20 +187,6 @@
           "artist": "becap",
           "comment": "Очень неуверенно стельши и не особо ровно, бит красивый",
           "scoredAt": "2026-10-16T22:22:51.186Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "диссарик",
-          "comment": "Заруинил себя второй частью ",
-          "scoredAt": "2026-10-16T22:21:09.912Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "CHC[КХК]",
-          "comment": "Я вроде уши продолбил себе на всякий случай, но что-то с дикцией , ощущение что это какой-то чешский рэп, нарифмовал ты конечно всякого тут красиво, но говорить челу что у него ОСЛАБЛЕН азарт ? Это что за предъява вообще ? Букмекеры залогиньтесь )))  оружие пожоще лозы - воу воу полегче , это уже опасно ))) рифмаешь красиво но строчки беззубые ",
-          "scoredAt": "2026-10-16T22:19:09.380Z"
         }
       ]
     }
