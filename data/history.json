@@ -119240,6 +119240,328 @@
         "scoredAt": "2026-10-16T16:41:48.783Z",
         "userId": "1f97636f-5de3-47c1-b334-26b3480145b5"
       }
+    },
+    {
+      "id": "47fc60275ae6840f86e20d3c29979851cca54c4e743c0ee5a27b77e61f203091",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:45:34.708Z",
+      "key": "[\"833cb4a3-98f8-4f5a-876a-66c99a51f488\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Скудно, примитивно, поверхностно, рифме не хватает остроты. Читка вяловата, без эффектов было бы вообще не оч",
+        "scoredAt": "2026-10-16T16:45:34.708Z",
+        "userId": "833cb4a3-98f8-4f5a-876a-66c99a51f488"
+      }
+    },
+    {
+      "id": "11faeef59690006ef88f5c32bfca4049a3e3e3b36b736bc6ac22ba1403fac758",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:44:12.296Z",
+      "key": "[\"b4e0962e-7345-4198-958f-1110522a34a0\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Скудно, половина квадратов, но как песня покатит, однако, это не канонично совсем и хз зачем пускать дальше, не вывезешь в противостоянии",
+        "scoredAt": "2026-10-16T16:44:12.296Z",
+        "userId": "b4e0962e-7345-4198-958f-1110522a34a0"
+      }
+    },
+    {
+      "id": "72d011ecaa20fe094f58e663e412b0db98a8d3dc66d7910ad17d589eb113ab8d",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:52:03.310Z",
+      "key": "[\"12f0e2c3-e2fc-4c08-8c42-a02c07aa741d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Я не знаю, на что ты рассчитывал. Хотя мог бы.",
+        "scoredAt": "2026-10-16T16:52:03.310Z",
+        "userId": "12f0e2c3-e2fc-4c08-8c42-a02c07aa741d"
+      }
+    },
+    {
+      "id": "9e77a3fad3b4b3c27a3a65f70e597f56815486d28745cd953c7430698cc1919b",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:49:28.621Z",
+      "key": "[\"9301617e-35c1-4297-a1e2-61162292cad6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не хватило смены флоу, в целом по напору пойдет",
+        "scoredAt": "2026-10-16T16:49:28.621Z",
+        "userId": "9301617e-35c1-4297-a1e2-61162292cad6"
+      }
+    },
+    {
+      "id": "5cdd105a74d5794911467642639b821c70c5475f713b636f6e3be65fe6ee74e0",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:45:27.647Z",
+      "key": "[\"d02a97d0-5a38-4cad-969a-605ed453ef31\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-16T16:45:27.647Z",
+        "userId": "d02a97d0-5a38-4cad-969a-605ed453ef31"
+      }
+    },
+    {
+      "id": "0fa47507e3ed3df1f66546bf046980c747b4c79aa9764be6eacb16f27d840a11",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:52:19.248Z",
+      "key": "[\"5ef06ea1-f2bb-4836-ab41-1d9ef45765d5\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 5,
+        "comment": "Напихал рифм, конечно, знатно. Есть плотность, есть на сквозных. Ммм ну ладно, 5 с минусом, сначала думал поставить 4, читка тоже неплоха",
+        "scoredAt": "2026-10-16T16:52:19.248Z",
+        "userId": "5ef06ea1-f2bb-4836-ab41-1d9ef45765d5"
+      }
+    },
+    {
+      "id": "d54cb6783cc56dce5bac178bf3cf53c10ad6c9880d0fe6bf931523129b8345e8",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:51:42.061Z",
+      "key": "[\"f5f273c3-7c22-46b5-8e49-708038f3c5c8\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Пишешь хорошо, читаешь средне. Суммарно пока крепкая тройка.  Поизысканнее бы. ",
+        "scoredAt": "2026-10-16T16:51:42.061Z",
+        "userId": "f5f273c3-7c22-46b5-8e49-708038f3c5c8"
+      }
+    },
+    {
+      "id": "1809cb9723094bf12a33904f4ec61b378448e14d4764bbd2ded711b84dabd6cd",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:43:12.204Z",
+      "key": "[\"5d7ae9c4-4715-4d09-b72a-33432f9b0295\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 5,
+        "comment": "Жирно",
+        "scoredAt": "2026-10-16T16:43:12.204Z",
+        "userId": "5d7ae9c4-4715-4d09-b72a-33432f9b0295"
+      }
+    },
+    {
+      "id": "61943513dc223d61219269974e916b82107b859b39a07e5beafd5cf4b09517a4",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:47:54.632Z",
+      "key": "[\"1211a1a2-9cff-4ef4-bf17-a118fc4de63c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не хватило немного напора в читке, дефолт",
+        "scoredAt": "2026-10-16T16:47:54.632Z",
+        "userId": "1211a1a2-9cff-4ef4-bf17-a118fc4de63c"
+      }
+    },
+    {
+      "id": "f4a579d2ea8aabbf57ddea0a36f7b6588797f957faf55f087878d2cf9cfee617",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:48:58.009Z",
+      "key": "[\"b3dd681a-d144-4721-b7a6-2e6fe51e7223\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "про локтацию прикольно,  ну и про абьюзера наверное самая яркая строчка. \nесть приколюхи у тебя по типу гетров, беременность. зачитал бодро, хорошо на бите сидишь",
+        "scoredAt": "2026-10-16T16:48:58.009Z",
+        "userId": "b3dd681a-d144-4721-b7a6-2e6fe51e7223"
+      }
+    },
+    {
+      "id": "d9f8d5275173bb32c9135464763a7a2846c742c74a928918314d50c2be4ccc52",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:51:47.390Z",
+      "key": "[\"ffabddfd-7dbf-4e9e-82c3-bcc1ea7983cc\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Вкусно",
+        "scoredAt": "2026-10-16T16:51:47.390Z",
+        "userId": "ffabddfd-7dbf-4e9e-82c3-bcc1ea7983cc"
+      }
+    },
+    {
+      "id": "7ac264e7f2f2f1ddac8eeb7f9c38f2adf06b34b50b4860584baba3e900c61630",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:50:29.368Z",
+      "key": "[\"6159783a-38b5-4e81-a270-6baf2fec1529\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Симпатичный битосик. Ура, кто-то раскрывает тему, а не тупо упоминает. Читка скучная, конечно ",
+        "scoredAt": "2026-10-16T16:50:29.368Z",
+        "userId": "6159783a-38b5-4e81-a270-6baf2fec1529"
+      }
+    },
+    {
+      "id": "6fbad6adff969143aa23eb6633240182c3435eeb1b4522ee18eb6847b69d0309",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:49:36.503Z",
+      "key": "[\"c9a4994a-d08b-4c79-8b7a-19e94b266eb5\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Прикольный стиль. Текст местами проседает только. И как будто в некоторых моментах слишком заигрался с ритмикой.",
+        "scoredAt": "2026-10-16T16:49:36.503Z",
+        "userId": "c9a4994a-d08b-4c79-8b7a-19e94b266eb5"
+      }
+    },
+    {
+      "id": "b734d8dc1c90eb665c92840bb5c9a9aef17a70788f39ba3e9e3b2c0c11572eac",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:44:22.638Z",
+      "key": "[\"f9629bae-07c9-4146-aa1e-d0d30610fe84\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Вайбулечно",
+        "scoredAt": "2026-10-16T16:44:22.638Z",
+        "userId": "f9629bae-07c9-4146-aa1e-d0d30610fe84"
+      }
+    },
+    {
+      "id": "05ad2061e90f160d47757c598cece50a99d04301a4423c10264332e73b0ea9c1",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:50:41.643Z",
+      "key": "[\"d6263aa5-7890-4b93-98d5-ee1b1655510c\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "про турцию смешно )))\nостальное таксебе. в целом проходная работа. но давай побольше пэнчиков удачных!\nКЕКный ты персонаж видимо",
+        "scoredAt": "2026-10-16T16:50:41.643Z",
+        "userId": "d6263aa5-7890-4b93-98d5-ee1b1655510c"
+      }
+    },
+    {
+      "id": "0c128170c43f74849ef1cdf37f809740a20a10fc6855e1336d4e33a894de4591",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:43:44.028Z",
+      "key": "[\"b300c2c4-dd12-4026-846b-f74741df0c65\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Блин припев немного не дожал вайбом до высшего балла",
+        "scoredAt": "2026-10-16T16:43:44.028Z",
+        "userId": "b300c2c4-dd12-4026-846b-f74741df0c65"
+      }
+    },
+    {
+      "id": "744be22cf06784df7b51749204af7c997e6be39158f1ad2287bde8d9a2d1d48e",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:46:19.891Z",
+      "key": "[\"2e2e1287-057d-43c8-befb-bfd257698953\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Сведос подкачал, ну и сбивки странные в читке",
+        "scoredAt": "2026-10-16T16:46:19.891Z",
+        "userId": "2e2e1287-057d-43c8-befb-bfd257698953"
+      }
+    },
+    {
+      "id": "380081b14bc491e3ec4b4b3cf2df514953e620f0de3dfc971798630c360716e6",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:48:00.329Z",
+      "key": "[\"b8726f92-a543-4a37-9c49-79ac8c7a774e\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Рифмабельно, квадратно, но рифмабельно весьма. Ну, в принципе, это улыбает, не сказать, что прям потешно, но покатит ",
+        "scoredAt": "2026-10-16T16:48:00.329Z",
+        "userId": "b8726f92-a543-4a37-9c49-79ac8c7a774e"
+      }
+    },
+    {
+      "id": "f3c4c603a45eab43dd5a06a0ce8e6ff5fcfbdf57f249d80bb9118a71e6583f78",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:49:23.620Z",
+      "key": "[\"4d50a36a-d60b-468d-9c36-115e0aea67f2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Тема, тема, тема",
+        "scoredAt": "2026-10-16T16:49:23.620Z",
+        "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2"
+      }
+    },
+    {
+      "id": "7c2088e328743f3b86288c717b2e438805760431c578cf1f08eb1c8faf693170",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:50:57.586Z",
+      "key": "[\"b119a602-8f24-4c36-9d61-834ffd3b09ed\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Бля с авансом)",
+        "scoredAt": "2026-10-16T16:50:57.586Z",
+        "userId": "b119a602-8f24-4c36-9d61-834ffd3b09ed"
+      }
+    },
+    {
+      "id": "1536a7a3d5b4de076addd73ca018f6c32c632192805befda483a0402d89a8198",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:50:58.398Z",
+      "key": "[\"1a67fa20-dacc-485b-b14e-629543430e45\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Прости что долго стартовали, но тоже есть вопрос где звук? в целом опять же чувство что трек наскоряк",
+        "scoredAt": "2026-10-16T16:50:58.398Z",
+        "userId": "1a67fa20-dacc-485b-b14e-629543430e45"
+      }
+    },
+    {
+      "id": "d097ae57d6c5722b15e27cefebd3bc66608e9b66f1420ce477bea6023fb79651",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:45:54.761Z",
+      "key": "[\"ccc4e26d-2e6e-459f-80c9-e6ec0e798bc0\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "хорошо зачитал, хорошо звучишь с биточком. но по строчкам ничего не цепануло",
+        "scoredAt": "2026-10-16T16:45:54.761Z",
+        "userId": "ccc4e26d-2e6e-459f-80c9-e6ec0e798bc0"
+      }
+    },
+    {
+      "id": "e47aa793126723a10bf1754e1d4c54b034e3df313f4491de668dcb8551336dbb",
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "sourceScoredAt": "2026-10-16T16:47:27.322Z",
+      "key": "[\"d7aa5a65-da04-4144-87eb-d53775b831fb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T16:47:27.322Z",
+        "userId": "d7aa5a65-da04-4144-87eb-d53775b831fb"
+      }
     }
   ],
   "snapshots": [
@@ -124899,6 +125221,26 @@
           "index": 28.708140080691596,
           "favor": 18.081583588022156,
           "attention": -0.5024757653950763,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T16:52:39.670Z",
+      "exportedAt": "2026-10-16T16:52:39.670Z",
+      "scores": 11525,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.577611729641276,
+          "favor": 9.353588355576221,
+          "attention": 6.468298183225359,
+          "respect": 6.755725190839694
+        },
+        "veterans": {
+          "index": 28.750930625233458,
+          "favor": 18.082115038013068,
+          "attention": -0.4602166708441251,
           "respect": 11.129032258064516
         }
       }
