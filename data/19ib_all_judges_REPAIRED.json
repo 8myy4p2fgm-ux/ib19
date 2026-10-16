@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T09:32:24.786Z",
+  "exportedAt": "2026-10-16T09:42:27.091Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -2839,8 +2839,14 @@
     },
     {
       "userId": "6233cd87-3596-496e-b573-30938692f6a8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Нормально по ритмике, неплохо по лексике. Разнообразие срабатывает, выбор битоса вполне оправдан. Супер вау-эффектов не было, но нормас.",
+          "scoredAt": "2026-10-16T09:33:49.409Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -2854,7 +2860,7 @@
           "scoredAt": "2026-10-01T20:17:09.290Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Prophet",
       "artistSlug": "prophet"
@@ -3489,8 +3495,14 @@
     },
     {
       "userId": "1d5be9d6-12eb-4f32-9a74-cbd6ec822b4f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Мне понравилось нестандартностью, но местами по исполнению как-то не идеально, бэки подвели иногда, иногда хочется более жирного звучания. Но работа хороша и однозначно идти дальше должна, мне кажется",
+          "scoredAt": "2026-10-16T09:37:13.909Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -3504,7 +3516,7 @@
           "scoredAt": "2026-08-30T20:09:38.034Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Поскриптум",
       "artistSlug": "poskriptum"
@@ -30119,9 +30131,16 @@
     },
     {
       "userId": "d786f5fb-000d-48e4-b271-c7427dbbd728",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "История вполне себе удерживает внимание моё, но исполнено не на каком-то высочайшем уровне. Неплохая работа, которой не хватает отточенности стилька и, возможно, звучания ",
+          "scoredAt": "2026-10-16T09:35:54.771Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "BOGOMOL",
       "artistSlug": "bogomol"
@@ -40960,8 +40979,14 @@
     },
     {
       "userId": "31dd76bd-dd84-4ac3-972e-0b6786321a1c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Рабочая схема, когда-то Стим в таком ключе охуенно раздавал на бателе. Понравилось по разнообразию, по панчикам. ",
+          "scoredAt": "2026-10-16T09:32:54.606Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -40981,7 +41006,7 @@
           "scoredAt": "2026-09-28T14:09:03.506Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:42:12.507Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "EDMAN [JDM]",
       "artistSlug": "edman-jdm"
@@ -41924,8 +41949,14 @@
     },
     {
       "userId": "2ca3b0db-17c7-4d3d-b8dc-9569567f5e72",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Заебись по тексту. В конце Виталя залетел нихуёво. Работа точно заслуживает проход дальше",
+          "scoredAt": "2026-10-16T09:42:03.867Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -41951,7 +41982,7 @@
           "scoredAt": "2026-10-07T17:16:26.097Z"
         }
       ],
-      "fetchedAt": "2026-10-16T04:22:09.740Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Парень Кати",
       "artistSlug": "paren-kati"
@@ -47401,8 +47432,14 @@
     },
     {
       "userId": "5d7ae9c4-4715-4d09-b72a-33432f9b0295",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Стилёк хорош, разворот по тексту пиздец радует. Топовая работа",
+          "scoredAt": "2026-10-16T09:40:04.637Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -47422,7 +47459,7 @@
           "scoredAt": "2026-09-19T22:35:37.648Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:42:27.969Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Саша Паул (ЦИТРАМОН)",
       "artistSlug": "sasha-paul-citramon"
@@ -59688,8 +59725,14 @@
     },
     {
       "userId": "c3383dab-52e8-4d26-b174-8ea50e244f66",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "comment": "По тексту есть что-то крутое и нестандартное, но, к сожалению, очень сложно воспринимается. Качества реализации пиздецки не хватает.",
+          "scoredAt": "2026-10-16T09:40:49.031Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -59709,7 +59752,7 @@
           "scoredAt": "2026-09-27T17:58:09.542Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Ахой",
       "artistSlug": "ahoy"
@@ -61141,8 +61184,14 @@
     },
     {
       "userId": "3e3ff3c2-0755-48ab-869c-804a580c642b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Не прям филигранная реализация, но стилёк и текст порадовали. Неплохо",
+          "scoredAt": "2026-10-16T09:34:44.251Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -61162,7 +61211,7 @@
           "scoredAt": "2026-10-13T17:11:08.377Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:42:13.700Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "егор горе",
       "artistSlug": "egor-gore"
@@ -65899,8 +65948,14 @@
     },
     {
       "userId": "955285f2-7132-4ee3-a2e4-b48fdfbe999c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Я не кончил от присутствия акростиха, но на фоне слабой текстово отборки, в которой обилие квадратных реперов с репрезентами в лоб, это хоть что-то. И ты тоже квадратами закидал нас)",
+          "scoredAt": "2026-10-16T09:41:26.907Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -65926,7 +65981,7 @@
           "scoredAt": "2026-09-17T14:44:47.903Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:52:23.240Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Масэй",
       "artistSlug": "masey"
@@ -68787,8 +68842,14 @@
     },
     {
       "userId": "ebf02341-4574-40c3-9a79-753293b8b405",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "comment": "Уф, в задумке это было ооооочень интересно, но реализация в целом обыкновенная. Да и квадратишь. Как будто бы я видел, что ты можешь гораздо лучше. Ладно, за задумку, за то, что бит грамотно подобран/написан (?) – изменения настроения бита к месту, сломы эти все по смыслу подходят прям. Но это 4 с минусом.",
+          "scoredAt": "2026-10-16T09:34:55.693Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -68814,7 +68875,7 @@
           "scoredAt": "2026-09-24T14:27:03.655Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:52:21.224Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "more.theq",
       "artistSlug": "more-theq"
@@ -77420,9 +77481,16 @@
     },
     {
       "userId": "9da82b99-6327-4f40-b465-6c9ebc44c7d8",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Как же я устал от квадратного репа. А если вдруг рифма классифицируется, как более оригинальная априори, то это будет что-то с другим подвохом, как избитое \"мысли - мы с ней\". Что-то от Чемо есть. Местами весьма сумбурное исполнение.",
+          "scoredAt": "2026-10-16T09:39:26.394Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "Проблема",
       "artistSlug": "problema"
@@ -88307,8 +88375,14 @@
     },
     {
       "userId": "4387c1d1-4174-49e4-aa35-c4a522b20d30",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Обманы океаны растаманы карманы – вот как-то так. По смыслу столь же в лоб. Припев неудачный, на мой взгляд.",
+          "scoredAt": "2026-10-16T09:36:50.654Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -88322,7 +88396,7 @@
           "scoredAt": "2026-10-10T16:34:45.275Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:22:13.673Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "XXCommunicado",
       "artistSlug": "xxcommunicado"
@@ -92100,6 +92174,28 @@
       "artistSlug": "2ndra"
     },
     {
+      "userId": "2eed73cf-b8d8-4aff-8a6d-4d946443e3ec",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "comment": "Все очень слабо. Для начала запиши это нормально. Потом попробуй зачитать без кривляний.",
+          "scoredAt": "2026-10-16T07:04:52.002Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "братан, надо как-то биток погромче то делать.\nТекстовик ты неплохой.",
+          "scoredAt": "2026-10-13T23:07:55.675Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T07:12:25.257Z",
+      "current": true,
+      "artistName": "Пчелик",
+      "artistSlug": "pchelik"
+    },
+    {
       "userId": "33b94e10-f7d9-4514-9350-042727a79d3e",
       "scoredCount": 3,
       "scores": [
@@ -92185,28 +92281,6 @@
       "current": true,
       "artistName": "katoriy",
       "artistSlug": "katoriy"
-    },
-    {
-      "userId": "2eed73cf-b8d8-4aff-8a6d-4d946443e3ec",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "comment": "Все очень слабо. Для начала запиши это нормально. Потом попробуй зачитать без кривляний.",
-          "scoredAt": "2026-10-16T07:04:52.002Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "comment": "братан, надо как-то биток погромче то делать.\nТекстовик ты неплохой.",
-          "scoredAt": "2026-10-13T23:07:55.675Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T07:12:25.257Z",
-      "current": true,
-      "artistName": "BerFloud",
-      "artistSlug": "berfloud"
     },
     {
       "userId": "a820d8cf-3477-4489-8a87-f81602d64764",
@@ -94109,8 +94183,14 @@
     },
     {
       "userId": "03d214da-80d7-494e-9c19-d5c2e1d082f8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Первая четвёрка охуенная, производит впечатление. В целом и дальше по тексту охуенно местами. Даже разнообразия дал. По качеству пиздец сомнительно, но мне работа всё-таки понравилась. В этом что-то есть, всё на своих местах.",
+          "scoredAt": "2026-10-16T09:38:25.848Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -94124,7 +94204,7 @@
           "scoredAt": "2026-10-12T13:24:08.513Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-16T09:42:27.091Z",
       "current": true,
       "artistName": "M.T.",
       "artistSlug": "m-t"
