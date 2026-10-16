@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T20:52:02.492Z",
-  "exportedAt": "2026-10-16T20:52:02.492Z",
-  "runId": "2026-10-16T20:52:02.492Z",
-  "forumExportedAt": "2026-10-16T20:52:02.492Z",
-  "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+  "lastSuccessfulAt": "2026-10-16T21:01:58.049Z",
+  "exportedAt": "2026-10-16T21:01:58.049Z",
+  "runId": "2026-10-16T21:01:58.049Z",
+  "forumExportedAt": "2026-10-16T21:01:58.049Z",
+  "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
     "sha256": "d59fa45e32c4dc48f0a6c8c5d6c4bdb3f2ac6034933534177728d7d07aeb2279",
@@ -13,30 +13,30 @@
     "veterans": 29
   },
   "counts": {
-    "participants": 3280,
+    "participants": 3279,
     "forum": 94,
-    "scores": 11919,
+    "scores": 11929,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
     "veterans": 29,
-    "archivedParticipants": 8
+    "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 14,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 12,
     "mode": "incremental",
-    "participants": 3280,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8254,
-    "scoresBefore": 11913,
-    "scoresAfter": 11919,
-    "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.75031210986268,
+    "participants": 3279,
+    "participantsWithNewScores": 12,
+    "changedParticipants": 12,
+    "logicalRequests": 14,
+    "durationMs": 13727,
+    "scoresBefore": 11919,
+    "scoresAfter": 11929,
+    "fullBaselineRequests": 3203,
+    "requestReductionPercent": 99.56290977208867,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -50,7 +50,8 @@
       "01a99616-b41f-43b8-8c87-f1d7f4bd2aed",
       "a6b0ded9-64f9-4dc0-be63-56968ffce8b6",
       "735e3c6f-e2c4-472f-a1bf-080e0dbc5587",
-      "f4f1ab15-eecf-4124-aa6e-fd2daa47a61f"
+      "f4f1ab15-eecf-4124-aa6e-fd2daa47a61f",
+      "8c3ba395-02f9-4f3a-b536-a205debcd03f"
     ],
     "round": {
       "id": "c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c",
@@ -83,6 +84,90 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "sexisdeath",
+          "comment": "Лоска и яркости не хватает ньюскульному стилечку до оценки \"хорошо\". ",
+          "scoredAt": "2026-10-16T21:01:44.809Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "voidarchive",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:01:40.915Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "OcherednOY",
+          "comment": "Шо тут происходит? ",
+          "scoredAt": "2026-10-16T21:00:36.565Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Черный Dee",
+          "comment": "Чисто \"удовлетворительно\", надеюсь, что во втором интереснее будет",
+          "scoredAt": "2026-10-16T21:00:05.957Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "petrovdimm",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:58:24.392Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Андрей Николаевич",
+          "comment": "Тяжело слушается",
+          "scoredAt": "2026-10-16T20:58:24.234Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "СТАЛИНА ЦЕЛЛОФАН",
+          "comment": "Четко",
+          "scoredAt": "2026-10-16T20:57:41.744Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "flow",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:56:35.584Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "АЙД",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:23.910Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "кириешк4",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:17.497Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Lovecall",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:13.173Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "EBOSKE",
+          "comment": "Ой, давай сначала в дикцию, а потом в технику",
+          "scoredAt": "2026-10-16T20:53:03.568Z"
+        },
+        {
           "judgeName": "Paradise",
           "score": 4,
           "artist": "Серая слизь",
@@ -102,90 +187,6 @@
           "artist": "sorry, we are closed",
           "comment": "",
           "scoredAt": "2026-10-16T20:48:26.090Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "Антон Ami",
-          "comment": "Очень подходит такой стилек, отвечаю. Ты очень кайфовый сейчас, держи этот вайб, прошу. Кайф, чистый кайф. Ахуеть просто. Это реально происходит? Это Антон Ами? Да зачитал рэп и стало ясно. Ясно.",
-          "scoredAt": "2026-10-16T20:48:04.195Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Саша Нгуен",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:45:21.464Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "асфальтоукладочный",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:43:20.663Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 1,
-          "artist": "Ансамбль \"Предметы\"",
-          "comment": "Мама и папа принимают участие в воспитании этого ребенка? Папа, подтяните сыну флоу! Мама, текстовое наполнение сомнительное, вы что ли в последний день перед сдачей писали тут такое? Ну, попросили бы бабушку раз сами не умеете!",
-          "scoredAt": "2026-10-16T20:41:21.353Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Навротский",
-          "comment": "Твердая 3 по скилам, за ов накиеу до 4рки, понравилась работа",
-          "scoredAt": "2026-10-16T20:40:26.900Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Rottenville",
-          "comment": "Нормально",
-          "scoredAt": "2026-10-16T20:39:11.719Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "zlnk93",
-          "comment": "Проход, но на тоненького. Ты же сам понимаешь, что на проход в третий подобного материала будет оч мало... ",
-          "scoredAt": "2026-10-16T20:38:53.159Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Даня Далы",
-          "comment": "Аля бабан",
-          "scoredAt": "2026-10-16T20:38:23.309Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Dmitrii Mashch",
-          "comment": "Подача - грусть-печаль",
-          "scoredAt": "2026-10-16T20:37:20.763Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "HVOROSTZ",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:36:45.784Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "outca$te",
-          "comment": "Уныло",
-          "scoredAt": "2026-10-16T20:36:14.355Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Кое-кто из Авимсэта",
-          "comment": "Прямо сииильно авансом, считай проскочил на удачу. Иди купи билет лотерейный. Удивилась, что просел так, ты ж можешь ахуенно",
-          "scoredAt": "2026-10-16T20:35:58.348Z"
         }
       ]
     }

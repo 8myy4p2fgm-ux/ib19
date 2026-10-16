@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T20:52:02.492Z",
-  "totalParticipants": 3280,
+  "exportedAt": "2026-10-16T21:01:58.049Z",
+  "totalParticipants": 3279,
   "members": [
     {
       "userId": "44a6b8a5-3b17-4917-893c-e769ed8e1d1d",
@@ -61904,8 +61904,14 @@
     },
     {
       "userId": "e1d94c27-3f49-482b-b874-e54481baea3a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:58:24.392Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -61931,7 +61937,7 @@
           "scoredAt": "2026-10-03T17:49:48.185Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:52:09.322Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "petrovdimm",
       "artistSlug": "petrovdimm"
@@ -62922,28 +62928,6 @@
       "artistSlug": "zhenya-smack"
     },
     {
-      "userId": "8c3ba395-02f9-4f3a-b536-a205debcd03f",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "comment": "Скажу так, если с структурой текста ещё+- пойдет, то вот в исполнение слышно, что не уверенно, не хватает возможно опыта, и не кидай в некс там много верба и дэлея",
-          "scoredAt": "2026-10-16T16:30:25.152Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "comment": "Есть какая-то лёгкость бытия в этом. Но перечисления слов без особого смысла это слабовато. Минус действительно прекрасен, меня подкупила твоя легкость и наивность в треке, поэтому давай тройку авансом, что-то в далеке мелькает скрытый потанцевал, попробуй развить его, пока идет судейство пощаптсыай еще треков, набирайся опыта . лови тройку с минусом, но звучит приятно, правда",
-          "scoredAt": "2026-10-14T22:37:10.311Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T16:32:38.063Z",
-      "current": true,
-      "artistName": "Mankey Ma",
-      "artistSlug": "mankey-ma"
-    },
-    {
       "userId": "47c15898-c188-4848-90d6-357c2e45ee5c",
       "scoredCount": 2,
       "scores": [
@@ -63711,8 +63695,14 @@
     },
     {
       "userId": "2d1cc3ff-e41e-42b7-95ac-ab11995c1ab3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Четко",
+          "scoredAt": "2026-10-16T20:57:41.744Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -63732,7 +63722,7 @@
           "scoredAt": "2026-09-28T15:49:55.629Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:42:23.783Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "СТАЛИНА ЦЕЛЛОФАН",
       "artistSlug": "stalina-cellofan"
@@ -70652,8 +70642,14 @@
     },
     {
       "userId": "9fe74460-5cf1-44f5-8024-3aaabbc648a4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:23.910Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -70679,7 +70675,7 @@
           "scoredAt": "2026-09-18T16:08:44.162Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "АЙД",
       "artistSlug": "ayd"
@@ -78757,8 +78753,14 @@
     },
     {
       "userId": "82cd3bac-b911-4930-95cf-401eb2519f22",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Тяжело слушается",
+          "scoredAt": "2026-10-16T20:58:24.234Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -78772,7 +78774,7 @@
           "scoredAt": "2026-10-07T18:29:35.595Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:42:20.525Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "Андрей Николаевич",
       "artistSlug": "andrey-nikolaevich"
@@ -79060,8 +79062,14 @@
     },
     {
       "userId": "81e1d479-0dfb-4585-9750-eaccd3317fd9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Лоска и яркости не хватает ньюскульному стилечку до оценки \"хорошо\". ",
+          "scoredAt": "2026-10-16T21:01:44.809Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -79069,7 +79077,7 @@
           "scoredAt": "2026-10-15T15:16:06.438Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:22:19.469Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "sexisdeath",
       "artistSlug": "sexisdeath"
@@ -82196,8 +82204,14 @@
     },
     {
       "userId": "bf78c1fd-ef1d-419c-90c8-f8dbbd670305",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Ой, давай сначала в дикцию, а потом в технику",
+          "scoredAt": "2026-10-16T20:53:03.568Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -82223,7 +82237,7 @@
           "scoredAt": "2026-10-04T07:57:40.665Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:32:35.533Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "EBOSKE",
       "artistSlug": "eboske"
@@ -83711,8 +83725,14 @@
     },
     {
       "userId": "59969220-1b4f-49c8-8b03-8443976c28a3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:01:40.915Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -83738,7 +83758,7 @@
           "scoredAt": "2026-10-05T18:23:23.641Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "voidarchive",
       "artistSlug": "voidarchive"
@@ -85090,8 +85110,14 @@
     },
     {
       "userId": "f427961b-f1ac-4cee-96da-d0b365a8bf40",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:56:35.584Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -85105,7 +85131,7 @@
           "scoredAt": "2026-10-05T18:16:14.334Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "flow",
       "artistSlug": "flow"
@@ -93252,8 +93278,14 @@
     },
     {
       "userId": "530a0f15-3e5e-4a37-9834-489ac32df848",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:17.497Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -93279,7 +93311,7 @@
           "scoredAt": "2026-10-07T11:34:26.519Z"
         }
       ],
-      "fetchedAt": "2026-10-15T05:42:14.337Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "кириешк4",
       "artistSlug": "kirieshk4"
@@ -95410,8 +95442,14 @@
     },
     {
       "userId": "c316ff76-647d-4476-b928-a960be8e8074",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:55:13.173Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 5,
@@ -95437,7 +95475,7 @@
           "scoredAt": "2026-10-08T16:05:40.416Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:02:34.209Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "Lovecall",
       "artistSlug": "lovecall"
@@ -99710,8 +99748,14 @@
     },
     {
       "userId": "fa5cd177-2e74-4061-b790-349af48d1195",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Чисто \"удовлетворительно\", надеюсь, что во втором интереснее будет",
+          "scoredAt": "2026-10-16T21:00:05.957Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -99731,7 +99775,7 @@
           "scoredAt": "2026-10-13T06:18:18.051Z"
         }
       ],
-      "fetchedAt": "2026-10-15T19:32:35.053Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "Черный Dee",
       "artistSlug": "chernyy-dee"
@@ -102019,8 +102063,14 @@
     },
     {
       "userId": "f77a5874-291d-4056-8479-22d9374b9b0c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Шо тут происходит? ",
+          "scoredAt": "2026-10-16T21:00:36.565Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -102040,7 +102090,7 @@
           "scoredAt": "2026-10-16T00:21:29.334Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:22:38.428Z",
+      "fetchedAt": "2026-10-16T21:01:58.049Z",
       "current": true,
       "artistName": "OcherednOY",
       "artistSlug": "ocherednoy"
@@ -104484,6 +104534,29 @@
       "sourceAbsentSince": "2026-10-16T02:32:02.751Z",
       "artistName": "Mariya Dittmer",
       "artistSlug": "mariya-dittmer"
+    },
+    {
+      "userId": "8c3ba395-02f9-4f3a-b536-a205debcd03f",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Скажу так, если с структурой текста ещё+- пойдет, то вот в исполнение слышно, что не уверенно, не хватает возможно опыта, и не кидай в некс там много верба и дэлея",
+          "scoredAt": "2026-10-16T16:30:25.152Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Есть какая-то лёгкость бытия в этом. Но перечисления слов без особого смысла это слабовато. Минус действительно прекрасен, меня подкупила твоя легкость и наивность в треке, поэтому давай тройку авансом, что-то в далеке мелькает скрытый потанцевал, попробуй развить его, пока идет судейство пощаптсыай еще треков, набирайся опыта . лови тройку с минусом, но звучит приятно, правда",
+          "scoredAt": "2026-10-14T22:37:10.311Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T16:32:38.063Z",
+      "current": false,
+      "artistName": "Mankey Ma",
+      "artistSlug": "mankey-ma",
+      "sourceAbsentSince": "2026-10-16T21:01:58.049Z"
     }
   ]
 }
