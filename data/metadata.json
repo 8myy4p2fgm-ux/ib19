@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T15:52:37.389Z",
-  "exportedAt": "2026-10-16T15:52:37.389Z",
-  "runId": "2026-10-16T15:52:37.389Z",
-  "forumExportedAt": "2026-10-16T15:52:37.389Z",
+  "lastSuccessfulAt": "2026-10-16T16:02:32.657Z",
+  "exportedAt": "2026-10-16T16:02:32.657Z",
+  "runId": "2026-10-16T16:02:32.657Z",
+  "forumExportedAt": "2026-10-16T16:02:32.657Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11424,
+    "scores": 11437,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 23,
+    "httpRequests": 15,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 21,
+    "updatedCards": 13,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 21,
-    "changedParticipants": 21,
-    "logicalRequests": 23,
-    "durationMs": 23560,
-    "scoresBefore": 11403,
-    "scoresAfter": 11424,
+    "participantsWithNewScores": 13,
+    "changedParticipants": 13,
+    "logicalRequests": 15,
+    "durationMs": 15182,
+    "scoresBefore": 11424,
+    "scoresAfter": 11437,
     "fullBaselineRequests": 3179,
-    "requestReductionPercent": 99.27650204466813,
+    "requestReductionPercent": 99.52815350739226,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,97 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Brox",
+          "comment": "Блин ну честно слабовато друг",
+          "scoredAt": "2026-10-16T16:02:07.532Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "КСШ х Re!men'",
+          "comment": "Простой флоу очень. Текст тоже не впечатлил.",
+          "scoredAt": "2026-10-16T16:01:41.440Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "tobbyya",
+          "comment": "Тяжело воспринимать на слух - не всё понятно. Дело не в особенностях речи, а в выбранном ритмическом рисунке для таких длинных строк.",
+          "scoredAt": "2026-10-16T16:00:59.166Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 4,
+          "artist": "Черный Череп",
+          "comment": "Крепкая олдскульная работа, грамотно подобран биток - качает. ",
+          "scoredAt": "2026-10-16T16:00:05.088Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "MR. KENNY",
+          "comment": "Кач присутствует. Нарифмовал плотно, но по содержанию довольно сумбурно. Поставлю четверку с натягом. Думаю сможешь себя проявить.",
+          "scoredAt": "2026-10-16T15:59:49.304Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "SKTK",
+          "comment": "Чуть техники не хватает - то немного торопишься, то отстаешь. Не всегда, но есть несколько моментов.",
+          "scoredAt": "2026-10-16T15:58:30.928Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 5,
+          "artist": "RAP4RAP",
+          "comment": "Очень интересная ритмика, очень много соуса, хорош. Ебешь, хорош",
+          "scoredAt": "2026-10-16T15:57:31.555Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "SEEWAY",
+          "comment": "задел есть на панчи, но они такие ужасные и избитые что кошмар. но хотя бы попытался. звучит норм в целом. тема как никак но раскрыта. во втором раунде ЕСЛИ пройдёшь и так же сделаешь то 99.99% слетишь инфа сотка., поэтому давай лучше работай над текстом если в скиллуху не можешь, а идеально и то и другое.  3 авансом",
+          "scoredAt": "2026-10-16T15:57:26.622Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "у окна",
+          "comment": "Эмоции бы дать сюда было бы топ",
+          "scoredAt": "2026-10-16T15:56:45.386Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "SHOVE",
+          "comment": "Мимо нот протягиваешь некоторые слова.\nИсполнение интересное, но неотшлифованное. ",
+          "scoredAt": "2026-10-16T15:55:26.876Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "TRAWOLTA",
+          "comment": "По разнообразию не плохо и флоу вроде есть, наполнение текста не хватило",
+          "scoredAt": "2026-10-16T15:55:17.251Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Барни",
+          "comment": "Припев классный, можно было еще на одно строчку дотянуть схему про мессенджеры. Строчек годных хватает. По раскрытию все банальнененько, но для обора в целом сойдет. Не круто, что ты до сих пор рефлексируешь над тем проёбом. Мне кажется, что это тормозит тебя сильно. Расслабься и делай как умеешь. А умеешь ты точно!",
+          "scoredAt": "2026-10-16T15:52:42.166Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "artist": "Клик-Кляк",
+          "comment": "Очень громко снэйры звучат, прям бьют по ушам. Поставлю 5, но тяжело было слушать.",
+          "scoredAt": "2026-10-16T15:52:39.750Z"
+        },
+        {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
           "artist": "AINER",
@@ -95,97 +186,6 @@
           "artist": "Мифарес",
           "comment": "Что-то очень сумбурно исполняешь, техники не хватает.\nПрипев похож на трек Классика на второй раунд 17ки - \"Любит Витя рок\"",
           "scoredAt": "2026-10-16T15:50:26.502Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "becap",
-          "comment": "Что-то ритмически местами странно, плюс не хватает уверенности в подаче",
-          "scoredAt": "2026-10-16T15:49:00.599Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "ALEX MOLE",
-          "comment": "Простенькое исполнение, глагольные рифмы в тексте. В целом вышло среднненько.",
-          "scoredAt": "2026-10-16T15:48:59.981Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 4,
-          "artist": "Каталонец",
-          "comment": "Хороший уровень. Крепкая работа с проходом. ",
-          "scoredAt": "2026-10-16T15:48:17.729Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "M1XED",
-          "comment": "Рифмабес вздрогнул, когда услышал этот трек. Просто и наивно. ",
-          "scoredAt": "2026-10-16T15:48:17.616Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "kodmiro",
-          "comment": "Золотая середина.",
-          "scoredAt": "2026-10-16T15:48:05.382Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "coolsem",
-          "comment": "звучит бодро, потенциал есть, но текст такая тупая херня, что капец.ю давай попробуй накидать панчиков или скилуху всю свою расчехляй. если скилов нет, то ебашь в панчлайны.\nно трек драйвовый",
-          "scoredAt": "2026-10-16T15:48:02.517Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "POLiTRUK",
-          "comment": "Ну вроде есть зерно в плане текста,  по навалу пойдет",
-          "scoredAt": "2026-10-16T15:47:57.917Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "perezvonyu",
-          "comment": "Немного это всё звучит суетливо, не хватает либо большей точности, либо большей мягкости - надо выбрать правильный вариант.",
-          "scoredAt": "2026-10-16T15:47:23.643Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Феликс не железный",
-          "comment": "",
-          "scoredAt": "2026-10-16T15:47:07.655Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "GG",
-          "comment": "Неплохая рагга! Как песня - кайф, как трек на баттл - очень мало и просто. МИ БОМБАКЛААААТ",
-          "scoredAt": "2026-10-16T15:46:34.795Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "М С Г Р И Л Ь",
-          "comment": "Тут мне не хватило хука, разнообразия, эмоций, такое чувство что делал на скоряк",
-          "scoredAt": "2026-10-16T15:45:51.097Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Prosty_Esli_Traxnul",
-          "comment": "",
-          "scoredAt": "2026-10-16T15:45:44.919Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Сензухт",
-          "comment": "Очень средне получилось и по тексту и по исполнению.",
-          "scoredAt": "2026-10-16T15:45:40.538Z"
         }
       ]
     }
