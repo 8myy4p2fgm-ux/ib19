@@ -124084,6 +124084,202 @@
         "scoredAt": "2026-10-16T19:34:44.473Z",
         "userId": "d7aa5a65-da04-4144-87eb-d53775b831fb"
       }
+    },
+    {
+      "id": "27ab8c37a7cdab2c4d30e81518c6854fe4569e52f374530d4c60437da9a16212",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:51:30.109Z",
+      "key": "[\"91eb4cdf-b4c5-4fcc-b22e-f2581613513e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:51:30.109Z",
+        "userId": "91eb4cdf-b4c5-4fcc-b22e-f2581613513e"
+      }
+    },
+    {
+      "id": "b0f9cc2f15e750c48e4f0cf5ab2a86748951c9d14aee0ac833255db69747b135",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:50:37.642Z",
+      "key": "[\"7e6e20a2-b620-42a7-b3b9-728329119452\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Гудвина напомнил",
+        "scoredAt": "2026-10-16T19:50:37.642Z",
+        "userId": "7e6e20a2-b620-42a7-b3b9-728329119452"
+      }
+    },
+    {
+      "id": "46acc7e29905d0458d21b754e4db5d377bac5ea1ba2170e3f9701224d9077b43",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:43:13.849Z",
+      "key": "[\"5ad1d684-e90c-443c-bc6b-8668a7873af5\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Кайфово",
+        "scoredAt": "2026-10-16T19:43:13.849Z",
+        "userId": "5ad1d684-e90c-443c-bc6b-8668a7873af5"
+      }
+    },
+    {
+      "id": "57ac8311e17dc86a4224415e0de7b716fc316d5ddf809c764865211516406752",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:46:31.620Z",
+      "key": "[\"c9bde30f-a468-4149-b4e2-a70dba62205d\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "что-то в тебе есть, инфа сотка. ",
+        "scoredAt": "2026-10-16T19:46:31.620Z",
+        "userId": "c9bde30f-a468-4149-b4e2-a70dba62205d"
+      }
+    },
+    {
+      "id": "07e09c51e38d2a0cb18c14202b6a04219887de013419e22d06dc27a6039afda7",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:46:32.110Z",
+      "key": "[\"d30d2397-3947-40db-abcf-4bd2f3a999c0\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:46:32.110Z",
+        "userId": "d30d2397-3947-40db-abcf-4bd2f3a999c0"
+      }
+    },
+    {
+      "id": "76165a4d3d35b911ea52e46855a96dadc67f49cee1c00119a41414c911e76d8c",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:51:47.838Z",
+      "key": "[\"aca34a63-8cf4-46be-a25f-6576913a74e4\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:51:47.838Z",
+        "userId": "aca34a63-8cf4-46be-a25f-6576913a74e4"
+      }
+    },
+    {
+      "id": "af255d63724669244c80b264b60a11260b4586f4e4b16fcc70bdf0c5488faec5",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:49:00.721Z",
+      "key": "[\"ebbb3fcd-aefa-49d5-a592-096aaeb1eba3\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T19:49:00.721Z",
+        "userId": "ebbb3fcd-aefa-49d5-a592-096aaeb1eba3"
+      }
+    },
+    {
+      "id": "ec0964a1bb8207845a189aaef12f19a22d71eb6bf2df7201f172e795a8ec1d4a",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:47:09.901Z",
+      "key": "[\"de9df680-7d1a-43c8-bffc-393ef359dd11\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 5,
+        "comment": "Өте жақсы",
+        "scoredAt": "2026-10-16T19:47:09.901Z",
+        "userId": "de9df680-7d1a-43c8-bffc-393ef359dd11"
+      }
+    },
+    {
+      "id": "a1987a1c05543a6cb1bdf504c6b557698fe4595c6b37efe6df854952e83d118a",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:48:17.453Z",
+      "key": "[\"e1d94c27-3f49-482b-b874-e54481baea3a\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Ну по умелкам - это проход, но где-то на грани. Чуть больше стараний во втором отборе, умоляю. ",
+        "scoredAt": "2026-10-16T19:48:17.453Z",
+        "userId": "e1d94c27-3f49-482b-b874-e54481baea3a"
+      }
+    },
+    {
+      "id": "bfb3572de04a9f290fc6a4ad924ea0b0f2f02b3908a48a95c024b32354d3b435",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:44:22.952Z",
+      "key": "[\"2b24c4df-4420-42e1-825b-224538fca245\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "Ебать аххахах, круто",
+        "scoredAt": "2026-10-16T19:44:22.952Z",
+        "userId": "2b24c4df-4420-42e1-825b-224538fca245"
+      }
+    },
+    {
+      "id": "710c1552475568dc60d4f9f8850cb222704875b625bab81dac25acb81aae78c9",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:45:05.970Z",
+      "key": "[\"93ccb7e2-04ac-4f93-bd54-2d61d5d119ed\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Я здесь, ставлю тебе оценку как учитель .\nВот такие вот у тебя \"панчи\". ",
+        "scoredAt": "2026-10-16T19:45:05.970Z",
+        "userId": "93ccb7e2-04ac-4f93-bd54-2d61d5d119ed"
+      }
+    },
+    {
+      "id": "17021bc0a5be04546d87e89121c4282a6a69bade5038a02d07a8556cc10bbcf7",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:45:32.728Z",
+      "key": "[\"78340d0b-62d2-4eda-8c2a-baf4d1d02c2b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Как так можно не чувствовать.... ",
+        "scoredAt": "2026-10-16T19:45:32.728Z",
+        "userId": "78340d0b-62d2-4eda-8c2a-baf4d1d02c2b"
+      }
+    },
+    {
+      "id": "e5e3660131d7a19175db6c513e5062a4f1abb1a22caaf5387dfadeb36ed00805",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:43:02.239Z",
+      "key": "[\"de043fe7-2846-480d-b933-2a4ee8b5dba6\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Красивенько исполнил местами, базару нет, вот из-за этого я натянул до тройки ",
+        "scoredAt": "2026-10-16T19:43:02.239Z",
+        "userId": "de043fe7-2846-480d-b933-2a4ee8b5dba6"
+      }
+    },
+    {
+      "id": "928f7682440971175e670e34416dddc490680f301d528871fce9f1ee3daecbff",
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "sourceScoredAt": "2026-10-16T19:47:56.463Z",
+      "key": "[\"0ed9d7e7-fd2a-4b34-b90b-a65d653af217\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Интересный стиль",
+        "scoredAt": "2026-10-16T19:47:56.463Z",
+        "userId": "0ed9d7e7-fd2a-4b34-b90b-a65d653af217"
+      }
     }
   ],
   "snapshots": [
@@ -130104,6 +130300,26 @@
           "favor": 18.174718274957144,
           "attention": -0.2376292045957287,
           "respect": 11.130952380952381
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T19:52:09.322Z",
+      "exportedAt": "2026-10-16T19:52:09.322Z",
+      "scores": 11862,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.774634194313673,
+          "favor": 9.4012488590901,
+          "attention": 6.6375362786198,
+          "respect": 6.735849056603773
+        },
+        "veterans": {
+          "index": 29.14074679365484,
+          "favor": 18.237619477369332,
+          "attention": -0.2582900065491386,
+          "respect": 11.161417322834646
         }
       }
     }

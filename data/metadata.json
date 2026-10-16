@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T19:42:26.240Z",
-  "exportedAt": "2026-10-16T19:42:26.240Z",
-  "runId": "2026-10-16T19:42:26.240Z",
-  "forumExportedAt": "2026-10-16T19:42:26.240Z",
+  "lastSuccessfulAt": "2026-10-16T19:52:09.322Z",
+  "exportedAt": "2026-10-16T19:52:09.322Z",
+  "runId": "2026-10-16T19:52:09.322Z",
+  "forumExportedAt": "2026-10-16T19:52:09.322Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11848,
+    "scores": 11862,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,11 +32,11 @@
     "participantsWithNewScores": 14,
     "changedParticipants": 14,
     "logicalRequests": 16,
-    "durationMs": 15868,
-    "scoresBefore": 11834,
-    "scoresAfter": 11848,
-    "fullBaselineRequests": 3201,
-    "requestReductionPercent": 99.50015620118712,
+    "durationMs": 16302,
+    "scoresBefore": 11848,
+    "scoresAfter": 11862,
+    "fullBaselineRequests": 3202,
+    "requestReductionPercent": 99.50031230480948,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,107 +85,107 @@
         {
           "judgeName": "Paradise",
           "score": 2,
+          "artist": "два дня моросит",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:51:47.838Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Колдун Стайл",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:51:30.109Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Невбит",
+          "comment": "Гудвина напомнил",
+          "scoredAt": "2026-10-16T19:50:37.642Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Lilit",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:49:00.721Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "petrovdimm",
+          "comment": "Ну по умелкам - это проход, но где-то на грани. Чуть больше стараний во втором отборе, умоляю. ",
+          "scoredAt": "2026-10-16T19:48:17.453Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "L7M",
+          "comment": "Интересный стиль",
+          "scoredAt": "2026-10-16T19:47:56.463Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 5,
+          "artist": "Frizzy",
+          "comment": "Өте жақсы",
+          "scoredAt": "2026-10-16T19:47:09.901Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Johnnykushmen",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:46:32.110Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "bostiLOm",
+          "comment": "что-то в тебе есть, инфа сотка. ",
+          "scoredAt": "2026-10-16T19:46:31.620Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "FADA",
+          "comment": "Как так можно не чувствовать.... ",
+          "scoredAt": "2026-10-16T19:45:32.728Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Flektor",
+          "comment": "Я здесь, ставлю тебе оценку как учитель .\nВот такие вот у тебя \"панчи\". ",
+          "scoredAt": "2026-10-16T19:45:05.970Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "НИТЛЕР T-GIRL [#КБС]",
+          "comment": "Ебать аххахах, круто",
+          "scoredAt": "2026-10-16T19:44:22.952Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "пуляБан",
+          "comment": "Кайфово",
+          "scoredAt": "2026-10-16T19:43:13.849Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "H-ATE",
+          "comment": "Красивенько исполнил местами, базару нет, вот из-за этого я натянул до тройки ",
+          "scoredAt": "2026-10-16T19:43:02.239Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
           "artist": "MegaWolt",
           "comment": "",
           "scoredAt": "2026-10-16T19:42:07.788Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Антон Ami",
-          "comment": "Нравится какой ты флоу выбрал, ебашь в этом направлении",
-          "scoredAt": "2026-10-16T19:40:51.717Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 1,
-          "artist": "Алексей Летавин",
-          "comment": "Спасибо за участие ",
-          "scoredAt": "2026-10-16T19:40:48.903Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Рубашка по Процкий",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:39:35.502Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Мики Маус",
-          "comment": "Йа ага\nТы молодец. Продолжай творить",
-          "scoredAt": "2026-10-16T19:38:42.852Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "ЖелезныйКапут",
-          "comment": "Близко к тройке, но если б ты хотя бы какой-то фразой дал основательно зацепиться... По рифме лучше многих здесь, по читке среднячок)",
-          "scoredAt": "2026-10-16T19:38:19.993Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Viskarik",
-          "comment": "Не хватило немного запоминающихся строк",
-          "scoredAt": "2026-10-16T19:36:50.641Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "ZAMNOY",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:35:44.604Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Последний вагон",
-          "comment": "В рифмовке больше банальщины квадратно-глагольной, чем норм рифм. Читка не поставлена, не хватает напора ",
-          "scoredAt": "2026-10-16T19:34:44.473Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "Манхолла (KHBR)",
-          "comment": "Крутой стилек ",
-          "scoredAt": "2026-10-16T19:34:27.926Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Rob Stillz",
-          "comment": "Клево",
-          "scoredAt": "2026-10-16T19:34:09.334Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "MaxAcochenko",
-          "comment": "Чисто температура за 40",
-          "scoredAt": "2026-10-16T19:33:18.602Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "GG (CHESS MA)",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:33:07.748Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "byKE",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:32:41.525Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "MC PI₱0m@Nik",
-          "comment": "Жаль над дикцией в школе у вас не работают(",
-          "scoredAt": "2026-10-16T19:32:22.355Z"
         }
       ]
     }

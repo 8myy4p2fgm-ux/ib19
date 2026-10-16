@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T19:42:26.240Z",
+  "exportedAt": "2026-10-16T19:52:09.322Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2523,6 +2523,12 @@
       "forum_name": "Frizzy",
       "group": "Ветераны",
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 5,
+          "comment": "Өте жақсы",
+          "scoredAt": "2026-10-16T19:47:09.901Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,

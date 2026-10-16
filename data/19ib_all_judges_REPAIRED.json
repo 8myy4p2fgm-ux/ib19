@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T19:42:26.240Z",
+  "exportedAt": "2026-10-16T19:52:09.322Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -25075,8 +25075,14 @@
     },
     {
       "userId": "91eb4cdf-b4c5-4fcc-b22e-f2581613513e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:51:30.109Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -25096,7 +25102,7 @@
           "scoredAt": "2026-08-30T20:39:01.891Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Колдун Стайл",
       "artistSlug": "koldun-stayl"
@@ -29573,8 +29579,14 @@
     },
     {
       "userId": "7e6e20a2-b620-42a7-b3b9-728329119452",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Гудвина напомнил",
+          "scoredAt": "2026-10-16T19:50:37.642Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -29582,7 +29594,7 @@
           "scoredAt": "2026-10-09T20:16:56.544Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Невбит",
       "artistSlug": "nevbit"
@@ -31225,8 +31237,14 @@
     },
     {
       "userId": "5ad1d684-e90c-443c-bc6b-8668a7873af5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Кайфово",
+          "scoredAt": "2026-10-16T19:43:13.849Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -31246,7 +31264,7 @@
           "scoredAt": "2026-09-09T10:04:05.135Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:12:15.049Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "пуляБан",
       "artistSlug": "pulyaban"
@@ -31841,8 +31859,14 @@
     },
     {
       "userId": "c9bde30f-a468-4149-b4e2-a70dba62205d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "что-то в тебе есть, инфа сотка. ",
+          "scoredAt": "2026-10-16T19:46:31.620Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -31868,7 +31892,7 @@
           "scoredAt": "2026-09-08T17:09:07.513Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "bostiLOm",
       "artistSlug": "bostilom"
@@ -38229,8 +38253,14 @@
     },
     {
       "userId": "d30d2397-3947-40db-abcf-4bd2f3a999c0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:46:32.110Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -38256,7 +38286,7 @@
           "scoredAt": "2026-09-24T15:21:17.167Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:52:33.842Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Johnnykushmen",
       "artistSlug": "johnnykushmen"
@@ -39869,9 +39899,16 @@
     },
     {
       "userId": "aca34a63-8cf4-46be-a25f-6576913a74e4",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:51:47.838Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "два дня моросит",
       "artistSlug": "dva-dnya-morosit"
@@ -55346,8 +55383,14 @@
     },
     {
       "userId": "ebbb3fcd-aefa-49d5-a592-096aaeb1eba3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T19:49:00.721Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 2,
@@ -55361,7 +55404,7 @@
           "scoredAt": "2026-09-23T17:21:22.941Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Lilit",
       "artistSlug": "lilit"
@@ -58183,8 +58226,14 @@
     },
     {
       "userId": "de9df680-7d1a-43c8-bffc-393ef359dd11",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 5,
+          "comment": "Өте жақсы",
+          "scoredAt": "2026-10-16T19:47:09.901Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -58210,7 +58259,7 @@
           "scoredAt": "2026-09-24T21:21:04.289Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:32:24.786Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Frizzy",
       "artistSlug": "frizzy"
@@ -61650,8 +61699,14 @@
     },
     {
       "userId": "e1d94c27-3f49-482b-b874-e54481baea3a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Ну по умелкам - это проход, но где-то на грани. Чуть больше стараний во втором отборе, умоляю. ",
+          "scoredAt": "2026-10-16T19:48:17.453Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -61671,7 +61726,7 @@
           "scoredAt": "2026-10-03T17:49:48.185Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:32:26.907Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "petrovdimm",
       "artistSlug": "petrovdimm"
@@ -63739,8 +63794,14 @@
     },
     {
       "userId": "2b24c4df-4420-42e1-825b-224538fca245",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "Ебать аххахах, круто",
+          "scoredAt": "2026-10-16T19:44:22.952Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -63760,7 +63821,7 @@
           "scoredAt": "2026-10-02T17:52:41.506Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:02:31.250Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "НИТЛЕР T-GIRL [#КБС]",
       "artistSlug": "nitler-t-girl-kbs"
@@ -74855,8 +74916,14 @@
     },
     {
       "userId": "93ccb7e2-04ac-4f93-bd54-2d61d5d119ed",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Я здесь, ставлю тебе оценку как учитель .\nВот такие вот у тебя \"панчи\". ",
+          "scoredAt": "2026-10-16T19:45:05.970Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -74882,7 +74949,7 @@
           "scoredAt": "2026-10-10T15:03:41.621Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:02:50.113Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "Flektor",
       "artistSlug": "flektor"
@@ -78650,8 +78717,14 @@
     },
     {
       "userId": "78340d0b-62d2-4eda-8c2a-baf4d1d02c2b",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Как так можно не чувствовать.... ",
+          "scoredAt": "2026-10-16T19:45:32.728Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -78659,7 +78732,7 @@
           "scoredAt": "2026-10-14T17:35:31.202Z"
         }
       ],
-      "fetchedAt": "2026-10-14T17:42:32.485Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "FADA",
       "artistSlug": "fada"
@@ -85606,8 +85679,14 @@
     },
     {
       "userId": "de043fe7-2846-480d-b933-2a4ee8b5dba6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Красивенько исполнил местами, базару нет, вот из-за этого я натянул до тройки ",
+          "scoredAt": "2026-10-16T19:43:02.239Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -85633,7 +85712,7 @@
           "scoredAt": "2026-10-01T14:39:22.800Z"
         }
       ],
-      "fetchedAt": "2026-10-15T07:02:25.886Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "H-ATE",
       "artistSlug": "h-ate"
@@ -87306,8 +87385,14 @@
     },
     {
       "userId": "0ed9d7e7-fd2a-4b34-b90b-a65d653af217",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Интересный стиль",
+          "scoredAt": "2026-10-16T19:47:56.463Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -87327,7 +87412,7 @@
           "scoredAt": "2026-10-12T09:31:53.761Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T19:52:09.322Z",
       "current": true,
       "artistName": "L7M",
       "artistSlug": "l7m"
