@@ -117854,6 +117854,300 @@
         "scoredAt": "2026-10-16T15:36:14.392Z",
         "userId": "75db49a1-a2fd-4370-9fb7-92e0647d9b8d"
       }
+    },
+    {
+      "id": "0674b29513a078e5eba423b29c4e09e07333019a711d45f324127a9e86f344f7",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:45:44.919Z",
+      "key": "[\"ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T15:45:44.919Z",
+        "userId": "ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17"
+      }
+    },
+    {
+      "id": "9e4fc123cdd8503946682d7b02c5e63356d1c21ff65096690810eabea3ea8357",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:42:36.476Z",
+      "key": "[\"e8fc5e85-36f0-429b-8b29-3a3b335c71a7\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "тренируемся ",
+        "scoredAt": "2026-10-16T15:42:36.476Z",
+        "userId": "e8fc5e85-36f0-429b-8b29-3a3b335c71a7"
+      }
+    },
+    {
+      "id": "59e9703b10fb541b64f7a6f18e760c125f3d2e43412b354839be7005c3d7e450",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:43:57.124Z",
+      "key": "[\"bc4658c6-381b-496d-aaed-cdaa5bd0ab5e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Го в следующий.",
+        "scoredAt": "2026-10-16T15:43:57.124Z",
+        "userId": "bc4658c6-381b-496d-aaed-cdaa5bd0ab5e"
+      }
+    },
+    {
+      "id": "f552c7dba06cb2469ab2193d54584097ca6b5e124886159a01a8eddfd982819b",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:43:24.637Z",
+      "key": "[\"c0ea9eec-8ad0-47f9-99b8-2f11338044c8\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "ЛЕГЕНДА ",
+        "scoredAt": "2026-10-16T15:43:24.637Z",
+        "userId": "c0ea9eec-8ad0-47f9-99b8-2f11338044c8"
+      }
+    },
+    {
+      "id": "c1dd25aa7bed87b9ec8a34a46ee8bb8d64bfb2670481d4464ea8ee7d76e6da81",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:48:02.517Z",
+      "key": "[\"82e316f7-4a9b-4e45-ab28-9237e5affea7\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "звучит бодро, потенциал есть, но текст такая тупая херня, что капец.ю давай попробуй накидать панчиков или скилуху всю свою расчехляй. если скилов нет, то ебашь в панчлайны.\nно трек драйвовый",
+        "scoredAt": "2026-10-16T15:48:02.517Z",
+        "userId": "82e316f7-4a9b-4e45-ab28-9237e5affea7"
+      }
+    },
+    {
+      "id": "18fab4616ace41ca6b8dfce27d404398389f69d151193c55cb2fa2e552c815af",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:45:40.538Z",
+      "key": "[\"cb29a7b0-b6f1-4a0f-af03-907290387f63\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Очень средне получилось и по тексту и по исполнению.",
+        "scoredAt": "2026-10-16T15:45:40.538Z",
+        "userId": "cb29a7b0-b6f1-4a0f-af03-907290387f63"
+      }
+    },
+    {
+      "id": "ef4673ab3f178cdb39ca2aad86bcd179f5d96f5eb06ff4c62007ad7c950cad41",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:49:00.599Z",
+      "key": "[\"05b2a973-c76c-4513-90f0-429b3f75e657\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Что-то ритмически местами странно, плюс не хватает уверенности в подаче",
+        "scoredAt": "2026-10-16T15:49:00.599Z",
+        "userId": "05b2a973-c76c-4513-90f0-429b3f75e657"
+      }
+    },
+    {
+      "id": "89c83bddca975a8c2717c76defe0a2772e0bd828f4f391af2775a7b1bd281fb8",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:47:07.655Z",
+      "key": "[\"1ce13d93-32ee-4745-b4ba-848827a2acc3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T15:47:07.655Z",
+        "userId": "1ce13d93-32ee-4745-b4ba-848827a2acc3"
+      }
+    },
+    {
+      "id": "dbb0d5a7144db815e7ff01f3c17a62a4613b6a9a858de2db60a92650f243d758",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:42:57.900Z",
+      "key": "[\"4568d934-66e0-45cf-b20d-a865394684ac\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "пойдёт ",
+        "scoredAt": "2026-10-16T15:42:57.900Z",
+        "userId": "4568d934-66e0-45cf-b20d-a865394684ac"
+      }
+    },
+    {
+      "id": "54c3948b65894e16a74d618d10a8e62a79ae875190aa7f20adc88d991f7071e5",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:47:23.643Z",
+      "key": "[\"e8d99829-37ba-4136-8e88-4b6e772444c3\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Немного это всё звучит суетливо, не хватает либо большей точности, либо большей мягкости - надо выбрать правильный вариант.",
+        "scoredAt": "2026-10-16T15:47:23.643Z",
+        "userId": "e8d99829-37ba-4136-8e88-4b6e772444c3"
+      }
+    },
+    {
+      "id": "009ed4689c55580a61917d4aef6e49ebffb433bfa4efa799c68cb704b55224cf",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:48:17.616Z",
+      "key": "[\"d18f3f39-beab-4ff9-abfc-c454d7a160ca\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Рифмабес вздрогнул, когда услышал этот трек. Просто и наивно. ",
+        "scoredAt": "2026-10-16T15:48:17.616Z",
+        "userId": "d18f3f39-beab-4ff9-abfc-c454d7a160ca"
+      }
+    },
+    {
+      "id": "afded330841baa9ead0777423d03f54a7fe82f22de64493f71490e5282bf5243",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:44:22.160Z",
+      "key": "[\"40024e9d-90c8-4d72-9f2b-a911cb40ddbe\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "Что-то ты прям мимо бита читаешь. При этом так читаешь, как будто даже понимаешь, что делаешь. Странно получилось.",
+        "scoredAt": "2026-10-16T15:44:22.160Z",
+        "userId": "40024e9d-90c8-4d72-9f2b-a911cb40ddbe"
+      }
+    },
+    {
+      "id": "784db4ee1f68f82ee23658d2a9818ede605355d24918a0f9b7f5594eb9583160",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:48:05.382Z",
+      "key": "[\"b6e4d09c-851a-4809-b397-15783e1841b5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина.",
+        "scoredAt": "2026-10-16T15:48:05.382Z",
+        "userId": "b6e4d09c-851a-4809-b397-15783e1841b5"
+      }
+    },
+    {
+      "id": "d41cf6fcf3839fb12495a6adba9639b7c0c3bc89222da9307a90467cf13ed521",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:45:51.097Z",
+      "key": "[\"a6592711-e266-435a-a0e1-d80cf8fc9bab\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Тут мне не хватило хука, разнообразия, эмоций, такое чувство что делал на скоряк",
+        "scoredAt": "2026-10-16T15:45:51.097Z",
+        "userId": "a6592711-e266-435a-a0e1-d80cf8fc9bab"
+      }
+    },
+    {
+      "id": "239ca9c22f1ebf2e251f7f9a6544b155cb7113e331f7ec0ffb9cca5e27ace54b",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:48:59.981Z",
+      "key": "[\"40eba8db-ca6b-4ace-9f47-423c4d6fdfb2\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Простенькое исполнение, глагольные рифмы в тексте. В целом вышло среднненько.",
+        "scoredAt": "2026-10-16T15:48:59.981Z",
+        "userId": "40eba8db-ca6b-4ace-9f47-423c4d6fdfb2"
+      }
+    },
+    {
+      "id": "ace07a201a4d442a1b2498ee021fc8f5574821ff96b46ba53ea3f2aa0421a5ee",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:47:57.917Z",
+      "key": "[\"0fa93644-4837-48f9-aa2b-037ea11a2f8e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну вроде есть зерно в плане текста,  по навалу пойдет",
+        "scoredAt": "2026-10-16T15:47:57.917Z",
+        "userId": "0fa93644-4837-48f9-aa2b-037ea11a2f8e"
+      }
+    },
+    {
+      "id": "3843dac2c47dc6d1cc0d67a5dd627aea1859d3585e1858ae5a61e3f8ced8881f",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:44:50.135Z",
+      "key": "[\"a7528d22-abbe-41eb-a564-d0a67ec23820\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "пойдёт ",
+        "scoredAt": "2026-10-16T15:44:50.135Z",
+        "userId": "a7528d22-abbe-41eb-a564-d0a67ec23820"
+      }
+    },
+    {
+      "id": "76b9c33d2d5cdc52867716948a68d19f9bcc17755e99b12f93c8aeb4374e088d",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:46:34.795Z",
+      "key": "[\"35cdc6d7-fc02-4878-9291-20b6c2a492dd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Неплохая рагга! Как песня - кайф, как трек на баттл - очень мало и просто. МИ БОМБАКЛААААТ",
+        "scoredAt": "2026-10-16T15:46:34.795Z",
+        "userId": "35cdc6d7-fc02-4878-9291-20b6c2a492dd"
+      }
+    },
+    {
+      "id": "4857756756cf5312056271733524cd7defaf5de5f77970c5ae87dcef69e12cd0",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:50:26.502Z",
+      "key": "[\"e8549ae0-d592-4a25-9655-ce05b1210230\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Что-то очень сумбурно исполняешь, техники не хватает.\nПрипев похож на трек Классика на второй раунд 17ки - \"Любит Витя рок\"",
+        "scoredAt": "2026-10-16T15:50:26.502Z",
+        "userId": "e8549ae0-d592-4a25-9655-ce05b1210230"
+      }
+    },
+    {
+      "id": "b01e5d119f99172fd44a1495af45c0a4ace5a8fc7dadc47f495a50922ed268f9",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:48:17.729Z",
+      "key": "[\"ea7e9a04-576e-4444-9bdb-2bc32ad8bdbe\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Хороший уровень. Крепкая работа с проходом. ",
+        "scoredAt": "2026-10-16T15:48:17.729Z",
+        "userId": "ea7e9a04-576e-4444-9bdb-2bc32ad8bdbe"
+      }
+    },
+    {
+      "id": "030a1388d02d5813d35ad09026df693812dd6798de6d8b9578ad70e90228b841",
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "sourceScoredAt": "2026-10-16T15:52:04.414Z",
+      "key": "[\"e478f2b7-6c06-4d96-80a6-9e2d368482d8\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "искусство не судится!",
+        "scoredAt": "2026-10-16T15:52:04.414Z",
+        "userId": "e478f2b7-6c06-4d96-80a6-9e2d368482d8"
+      }
     }
   ],
   "snapshots": [
@@ -123393,6 +123687,26 @@
           "index": 28.456372606696217,
           "favor": 18.043595148277266,
           "attention": -0.7162547996455646,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T15:52:37.389Z",
+      "exportedAt": "2026-10-16T15:52:37.389Z",
+      "scores": 11424,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.43508631541532,
+          "favor": 9.26391681880103,
+          "attention": 6.447031565579805,
+          "respect": 6.724137931034483
+        },
+        "veterans": {
+          "index": 28.513090932809586,
+          "favor": 18.05806451612903,
+          "attention": -0.6740058413839587,
           "respect": 11.129032258064516
         }
       }
