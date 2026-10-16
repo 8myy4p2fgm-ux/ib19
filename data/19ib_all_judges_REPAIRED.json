@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T04:22:09.740Z",
+  "exportedAt": "2026-10-16T04:32:13.982Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -21245,8 +21245,14 @@
     },
     {
       "userId": "f80dc83c-b48a-4786-b75d-68cc16a91da5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Ну очень просто по тексту братка. Зачитал нормально, но не без какого-то вау эффекта. ",
+          "scoredAt": "2026-10-16T04:24:13.237Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -21266,7 +21272,7 @@
           "scoredAt": "2026-08-30T18:51:52.704Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T04:32:13.982Z",
       "current": true
     },
     {
@@ -33180,9 +33186,16 @@
     },
     {
       "userId": "6620de4c-3cf6-4088-9b53-8a400456a82e",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Просто и наивно. Читаешь достойно, но этого слишком мало, чтобы поставить оценку выше. Делай побольше рэпака брат!",
+          "scoredAt": "2026-10-16T04:27:30.435Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T04:32:13.982Z",
       "current": true
     },
     {
@@ -50035,8 +50048,14 @@
     },
     {
       "userId": "f202515e-4965-4e0a-b098-5b6db815c060",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Слышно, что ты недавно читаешь. Очень наивно по исполнению, звучит как детская песенка. По тексту ничего интересного.",
+          "scoredAt": "2026-10-16T04:25:51.395Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -50056,7 +50075,7 @@
           "scoredAt": "2026-09-24T12:51:48.786Z"
         }
       ],
-      "fetchedAt": "2026-10-15T23:42:18.703Z",
+      "fetchedAt": "2026-10-16T04:32:13.982Z",
       "current": true
     },
     {

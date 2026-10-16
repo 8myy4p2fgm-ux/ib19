@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T04:22:09.740Z",
-  "exportedAt": "2026-10-16T04:22:09.740Z",
-  "runId": "2026-10-16T04:22:09.740Z",
-  "forumExportedAt": "2026-10-16T04:22:09.740Z",
+  "lastSuccessfulAt": "2026-10-16T04:32:13.982Z",
+  "exportedAt": "2026-10-16T04:32:13.982Z",
+  "runId": "2026-10-16T04:32:13.982Z",
+  "forumExportedAt": "2026-10-16T04:32:13.982Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10622,
+    "scores": 10625,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3151,
-    "scoresBefore": 10621,
-    "scoresAfter": 10622,
-    "fullBaselineRequests": 3137,
-    "requestReductionPercent": 99.90436722983742,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5010,
+    "scoresBefore": 10622,
+    "scoresAfter": 10625,
+    "fullBaselineRequests": 3138,
+    "requestReductionPercent": 99.84066284257489,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Mf Grinch",
+          "comment": "Просто и наивно. Читаешь достойно, но этого слишком мало, чтобы поставить оценку выше. Делай побольше рэпака брат!",
+          "scoredAt": "2026-10-16T04:27:30.435Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "MZ1",
+          "comment": "Слышно, что ты недавно читаешь. Очень наивно по исполнению, звучит как детская песенка. По тексту ничего интересного.",
+          "scoredAt": "2026-10-16T04:25:51.395Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Krauz",
+          "comment": "Ну очень просто по тексту братка. Зачитал нормально, но не без какого-то вау эффекта. ",
+          "scoredAt": "2026-10-16T04:24:13.237Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -165,27 +186,6 @@
           "artist": "notarsy",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
           "scoredAt": "2026-10-16T00:37:43.651Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Haruken",
-          "comment": "Крутое исполнение и скучный текст",
-          "scoredAt": "2026-10-16T00:37:29.822Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Kometa Jessa",
-          "comment": "Для отбора пойдет, но ничего не запомнилось",
-          "scoredAt": "2026-10-16T00:37:08.612Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "OldScooФ",
-          "comment": "ООООООчень стильно! Хорошо ритмически. Звучит, качает!",
-          "scoredAt": "2026-10-16T00:36:29.153Z"
         }
       ]
     }
