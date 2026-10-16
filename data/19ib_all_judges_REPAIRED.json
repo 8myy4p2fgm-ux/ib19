@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T21:51:42.557Z",
+  "exportedAt": "2026-10-16T22:11:41.001Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -38654,8 +38654,14 @@
     },
     {
       "userId": "bffbba89-3e90-4928-b234-983af27253f8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "4ка за читку и жирный саунд, синергию с битом голоса, но боже мой что с рифмами ? Но энергетика топчик под такой биток ☢️☢️☢️ Панчи тебе еще надо завозить в следующий раунд ;)",
+          "scoredAt": "2026-10-16T22:10:02.990Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -38675,7 +38681,7 @@
           "scoredAt": "2026-09-10T17:27:27.566Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:22:22.399Z",
+      "fetchedAt": "2026-10-16T22:11:41.001Z",
       "current": true,
       "artistName": "PALEVA NET",
       "artistSlug": "paleva-net"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T21:51:42.557Z",
-  "exportedAt": "2026-10-16T21:51:42.557Z",
-  "runId": "2026-10-16T21:51:42.557Z",
-  "forumExportedAt": "2026-10-16T21:51:42.557Z",
+  "lastSuccessfulAt": "2026-10-16T22:11:41.001Z",
+  "exportedAt": "2026-10-16T22:11:41.001Z",
+  "runId": "2026-10-16T22:11:41.001Z",
+  "forumExportedAt": "2026-10-16T22:11:41.001Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11955,
+    "scores": 11956,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4829,
-    "scoresBefore": 11952,
-    "scoresAfter": 11955,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2910,
+    "scoresBefore": 11955,
+    "scoresAfter": 11956,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.84394506866417,
+    "requestReductionPercent": 99.90636704119851,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "PALEVA NET",
+          "comment": "4ка за читку и жирный саунд, синергию с битом голоса, но боже мой что с рифмами ? Но энергетика топчик под такой биток ☢️☢️☢️ Панчи тебе еще надо завозить в следующий раунд ;)",
+          "scoredAt": "2026-10-16T22:10:02.990Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -180,13 +187,6 @@
           "artist": "фанатсонигрезе",
           "comment": "Очень круто наваливаешь. ",
           "scoredAt": "2026-10-16T21:14:02.805Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Точка Опоры",
-          "comment": "",
-          "scoredAt": "2026-10-16T21:11:19.442Z"
         }
       ]
     }
