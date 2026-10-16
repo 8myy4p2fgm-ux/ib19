@@ -116496,6 +116496,62 @@
         "scoredAt": "2026-10-16T14:40:20.857Z",
         "userId": "025340cb-8d34-4049-b163-33b7a117d5f1"
       }
+    },
+    {
+      "id": "64ecbbb2c38499f06fcbe3c8b02af3a7c7b38ad5601731da390b526947f2e954",
+      "observedAt": "2026-10-16T14:52:09.994Z",
+      "sourceScoredAt": "2026-10-16T14:50:10.505Z",
+      "key": "[\"1b21b882-bb9f-4780-933a-1dbacf8578da\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Ритмически по мне странный трек, эмоциями не дожимаешь",
+        "scoredAt": "2026-10-16T14:50:10.505Z",
+        "userId": "1b21b882-bb9f-4780-933a-1dbacf8578da"
+      }
+    },
+    {
+      "id": "42bcf0222f5c5072b279c0e5451d44b8719c15c8c7597088eb4f33f278a3e797",
+      "observedAt": "2026-10-16T14:52:09.994Z",
+      "sourceScoredAt": "2026-10-16T14:51:49.698Z",
+      "key": "[\"e9910b21-0c11-4054-a7a0-5cf57bbd65f0\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "А что так бит еле-еле добавил, по сути это какая-то акапелла, ещё и листок перевернул и с кем-то как понял в треке поговорил",
+        "scoredAt": "2026-10-16T14:51:49.698Z",
+        "userId": "e9910b21-0c11-4054-a7a0-5cf57bbd65f0"
+      }
+    },
+    {
+      "id": "fa1d0286a6a2622af6414d9a6c90570ffa3dea4ff26469625ea1f80ba5236669",
+      "observedAt": "2026-10-16T14:52:09.994Z",
+      "sourceScoredAt": "2026-10-16T14:45:11.000Z",
+      "key": "[\"173910fa-c467-483f-9feb-80a3f4d12183\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По факту звук подводит в треке, фишка что ты планировал в треке очень утоплена.",
+        "scoredAt": "2026-10-16T14:45:11.000Z",
+        "userId": "173910fa-c467-483f-9feb-80a3f4d12183"
+      }
+    },
+    {
+      "id": "4edb19b63d8cd8c535f8c0d4ecaafd24e89f63e7b4bd95966c9ba214b7d3977d",
+      "observedAt": "2026-10-16T14:52:09.994Z",
+      "sourceScoredAt": "2026-10-16T14:43:21.387Z",
+      "key": "[\"f0603b48-e355-4ff1-82f1-0219705a8d5e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно, добавил бы агрессии можно было где то с флоу поиграться, такое чувство на скоряк сделал",
+        "scoredAt": "2026-10-16T14:43:21.387Z",
+        "userId": "f0603b48-e355-4ff1-82f1-0219705a8d5e"
+      }
     }
   ],
   "snapshots": [
@@ -121915,6 +121971,26 @@
           "index": 28.230684064812767,
           "favor": 18.015084727182504,
           "attention": -0.9134329204342527,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T14:52:09.994Z",
+      "exportedAt": "2026-10-16T14:52:09.994Z",
+      "scores": 11310,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.702703787046676,
+          "favor": 9.264702169027593,
+          "attention": 6.6938155715074545,
+          "respect": 6.744186046511628
+        },
+        "veterans": {
+          "index": 28.250906444656202,
+          "favor": 18.02062485941528,
+          "attention": -0.8987506728235928,
           "respect": 11.129032258064516
         }
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T14:42:24.640Z",
+  "exportedAt": "2026-10-16T14:52:09.994Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -39343,8 +39343,14 @@
     },
     {
       "userId": "1b21b882-bb9f-4780-933a-1dbacf8578da",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Ритмически по мне странный трек, эмоциями не дожимаешь",
+          "scoredAt": "2026-10-16T14:50:10.505Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -39364,7 +39370,7 @@
           "scoredAt": "2026-09-09T16:51:12.784Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:02:28.338Z",
+      "fetchedAt": "2026-10-16T14:52:09.994Z",
       "current": true,
       "artistName": "Белым Бело",
       "artistSlug": "belym-belo"
@@ -73927,8 +73933,14 @@
     },
     {
       "userId": "e9910b21-0c11-4054-a7a0-5cf57bbd65f0",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "comment": "А что так бит еле-еле добавил, по сути это какая-то акапелла, ещё и листок перевернул и с кем-то как понял в треке поговорил",
+          "scoredAt": "2026-10-16T14:51:49.698Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -73942,7 +73954,7 @@
           "scoredAt": "2026-10-13T18:39:07.946Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:52:21.258Z",
+      "fetchedAt": "2026-10-16T14:52:09.994Z",
       "current": true,
       "artistName": "СТОНИК НА ПРАВОЙ РУКЕ",
       "artistSlug": "stonik-na-pravoy-ruke"
@@ -85493,8 +85505,14 @@
     },
     {
       "userId": "173910fa-c467-483f-9feb-80a3f4d12183",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "По факту звук подводит в треке, фишка что ты планировал в треке очень утоплена.",
+          "scoredAt": "2026-10-16T14:45:11.000Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -85508,7 +85526,7 @@
           "scoredAt": "2026-10-13T19:17:36.863Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:32:23.748Z",
+      "fetchedAt": "2026-10-16T14:52:09.994Z",
       "current": true,
       "artistName": "Xacker TV",
       "artistSlug": "xacker-tv"
@@ -87399,9 +87417,16 @@
     },
     {
       "userId": "f0603b48-e355-4ff1-82f1-0219705a8d5e",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Очень дефолтно, добавил бы агрессии можно было где то с флоу поиграться, такое чувство на скоряк сделал",
+          "scoredAt": "2026-10-16T14:43:21.387Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T14:52:09.994Z",
       "current": true,
       "artistName": "Scrag",
       "artistSlug": "scrag"

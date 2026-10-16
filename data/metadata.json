@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T14:42:24.640Z",
-  "exportedAt": "2026-10-16T14:42:24.640Z",
-  "runId": "2026-10-16T14:42:24.640Z",
-  "forumExportedAt": "2026-10-16T14:42:24.640Z",
+  "lastSuccessfulAt": "2026-10-16T14:52:09.994Z",
+  "exportedAt": "2026-10-16T14:52:09.994Z",
+  "runId": "2026-10-16T14:52:09.994Z",
+  "forumExportedAt": "2026-10-16T14:52:09.994Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11306,
+    "scores": 11310,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10608,
-    "scoresBefore": 11298,
-    "scoresAfter": 11306,
-    "fullBaselineRequests": 3174,
-    "requestReductionPercent": 99.68494013862635,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6002,
+    "scoresBefore": 11306,
+    "scoresAfter": 11310,
+    "fullBaselineRequests": 3175,
+    "requestReductionPercent": 99.81102362204724,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "artist": "СТОНИК НА ПРАВОЙ РУКЕ",
+          "comment": "А что так бит еле-еле добавил, по сути это какая-то акапелла, ещё и листок перевернул и с кем-то как понял в треке поговорил",
+          "scoredAt": "2026-10-16T14:51:49.698Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Белым Бело",
+          "comment": "Ритмически по мне странный трек, эмоциями не дожимаешь",
+          "scoredAt": "2026-10-16T14:50:10.505Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Xacker TV",
+          "comment": "По факту звук подводит в треке, фишка что ты планировал в треке очень утоплена.",
+          "scoredAt": "2026-10-16T14:45:11.000Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Scrag",
+          "comment": "Очень дефолтно, добавил бы агрессии можно было где то с флоу поиграться, такое чувство на скоряк сделал",
+          "scoredAt": "2026-10-16T14:43:21.387Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -158,34 +186,6 @@
           "artist": "D1STANT",
           "comment": "Рифме не хватает, наполнению не хватает ударности. Модный рэп, у которого в парных нет шансов",
           "scoredAt": "2026-10-16T14:30:18.732Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Отец",
-          "comment": "Ужасная артикуляция там, где ты ускорялся. И похоже, что у тебя цель была квадратить по рифме (вплоть до последнего катрена)",
-          "scoredAt": "2026-10-16T14:29:19.894Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Hastla",
-          "comment": "Очень не хватает подачи треку, стиля и флоу, прям надо с этим поработать ",
-          "scoredAt": "2026-10-16T14:29:10.604Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Алексей Дрищ",
-          "comment": "Вот вроде пытаешься дать разнообразие, и текст такой вроде с посылом, но почему так сложно дать акценты и эмоции было тут",
-          "scoredAt": "2026-10-16T14:28:00.004Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "VZRYVNOY",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-16T14:26:13.762Z"
         }
       ]
     }
