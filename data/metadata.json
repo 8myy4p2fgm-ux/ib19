@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T15:02:24.160Z",
-  "exportedAt": "2026-10-16T15:02:24.160Z",
-  "runId": "2026-10-16T15:02:24.160Z",
-  "forumExportedAt": "2026-10-16T15:02:24.160Z",
+  "lastSuccessfulAt": "2026-10-16T15:12:28.750Z",
+  "exportedAt": "2026-10-16T15:12:28.750Z",
+  "runId": "2026-10-16T15:12:28.750Z",
+  "forumExportedAt": "2026-10-16T15:12:28.750Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11322,
+    "scores": 11333,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 14,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 11,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 12,
-    "logicalRequests": 14,
-    "durationMs": 13834,
-    "scoresBefore": 11310,
-    "scoresAfter": 11322,
-    "fullBaselineRequests": 3175,
-    "requestReductionPercent": 99.55905511811024,
+    "participantsWithNewScores": 11,
+    "changedParticipants": 11,
+    "logicalRequests": 13,
+    "durationMs": 13508,
+    "scoresBefore": 11322,
+    "scoresAfter": 11333,
+    "fullBaselineRequests": 3176,
+    "requestReductionPercent": 99.59068010075566,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,83 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "SlowMC",
+          "comment": "Это больше похоже на сырую фриху, чем на выверенную композицию. Как будто ты чисто по-приколу встал к микро и навалил рапа, не парясь. Не отточил, недосвёл, наквадратил, накидал банальных рифм. Такие ощущения.",
+          "scoredAt": "2026-10-16T15:11:17.898Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "RUmin",
+          "comment": "Очень сырая читочка, но судя по голосу всё впереди. Больше практикуйся, избегай банальных рифм а-ля квадраты.",
+          "scoredAt": "2026-10-16T15:08:37.763Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "DRUNKROMANTIC",
+          "comment": "Короче добавь жирка в трек, ну и подчеркни сведосом чтоб на уверенном был",
+          "scoredAt": "2026-10-16T15:07:38.127Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Фимка Грек",
+          "comment": "Авансом.",
+          "scoredAt": "2026-10-16T15:07:02.646Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "N.J.",
+          "comment": "Не думал, что я буду так рад, что наконец-то после череды треков наконец-то есть ударки. Да, качество рифм подводит, но частенько сглаживается объёмностью и/или плотностью. Тема достаточно плотно раскрывалась. Ну исполнением ты не блещешь, но в совокупности всего на 4 мне хватило.",
+          "scoredAt": "2026-10-16T15:06:39.136Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "U Genie",
+          "comment": "Текст скучноват.",
+          "scoredAt": "2026-10-16T15:05:30.865Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "one of three",
+          "comment": "Блин я так ждал хука, и вот когда он начался тут и пошли самые жесткие косяки сведоса, короче ровнять вокал надо по ноткам, давать объем и тд",
+          "scoredAt": "2026-10-16T15:04:55.774Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "artist": "Scratchington",
+          "comment": "Неплохой не пустой текст, неплохая ритмика, это показывает определённый скилл. Не могу сказать, что прям хватило вау-эффектов и разнообразия, но работа однозначно крепко сделана.",
+          "scoredAt": "2026-10-16T15:04:25.631Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "K1rtag",
+          "comment": "Авансом.",
+          "scoredAt": "2026-10-16T15:04:11.490Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Твой Спутник",
+          "comment": "Вкусно по звуку, но тривиально-попсовенько. Субъективно мне понравилось (если, конечно, на фон поставить), ну и это не так квадратно, как у многих, кто трушный рэп фигачит тут. Натянул до тройки с минусом кое-как.",
+          "scoredAt": "2026-10-16T15:03:45.603Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Тинки Винки",
+          "comment": "Не хватило смены флоу и местами дать напор, звучит дефолтно",
+          "scoredAt": "2026-10-16T15:03:23.292Z"
+        },
+        {
           "judgeName": "H1GH",
           "score": 4,
           "artist": "VAIT",
@@ -109,83 +186,6 @@
           "artist": "Totty Tottenham",
           "comment": "Мне кажется что ты отдельно от бита, и вроде с начало думал что это около думерского музла, но что-то нет",
           "scoredAt": "2026-10-16T15:00:05.345Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "REALKVESONE",
-          "comment": "К сожалению, читка не радует, тихо и неуверенно как будто. Текст неплохой местами, но также местами и очень слабые рифмы имеются. В совокупности не срабатывает песенка совсем",
-          "scoredAt": "2026-10-16T14:58:53.036Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "prov.property",
-          "comment": "Давай так добавь жирок в трек и затяжки подтюнишь в тонику и будет вкусно ",
-          "scoredAt": "2026-10-16T14:58:13.027Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Arhetype",
-          "comment": "Рифмовка на аббревиатуры это что-то новое, но в целом дефолтная работа",
-          "scoredAt": "2026-10-16T14:57:07.597Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "Скаузер",
-          "comment": "Не всё нравится по ритмике, считано не на высоком уровне. Текст неплохой, жиза имеется, но реализация всё-таки не производит неизгладимого впечатления какого-то.",
-          "scoredAt": "2026-10-16T14:56:48.309Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "GRYAZNYMARIK",
-          "comment": "Вот флоу есть, но что с сведосом в треке в бите некоторые слова тонут",
-          "scoredAt": "2026-10-16T14:55:46.276Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Bl4CK",
-          "comment": "Нормас, считано уверенно и с не самым простым, банальным текстом, что-то в районе 3,5, но разнообразия бы побольше. ",
-          "scoredAt": "2026-10-16T14:55:28.237Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Necrogenius",
-          "comment": "Не хватило напора честно говоря, но читаешь плюс минус ровно, по тексту не хватает каких-то оборотов жестких",
-          "scoredAt": "2026-10-16T14:54:36.532Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "deli hell",
-          "comment": "Сумбурная работа, бит такой с одного лупа, хоть и про яйца с0 оригинально",
-          "scoredAt": "2026-10-16T14:53:17.396Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 1,
-          "artist": "СТОНИК НА ПРАВОЙ РУКЕ",
-          "comment": "А что так бит еле-еле добавил, по сути это какая-то акапелла, ещё и листок перевернул и с кем-то как понял в треке поговорил",
-          "scoredAt": "2026-10-16T14:51:49.698Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Белым Бело",
-          "comment": "Ритмически по мне странный трек, эмоциями не дожимаешь",
-          "scoredAt": "2026-10-16T14:50:10.505Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Xacker TV",
-          "comment": "По факту звук подводит в треке, фишка что ты планировал в треке очень утоплена.",
-          "scoredAt": "2026-10-16T14:45:11.000Z"
         }
       ]
     }
