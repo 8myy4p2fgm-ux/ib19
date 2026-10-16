@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T04:12:15.940Z",
-  "exportedAt": "2026-10-16T04:12:15.940Z",
-  "runId": "2026-10-16T04:12:15.940Z",
-  "forumExportedAt": "2026-10-16T04:12:15.940Z",
+  "lastSuccessfulAt": "2026-10-16T04:22:09.740Z",
+  "exportedAt": "2026-10-16T04:22:09.740Z",
+  "runId": "2026-10-16T04:22:09.740Z",
+  "forumExportedAt": "2026-10-16T04:22:09.740Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10621,
+    "scores": 10622,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5025,
-    "scoresBefore": 10618,
-    "scoresAfter": 10621,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3151,
+    "scoresBefore": 10621,
+    "scoresAfter": 10622,
     "fullBaselineRequests": 3137,
-    "requestReductionPercent": 99.84061204972903,
+    "requestReductionPercent": 99.90436722983742,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Парень Кати",
+          "comment": "Ну по ритмике действительно есть косяки. Панчули на месте. Сделаю вид, что глагол не заметил. Концовка топчик, я такое люблю. Поставлю вышку, но если пройдешь постарайся не ударить в грязь лицом.",
+          "scoredAt": "2026-10-16T04:20:08.528Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -179,13 +186,6 @@
           "artist": "OldScooФ",
           "comment": "ООООООчень стильно! Хорошо ритмически. Звучит, качает!",
           "scoredAt": "2026-10-16T00:36:29.153Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "mi яT;",
-          "comment": "Норм, но не более",
-          "scoredAt": "2026-10-16T00:35:21.045Z"
         }
       ]
     }
