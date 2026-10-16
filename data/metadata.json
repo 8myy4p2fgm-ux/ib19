@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T23:01:54.651Z",
-  "exportedAt": "2026-10-16T23:01:54.651Z",
-  "runId": "2026-10-16T23:01:54.651Z",
-  "forumExportedAt": "2026-10-16T23:01:54.651Z",
+  "lastSuccessfulAt": "2026-10-16T23:11:48.787Z",
+  "exportedAt": "2026-10-16T23:11:48.787Z",
+  "runId": "2026-10-16T23:11:48.787Z",
+  "forumExportedAt": "2026-10-16T23:11:48.787Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11970,
+    "scores": 11971,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 6936,
-    "scoresBefore": 11965,
-    "scoresAfter": 11970,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 4067,
+    "scoresBefore": 11970,
+    "scoresAfter": 11971,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.78152309612985,
+    "requestReductionPercent": 99.90636704119851,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Алёна Денисова",
+          "comment": "Алена, Милый голос у вас хорошо в ноты попадаете, но вы немножко турнир попутали тут рэп и если не дай бог вы дальше пройдете вас в треках вые@ут во всё что можно и нельзя и убьют всех кого вы знаете и не знаете, распотрошат и снова вые@ут и заставят смотреть собаку на всё это которую вам предварительно подарят. Вам нужно в мультижанр с такими песенками. А в этой турнирке ваша жизнь испортится раз и навсегда, вам жто нало ) вам это не надо! Но голос правда красивый",
+          "scoredAt": "2026-10-16T23:09:16.143Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -180,13 +187,6 @@
           "artist": "CHC[КХК]",
           "comment": "Я вроде уши продолбил себе на всякий случай, но что-то с дикцией , ощущение что это какой-то чешский рэп, нарифмовал ты конечно всякого тут красиво, но говорить челу что у него ОСЛАБЛЕН азарт ? Это что за предъява вообще ? Букмекеры залогиньтесь )))  оружие пожоще лозы - воу воу полегче , это уже опасно ))) рифмаешь красиво но строчки беззубые ",
           "scoredAt": "2026-10-16T22:19:09.380Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "PALEVA NET",
-          "comment": "4ка за читку и жирный саунд, синергию с битом голоса, но боже мой что с рифмами ? Но энергетика топчик под такой биток ☢️☢️☢️ Панчи тебе еще надо завозить в следующий раунд ;)",
-          "scoredAt": "2026-10-16T22:10:02.990Z"
         }
       ]
     }
