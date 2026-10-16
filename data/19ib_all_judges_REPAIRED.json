@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T02:32:02.751Z",
+  "exportedAt": "2026-10-16T03:32:05.756Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -88512,13 +88512,6 @@
       "current": true
     },
     {
-      "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true
-    },
-    {
       "userId": "3f004716-9126-4b22-bdb6-41ddba21fdcf",
       "scoredCount": 1,
       "scores": [
@@ -88530,6 +88523,13 @@
         }
       ],
       "fetchedAt": "2026-10-15T15:12:21.441Z",
+      "current": true
+    },
+    {
+      "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461",
+      "scoredCount": 0,
+      "scores": [],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
       "current": true
     },
     {
