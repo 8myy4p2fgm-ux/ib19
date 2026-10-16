@@ -124812,6 +124812,188 @@
         "scoredAt": "2026-10-16T20:30:32.488Z",
         "userId": "24f4f463-b68e-47c1-9cb4-1d0e63530020"
       }
+    },
+    {
+      "id": "92881eea203efa208383c4692d3517b6d5d8bdff7c0cd8026997f3c1b0c364b2",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:38:23.309Z",
+      "key": "[\"bb80b8f6-d093-4624-9558-59f24bdcaea5\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Аля бабан",
+        "scoredAt": "2026-10-16T20:38:23.309Z",
+        "userId": "bb80b8f6-d093-4624-9558-59f24bdcaea5"
+      }
+    },
+    {
+      "id": "cdc8446178c8de22be0c7a8a8f56d1b6b8f58726af89777e0f58c6e3efae231a",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:38:53.159Z",
+      "key": "[\"efe449d8-3b13-4b68-8100-92e385e6f83c\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Проход, но на тоненького. Ты же сам понимаешь, что на проход в третий подобного материала будет оч мало... ",
+        "scoredAt": "2026-10-16T20:38:53.159Z",
+        "userId": "efe449d8-3b13-4b68-8100-92e385e6f83c"
+      }
+    },
+    {
+      "id": "2dae87f79ef3676376ca3f8295410cc5b48a310eb3613fedc27d06bfe86a5564",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:41:21.353Z",
+      "key": "[\"49da9cae-791c-4cc7-80ea-03e718c300b1\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 1,
+        "comment": "Мама и папа принимают участие в воспитании этого ребенка? Папа, подтяните сыну флоу! Мама, текстовое наполнение сомнительное, вы что ли в последний день перед сдачей писали тут такое? Ну, попросили бы бабушку раз сами не умеете!",
+        "scoredAt": "2026-10-16T20:41:21.353Z",
+        "userId": "49da9cae-791c-4cc7-80ea-03e718c300b1"
+      }
+    },
+    {
+      "id": "bf7eade0065b4c356fd99ccf856d082c49111865c5ddf775f466ad0c9d905bbd",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:33:40.272Z",
+      "key": "[\"b3000ba5-c250-4477-9c3d-64c4773f3c3c\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Оооочень натянула до 4 за счет более-менее вменяемого фло. ",
+        "scoredAt": "2026-10-16T20:33:40.272Z",
+        "userId": "b3000ba5-c250-4477-9c3d-64c4773f3c3c"
+      }
+    },
+    {
+      "id": "cf7eadbb621ceca273c334fa0decf0c39d5d002e046e72964948f0dbf24fbf7b",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:36:14.355Z",
+      "key": "[\"a537da40-cc43-4bc7-8608-77f636006319\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Уныло",
+        "scoredAt": "2026-10-16T20:36:14.355Z",
+        "userId": "a537da40-cc43-4bc7-8608-77f636006319"
+      }
+    },
+    {
+      "id": "9b224cec1ba58da4e02d3968b88c03bc37168334d5c7d68c3a37f0d861b6ab74",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:36:45.784Z",
+      "key": "[\"3fafd464-bba7-4b4d-91cc-4a05fe1d7a1a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:36:45.784Z",
+        "userId": "3fafd464-bba7-4b4d-91cc-4a05fe1d7a1a"
+      }
+    },
+    {
+      "id": "5b0819677a754f5a21b465b1038e5988c3d712f6ac05af96a4d80684b102addb",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:34:47.259Z",
+      "key": "[\"91b16ac0-ecd4-4c05-a796-fc12c6b35ae8\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Брат, у меня-то какой передоз. Квадратненько по рифме, просто по мысли, неплохо по читке. Два с плюсом ",
+        "scoredAt": "2026-10-16T20:34:47.259Z",
+        "userId": "91b16ac0-ecd4-4c05-a796-fc12c6b35ae8"
+      }
+    },
+    {
+      "id": "38eed78f66a006b51abee335fa134e3c9495522e4334c5d44cad8e659c7dea4a",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:39:11.719Z",
+      "key": "[\"dfc3a63a-cf04-4f11-92c4-901320c98206\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Нормально",
+        "scoredAt": "2026-10-16T20:39:11.719Z",
+        "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206"
+      }
+    },
+    {
+      "id": "b4643438325c997e906459b559d2f4b64d4d541f22958f68441e02370b8e2ad7",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:35:58.348Z",
+      "key": "[\"7056bbc0-0bd8-4cf3-8344-065ea8a6f6ec\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Прямо сииильно авансом, считай проскочил на удачу. Иди купи билет лотерейный. Удивилась, что просел так, ты ж можешь ахуенно",
+        "scoredAt": "2026-10-16T20:35:58.348Z",
+        "userId": "7056bbc0-0bd8-4cf3-8344-065ea8a6f6ec"
+      }
+    },
+    {
+      "id": "e1728e5fd8f61669f18e687dad34f6c1633bfba6eaa33e5404f20f1245d722b6",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:40:26.900Z",
+      "key": "[\"6ddcea0e-8106-4027-bd89-c6a51f396b07\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Твердая 3 по скилам, за ов накиеу до 4рки, понравилась работа",
+        "scoredAt": "2026-10-16T20:40:26.900Z",
+        "userId": "6ddcea0e-8106-4027-bd89-c6a51f396b07"
+      }
+    },
+    {
+      "id": "9def31dd4bd1c36dc0178ad26fc694f92014e0c3e169b1d94e867ccb8cf16cb7",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:37:20.763Z",
+      "key": "[\"6ce8424a-4a05-4712-95ef-13dc14337023\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Подача - грусть-печаль",
+        "scoredAt": "2026-10-16T20:37:20.763Z",
+        "userId": "6ce8424a-4a05-4712-95ef-13dc14337023"
+      }
+    },
+    {
+      "id": "d875b1f7821938049134b1308cf67712bf86fe560b71dd04ba08e58952560c9f",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:35:58.224Z",
+      "key": "[\"d3a4ff60-9822-4542-9e07-73baeac9a0c6\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Скилл читаки оч недурный. Текст, конечно, пустоватый, но на отбор пока что всё в совокупности хорошо.",
+        "scoredAt": "2026-10-16T20:35:58.224Z",
+        "userId": "d3a4ff60-9822-4542-9e07-73baeac9a0c6"
+      }
+    },
+    {
+      "id": "12d7d1c3bb73f1368a009fa15f6d18fa7cf107f529420a24e45e855505eb91f9",
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "sourceScoredAt": "2026-10-16T20:33:34.965Z",
+      "key": "[\"1cdc0b38-8404-4818-95aa-c82faa882e7d\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Рифме зачастую не хватает остроты, голос оч неплох для репов так-то, читка средненькая. Ну про руку неплохо, хоть за что-то зацепился.",
+        "scoredAt": "2026-10-16T20:33:34.965Z",
+        "userId": "1cdc0b38-8404-4818-95aa-c82faa882e7d"
+      }
     }
   ],
   "snapshots": [
@@ -130931,6 +131113,26 @@
           "index": 29.230164203697633,
           "favor": 18.272465156159395,
           "attention": -0.20371827529640843,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:41:58.598Z",
+      "exportedAt": "2026-10-16T20:41:58.598Z",
+      "scores": 11913,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.39313036635741,
+          "favor": 9.224423875102028,
+          "attention": 6.539493008109316,
+          "respect": 6.629213483146067
+        },
+        "veterans": {
+          "index": 29.256797157454606,
+          "favor": 18.27693272814002,
+          "attention": -0.18155289352006077,
           "respect": 11.161417322834646
         }
       }

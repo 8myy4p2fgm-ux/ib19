@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T20:31:59.118Z",
+  "exportedAt": "2026-10-16T20:41:58.598Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -351,8 +351,14 @@
     },
     {
       "userId": "bb80b8f6-d093-4624-9558-59f24bdcaea5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Аля бабан",
+          "scoredAt": "2026-10-16T20:38:23.309Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -366,7 +372,7 @@
           "scoredAt": "2026-10-14T07:02:47.237Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Даня Далы",
       "artistSlug": "danya-daly"
@@ -9511,9 +9517,16 @@
     },
     {
       "userId": "efe449d8-3b13-4b68-8100-92e385e6f83c",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Проход, но на тоненького. Ты же сам понимаешь, что на проход в третий подобного материала будет оч мало... ",
+          "scoredAt": "2026-10-16T20:38:53.159Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "zlnk93",
       "artistSlug": "zlnk93"
@@ -18143,8 +18156,14 @@
     },
     {
       "userId": "49da9cae-791c-4cc7-80ea-03e718c300b1",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 1,
+          "comment": "Мама и папа принимают участие в воспитании этого ребенка? Папа, подтяните сыну флоу! Мама, текстовое наполнение сомнительное, вы что ли в последний день перед сдачей писали тут такое? Ну, попросили бы бабушку раз сами не умеете!",
+          "scoredAt": "2026-10-16T20:41:21.353Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 1,
@@ -18152,7 +18171,7 @@
           "scoredAt": "2026-10-12T12:55:52.046Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Ансамбль \"Предметы\"",
       "artistSlug": "ansambl-predmety"
@@ -21779,8 +21798,14 @@
     },
     {
       "userId": "b3000ba5-c250-4477-9c3d-64c4773f3c3c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Оооочень натянула до 4 за счет более-менее вменяемого фло. ",
+          "scoredAt": "2026-10-16T20:33:40.272Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -21800,7 +21825,7 @@
           "scoredAt": "2026-09-03T15:19:28.820Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "LANI LOUD",
       "artistSlug": "lani-loud"
@@ -25753,8 +25778,14 @@
     },
     {
       "userId": "a537da40-cc43-4bc7-8608-77f636006319",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Уныло",
+          "scoredAt": "2026-10-16T20:36:14.355Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -25780,7 +25811,7 @@
           "scoredAt": "2026-08-30T20:36:40.928Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:22:32.827Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "outca$te",
       "artistSlug": "outca-te"
@@ -28797,8 +28828,14 @@
     },
     {
       "userId": "3fafd464-bba7-4b4d-91cc-4a05fe1d7a1a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:36:45.784Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -28818,7 +28855,7 @@
           "scoredAt": "2026-09-07T18:15:57.045Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:12:42.870Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "HVOROSTZ",
       "artistSlug": "hvorostz"
@@ -38287,8 +38324,14 @@
     },
     {
       "userId": "91b16ac0-ecd4-4c05-a796-fc12c6b35ae8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Брат, у меня-то какой передоз. Квадратненько по рифме, просто по мысли, неплохо по читке. Два с плюсом ",
+          "scoredAt": "2026-10-16T20:34:47.259Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -38302,7 +38345,7 @@
           "scoredAt": "2026-10-12T13:23:24.202Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:42:23.979Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Роман Манакин",
       "artistSlug": "roman-manakin"
@@ -45594,8 +45637,14 @@
     },
     {
       "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Нормально",
+          "scoredAt": "2026-10-16T20:39:11.719Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -45609,7 +45658,7 @@
           "scoredAt": "2026-10-13T13:38:25.160Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:22:03.986Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Rottenville",
       "artistSlug": "rottenville"
@@ -50159,8 +50208,14 @@
     },
     {
       "userId": "7056bbc0-0bd8-4cf3-8344-065ea8a6f6ec",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Прямо сииильно авансом, считай проскочил на удачу. Иди купи билет лотерейный. Удивилась, что просел так, ты ж можешь ахуенно",
+          "scoredAt": "2026-10-16T20:35:58.348Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -50186,7 +50241,7 @@
           "scoredAt": "2026-10-13T05:15:17.420Z"
         }
       ],
-      "fetchedAt": "2026-10-15T17:02:52.180Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Кое-кто из Авимсэта",
       "artistSlug": "koe-kto-iz-avimseta"
@@ -63780,8 +63835,14 @@
     },
     {
       "userId": "6ddcea0e-8106-4027-bd89-c6a51f396b07",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Твердая 3 по скилам, за ов накиеу до 4рки, понравилась работа",
+          "scoredAt": "2026-10-16T20:40:26.900Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -63801,7 +63862,7 @@
           "scoredAt": "2026-10-13T16:00:05.586Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Навротский",
       "artistSlug": "navrotskiy"
@@ -67490,8 +67551,14 @@
     },
     {
       "userId": "6ce8424a-4a05-4712-95ef-13dc14337023",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Подача - грусть-печаль",
+          "scoredAt": "2026-10-16T20:37:20.763Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -67511,7 +67578,7 @@
           "scoredAt": "2026-09-04T11:56:17.109Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:52:29.544Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "Dmitrii Mashch",
       "artistSlug": "dmitrii-mashch"
@@ -68969,8 +69036,14 @@
     },
     {
       "userId": "d3a4ff60-9822-4542-9e07-73baeac9a0c6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "comment": "Скилл читаки оч недурный. Текст, конечно, пустоватый, но на отбор пока что всё в совокупности хорошо.",
+          "scoredAt": "2026-10-16T20:35:58.224Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -68990,7 +69063,7 @@
           "scoredAt": "2026-10-11T13:05:11.230Z"
         }
       ],
-      "fetchedAt": "2026-10-15T00:32:12.959Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "GNG",
       "artistSlug": "gng"
@@ -97336,8 +97409,14 @@
     },
     {
       "userId": "1cdc0b38-8404-4818-95aa-c82faa882e7d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Рифме зачастую не хватает остроты, голос оч неплох для репов так-то, читка средненькая. Ну про руку неплохо, хоть за что-то зацепился.",
+          "scoredAt": "2026-10-16T20:33:34.965Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -97351,7 +97430,7 @@
           "scoredAt": "2026-10-08T18:40:00.291Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:02:27.839Z",
+      "fetchedAt": "2026-10-16T20:41:58.598Z",
       "current": true,
       "artistName": "PETKO",
       "artistSlug": "petko"

@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-16T20:31:59.118Z",
+  "exportedAt": "2026-10-16T20:41:58.598Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1494,6 +1494,12 @@
       "forum_name": "Шматко",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:36:45.784Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,

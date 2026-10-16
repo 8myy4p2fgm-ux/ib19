@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T20:31:59.118Z",
-  "exportedAt": "2026-10-16T20:31:59.118Z",
-  "runId": "2026-10-16T20:31:59.118Z",
-  "forumExportedAt": "2026-10-16T20:31:59.118Z",
+  "lastSuccessfulAt": "2026-10-16T20:41:58.598Z",
+  "exportedAt": "2026-10-16T20:41:58.598Z",
+  "runId": "2026-10-16T20:41:58.598Z",
+  "forumExportedAt": "2026-10-16T20:41:58.598Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11900,
+    "scores": 11913,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -26,17 +26,17 @@
     "httpRequests": 15,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 13,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 11,
+    "participantsWithNewScores": 13,
+    "changedParticipants": 13,
     "logicalRequests": 15,
-    "durationMs": 15165,
-    "scoresBefore": 11888,
-    "scoresAfter": 11900,
-    "fullBaselineRequests": 3203,
-    "requestReductionPercent": 99.53168904152358,
+    "durationMs": 15229,
+    "scoresBefore": 11900,
+    "scoresAfter": 11913,
+    "fullBaselineRequests": 3204,
+    "requestReductionPercent": 99.53183520599251,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,109 +83,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Вла-Да",
+          "score": 1,
+          "artist": "Ансамбль \"Предметы\"",
+          "comment": "Мама и папа принимают участие в воспитании этого ребенка? Папа, подтяните сыну флоу! Мама, текстовое наполнение сомнительное, вы что ли в последний день перед сдачей писали тут такое? Ну, попросили бы бабушку раз сами не умеете!",
+          "scoredAt": "2026-10-16T20:41:21.353Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Навротский",
+          "comment": "Твердая 3 по скилам, за ов накиеу до 4рки, понравилась работа",
+          "scoredAt": "2026-10-16T20:40:26.900Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Rottenville",
+          "comment": "Нормально",
+          "scoredAt": "2026-10-16T20:39:11.719Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "zlnk93",
+          "comment": "Проход, но на тоненького. Ты же сам понимаешь, что на проход в третий подобного материала будет оч мало... ",
+          "scoredAt": "2026-10-16T20:38:53.159Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Даня Далы",
+          "comment": "Аля бабан",
+          "scoredAt": "2026-10-16T20:38:23.309Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Dmitrii Mashch",
+          "comment": "Подача - грусть-печаль",
+          "scoredAt": "2026-10-16T20:37:20.763Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "HVOROSTZ",
+          "comment": "",
+          "scoredAt": "2026-10-16T20:36:45.784Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "outca$te",
+          "comment": "Уныло",
+          "scoredAt": "2026-10-16T20:36:14.355Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Кое-кто из Авимсэта",
+          "comment": "Прямо сииильно авансом, считай проскочил на удачу. Иди купи билет лотерейный. Удивилась, что просел так, ты ж можешь ахуенно",
+          "scoredAt": "2026-10-16T20:35:58.348Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "GNG",
+          "comment": "Скилл читаки оч недурный. Текст, конечно, пустоватый, но на отбор пока что всё в совокупности хорошо.",
+          "scoredAt": "2026-10-16T20:35:58.224Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Роман Манакин",
+          "comment": "Брат, у меня-то какой передоз. Квадратненько по рифме, просто по мысли, неплохо по читке. Два с плюсом ",
+          "scoredAt": "2026-10-16T20:34:47.259Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "LANI LOUD",
+          "comment": "Оооочень натянула до 4 за счет более-менее вменяемого фло. ",
+          "scoredAt": "2026-10-16T20:33:40.272Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "PETKO",
+          "comment": "Рифме зачастую не хватает остроты, голос оч неплох для репов так-то, читка средненькая. Ну про руку неплохо, хоть за что-то зацепился.",
+          "scoredAt": "2026-10-16T20:33:34.965Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 1,
+          "artist": "Миша Конфуз",
+          "comment": "Бит ок.",
+          "scoredAt": "2026-10-16T20:31:53.606Z"
+        },
+        {
           "judgeName": "Роженов",
           "score": 2,
           "artist": "AN-AGE",
           "comment": "Местами ускоряешься неуклюже, по тексту поверхностно ",
           "scoredAt": "2026-10-16T20:31:38.647Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "МцБитцаВздумал",
-          "comment": "Жаль, текст неплох, читка мёртвая (",
-          "scoredAt": "2026-10-16T20:30:32.488Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "M0rdekaY",
-          "comment": "Рил проблемный тип)",
-          "scoredAt": "2026-10-16T20:29:05.480Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "AndreyDuh",
-          "comment": "На проход во второй - точно есть. Про собачку прикольно, мемы - наше все. ",
-          "scoredAt": "2026-10-16T20:28:07.595Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "EggStacy [ЯЙЦА СТАСА]",
-          "comment": "Ту ту ту, ту ту ту. Большую часть трека однообразно чеканил – скучновато. Среди рифм квадраты и слабосозвучные.",
-          "scoredAt": "2026-10-16T20:28:02.979Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "КЛИЕNT",
-          "comment": "очень слабо. ",
-          "scoredAt": "2026-10-16T20:27:00.755Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 1,
-          "artist": "Диметренку Курашенкис",
-          "comment": "Танцуют все! А нет, я думал, будет рофл весь трек. Хотя в целом всё не сильно изменилось) квадратный рофел)",
-          "scoredAt": "2026-10-16T20:25:05.328Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "IORWETH",
-          "comment": "Навалил",
-          "scoredAt": "2026-10-16T20:24:25.703Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Freska",
-          "comment": "тебя бы не убили бы, если бы ты не успел вытотораторить все за 1 минуту. ",
-          "scoredAt": "2026-10-16T20:24:17.671Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "FosFor",
-          "comment": "Грязь",
-          "scoredAt": "2026-10-16T20:23:36.768Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Проспект Грусти",
-          "comment": "Дала бы шанс за счет более-менее уверенной подачи. Но в парные раунды с таким материалом не попасть",
-          "scoredAt": "2026-10-16T20:23:18.770Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "V13",
-          "comment": "Ты же понимаешь, что для прохода во второй - это ок, но в третий - точно нет... ",
-          "scoredAt": "2026-10-16T20:21:26.072Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "NWR",
-          "comment": "Стильный припев, рифма 50/50, порой ей не хватает остроты. Во многом за исполнение 3",
-          "scoredAt": "2026-10-16T20:19:47.165Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Zippy Kid",
-          "comment": "Несем ночь, как корону. А че делать",
-          "scoredAt": "2026-10-16T20:18:40.788Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Leonard Venus",
-          "comment": "Не хватает подачи, напора, уверенности. Это придет\n",
-          "scoredAt": "2026-10-16T20:18:16.290Z"
         }
       ]
     }
