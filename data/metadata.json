@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T03:32:05.756Z",
-  "exportedAt": "2026-10-16T03:32:05.756Z",
-  "runId": "2026-10-16T03:32:05.756Z",
-  "forumExportedAt": "2026-10-16T03:32:05.756Z",
+  "lastSuccessfulAt": "2026-10-16T03:52:06.471Z",
+  "exportedAt": "2026-10-16T03:52:06.471Z",
+  "runId": "2026-10-16T03:52:06.471Z",
+  "forumExportedAt": "2026-10-16T03:52:06.471Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10613,
+    "scores": 10616,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 2835,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4985,
     "scoresBefore": 10613,
-    "scoresAfter": 10613,
+    "scoresAfter": 10616,
     "fullBaselineRequests": 3136,
-    "requestReductionPercent": 99.93622448979592,
+    "requestReductionPercent": 99.8405612244898,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "EvryLine",
+          "comment": "Неплохой текст. Образность и хорошие тропы на месте. Если пройдешь постарайся удивить судей во втором.",
+          "scoredAt": "2026-10-16T03:52:00.046Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Шакир",
+          "comment": "Читаешь уверенно. Текст не самый плохой, но очень расплывчатый. Судьба, реальность, повороты не туда. Конкретики бы и панчлайнов. ",
+          "scoredAt": "2026-10-16T03:49:17.119Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Преподобный Вито Корнелиус",
+          "comment": "Начал классно, но под конец стало скучновато. Подача интересная, нужно добавить интересных строчек в текст, без них как-то пусто.",
+          "scoredAt": "2026-10-16T03:46:23.585Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -165,27 +186,6 @@
           "artist": "Dice",
           "comment": "",
           "scoredAt": "2026-10-16T00:28:07.748Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "ANDRÆPER",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:27:16.967Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Axelll",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:26:31.717Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Обнять Небо",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:26:17.675Z"
         }
       ]
     }

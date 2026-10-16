@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T03:32:05.756Z",
+  "exportedAt": "2026-10-16T03:52:06.471Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -30379,8 +30379,14 @@
     },
     {
       "userId": "0e9bd4ce-c93d-412a-8407-c20b693efce2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Читаешь уверенно. Текст не самый плохой, но очень расплывчатый. Судьба, реальность, повороты не туда. Конкретики бы и панчлайнов. ",
+          "scoredAt": "2026-10-16T03:49:17.119Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -30394,7 +30400,7 @@
           "scoredAt": "2026-10-12T11:38:40.255Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:32:34.312Z",
+      "fetchedAt": "2026-10-16T03:52:06.471Z",
       "current": true
     },
     {
@@ -74099,8 +74105,14 @@
     },
     {
       "userId": "26cee723-110f-472c-92a7-aa5eab8a094e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Неплохой текст. Образность и хорошие тропы на месте. Если пройдешь постарайся удивить судей во втором.",
+          "scoredAt": "2026-10-16T03:52:00.046Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -74120,7 +74132,7 @@
           "scoredAt": "2026-10-12T03:54:06.998Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:02:34.209Z",
+      "fetchedAt": "2026-10-16T03:52:06.471Z",
       "current": true
     },
     {
@@ -77799,8 +77811,14 @@
     },
     {
       "userId": "a551b55f-ea46-42a3-bb62-495b3edbd196",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Начал классно, но под конец стало скучновато. Подача интересная, нужно добавить интересных строчек в текст, без них как-то пусто.",
+          "scoredAt": "2026-10-16T03:46:23.585Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -77814,7 +77832,7 @@
           "scoredAt": "2026-09-11T15:25:43.278Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T03:52:06.471Z",
       "current": true
     },
     {
