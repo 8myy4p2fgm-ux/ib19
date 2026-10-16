@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T20:01:59.841Z",
+  "exportedAt": "2026-10-16T20:11:59.551Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -1513,8 +1513,14 @@
     },
     {
       "userId": "beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Модный тип",
+          "scoredAt": "2026-10-16T20:11:50.464Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -1540,7 +1546,7 @@
           "scoredAt": "2026-09-01T12:37:29.614Z"
         }
       ],
-      "fetchedAt": "2026-10-14T19:42:14.934Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Kerry Brain",
       "artistSlug": "kerry-brain"
@@ -7414,8 +7420,14 @@
     },
     {
       "userId": "fbf2705e-788c-42b7-8990-301cf3a65fbe",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Очень глагольно-квадратно",
+          "scoredAt": "2026-10-16T20:08:50.687Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -7435,7 +7447,7 @@
           "scoredAt": "2026-09-02T16:15:36.308Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Ай",
       "artistSlug": "ay"
@@ -9502,8 +9514,14 @@
     },
     {
       "userId": "9f036fb7-d9c6-4f1a-b994-e57df0208543",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Нормальные частушки выдал ",
+          "scoredAt": "2026-10-16T20:07:09.444Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 2,
@@ -9529,7 +9547,7 @@
           "scoredAt": "2026-09-28T08:54:13.366Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Комнатный путешественник",
       "artistSlug": "komnatnyy-puteshestvennik"
@@ -14561,8 +14579,14 @@
     },
     {
       "userId": "a89f9a3f-fba4-4545-a81c-34357f680026",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Еще немного - и будет очень ок. Ты на правильном пути. вот поверь - ПОЧТИ. Ты сам поймешь, когда случится.",
+          "scoredAt": "2026-10-16T20:05:14.076Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -14582,7 +14606,7 @@
           "scoredAt": "2026-09-01T16:39:32.196Z"
         }
       ],
-      "fetchedAt": "2026-10-15T19:52:20.006Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Ts-Seven",
       "artistSlug": "ts-seven"
@@ -34135,8 +34159,14 @@
     },
     {
       "userId": "85d54a27-ae0a-4fa0-99f0-90cb15239681",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Неудачные рифмы подобрал. Дикция очень слабая пока",
+          "scoredAt": "2026-10-16T20:10:15.322Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -34144,7 +34174,7 @@
           "scoredAt": "2026-09-29T13:58:34.825Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "IronJhony [Sakh]",
       "artistSlug": "ironjhony-sakh"
@@ -77757,8 +77787,14 @@
     },
     {
       "userId": "f1f6c6f2-0596-47ab-a74b-0b200d061ce2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Квадратно, читка не убеждает, два с плюсом, скажем так",
+          "scoredAt": "2026-10-16T20:10:34.969Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -77772,7 +77808,7 @@
           "scoredAt": "2026-09-26T19:28:28.125Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Рофл",
       "artistSlug": "rofl"
@@ -98181,8 +98217,14 @@
     },
     {
       "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Очень примитивно и квадратно, прям максимально в лоб. Ну чисто на послушать пойдёт ",
+          "scoredAt": "2026-10-16T20:05:34.480Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -98202,7 +98244,7 @@
           "scoredAt": "2026-10-13T21:46:50.386Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "Александр Бахтинов",
       "artistSlug": "aleksandr-bahtinov"
@@ -102150,8 +102192,14 @@
     },
     {
       "userId": "0025ac76-291b-4d2a-9a8f-d3aef7da36a3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Твердая четверочка, так вижу. Плотно, раскрыто на уверенном, исполнено ок, все хорошо. Успехов во втором. ",
+          "scoredAt": "2026-10-16T20:11:01.533Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -102177,7 +102225,7 @@
           "scoredAt": "2026-09-19T21:09:24.501Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:32:28.888Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "ДИММИН",
       "artistSlug": "dimmin"
@@ -103520,8 +103568,14 @@
     },
     {
       "userId": "5013fa49-9e74-46a7-b6b9-746ff555a4ce",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Неплохие перебежки, рифмы каноничны",
+          "scoredAt": "2026-10-16T20:07:31.826Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -103541,7 +103595,7 @@
           "scoredAt": "2026-10-06T15:56:54.850Z"
         }
       ],
-      "fetchedAt": "2026-10-14T11:03:03.437Z",
+      "fetchedAt": "2026-10-16T20:11:59.551Z",
       "current": true,
       "artistName": "NA_MELY",
       "artistSlug": "na-mely"

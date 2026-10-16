@@ -124364,6 +124364,132 @@
         "scoredAt": "2026-10-16T19:52:49.566Z",
         "userId": "6320f348-f857-4398-a360-72e23751c31f"
       }
+    },
+    {
+      "id": "d417ec2b0c19cfec6fbc0f59e0b555b7f323ea751e66aee2d99d1e6c2914a16b",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:11:50.464Z",
+      "key": "[\"beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Модный тип",
+        "scoredAt": "2026-10-16T20:11:50.464Z",
+        "userId": "beb25b3c-3738-4a2d-ad08-bf4c67ca2ad3"
+      }
+    },
+    {
+      "id": "4028f56fbad4fa71dcef8777070f9ceea70f6ac93a8a2c3839a13ce1731bb016",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:08:50.687Z",
+      "key": "[\"fbf2705e-788c-42b7-8990-301cf3a65fbe\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Очень глагольно-квадратно",
+        "scoredAt": "2026-10-16T20:08:50.687Z",
+        "userId": "fbf2705e-788c-42b7-8990-301cf3a65fbe"
+      }
+    },
+    {
+      "id": "0f379dbd2dd20700df571686015173cd5c49aa594ec011748a280b300bf8edbe",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:07:09.444Z",
+      "key": "[\"9f036fb7-d9c6-4f1a-b994-e57df0208543\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Нормальные частушки выдал ",
+        "scoredAt": "2026-10-16T20:07:09.444Z",
+        "userId": "9f036fb7-d9c6-4f1a-b994-e57df0208543"
+      }
+    },
+    {
+      "id": "ca579852fd282fa59caeb755921edbd95bfb3dc488eae3c6731eb5160a95e369",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:05:14.076Z",
+      "key": "[\"a89f9a3f-fba4-4545-a81c-34357f680026\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Еще немного - и будет очень ок. Ты на правильном пути. вот поверь - ПОЧТИ. Ты сам поймешь, когда случится.",
+        "scoredAt": "2026-10-16T20:05:14.076Z",
+        "userId": "a89f9a3f-fba4-4545-a81c-34357f680026"
+      }
+    },
+    {
+      "id": "b6966bfe14157604c9ffaac0b31fb20f98d4de90e9232d65a87341bb74e86b80",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:10:15.322Z",
+      "key": "[\"85d54a27-ae0a-4fa0-99f0-90cb15239681\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Неудачные рифмы подобрал. Дикция очень слабая пока",
+        "scoredAt": "2026-10-16T20:10:15.322Z",
+        "userId": "85d54a27-ae0a-4fa0-99f0-90cb15239681"
+      }
+    },
+    {
+      "id": "68fdde0f553edd7108b5b7a548df73394571c59bb4251d4e473f796c83112289",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:10:34.969Z",
+      "key": "[\"f1f6c6f2-0596-47ab-a74b-0b200d061ce2\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Квадратно, читка не убеждает, два с плюсом, скажем так",
+        "scoredAt": "2026-10-16T20:10:34.969Z",
+        "userId": "f1f6c6f2-0596-47ab-a74b-0b200d061ce2"
+      }
+    },
+    {
+      "id": "29ba46540621b374f9ad59fe6459e3a584d24b7ad9ff40381d0db0328f9e16e7",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:05:34.480Z",
+      "key": "[\"0e0340dd-b8dd-4f06-8bfd-dd98779700fb\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Очень примитивно и квадратно, прям максимально в лоб. Ну чисто на послушать пойдёт ",
+        "scoredAt": "2026-10-16T20:05:34.480Z",
+        "userId": "0e0340dd-b8dd-4f06-8bfd-dd98779700fb"
+      }
+    },
+    {
+      "id": "d8df811f0105ff7ec9471cfa84cd21a480e2c8b1c840a6bf80a7eac221e36a5a",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:11:01.533Z",
+      "key": "[\"0025ac76-291b-4d2a-9a8f-d3aef7da36a3\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 4,
+        "comment": "Твердая четверочка, так вижу. Плотно, раскрыто на уверенном, исполнено ок, все хорошо. Успехов во втором. ",
+        "scoredAt": "2026-10-16T20:11:01.533Z",
+        "userId": "0025ac76-291b-4d2a-9a8f-d3aef7da36a3"
+      }
+    },
+    {
+      "id": "01d1831564fd5d9a71da42163b8b8f936998003d2bc035105172ee9615da8e93",
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "sourceScoredAt": "2026-10-16T20:07:31.826Z",
+      "key": "[\"5013fa49-9e74-46a7-b6b9-746ff555a4ce\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Неплохие перебежки, рифмы каноничны",
+        "scoredAt": "2026-10-16T20:07:31.826Z",
+        "userId": "5013fa49-9e74-46a7-b6b9-746ff555a4ce"
+      }
     }
   ],
   "snapshots": [
@@ -130423,6 +130549,26 @@
           "index": 29.150596688067495,
           "favor": 18.23970714375293,
           "attention": -0.2505277785200823,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:11:59.551Z",
+      "exportedAt": "2026-10-16T20:11:59.551Z",
+      "scores": 11877,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.52698269314154,
+          "favor": 9.246605014819364,
+          "attention": 6.6262423399763115,
+          "respect": 6.654135338345864
+        },
+        "veterans": {
+          "index": 29.171235948896793,
+          "favor": 18.249217624392696,
+          "attention": -0.23939899833055092,
           "respect": 11.161417322834646
         }
       }

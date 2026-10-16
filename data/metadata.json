@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T20:01:59.841Z",
-  "exportedAt": "2026-10-16T20:01:59.841Z",
-  "runId": "2026-10-16T20:01:59.841Z",
-  "forumExportedAt": "2026-10-16T20:01:59.841Z",
+  "lastSuccessfulAt": "2026-10-16T20:11:59.551Z",
+  "exportedAt": "2026-10-16T20:11:59.551Z",
+  "runId": "2026-10-16T20:11:59.551Z",
+  "forumExportedAt": "2026-10-16T20:11:59.551Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11868,
+    "scores": 11877,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8046,
-    "scoresBefore": 11862,
-    "scoresAfter": 11868,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 8,
+    "logicalRequests": 12,
+    "durationMs": 11982,
+    "scoresBefore": 11868,
+    "scoresAfter": 11877,
     "fullBaselineRequests": 3202,
-    "requestReductionPercent": 99.75015615240474,
+    "requestReductionPercent": 99.62523422860711,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "ДИММИН",
+          "comment": "Твердая четверочка, так вижу. Плотно, раскрыто на уверенном, исполнено ок, все хорошо. Успехов во втором. ",
+          "scoredAt": "2026-10-16T20:11:01.533Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Рофл",
+          "comment": "Квадратно, читка не убеждает, два с плюсом, скажем так",
+          "scoredAt": "2026-10-16T20:10:34.969Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "IronJhony [Sakh]",
+          "comment": "Неудачные рифмы подобрал. Дикция очень слабая пока",
+          "scoredAt": "2026-10-16T20:10:15.322Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Ай",
+          "comment": "Очень глагольно-квадратно",
+          "scoredAt": "2026-10-16T20:08:50.687Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "NA_MELY",
+          "comment": "Неплохие перебежки, рифмы каноничны",
+          "scoredAt": "2026-10-16T20:07:31.826Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Комнатный путешественник",
+          "comment": "Нормальные частушки выдал ",
+          "scoredAt": "2026-10-16T20:07:09.444Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Александр Бахтинов",
+          "comment": "Очень примитивно и квадратно, прям максимально в лоб. Ну чисто на послушать пойдёт ",
+          "scoredAt": "2026-10-16T20:05:34.480Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Ts-Seven",
+          "comment": "Еще немного - и будет очень ок. Ты на правильном пути. вот поверь - ПОЧТИ. Ты сам поймешь, когда случится.",
+          "scoredAt": "2026-10-16T20:05:14.076Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -130,62 +186,6 @@
           "artist": "два дня моросит",
           "comment": "",
           "scoredAt": "2026-10-16T19:51:47.838Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Колдун Стайл",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:51:30.109Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Невбит",
-          "comment": "Гудвина напомнил",
-          "scoredAt": "2026-10-16T19:50:37.642Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Lilit",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:49:00.721Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "petrovdimm",
-          "comment": "Ну по умелкам - это проход, но где-то на грани. Чуть больше стараний во втором отборе, умоляю. ",
-          "scoredAt": "2026-10-16T19:48:17.453Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "L7M",
-          "comment": "Интересный стиль",
-          "scoredAt": "2026-10-16T19:47:56.463Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 5,
-          "artist": "Frizzy",
-          "comment": "Өте жақсы",
-          "scoredAt": "2026-10-16T19:47:09.901Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Johnnykushmen",
-          "comment": "",
-          "scoredAt": "2026-10-16T19:46:32.110Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "bostiLOm",
-          "comment": "что-то в тебе есть, инфа сотка. ",
-          "scoredAt": "2026-10-16T19:46:31.620Z"
         }
       ]
     }
