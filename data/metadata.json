@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T22:41:52.528Z",
-  "exportedAt": "2026-10-16T22:41:52.528Z",
-  "runId": "2026-10-16T22:41:52.528Z",
-  "forumExportedAt": "2026-10-16T22:41:52.528Z",
+  "lastSuccessfulAt": "2026-10-16T22:51:51.677Z",
+  "exportedAt": "2026-10-16T22:51:51.677Z",
+  "runId": "2026-10-16T22:51:51.677Z",
+  "forumExportedAt": "2026-10-16T22:51:51.677Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11963,
+    "scores": 11965,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4273,
-    "scoresBefore": 11961,
-    "scoresAfter": 11963,
+    "durationMs": 3741,
+    "scoresBefore": 11963,
+    "scoresAfter": 11965,
     "fullBaselineRequests": 3204,
     "requestReductionPercent": 99.87515605493134,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "artist": "Раххбельд",
+          "comment": "Best",
+          "scoredAt": "2026-10-16T22:50:47.169Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "VinS",
+          "comment": "Спасибо за разнообразие в флёу и раскладки, смысл уловил , но скучновато, пришлось гуглить полином - пздц, что только не сделаешь ради рифмы ))) лови 4 с минусом, строчки не цепляют но звучишь как некий проповедник в секте )))) мб лучше попробуешь панчлайны ?))",
+          "scoredAt": "2026-10-16T22:49:11.037Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -173,20 +187,6 @@
           "artist": "n0trixx",
           "comment": "Брось своего звукаря и больше не общайся с ним пожалуйста",
           "scoredAt": "2026-10-16T21:38:38.666Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "SKOBEE",
-          "comment": "Проходная, но без каких-либо ярких моментов ",
-          "scoredAt": "2026-10-16T21:37:21.678Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Thought killer",
-          "comment": "Ля ща отстаньте вы от череп овца, 26 год на дворе блъ. А чего не перезаписал тейк с отца на вес - криво де. Вообще носатый залогинься!!! Прикольные отсылки на акапелку в конце , ну в целом нормас лови 4 с минусом ",
-          "scoredAt": "2026-10-16T21:34:41.623Z"
         }
       ]
     }

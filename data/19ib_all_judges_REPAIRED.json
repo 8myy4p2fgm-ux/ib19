@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T22:41:52.528Z",
+  "exportedAt": "2026-10-16T22:51:51.677Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -20248,8 +20248,14 @@
     },
     {
       "userId": "00e23b35-80d9-46ce-8d71-f36a5195367f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Спасибо за разнообразие в флёу и раскладки, смысл уловил , но скучновато, пришлось гуглить полином - пздц, что только не сделаешь ради рифмы ))) лови 4 с минусом, строчки не цепляют но звучишь как некий проповедник в секте )))) мб лучше попробуешь панчлайны ?))",
+          "scoredAt": "2026-10-16T22:49:11.037Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -20269,7 +20275,7 @@
           "scoredAt": "2026-09-06T20:00:43.378Z"
         }
       ],
-      "fetchedAt": "2026-10-14T18:42:10.599Z",
+      "fetchedAt": "2026-10-16T22:51:51.677Z",
       "current": true,
       "artistName": "VinS",
       "artistSlug": "vins"
@@ -44336,34 +44342,6 @@
       "artistSlug": "resentment"
     },
     {
-      "userId": "613d01e4-6adc-4bad-b444-5f5e56dad0c9",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "comment": "не хватает напора брат, немного дефолтно всё",
-          "scoredAt": "2026-10-16T16:36:57.797Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "comment": "Что-то я после припева заокеанского ожидал разъёб по исполнению, но куплет в этом плане оказался серенький. Ну есть свой приколдес в этом, но по тому же тексту сладенько, не за что зацепиться",
-          "scoredAt": "2026-10-13T16:31:11.008Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 2,
-          "comment": "Стрим 4",
-          "scoredAt": "2026-09-08T15:33:12.166Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T16:42:38.697Z",
-      "current": true,
-      "artistName": "Oraaanja",
-      "artistSlug": "oraaanja"
-    },
-    {
       "userId": "a5829677-49c3-4f8c-a42b-c331d5955ca7",
       "scoredCount": 5,
       "scores": [
@@ -44402,6 +44380,34 @@
       "current": true,
       "artistName": "даня мц",
       "artistSlug": "danya-mc"
+    },
+    {
+      "userId": "613d01e4-6adc-4bad-b444-5f5e56dad0c9",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "не хватает напора брат, немного дефолтно всё",
+          "scoredAt": "2026-10-16T16:36:57.797Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Что-то я после припева заокеанского ожидал разъёб по исполнению, но куплет в этом плане оказался серенький. Ну есть свой приколдес в этом, но по тому же тексту сладенько, не за что зацепиться",
+          "scoredAt": "2026-10-13T16:31:11.008Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 2,
+          "comment": "Стрим 4",
+          "scoredAt": "2026-09-08T15:33:12.166Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T16:42:38.697Z",
+      "current": true,
+      "artistName": "Oraaanja",
+      "artistSlug": "oraaanja"
     },
     {
       "userId": "39533ad1-9cbb-482f-a1ba-a575081537bc",
@@ -74221,6 +74227,22 @@
       "artistSlug": "belyy-shum-peterburga"
     },
     {
+      "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 2,
+          "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+          "scoredAt": "2026-10-16T17:59:55.303Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "current": true,
+      "artistName": "Сергей Драколов",
+      "artistSlug": "sergey-drakolov"
+    },
+    {
       "userId": "47be7e37-9ede-4864-b6fb-d8dd428421bb",
       "scoredCount": 3,
       "scores": [
@@ -74287,22 +74309,6 @@
       "current": true,
       "artistName": "Odinokov",
       "artistSlug": "odinokov"
-    },
-    {
-      "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "r1fmabes",
-          "score": 2,
-          "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
-          "scoredAt": "2026-10-16T17:59:55.303Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
-      "current": true,
-      "artistName": "Сергей Драколов",
-      "artistSlug": "sergey-drakolov"
     },
     {
       "userId": "9c8233e9-a5cd-47d3-925f-ebd5a85c60b1",
@@ -90860,8 +90866,14 @@
     },
     {
       "userId": "e4d1b139-63af-48c5-b1b6-9671e162732d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Best",
+          "scoredAt": "2026-10-16T22:50:47.169Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 1,
@@ -90881,7 +90893,7 @@
           "scoredAt": "2026-10-07T12:36:22.523Z"
         }
       ],
-      "fetchedAt": "2026-10-15T19:12:21.250Z",
+      "fetchedAt": "2026-10-16T22:51:51.677Z",
       "current": true,
       "artistName": "Раххбельд",
       "artistSlug": "rahhbeld"
