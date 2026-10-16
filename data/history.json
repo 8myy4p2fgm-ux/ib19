@@ -117056,6 +117056,426 @@
         "scoredAt": "2026-10-16T15:14:46.955Z",
         "userId": "f77a5874-291d-4056-8479-22d9374b9b0c"
       }
+    },
+    {
+      "id": "8e6f7deb9faa3421c40d70a18d9f1a6579b698d2bfffdbd67f8ba0c3e69fb14a",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:27:05.793Z",
+      "key": "[\"fa145f41-01a2-4b51-a0eb-c8f2b9bbb992\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 1,
+        "comment": "искусство не судят!",
+        "scoredAt": "2026-10-16T15:27:05.793Z",
+        "userId": "fa145f41-01a2-4b51-a0eb-c8f2b9bbb992"
+      }
+    },
+    {
+      "id": "32abcb4b7fd9d95e67cde9042afee480953252644c638549c5045373ecba4899",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:30:20.096Z",
+      "key": "[\"18f660c7-935b-4d89-b420-2f27b05c419a\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 1,
+        "comment": "Ты выбрал очень сложный бит для себя. Совсем не получилось с ним справиться. Возьми что-то попроще, попрактикуйся. Всегда начинай с простого.",
+        "scoredAt": "2026-10-16T15:30:20.096Z",
+        "userId": "18f660c7-935b-4d89-b420-2f27b05c419a"
+      }
+    },
+    {
+      "id": "7125163e65bbe2fa0e55fb95268080a20979de1038dbe2f93aa0c22e031e0410",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:30:39.078Z",
+      "key": "[\"cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "звук ужас. читать умеет ",
+        "scoredAt": "2026-10-16T15:30:39.078Z",
+        "userId": "cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70"
+      }
+    },
+    {
+      "id": "729a173a1ee26fa2871f2f9c9ee0234ba0563c6e8787ea0fe4b7483e0cc25787",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:27:00.717Z",
+      "key": "[\"e3c52356-8232-49e3-9ce4-33565f6dda91\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Прикольная манера читки, показал разнообразие в рамках небольшого трека, пожурить хочется исключительно за концовку на глаголы. Глаголы монголы, нутыпонел.",
+        "scoredAt": "2026-10-16T15:27:00.717Z",
+        "userId": "e3c52356-8232-49e3-9ce4-33565f6dda91"
+      }
+    },
+    {
+      "id": "87f3c13221f04c18847f9873a3efc4f6389c5b52f7d20565f10eceaa590f7a97",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:23:57.371Z",
+      "key": "[\"537ba3db-e337-486b-8dd3-1617d06f17bf\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Из-за слишком длинных строк часто заходишь за пределы строк бита, поэтому теряется вайб.",
+        "scoredAt": "2026-10-16T15:23:57.371Z",
+        "userId": "537ba3db-e337-486b-8dd3-1617d06f17bf"
+      }
+    },
+    {
+      "id": "6d8d75af6862b1153034d5b1bb1cd68f21af2689449a77f50135401da1d0b646",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:24:53.191Z",
+      "key": "[\"f89b6294-21bd-42ee-9e8f-ad4e9f6583ac\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Неплохой сторител. Хотелось бы помимо истории еще интересных строчек послушать. По читке неплохо, но не очень уверенно. Четверку ставлю, но тройку держу в уме.",
+        "scoredAt": "2026-10-16T15:24:53.191Z",
+        "userId": "f89b6294-21bd-42ee-9e8f-ad4e9f6583ac"
+      }
+    },
+    {
+      "id": "8636881318de4d74984f209fc4e02856c122686b56fa22f1f49b2b1266babd58",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:28:10.409Z",
+      "key": "[\"86f24dc3-c0f7-474a-b50e-6d37a0698c62\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Жестко брат, ну и биток на диктофон записан, и ну и сам как то не в него читаешь",
+        "scoredAt": "2026-10-16T15:28:10.409Z",
+        "userId": "86f24dc3-c0f7-474a-b50e-6d37a0698c62"
+      }
+    },
+    {
+      "id": "496a81a91848a7e5cfb3107f7efc95743522181189bfeb22316587c1a3fdbdb6",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:23:55.920Z",
+      "key": "[\"440e307a-9c10-4fe5-b34e-c2e415e9305a\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "на хаски похож. но хаски курильщика",
+        "scoredAt": "2026-10-16T15:23:55.920Z",
+        "userId": "440e307a-9c10-4fe5-b34e-c2e415e9305a"
+      }
+    },
+    {
+      "id": "99e48562141f94b1736e1a3676b54b6029a2b67292b834a31dee056a6b3bbee2",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:28:46.798Z",
+      "key": "[\"2787579f-ffa0-465d-ad95-f9cbc768a6ec\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "В голосе не хватает уверенности, было неудачное ускорение, по тексту незамысловато, часто используешь слабосозвучные рифмы, есть квадраты.",
+        "scoredAt": "2026-10-16T15:28:46.798Z",
+        "userId": "2787579f-ffa0-465d-ad95-f9cbc768a6ec"
+      }
+    },
+    {
+      "id": "a47900884ae5b0c985a75d00d7cd72582df8081e8c49a34512228b5551904eea",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:24:57.534Z",
+      "key": "[\"689a8e7a-f67a-4ee1-a20c-a96f7ed7edf1\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "стильно звучит. по тексту не хватает немного ",
+        "scoredAt": "2026-10-16T15:24:57.534Z",
+        "userId": "689a8e7a-f67a-4ee1-a20c-a96f7ed7edf1"
+      }
+    },
+    {
+      "id": "c04bb528086b447bbb7894cd481728398102a909306e4fd203293bb81e9b03cd",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:31:44.281Z",
+      "key": "[\"6e3a7711-5d38-4b42-98c9-1dcdc203a916\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "По теме плотно прошёлся, это ты молодец. Но по содержанию какого-то хода мб не хватило или цепких элементов. По рифме – квадратов жопой жуй. Зачитал без шероховатостей. Ну 3 с минусом, ок",
+        "scoredAt": "2026-10-16T15:31:44.281Z",
+        "userId": "6e3a7711-5d38-4b42-98c9-1dcdc203a916"
+      }
+    },
+    {
+      "id": "e46f91282441294e6cf6c9dada7427688742aae94901ab7fcd09f4cfb0c82b2c",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:25:51.604Z",
+      "key": "[\"ff80844e-57ac-4665-b4f6-956c3c561745\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст слабый. читать умеет ",
+        "scoredAt": "2026-10-16T15:25:51.604Z",
+        "userId": "ff80844e-57ac-4665-b4f6-956c3c561745"
+      }
+    },
+    {
+      "id": "9ec38d19f4c1b4e38ebba49cccb08f1dfdd4d4d9e49337eed0087837be9abb40",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:28:03.655Z",
+      "key": "[\"a7476764-e15e-4ee3-86f9-87adcd31af59\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Подача не понравилась, как будто реально лет 10 назад не читал.\nТекст не стыдный, но и не цепляющий.\nСкорее на 3.5 работа.",
+        "scoredAt": "2026-10-16T15:28:03.655Z",
+        "userId": "a7476764-e15e-4ee3-86f9-87adcd31af59"
+      }
+    },
+    {
+      "id": "aa72b28eb4292807862c59c83844ecfe49afebf3a86d1316a637e56513ae5293",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:23:26.900Z",
+      "key": "[\"a65b0260-ba60-4e75-839c-a55918601201\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "на бодреньком, звучишь хорошо, энергично, в строчки умеешь, но надавай концентрацию их повышай ) \nи будешь супер крут",
+        "scoredAt": "2026-10-16T15:23:26.900Z",
+        "userId": "a65b0260-ba60-4e75-839c-a55918601201"
+      }
+    },
+    {
+      "id": "132415a1c54ce53381a1505f3b0982c2f42898dcf905ae579516926d31bd7e30",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:24:45.445Z",
+      "key": "[\"eff1ca9c-70cf-45f0-87ec-152ffbe0baab\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Читать могёшь, но текст по верхам чисто, не без квадратов и слабосозвучных, опять реперы дети тупые, телек врёт. На разок трек ",
+        "scoredAt": "2026-10-16T15:24:45.445Z",
+        "userId": "eff1ca9c-70cf-45f0-87ec-152ffbe0baab"
+      }
+    },
+    {
+      "id": "b7fab941ca828bb8541c068628df13ba6aec12f8a660bf8732d5005844776826",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:29:15.655Z",
+      "key": "[\"6ddcea0e-8106-4027-bd89-c6a51f396b07\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "4 с минусом. текст получше бы ",
+        "scoredAt": "2026-10-16T15:29:15.655Z",
+        "userId": "6ddcea0e-8106-4027-bd89-c6a51f396b07"
+      }
+    },
+    {
+      "id": "daa1cc0d6e40c0d7dba400a5ae22704adeda02a63003680f858b1deaf07c42a3",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:31:53.228Z",
+      "key": "[\"8df38f4d-bd37-4008-a37c-28cd82b009d2\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "свежо. хорош",
+        "scoredAt": "2026-10-16T15:31:53.228Z",
+        "userId": "8df38f4d-bd37-4008-a37c-28cd82b009d2"
+      }
+    },
+    {
+      "id": "c512fff6a637f568db896f6b6bc21a74a016283405aef8defaf4070d6b437d3b",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:26:25.018Z",
+      "key": "[\"ea035668-c9ca-4c81-9276-16b87b39ca67\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Флексишь как надо, стильно. По тексту просто очень. Онлайн баттлы не место для поднятия бабок)\nТоже надеюсь услышать тебя во втором.",
+        "scoredAt": "2026-10-16T15:26:25.018Z",
+        "userId": "ea035668-c9ca-4c81-9276-16b87b39ca67"
+      }
+    },
+    {
+      "id": "45f92f45b4cd622acbbe429a7cb484e3687b5278b5604251c703387ba1652ce2",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:29:43.691Z",
+      "key": "[\"c6d2b5ec-b1ff-4c00-9862-845cccc4fca1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень странные затяжки в читке, и смены по флоу",
+        "scoredAt": "2026-10-16T15:29:43.691Z",
+        "userId": "c6d2b5ec-b1ff-4c00-9862-845cccc4fca1"
+      }
+    },
+    {
+      "id": "dcb7c0871ee226545c81c36531fbee7c81038a6b6c835952099fbbe6969d6ba8",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:31:10.853Z",
+      "key": "[\"5f0c9d57-6fbc-4cf8-a982-2945d2893735\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "строки норм есть. читает слабо",
+        "scoredAt": "2026-10-16T15:31:10.853Z",
+        "userId": "5f0c9d57-6fbc-4cf8-a982-2945d2893735"
+      }
+    },
+    {
+      "id": "245bcb237afdc480193c6a1c1538ca8fc9238f42f15679d9e1e237922e495104",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:27:03.867Z",
+      "key": "[\"41d9c649-2b5a-4e63-a4a7-a50c9d03a7be\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "частушка смешная. рэп плохой ",
+        "scoredAt": "2026-10-16T15:27:03.867Z",
+        "userId": "41d9c649-2b5a-4e63-a4a7-a50c9d03a7be"
+      }
+    },
+    {
+      "id": "d9bf91089503c05c5a15e1bad61e489b01f9c2878b05d731510678ff4be368a4",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:32:43.848Z",
+      "key": "[\"6be8c258-f067-480f-972a-cfef91d6b2e0\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "тараторка тривиальная. но читает хорошо. текст такой се",
+        "scoredAt": "2026-10-16T15:32:43.848Z",
+        "userId": "6be8c258-f067-480f-972a-cfef91d6b2e0"
+      }
+    },
+    {
+      "id": "35505746566f1fb12855e7b4867113d3c41314073afbc578ca16dc17f1c3e80b",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:28:27.711Z",
+      "key": "[\"5f2667a5-1bb0-4ecb-9dd6-4d50d526b195\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст слабый. правильно «надеваю»",
+        "scoredAt": "2026-10-16T15:28:27.711Z",
+        "userId": "5f2667a5-1bb0-4ecb-9dd6-4d50d526b195"
+      }
+    },
+    {
+      "id": "25511e85acad1923b7088d86c46e78dde1e78a1baa036659884b461c1716369c",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:27:38.392Z",
+      "key": "[\"fc5fc7b7-c5e4-42bc-aa52-de365d253d6a\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст оч слабый. голос рэперский",
+        "scoredAt": "2026-10-16T15:27:38.392Z",
+        "userId": "fc5fc7b7-c5e4-42bc-aa52-de365d253d6a"
+      }
+    },
+    {
+      "id": "08d19c5fd1a438b97618a4649c738df8d375f31219be63289ab0bbc87014309c",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:30:08.637Z",
+      "key": "[\"114db8f4-e440-4219-bb76-62af7a7097e2\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "читать умеет. текст такое се ",
+        "scoredAt": "2026-10-16T15:30:08.637Z",
+        "userId": "114db8f4-e440-4219-bb76-62af7a7097e2"
+      }
+    },
+    {
+      "id": "3059b615ea13477d246e2ec63339d6ff77baad782a2c44b791f44aa732fe9c20",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:23:07.850Z",
+      "key": "[\"3e1581c2-2d7c-4471-ad1a-9b9642a32977\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "тренироваться и тренироваться ",
+        "scoredAt": "2026-10-16T15:23:07.850Z",
+        "userId": "3e1581c2-2d7c-4471-ad1a-9b9642a32977"
+      }
+    },
+    {
+      "id": "8bac89417eb09e032f6a52b5b4d6a725afaafe3a4f167c3fc552f4d25645bd4d",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:25:23.431Z",
+      "key": "[\"4e4b4178-8ecc-4a32-b1bb-4eec71b3d2e3\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Крепкий хороший трек с проходом. Не понравился переход на 3 квадрат, в остальном топ. ",
+        "scoredAt": "2026-10-16T15:25:23.431Z",
+        "userId": "4e4b4178-8ecc-4a32-b1bb-4eec71b3d2e3"
+      }
+    },
+    {
+      "id": "e966a8fa4879f28a4f394fb1f59dae42bd7e42ab31065ef02f653113b9ec2f9f",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:22:44.567Z",
+      "key": "[\"a0a756cb-ae94-4552-b49a-e22ab2ac1953\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 1,
+        "comment": "Тяжело слушать. Я всё понимаю, я открыт разным стилям, в меня в листе разное по звуку и жанру, но это просто тяжело слушается. Читка по слогам, текст банален.",
+        "scoredAt": "2026-10-16T15:22:44.567Z",
+        "userId": "a0a756cb-ae94-4552-b49a-e22ab2ac1953"
+      }
+    },
+    {
+      "id": "a9d1e8ad3fcee35b86df4e17ba49c27de9ca33c3ec7b7ef271f8c92e6c62e630",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:26:01.720Z",
+      "key": "[\"992cdd91-af40-47ea-8dd2-4f0efcd154fb\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "А кто не умел танцевать - тот назывался MC. - отлично\nвообще текст разогнался после вступления - прекрасно. \nна изи пояснил и раскрыл тему прикольчиков накидал - красава. хорошо звучит! \nлови 4",
+        "scoredAt": "2026-10-16T15:26:01.720Z",
+        "userId": "992cdd91-af40-47ea-8dd2-4f0efcd154fb"
+      }
+    },
+    {
+      "id": "2ae448563c5b5706b071251d89f8847ab46d0cd4190924f664398093c2cf90e7",
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "sourceScoredAt": "2026-10-16T15:29:52.080Z",
+      "key": "[\"90cd5449-ea7c-44e3-a042-30974cb5d3de\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "крепкий трек, чуть менее монотонно бы и рифмы покрасивше поставил бы 5, а тембр и подача пиздатые. ",
+        "scoredAt": "2026-10-16T15:29:52.080Z",
+        "userId": "90cd5449-ea7c-44e3-a042-30974cb5d3de"
+      }
     }
   ],
   "snapshots": [
@@ -122555,6 +122975,26 @@
           "index": 28.34094599323306,
           "favor": 18.03020851898057,
           "attention": -0.8182947838120251,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T15:32:47.284Z",
+      "exportedAt": "2026-10-16T15:32:47.284Z",
+      "scores": 11376,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.591020054747773,
+          "favor": 9.299298308744149,
+          "attention": 6.541721746003625,
+          "respect": 6.75
+        },
+        "veterans": {
+          "index": 28.40533634642609,
+          "favor": 18.041480797678975,
+          "attention": -0.7651767093174003,
           "respect": 11.129032258064516
         }
       }
