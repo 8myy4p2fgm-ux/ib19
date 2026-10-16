@@ -105604,6 +105604,174 @@
         "scoredAt": "2026-10-15T23:43:05.718Z",
         "userId": "738ae16c-b36b-449e-8a7a-45d329a364da"
       }
+    },
+    {
+      "id": "6023989ebaf0a9f10c65f5461835ef56543b7393ef24aa6a00e9c632d32f1ffe",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:55:51.962Z",
+      "key": "[\"49165ec4-03a7-47a6-bf1c-8261fe2fc12e\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Считаю тебя одним из самых сильных мс, кто до сих пор предан \"мелким/средним\" онлайн баттлам. Давай, не подкачай дальше.",
+        "scoredAt": "2026-10-15T23:55:51.962Z",
+        "userId": "49165ec4-03a7-47a6-bf1c-8261fe2fc12e"
+      }
+    },
+    {
+      "id": "94dfb3df894f54d94e33d84548103dd5f9840576ebe7a4db7fcba47edd7328ec",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:58:16.162Z",
+      "key": "[\"dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Что с записью? Читка слабая",
+        "scoredAt": "2026-10-15T23:58:16.162Z",
+        "userId": "dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b"
+      }
+    },
+    {
+      "id": "59a0408f2a713182c6b44daf7dea679a7499f8a1b3818ed0361b0091d924b2e8",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:59:58.979Z",
+      "key": "[\"eac39696-2f8c-4269-90bc-c6c9db5cf737\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Ой, как это необычно и атмосферно! ",
+        "scoredAt": "2026-10-15T23:59:58.979Z",
+        "userId": "eac39696-2f8c-4269-90bc-c6c9db5cf737"
+      }
+    },
+    {
+      "id": "25cfaf32ca81aa5db8ea1d403b8fef57ab28fa94ba162ed63ad0294a40f86518",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-16T00:00:20.599Z",
+      "key": "[\"d4b9ae56-2169-4647-ba7c-eaa795f6418f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "ОК.",
+        "scoredAt": "2026-10-16T00:00:20.599Z",
+        "userId": "d4b9ae56-2169-4647-ba7c-eaa795f6418f"
+      }
+    },
+    {
+      "id": "59126d78568a8fd6d09ff4a074137214b19bd2521c6e4940f4126e67a52a6eb5",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-16T00:01:27.591Z",
+      "key": "[\"4ddf6f60-4a08-4316-856c-548b671d1f66\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Уныло(",
+        "scoredAt": "2026-10-16T00:01:27.591Z",
+        "userId": "4ddf6f60-4a08-4316-856c-548b671d1f66"
+      }
+    },
+    {
+      "id": "f019dbe7606fabc16c2fd4ab533581910421eb3ae4bbbfbb66231700c85c1a1c",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:59:20.141Z",
+      "key": "[\"866c6cd1-9c2b-4c5c-a202-194ab7863b0b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Хорошахя демка",
+        "scoredAt": "2026-10-15T23:59:20.141Z",
+        "userId": "866c6cd1-9c2b-4c5c-a202-194ab7863b0b"
+      }
+    },
+    {
+      "id": "7e6881e4388ec3103a3a6fc898093a28a7302bff2c10cbb9a4eb3b926c9f822d",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:57:06.384Z",
+      "key": "[\"0ef9659c-c050-4da1-83cd-222b7041a2f4\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Для отбора прям хорошо! Дальше, придумывай оригинальную идею песни, без этого будет тяжело",
+        "scoredAt": "2026-10-15T23:57:06.384Z",
+        "userId": "0ef9659c-c050-4da1-83cd-222b7041a2f4"
+      }
+    },
+    {
+      "id": "41d6c7430ed4a67b8da97fe99e2bd0f4eb7e18ea6d11598e29e6634053308fb1",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:57:28.258Z",
+      "key": "[\"4a357ca0-dc7e-4014-b404-4415e30aef66\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "\nОбычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.\n",
+        "scoredAt": "2026-10-15T23:57:28.258Z",
+        "userId": "4a357ca0-dc7e-4014-b404-4415e30aef66"
+      }
+    },
+    {
+      "id": "db044b399d6b0c69e459ed0dc1c3e6ea5c487ffd05fd2c98555b4b458e0a8d7b",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:53:44.892Z",
+      "key": "[\"08d373a1-689d-4934-a153-d4d263de6390\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Знаешь в чем парадокс?! Эта хуйня в разы интереснее, чем однообразная и пластмассовая хуита 40% участников здесь)",
+        "scoredAt": "2026-10-15T23:53:44.892Z",
+        "userId": "08d373a1-689d-4934-a153-d4d263de6390"
+      }
+    },
+    {
+      "id": "ca52ddab7a44fda2876f231fbebd93e42b47970f9e1be3d477feb0f326bb618e",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:58:19.555Z",
+      "key": "[\"28af9bae-a5d4-4145-961a-d8214251449e\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Где-то икает один Пирокинезис",
+        "scoredAt": "2026-10-15T23:58:19.555Z",
+        "userId": "28af9bae-a5d4-4145-961a-d8214251449e"
+      }
+    },
+    {
+      "id": "75cd65a8a133d83cf95c642799fc5bf0e5d4fe17314f39a279bf643c7f22afcf",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-16T00:00:27.245Z",
+      "key": "[\"7787aa09-310d-42b6-bd54-d30a9d3af14e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Хорошая подача, стилек формируется, успехов",
+        "scoredAt": "2026-10-16T00:00:27.245Z",
+        "userId": "7787aa09-310d-42b6-bd54-d30a9d3af14e"
+      }
+    },
+    {
+      "id": "1534819de3269ddfd3d7f6df31e7e078adc9eb6f6f08e209fbb4afc2d47de970",
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "sourceScoredAt": "2026-10-15T23:58:42.049Z",
+      "key": "[\"0988ccf0-f008-404a-bc8d-f747b5698695\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-15T23:58:42.049Z",
+        "userId": "0988ccf0-f008-404a-bc8d-f747b5698695"
+      }
     }
   ],
   "snapshots": [
@@ -109603,6 +109771,26 @@
           "index": 27.919498827939492,
           "favor": 18.174221676379403,
           "attention": -1.5362354534819285,
+          "respect": 11.281512605042018
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T00:02:21.262Z",
+      "exportedAt": "2026-10-16T00:02:21.262Z",
+      "scores": 10545,
+      "selectionVersion": "efb0919ca2ad3561e867154fb1fb21259d04916d9376a8e0fd38944d95ad6573",
+      "indices": {
+        "forum": {
+          "index": 22.92675053353706,
+          "favor": 9.424575036425452,
+          "attention": 6.602175497111607,
+          "respect": 6.9
+        },
+        "veterans": {
+          "index": 27.938965172780524,
+          "favor": 18.16920207561252,
+          "attention": -1.5117495078740157,
           "respect": 11.281512605042018
         }
       }
