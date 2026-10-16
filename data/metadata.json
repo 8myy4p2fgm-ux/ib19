@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T03:52:06.471Z",
-  "exportedAt": "2026-10-16T03:52:06.471Z",
-  "runId": "2026-10-16T03:52:06.471Z",
-  "forumExportedAt": "2026-10-16T03:52:06.471Z",
+  "lastSuccessfulAt": "2026-10-16T04:02:11.004Z",
+  "exportedAt": "2026-10-16T04:02:11.004Z",
+  "runId": "2026-10-16T04:02:11.004Z",
+  "forumExportedAt": "2026-10-16T04:02:11.004Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10616,
+    "scores": 10618,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4985,
-    "scoresBefore": 10613,
-    "scoresAfter": 10616,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3746,
+    "scoresBefore": 10616,
+    "scoresAfter": 10618,
     "fullBaselineRequests": 3136,
-    "requestReductionPercent": 99.8405612244898,
+    "requestReductionPercent": 99.87244897959184,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "undercat",
+          "comment": "Неплохо, но по тексту видно, что пытаешься запихнуть вообще всё. От баттла до какой-то попытки в социальщину. Читаешь неплохо.",
+          "scoredAt": "2026-10-16T04:01:10.390Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "evil twin",
+          "comment": "Строчка про краснокнижного человека затащила на вышку. В целом неплохо, но очень сильно напрягает как ты достаточно серьезную тему раскрываешь и при этом используешь не очень удачные ходы по типу \"чи нет\" или \"Ержана\". Хочется, чтобы работа была более целостной. Читаешь ровно.",
+          "scoredAt": "2026-10-16T03:55:10.635Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -172,20 +186,6 @@
           "artist": "Железный Джон",
           "comment": "",
           "scoredAt": "2026-10-16T00:28:37.772Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "кукиш с хаслом",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:28:24.204Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Dice",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:28:07.748Z"
         }
       ]
     }
