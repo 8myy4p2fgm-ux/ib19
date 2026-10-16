@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T19:32:26.602Z",
-  "exportedAt": "2026-10-16T19:32:26.602Z",
-  "runId": "2026-10-16T19:32:26.602Z",
-  "forumExportedAt": "2026-10-16T19:32:26.602Z",
+  "lastSuccessfulAt": "2026-10-16T19:42:26.240Z",
+  "exportedAt": "2026-10-16T19:42:26.240Z",
+  "runId": "2026-10-16T19:42:26.240Z",
+  "forumExportedAt": "2026-10-16T19:42:26.240Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11834,
+    "scores": 11848,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 22,
+    "httpRequests": 16,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 19,
+    "updatedCards": 14,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 19,
-    "changedParticipants": 18,
-    "logicalRequests": 22,
-    "durationMs": 22389,
-    "scoresBefore": 11815,
-    "scoresAfter": 11834,
-    "fullBaselineRequests": 3200,
-    "requestReductionPercent": 99.3125,
+    "participantsWithNewScores": 14,
+    "changedParticipants": 14,
+    "logicalRequests": 16,
+    "durationMs": 15868,
+    "scoresBefore": 11834,
+    "scoresAfter": 11848,
+    "fullBaselineRequests": 3201,
+    "requestReductionPercent": 99.50015620118712,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,109 +83,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "Бен Арфа",
-          "score": 2,
-          "artist": "ОЛ УШЁЛ",
-          "comment": "Слабо по всем критериям ",
-          "scoredAt": "2026-10-16T19:31:51.658Z"
-        },
-        {
           "judgeName": "Paradise",
-          "score": 4,
-          "artist": "MusicMuggle",
-          "comment": "Уверенный куплет, припев, интересно, что дальше сделаешь) ",
-          "scoredAt": "2026-10-16T19:31:28.610Z"
-        },
-        {
-          "judgeName": "Роженов",
           "score": 2,
-          "artist": "WAX",
-          "comment": "Очень неубедительно по читке и я не уверен, что начеркать любую несусветную чушь это круто) частенько квадратишь ",
-          "scoredAt": "2026-10-16T19:30:13.569Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "qrendelle",
+          "artist": "MegaWolt",
           "comment": "",
-          "scoredAt": "2026-10-16T19:28:31.098Z"
+          "scoredAt": "2026-10-16T19:42:07.788Z"
         },
         {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Seven7",
-          "comment": "Правды прав ты – популярная, но увы, однокоренная рифма отборки. В целом сплошь квадратно-глагольно, по мыслям нет чего-то крутого, читка такой просед не вытаскивает ",
-          "scoredAt": "2026-10-16T19:28:30.836Z"
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Антон Ami",
+          "comment": "Нравится какой ты флоу выбрал, ебашь в этом направлении",
+          "scoredAt": "2026-10-16T19:40:51.717Z"
         },
         {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "AINER",
-          "comment": "я конечно, может и ебанутая, но я вообще не поняла че ты хотел мне донести, сорри. ",
-          "scoredAt": "2026-10-16T19:28:02.795Z"
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Алексей Летавин",
+          "comment": "Спасибо за участие ",
+          "scoredAt": "2026-10-16T19:40:48.903Z"
         },
         {
           "judgeName": "Paradise",
           "score": 4,
-          "artist": "LeWiza",
+          "artist": "Рубашка по Процкий",
           "comment": "",
-          "scoredAt": "2026-10-16T19:27:50.005Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Taker_A",
-          "comment": "Местами потешно. Обожаю женщин, обещаю жемчуг :D\nТри с плюсом ",
-          "scoredAt": "2026-10-16T19:26:54.138Z"
+          "scoredAt": "2026-10-16T19:39:35.502Z"
         },
         {
           "judgeName": "Paradise",
           "score": 3,
-          "artist": "noxuk",
-          "comment": "Сын Лжедмитрия? ",
-          "scoredAt": "2026-10-16T19:26:48.682Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Mar'S",
-          "comment": "За флоу",
-          "scoredAt": "2026-10-16T19:26:08.620Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Экзервиен",
-          "comment": "Как-то шумно вышло, но бодренько, плюс в раскрытие смогла очень даже. ",
-          "scoredAt": "2026-10-16T19:25:02.937Z"
+          "artist": "Мики Маус",
+          "comment": "Йа ага\nТы молодец. Продолжай творить",
+          "scoredAt": "2026-10-16T19:38:42.852Z"
         },
         {
           "judgeName": "Роженов",
           "score": 2,
-          "artist": "FVRUM",
-          "comment": "Рифме явно не хватает остроты, мыслям нетривиальности, ну вот ты битмарь, видимо, да, во всяком случае бит прикольный. Но битом не выехать тут",
-          "scoredAt": "2026-10-16T19:24:58.733Z"
+          "artist": "ЖелезныйКапут",
+          "comment": "Близко к тройке, но если б ты хотя бы какой-то фразой дал основательно зацепиться... По рифме лучше многих здесь, по читке среднячок)",
+          "scoredAt": "2026-10-16T19:38:19.993Z"
         },
         {
           "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Viskarik",
+          "comment": "Не хватило немного запоминающихся строк",
+          "scoredAt": "2026-10-16T19:36:50.641Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "ZAMNOY",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:35:44.604Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Последний вагон",
+          "comment": "В рифмовке больше банальщины квадратно-глагольной, чем норм рифм. Читка не поставлена, не хватает напора ",
+          "scoredAt": "2026-10-16T19:34:44.473Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
           "score": 4,
-          "artist": "Тона",
-          "comment": "Интересно",
-          "scoredAt": "2026-10-16T19:24:57.747Z"
+          "artist": "Манхолла (KHBR)",
+          "comment": "Крутой стилек ",
+          "scoredAt": "2026-10-16T19:34:27.926Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Rob Stillz",
+          "comment": "Клево",
+          "scoredAt": "2026-10-16T19:34:09.334Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "MaxAcochenko",
+          "comment": "Чисто температура за 40",
+          "scoredAt": "2026-10-16T19:33:18.602Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "GG (CHESS MA)",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:33:07.748Z"
         },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
-          "artist": "INSOMA",
-          "comment": "Монотонно это звучит ",
-          "scoredAt": "2026-10-16T19:24:30.503Z"
+          "artist": "byKE",
+          "comment": "",
+          "scoredAt": "2026-10-16T19:32:41.525Z"
         },
         {
           "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Тот самый 34",
-          "comment": "Эх, панчей бы и звучало бы круто, прям почти Паша Морган",
-          "scoredAt": "2026-10-16T19:23:29.546Z"
+          "score": 2,
+          "artist": "MC PI₱0m@Nik",
+          "comment": "Жаль над дикцией в школе у вас не работают(",
+          "scoredAt": "2026-10-16T19:32:22.355Z"
         }
       ]
     }
