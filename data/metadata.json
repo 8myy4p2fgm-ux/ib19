@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T22:21:54.908Z",
-  "exportedAt": "2026-10-16T22:21:54.908Z",
-  "runId": "2026-10-16T22:21:54.908Z",
-  "forumExportedAt": "2026-10-16T22:21:54.908Z",
+  "lastSuccessfulAt": "2026-10-16T22:31:41.310Z",
+  "exportedAt": "2026-10-16T22:31:41.310Z",
+  "runId": "2026-10-16T22:31:41.310Z",
+  "forumExportedAt": "2026-10-16T22:31:41.310Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11958,
+    "scores": 11961,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4044,
-    "scoresBefore": 11956,
-    "scoresAfter": 11958,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5013,
+    "scoresBefore": 11958,
+    "scoresAfter": 11961,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.87515605493134,
+    "requestReductionPercent": 99.84394506866417,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "M.T.",
+          "comment": "Необнаждаченое улыбалово, очень ждал после такого щаебавшегося флоу какого-то разрывного конца в строчках, но вторая часть будто лишняя была, первые 2 строчки прикольные на неожиданности, остальное рутина , но потанцевал в тебе есть, придумай фишечку себе как персонажу и залетай с ней",
+          "scoredAt": "2026-10-16T22:29:20.565Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "MAX",
+          "comment": "Бит фит хит щит, лови тройку авансом, честно было скучно 🥱",
+          "scoredAt": "2026-10-16T22:25:13.716Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "becap",
+          "comment": "Очень неуверенно стельши и не особо ровно, бит красивый",
+          "scoredAt": "2026-10-16T22:22:51.186Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -166,27 +187,6 @@
           "artist": "МЦ КОЛОКОЛЬЧИК",
           "comment": "Не было бы Панчей тут, влепил бы двойку, но пару кеков сюда запихнул !\n",
           "scoredAt": "2026-10-16T21:23:39.353Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "Дживан",
-          "comment": "Слабовато конечно в рамках 1 минуты, но звук красивый бро, вопросов нет , жаль тайминг короткий сделали, да ?))",
-          "scoredAt": "2026-10-16T21:21:13.546Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Бордо",
-          "comment": "Отличный трек-напутствие не ново в этом раунде конечно, но тем не менее, некоторые рифмы конечно капец по типу гризли-загрызли, лишнего-лешего, базарь-спасай-вылезай и т.д панчлайнов мне тут не хватило или строчек интересных , цепляющих, тем более на такой остросоциальный мотив . звучит приятно, голос приятно синергирует с битом, точно проходная работа в которой упор на раскрытие темы",
-          "scoredAt": "2026-10-16T21:19:25.028Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "PAHAOX",
-          "comment": "Р",
-          "scoredAt": "2026-10-16T21:16:09.092Z"
         }
       ]
     }

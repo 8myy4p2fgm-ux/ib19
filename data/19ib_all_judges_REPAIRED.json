@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T22:21:54.908Z",
+  "exportedAt": "2026-10-16T22:31:41.310Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -46071,8 +46071,14 @@
     },
     {
       "userId": "05b2a973-c76c-4513-90f0-429b3f75e657",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "Очень неуверенно стельши и не особо ровно, бит красивый",
+          "scoredAt": "2026-10-16T22:22:51.186Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -46086,7 +46092,7 @@
           "scoredAt": "2026-10-09T11:14:47.995Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:52:37.389Z",
+      "fetchedAt": "2026-10-16T22:31:41.310Z",
       "current": true,
       "artistName": "becap",
       "artistSlug": "becap"
@@ -70194,8 +70200,14 @@
     },
     {
       "userId": "af48df10-ef59-4c48-bdd3-58f4ba6b7155",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Бит фит хит щит, лови тройку авансом, честно было скучно 🥱",
+          "scoredAt": "2026-10-16T22:25:13.716Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -70215,7 +70227,7 @@
           "scoredAt": "2026-10-08T17:26:50.216Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:22:29.407Z",
+      "fetchedAt": "2026-10-16T22:31:41.310Z",
       "current": true,
       "artistName": "MAX",
       "artistSlug": "max"
@@ -99793,8 +99805,14 @@
     },
     {
       "userId": "03d214da-80d7-494e-9c19-d5c2e1d082f8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Необнаждаченое улыбалово, очень ждал после такого щаебавшегося флоу какого-то разрывного конца в строчках, но вторая часть будто лишняя была, первые 2 строчки прикольные на неожиданности, остальное рутина , но потанцевал в тебе есть, придумай фишечку себе как персонажу и залетай с ней",
+          "scoredAt": "2026-10-16T22:29:20.565Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -99814,7 +99832,7 @@
           "scoredAt": "2026-10-12T13:24:08.513Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:42:27.091Z",
+      "fetchedAt": "2026-10-16T22:31:41.310Z",
       "current": true,
       "artistName": "M.T.",
       "artistSlug": "m-t"
