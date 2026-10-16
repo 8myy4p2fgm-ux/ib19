@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T12:12:20.481Z",
-  "exportedAt": "2026-10-16T12:12:20.481Z",
-  "runId": "2026-10-16T12:12:20.481Z",
-  "forumExportedAt": "2026-10-16T12:12:20.481Z",
+  "lastSuccessfulAt": "2026-10-16T12:22:07.651Z",
+  "exportedAt": "2026-10-16T12:22:07.651Z",
+  "runId": "2026-10-16T12:22:07.651Z",
+  "forumExportedAt": "2026-10-16T12:22:07.651Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11185,
+    "scores": 11187,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7210,
-    "scoresBefore": 11180,
-    "scoresAfter": 11185,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4033,
+    "scoresBefore": 11185,
+    "scoresAfter": 11187,
     "fullBaselineRequests": 3167,
-    "requestReductionPercent": 99.77897063467005,
+    "requestReductionPercent": 99.87369750552574,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "AFLIKCHIN",
+          "comment": "Игарек Сомарске сводил? Ну уверенно, не прям что бы что-то особенно. Но крепко так, средняково.",
+          "scoredAt": "2026-10-16T12:15:00.694Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "P!Q P?",
+          "comment": "Тьфу ты! Расти большой братан!",
+          "scoredAt": "2026-10-16T12:12:37.919Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -172,20 +186,6 @@
           "artist": "MC Welkin",
           "comment": "не тру рэп, ни одного шекеля от тебя не видел.",
           "scoredAt": "2026-10-16T11:50:29.789Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Mills",
-          "comment": "Немного не дотягиваешь по моему до уровня ботла.",
-          "scoredAt": "2026-10-16T11:49:36.816Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "KULTEGO",
-          "comment": ":C грустная песни блинб",
-          "scoredAt": "2026-10-16T11:48:19.277Z"
         }
       ]
     }

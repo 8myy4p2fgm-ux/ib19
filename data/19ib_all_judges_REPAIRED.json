@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T12:12:20.481Z",
+  "exportedAt": "2026-10-16T12:22:07.651Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -22354,8 +22354,14 @@
     },
     {
       "userId": "ca10566b-5d25-483e-8573-6b4112e4d8e5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Тьфу ты! Расти большой братан!",
+          "scoredAt": "2026-10-16T12:12:37.919Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -22369,7 +22375,7 @@
           "scoredAt": "2026-09-06T16:37:48.225Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:32:28.888Z",
+      "fetchedAt": "2026-10-16T12:22:07.651Z",
       "current": true,
       "artistName": "P!Q P?",
       "artistSlug": "p-q-p"
@@ -22800,8 +22806,14 @@
     },
     {
       "userId": "77eff38f-8f72-4c83-8196-43951bcd0c23",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Игарек Сомарске сводил? Ну уверенно, не прям что бы что-то особенно. Но крепко так, средняково.",
+          "scoredAt": "2026-10-16T12:15:00.694Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -22827,7 +22839,7 @@
           "scoredAt": "2026-09-02T16:59:03.989Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:22:07.651Z",
       "current": true,
       "artistName": "AFLIKCHIN",
       "artistSlug": "aflikchin"
