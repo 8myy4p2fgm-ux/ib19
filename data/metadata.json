@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T11:52:28.191Z",
-  "exportedAt": "2026-10-16T11:52:28.191Z",
-  "runId": "2026-10-16T11:52:28.191Z",
-  "forumExportedAt": "2026-10-16T11:52:28.191Z",
+  "lastSuccessfulAt": "2026-10-16T12:02:17.851Z",
+  "exportedAt": "2026-10-16T12:02:17.851Z",
+  "runId": "2026-10-16T12:02:17.851Z",
+  "forumExportedAt": "2026-10-16T12:02:17.851Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11174,
+    "scores": 11180,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 11,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 11,
-    "changedParticipants": 11,
-    "logicalRequests": 13,
-    "durationMs": 13390,
-    "scoresBefore": 11163,
-    "scoresAfter": 11174,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8193,
+    "scoresBefore": 11174,
+    "scoresAfter": 11180,
     "fullBaselineRequests": 3166,
-    "requestReductionPercent": 99.58938723941883,
+    "requestReductionPercent": 99.74731522425773,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ZURA14",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T11:56:42.168Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "sshalfir",
+          "comment": "Очень костноязычно. Я прямо чувствую как ты напрягался выдумывая эти вычурные образы братан.",
+          "scoredAt": "2026-10-16T11:55:43.506Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "гном второй великий",
+          "comment": "Авансом. Наркотитки осуждаем.",
+          "scoredAt": "2026-10-16T11:54:56.148Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Eva Maslou",
+          "comment": "Крепкая, средняя работа. Ничего особенного, ничего овер плохого. Всё просто, для прохода во 2ой наверное хватит.",
+          "scoredAt": "2026-10-16T11:54:24.731Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Юрий Милославский",
+          "comment": "Авансом. Текст скучноват.",
+          "scoredAt": "2026-10-16T11:52:59.417Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "Zuda",
+          "comment": "ваще не понял про чо ты.",
+          "scoredAt": "2026-10-16T11:52:52.014Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -144,48 +186,6 @@
           "artist": "Matesha",
           "comment": "",
           "scoredAt": "2026-10-16T11:45:03.206Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Рид Ридди",
-          "comment": "почему чем сложнее разобрать слова в песне, тем выше шанс что МЦ не прикрепит текст к своей работе?",
-          "scoredAt": "2026-10-16T11:43:22.084Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Arhetype",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-16T11:42:49.764Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Zibarelli",
-          "comment": "Крекий, средний трек.",
-          "scoredAt": "2026-10-16T11:42:22.575Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "НЕРУШИМЫЙ(СОЮЗ77)",
-          "comment": "читаешь хорошо. но блинб ты так прямолинейно всю эту популистику пречеслил бро. надо было как то завернуть интересно а не прсото перечеслять всех этих мизулиных, ии на площадках и прочие темы для разговора на абсолютно любой кухне вечером после работы.",
-          "scoredAt": "2026-10-16T11:41:28.873Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "The Atacka",
-          "comment": "Текст скучноват, исполнение интереснее",
-          "scoredAt": "2026-10-16T11:41:12.050Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "тгк: репер апофемоз",
-          "comment": "Хах, угарное шуе!",
-          "scoredAt": "2026-10-16T11:38:25.178Z"
         }
       ]
     }

@@ -114648,6 +114648,90 @@
         "scoredAt": "2026-10-16T11:43:22.084Z",
         "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3"
       }
+    },
+    {
+      "id": "8431bc1decc53bda0b464910ca80d783682354b432858a1dd2a987ee02bdc72d",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:52:59.417Z",
+      "key": "[\"f2fd1cc7-b83b-4f5f-a760-699917e01cdc\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом. Текст скучноват.",
+        "scoredAt": "2026-10-16T11:52:59.417Z",
+        "userId": "f2fd1cc7-b83b-4f5f-a760-699917e01cdc"
+      }
+    },
+    {
+      "id": "ef741d74d3a06b8ff8bd57eb0c07caaf2403c799a054a2a6181509bf2f9aa466",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:56:42.168Z",
+      "key": "[\"69f5668f-64f0-4f14-a228-e87e0cf65942\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-16T11:56:42.168Z",
+        "userId": "69f5668f-64f0-4f14-a228-e87e0cf65942"
+      }
+    },
+    {
+      "id": "a85e31c5b19ca0301a884fb943e7627ffaf2cbc6aa9a1a70474dafb39890040b",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:55:43.506Z",
+      "key": "[\"36368a3b-e988-4b79-b6d8-17602a003273\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "Очень костноязычно. Я прямо чувствую как ты напрягался выдумывая эти вычурные образы братан.",
+        "scoredAt": "2026-10-16T11:55:43.506Z",
+        "userId": "36368a3b-e988-4b79-b6d8-17602a003273"
+      }
+    },
+    {
+      "id": "7544567f8064cb9c2bec6da6dbe845211540d34723a09fb919a40e6c0827540a",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:52:52.014Z",
+      "key": "[\"12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "ваще не понял про чо ты.",
+        "scoredAt": "2026-10-16T11:52:52.014Z",
+        "userId": "12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a"
+      }
+    },
+    {
+      "id": "ea55432073fe7ffe1265432fea7c751e5804d215716718f4ea70ab865531ee3d",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:54:24.731Z",
+      "key": "[\"d9e32539-60d9-47e1-85e8-68532e3a17ed\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Крепкая, средняя работа. Ничего особенного, ничего овер плохого. Всё просто, для прохода во 2ой наверное хватит.",
+        "scoredAt": "2026-10-16T11:54:24.731Z",
+        "userId": "d9e32539-60d9-47e1-85e8-68532e3a17ed"
+      }
+    },
+    {
+      "id": "d2a2a5606ec4f2edf875ff640d4b59d10d07d7c4b14b3845323ce4967a787aea",
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "sourceScoredAt": "2026-10-16T11:54:56.148Z",
+      "key": "[\"ff7ca68d-a632-4709-9206-bdee73543fbf\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом. Наркотитки осуждаем.",
+        "scoredAt": "2026-10-16T11:54:56.148Z",
+        "userId": "ff7ca68d-a632-4709-9206-bdee73543fbf"
+      }
     }
   ],
   "snapshots": [
@@ -119727,6 +119811,26 @@
           "index": 28.077485263378694,
           "favor": 17.882842519493874,
           "attention": -0.902918231724935,
+          "respect": 11.097560975609756
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T12:02:17.851Z",
+      "exportedAt": "2026-10-16T12:02:17.851Z",
+      "scores": 11180,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.48219013503679,
+          "favor": 9.129974554816148,
+          "attention": 6.6401533234113055,
+          "respect": 6.712062256809339
+        },
+        "veterans": {
+          "index": 28.08815045954881,
+          "favor": 17.887895759666648,
+          "attention": -0.8973062757275945,
           "respect": 11.097560975609756
         }
       }

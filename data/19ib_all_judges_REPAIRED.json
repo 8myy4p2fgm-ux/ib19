@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T11:52:28.191Z",
+  "exportedAt": "2026-10-16T12:02:17.851Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -13672,8 +13672,14 @@
     },
     {
       "userId": "f2fd1cc7-b83b-4f5f-a760-699917e01cdc",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом. Текст скучноват.",
+          "scoredAt": "2026-10-16T11:52:59.417Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 2,
@@ -13687,7 +13693,7 @@
           "scoredAt": "2026-10-07T19:04:14.415Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "Юрий Милославский",
       "artistSlug": "yuriy-miloslavskiy"
@@ -25488,8 +25494,14 @@
     },
     {
       "userId": "69f5668f-64f0-4f14-a228-e87e0cf65942",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T11:56:42.168Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -25515,7 +25527,7 @@
           "scoredAt": "2026-09-10T18:56:21.100Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "ZURA14",
       "artistSlug": "zura14"
@@ -38031,8 +38043,14 @@
     },
     {
       "userId": "36368a3b-e988-4b79-b6d8-17602a003273",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Очень костноязычно. Я прямо чувствую как ты напрягался выдумывая эти вычурные образы братан.",
+          "scoredAt": "2026-10-16T11:55:43.506Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -38058,7 +38076,7 @@
           "scoredAt": "2026-09-15T16:14:14.173Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "sshalfir",
       "artistSlug": "sshalfir"
@@ -45328,8 +45346,14 @@
     },
     {
       "userId": "12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "ваще не понял про чо ты.",
+          "scoredAt": "2026-10-16T11:52:52.014Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -45343,7 +45367,7 @@
           "scoredAt": "2026-09-23T11:26:48.263Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "Zuda",
       "artistSlug": "zuda"
@@ -64759,8 +64783,14 @@
     },
     {
       "userId": "d9e32539-60d9-47e1-85e8-68532e3a17ed",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Крепкая, средняя работа. Ничего особенного, ничего овер плохого. Всё просто, для прохода во 2ой наверное хватит.",
+          "scoredAt": "2026-10-16T11:54:24.731Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -64774,7 +64804,7 @@
           "scoredAt": "2026-09-08T15:28:35.205Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "Eva Maslou",
       "artistSlug": "eva-maslou"
@@ -77890,8 +77920,14 @@
     },
     {
       "userId": "ff7ca68d-a632-4709-9206-bdee73543fbf",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом. Наркотитки осуждаем.",
+          "scoredAt": "2026-10-16T11:54:56.148Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -77899,7 +77935,7 @@
           "scoredAt": "2026-10-10T16:07:59.826Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:02:17.851Z",
       "current": true,
       "artistName": "гном второй великий",
       "artistSlug": "gnom-vtoroy-velikiy"
