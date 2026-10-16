@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T14:12:19.978Z",
-  "exportedAt": "2026-10-16T14:12:19.978Z",
-  "runId": "2026-10-16T14:12:19.978Z",
-  "forumExportedAt": "2026-10-16T14:12:19.978Z",
+  "lastSuccessfulAt": "2026-10-16T14:22:16.228Z",
+  "exportedAt": "2026-10-16T14:22:16.228Z",
+  "runId": "2026-10-16T14:22:16.228Z",
+  "forumExportedAt": "2026-10-16T14:22:16.228Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11281,
+    "scores": 11289,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5480,
-    "scoresBefore": 11278,
-    "scoresAfter": 11281,
-    "fullBaselineRequests": 3171,
-    "requestReductionPercent": 99.84232103437401,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10122,
+    "scoresBefore": 11281,
+    "scoresAfter": 11289,
+    "fullBaselineRequests": 3174,
+    "requestReductionPercent": 99.68494013862635,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "xXxНаГиБаТоР2006хХх",
+          "comment": "Скучно",
+          "scoredAt": "2026-10-16T14:21:50.736Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "odnostoronne.",
+          "comment": "Начал хорошо, но под конец сдулся. Чопы в аутро прикольные. Манера подачи скорее работает против тебя, ты не расслабляешь своей читкой а заставляешь зевать. Ставлю тебе авансом четверку, если пройдешь постарайся не разочаровать)",
+          "scoredAt": "2026-10-16T14:21:40.932Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "LeChat",
+          "comment": "Зачитал уверенно, но текст простой и наивный. Ровненько, но средне. ",
+          "scoredAt": "2026-10-16T14:19:12.448Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "sorrymike",
+          "comment": "Авансом.",
+          "scoredAt": "2026-10-16T14:18:39.838Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Barsel",
+          "comment": "Приятный тречок, но по тексту ничего интересного. Зачитал ровно. ",
+          "scoredAt": "2026-10-16T14:17:48.801Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "P!Q P?",
+          "comment": "Это проход в следующий бател",
+          "scoredAt": "2026-10-16T14:15:52.238Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "SashaSibirsky",
+          "comment": "Очень наивная околосоциальщина. Читаешь ровно, но в целом трек средний.",
+          "scoredAt": "2026-10-16T14:15:46.635Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "KRO",
+          "comment": "Очень сумбурно и неуверенно читаешь рэпась.",
+          "scoredAt": "2026-10-16T14:12:42.108Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -130,62 +186,6 @@
           "artist": "Безразличный тон",
           "comment": "Ну так и у тебя, судя по всему, познания тоже ограничены, иначе бы ты не шпарил квадратами и ассонансами. И использовал для запоминаемости пунчи, например.",
           "scoredAt": "2026-10-16T13:55:09.118Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "artist": "Граф",
-          "comment": "Охуительно! Тут ни к чему расписывать за то, за сё. Всё на своих местах",
-          "scoredAt": "2026-10-16T13:54:27.531Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "artist": "Битмейкер шорты",
-          "comment": "Хорошая работа по тексту, интересные паузы, эмоции, ходы необычные по ритмике. Вкатило ",
-          "scoredAt": "2026-10-16T13:53:19.667Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Никита Ставрогин",
-          "comment": "Ещё один трек о том, какой крутой эмце, при этом в рифмах куча квадратов. Ну окей, в данном конкретном случае достаточно убедительно исполняешь, чтобы получить проходной балл в моей системе координат",
-          "scoredAt": "2026-10-16T13:53:07.919Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 3,
-          "artist": "zloi buratino",
-          "comment": "Текстец интересный местами, но местами слабо по рифме. Считано в стиле известного маэстро, но не хватает чего-то архиохуенного с вау-эффектом.",
-          "scoredAt": "2026-10-16T13:52:09.747Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Убийца mp3",
-          "comment": "Есть необычные ходы, есть ритмические усложнения, не могу сказать, что прям вкатило по вау эффектам каким-то, но работа хорошая.",
-          "scoredAt": "2026-10-16T13:51:15.932Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Crag",
-          "comment": "Хороший жизненный текст. Нравится такой лексический повтор в тексте как приём. Хорошая средняя работа.",
-          "scoredAt": "2026-10-16T13:50:07.790Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "artist": "Sir Sando",
-          "comment": "Нормалёк по ритмике, по тексту тоже нормально, всё вывезено. Без разъёба какого-то, но далее точно идти надо.",
-          "scoredAt": "2026-10-16T13:48:41.655Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "roha",
-          "comment": "Читаешь уверенно, но надо добавить харизмы. Текст простенький, пытаешься в панчи, но получается простенько по типу \"крошатся как вафли\". ",
-          "scoredAt": "2026-10-16T13:46:37.452Z"
         }
       ]
     }

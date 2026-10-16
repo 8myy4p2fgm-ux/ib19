@@ -116146,6 +116146,118 @@
         "scoredAt": "2026-10-16T14:09:20.818Z",
         "userId": "ff9a02c6-5bda-448b-8118-4ec3597d17c7"
       }
+    },
+    {
+      "id": "ad023215165a6907af7e4012afd47a1ee315ffa5ecf94375b28c19df2a7f0994",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:15:46.635Z",
+      "key": "[\"cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Очень наивная околосоциальщина. Читаешь ровно, но в целом трек средний.",
+        "scoredAt": "2026-10-16T14:15:46.635Z",
+        "userId": "cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70"
+      }
+    },
+    {
+      "id": "742974b78cbef5836a0220f87ad26bb0e970dfee3e94ae60cd65e2c80088db6e",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:17:48.801Z",
+      "key": "[\"c4b2976a-a164-4278-af23-c6cb84997ca2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Приятный тречок, но по тексту ничего интересного. Зачитал ровно. ",
+        "scoredAt": "2026-10-16T14:17:48.801Z",
+        "userId": "c4b2976a-a164-4278-af23-c6cb84997ca2"
+      }
+    },
+    {
+      "id": "a170d6d4e0ebc2bbf874132f6b46ed6fb4f79985440f7bbc400c4e2eea051e8f",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:15:52.238Z",
+      "key": "[\"ca10566b-5d25-483e-8573-6b4112e4d8e5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Это проход в следующий бател",
+        "scoredAt": "2026-10-16T14:15:52.238Z",
+        "userId": "ca10566b-5d25-483e-8573-6b4112e4d8e5"
+      }
+    },
+    {
+      "id": "c8f694eb3d012d8b644cceb81c57d22338d2e6ec09c507eabda03fe2f76183b8",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:19:12.448Z",
+      "key": "[\"9f052c0c-b38e-4303-a23c-ccc0b8b56183\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал уверенно, но текст простой и наивный. Ровненько, но средне. ",
+        "scoredAt": "2026-10-16T14:19:12.448Z",
+        "userId": "9f052c0c-b38e-4303-a23c-ccc0b8b56183"
+      }
+    },
+    {
+      "id": "30da1250d73f32ab2a3366063ad2dddca71a1d1566eaa5e46ba4bfd5545fefe9",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:21:50.736Z",
+      "key": "[\"c2f40be1-b693-4d41-9949-e9ef5305837a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Скучно",
+        "scoredAt": "2026-10-16T14:21:50.736Z",
+        "userId": "c2f40be1-b693-4d41-9949-e9ef5305837a"
+      }
+    },
+    {
+      "id": "87aa8d569d2a476adbc5e11aa2a3dd2ade95bfbd21157e49bbeaedd0781ed4e5",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:12:42.108Z",
+      "key": "[\"3aa3b7c9-2694-4ce9-bc4a-0a703b295abe\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень сумбурно и неуверенно читаешь рэпась.",
+        "scoredAt": "2026-10-16T14:12:42.108Z",
+        "userId": "3aa3b7c9-2694-4ce9-bc4a-0a703b295abe"
+      }
+    },
+    {
+      "id": "5ca8c35fd6bef9afb7a7d8071027430c66f612d41b20b5ee3f715c0a32d549e4",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:18:39.838Z",
+      "key": "[\"e5b57f41-ecc8-459c-b359-c176681487b2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом.",
+        "scoredAt": "2026-10-16T14:18:39.838Z",
+        "userId": "e5b57f41-ecc8-459c-b359-c176681487b2"
+      }
+    },
+    {
+      "id": "60d625d3b1c0c372ac09c28d61e877d513ca0d2261fba59f452a21d9ccb80317",
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "sourceScoredAt": "2026-10-16T14:21:40.932Z",
+      "key": "[\"5185eb56-ed75-485e-9c26-483e897c3ef2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Начал хорошо, но под конец сдулся. Чопы в аутро прикольные. Манера подачи скорее работает против тебя, ты не расслабляешь своей читкой а заставляешь зевать. Ставлю тебе авансом четверку, если пройдешь постарайся не разочаровать)",
+        "scoredAt": "2026-10-16T14:21:40.932Z",
+        "userId": "5185eb56-ed75-485e-9c26-483e897c3ef2"
+      }
     }
   ],
   "snapshots": [
@@ -121505,6 +121617,26 @@
           "index": 28.146359081786123,
           "favor": 17.99482170892279,
           "attention": -0.9774948852011821,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T14:22:16.228Z",
+      "exportedAt": "2026-10-16T14:22:16.228Z",
+      "scores": 11289,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.6396537724385,
+          "favor": 9.243063417472534,
+          "attention": 6.652404308454338,
+          "respect": 6.744186046511628
+        },
+        "veterans": {
+          "index": 28.16403745879173,
+          "favor": 17.999219912456834,
+          "attention": -0.9642147117296223,
           "respect": 11.129032258064516
         }
       }

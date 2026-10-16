@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T14:12:19.978Z",
+  "exportedAt": "2026-10-16T14:22:16.228Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -3075,9 +3075,16 @@
     },
     {
       "userId": "cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Очень наивная околосоциальщина. Читаешь ровно, но в целом трек средний.",
+          "scoredAt": "2026-10-16T14:15:46.635Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "SashaSibirsky",
       "artistSlug": "sashasibirsky"
@@ -11900,9 +11907,16 @@
     },
     {
       "userId": "c4b2976a-a164-4278-af23-c6cb84997ca2",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Приятный тречок, но по тексту ничего интересного. Зачитал ровно. ",
+          "scoredAt": "2026-10-16T14:17:48.801Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "Barsel",
       "artistSlug": "barsel"
@@ -22481,8 +22495,14 @@
     },
     {
       "userId": "ca10566b-5d25-483e-8573-6b4112e4d8e5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "Это проход в следующий бател",
+          "scoredAt": "2026-10-16T14:15:52.238Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -22502,7 +22522,7 @@
           "scoredAt": "2026-09-06T16:37:48.225Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:22:07.651Z",
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "P!Q P?",
       "artistSlug": "p-q-p"
@@ -34257,8 +34277,14 @@
     },
     {
       "userId": "9f052c0c-b38e-4303-a23c-ccc0b8b56183",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Зачитал уверенно, но текст простой и наивный. Ровненько, но средне. ",
+          "scoredAt": "2026-10-16T14:19:12.448Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -34272,7 +34298,7 @@
           "scoredAt": "2026-09-08T15:48:03.370Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "LeChat",
       "artistSlug": "lechat"
@@ -86063,8 +86089,14 @@
     },
     {
       "userId": "c2f40be1-b693-4d41-9949-e9ef5305837a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "Скучно",
+          "scoredAt": "2026-10-16T14:21:50.736Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -86090,7 +86122,7 @@
           "scoredAt": "2026-10-08T06:17:34.607Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:22:33.848Z",
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "xXxНаГиБаТоР2006хХх",
       "artistSlug": "xxxnagibator2006hhh"
@@ -86386,9 +86418,16 @@
     },
     {
       "userId": "3aa3b7c9-2694-4ce9-bc4a-0a703b295abe",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень сумбурно и неуверенно читаешь рэпась.",
+          "scoredAt": "2026-10-16T14:12:42.108Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "KRO",
       "artistSlug": "kro"
@@ -87353,8 +87392,14 @@
     },
     {
       "userId": "e5b57f41-ecc8-459c-b359-c176681487b2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом.",
+          "scoredAt": "2026-10-16T14:18:39.838Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -87368,7 +87413,7 @@
           "scoredAt": "2026-10-07T12:01:35.969Z"
         }
       ],
-      "fetchedAt": "2026-10-14T19:02:18.299Z",
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "sorrymike",
       "artistSlug": "sorrymike"
@@ -94691,8 +94736,14 @@
     },
     {
       "userId": "5185eb56-ed75-485e-9c26-483e897c3ef2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Начал хорошо, но под конец сдулся. Чопы в аутро прикольные. Манера подачи скорее работает против тебя, ты не расслабляешь своей читкой а заставляешь зевать. Ставлю тебе авансом четверку, если пройдешь постарайся не разочаровать)",
+          "scoredAt": "2026-10-16T14:21:40.932Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -94706,7 +94757,7 @@
           "scoredAt": "2026-10-14T12:02:43.973Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:12:42.870Z",
+      "fetchedAt": "2026-10-16T14:22:16.228Z",
       "current": true,
       "artistName": "odnostoronne.",
       "artistSlug": "odnostoronne"
