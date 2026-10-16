@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T12:02:17.851Z",
-  "exportedAt": "2026-10-16T12:02:17.851Z",
-  "runId": "2026-10-16T12:02:17.851Z",
-  "forumExportedAt": "2026-10-16T12:02:17.851Z",
+  "lastSuccessfulAt": "2026-10-16T12:12:20.481Z",
+  "exportedAt": "2026-10-16T12:12:20.481Z",
+  "runId": "2026-10-16T12:12:20.481Z",
+  "forumExportedAt": "2026-10-16T12:12:20.481Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11180,
+    "scores": 11185,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8193,
-    "scoresBefore": 11174,
-    "scoresAfter": 11180,
-    "fullBaselineRequests": 3166,
-    "requestReductionPercent": 99.74731522425773,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7210,
+    "scoresBefore": 11180,
+    "scoresAfter": 11185,
+    "fullBaselineRequests": 3167,
+    "requestReductionPercent": 99.77897063467005,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Состояние Отрицания",
+          "comment": "Как по мне достаточно банальное рассуждения о итак заезжанных тейках и рифмы простоваты.",
+          "scoredAt": "2026-10-16T12:11:05.924Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "S10IO",
+          "comment": "Не знаю бро, звучит так как будто ты вырвал кусочек интро из какой-то более цельной песни.",
+          "scoredAt": "2026-10-16T12:06:02.073Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Denny Raw",
+          "comment": "Простовато всё. Хотя можно похвалить за саунддизайн мб...",
+          "scoredAt": "2026-10-16T12:04:35.197Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Wazzik",
+          "comment": "Нормально бро.",
+          "scoredAt": "2026-10-16T12:03:33.944Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "SL",
+          "comment": "Слушай не нашел за что поставить парашу и за что поставить выше среднего, крепкая-средняя работа. Спасибо.",
+          "scoredAt": "2026-10-16T12:02:15.021Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -151,41 +186,6 @@
           "artist": "KULTEGO",
           "comment": ":C грустная песни блинб",
           "scoredAt": "2026-10-16T11:48:19.277Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Трпч",
-          "comment": "Что-то в этом есть! Сведение бы конечно тебе чуть подразгрузить либо чуть лучше настроить, но не суть, нравится как наваливаешь , качово, под трек прям видеоряд напрашивается моментально. лови 4 с плюсом, оч круто делаешь , по тексту тебе бы сюда трушных строчек навалить в виде панчлайнов . жду в след. Раунде покажи там что сможешь сделать с оппонентов в парных ",
-          "scoredAt": "2026-10-16T11:48:11.649Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Антон Вайс",
-          "comment": "Текст бы поинтереснее.",
-          "scoredAt": "2026-10-16T11:47:59.808Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Леша Холин",
-          "comment": "Слушай а что значит try rap в 2026 году братуха? харизма у тебя есть, да и стиль свой. пока не прям что бы проникнуться удалось, но думаю ты ещё покажешь что-то интересное.",
-          "scoredAt": "2026-10-16T11:47:12.232Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Мирамар",
-          "comment": "Бит пушка!",
-          "scoredAt": "2026-10-16T11:45:09.606Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Matesha",
-          "comment": "",
-          "scoredAt": "2026-10-16T11:45:03.206Z"
         }
       ]
     }

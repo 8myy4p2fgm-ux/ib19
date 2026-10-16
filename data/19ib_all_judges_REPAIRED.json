@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T12:02:17.851Z",
+  "exportedAt": "2026-10-16T12:12:20.481Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -34256,8 +34256,14 @@
     },
     {
       "userId": "6313f683-017a-4a21-afee-9a915f64ff1c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Не знаю бро, звучит так как будто ты вырвал кусочек интро из какой-то более цельной песни.",
+          "scoredAt": "2026-10-16T12:06:02.073Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -34277,7 +34283,7 @@
           "scoredAt": "2026-10-05T15:09:19.783Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T12:12:20.481Z",
       "current": true,
       "artistName": "S10IO",
       "artistSlug": "s10io"
@@ -66616,9 +66622,16 @@
     },
     {
       "userId": "20dd4420-3e55-4901-9653-408d9ff34890",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Нормально бро.",
+          "scoredAt": "2026-10-16T12:03:33.944Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T12:12:20.481Z",
       "current": true,
       "artistName": "Wazzik",
       "artistSlug": "wazzik"
@@ -75322,8 +75335,14 @@
     },
     {
       "userId": "7d272706-cb8e-4138-b283-ed3a35085d46",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Простовато всё. Хотя можно похвалить за саунддизайн мб...",
+          "scoredAt": "2026-10-16T12:04:35.197Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -75343,7 +75362,7 @@
           "scoredAt": "2026-10-12T11:19:09.376Z"
         }
       ],
-      "fetchedAt": "2026-10-15T23:32:26.155Z",
+      "fetchedAt": "2026-10-16T12:12:20.481Z",
       "current": true,
       "artistName": "Denny Raw",
       "artistSlug": "denny-raw"
@@ -94491,8 +94510,14 @@
     },
     {
       "userId": "63aff565-d4a8-4e5c-95a1-bf706de49163",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Как по мне достаточно банальное рассуждения о итак заезжанных тейках и рифмы простоваты.",
+          "scoredAt": "2026-10-16T12:11:05.924Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 2,
@@ -94518,7 +94543,7 @@
           "scoredAt": "2026-10-05T09:14:02.257Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:52:14.640Z",
+      "fetchedAt": "2026-10-16T12:12:20.481Z",
       "current": true,
       "artistName": "Состояние Отрицания",
       "artistSlug": "sostoyanie-otricaniya"
@@ -95564,8 +95589,14 @@
     },
     {
       "userId": "dc2f839c-0d8a-4d66-9546-d5c4f129b557",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Слушай не нашел за что поставить парашу и за что поставить выше среднего, крепкая-средняя работа. Спасибо.",
+          "scoredAt": "2026-10-16T12:02:15.021Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -95585,7 +95616,7 @@
           "scoredAt": "2026-10-10T17:24:22.973Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:52:23.240Z",
+      "fetchedAt": "2026-10-16T12:12:20.481Z",
       "current": true,
       "artistName": "SL",
       "artistSlug": "sl"
