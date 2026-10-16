@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T21:31:46.823Z",
+  "exportedAt": "2026-10-16T21:41:52.510Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -6552,8 +6552,14 @@
     },
     {
       "userId": "04bdf981-e0b7-453b-b185-1301348e9541",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "Брось своего звукаря и больше не общайся с ним пожалуйста",
+          "scoredAt": "2026-10-16T21:38:38.666Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -6579,7 +6585,7 @@
           "scoredAt": "2026-08-31T17:50:19.229Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T21:41:52.510Z",
       "current": true,
       "artistName": "n0trixx",
       "artistSlug": "n0trixx"
@@ -60728,8 +60734,14 @@
     },
     {
       "userId": "90bb46f1-e56c-49ae-a2e1-b07adcd64976",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Проходная, но без каких-либо ярких моментов ",
+          "scoredAt": "2026-10-16T21:37:21.678Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -60749,7 +60761,7 @@
           "scoredAt": "2026-10-07T19:51:52.124Z"
         }
       ],
-      "fetchedAt": "2026-10-14T19:32:28.249Z",
+      "fetchedAt": "2026-10-16T21:41:52.510Z",
       "current": true,
       "artistName": "SKOBEE",
       "artistSlug": "skobee"
@@ -62356,8 +62368,14 @@
     },
     {
       "userId": "ecb126a6-b29b-4a2a-812a-2321c54ae67a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Ля ща отстаньте вы от череп овца, 26 год на дворе блъ. А чего не перезаписал тейк с отца на вес - криво де. Вообще носатый залогинься!!! Прикольные отсылки на акапелку в конце , ну в целом нормас лови 4 с минусом ",
+          "scoredAt": "2026-10-16T21:34:41.623Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -62377,7 +62395,7 @@
           "scoredAt": "2026-10-05T20:49:37.764Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-16T21:41:52.510Z",
       "current": true,
       "artistName": "Thought killer",
       "artistSlug": "thought-killer"
@@ -89652,8 +89670,14 @@
     },
     {
       "userId": "3aa3b7c9-2694-4ce9-bc4a-0a703b295abe",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Просто быстро говоришь под музыку , это плохо и ничего не понятно. Вот зачем делать трек в котором ты доносишь мысль так что никто её не поймет ?",
+          "scoredAt": "2026-10-16T21:40:39.392Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -89661,7 +89685,7 @@
           "scoredAt": "2026-10-16T14:12:42.108Z"
         }
       ],
-      "fetchedAt": "2026-10-16T14:22:16.228Z",
+      "fetchedAt": "2026-10-16T21:41:52.510Z",
       "current": true,
       "artistName": "KRO",
       "artistSlug": "kro"
