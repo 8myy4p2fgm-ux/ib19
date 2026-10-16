@@ -118330,6 +118330,188 @@
         "scoredAt": "2026-10-16T15:52:39.750Z",
         "userId": "8c592bfa-6ed6-49d2-9e26-b799504cfbd1"
       }
+    },
+    {
+      "id": "a8557a9e6d46c06fe3047d8da500357e8e0059998ec16f6b80be38a634f7efa7",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:11:45.801Z",
+      "key": "[\"44ba0be6-4186-4d4f-9ea9-a8b99ad08861\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-16T16:11:45.801Z",
+        "userId": "44ba0be6-4186-4d4f-9ea9-a8b99ad08861"
+      }
+    },
+    {
+      "id": "83d699219a21e7c742c06d338d7433344b18775d690eadfbf5f68d2de0d17107",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:10:16.262Z",
+      "key": "[\"12923623-6b1d-4fda-8b82-79fdc436ce24\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина ",
+        "scoredAt": "2026-10-16T16:10:16.262Z",
+        "userId": "12923623-6b1d-4fda-8b82-79fdc436ce24"
+      }
+    },
+    {
+      "id": "80b9f9180e64735728f20732f75251ebbdde67f84e41ba2ed19413451316f474",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:03:07.597Z",
+      "key": "[\"bad22f32-f212-4be5-bcb2-67afcfb3c032\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Четко",
+        "scoredAt": "2026-10-16T16:03:07.597Z",
+        "userId": "bad22f32-f212-4be5-bcb2-67afcfb3c032"
+      }
+    },
+    {
+      "id": "ec83b5ed75111221002d1bdbbb2878c5f7d214036d0a3454b2829d6d246330ae",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:08:12.518Z",
+      "key": "[\"131ca5a4-4653-485f-9b5e-84df36905254\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом, текст слабоват ",
+        "scoredAt": "2026-10-16T16:08:12.518Z",
+        "userId": "131ca5a4-4653-485f-9b5e-84df36905254"
+      }
+    },
+    {
+      "id": "53b7090cc83c45ee993545f6c4d174cb05bc063fac7b9c6d3253e860d4eb1328",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:10:23.805Z",
+      "key": "[\"b950745a-05f1-4f71-8323-8d8899fefa6a\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Текст очень простым получился. Исполнение неплохое.",
+        "scoredAt": "2026-10-16T16:10:23.805Z",
+        "userId": "b950745a-05f1-4f71-8323-8d8899fefa6a"
+      }
+    },
+    {
+      "id": "ba9a61b737490d266e6a8be02d5425d10e082d18f4c87b4c743a5776f74b0222",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:08:24.549Z",
+      "key": "[\"6df214ea-a57a-4901-81c1-1d3e427db2f9\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Средненько получилось и по исполнению и по тексту. Чуть больше хотелось оригинальности в тексте.",
+        "scoredAt": "2026-10-16T16:08:24.549Z",
+        "userId": "6df214ea-a57a-4901-81c1-1d3e427db2f9"
+      }
+    },
+    {
+      "id": "a039ec1e5225cadc473c097134939165868e0b47b6d4d7cf9c87a97cc74448f7",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:07:22.684Z",
+      "key": "[\"b31dd61d-7e3d-4914-bea7-7d22c05a6f27\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Подачку и технику надо подтянуть, перспектива имеется.",
+        "scoredAt": "2026-10-16T16:07:22.684Z",
+        "userId": "b31dd61d-7e3d-4914-bea7-7d22c05a6f27"
+      }
+    },
+    {
+      "id": "707d0ad01191df4b3a5cbb69e2d3ff3fa955d03754dde163acaba42b30ab753a",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:06:19.317Z",
+      "key": "[\"ca59a495-1bcd-40a6-8c1a-609094cbad93\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "резануло ухо в яндекстоксикозе, можно было бы вместо \"у нас\" просто \"тут\" и тогда ровненько бы залетел.\nпанчики хорошие имеются, про Птицу честно говоря не выкупил как под ней обоготиться.\nманера исполнения прикольная, можно было б немножко разнообразия ещё дать, но дрип клёвый.\nзвучит всё органично!",
+        "scoredAt": "2026-10-16T16:06:19.317Z",
+        "userId": "ca59a495-1bcd-40a6-8c1a-609094cbad93"
+      }
+    },
+    {
+      "id": "423d544bfbd52fadc0add983468f5d1f3f715b21bf7618e4509b812d06aff09d",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:09:18.913Z",
+      "key": "[\"28af9bae-a5d4-4145-961a-d8214251449e\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Несколько раз ритмику подломал.\nВокал надо подтягивать.",
+        "scoredAt": "2026-10-16T16:09:18.913Z",
+        "userId": "28af9bae-a5d4-4145-961a-d8214251449e"
+      }
+    },
+    {
+      "id": "08f9d0838d9d0e1572f256fac0ac7578eab3b1112776ef2ce06ec2b49b0c98d1",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:09:22.017Z",
+      "key": "[\"2cc67e6c-e005-45ba-90f3-c72b0d991ac0\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 1,
+        "comment": "нифига не слышно, из того что услышал - скучно. зачем надо было это сдавать ?  и текста как на зло нет",
+        "scoredAt": "2026-10-16T16:09:22.017Z",
+        "userId": "2cc67e6c-e005-45ba-90f3-c72b0d991ac0"
+      }
+    },
+    {
+      "id": "d11d71a6c98d19b954317faee449ca078c485b071a703f1cb81c9067c4ccb27d",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:03:02.658Z",
+      "key": "[\"5e52d1e4-836d-4104-877a-ccf964c73ced\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "Техники не хватает, не получается вывезти задумку до конца. Особенно это заметно на ускорениях - там почти всё мимо, в том числе дикционно.",
+        "scoredAt": "2026-10-16T16:03:02.658Z",
+        "userId": "5e52d1e4-836d-4104-877a-ccf964c73ced"
+      }
+    },
+    {
+      "id": "88d628f68b3c99282e0e40f59b91c0d4e9e46afc64cdf60d23f02f9658a79908",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:12:02.251Z",
+      "key": "[\"cf687b28-8dbf-43af-86d6-d1ef1dba823b\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Очень плохое качество трека. При этом потенциал по тексту неплохой, да и исполняешь неплохо. За качество снижать не буду в этом раунде.",
+        "scoredAt": "2026-10-16T16:12:02.251Z",
+        "userId": "cf687b28-8dbf-43af-86d6-d1ef1dba823b"
+      }
+    },
+    {
+      "id": "c5d74095417ab9eda4ca7dfca91a7ce6ed17e038f7f13ebda31b8ec8b859bbd2",
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "sourceScoredAt": "2026-10-16T16:04:07.147Z",
+      "key": "[\"070c1ad9-df16-44c2-bd2c-03baf8049612\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Если бы не длинное аутро и пару радирифменных моментов, то поставил бы 5.",
+        "scoredAt": "2026-10-16T16:04:07.147Z",
+        "userId": "070c1ad9-df16-44c2-bd2c-03baf8049612"
+      }
     }
   ],
   "snapshots": [
@@ -123909,6 +124091,26 @@
           "index": 28.539714826941772,
           "favor": 18.052283556171453,
           "attention": -0.6416009872941968,
+          "respect": 11.129032258064516
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T16:12:28.383Z",
+      "exportedAt": "2026-10-16T16:12:28.383Z",
+      "scores": 11450,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.43558797235778,
+          "favor": 9.328397110317216,
+          "attention": 6.35146567120087,
+          "respect": 6.755725190839694
+        },
+        "veterans": {
+          "index": 28.568253847629077,
+          "favor": 18.057110957944317,
+          "attention": -0.6178893683797567,
           "respect": 11.129032258064516
         }
       }
