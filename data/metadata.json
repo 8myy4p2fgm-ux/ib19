@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T18:02:36.807Z",
-  "exportedAt": "2026-10-16T18:02:36.807Z",
-  "runId": "2026-10-16T18:02:36.807Z",
-  "forumExportedAt": "2026-10-16T18:02:36.807Z",
+  "lastSuccessfulAt": "2026-10-16T18:12:36.764Z",
+  "exportedAt": "2026-10-16T18:12:36.764Z",
+  "runId": "2026-10-16T18:12:36.764Z",
+  "forumExportedAt": "2026-10-16T18:12:36.764Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11665,
+    "scores": 11690,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 25,
+    "httpRequests": 28,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 22,
+    "updatedCards": 25,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 22,
-    "changedParticipants": 21,
-    "logicalRequests": 25,
-    "durationMs": 25029,
-    "scoresBefore": 11643,
-    "scoresAfter": 11665,
-    "fullBaselineRequests": 3194,
-    "requestReductionPercent": 99.21728240450845,
+    "participantsWithNewScores": 25,
+    "changedParticipants": 23,
+    "logicalRequests": 28,
+    "durationMs": 28030,
+    "scoresBefore": 11665,
+    "scoresAfter": 11690,
+    "fullBaselineRequests": 3195,
+    "requestReductionPercent": 99.12363067292644,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,109 +83,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "meowRay",
-          "comment": "Тейки палятся, и с бита срезай войс теги то бро 2-26-ой. А так нормас -3. ",
-          "scoredAt": "2026-10-16T18:02:11.364Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Navara Karavan",
-          "comment": "Красиво по рифме , разнообразия в исполнении дал, но на тему хер положил, поэтому 3 максимум",
-          "scoredAt": "2026-10-16T18:02:04.311Z"
-        },
-        {
           "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Asad2",
-          "comment": "Как-то слова не уверенно произносишь",
-          "scoredAt": "2026-10-16T18:01:54.247Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "арлекин.",
-          "comment": "Дикцию бы подтянул бро было бы 4, а так 3 крепкое. Оксимироновщина но недотянутая. ",
-          "scoredAt": "2026-10-16T18:01:03.213Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "вадим мс",
-          "comment": "Навалил от души",
-          "scoredAt": "2026-10-16T18:00:19.168Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Permanent",
-          "comment": "Ничего интересного в тексте. По исполнению - ровно до тех пор пока не начинаешь тянуть слоги. Не делай так. Средний трек.",
-          "scoredAt": "2026-10-16T18:00:16.454Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 2,
-          "artist": "Сергей Драколов",
-          "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
-          "scoredAt": "2026-10-16T17:59:55.303Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 2,
-          "artist": "ЭФИРР",
-          "comment": "Стрим 11",
-          "scoredAt": "2026-10-16T17:59:18.152Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Ярослав Джас",
+          "score": 4,
+          "artist": "RIM",
           "comment": "",
-          "scoredAt": "2026-10-16T17:59:14.717Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "TNGRZ",
-          "comment": "Флоу слабоват, надо прокачивать читку, звучит как стишок бро. Суммарно средне - 3. ",
-          "scoredAt": "2026-10-16T17:59:03.853Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "19 ЗАВИСИМЫЙ",
-          "comment": "Устал от однообразия читки, а вот текст, идейная составляющая на должном уровне",
-          "scoredAt": "2026-10-16T17:57:29.810Z"
+          "scoredAt": "2026-10-16T18:11:50.228Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "BagoDaigo",
-          "comment": "Прикольно по рифмам есть , по строчкам пусто, тему раскрыл , проходная работа но не более чем 3 будто",
-          "scoredAt": "2026-10-16T17:57:17.289Z"
+          "score": 5,
+          "artist": "qurie",
+          "comment": "Красавчик, звук классный, текст классный, подача подкупающая, трушные строчки есть, лови пятёрку, хорошо тему раскрыл. ВЕРЮ !!",
+          "scoredAt": "2026-10-16T18:11:00.228Z"
         },
         {
           "judgeName": "r1fmabes",
           "score": 5,
-          "artist": "ВЭЙТ",
-          "comment": "Соусно, мне зашло, хорош. ",
-          "scoredAt": "2026-10-16T17:56:55.730Z"
+          "artist": "домашний как тапочки",
+          "comment": "Стилево зачитал - красавец. ",
+          "scoredAt": "2026-10-16T18:10:54.551Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "77емь",
+          "comment": "",
+          "scoredAt": "2026-10-16T18:10:34.872Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 3,
+          "artist": "qrendelle",
+          "comment": "Стрим 11",
+          "scoredAt": "2026-10-16T18:10:12.936Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Миша Тенге",
+          "comment": "",
+          "scoredAt": "2026-10-16T18:09:43.710Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "artist": "Грязный грим",
+          "comment": "Ровно, просто ровно, средний трек на уровне отборов.  Крепкое 3. ",
+          "scoredAt": "2026-10-16T18:09:22.016Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "sk1mee",
+          "comment": "",
+          "scoredAt": "2026-10-16T18:08:57.206Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Zuda",
+          "comment": "Обо всем и не о чем, странноватое звучание честно говоря, авансом три с минусом ",
+          "scoredAt": "2026-10-16T18:08:49.970Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Артист",
+          "comment": "Ну в первой части перекривлялся, во второй части назапинывался. Не хватило техники исполнения. Рэп это как и актерское искусство, многие думают, что это просто, но на само деле этому ремеслу нужно учиться годами.",
+          "scoredAt": "2026-10-16T18:08:04.967Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "FVRUM",
+          "comment": "С таким исполнением интересно песню слушать, а не репрезент",
+          "scoredAt": "2026-10-16T18:07:51.435Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "artist": "Rexton",
+          "comment": "Чуть-чуть по ритму накосячил. Пока крепкое 3. работай над постановкой голоса и флоу. ",
+          "scoredAt": "2026-10-16T18:07:41.853Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Алёна Денисова",
+          "comment": "Поставлю 3 только за хорошее исполнение, было бы жаль ставить меньше. Но на таком турнире надо стараться и над текстом. Решила не баловать нас лишними строчками.",
+          "scoredAt": "2026-10-16T18:07:21.311Z"
         },
         {
           "judgeName": "H1GH",
           "score": 4,
-          "artist": "Ilyasky",
+          "artist": "Spayke",
           "comment": "Стрим 11",
-          "scoredAt": "2026-10-16T17:56:23.249Z"
+          "scoredAt": "2026-10-16T18:06:57.024Z"
         },
         {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "FreeГад",
-          "comment": "Прикольно с битком для вагабунда кекнул , накинул желчи на 4 с минусом. ",
-          "scoredAt": "2026-10-16T17:55:05.264Z"
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "artist": "Flashback",
+          "comment": "Просто слишком для 4-х, хотя бумбеп чувствуешь. Пока крепкое 3. ",
+          "scoredAt": "2026-10-16T18:06:21.430Z"
         }
       ]
     }

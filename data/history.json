@@ -121522,6 +121522,356 @@
         "scoredAt": "2026-10-16T18:00:16.454Z",
         "userId": "60da15aa-e7b6-400d-9274-84712711a302"
       }
+    },
+    {
+      "id": "8510ce93269d449ab36a32c6d219f5052e02171a840abd36ba8cb05d59b1e97c",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:12:15.890Z",
+      "key": "[\"d3307a0d-43d2-4bcd-a09b-1917c9d6013a\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Крепкий трек, хорош. С проходом. ",
+        "scoredAt": "2026-10-16T18:12:15.890Z",
+        "userId": "d3307a0d-43d2-4bcd-a09b-1917c9d6013a"
+      }
+    },
+    {
+      "id": "16b12aaee08b1385b2404c33e63b4ab58cbf2d23fb3d02dee943bc6419109d36",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:06:21.430Z",
+      "key": "[\"a1835580-76b6-4d20-9fa5-607fa54ab29e\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Просто слишком для 4-х, хотя бумбеп чувствуешь. Пока крепкое 3. ",
+        "scoredAt": "2026-10-16T18:06:21.430Z",
+        "userId": "a1835580-76b6-4d20-9fa5-607fa54ab29e"
+      }
+    },
+    {
+      "id": "c067fde43e02a062c9ec7e2d4453d0cfc0968eaac39e3aa894603b91f6c95344",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:06:15.170Z",
+      "key": "[\"8857439b-7cf6-4541-b2cf-3730013ddbc2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Если бы упомянл меня поставил бы четверку, а так средняя оценка за средний рэп.",
+        "scoredAt": "2026-10-16T18:06:15.170Z",
+        "userId": "8857439b-7cf6-4541-b2cf-3730013ddbc2"
+      }
+    },
+    {
+      "id": "f6bc9e931f1a2f89de23579fbaff858868a2405ed82fed75345ba26b69634444",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:07:21.311Z",
+      "key": "[\"b4e0962e-7345-4198-958f-1110522a34a0\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Поставлю 3 только за хорошее исполнение, было бы жаль ставить меньше. Но на таком турнире надо стараться и над текстом. Решила не баловать нас лишними строчками.",
+        "scoredAt": "2026-10-16T18:07:21.311Z",
+        "userId": "b4e0962e-7345-4198-958f-1110522a34a0"
+      }
+    },
+    {
+      "id": "068d39826f6fc3424a078bd83ee3e4a61f428b04d1d787c18501c33f79da3bfb",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:09:43.710Z",
+      "key": "[\"57d173b2-2afa-4845-8ca7-2bbb706ada39\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:09:43.710Z",
+        "userId": "57d173b2-2afa-4845-8ca7-2bbb706ada39"
+      }
+    },
+    {
+      "id": "7ab75f9ec7fae854ad7d36a58bb27765877caf243c2d5b0944db7187696c0a8a",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:05:15.071Z",
+      "key": "[\"8b5a5724-17ff-48fc-93d5-46dcb2c0f503\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 1,
+        "comment": "Слабо по всем показателям. пока рано в турнир уровня хх ру. Спасибо за трек. ",
+        "scoredAt": "2026-10-16T18:05:15.071Z",
+        "userId": "8b5a5724-17ff-48fc-93d5-46dcb2c0f503"
+      }
+    },
+    {
+      "id": "cf46011bf964486cb381cbd4637a64e225ac9eb1b76e20ad9339896a39ac344e",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:11:00.228Z",
+      "key": "[\"52b51577-a9d5-4aa0-bd00-59170c2b0c69\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Красавчик, звук классный, текст классный, подача подкупающая, трушные строчки есть, лови пятёрку, хорошо тему раскрыл. ВЕРЮ !!",
+        "scoredAt": "2026-10-16T18:11:00.228Z",
+        "userId": "52b51577-a9d5-4aa0-bd00-59170c2b0c69"
+      }
+    },
+    {
+      "id": "08a8a4eda62ce123bb0e364e89f29e6ac0141fb03c8d711a4738730c1c883a9a",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:04:22.814Z",
+      "key": "[\"49165ec4-03a7-47a6-bf1c-8261fe2fc12e\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Крепко, не вау, но крепко, добро пожаловать во второй. ",
+        "scoredAt": "2026-10-16T18:04:22.814Z",
+        "userId": "49165ec4-03a7-47a6-bf1c-8261fe2fc12e"
+      }
+    },
+    {
+      "id": "a97798b8117a5aecb998ccebff96de9ed0c9f4b3030cef67a4e30b9757ca48d1",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:05:48.675Z",
+      "key": "[\"550d882c-9728-4317-9be4-7f1f7d90c268\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:05:48.675Z",
+        "userId": "550d882c-9728-4317-9be4-7f1f7d90c268"
+      }
+    },
+    {
+      "id": "c6c267d88af511d85eca61022f5cd4af56e4ce9ef0fc79595e2d0502975594fd",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:12:15.172Z",
+      "key": "[\"ac74b2c3-1a43-43dd-9517-7c1707df012c\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:12:15.172Z",
+        "userId": "ac74b2c3-1a43-43dd-9517-7c1707df012c"
+      }
+    },
+    {
+      "id": "d358cef96678a43c663c138df932397c26dea80ea55817e833ba50139404924c",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:08:49.970Z",
+      "key": "[\"12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Обо всем и не о чем, странноватое звучание честно говоря, авансом три с минусом ",
+        "scoredAt": "2026-10-16T18:08:49.970Z",
+        "userId": "12737cb1-13d8-4a4d-bcba-5fff6a7a5c6a"
+      }
+    },
+    {
+      "id": "3dbdff9cca9fb7e9ba24055baa58f42725c9478fe134b0850f3a920dec20ecc3",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:10:12.936Z",
+      "key": "[\"bf46a8e7-911b-47a8-b9d5-4381ccc8bdcd\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 3,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:10:12.936Z",
+        "userId": "bf46a8e7-911b-47a8-b9d5-4381ccc8bdcd"
+      }
+    },
+    {
+      "id": "62d6512dbb9da6eefb8adddda3f01ce1557c0f0ecdfa005a42f18e6a640fc6a2",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:09:22.016Z",
+      "key": "[\"13f34117-3727-474b-935a-5cd3cf4e3134\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Ровно, просто ровно, средний трек на уровне отборов.  Крепкое 3. ",
+        "scoredAt": "2026-10-16T18:09:22.016Z",
+        "userId": "13f34117-3727-474b-935a-5cd3cf4e3134"
+      }
+    },
+    {
+      "id": "a536726973fc13080fdc973ba0e890d4618ebed69c43d875881a25f28816b705",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:05:58.683Z",
+      "key": "[\"628f4739-2e18-4742-a38d-37c85dd54a37\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Норм сторител, есть парочка строчек прикольных, лови 4, с ускорениями аккуратней ;)",
+        "scoredAt": "2026-10-16T18:05:58.683Z",
+        "userId": "628f4739-2e18-4742-a38d-37c85dd54a37"
+      }
+    },
+    {
+      "id": "f8d9aba197d821243ff80878e81fa2b28a3b657c66a860f0eb767924990305c1",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:03:15.304Z",
+      "key": "[\"0460e777-7403-40dd-8176-fd168c93a530\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 1,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. Спасибо за трек. ",
+        "scoredAt": "2026-10-16T18:03:15.304Z",
+        "userId": "0460e777-7403-40dd-8176-fd168c93a530"
+      }
+    },
+    {
+      "id": "928cfaed8f1d2d02d77d40442959e4d9d69e409ab9cca7f086c5d3af72a37dda",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:04:48.027Z",
+      "key": "[\"e6a77683-e121-4754-a4fd-cbebb1e9a4b8\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Как-то неуверенно все это звучит. По тексту ничего интересного.",
+        "scoredAt": "2026-10-16T18:04:48.027Z",
+        "userId": "e6a77683-e121-4754-a4fd-cbebb1e9a4b8"
+      }
+    },
+    {
+      "id": "72cfcc0776903c9b6c29bf2151afb87181f163f805a88bc9dc9574f83429b2cc",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:08:04.967Z",
+      "key": "[\"8ef6f3bd-362e-41cc-b416-f04ebdd53b53\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну в первой части перекривлялся, во второй части назапинывался. Не хватило техники исполнения. Рэп это как и актерское искусство, многие думают, что это просто, но на само деле этому ремеслу нужно учиться годами.",
+        "scoredAt": "2026-10-16T18:08:04.967Z",
+        "userId": "8ef6f3bd-362e-41cc-b416-f04ebdd53b53"
+      }
+    },
+    {
+      "id": "fe6c932041bb39d065968c073b5f43f6e9fa2c9cb7de881ee34b55485eb92bd0",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:07:51.435Z",
+      "key": "[\"44bb6d51-fe6e-415f-ba18-8b8b62884a98\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "С таким исполнением интересно песню слушать, а не репрезент",
+        "scoredAt": "2026-10-16T18:07:51.435Z",
+        "userId": "44bb6d51-fe6e-415f-ba18-8b8b62884a98"
+      }
+    },
+    {
+      "id": "276c1694ebf375ff54b9a9732a5ce909f78fe7bb159c02c641d1c28e67671218",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:11:50.228Z",
+      "key": "[\"ebef5bf7-374a-4de1-bd0d-7db9466b725d\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:11:50.228Z",
+        "userId": "ebef5bf7-374a-4de1-bd0d-7db9466b725d"
+      }
+    },
+    {
+      "id": "379b453ee7012549765b1f7896c38b46cf81a7afffc9a68ac8afa58cf26b7d70",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:07:41.853Z",
+      "key": "[\"915f7feb-064c-4544-afea-9e4d7031050b\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Чуть-чуть по ритму накосячил. Пока крепкое 3. работай над постановкой голоса и флоу. ",
+        "scoredAt": "2026-10-16T18:07:41.853Z",
+        "userId": "915f7feb-064c-4544-afea-9e4d7031050b"
+      }
+    },
+    {
+      "id": "136d40c66a7cbe8c55b13da777f0f63c8571c540ebf90e183bac7d10a8725a14",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:10:34.872Z",
+      "key": "[\"22c71efb-68f0-4b93-9b5d-e43ff483e5eb\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:10:34.872Z",
+        "userId": "22c71efb-68f0-4b93-9b5d-e43ff483e5eb"
+      }
+    },
+    {
+      "id": "f25b5674d9fd993da38b4e0d067372bdb0dd4f9027e7eab361d6f514a06ba874",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:04:19.406Z",
+      "key": "[\"c3a5d3fb-dd3d-4b7e-a2f5-0f472b546c1e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:04:19.406Z",
+        "userId": "c3a5d3fb-dd3d-4b7e-a2f5-0f472b546c1e"
+      }
+    },
+    {
+      "id": "66ad28cd60fad5999c3cce86e009c00bca66374119d21125334e90f47926a499",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:08:57.206Z",
+      "key": "[\"9823ca00-87ea-45ca-bae1-9f4071800fa6\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T18:08:57.206Z",
+        "userId": "9823ca00-87ea-45ca-bae1-9f4071800fa6"
+      }
+    },
+    {
+      "id": "efffccfd65866ae2467a00221d496925770747a26f6c157c00db2f0ed0ba8ee4",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:10:54.551Z",
+      "key": "[\"3ad90b61-dab1-4e4c-a242-97dd95d97548\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Стилево зачитал - красавец. ",
+        "scoredAt": "2026-10-16T18:10:54.551Z",
+        "userId": "3ad90b61-dab1-4e4c-a242-97dd95d97548"
+      }
+    },
+    {
+      "id": "281d7e9c8211418f82b18d378eda2d75cf001b918923c03ea1ea56117854c30a",
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "sourceScoredAt": "2026-10-16T18:06:57.024Z",
+      "key": "[\"55805da6-4420-4fd6-9319-168a99b76ca6\",\"H1GH\"]",
+      "before": null,
+      "after": {
+        "judgeName": "H1GH",
+        "score": 4,
+        "comment": "Стрим 11",
+        "scoredAt": "2026-10-16T18:06:57.024Z",
+        "userId": "55805da6-4420-4fd6-9319-168a99b76ca6"
+      }
     }
   ],
   "snapshots": [
@@ -127341,6 +127691,26 @@
           "index": 29.017878101236285,
           "favor": 18.185251299826696,
           "attention": -0.32737319859040986,
+          "respect": 11.16
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T18:12:36.764Z",
+      "exportedAt": "2026-10-16T18:12:36.764Z",
+      "scores": 11690,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.85213834433976,
+          "favor": 9.458891139356759,
+          "attention": 6.606174961636997,
+          "respect": 6.787072243346008
+        },
+        "veterans": {
+          "index": 29.074478518886927,
+          "favor": 18.18640726329443,
+          "attention": -0.2719287444075032,
           "respect": 11.16
         }
       }
