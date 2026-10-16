@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T20:11:59.551Z",
+  "exportedAt": "2026-10-16T20:22:01.497Z",
   "totalParticipants": 3280,
   "members": [
     {
@@ -5646,8 +5646,14 @@
     },
     {
       "userId": "23b5431f-7d8d-45df-ae62-3c593a975090",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Кажется, я уже третий раз вижу рифму \"лжи G\" за сегодняшний день... Половина на квадратах. Голос убеждает. Сложно... Даже не знаю, мне понравилось, что внятно написано и атмосферно вышло по итогу.",
+          "scoredAt": "2026-10-16T20:17:44.498Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -5673,7 +5679,7 @@
           "scoredAt": "2026-09-07T13:13:36.659Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Атам",
       "artistSlug": "atam"
@@ -26965,8 +26971,14 @@
     },
     {
       "userId": "4b0b4aca-5f74-4147-88ae-737d4d54de6b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Базовый репчик",
+          "scoredAt": "2026-10-16T20:14:37.719Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -26992,7 +27004,7 @@
           "scoredAt": "2026-09-09T17:45:20.582Z"
         }
       ],
-      "fetchedAt": "2026-10-16T08:52:21.671Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Plastit[yoBro]",
       "artistSlug": "plastit-yobro"
@@ -40219,8 +40231,14 @@
     },
     {
       "userId": "68dbdcf5-feb4-4af1-bccf-8927c5646270",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Это был экзамен на квалификацию судьи что ли? ",
+          "scoredAt": "2026-10-16T20:15:13.263Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -40234,7 +40252,7 @@
           "scoredAt": "2026-09-19T23:26:58.447Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:52:15.426Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "waystoconnecticut",
       "artistSlug": "waystoconnecticut"
@@ -47925,8 +47943,14 @@
     },
     {
       "userId": "3e373f3e-63a0-40dc-9640-3f7a4635ffd1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "comment": "А неплохо, рифмабельно, достаточно убедительно зачитано",
+          "scoredAt": "2026-10-16T20:13:57.288Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -47946,7 +47970,7 @@
           "scoredAt": "2026-10-14T19:48:45.375Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:12:15.093Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "шумнафоне",
       "artistSlug": "shumnafone"
@@ -53878,8 +53902,14 @@
     },
     {
       "userId": "0460e777-7403-40dd-8176-fd168c93a530",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Несем ночь, как корону. А че делать",
+          "scoredAt": "2026-10-16T20:18:40.788Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 1,
@@ -53905,7 +53935,7 @@
           "scoredAt": "2026-09-27T11:10:10.292Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:12:36.764Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Zippy Kid",
       "artistSlug": "zippy-kid"
@@ -54742,8 +54772,14 @@
     },
     {
       "userId": "22c2e793-6820-4ce8-8854-8af04150d26a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Бател реп",
+          "scoredAt": "2026-10-16T20:16:01.072Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -54763,7 +54799,7 @@
           "scoredAt": "2026-09-23T21:18:20.267Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:32:24.786Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Не знающий \"в рот\"",
       "artistSlug": "ne-znayuschiy-v-rot"
@@ -79606,8 +79642,14 @@
     },
     {
       "userId": "7231d1d4-e023-455b-be59-d2e534f186ca",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Стильный припев, рифма 50/50, порой ей не хватает остроты. Во многом за исполнение 3",
+          "scoredAt": "2026-10-16T20:19:47.165Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -79621,7 +79663,7 @@
           "scoredAt": "2026-10-15T11:46:46.783Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:12:27.604Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "NWR",
       "artistSlug": "nwr"
@@ -85605,8 +85647,14 @@
     },
     {
       "userId": "3a0a204f-4833-4587-8037-3b69e204661c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Не хватает подачи, напора, уверенности. Это придет\n",
+          "scoredAt": "2026-10-16T20:18:16.290Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 1,
@@ -85626,7 +85674,7 @@
           "scoredAt": "2026-10-13T14:21:08.889Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:32:35.533Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Leonard Venus",
       "artistSlug": "leonard-venus"
@@ -94039,8 +94087,14 @@
     },
     {
       "userId": "7fd03afd-3e40-4fce-9b11-a935f562f984",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Ты же понимаешь, что для прохода во второй - это ок, но в третий - точно нет... ",
+          "scoredAt": "2026-10-16T20:21:26.072Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -94066,7 +94120,7 @@
           "scoredAt": "2026-10-12T11:58:27.065Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:22:45.996Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "V13",
       "artistSlug": "v13"
@@ -100970,8 +101024,14 @@
     },
     {
       "userId": "25724660-06fb-4d3d-9658-72e473c4aa32",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-16T20:16:54.381Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -100997,7 +101057,7 @@
           "scoredAt": "2026-10-12T09:46:34.031Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:42:26.503Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "MODDAM",
       "artistSlug": "moddam"
@@ -101227,8 +101287,14 @@
     },
     {
       "userId": "f44cb045-87d4-4285-99f2-e02ba6913455",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Круто звучишь",
+          "scoredAt": "2026-10-16T20:13:31.501Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -101242,7 +101308,7 @@
           "scoredAt": "2026-10-13T16:19:24.458Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:42:30.532Z",
+      "fetchedAt": "2026-10-16T20:22:01.497Z",
       "current": true,
       "artistName": "Корнишон11",
       "artistSlug": "kornishon11"

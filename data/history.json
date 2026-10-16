@@ -124490,6 +124490,160 @@
         "scoredAt": "2026-10-16T20:07:31.826Z",
         "userId": "5013fa49-9e74-46a7-b6b9-746ff555a4ce"
       }
+    },
+    {
+      "id": "50ebc99264805300935605eca42f51bd225325c129394286169a4aab9d4a5327",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:17:44.498Z",
+      "key": "[\"23b5431f-7d8d-45df-ae62-3c593a975090\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Кажется, я уже третий раз вижу рифму \"лжи G\" за сегодняшний день... Половина на квадратах. Голос убеждает. Сложно... Даже не знаю, мне понравилось, что внятно написано и атмосферно вышло по итогу.",
+        "scoredAt": "2026-10-16T20:17:44.498Z",
+        "userId": "23b5431f-7d8d-45df-ae62-3c593a975090"
+      }
+    },
+    {
+      "id": "e1b43467c4c12cabd28cbc2c52922f576abcd2ce147328620193cfb3deecc286",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:14:37.719Z",
+      "key": "[\"4b0b4aca-5f74-4147-88ae-737d4d54de6b\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Базовый репчик",
+        "scoredAt": "2026-10-16T20:14:37.719Z",
+        "userId": "4b0b4aca-5f74-4147-88ae-737d4d54de6b"
+      }
+    },
+    {
+      "id": "57b1588dbf56176cfc23e103bf94fd425ecbeacb4d7ccbf13c048618e72df396",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:15:13.263Z",
+      "key": "[\"68dbdcf5-feb4-4af1-bccf-8927c5646270\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Это был экзамен на квалификацию судьи что ли? ",
+        "scoredAt": "2026-10-16T20:15:13.263Z",
+        "userId": "68dbdcf5-feb4-4af1-bccf-8927c5646270"
+      }
+    },
+    {
+      "id": "8f29dae7006761eeac317a4220a51b2b39632aa72c9d63b0b84710e6c365f3bc",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:13:57.288Z",
+      "key": "[\"3e373f3e-63a0-40dc-9640-3f7a4635ffd1\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "А неплохо, рифмабельно, достаточно убедительно зачитано",
+        "scoredAt": "2026-10-16T20:13:57.288Z",
+        "userId": "3e373f3e-63a0-40dc-9640-3f7a4635ffd1"
+      }
+    },
+    {
+      "id": "5aca0bae3e4344d023166805275cfd4be85c236e1cd44cd22ed981a533d081c0",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:18:40.788Z",
+      "key": "[\"0460e777-7403-40dd-8176-fd168c93a530\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Несем ночь, как корону. А че делать",
+        "scoredAt": "2026-10-16T20:18:40.788Z",
+        "userId": "0460e777-7403-40dd-8176-fd168c93a530"
+      }
+    },
+    {
+      "id": "773913429c9b1e23a8d672477e92d7154aa2cecb46ec6d7016eb925d8da505a4",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:16:01.072Z",
+      "key": "[\"22c2e793-6820-4ce8-8854-8af04150d26a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Бател реп",
+        "scoredAt": "2026-10-16T20:16:01.072Z",
+        "userId": "22c2e793-6820-4ce8-8854-8af04150d26a"
+      }
+    },
+    {
+      "id": "467d01e7cc842cc81e705560f36e98293a1de2aea853fa59e5ee5f4961875fc7",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:19:47.165Z",
+      "key": "[\"7231d1d4-e023-455b-be59-d2e534f186ca\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Стильный припев, рифма 50/50, порой ей не хватает остроты. Во многом за исполнение 3",
+        "scoredAt": "2026-10-16T20:19:47.165Z",
+        "userId": "7231d1d4-e023-455b-be59-d2e534f186ca"
+      }
+    },
+    {
+      "id": "cda65bf300a216a1fc2bea5fd31c4f1b6f552fc32938fafdea9ba244cd49875b",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:18:16.290Z",
+      "key": "[\"3a0a204f-4833-4587-8037-3b69e204661c\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Не хватает подачи, напора, уверенности. Это придет\n",
+        "scoredAt": "2026-10-16T20:18:16.290Z",
+        "userId": "3a0a204f-4833-4587-8037-3b69e204661c"
+      }
+    },
+    {
+      "id": "95a44dd576c062fcd4db90e283e902292033ea13ea30038c72589a25e380666e",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:21:26.072Z",
+      "key": "[\"7fd03afd-3e40-4fce-9b11-a935f562f984\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Ты же понимаешь, что для прохода во второй - это ок, но в третий - точно нет... ",
+        "scoredAt": "2026-10-16T20:21:26.072Z",
+        "userId": "7fd03afd-3e40-4fce-9b11-a935f562f984"
+      }
+    },
+    {
+      "id": "23a209f6ea7b051be3f84204baffeb340da0e8a1adaa7c5e52ee9d2b0e48142c",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:16:54.381Z",
+      "key": "[\"25724660-06fb-4d3d-9658-72e473c4aa32\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-16T20:16:54.381Z",
+        "userId": "25724660-06fb-4d3d-9658-72e473c4aa32"
+      }
+    },
+    {
+      "id": "9627032a50e42004eec2a310c42b9feab24341dec0c965f0020daa2217815a6f",
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "sourceScoredAt": "2026-10-16T20:13:31.501Z",
+      "key": "[\"f44cb045-87d4-4285-99f2-e02ba6913455\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Круто звучишь",
+        "scoredAt": "2026-10-16T20:13:31.501Z",
+        "userId": "f44cb045-87d4-4285-99f2-e02ba6913455"
+      }
     }
   ],
   "snapshots": [
@@ -130569,6 +130723,26 @@
           "index": 29.171235948896793,
           "favor": 18.249217624392696,
           "attention": -0.23939899833055092,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:22:01.497Z",
+      "exportedAt": "2026-10-16T20:22:01.497Z",
+      "scores": 11888,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.551368031489247,
+          "favor": 9.253030614740256,
+          "attention": 6.6442020784031275,
+          "respect": 6.654135338345864
+        },
+        "veterans": {
+          "index": 29.197132705122712,
+          "favor": 18.2555784599708,
+          "attention": -0.21986307768272992,
           "respect": 11.161417322834646
         }
       }
