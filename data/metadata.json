@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T14:32:26.568Z",
-  "exportedAt": "2026-10-16T14:32:26.568Z",
-  "runId": "2026-10-16T14:32:26.568Z",
-  "forumExportedAt": "2026-10-16T14:32:26.568Z",
+  "lastSuccessfulAt": "2026-10-16T14:42:24.640Z",
+  "exportedAt": "2026-10-16T14:42:24.640Z",
+  "runId": "2026-10-16T14:42:24.640Z",
+  "forumExportedAt": "2026-10-16T14:42:24.640Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11298,
+    "scores": 11306,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11331,
-    "scoresBefore": 11289,
-    "scoresAfter": 11298,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 10608,
+    "scoresBefore": 11298,
+    "scoresAfter": 11306,
     "fullBaselineRequests": 3174,
-    "requestReductionPercent": 99.65343415248897,
+    "requestReductionPercent": 99.68494013862635,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "KOR",
+          "comment": "В целом мне нравится как ты зачитал, немного не хватило чуть больше эмоций в треке",
+          "scoredAt": "2026-10-16T14:42:05.862Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Анальный Кегель",
+          "comment": "Рифма \"парень - парит\" воняет эдак 2006 годом, чел. Квадратишь практиш. Советую перестать выебываться и начать сдавать трек по образцу, возможно, когда кал будет перед глазами, начнёшь его избегать. И вообще, я чё, должен переслушивать твой трек тыщу раз, чтобы выписывать конкретику, вместо того, чтобы быстро окидывать взглядом и иметь возможность быстро скопировать цитату? Тоже мне умник :D Раскрытие у тебя в чём?",
+          "scoredAt": "2026-10-16T14:40:43.572Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Кукарек МЦ",
+          "comment": "Чот не смотришься ты на бите ну и затягивать строчки под такое странно, ну и звук конечно(",
+          "scoredAt": "2026-10-16T14:40:20.857Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "DeepKnown",
+          "comment": "По напору нормас, разнообразно, но вот дабл пофиксить конечно в середине трека",
+          "scoredAt": "2026-10-16T14:39:07.999Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "PakikiSama",
+          "comment": "Интро мое почтение и с него нарушается баланс по звук голосов и на дропе та же история, бит еле слышан, как будто чисто по приколу он там....",
+          "scoredAt": "2026-10-16T14:37:50.001Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Sirotacosa",
+          "comment": "Не хватает дополнительных приемов в треке всё в одном напеве, плюс звук шакалит жестко....",
+          "scoredAt": "2026-10-16T14:35:54.661Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "ВИТЯ СТРЕЛА",
+          "comment": "Чуть хук подруинил ов в целом хорошо",
+          "scoredAt": "2026-10-16T14:34:29.149Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Пожилой Владивосток",
+          "comment": "по флоу не плохо, отсылки нормас в треке, но почему в тексте только хук брат)",
+          "scoredAt": "2026-10-16T14:33:14.562Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -130,62 +186,6 @@
           "artist": "VZRYVNOY",
           "comment": "Золотая середина",
           "scoredAt": "2026-10-16T14:26:13.762Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Артем Попов",
-          "comment": "Очень странная конструкция текста, порой теряешь рифму, звук ещё подводит дороги убивают друг друга",
-          "scoredAt": "2026-10-16T14:26:03.348Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Мужик в трико",
-          "comment": "Напор мощный, чуть по легче брат, но ритмически всё странно очень",
-          "scoredAt": "2026-10-16T14:24:50.677Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "xXxНаГиБаТоР2006хХх",
-          "comment": "Скучно",
-          "scoredAt": "2026-10-16T14:21:50.736Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "odnostoronne.",
-          "comment": "Начал хорошо, но под конец сдулся. Чопы в аутро прикольные. Манера подачи скорее работает против тебя, ты не расслабляешь своей читкой а заставляешь зевать. Ставлю тебе авансом четверку, если пройдешь постарайся не разочаровать)",
-          "scoredAt": "2026-10-16T14:21:40.932Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "LeChat",
-          "comment": "Зачитал уверенно, но текст простой и наивный. Ровненько, но средне. ",
-          "scoredAt": "2026-10-16T14:19:12.448Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "sorrymike",
-          "comment": "Авансом.",
-          "scoredAt": "2026-10-16T14:18:39.838Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Barsel",
-          "comment": "Приятный тречок, но по тексту ничего интересного. Зачитал ровно. ",
-          "scoredAt": "2026-10-16T14:17:48.801Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "P!Q P?",
-          "comment": "Это проход в следующий бател",
-          "scoredAt": "2026-10-16T14:15:52.238Z"
         }
       ]
     }
