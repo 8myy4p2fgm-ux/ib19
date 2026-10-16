@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T20:22:01.497Z",
-  "exportedAt": "2026-10-16T20:22:01.497Z",
-  "runId": "2026-10-16T20:22:01.497Z",
-  "forumExportedAt": "2026-10-16T20:22:01.497Z",
+  "lastSuccessfulAt": "2026-10-16T20:31:59.118Z",
+  "exportedAt": "2026-10-16T20:31:59.118Z",
+  "runId": "2026-10-16T20:31:59.118Z",
+  "forumExportedAt": "2026-10-16T20:31:59.118Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 11888,
+    "scores": 11900,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 15,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 11,
+    "updatedCards": 12,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 11,
+    "participantsWithNewScores": 12,
     "changedParticipants": 11,
-    "logicalRequests": 13,
-    "durationMs": 13360,
-    "scoresBefore": 11877,
-    "scoresAfter": 11888,
-    "fullBaselineRequests": 3202,
-    "requestReductionPercent": 99.59400374765771,
+    "logicalRequests": 15,
+    "durationMs": 15165,
+    "scoresBefore": 11888,
+    "scoresAfter": 11900,
+    "fullBaselineRequests": 3203,
+    "requestReductionPercent": 99.53168904152358,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,83 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "AN-AGE",
+          "comment": "Местами ускоряешься неуклюже, по тексту поверхностно ",
+          "scoredAt": "2026-10-16T20:31:38.647Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "МцБитцаВздумал",
+          "comment": "Жаль, текст неплох, читка мёртвая (",
+          "scoredAt": "2026-10-16T20:30:32.488Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "M0rdekaY",
+          "comment": "Рил проблемный тип)",
+          "scoredAt": "2026-10-16T20:29:05.480Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "AndreyDuh",
+          "comment": "На проход во второй - точно есть. Про собачку прикольно, мемы - наше все. ",
+          "scoredAt": "2026-10-16T20:28:07.595Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "EggStacy [ЯЙЦА СТАСА]",
+          "comment": "Ту ту ту, ту ту ту. Большую часть трека однообразно чеканил – скучновато. Среди рифм квадраты и слабосозвучные.",
+          "scoredAt": "2026-10-16T20:28:02.979Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "КЛИЕNT",
+          "comment": "очень слабо. ",
+          "scoredAt": "2026-10-16T20:27:00.755Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "Диметренку Курашенкис",
+          "comment": "Танцуют все! А нет, я думал, будет рофл весь трек. Хотя в целом всё не сильно изменилось) квадратный рофел)",
+          "scoredAt": "2026-10-16T20:25:05.328Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "IORWETH",
+          "comment": "Навалил",
+          "scoredAt": "2026-10-16T20:24:25.703Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Freska",
+          "comment": "тебя бы не убили бы, если бы ты не успел вытотораторить все за 1 минуту. ",
+          "scoredAt": "2026-10-16T20:24:17.671Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "FosFor",
+          "comment": "Грязь",
+          "scoredAt": "2026-10-16T20:23:36.768Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Проспект Грусти",
+          "comment": "Дала бы шанс за счет более-менее уверенной подачи. Но в парные раунды с таким материалом не попасть",
+          "scoredAt": "2026-10-16T20:23:18.770Z"
+        },
+        {
           "judgeName": "Вла-Да",
           "score": 3,
           "artist": "V13",
@@ -109,83 +186,6 @@
           "artist": "Leonard Venus",
           "comment": "Не хватает подачи, напора, уверенности. Это придет\n",
           "scoredAt": "2026-10-16T20:18:16.290Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Атам",
-          "comment": "Кажется, я уже третий раз вижу рифму \"лжи G\" за сегодняшний день... Половина на квадратах. Голос убеждает. Сложно... Даже не знаю, мне понравилось, что внятно написано и атмосферно вышло по итогу.",
-          "scoredAt": "2026-10-16T20:17:44.498Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "MODDAM",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:16:54.381Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Не знающий \"в рот\"",
-          "comment": "Бател реп",
-          "scoredAt": "2026-10-16T20:16:01.072Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "waystoconnecticut",
-          "comment": "Это был экзамен на квалификацию судьи что ли? ",
-          "scoredAt": "2026-10-16T20:15:13.263Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Plastit[yoBro]",
-          "comment": "Базовый репчик",
-          "scoredAt": "2026-10-16T20:14:37.719Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "шумнафоне",
-          "comment": "А неплохо, рифмабельно, достаточно убедительно зачитано",
-          "scoredAt": "2026-10-16T20:13:57.288Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Корнишон11",
-          "comment": "Круто звучишь",
-          "scoredAt": "2026-10-16T20:13:31.501Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Kerry Brain",
-          "comment": "Модный тип",
-          "scoredAt": "2026-10-16T20:11:50.464Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "ДИММИН",
-          "comment": "Твердая четверочка, так вижу. Плотно, раскрыто на уверенном, исполнено ок, все хорошо. Успехов во втором. ",
-          "scoredAt": "2026-10-16T20:11:01.533Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Рофл",
-          "comment": "Квадратно, читка не убеждает, два с плюсом, скажем так",
-          "scoredAt": "2026-10-16T20:10:34.969Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "IronJhony [Sakh]",
-          "comment": "Неудачные рифмы подобрал. Дикция очень слабая пока",
-          "scoredAt": "2026-10-16T20:10:15.322Z"
         }
       ]
     }

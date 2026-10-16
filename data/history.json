@@ -124644,6 +124644,174 @@
         "scoredAt": "2026-10-16T20:13:31.501Z",
         "userId": "f44cb045-87d4-4285-99f2-e02ba6913455"
       }
+    },
+    {
+      "id": "f2c66e80a57207ed24689f2edb321c9cc1f0bb3140a7199bf49da01719229bc5",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:24:17.671Z",
+      "key": "[\"28e1418a-d7d4-4757-b044-9dc8da7e0aff\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "тебя бы не убили бы, если бы ты не успел вытотораторить все за 1 минуту. ",
+        "scoredAt": "2026-10-16T20:24:17.671Z",
+        "userId": "28e1418a-d7d4-4757-b044-9dc8da7e0aff"
+      }
+    },
+    {
+      "id": "0d7774134562ca5769d32a7c8824bd780b94d8caca5c87c5de669e204e3a9f81",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:25:05.328Z",
+      "key": "[\"f1149473-7f5b-432a-b969-8d30fd0d9324\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 1,
+        "comment": "Танцуют все! А нет, я думал, будет рофл весь трек. Хотя в целом всё не сильно изменилось) квадратный рофел)",
+        "scoredAt": "2026-10-16T20:25:05.328Z",
+        "userId": "f1149473-7f5b-432a-b969-8d30fd0d9324"
+      }
+    },
+    {
+      "id": "efd2ad256a16fcb6f02d36ef68fb299c105ed937a7a94a4d516d50be365eb213",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:23:36.768Z",
+      "key": "[\"bfcbe7ee-426d-4a46-86f1-19386be4942e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Грязь",
+        "scoredAt": "2026-10-16T20:23:36.768Z",
+        "userId": "bfcbe7ee-426d-4a46-86f1-19386be4942e"
+      }
+    },
+    {
+      "id": "004a49f934048ec1f6dc7eed61d2262aa7f363687e359e24859826be1540d4f9",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:23:18.770Z",
+      "key": "[\"4b647bb1-9f0b-4986-939c-ab3b35401969\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Дала бы шанс за счет более-менее уверенной подачи. Но в парные раунды с таким материалом не попасть",
+        "scoredAt": "2026-10-16T20:23:18.770Z",
+        "userId": "4b647bb1-9f0b-4986-939c-ab3b35401969"
+      }
+    },
+    {
+      "id": "f91e1e332b0d49709d19260f96b7f0dfd4f9470906a7c4a102d30523d7ca8aa5",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:24:25.703Z",
+      "key": "[\"1c2e6ca8-1fe7-4a9a-9ff9-294af5ba497a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Навалил",
+        "scoredAt": "2026-10-16T20:24:25.703Z",
+        "userId": "1c2e6ca8-1fe7-4a9a-9ff9-294af5ba497a"
+      }
+    },
+    {
+      "id": "a41310e1d9170dad92b5904ebaf3ac3c231574c6fbe546ff635e40859e743411",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:29:05.480Z",
+      "key": "[\"c4d253fb-0c7b-49b8-b522-92108199fc80\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Рил проблемный тип)",
+        "scoredAt": "2026-10-16T20:29:05.480Z",
+        "userId": "c4d253fb-0c7b-49b8-b522-92108199fc80"
+      }
+    },
+    {
+      "id": "2f1e196b3c2bb7b86d24b5c718933cc115683fb1be3f2b8e97c65448cf843001",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:27:00.755Z",
+      "key": "[\"87f30ed9-64dd-4028-94cc-4d5a90c0da0d\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "очень слабо. ",
+        "scoredAt": "2026-10-16T20:27:00.755Z",
+        "userId": "87f30ed9-64dd-4028-94cc-4d5a90c0da0d"
+      }
+    },
+    {
+      "id": "ee9def6ab647927ce7ebc88be2e250f9e0385a0e7e26ace37bf0107ba596d8c7",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:31:38.647Z",
+      "key": "[\"6a47fdea-d0fd-47b9-b625-d182a258934e\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Местами ускоряешься неуклюже, по тексту поверхностно ",
+        "scoredAt": "2026-10-16T20:31:38.647Z",
+        "userId": "6a47fdea-d0fd-47b9-b625-d182a258934e"
+      }
+    },
+    {
+      "id": "6affd363b391a16323c3448c82a1b9c939efc68599b288ce0090ff8b8e22eef3",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:28:07.595Z",
+      "key": "[\"e509edb3-e372-41d1-9aa6-012d4b9e2204\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "На проход во второй - точно есть. Про собачку прикольно, мемы - наше все. ",
+        "scoredAt": "2026-10-16T20:28:07.595Z",
+        "userId": "e509edb3-e372-41d1-9aa6-012d4b9e2204"
+      }
+    },
+    {
+      "id": "3bcac86fe9db23b4cd57ee900ffba51078cc46f387e6bdb84b5868e9f095c11a",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:31:53.606Z",
+      "key": "[\"cc7acc06-c1ee-46a4-a8d4-0686dadc6fe6\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 1,
+        "comment": "Бит ок.",
+        "scoredAt": "2026-10-16T20:31:53.606Z",
+        "userId": "cc7acc06-c1ee-46a4-a8d4-0686dadc6fe6"
+      }
+    },
+    {
+      "id": "552b3269fef942abe7f41b5d55213ffa7b1dcf173a9bee69f6f8ebdf7ad9bf00",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:28:02.979Z",
+      "key": "[\"3b4f1e18-6650-490c-bddc-a8d387c1c0cd\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Ту ту ту, ту ту ту. Большую часть трека однообразно чеканил – скучновато. Среди рифм квадраты и слабосозвучные.",
+        "scoredAt": "2026-10-16T20:28:02.979Z",
+        "userId": "3b4f1e18-6650-490c-bddc-a8d387c1c0cd"
+      }
+    },
+    {
+      "id": "139ba2d692f1715e29828d3356866a89ed78a6f0ed99579e5ed6a93cc1c8520a",
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "sourceScoredAt": "2026-10-16T20:30:32.488Z",
+      "key": "[\"24f4f463-b68e-47c1-9cb4-1d0e63530020\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Жаль, текст неплох, читка мёртвая (",
+        "scoredAt": "2026-10-16T20:30:32.488Z",
+        "userId": "24f4f463-b68e-47c1-9cb4-1d0e63530020"
+      }
     }
   ],
   "snapshots": [
@@ -130743,6 +130911,26 @@
           "index": 29.197132705122712,
           "favor": 18.2555784599708,
           "attention": -0.21986307768272992,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T20:31:59.118Z",
+      "exportedAt": "2026-10-16T20:31:59.118Z",
+      "scores": 11900,
+      "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
+      "indices": {
+        "forum": {
+          "index": 22.590373427966,
+          "favor": 9.270106674628808,
+          "attention": 6.666131414991329,
+          "respect": 6.654135338345864
+        },
+        "veterans": {
+          "index": 29.230164203697633,
+          "favor": 18.272465156159395,
+          "attention": -0.20371827529640843,
           "respect": 11.161417322834646
         }
       }
