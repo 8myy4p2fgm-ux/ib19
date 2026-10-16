@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T21:01:58.049Z",
-  "exportedAt": "2026-10-16T21:01:58.049Z",
-  "runId": "2026-10-16T21:01:58.049Z",
-  "forumExportedAt": "2026-10-16T21:01:58.049Z",
+  "lastSuccessfulAt": "2026-10-16T21:11:53.190Z",
+  "exportedAt": "2026-10-16T21:11:53.190Z",
+  "runId": "2026-10-16T21:11:53.190Z",
+  "forumExportedAt": "2026-10-16T21:11:53.190Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 11929,
+    "scores": 11941,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,11 +32,11 @@
     "participantsWithNewScores": 12,
     "changedParticipants": 12,
     "logicalRequests": 14,
-    "durationMs": 13727,
-    "scoresBefore": 11919,
-    "scoresAfter": 11929,
-    "fullBaselineRequests": 3203,
-    "requestReductionPercent": 99.56290977208867,
+    "durationMs": 14053,
+    "scoresBefore": 11929,
+    "scoresAfter": 11941,
+    "fullBaselineRequests": 3204,
+    "requestReductionPercent": 99.56304619225968,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,6 +84,90 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Paradise",
+          "score": 5,
+          "artist": "Точка Опоры",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:11:19.442Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "pronicatel",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:10:26.273Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Чиhi",
+          "comment": "Да ну ты серьезно? ",
+          "scoredAt": "2026-10-16T21:10:03.282Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "МСхуевертель/АндерПидорГраунд",
+          "comment": "Нахуевертил",
+          "scoredAt": "2026-10-16T21:09:31.872Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Александр Яга",
+          "comment": "Панчи есть - мое дело малое. ",
+          "scoredAt": "2026-10-16T21:08:56.502Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Kruchh",
+          "comment": "Ну да, рэпер в годах не весел. ",
+          "scoredAt": "2026-10-16T21:07:51.756Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 1,
+          "artist": "Canes Insaniunt",
+          "comment": "Дорогу девушкам на 19шке",
+          "scoredAt": "2026-10-16T21:07:14.661Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Денис Кизим",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:06:04.520Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Б.А.Н.",
+          "comment": "Слабая реализация идеи",
+          "scoredAt": "2026-10-16T21:04:54.176Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Scrag",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:04:48.554Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Caaaprico",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:03:55.287Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "redredred",
+          "comment": "",
+          "scoredAt": "2026-10-16T21:02:54.461Z"
+        },
+        {
           "judgeName": "Вла-Да",
           "score": 3,
           "artist": "sexisdeath",
@@ -103,90 +187,6 @@
           "artist": "OcherednOY",
           "comment": "Шо тут происходит? ",
           "scoredAt": "2026-10-16T21:00:36.565Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Черный Dee",
-          "comment": "Чисто \"удовлетворительно\", надеюсь, что во втором интереснее будет",
-          "scoredAt": "2026-10-16T21:00:05.957Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "petrovdimm",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:58:24.392Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Андрей Николаевич",
-          "comment": "Тяжело слушается",
-          "scoredAt": "2026-10-16T20:58:24.234Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "СТАЛИНА ЦЕЛЛОФАН",
-          "comment": "Четко",
-          "scoredAt": "2026-10-16T20:57:41.744Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "flow",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:56:35.584Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "АЙД",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:55:23.910Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "кириешк4",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:55:17.497Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Lovecall",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:55:13.173Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "EBOSKE",
-          "comment": "Ой, давай сначала в дикцию, а потом в технику",
-          "scoredAt": "2026-10-16T20:53:03.568Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Серая слизь",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:51:17.051Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "Manool",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:49:19.170Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "artist": "sorry, we are closed",
-          "comment": "",
-          "scoredAt": "2026-10-16T20:48:26.090Z"
         }
       ]
     }

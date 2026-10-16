@@ -125246,6 +125246,174 @@
         "scoredAt": "2026-10-16T21:00:36.565Z",
         "userId": "f77a5874-291d-4056-8479-22d9374b9b0c"
       }
+    },
+    {
+      "id": "9bc49df473965ed7c99788219f93c60fcf9a37950ba523fd58d39381efd37d0a",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:07:14.661Z",
+      "key": "[\"18f660c7-935b-4d89-b420-2f27b05c419a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 1,
+        "comment": "Дорогу девушкам на 19шке",
+        "scoredAt": "2026-10-16T21:07:14.661Z",
+        "userId": "18f660c7-935b-4d89-b420-2f27b05c419a"
+      }
+    },
+    {
+      "id": "045730506b5708d8418e993e092f09c17257ee5c4398ba3f91e21189131d99bf",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:11:19.442Z",
+      "key": "[\"65f53f15-db6f-4eb7-8196-4f570ad9a6b9\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:11:19.442Z",
+        "userId": "65f53f15-db6f-4eb7-8196-4f570ad9a6b9"
+      }
+    },
+    {
+      "id": "11fcee35fb84e1d412d2a5586ca3751bab4030a87967f2ef8b95f1feeb823ff3",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:07:51.756Z",
+      "key": "[\"8c0ec389-ce55-4400-bf78-1abbe6a0471c\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Ну да, рэпер в годах не весел. ",
+        "scoredAt": "2026-10-16T21:07:51.756Z",
+        "userId": "8c0ec389-ce55-4400-bf78-1abbe6a0471c"
+      }
+    },
+    {
+      "id": "3dee5819fb7ac2c12991cf82456aa7e9d464562479b4e8a19b307d093dd8d517",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:06:04.520Z",
+      "key": "[\"6133262d-b6af-4851-8c86-83c934fd82b2\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:06:04.520Z",
+        "userId": "6133262d-b6af-4851-8c86-83c934fd82b2"
+      }
+    },
+    {
+      "id": "145951a1dde6510445c09a253ffd7f70f25dda0a00e24aee0d5635b531a2e093",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:10:03.282Z",
+      "key": "[\"56196ef6-033c-48b0-8900-9e1d73bceb10\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Да ну ты серьезно? ",
+        "scoredAt": "2026-10-16T21:10:03.282Z",
+        "userId": "56196ef6-033c-48b0-8900-9e1d73bceb10"
+      }
+    },
+    {
+      "id": "2e98250af4518382cad47c51184d45ffea2c1325c52d2b078e3cff439ef853e2",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:10:26.273Z",
+      "key": "[\"8e48cf3d-ba51-4528-90c2-3665b3cd1fbb\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:10:26.273Z",
+        "userId": "8e48cf3d-ba51-4528-90c2-3665b3cd1fbb"
+      }
+    },
+    {
+      "id": "7dce7929318f8a43bb95a093c754744a4028f04f3d3076cad24a71ccb3c9263a",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:03:55.287Z",
+      "key": "[\"106deadd-8e2d-4d4d-a3c3-0177f8d288eb\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:03:55.287Z",
+        "userId": "106deadd-8e2d-4d4d-a3c3-0177f8d288eb"
+      }
+    },
+    {
+      "id": "70dd8c128831e420f74ef0d22e0c36b29c290c396ccb841ffad20192600d534a",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:02:54.461Z",
+      "key": "[\"9a55b3fc-a42d-428f-988f-3abbe36bb7b4\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:02:54.461Z",
+        "userId": "9a55b3fc-a42d-428f-988f-3abbe36bb7b4"
+      }
+    },
+    {
+      "id": "c7bd559d2515430687fb9f89ab2594de8ed19a59f97829c70e4231a3e5d49132",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:04:54.176Z",
+      "key": "[\"a3dc6893-dba9-4b67-95ad-01e3ff03a831\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Слабая реализация идеи",
+        "scoredAt": "2026-10-16T21:04:54.176Z",
+        "userId": "a3dc6893-dba9-4b67-95ad-01e3ff03a831"
+      }
+    },
+    {
+      "id": "8ffe07270700be1071120769994bf8f83999c9d614005c148f33cf40a7befe71",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:08:56.502Z",
+      "key": "[\"91b68fae-3eb4-460b-8a63-299ee094a53d\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 3,
+        "comment": "Панчи есть - мое дело малое. ",
+        "scoredAt": "2026-10-16T21:08:56.502Z",
+        "userId": "91b68fae-3eb4-460b-8a63-299ee094a53d"
+      }
+    },
+    {
+      "id": "c944cabd10aa27bc0f0ee1ef06a003f87cbb3221038bb016cd31f6ccc109920e",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:04:48.554Z",
+      "key": "[\"f0603b48-e355-4ff1-82f1-0219705a8d5e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-16T21:04:48.554Z",
+        "userId": "f0603b48-e355-4ff1-82f1-0219705a8d5e"
+      }
+    },
+    {
+      "id": "0ffde240a53e1c0b4ee0faeb452699302746a2f1767ff1c5f6a84df9373c9d94",
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "sourceScoredAt": "2026-10-16T21:09:31.872Z",
+      "key": "[\"9262ab98-336c-4626-a17d-c81dfde01282\",\"Вла-Да\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Вла-Да",
+        "score": 2,
+        "comment": "Нахуевертил",
+        "scoredAt": "2026-10-16T21:09:31.872Z",
+        "userId": "9262ab98-336c-4626-a17d-c81dfde01282"
+      }
     }
   ],
   "snapshots": [
@@ -131425,6 +131593,26 @@
           "index": 29.280731031912772,
           "favor": 18.26335320184621,
           "attention": -0.14403949276808664,
+          "respect": 11.161417322834646
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-16T21:11:53.190Z",
+      "exportedAt": "2026-10-16T21:11:53.190Z",
+      "scores": 11941,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.43995337152063,
+          "favor": 9.216110707940238,
+          "attention": 6.5946291804343256,
+          "respect": 6.629213483146067
+        },
+        "veterans": {
+          "index": 29.3115258393984,
+          "favor": 18.268746275938465,
+          "attention": -0.11863775937470941,
           "respect": 11.161417322834646
         }
       }

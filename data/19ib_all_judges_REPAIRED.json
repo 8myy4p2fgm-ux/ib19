@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-16T21:01:58.049Z",
+  "exportedAt": "2026-10-16T21:11:53.190Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -2715,8 +2715,14 @@
     },
     {
       "userId": "18f660c7-935b-4d89-b420-2f27b05c419a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 1,
+          "comment": "Дорогу девушкам на 19шке",
+          "scoredAt": "2026-10-16T21:07:14.661Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 1,
@@ -2742,7 +2748,7 @@
           "scoredAt": "2026-10-13T05:27:28.048Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Canes Insaniunt",
       "artistSlug": "canes-insaniunt"
@@ -20378,8 +20384,14 @@
     },
     {
       "userId": "65f53f15-db6f-4eb7-8196-4f570ad9a6b9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:11:19.442Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -20387,7 +20399,7 @@
           "scoredAt": "2026-10-13T14:25:49.806Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Точка Опоры",
       "artistSlug": "tochka-opory"
@@ -24352,8 +24364,14 @@
     },
     {
       "userId": "8c0ec389-ce55-4400-bf78-1abbe6a0471c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Ну да, рэпер в годах не весел. ",
+          "scoredAt": "2026-10-16T21:07:51.756Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -24367,7 +24385,7 @@
           "scoredAt": "2026-10-15T19:44:30.112Z"
         }
       ],
-      "fetchedAt": "2026-10-15T21:12:25.842Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Kruchh",
       "artistSlug": "kruchh"
@@ -32238,8 +32256,14 @@
     },
     {
       "userId": "6133262d-b6af-4851-8c86-83c934fd82b2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:06:04.520Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -32253,7 +32277,7 @@
           "scoredAt": "2026-10-12T12:51:39.847Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:12:41.080Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Денис Кизим",
       "artistSlug": "denis-kizim"
@@ -40064,8 +40088,14 @@
     },
     {
       "userId": "56196ef6-033c-48b0-8900-9e1d73bceb10",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Да ну ты серьезно? ",
+          "scoredAt": "2026-10-16T21:10:03.282Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -40079,7 +40109,7 @@
           "scoredAt": "2026-10-07T13:49:13.915Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:22:46.526Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Чиhi",
       "artistSlug": "chihi"
@@ -52600,8 +52630,14 @@
     },
     {
       "userId": "8e48cf3d-ba51-4528-90c2-3665b3cd1fbb",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:10:26.273Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -52627,7 +52663,7 @@
           "scoredAt": "2026-10-10T15:58:39.460Z"
         }
       ],
-      "fetchedAt": "2026-10-15T06:22:10.189Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "pronicatel",
       "artistSlug": "pronicatel"
@@ -77011,9 +77047,16 @@
     },
     {
       "userId": "106deadd-8e2d-4d4d-a3c3-0177f8d288eb",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:03:55.287Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Caaaprico",
       "artistSlug": "caaaprico"
@@ -77736,8 +77779,14 @@
     },
     {
       "userId": "9a55b3fc-a42d-428f-988f-3abbe36bb7b4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:02:54.461Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 2,
@@ -77763,7 +77812,7 @@
           "scoredAt": "2026-09-24T13:02:07.567Z"
         }
       ],
-      "fetchedAt": "2026-10-15T10:22:20.097Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "redredred",
       "artistSlug": "redredred"
@@ -81734,8 +81783,14 @@
     },
     {
       "userId": "a3dc6893-dba9-4b67-95ad-01e3ff03a831",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Слабая реализация идеи",
+          "scoredAt": "2026-10-16T21:04:54.176Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -81755,7 +81810,7 @@
           "scoredAt": "2026-10-07T18:03:00.374Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:12:37.485Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Б.А.Н.",
       "artistSlug": "b-a-n"
@@ -87093,8 +87148,14 @@
     },
     {
       "userId": "91b68fae-3eb4-460b-8a63-299ee094a53d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Панчи есть - мое дело малое. ",
+          "scoredAt": "2026-10-16T21:08:56.502Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -87120,7 +87181,7 @@
           "scoredAt": "2026-10-14T14:33:43.670Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:02:28.338Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Александр Яга",
       "artistSlug": "aleksandr-yaga"
@@ -90506,8 +90567,14 @@
     },
     {
       "userId": "f0603b48-e355-4ff1-82f1-0219705a8d5e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T21:04:48.554Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -90515,7 +90582,7 @@
           "scoredAt": "2026-10-16T14:43:21.387Z"
         }
       ],
-      "fetchedAt": "2026-10-16T14:52:09.994Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "Scrag",
       "artistSlug": "scrag"
@@ -91971,8 +92038,14 @@
     },
     {
       "userId": "9262ab98-336c-4626-a17d-c81dfde01282",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Нахуевертил",
+          "scoredAt": "2026-10-16T21:09:31.872Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -91998,7 +92071,7 @@
           "scoredAt": "2026-10-03T13:19:33.528Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:22:24.622Z",
+      "fetchedAt": "2026-10-16T21:11:53.190Z",
       "current": true,
       "artistName": "МСхуевертель/АндерПидорГраунд",
       "artistSlug": "mshuevertel-anderpidorgraund"
