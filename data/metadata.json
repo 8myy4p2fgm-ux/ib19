@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-16T04:02:11.004Z",
-  "exportedAt": "2026-10-16T04:02:11.004Z",
-  "runId": "2026-10-16T04:02:11.004Z",
-  "forumExportedAt": "2026-10-16T04:02:11.004Z",
+  "lastSuccessfulAt": "2026-10-16T04:12:15.940Z",
+  "exportedAt": "2026-10-16T04:12:15.940Z",
+  "runId": "2026-10-16T04:12:15.940Z",
+  "forumExportedAt": "2026-10-16T04:12:15.940Z",
   "selectionVersion": "c60c9ad03eeddb74aa6ae865402c4acc6812856ff86f0e1c3c656021ce7930a2",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3280,
     "forum": 94,
-    "scores": 10618,
+    "scores": 10621,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 8
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3280,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3746,
-    "scoresBefore": 10616,
-    "scoresAfter": 10618,
-    "fullBaselineRequests": 3136,
-    "requestReductionPercent": 99.87244897959184,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5025,
+    "scoresBefore": 10618,
+    "scoresAfter": 10621,
+    "fullBaselineRequests": 3137,
+    "requestReductionPercent": 99.84061204972903,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -82,6 +82,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Саша FRG",
+          "comment": "Саньтьяго на опыте. Как обычно всё круто по исполнению. Как обычно всё мега претенциозно. ",
+          "scoredAt": "2026-10-16T04:10:49.948Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "VCPR",
+          "comment": "Про доминантсептаккорд круто, остальное очень плохо. По исполнению ровно, но подачу бы подтянуть. Хотел бы тебе поставить тройку, но очень уж много стремных строчек, которые портят впечатление.",
+          "scoredAt": "2026-10-16T04:06:39.022Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "2ZID",
+          "comment": "Харизматично и артистично. Под конец переиграл, конечно с этим завыванием. По тексту слабо. Слушается, не как рэп трек, а как кривляния под бит.",
+          "scoredAt": "2026-10-16T04:03:57.971Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -165,27 +186,6 @@
           "artist": "mi яT;",
           "comment": "Норм, но не более",
           "scoredAt": "2026-10-16T00:35:21.045Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Саша Паул (ЦИТРАМОН)",
-          "comment": "Классное раскрытие!",
-          "scoredAt": "2026-10-16T00:34:19.282Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "shlyapaNastene",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:33:39.354Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "Железный Джон",
-          "comment": "",
-          "scoredAt": "2026-10-16T00:28:37.772Z"
         }
       ]
     }
