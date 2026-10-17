@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T02:41:49.349Z",
-  "exportedAt": "2026-10-17T02:41:49.349Z",
-  "runId": "2026-10-17T02:41:49.349Z",
-  "forumExportedAt": "2026-10-17T02:41:49.349Z",
+  "lastSuccessfulAt": "2026-10-17T02:51:43.225Z",
+  "exportedAt": "2026-10-17T02:51:43.225Z",
+  "runId": "2026-10-17T02:51:43.225Z",
+  "forumExportedAt": "2026-10-17T02:51:43.225Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12022,
+    "scores": 12023,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1646,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2975,
     "scoresBefore": 12022,
-    "scoresAfter": 12022,
+    "scoresAfter": 12023,
     "fullBaselineRequests": 3206,
-    "requestReductionPercent": 99.93761696818466,
+    "requestReductionPercent": 99.90642545227698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "жжёные васильки",
+          "comment": "У тебя вроде бы вайбовенькая подачка с нотками Замая в голосе и можно даже представить, что такой текстовый артхаус может быть уместен с интересными необычными образами на контрасте, но все же под конец в этих образах запутался будто бы, а по тексту совсем уж белый стих пошел.\n\nПодача на 4, но текст снизил вниз, лучше бы по тексту сделал бы что-то более классическое.",
+          "scoredAt": "2026-10-17T02:42:12.671Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -180,13 +187,6 @@
           "artist": "Илья Чичёткин",
           "comment": "Ну хоть что-то по теме бы... Я уже не понимаю где люди сдают свои старые работы, а где пишут на отбор. Ну нельзя же просто сдать что-то, что норм звучит и показать, что ты умеешь в рэп. Тут и рэпа маловато и вообще не баттлово, отдам на откуп другим судьям.",
           "scoredAt": "2026-10-17T00:22:30.693Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "твой дорогой сх",
-          "comment": "Это какая-то абстракция, я вообще не понимаю половину твоего текста. Структурировать бы все эти мысли.",
-          "scoredAt": "2026-10-17T00:20:02.794Z"
         }
       ]
     }
