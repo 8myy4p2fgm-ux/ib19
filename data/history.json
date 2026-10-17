@@ -143228,6 +143228,132 @@
         "scoredAt": "2026-10-17T18:14:40.636Z",
         "userId": "6233cd87-3596-496e-b573-30938692f6a8"
       }
+    },
+    {
+      "id": "9eb9da4c04f4fe2d3e0c4eeec63681568f5b503e1e94174cbaf667033a1aa15b",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:41:20.504Z",
+      "key": "[\"2aeafab5-f7c2-49d8-a6ef-332a14c77460\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот вроде есть попытки дать эмоции, и вроде в целом не всё так плохо, но местами дикция заживалась что очень портит ов трека",
+        "scoredAt": "2026-10-17T18:41:20.504Z",
+        "userId": "2aeafab5-f7c2-49d8-a6ef-332a14c77460"
+      }
+    },
+    {
+      "id": "f1b5eceac83c0c675b64658cb0a2be36eb821069838f406e4abf8d3ba20076ed",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:37:44.012Z",
+      "key": "[\"fa19c49e-41f6-4e6e-a43a-18caa3d6369a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Структурно норм трек сделан, припевчик топ, вот в куплетик тоже жирок добавить",
+        "scoredAt": "2026-10-17T18:37:44.012Z",
+        "userId": "fa19c49e-41f6-4e6e-a43a-18caa3d6369a"
+      }
+    },
+    {
+      "id": "4642e405ab5738fc580bb798419aae978ad11563ee88503c78c1973c9b632dc9",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:38:01.801Z",
+      "key": "[\"ce015c36-efb0-4387-a4da-6f8f92c6b6e3\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "Звучит прикольно. Есть грязные строки, но они довольно таки простые. ",
+        "scoredAt": "2026-10-17T18:38:01.801Z",
+        "userId": "ce015c36-efb0-4387-a4da-6f8f92c6b6e3"
+      }
+    },
+    {
+      "id": "08d433fd6528dcc3016b3b034a977469f14c5209e702a32868396054341836e9",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:35:41.638Z",
+      "key": "[\"6da05311-d3ea-4a4b-b336-0a8c22f5afa1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Скажу от себя всё хорошо, только смотри во второй части немного бэки не понравились, а в первой части трека хочется наоборот ими насытить трекс",
+        "scoredAt": "2026-10-17T18:35:41.638Z",
+        "userId": "6da05311-d3ea-4a4b-b336-0a8c22f5afa1"
+      }
+    },
+    {
+      "id": "6893ee14a5e232b0ad83945573128d6654d296737713b5e7d12c8c083e1ae00e",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:36:41.855Z",
+      "key": "[\"af53e214-2887-4ef8-907e-a53f58505577\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом вкусно, жирок к основе добавь и будет сок",
+        "scoredAt": "2026-10-17T18:36:41.855Z",
+        "userId": "af53e214-2887-4ef8-907e-a53f58505577"
+      }
+    },
+    {
+      "id": "996e7d58d2d31a4c7c5eb2ebff8797a93887562f4ec8384198fb79e5676fc1e8",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:39:15.154Z",
+      "key": "[\"bd05af46-295f-40d3-82c1-4d769b8f3197\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Упрощение текста рифмами в таком треке играет в минус больше, ну ещё разнообразия добавь в подачу а то монотонно звучит",
+        "scoredAt": "2026-10-17T18:39:15.154Z",
+        "userId": "bd05af46-295f-40d3-82c1-4d769b8f3197"
+      }
+    },
+    {
+      "id": "cb667e2848b5c24dc738e7b321fdc78616d83a9d14b18ff7c305825bcb164f30",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:35:43.539Z",
+      "key": "[\"d324ad9c-3f3b-427c-a607-ce04f9611724\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "Крепкий середнячок ",
+        "scoredAt": "2026-10-17T18:35:43.539Z",
+        "userId": "d324ad9c-3f3b-427c-a607-ce04f9611724"
+      }
+    },
+    {
+      "id": "e66a253c7a68cf5d1cb77ffe11e662257413ce65ff52fff696a005357802346b",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:33:46.959Z",
+      "key": "[\"ba915c8b-8b5f-4005-94d2-d6a6f9bee2a2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Автотюн испортил всё",
+        "scoredAt": "2026-10-17T18:33:46.959Z",
+        "userId": "ba915c8b-8b5f-4005-94d2-d6a6f9bee2a2"
+      }
+    },
+    {
+      "id": "70e8a55576768668646e30d4ebaf17a3f65c91f495d47f68375f4748e6402f5d",
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "sourceScoredAt": "2026-10-17T18:35:00.395Z",
+      "key": "[\"7ac66dc1-3ad9-4287-9982-20fab8317dff\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "Потенциал есть. Во втором нужно прыгнуть выше головы. ",
+        "scoredAt": "2026-10-17T18:35:00.395Z",
+        "userId": "7ac66dc1-3ad9-4287-9982-20fab8317dff"
+      }
     }
   ],
   "snapshots": [
@@ -151547,6 +151673,26 @@
           "index": 29.687855783410093,
           "favor": 17.794473192229987,
           "attention": 1.1471139344636898,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T18:42:10.718Z",
+      "exportedAt": "2026-10-17T18:42:10.718Z",
+      "scores": 13212,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.81386765456062,
+          "favor": 9.25743663714963,
+          "attention": 6.08636059487578,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.70182290922596,
+          "favor": 17.791283299057547,
+          "attention": 1.1642709534519964,
           "respect": 10.746268656716419
         }
       }
