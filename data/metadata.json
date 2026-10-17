@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T09:32:30.666Z",
-  "exportedAt": "2026-10-17T09:32:30.666Z",
-  "runId": "2026-10-17T09:32:30.666Z",
-  "forumExportedAt": "2026-10-17T09:32:30.666Z",
+  "lastSuccessfulAt": "2026-10-17T09:42:08.135Z",
+  "exportedAt": "2026-10-17T09:42:08.135Z",
+  "runId": "2026-10-17T09:42:08.135Z",
+  "forumExportedAt": "2026-10-17T09:42:08.135Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12276,
+    "scores": 12296,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 33,
+    "httpRequests": 22,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 30,
+    "updatedCards": 20,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 30,
-    "changedParticipants": 29,
-    "logicalRequests": 33,
-    "durationMs": 32776,
-    "scoresBefore": 12246,
-    "scoresAfter": 12276,
-    "fullBaselineRequests": 3220,
-    "requestReductionPercent": 98.9751552795031,
+    "participantsWithNewScores": 20,
+    "changedParticipants": 20,
+    "logicalRequests": 22,
+    "durationMs": 21864,
+    "scoresBefore": 12276,
+    "scoresAfter": 12296,
+    "fullBaselineRequests": 3223,
+    "requestReductionPercent": 99.31740614334471,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Александр Сомов",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:31:56.430Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Niсotine",
-          "comment": "Слишком сильно напряженно читаешь. Расслабься и подавай увереннее. По тексту ничего интересного.",
-          "scoredAt": "2026-10-17T09:31:45.632Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Kenli",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:31:24.184Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 5,
-          "artist": "Никита Пиличев",
-          "comment": "Хорошо исполнил, текст средненький. Но для отбора пойдет.",
-          "scoredAt": "2026-10-17T09:31:17.308Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Dima LondoN [Why-Fly]",
-          "comment": "Переставай писать строчки через слэш - это неуважение к своему творчеству. Зачитал как-то странно, в себя что-ли. Звучит как эксперимент и эксперимент не самый удачный. Можешь лучше.",
-          "scoredAt": "2026-10-17T09:30:39.920Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Ressagor",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:30:34.266Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "ПЛБ",
-          "comment": "Авансом, я рептилоид кстати.",
-          "scoredAt": "2026-10-17T09:29:53.914Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "Amonim",
-          "comment": "Поставил бы 5, если бы текст был посильнее.",
-          "scoredAt": "2026-10-17T09:29:43.830Z"
-        },
-        {
-          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "матумат",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:28:53.082Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Света Шумовая",
-          "comment": "Очень простенько получилось по всем параметрам.",
-          "scoredAt": "2026-10-17T09:28:48.860Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "ВАМОРЪ",
-          "comment": "Респект за вантейк. За реп не респект - очень плохо(но что-то подсказывает мне, что ты просто прикалываешься). Не смешно, если что.",
-          "scoredAt": "2026-10-17T09:28:40.394Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Даня Далы",
+          "artist": "РУБИЛО",
           "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T09:27:56.650Z"
+          "scoredAt": "2026-10-17T09:41:17.806Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ДЕВЯНОСТОЧЕТВЕРТЫЙ",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:40:43.701Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "4sgm",
+          "comment": "Сумбурное исполнение, многовато топорной рифмовки, какая-то неудачная структура (либо ты её не смог при исполнении компенсировать решениями). Короче, как-то не органично, да и тема избитая дофига, ничего нового по ней не сказал, недостаточно цепко по содержанию ",
+          "scoredAt": "2026-10-17T09:40:29.917Z"
         },
         {
           "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Буквально Я",
+          "comment": "Интересный слог. Напомнил мне ПлавлюМозги, зацени его репак обязательно. Многому научишься у него. Зачитал ровно. ",
+          "scoredAt": "2026-10-17T09:40:08.701Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "SIlN",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:39:54.779Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "InDaChaos",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:39:10.064Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
           "score": 5,
-          "artist": "саша галактус",
-          "comment": "Интересный слог и звук. Реально зачитал от лица галактуса. С кайфом переслушал три раза. Интересно и абсурдненько. Да, это вкусовщина, но я судья и мне решать. Ставлю пятак, надеюсь пройдешь дальше.",
-          "scoredAt": "2026-10-17T09:27:35.371Z"
+          "artist": "Три Бэка",
+          "comment": "Хорошее, оригинальное раскрытие темы, органично звучит голос с битом, концовка хорошая! Нудеть за звук и рифмы тут не буду, закрою глаза из-за хорошего сторитела, молодец. 5 с минусом лови",
+          "scoredAt": "2026-10-17T09:39:04.076Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ЭТО44",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:38:31.237Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "mxgilxvskiii",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:37:48.366Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "DVA500",
+          "comment": "Я не в контексте истории, которую ты рассказываешь, но в любом случае это круто. Вообще раньше было много лже царей. Короче, молодец, я думаю ты один из 3500 человек, кто сделал такое раскрытие. Хотелось бы еще чтобы ты кроме сторителлинга заложил еще посыл и не забыл про рифмы и панчи. За уникальность - четверка, но во втором надо будет удивлять.",
+          "scoredAt": "2026-10-17T09:37:32.110Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "connector",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:36:33.950Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Частый Лодырь",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:36:05.298Z"
         },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
-          "artist": "тапки соуз парк",
-          "comment": "Много ошибок в исполнении, особенно когда на ускорения переходишь.",
-          "scoredAt": "2026-10-17T09:27:32.205Z"
+          "artist": "AINEES",
+          "comment": "Средненько и по исполнению, и по тексту.",
+          "scoredAt": "2026-10-17T09:36:02.645Z"
         },
         {
           "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Pavlik Sol",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T09:27:09.804Z"
+          "score": 3,
+          "artist": "Di Mo",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:35:07.425Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "artist": "Уксоди",
+          "comment": "Немного с авансом, не всё понравилось, но оригинально получилось.",
+          "scoredAt": "2026-10-17T09:34:57.246Z"
         }
       ]
     }

@@ -130104,6 +130104,286 @@
         "scoredAt": "2026-10-17T09:30:39.920Z",
         "userId": "4d06a5e5-d2fb-4294-989a-c3a086153f36"
       }
+    },
+    {
+      "id": "84bfbb6d1b153aa80e0685ca3c8f74fa461ae5a91adda8b70a1b4afcace50eee",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:34:57.246Z",
+      "key": "[\"fa66cfb1-9fef-486d-9d85-59a8c562d98d\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 5,
+        "comment": "Немного с авансом, не всё понравилось, но оригинально получилось.",
+        "scoredAt": "2026-10-17T09:34:57.246Z",
+        "userId": "fa66cfb1-9fef-486d-9d85-59a8c562d98d"
+      }
+    },
+    {
+      "id": "0041a86c4d9db72749a84c636f1812a4f79cb89fbc75adf55b00b1c4ed6f4cd2",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:39:54.779Z",
+      "key": "[\"c6aadfbb-c216-45b4-a08e-a2b3128c99a8\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:39:54.779Z",
+        "userId": "c6aadfbb-c216-45b4-a08e-a2b3128c99a8"
+      }
+    },
+    {
+      "id": "e62d5ebbfc8fadd4b4efcbbe5e0f5570ec2f34d590a1c308158384bce0a41292",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:40:08.701Z",
+      "key": "[\"0794cb0d-9ced-443f-b2ea-59c37fbcf25f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Интересный слог. Напомнил мне ПлавлюМозги, зацени его репак обязательно. Многому научишься у него. Зачитал ровно. ",
+        "scoredAt": "2026-10-17T09:40:08.701Z",
+        "userId": "0794cb0d-9ced-443f-b2ea-59c37fbcf25f"
+      }
+    },
+    {
+      "id": "cf92b765af9a1859287bb548fbab00e6ef50366230c49d7509ebe943c4fa3cdd",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:38:31.237Z",
+      "key": "[\"1cb93080-658d-4e70-874a-d5d100f88811\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:38:31.237Z",
+        "userId": "1cb93080-658d-4e70-874a-d5d100f88811"
+      }
+    },
+    {
+      "id": "351e18059f31024612c3aa4497a22bff2ad7a3d8cae8dc05bb8d356b9e73eb9b",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:37:48.366Z",
+      "key": "[\"252a77c9-9792-41f5-88db-691f99ece7b4\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:37:48.366Z",
+        "userId": "252a77c9-9792-41f5-88db-691f99ece7b4"
+      }
+    },
+    {
+      "id": "5cecac333c64b33d244a65a854ac835244da897499876fafb65bcecfcb29c8fb",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:33:56.323Z",
+      "key": "[\"cb998fd4-8f22-4feb-849d-335d25804696\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Типично, простенько, квадратная и ассонансная рифмовка, с читочкой получше, но тоже без огня",
+        "scoredAt": "2026-10-17T09:33:56.323Z",
+        "userId": "cb998fd4-8f22-4feb-849d-335d25804696"
+      }
+    },
+    {
+      "id": "fda65f5ffc85e79133ee2418ce26b7ae50a8739078dd0419d4e7678182598b30",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:37:32.110Z",
+      "key": "[\"5fc98d33-8215-4c9b-9145-67ff79d44456\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Я не в контексте истории, которую ты рассказываешь, но в любом случае это круто. Вообще раньше было много лже царей. Короче, молодец, я думаю ты один из 3500 человек, кто сделал такое раскрытие. Хотелось бы еще чтобы ты кроме сторителлинга заложил еще посыл и не забыл про рифмы и панчи. За уникальность - четверка, но во втором надо будет удивлять.",
+        "scoredAt": "2026-10-17T09:37:32.110Z",
+        "userId": "5fc98d33-8215-4c9b-9145-67ff79d44456"
+      }
+    },
+    {
+      "id": "cf03ab9e5977fcb127cf0b31c71c18aec2530bf55976896f9f20a3c15d3d01bc",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:41:17.806Z",
+      "key": "[\"192a92de-fd57-4a9e-a144-c9c90b9b2c8f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:41:17.806Z",
+        "userId": "192a92de-fd57-4a9e-a144-c9c90b9b2c8f"
+      }
+    },
+    {
+      "id": "7bb5213ac54f1ac74c92fea2dfa5ba85d8faa2ae3f79b8ae73e07311eff7c453",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:33:37.426Z",
+      "key": "[\"f77e9053-6a2b-4af3-9b7f-37459800d327\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:33:37.426Z",
+        "userId": "f77e9053-6a2b-4af3-9b7f-37459800d327"
+      }
+    },
+    {
+      "id": "34fb02b2a756fd8be0e4f3404e74b5d408685dc47b5055031c89f487f27566cd",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:36:33.950Z",
+      "key": "[\"e790b6c0-d48b-4784-86bc-50c9ebbc0f4d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:36:33.950Z",
+        "userId": "e790b6c0-d48b-4784-86bc-50c9ebbc0f4d"
+      }
+    },
+    {
+      "id": "5ecd195f7bb8ebcf1bd7ad879c77fd58d112aff6db1d36d3551946f57b885cc4",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:39:04.076Z",
+      "key": "[\"6dd48b25-9bec-427c-870b-94414067b8cd\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Хорошее, оригинальное раскрытие темы, органично звучит голос с битом, концовка хорошая! Нудеть за звук и рифмы тут не буду, закрою глаза из-за хорошего сторитела, молодец. 5 с минусом лови",
+        "scoredAt": "2026-10-17T09:39:04.076Z",
+        "userId": "6dd48b25-9bec-427c-870b-94414067b8cd"
+      }
+    },
+    {
+      "id": "2009787855cac23efaf2b1c28cad63f05fb5a482647708d5e420b7f679a8f6ba",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:36:05.298Z",
+      "key": "[\"d5ca310a-1a20-427e-8a46-1e5e286b2521\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:36:05.298Z",
+        "userId": "d5ca310a-1a20-427e-8a46-1e5e286b2521"
+      }
+    },
+    {
+      "id": "59d1e444d1c5c15cb87de2573b8ca7b918a262f0136b39c1f7bcd1b14cdea5d7",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:40:43.701Z",
+      "key": "[\"cc7dde8b-cf49-4633-845a-8f67cc795bb3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:40:43.701Z",
+        "userId": "cc7dde8b-cf49-4633-845a-8f67cc795bb3"
+      }
+    },
+    {
+      "id": "0dd8711dbb3cf99cce962465436e16e82c9548d744a86aa4df0551a543d1aa96",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:34:37.354Z",
+      "key": "[\"3d8eaf38-f309-4053-abb1-cc2b2f1abf42\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:34:37.354Z",
+        "userId": "3d8eaf38-f309-4053-abb1-cc2b2f1abf42"
+      }
+    },
+    {
+      "id": "3968ad5c5ea6f659e0d5951bc629a3db91798785bf4ecd3b5899ba5b3a88a363",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:32:53.139Z",
+      "key": "[\"c92c94c7-ba0a-4361-92c6-8a98022fe19f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:32:53.139Z",
+        "userId": "c92c94c7-ba0a-4361-92c6-8a98022fe19f"
+      }
+    },
+    {
+      "id": "7053b1b57bee1ca6099a1de12550123c67128b66b339b9f56110f9fa7c1c6d49",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:36:02.645Z",
+      "key": "[\"2717eecd-a6a3-473e-b06e-30aacaae0dc1\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Средненько и по исполнению, и по тексту.",
+        "scoredAt": "2026-10-17T09:36:02.645Z",
+        "userId": "2717eecd-a6a3-473e-b06e-30aacaae0dc1"
+      }
+    },
+    {
+      "id": "83be9df164a6e6543ea7e5568d36df6248b683701f0f898b39128437bca05328",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:35:07.425Z",
+      "key": "[\"a602970d-d8be-4413-bd6f-98394f244a08\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:35:07.425Z",
+        "userId": "a602970d-d8be-4413-bd6f-98394f244a08"
+      }
+    },
+    {
+      "id": "b066c07197a1b34f0e4c83485c326b2c4a86991a8281bcc21c57c2e8d5ef4757",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:33:19.603Z",
+      "key": "[\"09a96f64-621d-43bd-855a-cab713820aa0\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Читаешь уверенно, но по тексту ничего интересного.",
+        "scoredAt": "2026-10-17T09:33:19.603Z",
+        "userId": "09a96f64-621d-43bd-855a-cab713820aa0"
+      }
+    },
+    {
+      "id": "a163b8e0d803fd8a1f7f1cc3cdd80b0cdd592db7d312fac7262261f8be745267",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:40:29.917Z",
+      "key": "[\"73718cb1-6ecc-4726-ae59-35e24f759802\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Сумбурное исполнение, многовато топорной рифмовки, какая-то неудачная структура (либо ты её не смог при исполнении компенсировать решениями). Короче, как-то не органично, да и тема избитая дофига, ничего нового по ней не сказал, недостаточно цепко по содержанию ",
+        "scoredAt": "2026-10-17T09:40:29.917Z",
+        "userId": "73718cb1-6ecc-4726-ae59-35e24f759802"
+      }
+    },
+    {
+      "id": "f879486dcc1ecfac0be7140ee05d066355c8eb05c4141a49ce93137d58563371",
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "sourceScoredAt": "2026-10-17T09:39:10.064Z",
+      "key": "[\"693d473e-2dbd-4bd7-b445-66b70fb819c2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:39:10.064Z",
+        "userId": "693d473e-2dbd-4bd7-b445-66b70fb819c2"
+      }
     }
   ],
   "snapshots": [
@@ -137384,6 +137664,26 @@
           "favor": 18.048613783477975,
           "attention": 0.11637963928671365,
           "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T09:42:08.135Z",
+      "exportedAt": "2026-10-17T09:42:08.135Z",
+      "scores": 12296,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.140364674436285,
+          "favor": 9.278054973388919,
+          "attention": 6.268903107640772,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 28.59006613640803,
+          "favor": 17.765380189430825,
+          "attention": -0.021467899176642925,
+          "respect": 10.846153846153847
         }
       }
     }
