@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T10:12:19.126Z",
-  "exportedAt": "2026-10-17T10:12:19.126Z",
-  "runId": "2026-10-17T10:12:19.126Z",
-  "forumExportedAt": "2026-10-17T10:12:19.126Z",
+  "lastSuccessfulAt": "2026-10-17T10:22:11.836Z",
+  "exportedAt": "2026-10-17T10:22:11.836Z",
+  "runId": "2026-10-17T10:22:11.836Z",
+  "forumExportedAt": "2026-10-17T10:22:11.836Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12363,
+    "scores": 12385,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 26,
+    "httpRequests": 24,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 24,
+    "updatedCards": 22,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 24,
-    "changedParticipants": 24,
-    "logicalRequests": 26,
-    "durationMs": 26137,
-    "scoresBefore": 12339,
-    "scoresAfter": 12363,
-    "fullBaselineRequests": 3224,
-    "requestReductionPercent": 99.19354838709677,
+    "participantsWithNewScores": 22,
+    "changedParticipants": 22,
+    "logicalRequests": 24,
+    "durationMs": 23962,
+    "scoresBefore": 12363,
+    "scoresAfter": 12385,
+    "fullBaselineRequests": 3225,
+    "requestReductionPercent": 99.25581395348837,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "KseroN",
+          "score": 3,
+          "artist": "YASPAL",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:21:44.890Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Перманент",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:21:22.697Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "АнтропониМ",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:20:46.336Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "19 независимый ебатель",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:20:31.295Z"
+        },
+        {
+          "judgeName": "KseroN",
           "score": 4,
-          "artist": "PETKO",
-          "comment": "слишком ломано, более плавнее бы ",
-          "scoredAt": "2026-10-17T10:11:40.095Z"
+          "artist": "BlueTit",
+          "comment": "рановато, нужно много работать, я дам проход) но хз, что другие поставят.\n\nголос приятный ",
+          "scoredAt": "2026-10-17T10:20:06.370Z"
         },
         {
           "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Андрей Карташов",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:11:36.042Z"
+          "score": 4,
+          "artist": "НЛШ",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:18:53.647Z"
         },
         {
           "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "jawado",
-          "comment": "Вайбово и приятно. Добавить бы еще тексточка хоршего. Исполняешь уверенно и разнообразною. Красавчик!",
-          "scoredAt": "2026-10-17T10:11:07.142Z"
+          "score": 3,
+          "artist": "дачтотычёртпоберитакоенесёшь",
+          "comment": "Мне нравится как ты в одной четверке размышляешь про панчи и в следующей \"тутутуту - тататата\". Звучишь хорошо, чопы в конце вообще кайф, но текст слабый.",
+          "scoredAt": "2026-10-17T10:18:12.560Z"
         },
         {
           "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "FullJazz",
+          "score": 3,
+          "artist": "Resonanse",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:11:01.519Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Фёдоров",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:10:54.335Z"
+          "scoredAt": "2026-10-17T10:17:44.330Z"
         },
         {
           "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "kirilmelnikov",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:10:28.168Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "F1xxer",
-          "comment": "давай покруче ",
-          "scoredAt": "2026-10-17T10:10:21.117Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "коби зеро (К777)",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:09:54.944Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "ЯРС",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:09:14.124Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "HomieLion",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:08:45.337Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Пожилой Владивосток",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:08:41.582Z"
-        },
-        {
-          "judgeName": "KseroN",
           "score": 2,
-          "artist": "notarsy",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:08:14.797Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Rain Up",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:07:26.776Z"
+          "artist": "Desperto",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:17:02.087Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "BOGOMOL",
+          "artist": "Алекс Виски",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:16:32.474Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "FreeГад",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:16:22.573Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Greenflex",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:15:54.983Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Stas L'artiste",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:15:30.088Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "НА ГРАНИ ФОЛА",
           "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T10:06:20.113Z"
+          "scoredAt": "2026-10-17T10:14:39.730Z"
         },
         {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Tayga Dager",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:06:02.123Z"
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Том Сойер",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:14:08.236Z"
         }
       ]
     }
