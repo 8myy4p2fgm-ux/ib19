@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T13:12:25.963Z",
-  "exportedAt": "2026-10-17T13:12:25.963Z",
-  "runId": "2026-10-17T13:12:25.963Z",
-  "forumExportedAt": "2026-10-17T13:12:25.963Z",
+  "lastSuccessfulAt": "2026-10-17T13:21:58.091Z",
+  "exportedAt": "2026-10-17T13:21:58.091Z",
+  "runId": "2026-10-17T13:21:58.091Z",
+  "forumExportedAt": "2026-10-17T13:21:58.091Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12733,
+    "scores": 12743,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 26,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 24,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 24,
-    "changedParticipants": 24,
-    "logicalRequests": 26,
-    "durationMs": 26081,
-    "scoresBefore": 12709,
-    "scoresAfter": 12733,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 12,
+    "durationMs": 12030,
+    "scoresBefore": 12733,
+    "scoresAfter": 12743,
     "fullBaselineRequests": 3236,
-    "requestReductionPercent": 99.19653893695921,
+    "requestReductionPercent": 99.6291718170581,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,6 +84,76 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "AINEES",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:21:07.980Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Бойфренд",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:20:25.119Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "sobesednik",
+          "comment": "Авансом за понимание что и для чего",
+          "scoredAt": "2026-10-17T13:19:45.569Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Kitcher.k",
+          "comment": "Скучно, немного криво , добавь эмоций в исполнении и харизмы , авансом 3",
+          "scoredAt": "2026-10-17T13:19:28.114Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Вованыч",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:18:16.060Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "SWAGDRAGON",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:17:50.322Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Женя Индиго",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:16:43.068Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ixoma",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T13:15:29.327Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "КОЗЁЛ",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T13:14:48.732Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "Polo De Cono",
+          "comment": "ахуенно ",
+          "scoredAt": "2026-10-17T13:12:35.818Z"
+        },
+        {
           "judgeName": "OttO",
           "score": 3,
           "artist": "vsecelo",
@@ -117,76 +187,6 @@
           "artist": "Дуэт Качели",
           "comment": "чуть не хватило до 3",
           "scoredAt": "2026-10-17T13:08:27.736Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Lobo",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:08:23.829Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Yamantao",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:07:11.159Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "X-mite",
-          "comment": "Блин, по звуку прям очень нравится. Голос уверенный, по биту идёшь классно, но несколько строчек для меня слабее остального трека. Поэтому четыре, хотя думал о пятёрке",
-          "scoredAt": "2026-10-17T13:07:04.248Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "молодой Куколд",
-          "comment": "С такой подачей и стильком строчки должны быть мощнейшими , броузи . тут надо над формулировками париться к рифмам чтобы обертка получалась красивая. Пока скучно , но образность хорошая, иного слов если уходит на неё то пусть они будут оправданны . авансом 3",
-          "scoredAt": "2026-10-17T13:06:40.781Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "MIRO MC",
-          "comment": "Стильно, уверенно, с характером. Для пятёрки не хватило разнообразия",
-          "scoredAt": "2026-10-17T13:06:23.137Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "yoonilorde",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:06:19.314Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Вова Против",
-          "comment": "слабо ",
-          "scoredAt": "2026-10-17T13:06:16.541Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "мц кутикула",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:05:55.838Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "ПИБ",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:05:40.122Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Reeo&Chinzanu",
-          "comment": "пойдёт ",
-          "scoredAt": "2026-10-17T13:05:39.386Z"
         }
       ]
     }

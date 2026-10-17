@@ -136522,6 +136522,146 @@
         "scoredAt": "2026-10-17T13:03:40.331Z",
         "userId": "e57716ee-295d-4bd4-8f32-0af99950653b"
       }
+    },
+    {
+      "id": "d351b1943d09eb401ba414365e2499758951d09484943d0dd2af6f09c8b072ad",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:15:29.327Z",
+      "key": "[\"65a2df13-a200-48ca-bd26-9c3017d85964\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T13:15:29.327Z",
+        "userId": "65a2df13-a200-48ca-bd26-9c3017d85964"
+      }
+    },
+    {
+      "id": "749067b23fbf7209ec0079fb059a60302f6b9cad081eef7c70a975d20bcb951c",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:12:35.818Z",
+      "key": "[\"b3dd681a-d144-4721-b7a6-2e6fe51e7223\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "ахуенно ",
+        "scoredAt": "2026-10-17T13:12:35.818Z",
+        "userId": "b3dd681a-d144-4721-b7a6-2e6fe51e7223"
+      }
+    },
+    {
+      "id": "2ca0afacb6c1f9b6090272f91fbdf4c251fe7cdff1c6b13bf21fe9593fe02585",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:14:48.732Z",
+      "key": "[\"f5e41dae-c147-4a70-83a9-1a33a3167e12\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T13:14:48.732Z",
+        "userId": "f5e41dae-c147-4a70-83a9-1a33a3167e12"
+      }
+    },
+    {
+      "id": "70801fd3e3df908e723a8575b6a18fb7cf60b7311382d68452c18887f82be4bc",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:18:16.060Z",
+      "key": "[\"fb0c0924-4b33-4450-953b-e8c35d911ab9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:18:16.060Z",
+        "userId": "fb0c0924-4b33-4450-953b-e8c35d911ab9"
+      }
+    },
+    {
+      "id": "d462eb619e625c22fb715a624bc29b8a5b9841fab28a07d3854446bf6b5f2f82",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:19:28.114Z",
+      "key": "[\"9cfa5170-043b-49e6-9518-1c67303a34d7\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Скучно, немного криво , добавь эмоций в исполнении и харизмы , авансом 3",
+        "scoredAt": "2026-10-17T13:19:28.114Z",
+        "userId": "9cfa5170-043b-49e6-9518-1c67303a34d7"
+      }
+    },
+    {
+      "id": "4930d40123c1e945d395151325372d2c1f68ee43dfe70763fea7d399ef6cf330",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:20:25.119Z",
+      "key": "[\"cea25d82-297d-453e-949f-41811caeb30c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:20:25.119Z",
+        "userId": "cea25d82-297d-453e-949f-41811caeb30c"
+      }
+    },
+    {
+      "id": "5b74b07af4f9eeeabc43c8636e3e36e16dbe6b71786c22c929981d44432ceded",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:16:43.068Z",
+      "key": "[\"5d899be2-93bd-4309-9c83-75b11add6b41\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:16:43.068Z",
+        "userId": "5d899be2-93bd-4309-9c83-75b11add6b41"
+      }
+    },
+    {
+      "id": "e2ef43045c64ae961df9124491b635e00b62861f131280d43285c6e97d015a61",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:19:45.569Z",
+      "key": "[\"737ff124-5087-4a9d-862c-80dd699f11d2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом за понимание что и для чего",
+        "scoredAt": "2026-10-17T13:19:45.569Z",
+        "userId": "737ff124-5087-4a9d-862c-80dd699f11d2"
+      }
+    },
+    {
+      "id": "14a5f6c0af10613d9789b954f2b2542bad18e585692a06f587822b537870ce4e",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:17:50.322Z",
+      "key": "[\"ad9897df-1369-4fc8-82d4-a749273c57eb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:17:50.322Z",
+        "userId": "ad9897df-1369-4fc8-82d4-a749273c57eb"
+      }
+    },
+    {
+      "id": "8e26b3574938ca96f2091260c648ff31042b985e81d33d732f83ce83f8267486",
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "sourceScoredAt": "2026-10-17T13:21:07.980Z",
+      "key": "[\"2717eecd-a6a3-473e-b06e-30aacaae0dc1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:21:07.980Z",
+        "userId": "2717eecd-a6a3-473e-b06e-30aacaae0dc1"
+      }
     }
   ],
   "snapshots": [
@@ -144241,6 +144381,26 @@
           "index": 28.766363911458917,
           "favor": 17.754448621553887,
           "attention": 0.2412385981757081,
+          "respect": 10.770676691729323
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T13:21:58.091Z",
+      "exportedAt": "2026-10-17T13:21:58.091Z",
+      "scores": 12743,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.98842052941784,
+          "favor": 9.232237314841267,
+          "attention": 6.254384653425492,
+          "respect": 6.501798561151079
+        },
+        "veterans": {
+          "index": 28.77678818063464,
+          "favor": 17.753883121761582,
+          "attention": 0.2522283671437312,
           "respect": 10.770676691729323
         }
       }
