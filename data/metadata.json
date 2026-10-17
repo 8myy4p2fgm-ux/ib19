@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T13:42:16.331Z",
-  "exportedAt": "2026-10-17T13:42:16.331Z",
-  "runId": "2026-10-17T13:42:16.331Z",
-  "forumExportedAt": "2026-10-17T13:42:16.331Z",
+  "lastSuccessfulAt": "2026-10-17T13:52:19.201Z",
+  "exportedAt": "2026-10-17T13:52:19.201Z",
+  "runId": "2026-10-17T13:52:19.201Z",
+  "forumExportedAt": "2026-10-17T13:52:19.201Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12766,
+    "scores": 12784,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 19,
+    "httpRequests": 20,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 16,
+    "updatedCards": 18,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 16,
-    "changedParticipants": 15,
-    "logicalRequests": 19,
-    "durationMs": 18699,
-    "scoresBefore": 12750,
-    "scoresAfter": 12766,
-    "fullBaselineRequests": 3236,
-    "requestReductionPercent": 99.41285537700865,
+    "participantsWithNewScores": 18,
+    "changedParticipants": 18,
+    "logicalRequests": 20,
+    "durationMs": 20344,
+    "scoresBefore": 12766,
+    "scoresAfter": 12784,
+    "fullBaselineRequests": 3238,
+    "requestReductionPercent": 99.38233477455219,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Рома Кросс",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:41:38.530Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Саша Стэди",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:41:04.161Z"
-        },
-        {
-          "judgeName": "Роженов",
           "score": 4,
-          "artist": "Катровасер",
-          "comment": "Ощущается какая-то недомотивированность – и по подаче, и по качеству, и по тому, что есть непунктуальность в приложенном тексте, и частенько (около-)квадраты мелькают (хоть это и в плотности не столь критично). Но в целом всё равно уровнево",
-          "scoredAt": "2026-10-17T13:40:37.064Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "ARTSY",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:40:11.638Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Dead Romance Club",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:39:30.122Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "papasha",
+          "artist": "Kovoto",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:39:02.258Z"
+          "scoredAt": "2026-10-17T13:51:58.338Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "павук [ЛЮДСКОЕ]",
+          "comment": "Женский контейнер это то что мы заслужили ! Удачно у тебя получилось, много тут похожих работ, и мало удачных. Давай еще",
+          "scoredAt": "2026-10-17T13:51:16.512Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "kill confirmed",
+          "artist": "ПУСТЫЕ",
           "comment": "",
-          "scoredAt": "2026-10-17T13:38:23.791Z"
+          "scoredAt": "2026-10-17T13:51:02.292Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "YASPAL",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:37:49.885Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Ярый",
-          "comment": "бит пиздатый",
-          "scoredAt": "2026-10-17T13:37:03.156Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "BANZA!_AK!MBO",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T13:36:44.746Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "OverSize25uk",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:35:16.573Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "KL1M L1GHT",
+          "artist": "TRIPPLE-K IANI",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:34:40.365Z"
+          "scoredAt": "2026-10-17T13:50:33.313Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "MЦ АКАДЕМИК",
-          "comment": "",
-          "scoredAt": "2026-10-17T13:33:35.819Z"
+          "artist": "ъ",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:50:05.543Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
-          "artist": "MC Мариш",
-          "comment": "Авансом 3, по идейке нормас, по реализации очень слабо, попробуй голосом поиграться если делаешь кулстори, добавь харизмы. Пока звучит будто ты боишься читать свой текст, добавь харизмы . с уровнем такой работы ты точно слетишь во 2 раунде",
-          "scoredAt": "2026-10-17T13:33:34.711Z"
+          "artist": "karrat",
+          "comment": "Читать умеешь, но текст скучный братик, рифмы кошмарные, становись лучше, чуть посиди над рифмами и позакручивай строчки в панчлайны, добавь им интереса, подщакрути. Скилуха у тебя на месте, харизма есть , во втором раунде с уровнем такой же работы слетишь ",
+          "scoredAt": "2026-10-17T13:49:04.857Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ЧИЛИКЛИНТОН",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:49:04.506Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 4,
-          "artist": "uNIKum",
+          "artist": "IRoNiST",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:32:35.651Z"
+          "scoredAt": "2026-10-17T13:47:48.188Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Come on",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:47:06.251Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Matesha",
+          "comment": "Бит сам по себе в первой части, голос у тебя очень красивый , попрактикуйся над рэпом еще, прокачай скиоуху, возьми для начала бит по проще. Лови авансом три, вокалом затащила.",
+          "scoredAt": "2026-10-17T13:46:39.690Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Иван Аура",
+          "comment": "Ви а зе чемпионс май френд. С авансом.",
+          "scoredAt": "2026-10-17T13:46:20.883Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "SlepokPasti",
+          "comment": "Есть забавные штуки. А чего это ты влетел с рифмы \"ушки - частушки\"? Вроде дальше норм было, решил произвести \"хорошее первое впечатление\" :D ну в целом это тройбан, так как есть за что зацепиться и в читке уверенность есть",
+          "scoredAt": "2026-10-17T13:45:30.052Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Грегор Наземный",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:45:26.173Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Мэнни Дэйс",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:45:00.753Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "monaxphonker",
+          "comment": "Тема норм, не ново, конечно, но норм. Рифмы капец печальные, исполнение ака как получится не дополняешь ты бит тут, он просто на фоне. Голос приятный четкий. Яркости работе не хватает, скучновато , но работа проходная. Попробуй поизъеьываться со строчками и рифмой, иначе во втором слетишь , броузи ",
+          "scoredAt": "2026-10-17T13:44:41.051Z"
         }
       ]
     }
