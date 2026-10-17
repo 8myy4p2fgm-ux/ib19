@@ -141968,6 +141968,188 @@
         "scoredAt": "2026-10-17T16:49:58.511Z",
         "userId": "e80560cb-eb8b-432c-a86a-b6483c7e5a42"
       }
+    },
+    {
+      "id": "42293bd4cdddb37c72701dc41ee435b7e5bbb400889692f6d16fc8b5f5bf087e",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:57:43.107Z",
+      "key": "[\"44ba0be6-4186-4d4f-9ea9-a8b99ad08861\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно,  не хватает разнообразия, где-то можно было эмоции дать я хз",
+        "scoredAt": "2026-10-17T16:57:43.107Z",
+        "userId": "44ba0be6-4186-4d4f-9ea9-a8b99ad08861"
+      }
+    },
+    {
+      "id": "d3bc09f04f40793629146cd90ef1b911e2c638df22b7867b35db56248d9c6d9b",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:58:55.496Z",
+      "key": "[\"8c0ebea1-0c85-4281-a209-d9672abbd0b9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По флоу не плохо, но вот поток сознание немного смущает",
+        "scoredAt": "2026-10-17T16:58:55.496Z",
+        "userId": "8c0ebea1-0c85-4281-a209-d9672abbd0b9"
+      }
+    },
+    {
+      "id": "f67a2b247dd849b57cbb2c8b13f05531ce117b50b8fc6e6b0ad72c8ea72336f5",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:54:32.433Z",
+      "key": "[\"0fb155b2-da45-4e02-84ab-fbc9350bb06c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот вроде и с рифмой как-то поработал, и вроде по исполнению не всё так ужасно, но в целом если вдуматься в посыл не понятно о чем это",
+        "scoredAt": "2026-10-17T16:54:32.433Z",
+        "userId": "0fb155b2-da45-4e02-84ab-fbc9350bb06c"
+      }
+    },
+    {
+      "id": "186be442a1657aa37d15118e181fc33ddf233935cbacc4c18abe1e8a255c5550",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:56:22.248Z",
+      "key": "[\"b78239e6-3878-4f45-a074-d0df592791ad\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Меня смущает по сути в треке такая деталь, что вроде и флоу имеется и играешь с подачей, но как это всё сложно на восприятие слушается",
+        "scoredAt": "2026-10-17T16:56:22.248Z",
+        "userId": "b78239e6-3878-4f45-a074-d0df592791ad"
+      }
+    },
+    {
+      "id": "305a735224d0ece902a7071a29df5ef011cdcf7c009cfe168ed658dd7d77a674",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:59:49.164Z",
+      "key": "[\"fcf9c448-a2f4-47aa-9131-67e8f67df5d2\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошая читка. По тексту не всегда прослеживается единый вектор. ",
+        "scoredAt": "2026-10-17T16:59:49.164Z",
+        "userId": "fcf9c448-a2f4-47aa-9131-67e8f67df5d2"
+      }
+    },
+    {
+      "id": "5664464e140b0ee70adbe1a5b16eced84505e259ad03661dc96b479f1ca08325",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:53:38.142Z",
+      "key": "[\"4d51d312-0edd-4f59-842f-85bad3cc2d88\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Авансом 4. Нравится как зачитал, добавь панчей клевых во втором. По тексту пока сыровато у тебя",
+        "scoredAt": "2026-10-17T16:53:38.142Z",
+        "userId": "4d51d312-0edd-4f59-842f-85bad3cc2d88"
+      }
+    },
+    {
+      "id": "fe437ccfc862512696c49f7adb4003d42f44be08ddd3ce9137b65aec4ff63946",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:58:45.005Z",
+      "key": "[\"98515756-be98-4097-a96b-767854f4fc42\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Авансам 5ку поставлю, всё-таки много кеков накидал, да и персонаж может быть у тебя интересный. Лови спасательный круг, но нало будет приятно удивить нас всех в след. Раунде. ",
+        "scoredAt": "2026-10-17T16:58:45.005Z",
+        "userId": "98515756-be98-4097-a96b-767854f4fc42"
+      }
+    },
+    {
+      "id": "e64a2b71877fd0bc41bb8769f84d03442e57d606fd1da17515f206a009c6a8d2",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T17:00:49.958Z",
+      "key": "[\"8eb139a0-cff7-41b4-8cc8-3ae4070346ef\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Женская харизма, мне нравится. Классное исполнение, есть идея трека, для меня это 4.5, но я округлю до 5. ",
+        "scoredAt": "2026-10-17T17:00:49.958Z",
+        "userId": "8eb139a0-cff7-41b4-8cc8-3ae4070346ef"
+      }
+    },
+    {
+      "id": "1a53d5427393246b4abebfd590604bb98d4823e514b3768f5ba813a9b973c253",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T17:00:27.787Z",
+      "key": "[\"b28eb416-2506-4166-b9e8-2d09bdf8c073\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "\"Какой фантастичный сюжет и он страстно будоражит воображение\" вот здесь немного дикция пострадала, в целом работа нормально, такие косяки в некст раз лучше перезаписать.",
+        "scoredAt": "2026-10-17T17:00:27.787Z",
+        "userId": "b28eb416-2506-4166-b9e8-2d09bdf8c073"
+      }
+    },
+    {
+      "id": "e32478f86b657235859248f0e77a12e74a8f0969bd9a4abb0403c569b9b25dd0",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:52:47.371Z",
+      "key": "[\"0d809268-7118-4e77-b5aa-ec204b176625\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "слишком средненько, ов руинит звук, раскрытие плюс минус понятно.",
+        "scoredAt": "2026-10-17T16:52:47.371Z",
+        "userId": "0d809268-7118-4e77-b5aa-ec204b176625"
+      }
+    },
+    {
+      "id": "2e5ec6afd279cf0f73351aeab1b579365a35fa853b4b4d327b9a2f6c60cd3cd8",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T16:55:58.802Z",
+      "key": "[\"2a0c45b8-588e-49fb-b8d9-c6392f6bf42b\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Нормас, проходной тречок, по тексту приколюх мощнее надо бы. ",
+        "scoredAt": "2026-10-17T16:55:58.802Z",
+        "userId": "2a0c45b8-588e-49fb-b8d9-c6392f6bf42b"
+      }
+    },
+    {
+      "id": "d1d782cbbe51e299f173f72934951a8f6b3eee5b732242bb6f791c14b7327f8c",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T17:00:30.044Z",
+      "key": "[\"fc62d488-6104-4da1-ae82-decebce50c7f\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Средняя, простенькая работа без ярких моментов. Раскрытие сойдет . попробуй постараться сильнее ",
+        "scoredAt": "2026-10-17T17:00:30.044Z",
+        "userId": "fc62d488-6104-4da1-ae82-decebce50c7f"
+      }
+    },
+    {
+      "id": "91a129f3e16c2c2f5e4a4d9d203a0b1a9d4e44b195cbd41bb77a8fcf9fefe393",
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "sourceScoredAt": "2026-10-17T17:02:11.557Z",
+      "key": "[\"777c3722-e6af-4dc5-979c-cafcf1ffb9c8\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Новая школа в деле. Столько всего намиксовал в стильке и сведении, что не очень целостно слушается, шумновато. 4 с минусом. ",
+        "scoredAt": "2026-10-17T17:02:11.557Z",
+        "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8"
+      }
     }
   ],
   "snapshots": [
@@ -150107,6 +150289,26 @@
           "index": 29.444689645032412,
           "favor": 17.790788334312715,
           "attention": 0.9076326540032774,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T17:02:21.159Z",
+      "exportedAt": "2026-10-17T17:02:21.159Z",
+      "scores": 13126,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.962912981623187,
+          "favor": 9.289452149194595,
+          "attention": 6.184099130300932,
+          "respect": 6.48936170212766
+        },
+        "veterans": {
+          "index": 29.47746428415472,
+          "favor": 17.785255909491944,
+          "attention": 0.9459397179463545,
           "respect": 10.746268656716419
         }
       }
