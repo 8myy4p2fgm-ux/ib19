@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T19:12:11.154Z",
+  "exportedAt": "2026-10-17T19:22:07.394Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -4954,8 +4954,14 @@
     },
     {
       "userId": "8dae29a8-63a8-4a76-bfdd-de7545c39ce6",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Средненько бро, внутри трека разнообразия бы",
+          "scoredAt": "2026-10-17T19:21:54.069Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -4963,7 +4969,7 @@
           "scoredAt": "2026-10-14T20:22:08.647Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:32:09.124Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "Рома Chelsea",
       "artistSlug": "roma-chelsea"
@@ -5722,8 +5728,14 @@
     },
     {
       "userId": "32f00509-38af-470f-8538-9083323a09f5",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Ов портит звучок, а по флоу не плохо",
+          "scoredAt": "2026-10-17T19:14:40.009Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -5731,7 +5743,7 @@
           "scoredAt": "2026-10-10T13:12:23.611Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "Alex Cheef",
       "artistSlug": "alex-cheef"
@@ -5972,8 +5984,14 @@
     },
     {
       "userId": "705b187e-d13d-4a4e-8ec6-ee4ec1c3dc6f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Вот стелишь хорошо, но фикси звук",
+          "scoredAt": "2026-10-17T19:12:40.386Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -5999,7 +6017,7 @@
           "scoredAt": "2026-09-12T18:03:29.805Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "Воровской карман",
       "artistSlug": "vorovskoy-karman"
@@ -21969,8 +21987,14 @@
     },
     {
       "userId": "eac03866-f59b-4aff-b77c-34f0d83dc112",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Ну прикольно дядь настелил, не хватило немного спокойных тонов в треке",
+          "scoredAt": "2026-10-17T19:16:56.682Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -21990,7 +22014,7 @@
           "scoredAt": "2026-09-11T11:39:40.913Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "Дима Капрал",
       "artistSlug": "dima-kapral"
@@ -49828,8 +49852,14 @@
     },
     {
       "userId": "e4f83f2d-1194-48a7-9f9b-4817bb1cf54c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Стиль есть, больше рофлянок в такой стилек загоняй, и добавь жирка в голос и будет классно",
+          "scoredAt": "2026-10-17T19:13:51.960Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -49849,7 +49879,7 @@
           "scoredAt": "2026-10-02T16:25:58.419Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:21:53.967Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "Сэйн",
       "artistSlug": "seyn"
@@ -53368,8 +53398,14 @@
     },
     {
       "userId": "3edb9e64-1c1b-4f97-96b4-c1c90ad2e546",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "По тексту норм, по остальному увы",
+          "scoredAt": "2026-10-17T19:20:49.772Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -53395,7 +53431,7 @@
           "scoredAt": "2026-09-17T19:34:44.946Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:12:25.963Z",
+      "fetchedAt": "2026-10-17T19:22:07.394Z",
       "current": true,
       "artistName": "молодой Куколд",
       "artistSlug": "molodoy-kukold"

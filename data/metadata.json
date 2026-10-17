@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T19:12:11.154Z",
-  "exportedAt": "2026-10-17T19:12:11.154Z",
-  "runId": "2026-10-17T19:12:11.154Z",
-  "forumExportedAt": "2026-10-17T19:12:11.154Z",
+  "lastSuccessfulAt": "2026-10-17T19:22:07.394Z",
+  "exportedAt": "2026-10-17T19:22:07.394Z",
+  "runId": "2026-10-17T19:22:07.394Z",
+  "forumExportedAt": "2026-10-17T19:22:07.394Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13231,
+    "scores": 13237,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 9214,
-    "scoresBefore": 13224,
-    "scoresAfter": 13231,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8003,
+    "scoresBefore": 13231,
+    "scoresAfter": 13237,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.7229916897507,
+    "requestReductionPercent": 99.75377039088951,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Рома Chelsea",
+          "comment": "Средненько бро, внутри трека разнообразия бы",
+          "scoredAt": "2026-10-17T19:21:54.069Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "молодой Куколд",
+          "comment": "По тексту норм, по остальному увы",
+          "scoredAt": "2026-10-17T19:20:49.772Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Дима Капрал",
+          "comment": "Ну прикольно дядь настелил, не хватило немного спокойных тонов в треке",
+          "scoredAt": "2026-10-17T19:16:56.682Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Alex Cheef",
+          "comment": "Ов портит звучок, а по флоу не плохо",
+          "scoredAt": "2026-10-17T19:14:40.009Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Сэйн",
+          "comment": "Стиль есть, больше рофлянок в такой стилек загоняй, и добавь жирка в голос и будет классно",
+          "scoredAt": "2026-10-17T19:13:51.960Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Воровской карман",
+          "comment": "Вот стелишь хорошо, но фикси звук",
+          "scoredAt": "2026-10-17T19:12:40.386Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 5,
@@ -147,48 +189,6 @@
           "artist": "молодой залупа",
           "comment": "В некст раз звучок посильнее сделай",
           "scoredAt": "2026-10-17T18:59:14.888Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "MOLIK",
-          "comment": "на ууууупреждение, слушай мне кажется ты не готов к таким битам, не хватает напора, вроде хрипишь и в припеве даже ничего, но по мимо хрипа там скримить все дела)",
-          "scoredAt": "2026-10-17T18:58:04.924Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Леша Холин",
-          "comment": "Вот правильная подача, но считаю надо было каждую строчку повторять словосочетание конца строки",
-          "scoredAt": "2026-10-17T18:56:14.038Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "асфальтоукладочный",
-          "comment": "Больно слушать, как будто реально на чебупиццу записал",
-          "scoredAt": "2026-10-17T18:54:51.124Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Freak",
-          "comment": "Странный трек честно скажу, что-то набубнил, раскрытие понял) но увы этого мало",
-          "scoredAt": "2026-10-17T18:53:02.368Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Каспийский Гнус",
-          "comment": "не видали рифмовать с не видали мощно) в целом как омаж не плохо, но вот текст....",
-          "scoredAt": "2026-10-17T18:51:30.211Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Lil’в’УшИ",
-          "comment": "Тюн + дикционные промахи дают специфический результат, как и тут местами он хуеет от того к чему ему ровняться, ну и по подачи слабовато",
-          "scoredAt": "2026-10-17T18:49:44.118Z"
         }
       ]
     }

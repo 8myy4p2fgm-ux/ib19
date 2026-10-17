@@ -143620,6 +143620,90 @@
         "scoredAt": "2026-10-17T19:03:00.794Z",
         "userId": "68823dc4-6725-4b8e-b673-92052764338b"
       }
+    },
+    {
+      "id": "a1ef8ea9a32d44d90f3c3d03f853e5070c93fbdd96425d71328ae659d68a054b",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:21:54.069Z",
+      "key": "[\"8dae29a8-63a8-4a76-bfdd-de7545c39ce6\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Средненько бро, внутри трека разнообразия бы",
+        "scoredAt": "2026-10-17T19:21:54.069Z",
+        "userId": "8dae29a8-63a8-4a76-bfdd-de7545c39ce6"
+      }
+    },
+    {
+      "id": "3c785bd49bc444eeb2a66f188b7f1ea03509f0d9289123debe55d920229b0eb3",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:14:40.009Z",
+      "key": "[\"32f00509-38af-470f-8538-9083323a09f5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ов портит звучок, а по флоу не плохо",
+        "scoredAt": "2026-10-17T19:14:40.009Z",
+        "userId": "32f00509-38af-470f-8538-9083323a09f5"
+      }
+    },
+    {
+      "id": "399e86d9ae8c97ca3b083908002517487ae2f5deba41f762630fed3ae7cffe4b",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:12:40.386Z",
+      "key": "[\"705b187e-d13d-4a4e-8ec6-ee4ec1c3dc6f\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот стелишь хорошо, но фикси звук",
+        "scoredAt": "2026-10-17T19:12:40.386Z",
+        "userId": "705b187e-d13d-4a4e-8ec6-ee4ec1c3dc6f"
+      }
+    },
+    {
+      "id": "f70fbbc2d74123bc2f620c0f94fcc30a30600bc1cedb5888a7c485c972d43a5b",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:16:56.682Z",
+      "key": "[\"eac03866-f59b-4aff-b77c-34f0d83dc112\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Ну прикольно дядь настелил, не хватило немного спокойных тонов в треке",
+        "scoredAt": "2026-10-17T19:16:56.682Z",
+        "userId": "eac03866-f59b-4aff-b77c-34f0d83dc112"
+      }
+    },
+    {
+      "id": "8c8d1454737aa3c03d72c3532a3661a85816bf002870b6adcca1ace9f2c09501",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:13:51.960Z",
+      "key": "[\"e4f83f2d-1194-48a7-9f9b-4817bb1cf54c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Стиль есть, больше рофлянок в такой стилек загоняй, и добавь жирка в голос и будет классно",
+        "scoredAt": "2026-10-17T19:13:51.960Z",
+        "userId": "e4f83f2d-1194-48a7-9f9b-4817bb1cf54c"
+      }
+    },
+    {
+      "id": "0794bc50b3d7dc4da721317c18261400d5c4a231e883b3df649aaa23892dcea1",
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "sourceScoredAt": "2026-10-17T19:20:49.772Z",
+      "key": "[\"3edb9e64-1c1b-4f97-96b4-c1c90ad2e546\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "По тексту норм, по остальному увы",
+        "scoredAt": "2026-10-17T19:20:49.772Z",
+        "userId": "3edb9e64-1c1b-4f97-96b4-c1c90ad2e546"
+      }
     }
   ],
   "snapshots": [
@@ -152019,6 +152103,26 @@
           "index": 29.764513122555982,
           "favor": 17.802379261970668,
           "attention": 1.215865203868895,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T19:22:07.394Z",
+      "exportedAt": "2026-10-17T19:22:07.394Z",
+      "scores": 13237,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.873962902656807,
+          "favor": 9.269176589685566,
+          "attention": 6.134715890436028,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.781304656889667,
+          "favor": 17.802924247722686,
+          "attention": 1.2321117524505618,
           "respect": 10.746268656716419
         }
       }
