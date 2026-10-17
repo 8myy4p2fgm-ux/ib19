@@ -143788,6 +143788,62 @@
         "scoredAt": "2026-10-17T19:44:38.038Z",
         "userId": "c81585a1-8f8a-412f-8c60-659524417908"
       }
+    },
+    {
+      "id": "ca75f0fd197050c33f1b47bc67f51aa630094bb5adc52363dec167a1f136a834",
+      "observedAt": "2026-10-17T20:02:07.557Z",
+      "sourceScoredAt": "2026-10-17T19:54:00.772Z",
+      "key": "[\"ad305998-989b-4ef4-9cd5-2c46b23ac813\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T19:54:00.772Z",
+        "userId": "ad305998-989b-4ef4-9cd5-2c46b23ac813"
+      }
+    },
+    {
+      "id": "b8440c750a5433d681f1a8e291b83e48ec18f5afaa833bb86f03976190adfea6",
+      "observedAt": "2026-10-17T20:02:07.557Z",
+      "sourceScoredAt": "2026-10-17T20:01:19.582Z",
+      "key": "[\"8a48f35a-0058-46a3-92b6-860a07e83733\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "Добротно ",
+        "scoredAt": "2026-10-17T20:01:19.582Z",
+        "userId": "8a48f35a-0058-46a3-92b6-860a07e83733"
+      }
+    },
+    {
+      "id": "34f488d38e5007beaa086372b606c7b9d64b345a7385b30e1796f8cd92daff0f",
+      "observedAt": "2026-10-17T20:02:07.557Z",
+      "sourceScoredAt": "2026-10-17T19:59:35.758Z",
+      "key": "[\"f6acdbc0-c38d-4673-b72d-45790c4ff198\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "квадратами весь трек испортил ",
+        "scoredAt": "2026-10-17T19:59:35.758Z",
+        "userId": "f6acdbc0-c38d-4673-b72d-45790c4ff198"
+      }
+    },
+    {
+      "id": "37d47fdbf2e2dafeb5d049a7c00ba706f5a6adad12fe74041763054436a24642",
+      "observedAt": "2026-10-17T20:02:07.557Z",
+      "sourceScoredAt": "2026-10-17T20:00:06.197Z",
+      "key": "[\"1e15f129-c162-4562-9720-8a223e75895f\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 1,
+        "comment": "Лтр",
+        "scoredAt": "2026-10-17T20:00:06.197Z",
+        "userId": "1e15f129-c162-4562-9720-8a223e75895f"
+      }
     }
   ],
   "snapshots": [
@@ -152247,6 +152303,26 @@
           "index": 29.796037684060217,
           "favor": 17.805757238675028,
           "attention": 1.244011788668768,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:02:07.557Z",
+      "exportedAt": "2026-10-17T20:02:07.557Z",
+      "scores": 13247,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.890069047704635,
+          "favor": 9.274322747407844,
+          "attention": 6.1456758777615805,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.79938743601555,
+          "favor": 17.808025760012562,
+          "attention": 1.2450930192865677,
           "respect": 10.746268656716419
         }
       }

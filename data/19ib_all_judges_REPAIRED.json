@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T19:52:10.099Z",
+  "exportedAt": "2026-10-17T20:02:07.557Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -47400,8 +47400,14 @@
     },
     {
       "userId": "ad305998-989b-4ef4-9cd5-2c46b23ac813",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T19:54:00.772Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -47421,7 +47427,7 @@
           "scoredAt": "2026-10-12T11:54:26.289Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:12:33.688Z",
+      "fetchedAt": "2026-10-17T20:02:07.557Z",
       "current": true,
       "artistName": "МС ЛОБОК [#КБС]",
       "artistSlug": "ms-lobok-kbs"
@@ -48468,8 +48474,14 @@
     },
     {
       "userId": "8a48f35a-0058-46a3-92b6-860a07e83733",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "Добротно ",
+          "scoredAt": "2026-10-17T20:01:19.582Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -48483,7 +48495,7 @@
           "scoredAt": "2026-10-11T11:36:28.557Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-17T20:02:07.557Z",
       "current": true,
       "artistName": "ivan supreme",
       "artistSlug": "ivan-supreme"
@@ -89974,8 +89986,14 @@
     },
     {
       "userId": "f6acdbc0-c38d-4673-b72d-45790c4ff198",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "квадратами весь трек испортил ",
+          "scoredAt": "2026-10-17T19:59:35.758Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -89989,7 +90007,7 @@
           "scoredAt": "2026-10-12T09:22:27.018Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-17T20:02:07.557Z",
       "current": true,
       "artistName": "Bishamon",
       "artistSlug": "bishamon"
@@ -107927,8 +107945,14 @@
     },
     {
       "userId": "1e15f129-c162-4562-9720-8a223e75895f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "comment": "Лтр",
+          "scoredAt": "2026-10-17T20:00:06.197Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 1,
@@ -107954,7 +107978,7 @@
           "scoredAt": "2026-10-09T17:10:04.948Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-17T20:02:07.557Z",
       "current": true,
       "artistName": "Миша Анимешник (легион)",
       "artistSlug": "misha-animeshnik-legion"

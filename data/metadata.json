@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T19:52:10.099Z",
-  "exportedAt": "2026-10-17T19:52:10.099Z",
-  "runId": "2026-10-17T19:52:10.099Z",
-  "forumExportedAt": "2026-10-17T19:52:10.099Z",
+  "lastSuccessfulAt": "2026-10-17T20:02:07.557Z",
+  "exportedAt": "2026-10-17T20:02:07.557Z",
+  "runId": "2026-10-17T20:02:07.557Z",
+  "forumExportedAt": "2026-10-17T20:02:07.557Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13243,
+    "scores": 13247,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3965,
-    "scoresBefore": 13241,
-    "scoresAfter": 13243,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6495,
+    "scoresBefore": 13243,
+    "scoresAfter": 13247,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.87688519544476,
+    "requestReductionPercent": 99.81532779316713,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "ivan supreme",
+          "comment": "Добротно ",
+          "scoredAt": "2026-10-17T20:01:19.582Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Миша Анимешник (легион)",
+          "comment": "Лтр",
+          "scoredAt": "2026-10-17T20:00:06.197Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Bishamon",
+          "comment": "квадратами весь трек испортил ",
+          "scoredAt": "2026-10-17T19:59:35.758Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "МС ЛОБОК [#КБС]",
+          "comment": "",
+          "scoredAt": "2026-10-17T19:54:00.772Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 2,
@@ -161,34 +189,6 @@
           "artist": "Сэйн",
           "comment": "Стиль есть, больше рофлянок в такой стилек загоняй, и добавь жирка в голос и будет классно",
           "scoredAt": "2026-10-17T19:13:51.960Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Воровской карман",
-          "comment": "Вот стелишь хорошо, но фикси звук",
-          "scoredAt": "2026-10-17T19:12:40.386Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "flow",
-          "comment": "В некст раз чуть поярче звучок на дропе сделай, в целом понравилась работа",
-          "scoredAt": "2026-10-17T19:11:42.577Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 1,
-          "artist": "Паранорвайб",
-          "comment": "Вот вроде что-то есть в голосе в плане читки, но вот бит записать на диктофон и голос это жестко",
-          "scoredAt": "2026-10-17T19:10:21.616Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Veero Ro",
-          "comment": "Дефолт бро, добавь жестких панчуль в такую подачу",
-          "scoredAt": "2026-10-17T19:09:15.214Z"
         }
       ]
     }
