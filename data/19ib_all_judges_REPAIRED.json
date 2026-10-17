@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T21:21:58.860Z",
+  "exportedAt": "2026-10-17T21:31:56.086Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -37161,8 +37161,14 @@
     },
     {
       "userId": "8999e61e-e687-48a4-8a60-e634356da4b0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Ты поедешь в рехаб, а судьи баттла - в психушку. ",
+          "scoredAt": "2026-10-17T21:30:29.313Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -37188,7 +37194,7 @@
           "scoredAt": "2026-09-30T17:15:36.658Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:52:41.382Z",
+      "fetchedAt": "2026-10-17T21:31:56.086Z",
       "current": true,
       "artistName": "Katrien",
       "artistSlug": "katrien"

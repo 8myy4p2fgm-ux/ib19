@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T21:21:58.860Z",
-  "exportedAt": "2026-10-17T21:21:58.860Z",
-  "runId": "2026-10-17T21:21:58.860Z",
-  "forumExportedAt": "2026-10-17T21:21:58.860Z",
+  "lastSuccessfulAt": "2026-10-17T21:31:56.086Z",
+  "exportedAt": "2026-10-17T21:31:56.086Z",
+  "runId": "2026-10-17T21:31:56.086Z",
+  "forumExportedAt": "2026-10-17T21:31:56.086Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13261,
+    "scores": 13262,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1727,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3090,
     "scoresBefore": 13261,
-    "scoresAfter": 13261,
+    "scoresAfter": 13262,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.93844259772237,
+    "requestReductionPercent": 99.90766389658357,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Katrien",
+          "comment": "Ты поедешь в рехаб, а судьи баттла - в психушку. ",
+          "scoredAt": "2026-10-17T21:30:29.313Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -182,13 +189,6 @@
           "artist": "Петя Джи",
           "comment": "Ничем не выделяешься на фоне остальных ",
           "scoredAt": "2026-10-17T20:02:31.583Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "ivan supreme",
-          "comment": "Добротно ",
-          "scoredAt": "2026-10-17T20:01:19.582Z"
         }
       ]
     }
