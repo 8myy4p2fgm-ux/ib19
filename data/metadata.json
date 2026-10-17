@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T07:41:52.887Z",
-  "exportedAt": "2026-10-17T07:41:52.887Z",
-  "runId": "2026-10-17T07:41:52.887Z",
-  "forumExportedAt": "2026-10-17T07:41:52.887Z",
+  "lastSuccessfulAt": "2026-10-17T07:51:58.097Z",
+  "exportedAt": "2026-10-17T07:51:58.097Z",
+  "runId": "2026-10-17T07:51:58.097Z",
+  "forumExportedAt": "2026-10-17T07:51:58.097Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12116,
+    "scores": 12125,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 6957,
-    "scoresBefore": 12111,
-    "scoresAfter": 12116,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 11,
+    "durationMs": 10670,
+    "scoresBefore": 12116,
+    "scoresAfter": 12125,
     "fullBaselineRequests": 3212,
-    "requestReductionPercent": 99.78206724782068,
+    "requestReductionPercent": 99.65753424657534,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,69 @@
       "feed": [
         {
           "judgeName": "Paradise",
+          "score": 3,
+          "artist": "Kommers",
+          "comment": "Тут 2, но за смешные строчки моментами 3",
+          "scoredAt": "2026-10-17T07:51:27.463Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "МС.малой",
+          "comment": "Я думал, что невозможно будет в таком темпе зачитать весь трек. Но я ошибался.",
+          "scoredAt": "2026-10-17T07:50:38.828Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Robbuksy",
+          "comment": "Аудиостих получился",
+          "scoredAt": "2026-10-17T07:50:01.974Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "Nebraska",
+          "comment": "\"чтобы делать свое дело любо, страстно\" - старайся избегать таких старомодных формулировок в таких треках, в которых ты рассказываешь о том, как ты раскачиваешь и заряжен, как Тайсон. \nЗачитал неплохо, на ускорениях только немного не вывез. Ближе к 4, хотя сомневался между 3 и 4.",
+          "scoredAt": "2026-10-17T07:49:17.008Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "likh",
+          "comment": "Оч слабо",
+          "scoredAt": "2026-10-17T07:48:54.240Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "MЦ АКАДЕМИК",
+          "comment": "Слабо очень",
+          "scoredAt": "2026-10-17T07:47:02.298Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Диалект",
+          "comment": "Пока что подача слабовата, не хватает опыта. В тексте тоже не нашел чего-то интересного.",
+          "scoredAt": "2026-10-17T07:46:35.344Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "АДАРИ́НА",
+          "comment": "Интересный хопчик, иногда так голос сведен необычно, где-то звучит стилево, а где-то как демка. ",
+          "scoredAt": "2026-10-17T07:45:31.730Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "dmitriy_n7",
+          "comment": "За задумку и попытку раскрыть не банально поставлю 4, но вообще это скорее 3.5.",
+          "scoredAt": "2026-10-17T07:45:24.082Z"
+        },
+        {
+          "judgeName": "Paradise",
           "score": 2,
           "artist": "kill confirmed",
           "comment": "Весело пиздец",
@@ -124,69 +187,6 @@
           "artist": "TRUMYWHITE",
           "comment": "Круто подаешь. В текст бы побольше панчей, чем просто выебонов, выебывайся скилами",
           "scoredAt": "2026-10-17T07:29:02.702Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "недоумок",
-          "comment": "Расмешнил",
-          "scoredAt": "2026-10-17T07:26:00.769Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Биосинтетический",
-          "comment": "",
-          "scoredAt": "2026-10-17T07:24:15.911Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 1,
-          "artist": "Сын ДиМасты",
-          "comment": "Туц туц туц",
-          "scoredAt": "2026-10-17T07:21:06.770Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Серый Свет",
-          "comment": "Интонациями странными заканчиваешь квадрат. Звучит как будто сбиваешься.  Ритмически текст вылазит за битло + беки прям в лоб, звучит как каша, демка ",
-          "scoredAt": "2026-10-17T07:20:23.324Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "programmist",
-          "comment": "",
-          "scoredAt": "2026-10-17T07:16:31.377Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "33black",
-          "comment": "Чувствуешь эту тему, наполняй текст",
-          "scoredAt": "2026-10-17T07:15:32.127Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "DEADSHOT",
-          "comment": "Спасибо за трек! \nТекст: слабенько\nИсполнение: скучно\nОбщее впечатление: пока что рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:53:27.456Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "жжёные васильки",
-          "comment": "Спасибо за трек! \nТекст: интересная рифмовка, но можешь лучше\nИсполнение: неплохо читаешь, есть чтото интересное, добавь немного эмоцией\nОбщее впечатление: технично исполняешь, проход во втором обеспечен\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:53:02.979Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "NA_MELY",
-          "comment": "Спасибо за трек! \nТекст: прикольно\nИсполнение: опыт имеется, но давно видимо не читал\nОбщее впечатление: неплохо делаешь, можно попробовать во втором такое послушать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:44:29.319Z"
         }
       ]
     }

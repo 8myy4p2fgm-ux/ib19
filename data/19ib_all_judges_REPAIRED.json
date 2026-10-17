@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T07:41:52.887Z",
+  "exportedAt": "2026-10-17T07:51:58.097Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -10687,8 +10687,14 @@
     },
     {
       "userId": "45993b64-f241-4cac-9b40-93fea53ce200",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "Я думал, что невозможно будет в таком темпе зачитать весь трек. Но я ошибался.",
+          "scoredAt": "2026-10-17T07:50:38.828Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -10702,7 +10708,7 @@
           "scoredAt": "2026-10-14T14:39:29.965Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:12:37.485Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "МС.малой",
       "artistSlug": "ms-maloy"
@@ -35748,8 +35754,14 @@
     },
     {
       "userId": "d54379a9-1833-4a17-a6d3-3aa7d911aa97",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Интересный хопчик, иногда так голос сведен необычно, где-то звучит стилево, а где-то как демка. ",
+          "scoredAt": "2026-10-17T07:45:31.730Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -35769,7 +35781,7 @@
           "scoredAt": "2026-10-09T20:37:19.961Z"
         }
       ],
-      "fetchedAt": "2026-10-13T21:11:49.905Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "АДАРИ́НА",
       "artistSlug": "adarina"
@@ -45447,8 +45459,14 @@
     },
     {
       "userId": "5aa92365-d270-4614-b65a-b182ce3b56b8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Аудиостих получился",
+          "scoredAt": "2026-10-17T07:50:01.974Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -45462,7 +45480,7 @@
           "scoredAt": "2026-09-16T16:24:00.598Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "Robbuksy",
       "artistSlug": "robbuksy"
@@ -50000,8 +50018,14 @@
     },
     {
       "userId": "a8709edc-a0e1-46aa-b70d-3a8ac4011818",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Тут 2, но за смешные строчки моментами 3",
+          "scoredAt": "2026-10-17T07:51:27.463Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -50027,7 +50051,7 @@
           "scoredAt": "2026-09-25T19:48:44.017Z"
         }
       ],
-      "fetchedAt": "2026-10-17T02:01:49.400Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "Kommers",
       "artistSlug": "kommers"
@@ -55711,8 +55735,14 @@
     },
     {
       "userId": "6a0ba04a-48d8-40fc-8020-4771d2462321",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "comment": "\"чтобы делать свое дело любо, страстно\" - старайся избегать таких старомодных формулировок в таких треках, в которых ты рассказываешь о том, как ты раскачиваешь и заряжен, как Тайсон. \nЗачитал неплохо, на ускорениях только немного не вывез. Ближе к 4, хотя сомневался между 3 и 4.",
+          "scoredAt": "2026-10-17T07:49:17.008Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -55738,7 +55768,7 @@
           "scoredAt": "2026-09-18T17:14:47.869Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "Nebraska",
       "artistSlug": "nebraska"
@@ -55857,8 +55887,14 @@
     },
     {
       "userId": "90bfd957-65ac-48cf-b88a-46787efbdfd3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Оч слабо",
+          "scoredAt": "2026-10-17T07:48:54.240Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -55878,7 +55914,7 @@
           "scoredAt": "2026-09-30T15:32:51.811Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:32:23.748Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "likh",
       "artistSlug": "likh"
@@ -55925,8 +55961,14 @@
     },
     {
       "userId": "13911978-5a67-436e-92b5-2bb19aa087f4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Слабо очень",
+          "scoredAt": "2026-10-17T07:47:02.298Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -55940,7 +55982,7 @@
           "scoredAt": "2026-10-10T00:07:44.592Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:22:26.568Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "MЦ АКАДЕМИК",
       "artistSlug": "mc-akademik"
@@ -72327,8 +72369,14 @@
     },
     {
       "userId": "029d2227-ee8f-4f9b-992c-fe7b489bbc5a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "comment": "За задумку и попытку раскрыть не банально поставлю 4, но вообще это скорее 3.5.",
+          "scoredAt": "2026-10-17T07:45:24.082Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -72354,7 +72402,7 @@
           "scoredAt": "2026-09-22T20:13:45.250Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:02:17.678Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "dmitriy_n7",
       "artistSlug": "dmitriy-n7"
@@ -73937,8 +73985,14 @@
     },
     {
       "userId": "03d8b47a-e1db-40ec-8779-e34acf400363",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "Пока что подача слабовата, не хватает опыта. В тексте тоже не нашел чего-то интересного.",
+          "scoredAt": "2026-10-17T07:46:35.344Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -73958,7 +74012,7 @@
           "scoredAt": "2026-10-11T17:32:21.555Z"
         }
       ],
-      "fetchedAt": "2026-10-14T21:02:11.188Z",
+      "fetchedAt": "2026-10-17T07:51:58.097Z",
       "current": true,
       "artistName": "Диалект",
       "artistSlug": "dialekt"
