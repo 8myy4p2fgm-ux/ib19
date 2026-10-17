@@ -136760,6 +136760,230 @@
         "scoredAt": "2026-10-17T13:29:19.848Z",
         "userId": "9f86afae-7fbf-431e-8b58-04e93448048f"
       }
+    },
+    {
+      "id": "d4fa8907080008f00df80a6a3f73a5654e2a57a3a520daedb190bbfc7ae1e538",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:33:34.711Z",
+      "key": "[\"c66540ab-03a0-47e2-b527-8c55aa75ca98\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Авансом 3, по идейке нормас, по реализации очень слабо, попробуй голосом поиграться если делаешь кулстори, добавь харизмы. Пока звучит будто ты боишься читать свой текст, добавь харизмы . с уровнем такой работы ты точно слетишь во 2 раунде",
+        "scoredAt": "2026-10-17T13:33:34.711Z",
+        "userId": "c66540ab-03a0-47e2-b527-8c55aa75ca98"
+      }
+    },
+    {
+      "id": "a0c7cb682cec1e1fa584a1189c84b5757671fa0d6c0dad753baf6eb055e21e34",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:38:23.791Z",
+      "key": "[\"18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:38:23.791Z",
+        "userId": "18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600"
+      }
+    },
+    {
+      "id": "19a796562cbec3c9fa13cfbe6072be8b2f7aa43ad1e1cd4bbc6e828864e25871",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:42:07.787Z",
+      "key": "[\"0b4f27d9-c8eb-45d4-85d8-7baaca716513\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:42:07.787Z",
+        "userId": "0b4f27d9-c8eb-45d4-85d8-7baaca716513"
+      }
+    },
+    {
+      "id": "620cb60fba366fa0fcafeb77c07e918482fb0c8c56f036700c50440098a65463",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:40:11.638Z",
+      "key": "[\"6da05311-d3ea-4a4b-b336-0a8c22f5afa1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:40:11.638Z",
+        "userId": "6da05311-d3ea-4a4b-b336-0a8c22f5afa1"
+      }
+    },
+    {
+      "id": "f72bbd689b47f86b8ae6d23333b3e4c00e7d09f70c96e18d8145a9b490e4de1c",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:32:35.651Z",
+      "key": "[\"c3634a2d-ff64-43b0-a120-5c4e38f205c9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:32:35.651Z",
+        "userId": "c3634a2d-ff64-43b0-a120-5c4e38f205c9"
+      }
+    },
+    {
+      "id": "bb65241e0cdf4f5c1c46c109c8843535283c0d6bf2cb1a8b03d6b666a50e4f79",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:39:02.258Z",
+      "key": "[\"e52866fb-ff4c-4898-9302-00f0cd5c1e15\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:39:02.258Z",
+        "userId": "e52866fb-ff4c-4898-9302-00f0cd5c1e15"
+      }
+    },
+    {
+      "id": "c88bc6f52bc4f89b128a08ad5e5935617413ebb62ff69752aa13ccdd251bdc07",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:33:35.819Z",
+      "key": "[\"13911978-5a67-436e-92b5-2bb19aa087f4\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:33:35.819Z",
+        "userId": "13911978-5a67-436e-92b5-2bb19aa087f4"
+      }
+    },
+    {
+      "id": "49d7394c6aa92c5384b35f8230c5a2d51207f35ceeb880a6a5d6e838aabbcc82",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:37:03.156Z",
+      "key": "[\"d0d50c7f-0022-4d1a-a8a0-8341832d7722\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "бит пиздатый",
+        "scoredAt": "2026-10-17T13:37:03.156Z",
+        "userId": "d0d50c7f-0022-4d1a-a8a0-8341832d7722"
+      }
+    },
+    {
+      "id": "a4ce99976036597b0be8de3df331c5c0d0fde93fc719c9f7ac8030f92fad93a8",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:36:44.746Z",
+      "key": "[\"5d76c949-d898-435b-93e5-e7b1a678d45c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T13:36:44.746Z",
+        "userId": "5d76c949-d898-435b-93e5-e7b1a678d45c"
+      }
+    },
+    {
+      "id": "9392852c5265d57e5ac430ea0ab789fc823a3ec4a652d47a0ea874c6553524c4",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:37:49.885Z",
+      "key": "[\"abf54595-ef9a-496c-986b-44503e285ab6\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:37:49.885Z",
+        "userId": "abf54595-ef9a-496c-986b-44503e285ab6"
+      }
+    },
+    {
+      "id": "ceab96e58d8e4974d8b5b35fa410d91878d203ae9242188cf2ba1fb8183e3830",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:41:38.530Z",
+      "key": "[\"dde03ebf-574b-4689-8611-9822c018e067\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:41:38.530Z",
+        "userId": "dde03ebf-574b-4689-8611-9822c018e067"
+      }
+    },
+    {
+      "id": "2b113fbb4d9638a1ac73c1c4525acc7898abaf3f8722d7959d103e9770263ef5",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:39:30.122Z",
+      "key": "[\"88c3a4bf-cd35-4eec-975d-61c0cc3262bd\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:39:30.122Z",
+        "userId": "88c3a4bf-cd35-4eec-975d-61c0cc3262bd"
+      }
+    },
+    {
+      "id": "886dfa3f135f5d0787e40cd66b12d264971f2ce5ee0c6c0f6f44ef66bc6c5dc6",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:40:37.064Z",
+      "key": "[\"72b0ab38-3813-4536-9d9b-b88291f34e3d\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Ощущается какая-то недомотивированность – и по подаче, и по качеству, и по тому, что есть непунктуальность в приложенном тексте, и частенько (около-)квадраты мелькают (хоть это и в плотности не столь критично). Но в целом всё равно уровнево",
+        "scoredAt": "2026-10-17T13:40:37.064Z",
+        "userId": "72b0ab38-3813-4536-9d9b-b88291f34e3d"
+      }
+    },
+    {
+      "id": "52c99d7d6493696469a45e66b293bf2c1c041aceff0f736513882bb00392ae70",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:41:04.161Z",
+      "key": "[\"07e83b25-bb68-4428-b7f8-a46550a78508\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:41:04.161Z",
+        "userId": "07e83b25-bb68-4428-b7f8-a46550a78508"
+      }
+    },
+    {
+      "id": "d3fef36832b42aee717ab15ff06e61986713d04e6ec70e99587e1a92fdc64b7a",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:35:16.573Z",
+      "key": "[\"e7eaa812-4814-4119-a788-b0437a1a8372\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:35:16.573Z",
+        "userId": "e7eaa812-4814-4119-a788-b0437a1a8372"
+      }
+    },
+    {
+      "id": "fa214ce754b1913ba9abc11f69ae6d630442acb5eefd87354ae0b444c0e6b9dd",
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "sourceScoredAt": "2026-10-17T13:34:40.365Z",
+      "key": "[\"9f86afae-7fbf-431e-8b58-04e93448048f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:34:40.365Z",
+        "userId": "9f86afae-7fbf-431e-8b58-04e93448048f"
+      }
     }
   ],
   "snapshots": [
@@ -144520,6 +144744,26 @@
           "favor": 17.754795564642766,
           "attention": 0.26558116112323443,
           "respect": 10.770676691729323
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T13:42:16.331Z",
+      "exportedAt": "2026-10-17T13:42:16.331Z",
+      "scores": 12766,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.024387317490874,
+          "favor": 9.236780978804402,
+          "attention": 6.285807777535392,
+          "respect": 6.501798561151079
+        },
+        "veterans": {
+          "index": 28.581190782849717,
+          "favor": 17.71047588214721,
+          "attention": 0.12444624398609062,
+          "respect": 10.746268656716419
         }
       }
     }
