@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-17T14:52:22.726Z",
+  "exportedAt": "2026-10-17T15:02:26.938Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3151,6 +3151,12 @@
       "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом за то, что флэшбэкнул меня в 2005ый) ",
+          "scoredAt": "2026-10-17T14:55:19.725Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,

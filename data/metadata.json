@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T14:52:22.726Z",
-  "exportedAt": "2026-10-17T14:52:22.726Z",
-  "runId": "2026-10-17T14:52:22.726Z",
-  "forumExportedAt": "2026-10-17T14:52:22.726Z",
+  "lastSuccessfulAt": "2026-10-17T15:02:26.938Z",
+  "exportedAt": "2026-10-17T15:02:26.938Z",
+  "runId": "2026-10-17T15:02:26.938Z",
+  "forumExportedAt": "2026-10-17T15:02:26.938Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12930,
+    "scores": 12957,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 34,
+    "httpRequests": 29,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 31,
+    "updatedCards": 27,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 31,
-    "changedParticipants": 29,
-    "logicalRequests": 34,
-    "durationMs": 34311,
-    "scoresBefore": 12899,
-    "scoresAfter": 12930,
+    "participantsWithNewScores": 27,
+    "changedParticipants": 27,
+    "logicalRequests": 29,
+    "durationMs": 29163,
+    "scoresBefore": 12930,
+    "scoresAfter": 12957,
     "fullBaselineRequests": 3245,
-    "requestReductionPercent": 98.95223420647149,
+    "requestReductionPercent": 99.10631741140216,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "HTM IN DAT",
+          "comment": "Этот мс что-то воет у него что-то с пищлой - так тупо на подано классно )\nБлъ, хз как так но мне нравится, по тексту такое себе местами, но харизма со стильком тут зарешаоа, верю, уверенно , хороший гонор , 4 авансом ",
+          "scoredAt": "2026-10-17T15:00:30.021Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
           "score": 3,
-          "artist": "JAY",
-          "comment": "Омг, давай 3, но не надо тебе пока в вокал братец )))  промазал знатно аще ",
-          "scoredAt": "2026-10-17T14:51:42.638Z"
+          "artist": "Наедине",
+          "comment": "Немного мажешь по ритмике. Техники не хватает. Текст средненький.",
+          "scoredAt": "2026-10-17T15:00:04.427Z"
         },
         {
           "judgeName": "Никсон",
           "score": 2,
-          "artist": "KOLPAK_ZhZ",
-          "comment": "Грязное исполнение, слышны вдохи-выдохи. И всего 8 строк. Как будто у самого нет желания дальше идти.",
-          "scoredAt": "2026-10-17T14:51:35.488Z"
+          "artist": "MC Schön",
+          "comment": "Сведение не очень, тяжело что-то разобрать.",
+          "scoredAt": "2026-10-17T14:59:48.157Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Чиhi",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:59:34.288Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "CheShire",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T14:51:16.214Z"
+          "artist": "Сын Грома",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:58:58.173Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "миксэм",
+          "comment": "Средненько по всем критериям. Но в исполнении есть потенциал.",
+          "scoredAt": "2026-10-17T14:58:53.862Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "artist": "Egoist aka Egostar",
+          "comment": "23 секунды интро в минутном треке... Ну сколько можно... Не сдавай работу, если не хочется читать рэп",
+          "scoredAt": "2026-10-17T14:58:42.693Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Ptitza",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:58:11.496Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "Monogram",
+          "comment": "Подачу надо прокачивать, технику тоже. Текст хороший, мне понравился. За него добавил 1 балл еще.",
+          "scoredAt": "2026-10-17T14:57:51.559Z"
         },
         {
           "judgeName": "Никсон",
           "score": 3,
-          "artist": "ka1ser",
-          "comment": "За флоу плюс, за однообразные панчи минус. Ну и маловато",
-          "scoredAt": "2026-10-17T14:50:32.591Z"
+          "artist": "balanc808",
+          "comment": "Ну в целом самая дефолтная работа. Проход",
+          "scoredAt": "2026-10-17T14:57:46.412Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Grilzzy Wsteny",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:50:21.630Z"
+          "artist": "ENTY MIKE",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T14:57:38.852Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
-          "artist": "INTI",
-          "comment": "Хорошо по тексту, раскрытию. Есть годные строчки мб конечно уже чутка побщанные, но тут хорошо лежат. По исполнению легкие шероховатости есть, но не особо значительные. Лови 4 с минусом. Чуть доработай панчлайнами текст более оригинальными, и не бойся редачить текст. ",
-          "scoredAt": "2026-10-17T14:50:05.174Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Саша Алди",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:49:54.967Z"
+          "artist": "паника13",
+          "comment": "Нормасно начал, в конце тейк что-то с голосом у тя в начале произошло  наверное стоило бы перезаписать всё-таки. понравилась строчка про читаем и говорим о разном, сомнение общества. Ну слушай, потанцевал есть, побольше панчиков накидаешь если крепких то можно без особого скилла на 4 претендовать, но лучше и то и другое подкачать. У тебя в целом хорошо получается, задаток виден, нало чуть поднажать, особенно во втором раунде. Авансом лови 4",
+          "scoredAt": "2026-10-17T14:57:22.718Z"
         },
         {
           "judgeName": "Никсон",
           "score": 4,
-          "artist": "Денис Криштопов",
-          "comment": "Какой-то интересный текст, будто нужно покопаться. Исполнение хорошее",
-          "scoredAt": "2026-10-17T14:49:49.510Z"
+          "artist": "NPZ",
+          "comment": "Всё хорошо, но не понял при чем тут Карпин.",
+          "scoredAt": "2026-10-17T14:57:17.247Z"
         },
         {
-          "judgeName": "XSive MC",
+          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "ЭЛФИ",
-          "comment": "Рифмы прям неприятно нарезают по ушам, очень спорное решение лепить в ряд однокоренную и ассонансную, а следом точную. Ну очень просто и по детски. Понравился припев, жирнич конкретный, но куплетос просто убивает всю магию. Раскрытия темы не увидел.",
-          "scoredAt": "2026-10-17T14:48:59.487Z"
+          "artist": "Кэмэл со вкусом гангрены",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:56:42.913Z"
         },
         {
-          "judgeName": "Никсон",
+          "judgeName": "OFFSTAGE",
           "score": 4,
-          "artist": "МС беспредел",
-          "comment": "Неидеально, зато крепко и с харизмой.",
-          "scoredAt": "2026-10-17T14:48:17.846Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Сприщём",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:48:05.132Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "crusifier",
-          "comment": "Поработай над сведением. Потенциал точно есть, но тяжело вычленить отдельные строчки.",
-          "scoredAt": "2026-10-17T14:47:34.130Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "amadeuspk",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:47:27.892Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Stepauv",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:46:55.279Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "filhardo",
-          "comment": "Вижу, что старался сделать батлово, но напора больше, чем содержания.",
-          "scoredAt": "2026-10-17T14:46:31.142Z"
+          "artist": "Дима Грязный [ЧБ]",
+          "comment": "Ровненько получилось, но не идеально, особенно в тексте.",
+          "scoredAt": "2026-10-17T14:56:34.161Z"
         }
       ]
     }
