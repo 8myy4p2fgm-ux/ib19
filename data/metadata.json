@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T13:21:58.091Z",
-  "exportedAt": "2026-10-17T13:21:58.091Z",
-  "runId": "2026-10-17T13:21:58.091Z",
-  "forumExportedAt": "2026-10-17T13:21:58.091Z",
+  "lastSuccessfulAt": "2026-10-17T13:32:07.259Z",
+  "exportedAt": "2026-10-17T13:32:07.259Z",
+  "runId": "2026-10-17T13:32:07.259Z",
+  "forumExportedAt": "2026-10-17T13:32:07.259Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12743,
+    "scores": 12750,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 12030,
-    "scoresBefore": 12733,
-    "scoresAfter": 12743,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 8976,
+    "scoresBefore": 12743,
+    "scoresAfter": 12750,
     "fullBaselineRequests": 3236,
-    "requestReductionPercent": 99.6291718170581,
+    "requestReductionPercent": 99.72187886279357,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Davai banzai",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:31:57.243Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "KL1M L1GHT",
+          "comment": "Ну нельзя так на дрил подавать , в ногу себе стреляешь. Идея текста отличная, подача не ахти  ",
+          "scoredAt": "2026-10-17T13:29:19.848Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "ТАКАШИ",
+          "comment": "Голос не подходит твоему тексту, тебе нужен более зубастый текст смпанчами крепкими, пока слабовато, докрути панчи , свэг есть, попробуй тру барсы к своему стильку применить , должно быть очень органично 😉😎",
+          "scoredAt": "2026-10-17T13:27:32.537Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Sanzhar",
+          "comment": "Иронично звучит если смотреть на текст и слышать его. Харизматичный голос, тебе с ним можно такую кекную пургу нести и будет круто. Поработай над панчами и будет точно 4 или 5",
+          "scoredAt": "2026-10-17T13:25:16.011Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "БИЛЛИ РУКАМИ",
+          "comment": "Скудный тексток, не верится , есть попытки в панчи, но их мало. С текстом такого уровня слетишь во втором. Давай дорабатывай, потанцевал в тебе есть, просто не ленись покумекай над закрученостью строчек. Три с минусом ",
+          "scoredAt": "2026-10-17T13:23:10.085Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Iamsorry",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:22:35.806Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "VaL",
+          "comment": "Всё, кроме правды, летит бумерангом - тема",
+          "scoredAt": "2026-10-17T13:22:13.043Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -138,55 +187,6 @@
           "artist": "ixoma",
           "comment": "Золотая середина",
           "scoredAt": "2026-10-17T13:15:29.327Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "КОЗЁЛ",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T13:14:48.732Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "Polo De Cono",
-          "comment": "ахуенно ",
-          "scoredAt": "2026-10-17T13:12:35.818Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "vsecelo",
-          "comment": "че то есть в этом ",
-          "scoredAt": "2026-10-17T13:11:47.016Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "doNNNie",
-          "comment": "слабый андер ",
-          "scoredAt": "2026-10-17T13:11:12.017Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "дачтотычёртпоберитакоенесёшь",
-          "comment": "лжедмитрий?",
-          "scoredAt": "2026-10-17T13:10:30.688Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "FVNTHOM",
-          "comment": "страшно",
-          "scoredAt": "2026-10-17T13:09:17.583Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Дуэт Качели",
-          "comment": "чуть не хватило до 3",
-          "scoredAt": "2026-10-17T13:08:27.736Z"
         }
       ]
     }
