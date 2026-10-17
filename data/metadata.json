@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T04:21:56.244Z",
-  "exportedAt": "2026-10-17T04:21:56.244Z",
-  "runId": "2026-10-17T04:21:56.244Z",
-  "forumExportedAt": "2026-10-17T04:21:56.244Z",
+  "lastSuccessfulAt": "2026-10-17T04:51:58.603Z",
+  "exportedAt": "2026-10-17T04:51:58.603Z",
+  "runId": "2026-10-17T04:51:58.603Z",
+  "forumExportedAt": "2026-10-17T04:51:58.603Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12023,
+    "scores": 12025,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1897,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4179,
     "scoresBefore": 12023,
-    "scoresAfter": 12023,
-    "fullBaselineRequests": 3206,
-    "requestReductionPercent": 99.93761696818466,
+    "scoresAfter": 12025,
+    "fullBaselineRequests": 3207,
+    "requestReductionPercent": 99.87527284066105,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "artist": "CardinaL",
+          "comment": "Интеллектуально, тема раскрыта, на концах строк зачастую двойные, по сути. Да, это не звучит, как сладенький трек фаворита с модным звуком, это не без шероховатостей зачитано, но я считаю, что на отборе это можно я\nпоощрить вышкой, потому что трек выгодно выделяется относительно общей массы текстом. Даже те, кто писал с хорошими рифмами и панчами, не показывали столь интересный крен в интеллект.",
+          "scoredAt": "2026-10-17T04:51:32.983Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "theSW",
+          "comment": "Тягучий флоу, нудновато, текст не приложен, в конце трек будто обрезан неудачно, по рифме иногда остроты не хватает, мелькают квадраты иногда. Тема раскрыта.",
+          "scoredAt": "2026-10-17T04:44:40.959Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -173,20 +187,6 @@
           "artist": "Asteroday",
           "comment": "жесть исторический рэп, ну это вау!!! но исполнение слабоватое",
           "scoredAt": "2026-10-17T01:55:37.089Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "NotaB",
-          "comment": "Посыл не очень понравился, просто не моё, но по технике хорошо. ",
-          "scoredAt": "2026-10-17T00:24:02.515Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Илья Чичёткин",
-          "comment": "Ну хоть что-то по теме бы... Я уже не понимаю где люди сдают свои старые работы, а где пишут на отбор. Ну нельзя же просто сдать что-то, что норм звучит и показать, что ты умеешь в рэп. Тут и рэпа маловато и вообще не баттлово, отдам на откуп другим судьям.",
-          "scoredAt": "2026-10-17T00:22:30.693Z"
         }
       ]
     }
