@@ -126142,6 +126142,146 @@
         "scoredAt": "2026-10-17T00:00:04.998Z",
         "userId": "670a03fd-af63-4471-8e4b-6c4294a6b945"
       }
+    },
+    {
+      "id": "0272bc3f7a02623f9cb902fca4096804a2152cad24cad0f789b7af93ffe7c7da",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:05:00.871Z",
+      "key": "[\"94fd6e49-4f71-4f3f-9798-c2bd22cfdf47\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Я не плачу, просто ностальгия в глаз попала , забирай свою эту пятерку , лега!",
+        "scoredAt": "2026-10-17T00:05:00.871Z",
+        "userId": "94fd6e49-4f71-4f3f-9798-c2bd22cfdf47"
+      }
+    },
+    {
+      "id": "32dc161adc9bda6c8541fadc3c53556ae4274e1802a6c9984f126c91863d5b5a",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:08:19.375Z",
+      "key": "[\"edfff0bc-e545-4c34-9aae-daa2790af793\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошо, уверенно, с напором и подачей. Удачи во втором.",
+        "scoredAt": "2026-10-17T00:08:19.375Z",
+        "userId": "edfff0bc-e545-4c34-9aae-daa2790af793"
+      }
+    },
+    {
+      "id": "958728104e3ba3d65a5c1b988a50a07921806857a56c819724864608d3e49de8",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:10:31.317Z",
+      "key": "[\"7acb2cc3-150b-45cb-981e-0a39abc34b6c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Рановато в такое соревнование.",
+        "scoredAt": "2026-10-17T00:10:31.317Z",
+        "userId": "7acb2cc3-150b-45cb-981e-0a39abc34b6c"
+      }
+    },
+    {
+      "id": "c3baa24abcc6f29e9f32a51d055ab5aca44bcdbaab7e330dadbf7fdfeae9d47b",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:02:00.534Z",
+      "key": "[\"0794cb0d-9ced-443f-b2ea-59c37fbcf25f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "За уникальный стиль докидываю балл до 5. Оригинально звучит, видно что умеешь делать и знаешь куда идёшь.",
+        "scoredAt": "2026-10-17T00:02:00.534Z",
+        "userId": "0794cb0d-9ced-443f-b2ea-59c37fbcf25f"
+      }
+    },
+    {
+      "id": "128f3674bb02b63d44b908771da0da0e05b7f59d0e19843921122749db1cce4c",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:03:15.841Z",
+      "key": "[\"3bf3a2bc-ed42-4dc3-96b7-8284bc7a8fbe\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Не хватаем этому трека качества. Качество+сведение и ты будешь звучать сильно круче. ",
+        "scoredAt": "2026-10-17T00:03:15.841Z",
+        "userId": "3bf3a2bc-ed42-4dc3-96b7-8284bc7a8fbe"
+      }
+    },
+    {
+      "id": "42f978b74eedcf25ddfac9d714f0c6eeb14b82451f0db44604b5833f81320426",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:09:55.269Z",
+      "key": "[\"f2e7fb6f-053b-473b-bab9-16215528d6bf\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Прикольный текст написал, здесь такое не часто попадается (по крайней мере мне). Хорошая работа, удачи. ",
+        "scoredAt": "2026-10-17T00:09:55.269Z",
+        "userId": "f2e7fb6f-053b-473b-bab9-16215528d6bf"
+      }
+    },
+    {
+      "id": "42d7c083c58967bb8ac2f113d0fe28c493a0bf67de5b4f2259666d3d7ca2345c",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:07:06.903Z",
+      "key": "[\"4adcd30e-7352-4dfb-93b2-8fc2d5288332\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Вроде есть стиль, качество, но я не понимаю как эта работа относится к баттлу? Про что это?",
+        "scoredAt": "2026-10-17T00:07:06.903Z",
+        "userId": "4adcd30e-7352-4dfb-93b2-8fc2d5288332"
+      }
+    },
+    {
+      "id": "c2578f3d8e281bc1209fe559774faf1dca17c6131ee401b976d3e748fdd4f542",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:05:46.454Z",
+      "key": "[\"e8c63739-3abf-48b5-8107-4511aba27f1c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Вокал не тянешь пока. В целом слабовато для прохода.",
+        "scoredAt": "2026-10-17T00:05:46.454Z",
+        "userId": "e8c63739-3abf-48b5-8107-4511aba27f1c"
+      }
+    },
+    {
+      "id": "e0766fa139f266e3c04316074bf5eadf9dedfbca8f0050f0f12d64590c6829a3",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:04:33.116Z",
+      "key": "[\"d396af40-800a-4fc1-96cb-037acce1c95d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Самое стандартное раскрытие. Уже немного надоело слушать одинаковые треки. Девушка в конце удивила. ",
+        "scoredAt": "2026-10-17T00:04:33.116Z",
+        "userId": "d396af40-800a-4fc1-96cb-037acce1c95d"
+      }
+    },
+    {
+      "id": "9fd5cb36f594e7c84075443ae5d4f2ae9f46ee19425f6c4a00ebe89a7a39cafd",
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "sourceScoredAt": "2026-10-17T00:09:13.637Z",
+      "key": "[\"17a3f99c-0bfa-4196-83c5-575a82472665\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Пока что ты топ1 по концентрации неймдропинга, Авансом 3 с минусом , АНТИХАЙП!",
+        "scoredAt": "2026-10-17T00:09:13.637Z",
+        "userId": "17a3f99c-0bfa-4196-83c5-575a82472665"
+      }
     }
   ],
   "snapshots": [
@@ -132641,6 +132781,26 @@
           "index": 28.963442682730893,
           "favor": 18.11936038242731,
           "attention": -0.23013644969641575,
+          "respect": 11.07421875
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T00:12:01.113Z",
+      "exportedAt": "2026-10-17T00:12:01.113Z",
+      "scores": 12003,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.316191450916754,
+          "favor": 9.254842313158536,
+          "attention": 6.425661405416213,
+          "respect": 6.635687732342007
+        },
+        "veterans": {
+          "index": 29.00453753994193,
+          "favor": 18.11770065789474,
+          "attention": -0.18738186795281236,
           "respect": 11.07421875
         }
       }
