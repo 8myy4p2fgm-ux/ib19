@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T17:22:27.536Z",
-  "exportedAt": "2026-10-17T17:22:27.536Z",
-  "runId": "2026-10-17T17:22:27.536Z",
-  "forumExportedAt": "2026-10-17T17:22:27.536Z",
+  "lastSuccessfulAt": "2026-10-17T17:32:06.962Z",
+  "exportedAt": "2026-10-17T17:32:06.962Z",
+  "runId": "2026-10-17T17:32:06.962Z",
+  "forumExportedAt": "2026-10-17T17:32:06.962Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13170,
+    "scores": 13175,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 26,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 23,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 23,
-    "changedParticipants": 22,
-    "logicalRequests": 26,
-    "durationMs": 26832,
-    "scoresBefore": 13147,
-    "scoresAfter": 13170,
-    "fullBaselineRequests": 3246,
-    "requestReductionPercent": 99.19901417128773,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7049,
+    "scoresBefore": 13170,
+    "scoresAfter": 13175,
+    "fullBaselineRequests": 3247,
+    "requestReductionPercent": 99.78441638435478,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Platinum 900",
+          "comment": "Хорошо, крепко. Хотя некоторые тейки немного пафосные вычурные, такие заезжанные даже.",
+          "scoredAt": "2026-10-17T17:29:09.798Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Eva Maslou",
+          "comment": "Бодро зачитала пэнчиков накидала, звучит норм. Давай авансом 4 и в следующем раунде, покажи панчи разрывнее, потанцевал в тебе есть. Надо будет удивлять ! ",
+          "scoredAt": "2026-10-17T17:28:38.742Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Тот, кого не существует",
+          "comment": "Очевидно бро все рассказал. Буквально не бары, а комментарии с условного рипа к посту с очердным \"ПРОДАВШИМСЯ\" мц.",
+          "scoredAt": "2026-10-17T17:24:56.172Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "kazus",
+          "comment": "Крепкий средняк. наверное крутых пачней для такого рэба не хватило.",
+          "scoredAt": "2026-10-17T17:23:32.207Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "стилезавр",
+          "comment": "На звук закрою глаза, потанцевал есть , но во втором исправься пожалуйста. Умеешь делать стильно, давай пЭнчиков разрывных завези ",
+          "scoredAt": "2026-10-17T17:22:57.483Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "sdvigpofazzze",
+          "comment": "Очень дефолтно, в такой стилек фишек бы добавить",
+          "scoredAt": "2026-10-17T17:22:23.998Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "Веялеб Атикин",
           "comment": "Не хватает смены подачи и флоу всё на один манер во всём треке",
           "scoredAt": "2026-10-17T17:17:53.537Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "77емь",
-          "comment": "Слабовато как-то совсем",
-          "scoredAt": "2026-10-17T17:17:42.950Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 1,
-          "artist": "BatiskaF",
-          "comment": "Это грайм? )))",
-          "scoredAt": "2026-10-17T17:17:29.870Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "D1STANT",
-          "comment": "Нормально ты так накидал плагинов, ны ты за ними спрятался. Вообще не понятно что ты за тип, и по тексто тоже соу соу. ",
-          "scoredAt": "2026-10-17T17:17:07.926Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Yellowdonut",
-          "comment": "3 авансом, под джангл не очень легло такое звучание будто тебе дали пулемет, а ты по одному патрону стреляешь, ну хз , во втором надо будет стрелять тебе из всего арсенала всеми способами чтоб пройти ",
-          "scoredAt": "2026-10-17T17:16:37.036Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "СИМ ГРИН",
-          "comment": "Слушай звучит прикольно, немного не хватило в куплете вот этого скрим напора в бэки можно было их пустить",
-          "scoredAt": "2026-10-17T17:16:28.072Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Glaiskur",
-          "comment": "Тут много альтернативных работ было, твоя не самая сильная. Припев не очень звучит, но это проход. ",
-          "scoredAt": "2026-10-17T17:16:14.996Z"
         }
       ]
     }
