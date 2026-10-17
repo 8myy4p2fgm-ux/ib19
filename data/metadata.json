@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T06:01:55.750Z",
-  "exportedAt": "2026-10-17T06:01:55.750Z",
-  "runId": "2026-10-17T06:01:55.750Z",
-  "forumExportedAt": "2026-10-17T06:01:55.750Z",
+  "lastSuccessfulAt": "2026-10-17T06:11:58.069Z",
+  "exportedAt": "2026-10-17T06:11:58.069Z",
+  "runId": "2026-10-17T06:11:58.069Z",
+  "forumExportedAt": "2026-10-17T06:11:58.069Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12069,
+    "scores": 12072,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 6671,
-    "scoresBefore": 12064,
-    "scoresAfter": 12069,
-    "fullBaselineRequests": 3208,
-    "requestReductionPercent": 99.78179551122194,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5033,
+    "scoresBefore": 12069,
+    "scoresAfter": 12072,
+    "fullBaselineRequests": 3209,
+    "requestReductionPercent": 99.84418822062948,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "S10IO",
+          "comment": "Ой, ускорения это боль прям. Сравнения порой странные, тексту не хватает внятности. Игра слов в конце хорошая, но чую, что за этим кроется очень притянутая логика) ",
+          "scoredAt": "2026-10-17T06:10:57.947Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "tayg",
+          "comment": "Слетаешь. Рифма преимущественно канонична, хотя проскочила и глагольная связка, есть пара избитых связок. Клишейно. Да, впечатление приятное, но, к сожалению, это только 2 ",
+          "scoredAt": "2026-10-17T06:07:43.535Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "BagoDaigo",
+          "comment": "Как же косноязычно, до раздражения. Даю тебе шанс с надеждой, что второй раунд будет написан не парсултангом ебучим",
+          "scoredAt": "2026-10-17T06:03:35.361Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -166,27 +187,6 @@
           "artist": "Реклама Соц Сетей",
           "comment": "Спасибо за трек! \nТекст: да, ахуевший тип\nИсполнение: криминальный бит на минималках\nОбщее впечатление: сложно такое слушать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-17T05:48:19.414Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "Moreton Keat",
-          "comment": "Спасибо за трек! \nТекст: хорошо зарифмовано\nИсполнение: технично\nОбщее впечатление: а меня зацепило, жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T05:47:49.175Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Nochee",
-          "comment": "Я не против лирики и всего прочего, даже если лирика будет столь \"не баттловой\". На здоровье, но делайте это с точными занятными рифмами, с цепкими фразами, метафорами хорошими, образами. А здесь всё очень клишейно, рифмам часто очень не хватает остроты.",
-          "scoredAt": "2026-10-17T05:47:43.636Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "DaveBRA",
-          "comment": "Спасибо за трек! \nТекст: да, порядочно\nИсполнение: прикольно\nОбщее впечатление: 19 независимый шансон-баттл\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T05:47:14.295Z"
         }
       ]
     }

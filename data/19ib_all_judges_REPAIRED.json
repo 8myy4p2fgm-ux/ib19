@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T06:01:55.750Z",
+  "exportedAt": "2026-10-17T06:11:58.069Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -35604,8 +35604,14 @@
     },
     {
       "userId": "6313f683-017a-4a21-afee-9a915f64ff1c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Ой, ускорения это боль прям. Сравнения порой странные, тексту не хватает внятности. Игра слов в конце хорошая, но чую, что за этим кроется очень притянутая логика) ",
+          "scoredAt": "2026-10-17T06:10:57.947Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -35631,7 +35637,7 @@
           "scoredAt": "2026-10-05T15:09:19.783Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:12:20.481Z",
+      "fetchedAt": "2026-10-17T06:11:58.069Z",
       "current": true,
       "artistName": "S10IO",
       "artistSlug": "s10io"
@@ -79696,9 +79702,16 @@
     },
     {
       "userId": "18202d7b-616f-40eb-9b4e-7abdcf6799cf",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Слетаешь. Рифма преимущественно канонична, хотя проскочила и глагольная связка, есть пара избитых связок. Клишейно. Да, впечатление приятное, но, к сожалению, это только 2 ",
+          "scoredAt": "2026-10-17T06:07:43.535Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T06:11:58.069Z",
       "current": true,
       "artistName": "tayg",
       "artistSlug": "tayg"
@@ -82608,8 +82621,14 @@
     },
     {
       "userId": "dbcf5ee7-2874-4c15-b7ad-5e0b61570da9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Как же косноязычно, до раздражения. Даю тебе шанс с надеждой, что второй раунд будет написан не парсултангом ебучим",
+          "scoredAt": "2026-10-17T06:03:35.361Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -82635,7 +82654,7 @@
           "scoredAt": "2026-10-07T17:04:05.248Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "fetchedAt": "2026-10-17T06:11:58.069Z",
       "current": true,
       "artistName": "BagoDaigo",
       "artistSlug": "bagodaigo"
