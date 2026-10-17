@@ -142150,6 +142150,300 @@
         "scoredAt": "2026-10-17T17:02:11.557Z",
         "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8"
       }
+    },
+    {
+      "id": "fe9feef044bb9029ea6f5caf51084151e43512a45d03053503b3d64e5805f1de",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:02:42.717Z",
+      "key": "[\"30f19b0d-458a-4257-8b5e-2e7cf1fbba50\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом разогнался под конец и в плане истории в тексте, и по флоу... ",
+        "scoredAt": "2026-10-17T17:02:42.717Z",
+        "userId": "30f19b0d-458a-4257-8b5e-2e7cf1fbba50"
+      }
+    },
+    {
+      "id": "2365f272fed0eb5c7a7c4a85a49e08b7107407c7540e664d764fd3392ae4cb10",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:03:43.490Z",
+      "key": "[\"514ffb9f-12c7-45bd-a255-7103ea8f05e2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Ох братик если бы вывез по дикции фастылоу то была бы 4",
+        "scoredAt": "2026-10-17T17:03:43.490Z",
+        "userId": "514ffb9f-12c7-45bd-a255-7103ea8f05e2"
+      }
+    },
+    {
+      "id": "eb98884fd343a2a5e90abc12f89acfc461afa85f83b48446c07cae2b1a0209d7",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:05:22.950Z",
+      "key": "[\"7c26a901-0e8d-4fa7-99e4-16a6a2a9f7fc\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "В целом нормально по флоу , текст пустоват, но попытки в панчики есть . авансом 4",
+        "scoredAt": "2026-10-17T17:05:22.950Z",
+        "userId": "7c26a901-0e8d-4fa7-99e4-16a6a2a9f7fc"
+      }
+    },
+    {
+      "id": "0683310e4f7ff8db805a325ad9099cc6cb3b71408f3b9486e49bf0c9d996b230",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:05:17.512Z",
+      "key": "[\"62e68752-4747-4e78-9a83-d37f025f7f8f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Вроде это вайб, а вроде и мимо...",
+        "scoredAt": "2026-10-17T17:05:17.512Z",
+        "userId": "62e68752-4747-4e78-9a83-d37f025f7f8f"
+      }
+    },
+    {
+      "id": "e04229f83d939e6371cef1c22f332d73a53694530efbf1c7de2907d5fecd9ccb",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:10:56.134Z",
+      "key": "[\"ddca8162-29ee-499c-960f-1cb85ba0d65e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Куплет немного дефолтно, но то что разбавил под конец спасибо",
+        "scoredAt": "2026-10-17T17:10:56.134Z",
+        "userId": "ddca8162-29ee-499c-960f-1cb85ba0d65e"
+      }
+    },
+    {
+      "id": "4c32baaca354bf23329c4223a4469582014d31d0fddec55625c562e022043d98",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:09:44.728Z",
+      "key": "[\"a91f26cf-acc2-4b74-b32c-ca1e97eca012\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "По флоу хорошо, напор тоже, единственное местами слышно тейки, заправляй бексами жесткими",
+        "scoredAt": "2026-10-17T17:09:44.728Z",
+        "userId": "a91f26cf-acc2-4b74-b32c-ca1e97eca012"
+      }
+    },
+    {
+      "id": "a69ade61592c0a56ff3dda163b5ff1ac21ced6c20076c8078f123d12d8b88ac8",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:02:47.516Z",
+      "key": "[\"68d980cd-5718-4c42-9b6d-a22092b19abf\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Много барсов разного качества, в целом потанцевал есть , но хочется чего-то более закрученного для выкупания ",
+        "scoredAt": "2026-10-17T17:02:47.516Z",
+        "userId": "68d980cd-5718-4c42-9b6d-a22092b19abf"
+      }
+    },
+    {
+      "id": "fa138edf4b15f8355790f97c67764d4538fbddfa95eb427f09ce65ab4955ebc4",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:07:02.944Z",
+      "key": "[\"26e51249-b25c-45d8-abf2-5fc18330d4b9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Есть странные ритмические моменты с паузами между словами, надо было наваливать больше слов в строку, чтоб звучало цельнее работа",
+        "scoredAt": "2026-10-17T17:07:02.944Z",
+        "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9"
+      }
+    },
+    {
+      "id": "1d92bed14044bc8de88b14c92bcca404f66bfa7575575b3bd2252bac79773187",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:10:31.262Z",
+      "key": "[\"0c4919d6-4f24-4a26-873f-515fb63424bf\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Нормас, приколюх накидал второсортных, про горьы ток понравился кек типа у тебя нет горбов и ты нас наеьал, вот этот кек среди всего самый лучший, в целом пресненько ",
+        "scoredAt": "2026-10-17T17:10:31.262Z",
+        "userId": "0c4919d6-4f24-4a26-873f-515fb63424bf"
+      }
+    },
+    {
+      "id": "f10a09429f167366803c9000235217de017c9328f05e72ee24398437461a6bf4",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:08:40.553Z",
+      "key": "[\"ffabddfd-7dbf-4e9e-82c3-bcc1ea7983cc\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Я люблю судей, они такие пирожочки ))) Но почему судЕй? Правильно же сУдей... Кайфовая, стильная работа. Респект. ",
+        "scoredAt": "2026-10-17T17:08:40.553Z",
+        "userId": "ffabddfd-7dbf-4e9e-82c3-bcc1ea7983cc"
+      }
+    },
+    {
+      "id": "4184059224152fe9df89f2ce7e36018279be573229a0c2d77a1ea0c4089cf95d",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:09:55.168Z",
+      "key": "[\"19abbca2-9224-44e7-99ef-18a2bcc28a66\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Очень плохой звук, тебя прям не слышно. ",
+        "scoredAt": "2026-10-17T17:09:55.168Z",
+        "userId": "19abbca2-9224-44e7-99ef-18a2bcc28a66"
+      }
+    },
+    {
+      "id": "3bcffc658005e6b9a5c35b0753eaf2e9e0ea1dceb5051d2f453387110595c009",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:05:17.057Z",
+      "key": "[\"6d372570-1554-471f-b5d4-8c8ba09b953b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Жестко, тяжело слушать из-за перегруза трек",
+        "scoredAt": "2026-10-17T17:05:17.057Z",
+        "userId": "6d372570-1554-471f-b5d4-8c8ba09b953b"
+      }
+    },
+    {
+      "id": "5cad3b2f8fc221621f2db34a3d467ec83df3733b76c2f378af033f4ef4009546",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:07:20.579Z",
+      "key": "[\"0792b017-9f2a-467e-8a74-2a77ece92f85\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Норм читаешь, есть пара рифм нормасных , во втором надо будет мощных пэнчиков",
+        "scoredAt": "2026-10-17T17:07:20.579Z",
+        "userId": "0792b017-9f2a-467e-8a74-2a77ece92f85"
+      }
+    },
+    {
+      "id": "a213637900d3e5d8a6c0a3e3f1692d294cec28e0cd4d52bd68b611295d78286f",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:05:22.401Z",
+      "key": "[\"b8cb3170-21de-4b9b-9df9-5cfc9a1df92d\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Реализация хуже задумки, рифму тоже можно было докрутить. Звучание спорное, нужно вслушиваться ещё. Три с плюсом.",
+        "scoredAt": "2026-10-17T17:05:22.401Z",
+        "userId": "b8cb3170-21de-4b9b-9df9-5cfc9a1df92d"
+      }
+    },
+    {
+      "id": "d092b14a3419e3313d7b002ed43c67a105e75add3e3d26ea60107ae727e7847b",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:07:17.721Z",
+      "key": "[\"88c3a4bf-cd35-4eec-975d-61c0cc3262bd\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Интересный полупанк-рэп. Я за разнообразие на баттле. Гни свою линию, хороший звук у тебя. ",
+        "scoredAt": "2026-10-17T17:07:17.721Z",
+        "userId": "88c3a4bf-cd35-4eec-975d-61c0cc3262bd"
+      }
+    },
+    {
+      "id": "4463742a4c19036671e286a2e3e0a3d9e2989734b6195c0aa7eac19efdff6251",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:08:07.012Z",
+      "key": "[\"7eae5b3a-57ae-4dc1-ad01-5f611b8bab35\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Пустил слезу за тебя.... ух этот дембеле)",
+        "scoredAt": "2026-10-17T17:08:07.012Z",
+        "userId": "7eae5b3a-57ae-4dc1-ad01-5f611b8bab35"
+      }
+    },
+    {
+      "id": "3b7f6ea96b11a2afad3a85432925dff7ac414c2dd243c4340a47ab066071c55e",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:09:21.135Z",
+      "key": "[\"91ba34bd-c781-49b6-b383-fb35ee73138f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Вроде есть прикол, а в читке будто перехиповал. ",
+        "scoredAt": "2026-10-17T17:09:21.135Z",
+        "userId": "91ba34bd-c781-49b6-b383-fb35ee73138f"
+      }
+    },
+    {
+      "id": "e1b8c6c8a5b308937984ff19dcde997d216ce057b7f0b759465eec5ede3e0abf",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:03:08.829Z",
+      "key": "[\"dd186eef-55e0-43b5-8c88-9cba27a653af\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ты самый странный чувак на баттле... У тебя наверняка окно в комнате светится фиолетовым ;) ",
+        "scoredAt": "2026-10-17T17:03:08.829Z",
+        "userId": "dd186eef-55e0-43b5-8c88-9cba27a653af"
+      }
+    },
+    {
+      "id": "5ce6ea129e470f6ec61192db8da16c13769218271759c2bd63145314dba1b216",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:06:17.245Z",
+      "key": "[\"6e7e6d40-2232-46f0-b171-dda8610566bc\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Интересная работа, приятный голос, хорошо подобранный минус. Давай во второй. ",
+        "scoredAt": "2026-10-17T17:06:17.245Z",
+        "userId": "6e7e6d40-2232-46f0-b171-dda8610566bc"
+      }
+    },
+    {
+      "id": "963db968318e7defc604c8280209cc55bb3224f049706ee059f5444676a2ac18",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:11:39.491Z",
+      "key": "[\"8338c568-5a84-4c9d-9860-5ab3136d0736\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Хорошо, что ты Не участник Баттла! А то не прошёл бы...\n",
+        "scoredAt": "2026-10-17T17:11:39.491Z",
+        "userId": "8338c568-5a84-4c9d-9860-5ab3136d0736"
+      }
+    },
+    {
+      "id": "75905c17316fb865a96653cc22b57f66d65f30d9830124e8a1df46e7b4d2445b",
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "sourceScoredAt": "2026-10-17T17:11:11.169Z",
+      "key": "[\"d234061a-b9c8-4bd9-a12c-bae53bdc1380\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Вроде нет ничего особенного, но слушается трек легко. Текст 50 на 50 заходит, моя оценка - хорошо. ",
+        "scoredAt": "2026-10-17T17:11:11.169Z",
+        "userId": "d234061a-b9c8-4bd9-a12c-bae53bdc1380"
+      }
     }
   ],
   "snapshots": [
@@ -150309,6 +150603,26 @@
           "index": 29.47746428415472,
           "favor": 17.785255909491944,
           "attention": 0.9459397179463545,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T17:12:20.123Z",
+      "exportedAt": "2026-10-17T17:12:20.123Z",
+      "scores": 13147,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.799301379909437,
+          "favor": 9.24233047439481,
+          "attention": 6.090539810108268,
+          "respect": 6.46643109540636
+        },
+        "veterans": {
+          "index": 29.54175992731883,
+          "favor": 17.784322451371818,
+          "attention": 1.0111688192305925,
           "respect": 10.746268656716419
         }
       }
