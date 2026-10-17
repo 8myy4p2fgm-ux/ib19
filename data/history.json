@@ -134752,6 +134752,384 @@
         "scoredAt": "2026-10-17T12:21:07.295Z",
         "userId": "7ac66dc1-3ad9-4287-9982-20fab8317dff"
       }
+    },
+    {
+      "id": "94a323127d79471150997df7e230ab7a92f647f00063393c7beb2b68ecb55279",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:26:13.625Z",
+      "key": "[\"3ed548c1-f5cc-4716-8f00-d8856d76a9ca\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Первая часть не зашла, дальше разогнался и всё вытащил. Скорее понравилось. Напомнило Луперкаля молодого",
+        "scoredAt": "2026-10-17T12:26:13.625Z",
+        "userId": "3ed548c1-f5cc-4716-8f00-d8856d76a9ca"
+      }
+    },
+    {
+      "id": "ac53b25e7e2cb012d9e840cc1021da6494c1166b0f89d06825dfc0abee29a1d9",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:31:30.693Z",
+      "key": "[\"101cdb7f-2546-4a1f-a7f4-8d25fd31ee48\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Хорошо звучишь, давай колкости в панчи добавь на максимум, пока оскал хороший показал. ",
+        "scoredAt": "2026-10-17T12:31:30.693Z",
+        "userId": "101cdb7f-2546-4a1f-a7f4-8d25fd31ee48"
+      }
+    },
+    {
+      "id": "7c40c3d30449955d269248080f74a9c2d522ddc90411d1477819732e7b61e0cf",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:26:11.384Z",
+      "key": "[\"aa77e3c0-4207-4b48-bf33-c2db77ca6691\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T12:26:11.384Z",
+        "userId": "aa77e3c0-4207-4b48-bf33-c2db77ca6691"
+      }
+    },
+    {
+      "id": "485eacf747b85fab79f13bdaa52e38fb29e2cb25a8d48c24c10b48aaf5e074fd",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:26:52.839Z",
+      "key": "[\"eadfdb83-abd2-4f7c-a2ca-d573d00b21a2\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Странная работа, как будто где-то не вывез. Но авансом можно 3 натянуть.",
+        "scoredAt": "2026-10-17T12:26:52.839Z",
+        "userId": "eadfdb83-abd2-4f7c-a2ca-d573d00b21a2"
+      }
+    },
+    {
+      "id": "12c4923038dc60b1e4e98b8364e57bc4995b34fe60c4405ec33955156103d784",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:25:42.060Z",
+      "key": "[\"fbf20096-e253-4871-9576-b2f897026c52\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T12:25:42.060Z",
+        "userId": "fbf20096-e253-4871-9576-b2f897026c52"
+      }
+    },
+    {
+      "id": "ae59a97be07ffb48d43f0a7a36142ac0beb8cbfb2a0004c6ccc4c296e5ee86b2",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:30:23.079Z",
+      "key": "[\"c672b7de-4102-417e-a5ef-5dcc63459a58\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Задел на панчи есть, спасибо, трубарсы тебе идут . дай разнообразия по рифмам и исполнению и будут уже 4 или 5. Пока 4 с минусом , вместо 3+",
+        "scoredAt": "2026-10-17T12:30:23.079Z",
+        "userId": "c672b7de-4102-417e-a5ef-5dcc63459a58"
+      }
+    },
+    {
+      "id": "1d099413a9645eef08ba19b12df4e83db3736a60d8602cd888a27bebead72f72",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:26:48.117Z",
+      "key": "[\"34a2ee59-2e88-4bbb-9d06-5292b77013ff\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Боже какая скукота, всего 2 -3 попытки в панчи, и то строги не оригинальны тэи мы их слышали 1000 раз 1000 фраз, по исполнению серо, обычно так читают когда внимание на текст у слушателя хотят акцентировать, а тут рифмы уровня Бьянки, а может и ниже , и на моменте доебов до вокабуляра будто стреляешь себе в ногу. Это очень слабо, хотя на бит зачитал ровно, но без какой-либо яркости, во втором раунде так же сделаешь и вылетишь , так что думай и исправляйся",
+        "scoredAt": "2026-10-17T12:26:48.117Z",
+        "userId": "34a2ee59-2e88-4bbb-9d06-5292b77013ff"
+      }
+    },
+    {
+      "id": "1c020f58a60c51307fb95e0a3559ecee6f16155e2ec62e6a15652fbdd2cf3d3d",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:24:44.426Z",
+      "key": "[\"34a2ee59-2e88-4bbb-9d06-5292b77013ff\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Ты бы попробовал рифмовать не на глаголы, вдруг понравится.",
+        "scoredAt": "2026-10-17T12:24:44.426Z",
+        "userId": "34a2ee59-2e88-4bbb-9d06-5292b77013ff"
+      }
+    },
+    {
+      "id": "8e7dbac5a87111303899d4d88200a072b880e9ce92df0d867bc6ee7f4b2d59f1",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:26:04.872Z",
+      "key": "[\"85d54a27-ae0a-4fa0-99f0-90cb15239681\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Слабовато. Подача простовата, текст тоже. Что-то есть в этом, может во втором раунде покажешь, что именно.",
+        "scoredAt": "2026-10-17T12:26:04.872Z",
+        "userId": "85d54a27-ae0a-4fa0-99f0-90cb15239681"
+      }
+    },
+    {
+      "id": "57b86a90265bad91b180bfdc6721e8153380ecf978f6190e307fa78f56f45c02",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:23:51.408Z",
+      "key": "[\"be3eb091-a27f-439f-90e8-e7a0e7443be0\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T12:23:51.408Z",
+        "userId": "be3eb091-a27f-439f-90e8-e7a0e7443be0"
+      }
+    },
+    {
+      "id": "0af565124e6a0f124ba571e1345c436fffca0357d19cfddd1b73da0c6bc08959",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:31:14.568Z",
+      "key": "[\"0d5fb242-6a49-42b1-a9e8-c4309ac1839c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T12:31:14.568Z",
+        "userId": "0d5fb242-6a49-42b1-a9e8-c4309ac1839c"
+      }
+    },
+    {
+      "id": "b155539efa50da74ca803c06801ef0b7735a7cd2db9ff86e8991d1927868ef73",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:29:59.257Z",
+      "key": "[\"13f1dd8b-b9c7-4d73-921c-7243fc55e57b\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 1,
+        "comment": "Интро заинтриговало. Но увы. Почти всё мимо бита.",
+        "scoredAt": "2026-10-17T12:29:59.257Z",
+        "userId": "13f1dd8b-b9c7-4d73-921c-7243fc55e57b"
+      }
+    },
+    {
+      "id": "91e17e0193ea637033f6a51e5351db0192973ceedcc06a307162535ede14fade",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:27:36.632Z",
+      "key": "[\"87315a6f-7ba5-4cac-88ae-e92168820a68\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Однообразный флоу, к середине внимание уходит. Не зашло.",
+        "scoredAt": "2026-10-17T12:27:36.632Z",
+        "userId": "87315a6f-7ba5-4cac-88ae-e92168820a68"
+      }
+    },
+    {
+      "id": "45fc4a70d8c472722af4418ce7dc8451436443f5d65e7770f4dba7f878b2e72a",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:30:58.782Z",
+      "key": "[\"fca22d57-e7c6-4c51-ada8-fdc692d4d7ae\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Как-то сумбурно получилось. При этом слышно, что понимаешь, что делаешь.",
+        "scoredAt": "2026-10-17T12:30:58.782Z",
+        "userId": "fca22d57-e7c6-4c51-ada8-fdc692d4d7ae"
+      }
+    },
+    {
+      "id": "75673f9f628deec1893d73d9f5e99b8405fce629ee39f26cc57342a63ddaf23d",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:31:04.233Z",
+      "key": "[\"652ce2b5-d4f8-4e28-9fe1-935ed3b425ed\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Нормальная средняя проходная работа",
+        "scoredAt": "2026-10-17T12:31:04.233Z",
+        "userId": "652ce2b5-d4f8-4e28-9fe1-935ed3b425ed"
+      }
+    },
+    {
+      "id": "1fa18a2b5c156a499d2a01a8a49f3d7df0d9e9d946a81d631673932727020054",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:30:04.984Z",
+      "key": "[\"5c784edf-797e-419c-a73c-90abbf254229\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Текст нормальный даже. Но исполнение и сведение подводят.",
+        "scoredAt": "2026-10-17T12:30:04.984Z",
+        "userId": "5c784edf-797e-419c-a73c-90abbf254229"
+      }
+    },
+    {
+      "id": "66ca118442751b0e7977b54a5f6f4df20a1e52e800fd71642aa6a1b208e84e85",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:23:55.795Z",
+      "key": "[\"aab7c038-6fa4-4d44-8253-01a77f3df526\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Строки в паре мест накладываются друг на друга. Слышны склейки. В остальном неплохо. ",
+        "scoredAt": "2026-10-17T12:23:55.795Z",
+        "userId": "aab7c038-6fa4-4d44-8253-01a77f3df526"
+      }
+    },
+    {
+      "id": "ac47d2ac5d45f47cb514d03881060d963554e0a93b2215a4046c4db0665f530c",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:22:59.555Z",
+      "key": "[\"c3db191d-deae-426f-89d8-ead83af1a0d1\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Как Галат рифмует только одна женщина. Читаешь пиздато, не могу понять почему ты онлайн-баттле на не в плейлистах ЯМ. Очень плохая привычка у девочек на баттлах читать о том, что они девочки. У тебя помимо половой принадлежности еще куча интересных сторон я уверен. ",
+        "scoredAt": "2026-10-17T12:22:59.555Z",
+        "userId": "c3db191d-deae-426f-89d8-ead83af1a0d1"
+      }
+    },
+    {
+      "id": "d32e8f55598ac99e025d40f0520b9eb91a4948c98414c7616f1487b7949182aa",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:22:38.580Z",
+      "key": "[\"26fec513-3c1e-4975-8f41-412b04b4ad8f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T12:22:38.580Z",
+        "userId": "26fec513-3c1e-4975-8f41-412b04b4ad8f"
+      }
+    },
+    {
+      "id": "2b7f205b3847aa55b25099c16ac1c0deec3ca76358d46a7629a5ba5a6aa84c8a",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:30:07.538Z",
+      "key": "[\"1b5b8f74-70b8-4810-aa5c-f59108ba65ec\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T12:30:07.538Z",
+        "userId": "1b5b8f74-70b8-4810-aa5c-f59108ba65ec"
+      }
+    },
+    {
+      "id": "1d12127dd0b3aa6db97446f151a278b48221c8499b6bfbe47cf67c0d15094bf6",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:31:49.935Z",
+      "key": "[\"750ff312-243f-4a4d-a1c1-a560462ef81a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T12:31:49.935Z",
+        "userId": "750ff312-243f-4a4d-a1c1-a560462ef81a"
+      }
+    },
+    {
+      "id": "5a5606f41b04291976f97e782149f6bb3fee376da0ad09bbbc6d0493f62e6001",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:28:53.249Z",
+      "key": "[\"abd871df-66ae-4200-a4cf-9598229d7d8e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Интересная задумка, но местами прям не вывез её. В целом проходная работа.",
+        "scoredAt": "2026-10-17T12:28:53.249Z",
+        "userId": "abd871df-66ae-4200-a4cf-9598229d7d8e"
+      }
+    },
+    {
+      "id": "5f6db4be330b977329d8b24fbe10c59bb23679712f8c488f6f26808add700085",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:22:30.896Z",
+      "key": "[\"af5cac5d-fc1a-4202-a7d0-55f1f36921e8\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Забавный текст. По форме так себе, но по содержанию забавный. Исполнение слабовато получилось, но потенциально можешь.",
+        "scoredAt": "2026-10-17T12:22:30.896Z",
+        "userId": "af5cac5d-fc1a-4202-a7d0-55f1f36921e8"
+      }
+    },
+    {
+      "id": "fd1964dfa556a194af8d951bd7e7b00303ee654d5098c20a5018fb0fc1087472",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:25:29.835Z",
+      "key": "[\"b0a4bf3c-29d1-46ec-8c4d-cf070a366003\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Ну срифмовал лучше, чем Бабан. Но это несложно вообще. Хорошая крепкая работа.",
+        "scoredAt": "2026-10-17T12:25:29.835Z",
+        "userId": "b0a4bf3c-29d1-46ec-8c4d-cf070a366003"
+      }
+    },
+    {
+      "id": "d670a13fdf6e08586c2e412f80da2d18e19ec5315b1939addb00a31f7d3eccd4",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:32:01.743Z",
+      "key": "[\"f4451ff8-d21f-48d7-93ca-9a88244452f6\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Не хватает качества записи, в остальном ровненько получилось, на проход.",
+        "scoredAt": "2026-10-17T12:32:01.743Z",
+        "userId": "f4451ff8-d21f-48d7-93ca-9a88244452f6"
+      }
+    },
+    {
+      "id": "6323cc88e9a2d11516c0fea54ca37d464eabe61c6a0ea25068b611a80360f628",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:32:11.803Z",
+      "key": "[\"98f3778a-cb7a-4cd8-8124-26296560db9b\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Круто, что написал бит, но в целом его почти не слышно. По тексту норм, но хорошее уверенное исполнение.",
+        "scoredAt": "2026-10-17T12:32:11.803Z",
+        "userId": "98f3778a-cb7a-4cd8-8124-26296560db9b"
+      }
+    },
+    {
+      "id": "3e3cf36be79233638c28afdbebb031536919641da3e0772cc46bd41e23adeb90",
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "sourceScoredAt": "2026-10-17T12:24:25.704Z",
+      "key": "[\"313a9cf3-97e6-4282-85c2-a93a52e0e9f5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T12:24:25.704Z",
+        "userId": "313a9cf3-97e6-4282-85c2-a93a52e0e9f5"
+      }
     }
   ],
   "snapshots": [
@@ -142371,6 +142749,26 @@
           "index": 28.647685758811818,
           "favor": 17.749533650062663,
           "attention": 0.10269756329461097,
+          "respect": 10.795454545454545
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T12:32:21.025Z",
+      "exportedAt": "2026-10-17T12:32:21.025Z",
+      "scores": 12635,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.166076504152535,
+          "favor": 9.27955600037994,
+          "attention": 6.337607460294332,
+          "respect": 6.548913043478261
+        },
+        "veterans": {
+          "index": 28.712923721928753,
+          "favor": 17.755429605985476,
+          "attention": 0.16203957048873324,
           "respect": 10.795454545454545
         }
       }
