@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T17:32:06.962Z",
-  "exportedAt": "2026-10-17T17:32:06.962Z",
-  "runId": "2026-10-17T17:32:06.962Z",
-  "forumExportedAt": "2026-10-17T17:32:06.962Z",
+  "lastSuccessfulAt": "2026-10-17T17:42:01.695Z",
+  "exportedAt": "2026-10-17T17:42:01.695Z",
+  "runId": "2026-10-17T17:42:01.695Z",
+  "forumExportedAt": "2026-10-17T17:42:01.695Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13175,
+    "scores": 13182,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7049,
-    "scoresBefore": 13170,
-    "scoresAfter": 13175,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 6,
+    "logicalRequests": 10,
+    "durationMs": 10029,
+    "scoresBefore": 13175,
+    "scoresAfter": 13182,
     "fullBaselineRequests": 3247,
-    "requestReductionPercent": 99.78441638435478,
+    "requestReductionPercent": 99.69202340622113,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "грязный рай",
+          "comment": "Звучит как затянутая интруха, ещё и тюн шакальный. Не знаю бро весь трек режет ухо как-то.",
+          "scoredAt": "2026-10-17T17:40:31.782Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Stalemate",
+          "comment": "Настелил не плохо, единственное я может последний отрывок наоборот в напор дал, но в целом нормас.",
+          "scoredAt": "2026-10-17T17:38:05.464Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Пахарь-Трахарь",
+          "comment": "По флоу нормас, по тексту тоже не плохо, но что с звуком",
+          "scoredAt": "2026-10-17T17:36:16.840Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Zet Nelson",
+          "comment": "Носил Це-Пииии , бро ритмически очень странная работа, не хватило смены интонации, текст +-",
+          "scoredAt": "2026-10-17T17:35:24.323Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "s.a.c.s.p.",
+          "comment": "ну слушай лэди есть какая то свэга. хочется еще рэка какого то техтового. ну типа окей у тебя все хорошо в жизни. но и слушателя то повесели как то блинб!",
+          "scoredAt": "2026-10-17T17:34:43.157Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "ЭЛФИ",
+          "comment": "По раскрытию есть вопросы, ну и куплетик стоило разнообразить",
+          "scoredAt": "2026-10-17T17:34:11.653Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "бери кредит идем бухать",
           "comment": "Брад вот ровный рэб ты стелишь. Но буквально несколько песен до тебя - с идентичным раскрытием. Ну средне в общем! Давай глубже копни во 2м раунде.",
           "scoredAt": "2026-10-17T17:20:20.769Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "artist": "guardel",
-          "comment": "Искусство не судится",
-          "scoredAt": "2026-10-17T17:20:13.993Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "ShagzaShagom",
-          "comment": "Авансом 4, считай что спасательный круг. Во втором раунде поработай над текстом, потанцевал в тебе есть, используй свои лучшие стороны и уверенные скилы, панчлайны тебе в помощь броузи",
-          "scoredAt": "2026-10-17T17:19:48.953Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "какпошло это #lamp_gang",
-          "comment": "Ну всё на один манер и местами как буд-то не удобно тебе читать свой же текст",
-          "scoredAt": "2026-10-17T17:19:11.296Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Иван Силва",
-          "comment": "Душновато братуха. Хотя идея в хуке неплохая, такой типа акционизм, жаль только что посыл твоей песни - это раскрытие бувально 65% песен на раунд.",
-          "scoredAt": "2026-10-17T17:18:05.444Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "struggle five",
-          "comment": "Пока рановато. ",
-          "scoredAt": "2026-10-17T17:18:01.391Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Веялеб Атикин",
-          "comment": "Не хватает смены подачи и флоу всё на один манер во всём треке",
-          "scoredAt": "2026-10-17T17:17:53.537Z"
         }
       ]
     }

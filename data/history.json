@@ -142836,6 +142836,104 @@
         "scoredAt": "2026-10-17T17:29:09.798Z",
         "userId": "854b38cc-1064-4587-b12f-401d2a0e0608"
       }
+    },
+    {
+      "id": "17d069ae2340cccaf11f878339048c41382f47539c1a4e16148e5c39800b3bbb",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:40:31.782Z",
+      "key": "[\"e493b04e-1930-4f2a-9c47-7632cf60749b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Звучит как затянутая интруха, ещё и тюн шакальный. Не знаю бро весь трек режет ухо как-то.",
+        "scoredAt": "2026-10-17T17:40:31.782Z",
+        "userId": "e493b04e-1930-4f2a-9c47-7632cf60749b"
+      }
+    },
+    {
+      "id": "013fe6ab443efe1a8d042509bbcd1fc97d3f3fe139f6aa533d7330ad4411a7ad",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:34:11.653Z",
+      "key": "[\"67c62e9d-12d3-466d-ab25-de48d155a057\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По раскрытию есть вопросы, ну и куплетик стоило разнообразить",
+        "scoredAt": "2026-10-17T17:34:11.653Z",
+        "userId": "67c62e9d-12d3-466d-ab25-de48d155a057"
+      }
+    },
+    {
+      "id": "ec771320ea20ac1dd5c374124bb416c04f0916e93169113f4c8efa9f49d9a64b",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:41:57.514Z",
+      "key": "[\"5e30cb6c-3b7f-4174-9ff5-e8368b05e6ba\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "по тексту есть шаблоны, куплет ровно зачитан, но как то без изюминки",
+        "scoredAt": "2026-10-17T17:41:57.514Z",
+        "userId": "5e30cb6c-3b7f-4174-9ff5-e8368b05e6ba"
+      }
+    },
+    {
+      "id": "5978909e4af9e71477cc2ef7ab05d5cda26a5ca2be0adc8df72710b2056e54e9",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:34:43.157Z",
+      "key": "[\"6156c9c2-2471-4f9a-a8ad-50c9b7857fe1\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "ну слушай лэди есть какая то свэга. хочется еще рэка какого то техтового. ну типа окей у тебя все хорошо в жизни. но и слушателя то повесели как то блинб!",
+        "scoredAt": "2026-10-17T17:34:43.157Z",
+        "userId": "6156c9c2-2471-4f9a-a8ad-50c9b7857fe1"
+      }
+    },
+    {
+      "id": "c2fd7331ec724b1e047e17abe911bd16b1600c5f39937ed27f60b515a5bb5b71",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:35:24.323Z",
+      "key": "[\"37bece09-e42c-4616-bfea-40015ce6a403\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Носил Це-Пииии , бро ритмически очень странная работа, не хватило смены интонации, текст +-",
+        "scoredAt": "2026-10-17T17:35:24.323Z",
+        "userId": "37bece09-e42c-4616-bfea-40015ce6a403"
+      }
+    },
+    {
+      "id": "5f0cac3498a570dd02deec467b925414b8ef1283c1e8b132a41ae487d7515012",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:38:05.464Z",
+      "key": "[\"9177fc94-636e-4ca3-be47-cb455581ee92\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Настелил не плохо, единственное я может последний отрывок наоборот в напор дал, но в целом нормас.",
+        "scoredAt": "2026-10-17T17:38:05.464Z",
+        "userId": "9177fc94-636e-4ca3-be47-cb455581ee92"
+      }
+    },
+    {
+      "id": "5807fbcd44fad199ee5a4026db5958eebdf57b8cb400dbf43832e04d3f0f0812",
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "sourceScoredAt": "2026-10-17T17:36:16.840Z",
+      "key": "[\"07ec54e0-e793-475e-a9e7-5fe4ea5ad42b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По флоу нормас, по тексту тоже не плохо, но что с звуком",
+        "scoredAt": "2026-10-17T17:36:16.840Z",
+        "userId": "07ec54e0-e793-475e-a9e7-5fe4ea5ad42b"
+      }
     }
   ],
   "snapshots": [
@@ -151055,6 +151153,26 @@
           "index": 29.61602706566174,
           "favor": 17.787683391187606,
           "attention": 1.082075017757716,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T17:42:01.695Z",
+      "exportedAt": "2026-10-17T17:42:01.695Z",
+      "scores": 13182,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.885976808197107,
+          "favor": 9.24769279783652,
+          "attention": 6.1718529149542265,
+          "respect": 6.46643109540636
+        },
+        "veterans": {
+          "index": 29.6352653239628,
+          "favor": 17.789670973763915,
+          "attention": 1.099325693482467,
           "respect": 10.746268656716419
         }
       }
