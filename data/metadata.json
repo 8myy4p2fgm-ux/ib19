@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T06:51:52.739Z",
-  "exportedAt": "2026-10-17T06:51:52.739Z",
-  "runId": "2026-10-17T06:51:52.739Z",
-  "forumExportedAt": "2026-10-17T06:51:52.739Z",
+  "lastSuccessfulAt": "2026-10-17T07:01:51.162Z",
+  "exportedAt": "2026-10-17T07:01:51.162Z",
+  "runId": "2026-10-17T07:01:51.162Z",
+  "forumExportedAt": "2026-10-17T07:01:51.162Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12102,
+    "scores": 12104,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6192,
-    "scoresBefore": 12098,
-    "scoresAfter": 12102,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4128,
+    "scoresBefore": 12102,
+    "scoresAfter": 12104,
     "fullBaselineRequests": 3212,
-    "requestReductionPercent": 99.813200498132,
+    "requestReductionPercent": 99.87546699875467,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "artist": "DEADSHOT",
+          "comment": "Спасибо за трек! \nТекст: слабенько\nИсполнение: скучно\nОбщее впечатление: пока что рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T06:53:27.456Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "жжёные васильки",
+          "comment": "Спасибо за трек! \nТекст: интересная рифмовка, но можешь лучше\nИсполнение: неплохо читаешь, есть чтото интересное, добавь немного эмоцией\nОбщее впечатление: технично исполняешь, проход во втором обеспечен\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T06:53:02.979Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -173,20 +187,6 @@
           "artist": "V",
           "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: скучно читать по слогам\nОбщее впечатление: слабо очень и неинтересно, рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-17T06:29:58.705Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "Никита Лазарев",
-          "comment": "Спасибо за трек! \nТекст: скучно, хотя и идея неплохая была\nИсполнение: скучно и монотонно\nОбщее впечатление: очень слабо для баттла, не реализовал идею\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:29:27.705Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 1,
-          "artist": "HUNTER",
-          "comment": "Спасибо за трек! \nТекст: слабый\nИсполнение: скучно и неграмотно\nОбщее впечатление: кринжово звучишь, такое во второй рано пускать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:28:48.532Z"
         }
       ]
     }
