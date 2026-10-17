@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T10:22:11.836Z",
-  "exportedAt": "2026-10-17T10:22:11.836Z",
-  "runId": "2026-10-17T10:22:11.836Z",
-  "forumExportedAt": "2026-10-17T10:22:11.836Z",
+  "lastSuccessfulAt": "2026-10-17T10:32:17.063Z",
+  "exportedAt": "2026-10-17T10:32:17.063Z",
+  "runId": "2026-10-17T10:32:17.063Z",
+  "forumExportedAt": "2026-10-17T10:32:17.063Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12385,
+    "scores": 12400,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 24,
+    "httpRequests": 18,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 22,
+    "updatedCards": 15,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 22,
-    "changedParticipants": 22,
-    "logicalRequests": 24,
-    "durationMs": 23962,
-    "scoresBefore": 12363,
-    "scoresAfter": 12385,
+    "participantsWithNewScores": 15,
+    "changedParticipants": 14,
+    "logicalRequests": 18,
+    "durationMs": 17746,
+    "scoresBefore": 12385,
+    "scoresAfter": 12400,
     "fullBaselineRequests": 3225,
-    "requestReductionPercent": 99.25581395348837,
+    "requestReductionPercent": 99.44186046511628,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Arteline",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:31:02.095Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "sinus",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:30:05.373Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "MR. KENNY",
+          "comment": "золотая середина",
+          "scoredAt": "2026-10-17T10:29:02.261Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Хром",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:28:02.178Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "NODAROVICH",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:27:16.152Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "VSEMIRNO",
+          "comment": "ровно ",
+          "scoredAt": "2026-10-17T10:26:45.601Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Silver",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:26:31.118Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Simple Rhyme",
+          "comment": "странная ритмика очень, но идейно ",
+          "scoredAt": "2026-10-17T10:26:19.594Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "leha_plus",
+          "comment": "золотая середина",
+          "scoredAt": "2026-10-17T10:25:57.140Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Vlad Bul",
+          "comment": "дал проходку, но рно огромное надо сделать\n\nритм теряешь, рифмуешь хорей-дверей + демка демочная ",
+          "scoredAt": "2026-10-17T10:25:47.910Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Prolife",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:24:55.513Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "flow",
+          "comment": "идейно",
+          "scoredAt": "2026-10-17T10:24:44.249Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Стихотворение под бит",
+          "comment": "поэтично?",
+          "scoredAt": "2026-10-17T10:24:14.653Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "MegaWolt",
+          "comment": "",
+          "scoredAt": "2026-10-17T10:22:57.200Z"
+        },
+        {
           "judgeName": "KseroN",
           "score": 3,
           "artist": "YASPAL",
           "comment": "",
           "scoredAt": "2026-10-17T10:21:44.890Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Перманент",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:21:22.697Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "АнтропониМ",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:20:46.336Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "19 независимый ебатель",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:20:31.295Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "BlueTit",
-          "comment": "рановато, нужно много работать, я дам проход) но хз, что другие поставят.\n\nголос приятный ",
-          "scoredAt": "2026-10-17T10:20:06.370Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "НЛШ",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:18:53.647Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "дачтотычёртпоберитакоенесёшь",
-          "comment": "Мне нравится как ты в одной четверке размышляешь про панчи и в следующей \"тутутуту - тататата\". Звучишь хорошо, чопы в конце вообще кайф, но текст слабый.",
-          "scoredAt": "2026-10-17T10:18:12.560Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Resonanse",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:17:44.330Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Desperto",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:17:02.087Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Алекс Виски",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:16:32.474Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "FreeГад",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:16:22.573Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Greenflex",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:15:54.983Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Stas L'artiste",
-          "comment": "",
-          "scoredAt": "2026-10-17T10:15:30.088Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "НА ГРАНИ ФОЛА",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T10:14:39.730Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Том Сойер",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T10:14:08.236Z"
         }
       ]
     }

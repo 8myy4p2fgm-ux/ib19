@@ -131630,6 +131630,216 @@
         "scoredAt": "2026-10-17T10:17:44.330Z",
         "userId": "514a8aa1-fece-487c-b0ed-b9b86d7966de"
       }
+    },
+    {
+      "id": "5f00accd0f43be96b423b1b36cc9f45a0ad041f9f400b50516cc40a9b277cff6",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:28:02.178Z",
+      "key": "[\"2a4041c4-b2bb-4260-9ab0-4069d600598a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:28:02.178Z",
+        "userId": "2a4041c4-b2bb-4260-9ab0-4069d600598a"
+      }
+    },
+    {
+      "id": "358e9f9658a9aff7cc4b5fbdc8cfb23f483c159ca20d676aca3e29a17244051d",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:31:02.095Z",
+      "key": "[\"099c7b7e-0945-4f44-81c5-80c63e148e8c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:31:02.095Z",
+        "userId": "099c7b7e-0945-4f44-81c5-80c63e148e8c"
+      }
+    },
+    {
+      "id": "fdb9768d9d7a5a4c99fa866cec18d82ffdd2af6a83bfe3b52ae1ddb7d1cb3094",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:32:12.392Z",
+      "key": "[\"71b0a43e-8a13-40de-aad4-958548ad07f5\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:32:12.392Z",
+        "userId": "71b0a43e-8a13-40de-aad4-958548ad07f5"
+      }
+    },
+    {
+      "id": "95468b8ee6839b606e75b85ccf6f94dc369cf05c32cd23c84c69322459bdb4c6",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:26:45.601Z",
+      "key": "[\"c982c476-9425-422b-829a-1f606527624d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "ровно ",
+        "scoredAt": "2026-10-17T10:26:45.601Z",
+        "userId": "c982c476-9425-422b-829a-1f606527624d"
+      }
+    },
+    {
+      "id": "a7a7adc72106cb955aa9fca5f74df912c8e940c8f806d491e9ec0e625c0d49ec",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:27:16.152Z",
+      "key": "[\"d5483a6e-c618-4182-b624-defa581b6664\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:27:16.152Z",
+        "userId": "d5483a6e-c618-4182-b624-defa581b6664"
+      }
+    },
+    {
+      "id": "7b047d18575a76b332a1270d91f2fe27f21e7455ad17114cc52744b13a7fc2b9",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:22:57.200Z",
+      "key": "[\"7335806f-1cf9-4168-9eec-770830bab624\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:22:57.200Z",
+        "userId": "7335806f-1cf9-4168-9eec-770830bab624"
+      }
+    },
+    {
+      "id": "492a325f7350b27675dcd615db01decd0ecd15f052cd08218e96bb9a2306e3e8",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:29:02.261Z",
+      "key": "[\"91a97760-b273-4b9c-b91b-49b57e9bd650\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая середина",
+        "scoredAt": "2026-10-17T10:29:02.261Z",
+        "userId": "91a97760-b273-4b9c-b91b-49b57e9bd650"
+      }
+    },
+    {
+      "id": "abc99a3dab3f6bd48861b2f9a9e12abf4a99ac55cda70201481baba69afea0f8",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:26:19.594Z",
+      "key": "[\"9cf00dd6-d493-4f95-bae4-a022da327ba4\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "странная ритмика очень, но идейно ",
+        "scoredAt": "2026-10-17T10:26:19.594Z",
+        "userId": "9cf00dd6-d493-4f95-bae4-a022da327ba4"
+      }
+    },
+    {
+      "id": "85b4b8373174779af2cb9b7e275ac3f89fcadc43bd9ede909e58e4b71abd8845",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:24:44.249Z",
+      "key": "[\"f427961b-f1ac-4cee-96da-d0b365a8bf40\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "идейно",
+        "scoredAt": "2026-10-17T10:24:44.249Z",
+        "userId": "f427961b-f1ac-4cee-96da-d0b365a8bf40"
+      }
+    },
+    {
+      "id": "25d38c1f657f64008b692a6582502be762b83b3179ae755414378e25cdb7a04a",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:25:47.910Z",
+      "key": "[\"d13da139-286b-4e47-865a-03092ad067d6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "дал проходку, но рно огромное надо сделать\n\nритм теряешь, рифмуешь хорей-дверей + демка демочная ",
+        "scoredAt": "2026-10-17T10:25:47.910Z",
+        "userId": "d13da139-286b-4e47-865a-03092ad067d6"
+      }
+    },
+    {
+      "id": "9e32f700a06ed0cb2773b6bd28e9fc700e7a2236863f9aa009ff884bc6d98217",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:25:57.140Z",
+      "key": "[\"73af9d54-e788-4629-97eb-31aaf790012d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "золотая середина",
+        "scoredAt": "2026-10-17T10:25:57.140Z",
+        "userId": "73af9d54-e788-4629-97eb-31aaf790012d"
+      }
+    },
+    {
+      "id": "f6c17e71a64faab6608d871da234747d38e54e145ed5040712e7991ef4495432",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:26:31.118Z",
+      "key": "[\"49bc7299-6594-469a-a4b8-a67c516e2ddc\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:26:31.118Z",
+        "userId": "49bc7299-6594-469a-a4b8-a67c516e2ddc"
+      }
+    },
+    {
+      "id": "03acdb17d6cc62e785dba072fd138f4384e3fbea68da96f48b044931314fe9b2",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:24:14.653Z",
+      "key": "[\"0eb391e3-088e-48b6-b138-bb0487f1c738\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "поэтично?",
+        "scoredAt": "2026-10-17T10:24:14.653Z",
+        "userId": "0eb391e3-088e-48b6-b138-bb0487f1c738"
+      }
+    },
+    {
+      "id": "d7abbd0ec7aff3e2b1cb9863baa8ab6319fc9df567c0a0f15966f34a7a4ad8c1",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:24:55.513Z",
+      "key": "[\"20935beb-dfb2-481c-9b19-296b63025831\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:24:55.513Z",
+        "userId": "20935beb-dfb2-481c-9b19-296b63025831"
+      }
+    },
+    {
+      "id": "8b476ccbd918039b11bdb6dd304d4cd66fc1e9de9686dea31b5c66b4313e07d6",
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "sourceScoredAt": "2026-10-17T10:30:05.373Z",
+      "key": "[\"62194a08-947a-4a0a-808f-6d573dde99ec\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:30:05.373Z",
+        "userId": "62194a08-947a-4a0a-808f-6d573dde99ec"
+      }
     }
   ],
   "snapshots": [
@@ -139009,6 +139219,26 @@
           "index": 28.73016897594537,
           "favor": 17.797570850202433,
           "attention": 0.08644427958909105,
+          "respect": 10.846153846153847
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T10:32:17.063Z",
+      "exportedAt": "2026-10-17T10:32:17.063Z",
+      "scores": 12400,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.06933724462358,
+          "favor": 9.259418442124117,
+          "attention": 6.240575736806032,
+          "respect": 6.569343065693431
+        },
+        "veterans": {
+          "index": 28.74324825927857,
+          "favor": 17.794997178860264,
+          "attention": 0.10209723426446012,
           "respect": 10.846153846153847
         }
       }
