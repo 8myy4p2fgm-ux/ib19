@@ -128788,6 +128788,188 @@
         "scoredAt": "2026-10-17T08:48:31.779Z",
         "userId": "670a03fd-af63-4471-8e4b-6c4294a6b945"
       }
+    },
+    {
+      "id": "a6e348ae55abb317ae893c3508606cd9386aba918733d04ab38a03d01b279f48",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T09:00:13.745Z",
+      "key": "[\"878b9cc4-142e-4335-b3f1-740237098795\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:00:13.745Z",
+        "userId": "878b9cc4-142e-4335-b3f1-740237098795"
+      }
+    },
+    {
+      "id": "77fb0368ad7b468dfd236ad9bade768dd1def2d36e7e7f8e064b9b24140cde33",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:55:23.592Z",
+      "key": "[\"395fa76b-34cf-4172-9908-8131d2820055\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Текст обо всём и ни о чём получился. Но звучит неплохо.",
+        "scoredAt": "2026-10-17T08:55:23.592Z",
+        "userId": "395fa76b-34cf-4172-9908-8131d2820055"
+      }
+    },
+    {
+      "id": "f0320afd6752c1eaf508eac21456b2593eb1810758b7bf0796ead9a256fa7958",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:53:02.086Z",
+      "key": "[\"fb590835-4bc9-4ed1-92f3-54118c15dacd\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Приятно звучит, дефолтный рэп, голос у тебя хороший, текст пустой рэп ради рэпа , тебе бы строчек крутых/панчлайнов.. Разнообразия нет, а мог бы на изи 4 забрать, а если бы пару строк интересных, крутых дал то еще и 5ку",
+        "scoredAt": "2026-10-17T08:53:02.086Z",
+        "userId": "fb590835-4bc9-4ed1-92f3-54118c15dacd"
+      }
+    },
+    {
+      "id": "76485a7558b92939b3d08227dd89d6eb8ad89039239e5244291200bcd3368be4",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:52:44.484Z",
+      "key": "[\"8ef6f3bd-362e-41cc-b416-f04ebdd53b53\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:52:44.484Z",
+        "userId": "8ef6f3bd-362e-41cc-b416-f04ebdd53b53"
+      }
+    },
+    {
+      "id": "ae6e29a11d651f0ae4a5df5110ddd4a0bb2a7ddf10abade30695dfc83ffd301c",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:57:52.996Z",
+      "key": "[\"c380bbd5-5772-4a3a-8992-de96e8eca391\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Блин, ну классно лежишь на бите, рифмы некоторые конечно капец... Текст пустой, целая минута у тебя была ( мне нравится как звучит , тему как-никак затронул. Давай пэнчиков добавляй, впереди же самый смак - парные раунды а строк не показал нам тут хлёсткий.. Лови проходной, но не выше, не за что зацепиться чтоб поставить выше",
+        "scoredAt": "2026-10-17T08:57:52.996Z",
+        "userId": "c380bbd5-5772-4a3a-8992-de96e8eca391"
+      }
+    },
+    {
+      "id": "f1b6eea5c2157bc35bc392c81bf5560c830d9440296cb66ce073218ba4f9ce96",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:53:48.667Z",
+      "key": "[\"e0dce327-bdf4-4f16-a1c1-462ce85d0be9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:53:48.667Z",
+        "userId": "e0dce327-bdf4-4f16-a1c1-462ce85d0be9"
+      }
+    },
+    {
+      "id": "052f2176b40a1b16e87e74a8a584253406a17a04f8ab12711a17908252f2b440",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:56:29.967Z",
+      "key": "[\"c91b36b5-4432-45ff-933f-70ec9edd9d3f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:56:29.967Z",
+        "userId": "c91b36b5-4432-45ff-933f-70ec9edd9d3f"
+      }
+    },
+    {
+      "id": "2df0e2f92dd0e3f13819ba97ea92eaa70561942bc6fe813102e8dbd2cea11fbf",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T09:01:05.910Z",
+      "key": "[\"cd8d2b82-9c28-4b93-8227-4b8435888de1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:01:05.910Z",
+        "userId": "cd8d2b82-9c28-4b93-8227-4b8435888de1"
+      }
+    },
+    {
+      "id": "0346978edcd6dc62d8504f81609e5b0031cf38848ab47047f1f20792148c248f",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:58:13.996Z",
+      "key": "[\"819bf872-7424-44c2-86fd-d184519c05ba\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:58:13.996Z",
+        "userId": "819bf872-7424-44c2-86fd-d184519c05ba"
+      }
+    },
+    {
+      "id": "21f880099159e065dc405f8ea4c8ee33b8a35308716ae452c8ce6c2dff65ecdb",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:57:43.465Z",
+      "key": "[\"3df95504-c0a0-4581-b5de-db8ffe9951e3\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "По исполнению сделал хорошо, необычно. Текстово просел, однокоренные рифмы, простенькие мысли изложил.",
+        "scoredAt": "2026-10-17T08:57:43.465Z",
+        "userId": "3df95504-c0a0-4581-b5de-db8ffe9951e3"
+      }
+    },
+    {
+      "id": "59c9fca9d03424cf16a2b7ac165a8e8000241b2841bd89a8a3cf589081688214",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:59:38.253Z",
+      "key": "[\"db7f88bd-1546-40ae-ad36-73e006ce3ba7\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:59:38.253Z",
+        "userId": "db7f88bd-1546-40ae-ad36-73e006ce3ba7"
+      }
+    },
+    {
+      "id": "2bf65c6dc73f54e39fd19aa54adf30e5f18c752433881246743a070d490f3bbd",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:55:14.640Z",
+      "key": "[\"29d86c5d-d908-4c61-9aec-aa3d2aebd40b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:55:14.640Z",
+        "userId": "29d86c5d-d908-4c61-9aec-aa3d2aebd40b"
+      }
+    },
+    {
+      "id": "18747e80d5aa2aeedf78310b86d66949a97233e820897c2ee3ce38540668c41e",
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "sourceScoredAt": "2026-10-17T08:59:25.509Z",
+      "key": "[\"5ab336de-4472-4311-80b7-ac5d61a40b7c\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Текст не понравился, особенно рифмовка. Зачитал неплохо. В следующем раунде нужно еще добавить к этому хороший тексток и можно побороться.",
+        "scoredAt": "2026-10-17T08:59:25.509Z",
+        "userId": "5ab336de-4472-4311-80b7-ac5d61a40b7c"
+      }
     }
   ],
   "snapshots": [
@@ -135987,6 +136169,26 @@
           "index": 29.003132301388696,
           "favor": 18.030423767893357,
           "attention": -0.015663559527919497,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T09:02:15.893Z",
+      "exportedAt": "2026-10-17T09:02:15.893Z",
+      "scores": 12195,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.000006289869546,
+          "favor": 9.252490086662206,
+          "attention": 6.154109609800748,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 29.015303874481653,
+          "favor": 18.025973425230994,
+          "attention": 0.0009583562273987657,
           "respect": 10.988372093023257
         }
       }

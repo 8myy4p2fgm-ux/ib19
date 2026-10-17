@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T08:52:03.769Z",
-  "exportedAt": "2026-10-17T08:52:03.769Z",
-  "runId": "2026-10-17T08:52:03.769Z",
-  "forumExportedAt": "2026-10-17T08:52:03.769Z",
+  "lastSuccessfulAt": "2026-10-17T09:02:15.893Z",
+  "exportedAt": "2026-10-17T09:02:15.893Z",
+  "runId": "2026-10-17T09:02:15.893Z",
+  "forumExportedAt": "2026-10-17T09:02:15.893Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12182,
+    "scores": 12195,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 15,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 13,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 12045,
-    "scoresBefore": 12172,
-    "scoresAfter": 12182,
-    "fullBaselineRequests": 3213,
-    "requestReductionPercent": 99.6265172735761,
+    "participantsWithNewScores": 13,
+    "changedParticipants": 13,
+    "logicalRequests": 15,
+    "durationMs": 14762,
+    "scoresBefore": 12182,
+    "scoresAfter": 12195,
+    "fullBaselineRequests": 3214,
+    "requestReductionPercent": 99.53329184816428,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -86,6 +86,97 @@
         {
           "judgeName": "AL Hammer",
           "score": 3,
+          "artist": "YVNLTRIP",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:01:05.910Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "GENRIXXX",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:00:13.745Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Гладкий",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:59:38.253Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "brooxwood",
+          "comment": "Текст не понравился, особенно рифмовка. Зачитал неплохо. В следующем раунде нужно еще добавить к этому хороший тексток и можно побороться.",
+          "scoredAt": "2026-10-17T08:59:25.509Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Двигаюсь иначе",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:58:13.996Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Кинсай",
+          "comment": "Блин, ну классно лежишь на бите, рифмы некоторые конечно капец... Текст пустой, целая минута у тебя была ( мне нравится как звучит , тему как-никак затронул. Давай пэнчиков добавляй, впереди же самый смак - парные раунды а строк не показал нам тут хлёсткий.. Лови проходной, но не выше, не за что зацепиться чтоб поставить выше",
+          "scoredAt": "2026-10-17T08:57:52.996Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "Mrmris",
+          "comment": "По исполнению сделал хорошо, необычно. Текстово просел, однокоренные рифмы, простенькие мысли изложил.",
+          "scoredAt": "2026-10-17T08:57:43.465Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Tipsyxgipsy",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:56:29.967Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "soldi",
+          "comment": "Текст обо всём и ни о чём получился. Но звучит неплохо.",
+          "scoredAt": "2026-10-17T08:55:23.592Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Xakas",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:55:14.640Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "горилла манго",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:53:48.667Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Dobromyslov",
+          "comment": "Приятно звучит, дефолтный рэп, голос у тебя хороший, текст пустой рэп ради рэпа , тебе бы строчек крутых/панчлайнов.. Разнообразия нет, а мог бы на изи 4 забрать, а если бы пару строк интересных, крутых дал то еще и 5ку",
+          "scoredAt": "2026-10-17T08:53:02.086Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Артист",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:52:44.484Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
           "artist": "Screw Skeng",
           "comment": "",
           "scoredAt": "2026-10-17T08:51:23.851Z"
@@ -96,97 +187,6 @@
           "artist": "Shiko",
           "comment": "Золотая середина",
           "scoredAt": "2026-10-17T08:50:29.995Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Kaen",
-          "comment": "Бит ебейший!! Пиздец просто пушка.",
-          "scoredAt": "2026-10-17T08:49:28.905Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Emoji",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:48:31.779Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "CardinaL",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:47:49.310Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "19 независимый ебатель",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:46:46.409Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "LeshatelZ",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:45:56.925Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Плохой Поэт",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:45:08.137Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "NWR",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T08:44:19.543Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Yyong",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:42:55.943Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "RUSO FARRISTA",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:41:44.915Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Генацидов",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:40:24.722Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "21 keyz",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:39:34.804Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Железный Джон",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:38:56.851Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "Антон Zabe",
-          "comment": "Надо было гимн SLOVO SPB загружать ",
-          "scoredAt": "2026-10-17T08:38:36.794Z"
         }
       ]
     }
