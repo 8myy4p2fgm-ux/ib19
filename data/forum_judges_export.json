@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-17T00:12:01.113Z",
+  "exportedAt": "2026-10-17T00:22:00.991Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1278,6 +1278,12 @@
       "forum_name": "саша хепи",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Это какая-то абстракция, я вообще не понимаю половину твоего текста. Структурировать бы все эти мысли.",
+          "scoredAt": "2026-10-17T00:20:02.794Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
