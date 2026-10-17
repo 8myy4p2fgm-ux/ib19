@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T08:42:01.082Z",
+  "exportedAt": "2026-10-17T08:52:03.769Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -13538,8 +13538,14 @@
     },
     {
       "userId": "c9ac6f0a-9a19-49f7-a47c-74cf18bd28e2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:45:08.137Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -13553,7 +13559,7 @@
           "scoredAt": "2026-10-14T14:34:55.355Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:02:47.880Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Плохой Поэт",
       "artistSlug": "plohoy-poet"
@@ -15146,8 +15152,14 @@
     },
     {
       "userId": "f757723e-a00a-4f38-ace5-7cd2ba6d4674",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T08:50:29.995Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -15173,7 +15185,7 @@
           "scoredAt": "2026-08-31T12:16:22.587Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Shiko",
       "artistSlug": "shiko"
@@ -27548,8 +27560,14 @@
     },
     {
       "userId": "c554c1b0-9213-4ea6-a3cd-e332aee64a1c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:47:49.310Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 5,
@@ -27569,7 +27587,7 @@
           "scoredAt": "2026-10-12T17:03:39.509Z"
         }
       ],
-      "fetchedAt": "2026-10-17T04:51:58.603Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "CardinaL",
       "artistSlug": "cardinal"
@@ -64208,8 +64226,14 @@
     },
     {
       "userId": "1816ae6b-5156-47f1-9612-5ed55e08f1b1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Бит ебейший!! Пиздец просто пушка.",
+          "scoredAt": "2026-10-17T08:49:28.905Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -64229,7 +64253,7 @@
           "scoredAt": "2026-09-27T10:50:24.385Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Kaen",
       "artistSlug": "kaen"
@@ -80713,8 +80737,14 @@
     },
     {
       "userId": "7231d1d4-e023-455b-be59-d2e534f186ca",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T08:44:19.543Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -80734,7 +80764,7 @@
           "scoredAt": "2026-10-15T11:46:46.783Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:22:01.497Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "NWR",
       "artistSlug": "nwr"
@@ -89530,8 +89560,14 @@
     },
     {
       "userId": "30c3f6e4-d4ea-4d7e-ad89-acb64f273171",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:46:46.409Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -89545,7 +89581,7 @@
           "scoredAt": "2026-10-12T19:21:41.484Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "19 независимый ебатель",
       "artistSlug": "19-nezavisimyy-ebatel"
@@ -98523,8 +98559,14 @@
     },
     {
       "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:42:55.943Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -98538,7 +98580,7 @@
           "scoredAt": "2026-10-08T13:49:40.484Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Yyong",
       "artistSlug": "yyong"
@@ -101253,8 +101295,14 @@
     },
     {
       "userId": "62c7d477-cb03-443a-8283-efdc12b08120",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:51:23.851Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -101274,7 +101322,7 @@
           "scoredAt": "2026-10-11T16:08:49.203Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:32:12.851Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Screw Skeng",
       "artistSlug": "screw-skeng"
@@ -102410,8 +102458,14 @@
     },
     {
       "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:45:56.925Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -102419,7 +102473,7 @@
           "scoredAt": "2026-10-07T17:35:14.876Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "LeshatelZ",
       "artistSlug": "leshatelz"
@@ -103632,8 +103686,14 @@
     },
     {
       "userId": "670a03fd-af63-4471-8e4b-6c4294a6b945",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:48:31.779Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 1,
@@ -103659,7 +103719,7 @@
           "scoredAt": "2026-10-12T11:13:58.114Z"
         }
       ],
-      "fetchedAt": "2026-10-17T00:02:01.418Z",
+      "fetchedAt": "2026-10-17T08:52:03.769Z",
       "current": true,
       "artistName": "Emoji",
       "artistSlug": "emoji"

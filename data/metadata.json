@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T08:42:01.082Z",
-  "exportedAt": "2026-10-17T08:42:01.082Z",
-  "runId": "2026-10-17T08:42:01.082Z",
-  "forumExportedAt": "2026-10-17T08:42:01.082Z",
+  "lastSuccessfulAt": "2026-10-17T08:52:03.769Z",
+  "exportedAt": "2026-10-17T08:52:03.769Z",
+  "runId": "2026-10-17T08:52:03.769Z",
+  "forumExportedAt": "2026-10-17T08:52:03.769Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12172,
+    "scores": 12182,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8233,
-    "scoresBefore": 12166,
-    "scoresAfter": 12172,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 12,
+    "durationMs": 12045,
+    "scoresBefore": 12172,
+    "scoresAfter": 12182,
     "fullBaselineRequests": 3213,
-    "requestReductionPercent": 99.75101151571741,
+    "requestReductionPercent": 99.6265172735761,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,76 @@
       "feed": [
         {
           "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Screw Skeng",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:51:23.851Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Shiko",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T08:50:29.995Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Kaen",
+          "comment": "Бит ебейший!! Пиздец просто пушка.",
+          "scoredAt": "2026-10-17T08:49:28.905Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Emoji",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:48:31.779Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "CardinaL",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:47:49.310Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "19 независимый ебатель",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:46:46.409Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "LeshatelZ",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:45:56.925Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Плохой Поэт",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:45:08.137Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "NWR",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T08:44:19.543Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Yyong",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:42:55.943Z"
+        },
+        {
+          "judgeName": "AL Hammer",
           "score": 4,
           "artist": "RUSO FARRISTA",
           "comment": "Авансом",
@@ -117,76 +187,6 @@
           "artist": "Антон Zabe",
           "comment": "Надо было гимн SLOVO SPB загружать ",
           "scoredAt": "2026-10-17T08:38:36.794Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "SIDIS",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:37:46.144Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Илья Игнатов",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:30:39.990Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Mr. Nobody",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:29:23.659Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 5,
-          "artist": "DICTATURA",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:28:47.781Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Дима Джуз",
-          "comment": "Ну не все голосуют за говно, что ты уж так критично. Я вот хоть и уверенно зачитанному, но все же говну по тексту поставлю тройку. Как тебе?",
-          "scoredAt": "2026-10-17T08:28:27.763Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "райский sad",
-          "comment": "Есть забавные строчки, но не более. Рэп про рэп. Я думаю, что если бы ты сильнее постарался, то и рэп у тебя вышел на порядок лучше.",
-          "scoredAt": "2026-10-17T08:26:34.054Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Inice",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:25:28.265Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Ялли 21",
-          "comment": "Респект за большие яйца. Дизреспект за приколдесный рэпак. Если бы сделал серьезный трек, я думаю прошел бы. Эдлибы в стиле нирваны - хорошо.",
-          "scoredAt": "2026-10-17T08:25:09.770Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "evil twin",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:24:32.465Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "AVAYVA",
-          "comment": "У это ебать как стильно. Очень хороший арэнби. За звук, кач и вайб поставлю четверку. Будет круто, если ты в эту форму завернешь еще тексток хотя-бы средненький) Мы же на хип-хоп баттле как-никак.",
-          "scoredAt": "2026-10-17T08:17:04.518Z"
         }
       ]
     }

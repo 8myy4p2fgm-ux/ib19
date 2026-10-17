@@ -128648,6 +128648,146 @@
         "scoredAt": "2026-10-17T08:40:24.722Z",
         "userId": "6f581193-4f8d-4e45-9788-571173a67eac"
       }
+    },
+    {
+      "id": "b0c6b6ddee1c2cafefc129c333d80886869fa0c9323846f829edfa0da5119dff",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:45:08.137Z",
+      "key": "[\"c9ac6f0a-9a19-49f7-a47c-74cf18bd28e2\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:45:08.137Z",
+        "userId": "c9ac6f0a-9a19-49f7-a47c-74cf18bd28e2"
+      }
+    },
+    {
+      "id": "36a0fed90d7194f1f3d27fe1428d93336f8e51e161a5e975301bbe70c31d51b2",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:50:29.995Z",
+      "key": "[\"f757723e-a00a-4f38-ace5-7cd2ba6d4674\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T08:50:29.995Z",
+        "userId": "f757723e-a00a-4f38-ace5-7cd2ba6d4674"
+      }
+    },
+    {
+      "id": "f69cd42e7186ea50d6bebbc12054af1a922293dd8ce4b9e95ecf7b0d6f5ed4ba",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:47:49.310Z",
+      "key": "[\"c554c1b0-9213-4ea6-a3cd-e332aee64a1c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:47:49.310Z",
+        "userId": "c554c1b0-9213-4ea6-a3cd-e332aee64a1c"
+      }
+    },
+    {
+      "id": "818010ac7afd73161b95eaf4f107d0b6c98247d0094c17bf52cacf2682952f31",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:49:28.905Z",
+      "key": "[\"1816ae6b-5156-47f1-9612-5ed55e08f1b1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Бит ебейший!! Пиздец просто пушка.",
+        "scoredAt": "2026-10-17T08:49:28.905Z",
+        "userId": "1816ae6b-5156-47f1-9612-5ed55e08f1b1"
+      }
+    },
+    {
+      "id": "d2e01cc6f1639a3bce1e17d9115884eae0d1b61640ba76c500a3ca5c69cc4d57",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:44:19.543Z",
+      "key": "[\"7231d1d4-e023-455b-be59-d2e534f186ca\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T08:44:19.543Z",
+        "userId": "7231d1d4-e023-455b-be59-d2e534f186ca"
+      }
+    },
+    {
+      "id": "8ee75959102ed447e423b9ba681df80fcad4a41f7d4d956c993a52fdddc4d7bd",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:46:46.409Z",
+      "key": "[\"30c3f6e4-d4ea-4d7e-ad89-acb64f273171\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:46:46.409Z",
+        "userId": "30c3f6e4-d4ea-4d7e-ad89-acb64f273171"
+      }
+    },
+    {
+      "id": "57f0e22a78a15340e8864bbe57b2a5d3efcf24b85d56f166862105512010426f",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:42:55.943Z",
+      "key": "[\"777c3722-e6af-4dc5-979c-cafcf1ffb9c8\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:42:55.943Z",
+        "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8"
+      }
+    },
+    {
+      "id": "82953b27e0e8a8cd0fc6102e7a14d88a91eecb762ebee61f9ce35df9e8e05c9d",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:51:23.851Z",
+      "key": "[\"62c7d477-cb03-443a-8283-efdc12b08120\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:51:23.851Z",
+        "userId": "62c7d477-cb03-443a-8283-efdc12b08120"
+      }
+    },
+    {
+      "id": "3ba1868985fe9524a14b6a967fc47ab57264dca4161935d9ec937803daface30",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:45:56.925Z",
+      "key": "[\"e4acb27d-baa3-48b0-bc98-881ab4b2521c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:45:56.925Z",
+        "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c"
+      }
+    },
+    {
+      "id": "62ef3ff6c474ea88d42c7e2fa7990c0d2045d631f3969ff07d82790ce37443ab",
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "sourceScoredAt": "2026-10-17T08:48:31.779Z",
+      "key": "[\"670a03fd-af63-4471-8e4b-6c4294a6b945\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:48:31.779Z",
+        "userId": "670a03fd-af63-4471-8e4b-6c4294a6b945"
+      }
     }
   ],
   "snapshots": [
@@ -135827,6 +135967,26 @@
           "index": 28.994702048263022,
           "favor": 18.028392446446745,
           "attention": -0.022062491206978143,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:52:03.769Z",
+      "exportedAt": "2026-10-17T08:52:03.769Z",
+      "scores": 12182,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.989436595056993,
+          "favor": 9.257012195965931,
+          "attention": 6.139017805684472,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 29.003132301388696,
+          "favor": 18.030423767893357,
+          "attention": -0.015663559527919497,
           "respect": 10.988372093023257
         }
       }
