@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T20:12:05.060Z",
+  "exportedAt": "2026-10-17T20:21:59.231Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -12020,8 +12020,14 @@
     },
     {
       "userId": "eca7b21a-b255-4295-807f-66aa73df3157",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T20:12:55.489Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -12047,7 +12053,7 @@
           "scoredAt": "2026-09-22T15:48:49.766Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-17T20:21:59.231Z",
       "current": true,
       "artistName": "DIROL",
       "artistSlug": "dirol"
@@ -28063,8 +28069,14 @@
     },
     {
       "userId": "b6081846-0878-4f43-bf38-23399534d235",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T20:14:17.865Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -28090,7 +28102,7 @@
           "scoredAt": "2026-09-06T14:43:21.066Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:32:36.483Z",
+      "fetchedAt": "2026-10-17T20:21:59.231Z",
       "current": true,
       "artistName": "SLM1917",
       "artistSlug": "slm1917"
@@ -70477,6 +70489,46 @@
       "artistSlug": "raydi"
     },
     {
+      "userId": "9ab32f7d-3767-4a59-9243-cedb1dffd5a7",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-16T16:34:07.589Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "соу соу, набирайся опыта ( может даже в следующем раунде)",
+          "scoredAt": "2026-10-15T00:13:04.828Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Григорий зачем начинать с оффбита внутри ритмики, и в конце они тоже пошли в нутри строки сбивки... Ведь в середине всё гуд было",
+          "scoredAt": "2026-10-14T14:45:06.819Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Прощупываются панчики и двойные рифмы, но ритмика пока приправлена оффбитами. Слышна неуверенность и напряг в попытке держать баланс на бите.",
+          "scoredAt": "2026-10-13T20:39:28.078Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Отличный никнейм 👍\nРабота сильно средняя. ",
+          "scoredAt": "2026-10-12T10:29:20.475Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T16:42:38.697Z",
+      "current": true,
+      "artistName": "Savitar",
+      "artistSlug": "savitar"
+    },
+    {
       "userId": "cea25d82-297d-453e-949f-41811caeb30c",
       "scoredCount": 5,
       "scores": [
@@ -70515,46 +70567,6 @@
       "current": true,
       "artistName": "Бойфренд",
       "artistSlug": "boyfrend"
-    },
-    {
-      "userId": "9ab32f7d-3767-4a59-9243-cedb1dffd5a7",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "",
-          "scoredAt": "2026-10-16T16:34:07.589Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "comment": "соу соу, набирайся опыта ( может даже в следующем раунде)",
-          "scoredAt": "2026-10-15T00:13:04.828Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "comment": "Григорий зачем начинать с оффбита внутри ритмики, и в конце они тоже пошли в нутри строки сбивки... Ведь в середине всё гуд было",
-          "scoredAt": "2026-10-14T14:45:06.819Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "comment": "Прощупываются панчики и двойные рифмы, но ритмика пока приправлена оффбитами. Слышна неуверенность и напряг в попытке держать баланс на бите.",
-          "scoredAt": "2026-10-13T20:39:28.078Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "comment": "Отличный никнейм 👍\nРабота сильно средняя. ",
-          "scoredAt": "2026-10-12T10:29:20.475Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T16:42:38.697Z",
-      "current": true,
-      "artistName": "Григорий",
-      "artistSlug": "grigoriy"
     },
     {
       "userId": "178120a9-8975-4fed-9b29-6dc88ff38fc1",

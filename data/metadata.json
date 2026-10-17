@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T20:12:05.060Z",
-  "exportedAt": "2026-10-17T20:12:05.060Z",
-  "runId": "2026-10-17T20:12:05.060Z",
-  "forumExportedAt": "2026-10-17T20:12:05.060Z",
+  "lastSuccessfulAt": "2026-10-17T20:21:59.231Z",
+  "exportedAt": "2026-10-17T20:21:59.231Z",
+  "runId": "2026-10-17T20:21:59.231Z",
+  "forumExportedAt": "2026-10-17T20:21:59.231Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13255,
+    "scores": 13257,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 7,
-    "logicalRequests": 11,
-    "durationMs": 10819,
-    "scoresBefore": 13247,
-    "scoresAfter": 13255,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4085,
+    "scoresBefore": 13255,
+    "scoresAfter": 13257,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.66143428747307,
+    "requestReductionPercent": 99.87688519544476,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "SLM1917",
+          "comment": "",
+          "scoredAt": "2026-10-17T20:14:17.865Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "DIROL",
+          "comment": "",
+          "scoredAt": "2026-10-17T20:12:55.489Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Роберт Хелениус",
+          "comment": "Слабо по всем критериям ",
+          "scoredAt": "2026-10-17T20:11:56.355Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 2,
@@ -168,27 +189,6 @@
           "artist": "96lock",
           "comment": "Слабо по всем критериям ",
           "scoredAt": "2026-10-17T19:52:06.511Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "DAMAGE",
-          "comment": "С барскими",
-          "scoredAt": "2026-10-17T19:44:38.038Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "WAVknuvmike",
-          "comment": "Очень дефолтно и часть текста произошёл спиздинг как понимаю, но при прослушки не нашёл чего то интересного",
-          "scoredAt": "2026-10-17T19:27:22.574Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Vector Geology",
-          "comment": "Странная ритмика в треке, флоу тоже однообразное",
-          "scoredAt": "2026-10-17T19:25:27.516Z"
         }
       ]
     }

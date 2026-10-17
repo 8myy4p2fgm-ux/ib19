@@ -143956,6 +143956,34 @@
         "scoredAt": "2026-10-17T20:08:01.560Z",
         "userId": "ac689412-d0ef-46a2-8fa7-03384d2f22cd"
       }
+    },
+    {
+      "id": "4208382bee1276b813e6a79d818d37672905917fa92bfa94dbc8cb0de1c3645d",
+      "observedAt": "2026-10-17T20:21:59.231Z",
+      "sourceScoredAt": "2026-10-17T20:12:55.489Z",
+      "key": "[\"eca7b21a-b255-4295-807f-66aa73df3157\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T20:12:55.489Z",
+        "userId": "eca7b21a-b255-4295-807f-66aa73df3157"
+      }
+    },
+    {
+      "id": "75b37b45fe8b5b8daeae523b7cbcab8376de9535400245a826a0870a1913ee8a",
+      "observedAt": "2026-10-17T20:21:59.231Z",
+      "sourceScoredAt": "2026-10-17T20:14:17.865Z",
+      "key": "[\"b6081846-0878-4f43-bf38-23399534d235\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T20:14:17.865Z",
+        "userId": "b6081846-0878-4f43-bf38-23399534d235"
+      }
     }
   ],
   "snapshots": [
@@ -152455,6 +152483,26 @@
           "index": 29.81179852301004,
           "favor": 17.81827468101152,
           "attention": 1.2472551852821043,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:21:59.231Z",
+      "exportedAt": "2026-10-17T20:21:59.231Z",
+      "scores": 13257,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.902732038117964,
+          "favor": 9.282929714260275,
+          "attention": 6.149731901322477,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.810612913340698,
+          "favor": 17.816548591341842,
+          "attention": 1.2477956652824393,
           "respect": 10.746268656716419
         }
       }
