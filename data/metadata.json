@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T18:52:11.504Z",
-  "exportedAt": "2026-10-17T18:52:11.504Z",
-  "runId": "2026-10-17T18:52:11.504Z",
-  "forumExportedAt": "2026-10-17T18:52:11.504Z",
+  "lastSuccessfulAt": "2026-10-17T19:02:00.178Z",
+  "exportedAt": "2026-10-17T19:02:00.178Z",
+  "runId": "2026-10-17T19:02:00.178Z",
+  "forumExportedAt": "2026-10-17T19:02:00.178Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13218,
+    "scores": 13224,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 6,
     "changedParticipants": 6,
     "logicalRequests": 8,
-    "durationMs": 8176,
-    "scoresBefore": 13212,
-    "scoresAfter": 13218,
+    "durationMs": 7799,
+    "scoresBefore": 13218,
+    "scoresAfter": 13224,
     "fullBaselineRequests": 3248,
     "requestReductionPercent": 99.75369458128078,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "golovafx",
+          "comment": "Не надо так ритмику внутри строки ломать, в целом подача есть",
+          "scoredAt": "2026-10-17T19:00:47.080Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "молодой залупа",
+          "comment": "В некст раз звучок посильнее сделай",
+          "scoredAt": "2026-10-17T18:59:14.888Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "MOLIK",
+          "comment": "на ууууупреждение, слушай мне кажется ты не готов к таким битам, не хватает напора, вроде хрипишь и в припеве даже ничего, но по мимо хрипа там скримить все дела)",
+          "scoredAt": "2026-10-17T18:58:04.924Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Леша Холин",
+          "comment": "Вот правильная подача, но считаю надо было каждую строчку повторять словосочетание конца строки",
+          "scoredAt": "2026-10-17T18:56:14.038Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "асфальтоукладочный",
+          "comment": "Больно слушать, как будто реально на чебупиццу записал",
+          "scoredAt": "2026-10-17T18:54:51.124Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Freak",
+          "comment": "Странный трек честно скажу, что-то набубнил, раскрытие понял) но увы этого мало",
+          "scoredAt": "2026-10-17T18:53:02.368Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "ELECKTRONICK",
           "comment": "Звучит прикольно. Есть грязные строки, но они довольно таки простые. ",
           "scoredAt": "2026-10-17T18:38:01.801Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "sorry, we are closed",
-          "comment": "Структурно норм трек сделан, припевчик топ, вот в куплетик тоже жирок добавить",
-          "scoredAt": "2026-10-17T18:37:44.012Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "песок",
-          "comment": "В целом вкусно, жирок к основе добавь и будет сок",
-          "scoredAt": "2026-10-17T18:36:41.855Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "Евгений",
-          "comment": "Крепкий середнячок ",
-          "scoredAt": "2026-10-17T18:35:43.539Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "ARTSY",
-          "comment": "Скажу от себя всё хорошо, только смотри во второй части немного бэки не понравились, а в первой части трека хочется наоборот ими насытить трекс",
-          "scoredAt": "2026-10-17T18:35:41.638Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "паника13",
-          "comment": "Потенциал есть. Во втором нужно прыгнуть выше головы. ",
-          "scoredAt": "2026-10-17T18:35:00.395Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "₡A$I₦O₿O¥",
-          "comment": "Автотюн испортил всё",
-          "scoredAt": "2026-10-17T18:33:46.959Z"
         }
       ]
     }

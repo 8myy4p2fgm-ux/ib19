@@ -143438,6 +143438,90 @@
         "scoredAt": "2026-10-17T18:51:30.211Z",
         "userId": "f2da9b8a-fe80-47f8-a813-c88aec2ff615"
       }
+    },
+    {
+      "id": "c6da0f62a30367c4ed6501850aed51da788f488e239479a0f5fc0cb7cd05c93e",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T18:53:02.368Z",
+      "key": "[\"8ee091dd-e56c-49f9-bd4d-8b2a80a32193\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Странный трек честно скажу, что-то набубнил, раскрытие понял) но увы этого мало",
+        "scoredAt": "2026-10-17T18:53:02.368Z",
+        "userId": "8ee091dd-e56c-49f9-bd4d-8b2a80a32193"
+      }
+    },
+    {
+      "id": "617c93fe4b84fa7d3923ef8a7b5eee704676f491c579d8e72cee606599e2d225",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T18:59:14.888Z",
+      "key": "[\"a4c2f70b-a33f-4295-8f3e-ad384ea7b1d3\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В некст раз звучок посильнее сделай",
+        "scoredAt": "2026-10-17T18:59:14.888Z",
+        "userId": "a4c2f70b-a33f-4295-8f3e-ad384ea7b1d3"
+      }
+    },
+    {
+      "id": "1cc1129da9c8c0dcdb4833056ba2c61be3c956900b8cf370674cf76700c5698c",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T18:54:51.124Z",
+      "key": "[\"3ad71863-7263-44b5-8019-ad5bb5084e1d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Больно слушать, как будто реально на чебупиццу записал",
+        "scoredAt": "2026-10-17T18:54:51.124Z",
+        "userId": "3ad71863-7263-44b5-8019-ad5bb5084e1d"
+      }
+    },
+    {
+      "id": "42777828bc2d3883c47c2326570a65dad1b2408c5e3b8e1dc124b4f46308806b",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T18:58:04.924Z",
+      "key": "[\"8fb22672-5b8b-4ce4-ba72-28c1b270bfe8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "на ууууупреждение, слушай мне кажется ты не готов к таким битам, не хватает напора, вроде хрипишь и в припеве даже ничего, но по мимо хрипа там скримить все дела)",
+        "scoredAt": "2026-10-17T18:58:04.924Z",
+        "userId": "8fb22672-5b8b-4ce4-ba72-28c1b270bfe8"
+      }
+    },
+    {
+      "id": "f15632096567907bd9fe7161fdda7eed7b9748d413c7dffd79ce2458fcaa4646",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T18:56:14.038Z",
+      "key": "[\"8a401d76-2d70-46b9-8132-5d6965ec63be\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот правильная подача, но считаю надо было каждую строчку повторять словосочетание конца строки",
+        "scoredAt": "2026-10-17T18:56:14.038Z",
+        "userId": "8a401d76-2d70-46b9-8132-5d6965ec63be"
+      }
+    },
+    {
+      "id": "3bd26fcd32acff545e977619a35752396ead7e96704529ab7565d1f99e68124a",
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "sourceScoredAt": "2026-10-17T19:00:47.080Z",
+      "key": "[\"9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не надо так ритмику внутри строки ломать, в целом подача есть",
+        "scoredAt": "2026-10-17T19:00:47.080Z",
+        "userId": "9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f"
+      }
     }
   ],
   "snapshots": [
@@ -151797,6 +151881,26 @@
           "index": 29.722130177122366,
           "favor": 17.795273479742832,
           "attention": 1.1805880406631146,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T19:02:00.178Z",
+      "exportedAt": "2026-10-17T19:02:00.178Z",
+      "scores": 13224,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.8451610615896,
+          "favor": 9.265488603957593,
+          "attention": 6.109602035096796,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.742411462193857,
+          "favor": 17.79926000250846,
+          "attention": 1.1968828029689762,
           "respect": 10.746268656716419
         }
       }
