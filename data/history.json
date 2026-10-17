@@ -142444,6 +142444,328 @@
         "scoredAt": "2026-10-17T17:11:11.169Z",
         "userId": "d234061a-b9c8-4bd9-a12c-bae53bdc1380"
       }
+    },
+    {
+      "id": "52e5392d093c5f711d27d266052b982d4341e768d181d2cd8adc32a4d466f892",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:22:23.998Z",
+      "key": "[\"a4fc04d3-41a2-4ae3-a5cd-1b3ee7456ea3\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно, в такой стилек фишек бы добавить",
+        "scoredAt": "2026-10-17T17:22:23.998Z",
+        "userId": "a4fc04d3-41a2-4ae3-a5cd-1b3ee7456ea3"
+      }
+    },
+    {
+      "id": "cbaf894cf7db7560a9fb8232a5d6f9b0b186a99d382a05ab23b4ad1cf81a8420",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:19:48.953Z",
+      "key": "[\"6f734955-1bd2-48c5-8146-ae835b0556d4\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Авансом 4, считай что спасательный круг. Во втором раунде поработай над текстом, потанцевал в тебе есть, используй свои лучшие стороны и уверенные скилы, панчлайны тебе в помощь броузи",
+        "scoredAt": "2026-10-17T17:19:48.953Z",
+        "userId": "6f734955-1bd2-48c5-8146-ae835b0556d4"
+      }
+    },
+    {
+      "id": "d9b9ab077ebf1f9c52f975f11e80bfe45538bb33ce8577dc192db6a51bf7eaf0",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:17:07.926Z",
+      "key": "[\"aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Нормально ты так накидал плагинов, ны ты за ними спрятался. Вообще не понятно что ты за тип, и по тексто тоже соу соу. ",
+        "scoredAt": "2026-10-17T17:17:07.926Z",
+        "userId": "aff2e8d6-9b9f-48f8-ba72-43b4cb2903c4"
+      }
+    },
+    {
+      "id": "da61de6c5aad172012346ab4ad16167632a609bf9517d779f98a7a8ac4a6d943",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:20:13.993Z",
+      "key": "[\"1ed70c07-da33-41ce-a34c-b5f71d0a9e43\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 1,
+        "comment": "Искусство не судится",
+        "scoredAt": "2026-10-17T17:20:13.993Z",
+        "userId": "1ed70c07-da33-41ce-a34c-b5f71d0a9e43"
+      }
+    },
+    {
+      "id": "eb7295c7a5c279bac6dbbef1ee1951307f9a95e1426e062fa0aa96e1f78d75ad",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:17:53.537Z",
+      "key": "[\"f490fcbe-7a0c-4d72-a862-8fe4bdc3d871\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Не хватает смены подачи и флоу всё на один манер во всём треке",
+        "scoredAt": "2026-10-17T17:17:53.537Z",
+        "userId": "f490fcbe-7a0c-4d72-a862-8fe4bdc3d871"
+      }
+    },
+    {
+      "id": "8ce67f0a04c56913a5b5b0699c6b78970ece740c67b71461b442f982bb19015b",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:17:29.870Z",
+      "key": "[\"59687f7c-1e81-4271-b8ab-6eb417aba91a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Это грайм? )))",
+        "scoredAt": "2026-10-17T17:17:29.870Z",
+        "userId": "59687f7c-1e81-4271-b8ab-6eb417aba91a"
+      }
+    },
+    {
+      "id": "5b39a6d845fd8f0131459ba06b48abaf015e57e74eae7054824fd8ae97dfbe58",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:18:05.444Z",
+      "key": "[\"41f8b03c-7546-404c-94b0-6688e2b69f77\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Душновато братуха. Хотя идея в хуке неплохая, такой типа акционизм, жаль только что посыл твоей песни - это раскрытие бувально 65% песен на раунд.",
+        "scoredAt": "2026-10-17T17:18:05.444Z",
+        "userId": "41f8b03c-7546-404c-94b0-6688e2b69f77"
+      }
+    },
+    {
+      "id": "a7b34cd2be99f5036c53a52eec6f7fcef4248aa8de43ce6a3e9b09a289580c91",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:21:41.673Z",
+      "key": "[\"852ced4b-ac9b-41db-9336-5262c8d42e44\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Ну средне брад. Етот маникальный нарратив твоей песни делали и круче в несколько раз ранее. А так раскрытие понятное да, но средне всё очень.",
+        "scoredAt": "2026-10-17T17:21:41.673Z",
+        "userId": "852ced4b-ac9b-41db-9336-5262c8d42e44"
+      }
+    },
+    {
+      "id": "75f33890f2ef3c37acde9c3107ed06cc626cb1c3d59bfa1d0aa41b62ceddf4b2",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:20:39.991Z",
+      "key": "[\"d3562480-3f06-45f7-bb64-7cbc4cb996bb\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Звучит не плохо, не хватает разнообразия ну и может каких-то фишек для атмосферы",
+        "scoredAt": "2026-10-17T17:20:39.991Z",
+        "userId": "d3562480-3f06-45f7-bb64-7cbc4cb996bb"
+      }
+    },
+    {
+      "id": "9c1717d2d57a41e70c783809378eb7c7047251f8290b3692f52996e7c28a2ec8",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:20:20.769Z",
+      "key": "[\"ab45c667-8b08-4630-94ec-7cff2608830d\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Брад вот ровный рэб ты стелишь. Но буквально несколько песен до тебя - с идентичным раскрытием. Ну средне в общем! Давай глубже копни во 2м раунде.",
+        "scoredAt": "2026-10-17T17:20:20.769Z",
+        "userId": "ab45c667-8b08-4630-94ec-7cff2608830d"
+      }
+    },
+    {
+      "id": "c62b67f2ce8b7f3d9bf1c8821bc52efec08c291f8cffacc44bfeb412801955cf",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:18:01.391Z",
+      "key": "[\"accfb6c0-bfd2-4b9b-85a7-acd6cdb37da6\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Пока рановато. ",
+        "scoredAt": "2026-10-17T17:18:01.391Z",
+        "userId": "accfb6c0-bfd2-4b9b-85a7-acd6cdb37da6"
+      }
+    },
+    {
+      "id": "15e551e2967a3f0b1fb665e424c86dd2deda26ae7f9111c8782ec7399f086af1",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:14:03.160Z",
+      "key": "[\"af53e214-2887-4ef8-907e-a53f58505577\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Мне нравится такой стиль, тебе идёт. Чуть бы пожирнее твою капу, вообще бы классно было. Интересно что сделаешь во втором, удачи. ",
+        "scoredAt": "2026-10-17T17:14:03.160Z",
+        "userId": "af53e214-2887-4ef8-907e-a53f58505577"
+      }
+    },
+    {
+      "id": "342c68ba570f0a3a81c089c7e776713ab389f97134be6b81f492355694241ea7",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:12:59.117Z",
+      "key": "[\"fc054df2-76fc-45b5-8839-0f93626584e6\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Поп-рэп! Мне нравится работа со звуком, за это чуть накину балл до 4. ",
+        "scoredAt": "2026-10-17T17:12:59.117Z",
+        "userId": "fc054df2-76fc-45b5-8839-0f93626584e6"
+      }
+    },
+    {
+      "id": "8ee38831decf0fd1351eabe858d1f63de6e996f0c12b55ebdd4afa293979d9ee",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:12:24.402Z",
+      "key": "[\"0c8e84a7-cf9a-4fa0-82fb-e4dac508b0b0\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень странный трек ритмически построен, ещё все фишки что ты хотел реализовать в треке не получилось",
+        "scoredAt": "2026-10-17T17:12:24.402Z",
+        "userId": "0c8e84a7-cf9a-4fa0-82fb-e4dac508b0b0"
+      }
+    },
+    {
+      "id": "45c7f075d637267677b908cdfd28133b7da939fbc732e9efd530c7ebbb6bf655",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:16:14.996Z",
+      "key": "[\"a0bb39e1-6720-4d90-8be6-173291894df3\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Тут много альтернативных работ было, твоя не самая сильная. Припев не очень звучит, но это проход. ",
+        "scoredAt": "2026-10-17T17:16:14.996Z",
+        "userId": "a0bb39e1-6720-4d90-8be6-173291894df3"
+      }
+    },
+    {
+      "id": "19dd47b43db843d2682c1206078f9c82e0c3cd331b6232e1c8e0ebcdef1ff198",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:16:37.036Z",
+      "key": "[\"86cd07ae-9edd-4878-a809-d44b3b0ed5a9\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "3 авансом, под джангл не очень легло такое звучание будто тебе дали пулемет, а ты по одному патрону стреляешь, ну хз , во втором надо будет стрелять тебе из всего арсенала всеми способами чтоб пройти ",
+        "scoredAt": "2026-10-17T17:16:37.036Z",
+        "userId": "86cd07ae-9edd-4878-a809-d44b3b0ed5a9"
+      }
+    },
+    {
+      "id": "63f9e1ed0e5ef072f26af8f9d78f2be6abbca34b0526b26943a4f4b45abeb96e",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:17:42.950Z",
+      "key": "[\"22c71efb-68f0-4b93-9b5d-e43ff483e5eb\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Слабовато как-то совсем",
+        "scoredAt": "2026-10-17T17:17:42.950Z",
+        "userId": "22c71efb-68f0-4b93-9b5d-e43ff483e5eb"
+      }
+    },
+    {
+      "id": "72551c07a7a020e495fc0b63bccdfb7af1d8039f8d432b730827f3828d053937",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:16:28.072Z",
+      "key": "[\"d20f87cb-8b0c-4fdd-9c05-dcc8982795b9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Слушай звучит прикольно, немного не хватило в куплете вот этого скрим напора в бэки можно было их пустить",
+        "scoredAt": "2026-10-17T17:16:28.072Z",
+        "userId": "d20f87cb-8b0c-4fdd-9c05-dcc8982795b9"
+      }
+    },
+    {
+      "id": "f1efc006973ac37f069a6822220d59bb0ed2affacb6fc37b34124bf49aaf5b90",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:14:02.401Z",
+      "key": "[\"a6256fb3-6dfe-4a52-a694-35f7b5940834\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Звучит стилево, не хватило наполнение в тексте",
+        "scoredAt": "2026-10-17T17:14:02.401Z",
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834"
+      }
+    },
+    {
+      "id": "e6f76e5b11e200cec693831d899bf428343f3d5e34eb8042a7c3653f7d65dd2c",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:12:46.673Z",
+      "key": "[\"bbe768ca-28c8-446d-8e48-b822ae5018b8\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Нормасно читаешь, припев в конце лишний, плохо звучит. Вообще про меня искуситель ВНУТРИ СЕБЯ говорить на батлах опасно 🤣🤣",
+        "scoredAt": "2026-10-17T17:12:46.673Z",
+        "userId": "bbe768ca-28c8-446d-8e48-b822ae5018b8"
+      }
+    },
+    {
+      "id": "5bf4f05a8ba84dcbf1c7947dc49e885ab6e8333a93f862faba7eba0e1b912213",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:15:11.370Z",
+      "key": "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Мне нравится твой стиль. Провалы в минусе прикольно звучат. Ну это 100% второй раунд. ",
+        "scoredAt": "2026-10-17T17:15:11.370Z",
+        "userId": "d91e558a-9412-4ceb-bdb2-8b571d375c1e"
+      }
+    },
+    {
+      "id": "11f008f51b3974c8c830ec86c56b680a34e402c2f4a4c0f18a493461e12f9f12",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:14:34.965Z",
+      "key": "[\"b265db60-4e30-40b3-b8f6-569bd3fa9e7f\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Средняя проходная, без ярких моментов, для звучок сомнительный",
+        "scoredAt": "2026-10-17T17:14:34.965Z",
+        "userId": "b265db60-4e30-40b3-b8f6-569bd3fa9e7f"
+      }
+    },
+    {
+      "id": "262074d06d655e514892ca34597e77001f2abde7385dcf8e184384c487a06c2c",
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "sourceScoredAt": "2026-10-17T17:19:11.296Z",
+      "key": "[\"997cf2ec-2cd4-4745-b416-5828de5a8059\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну всё на один манер и местами как буд-то не удобно тебе читать свой же текст",
+        "scoredAt": "2026-10-17T17:19:11.296Z",
+        "userId": "997cf2ec-2cd4-4745-b416-5828de5a8059"
+      }
     }
   ],
   "snapshots": [
@@ -150623,6 +150945,26 @@
           "index": 29.54175992731883,
           "favor": 17.784322451371818,
           "attention": 1.0111688192305925,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T17:22:27.536Z",
+      "exportedAt": "2026-10-17T17:22:27.536Z",
+      "scores": 13170,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.858017739221985,
+          "favor": 9.246589202529954,
+          "attention": 6.144997441285672,
+          "respect": 6.46643109540636
+        },
+        "veterans": {
+          "index": 29.609506604248523,
+          "favor": 17.788563701895548,
+          "attention": 1.0746742456365532,
           "respect": 10.746268656716419
         }
       }
