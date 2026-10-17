@@ -143172,6 +143172,48 @@
         "scoredAt": "2026-10-17T17:58:21.278Z",
         "userId": "94a0bcab-d1aa-41b6-87ca-34383d45dcca"
       }
+    },
+    {
+      "id": "164a4b829aa26c88d98736e07669aa8a62acfb94b4e0254f32c14e98a15eaa5a",
+      "observedAt": "2026-10-17T18:12:10.930Z",
+      "sourceScoredAt": "2026-10-17T18:10:19.689Z",
+      "key": "[\"388aa2a6-e8c9-4e28-939a-8bb5171f8edf\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По флоу пойдет, текст очень простенько",
+        "scoredAt": "2026-10-17T18:10:19.689Z",
+        "userId": "388aa2a6-e8c9-4e28-939a-8bb5171f8edf"
+      }
+    },
+    {
+      "id": "e84f06956c5423aa3b3246cd3b6de2f7e2f41cbfbad7ee6d7ed9da5f1421b60f",
+      "observedAt": "2026-10-17T18:12:10.930Z",
+      "sourceScoredAt": "2026-10-17T18:12:02.179Z",
+      "key": "[\"cea25d82-297d-453e-949f-41811caeb30c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Звучишь интересно, вопросы только с звуком, если вклячить более коммерческое звучание будет топчик",
+        "scoredAt": "2026-10-17T18:12:02.179Z",
+        "userId": "cea25d82-297d-453e-949f-41811caeb30c"
+      }
+    },
+    {
+      "id": "4a1c1ba9c533af31e0e286b8830070542558884df48d2a80e7b42244fa5c63b2",
+      "observedAt": "2026-10-17T18:12:10.930Z",
+      "sourceScoredAt": "2026-10-17T18:08:08.722Z",
+      "key": "[\"8f9032fc-a7be-4edd-aeed-6be82de8b586\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно, в некст разбавь чем-то трек",
+        "scoredAt": "2026-10-17T18:08:08.722Z",
+        "userId": "8f9032fc-a7be-4edd-aeed-6be82de8b586"
+      }
     }
   ],
   "snapshots": [
@@ -151451,6 +151493,26 @@
           "index": 29.67926172466977,
           "favor": 17.79678530424799,
           "attention": 1.1362077637053634,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T18:12:10.930Z",
+      "exportedAt": "2026-10-17T18:12:10.930Z",
+      "scores": 13202,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.804334502080785,
+          "favor": 9.262713998809389,
+          "attention": 6.071550080736184,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.6871428732643,
+          "favor": 17.79648589010868,
+          "attention": 1.144388326439198,
           "respect": 10.746268656716419
         }
       }

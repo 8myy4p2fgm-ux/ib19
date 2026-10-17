@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T18:02:03.960Z",
-  "exportedAt": "2026-10-17T18:02:03.960Z",
-  "runId": "2026-10-17T18:02:03.960Z",
-  "forumExportedAt": "2026-10-17T18:02:03.960Z",
+  "lastSuccessfulAt": "2026-10-17T18:12:10.930Z",
+  "exportedAt": "2026-10-17T18:12:10.930Z",
+  "runId": "2026-10-17T18:12:10.930Z",
+  "forumExportedAt": "2026-10-17T18:12:10.930Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13199,
+    "scores": 13202,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7007,
-    "scoresBefore": 13194,
-    "scoresAfter": 13199,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5870,
+    "scoresBefore": 13199,
+    "scoresAfter": 13202,
     "fullBaselineRequests": 3247,
-    "requestReductionPercent": 99.78441638435478,
+    "requestReductionPercent": 99.84601170311056,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Бойфренд",
+          "comment": "Звучишь интересно, вопросы только с звуком, если вклячить более коммерческое звучание будет топчик",
+          "scoredAt": "2026-10-17T18:12:02.179Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "MC М.О.Г.",
+          "comment": "По флоу пойдет, текст очень простенько",
+          "scoredAt": "2026-10-17T18:10:19.689Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Kidanuza1000_K1k",
+          "comment": "Очень дефолтно, в некст разбавь чем-то трек",
+          "scoredAt": "2026-10-17T18:08:08.722Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -168,27 +189,6 @@
           "artist": "F1xxer",
           "comment": "Не хватило напора по флоу и немного по подаче есть промахи",
           "scoredAt": "2026-10-17T17:47:18.291Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "phlegmvtix",
-          "comment": "Стараешься плотно рифмовать, хорошие рифмоксонутркции но сами рифмы простоваты. Не хватило для балла выше - преков в тексте, каких то панлчайнов, техтовых находок. И зачем ты бриджи повторяешь в треке на 1 минуту? Итак времени не много что бы выделиться и что то интересное написать, ты ещё его и повторами забиваешь)",
-          "scoredAt": "2026-10-17T17:46:49.169Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Никита Proвинциал",
-          "comment": "\"Ну кто не встаёт значит тот не падал\" у меня вопросы это как? Типо чтоб встать то надо иметь положение сидя или лежа)))) а в целом по тексту сыровато ",
-          "scoredAt": "2026-10-17T17:46:15.976Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "becap",
-          "comment": "Бро слабовато. Вроде качесетвенно и ровно зачитано. Но блинб прямо так всё и рифмы квадратные.",
-          "scoredAt": "2026-10-17T17:44:48.833Z"
         }
       ]
     }

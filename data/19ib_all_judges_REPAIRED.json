@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T18:02:03.960Z",
+  "exportedAt": "2026-10-17T18:12:10.930Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -54872,8 +54872,14 @@
     },
     {
       "userId": "388aa2a6-e8c9-4e28-939a-8bb5171f8edf",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "По флоу пойдет, текст очень простенько",
+          "scoredAt": "2026-10-17T18:10:19.689Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -54893,7 +54899,7 @@
           "scoredAt": "2026-10-07T19:25:13.813Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-17T18:12:10.930Z",
       "current": true,
       "artistName": "MC М.О.Г.",
       "artistSlug": "mc-m-o-g"
@@ -70274,8 +70280,14 @@
     },
     {
       "userId": "cea25d82-297d-453e-949f-41811caeb30c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Звучишь интересно, вопросы только с звуком, если вклячить более коммерческое звучание будет топчик",
+          "scoredAt": "2026-10-17T18:12:02.179Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -70301,7 +70313,7 @@
           "scoredAt": "2026-09-25T11:28:01.240Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:21:58.091Z",
+      "fetchedAt": "2026-10-17T18:12:10.930Z",
       "current": true,
       "artistName": "Бойфренд",
       "artistSlug": "boyfrend"
@@ -95568,8 +95580,14 @@
     },
     {
       "userId": "8f9032fc-a7be-4edd-aeed-6be82de8b586",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Очень дефолтно, в некст разбавь чем-то трек",
+          "scoredAt": "2026-10-17T18:08:08.722Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -95595,7 +95613,7 @@
           "scoredAt": "2026-10-13T17:49:37.842Z"
         }
       ],
-      "fetchedAt": "2026-10-16T21:51:42.557Z",
+      "fetchedAt": "2026-10-17T18:12:10.930Z",
       "current": true,
       "artistName": "Kidanuza1000_K1k",
       "artistSlug": "kidanuza1000-k1k"
