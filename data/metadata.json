@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T05:01:56.218Z",
-  "exportedAt": "2026-10-17T05:01:56.218Z",
-  "runId": "2026-10-17T05:01:56.218Z",
-  "forumExportedAt": "2026-10-17T05:01:56.218Z",
+  "lastSuccessfulAt": "2026-10-17T05:11:51.198Z",
+  "exportedAt": "2026-10-17T05:11:51.198Z",
+  "runId": "2026-10-17T05:11:51.198Z",
+  "forumExportedAt": "2026-10-17T05:11:51.198Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12026,
+    "scores": 12029,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3183,
-    "scoresBefore": 12025,
-    "scoresAfter": 12026,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5308,
+    "scoresBefore": 12026,
+    "scoresAfter": 12029,
     "fullBaselineRequests": 3207,
-    "requestReductionPercent": 99.90645463049579,
+    "requestReductionPercent": 99.84409105082632,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "artist": "отец иисуса",
+          "comment": "Приколдесно, флоу едкий, текст занятный. Есть, конечно, спорные формулировки, но в целом на фоне раунда солидно ",
+          "scoredAt": "2026-10-17T05:09:51.788Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "не будем",
+          "comment": "Модно, молодёжно, звучит недурно, но текст очень клишеен, по рифме много квадратов, цепких фраз не нашёл (ударок или метафор крутых). Три с плюсом ",
+          "scoredAt": "2026-10-17T05:07:03.149Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "XXFeuer",
+          "comment": "По смыслу очень банально. По рифме квадраты, глаголы, слабосозвучные. Читка убедительнее текста, но не столь хороша, чтобы вытащить",
+          "scoredAt": "2026-10-17T05:03:21.384Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -166,27 +187,6 @@
           "artist": "Kommers",
           "comment": "авансом 4, звук уг, читка соу соу, текст мент-нет такое, но нравится слог ",
           "scoredAt": "2026-10-17T02:00:45.771Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "БП",
-          "comment": "мне не нравится огромное количество пауз в треке, во второй части такого уже нет, но 50% трека просто как стихотворение ",
-          "scoredAt": "2026-10-17T01:59:15.338Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "bigle voozy",
-          "comment": "ну чото хз ",
-          "scoredAt": "2026-10-17T01:57:44.459Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "vs.",
-          "comment": "вот это ты мне вовремя залетел, дядька во 2 без диктофона\nчитаешь прилично, нужно серьезно подойти к 2 раунду",
-          "scoredAt": "2026-10-17T01:56:27.690Z"
         }
       ]
     }

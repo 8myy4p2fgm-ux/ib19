@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T05:01:56.218Z",
+  "exportedAt": "2026-10-17T05:11:51.198Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -3221,8 +3221,14 @@
     },
     {
       "userId": "c9213187-a677-4547-a8a1-cd8ca8bf4ff7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "comment": "Приколдесно, флоу едкий, текст занятный. Есть, конечно, спорные формулировки, но в целом на фоне раунда солидно ",
+          "scoredAt": "2026-10-17T05:09:51.788Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -3248,7 +3254,7 @@
           "scoredAt": "2026-10-10T17:10:08.353Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:42:38.697Z",
+      "fetchedAt": "2026-10-17T05:11:51.198Z",
       "current": true,
       "artistName": "отец иисуса",
       "artistSlug": "otec-iisusa"
@@ -46497,8 +46503,14 @@
     },
     {
       "userId": "3ab91351-5923-4a7e-8e01-89d25317eceb",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "По смыслу очень банально. По рифме квадраты, глаголы, слабосозвучные. Читка убедительнее текста, но не столь хороша, чтобы вытащить",
+          "scoredAt": "2026-10-17T05:03:21.384Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -46512,7 +46524,7 @@
           "scoredAt": "2026-09-11T18:46:13.847Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T05:11:51.198Z",
       "current": true,
       "artistName": "XXFeuer",
       "artistSlug": "xxfeuer"
@@ -52664,8 +52676,14 @@
     },
     {
       "userId": "da5de244-de85-4e85-b57a-c68b5469561e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Модно, молодёжно, звучит недурно, но текст очень клишеен, по рифме много квадратов, цепких фраз не нашёл (ударок или метафор крутых). Три с плюсом ",
+          "scoredAt": "2026-10-17T05:07:03.149Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -52691,7 +52709,7 @@
           "scoredAt": "2026-10-13T17:52:30.675Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:42:26.503Z",
+      "fetchedAt": "2026-10-17T05:11:51.198Z",
       "current": true,
       "artistName": "не будем",
       "artistSlug": "ne-budem"
