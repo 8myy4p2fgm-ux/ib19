@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T18:12:10.930Z",
-  "exportedAt": "2026-10-17T18:12:10.930Z",
-  "runId": "2026-10-17T18:12:10.930Z",
-  "forumExportedAt": "2026-10-17T18:12:10.930Z",
+  "lastSuccessfulAt": "2026-10-17T18:22:09.610Z",
+  "exportedAt": "2026-10-17T18:22:09.610Z",
+  "runId": "2026-10-17T18:22:09.610Z",
+  "forumExportedAt": "2026-10-17T18:22:09.610Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13202,
+    "scores": 13203,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5870,
-    "scoresBefore": 13199,
-    "scoresAfter": 13202,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 6054,
+    "scoresBefore": 13202,
+    "scoresAfter": 13203,
     "fullBaselineRequests": 3247,
-    "requestReductionPercent": 99.84601170311056,
+    "requestReductionPercent": 99.90760702186634,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "Prophet",
+          "comment": "Ладно, звучит в целом всё хорошо, может не хватило строк чтоб запоминались и в голову откладывались.",
+          "scoredAt": "2026-10-17T18:14:40.636Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -182,13 +189,6 @@
           "artist": "Ноябрьский",
           "comment": "\"Ты не эксперимент, ты аксиома без доказательств.\" здесь странная ритмическая пауза, после припева есть странные места с дикцией, как будто тебе сложно читать свой же текст или это пострадало на сведении, но вокал не плохо стоит подметить",
           "scoredAt": "2026-10-17T17:49:14.593Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "F1xxer",
-          "comment": "Не хватило напора по флоу и немного по подаче есть промахи",
-          "scoredAt": "2026-10-17T17:47:18.291Z"
         }
       ]
     }

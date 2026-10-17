@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T18:12:10.930Z",
+  "exportedAt": "2026-10-17T18:22:09.610Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -3121,8 +3121,14 @@
     },
     {
       "userId": "6233cd87-3596-496e-b573-30938692f6a8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "Ладно, звучит в целом всё хорошо, может не хватило строк чтоб запоминались и в голову откладывались.",
+          "scoredAt": "2026-10-17T18:14:40.636Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -3148,7 +3154,7 @@
           "scoredAt": "2026-10-01T20:17:09.290Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:32:21.046Z",
+      "fetchedAt": "2026-10-17T18:22:09.610Z",
       "current": true,
       "artistName": "Prophet",
       "artistSlug": "prophet"
