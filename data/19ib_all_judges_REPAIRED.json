@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T07:31:52.324Z",
+  "exportedAt": "2026-10-17T07:41:52.887Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -14802,8 +14802,14 @@
     },
     {
       "userId": "3009c8e9-512e-4aa6-9fea-c9d192886750",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Арёл на воле, брад",
+          "scoredAt": "2026-10-17T07:37:25.497Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -14829,7 +14835,7 @@
           "scoredAt": "2026-09-23T12:01:11.599Z"
         }
       ],
-      "fetchedAt": "2026-10-14T19:52:26.095Z",
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
       "current": true,
       "artistName": "Сармат Кокоев",
       "artistSlug": "sarmat-kokoev"
@@ -25350,8 +25356,14 @@
     },
     {
       "userId": "18dc1e76-02cf-4f7b-98cb-ea8e2c8b3600",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Весело пиздец",
+          "scoredAt": "2026-10-17T07:41:43.867Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -25371,7 +25383,7 @@
           "scoredAt": "2026-10-08T19:10:18.552Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:32:19.896Z",
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
       "current": true,
       "artistName": "kill confirmed",
       "artistSlug": "kill-confirmed"
@@ -28184,8 +28196,14 @@
     },
     {
       "userId": "0437d93e-1025-461a-8bc5-80413899906d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Вроде есть скил, круто и в текст и в технику можешь, но сделал вот этот сумбурный трек. Хз, впечатления так себе, особенно обилие неуместного мата, который моментами ваще хз зачем, что бы рифму и ритмику выдержать? Странный прием",
+          "scoredAt": "2026-10-17T07:33:20.939Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -28193,7 +28211,7 @@
           "scoredAt": "2026-10-16T07:31:26.474Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:32:22.250Z",
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
       "current": true,
       "artistName": "PadreMoralez",
       "artistSlug": "padremoralez"
@@ -36822,8 +36840,14 @@
     },
     {
       "userId": "d83df612-fe18-4ae5-b156-ece58c74c6dc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Припев вообще не вывез имхо\nЗачем такк вниз ушел, ну или обработал уже как-то, что бы звучало. Куплет был хорошим",
+          "scoredAt": "2026-10-17T07:40:43.526Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -36843,7 +36867,7 @@
           "scoredAt": "2026-10-09T12:59:49.831Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:12:21.441Z",
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
       "current": true,
       "artistName": "I-Stea",
       "artistSlug": "i-stea"
@@ -91565,8 +91589,14 @@
     },
     {
       "userId": "45734e3d-5755-447c-8c27-450d04a2d199",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Никита Лазарев, 20лет, ты молодец, спасибо, что зачитал нам свои строчки, у тебя хорошее начало. Ждем в нормальном качестве и с прокаченными скилами, в 22 года приходите и забирайте 20 независимый",
+          "scoredAt": "2026-10-17T07:36:19.009Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -91580,7 +91610,7 @@
           "scoredAt": "2026-10-17T06:19:30.822Z"
         }
       ],
-      "fetchedAt": "2026-10-17T06:32:07.383Z",
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
       "current": true,
       "artistName": "Никита Лазарев",
       "artistSlug": "nikita-lazarev-2"
