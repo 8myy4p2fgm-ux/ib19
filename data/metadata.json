@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T11:12:20.288Z",
-  "exportedAt": "2026-10-17T11:12:20.288Z",
-  "runId": "2026-10-17T11:12:20.288Z",
-  "forumExportedAt": "2026-10-17T11:12:20.288Z",
+  "lastSuccessfulAt": "2026-10-17T11:22:20.239Z",
+  "exportedAt": "2026-10-17T11:22:20.239Z",
+  "runId": "2026-10-17T11:22:20.239Z",
+  "forumExportedAt": "2026-10-17T11:22:20.239Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12465,
+    "scores": 12488,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 29,
+    "httpRequests": 26,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 27,
+    "updatedCards": 23,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 27,
-    "changedParticipants": 27,
-    "logicalRequests": 29,
-    "durationMs": 28710,
-    "scoresBefore": 12438,
-    "scoresAfter": 12465,
+    "participantsWithNewScores": 23,
+    "changedParticipants": 22,
+    "logicalRequests": 26,
+    "durationMs": 26030,
+    "scoresBefore": 12465,
+    "scoresAfter": 12488,
     "fullBaselineRequests": 3226,
-    "requestReductionPercent": 99.10105393676379,
+    "requestReductionPercent": 99.19404835709858,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "KONGA",
+          "comment": "Авансом ",
+          "scoredAt": "2026-10-17T11:21:52.313Z"
+        },
+        {
+          "judgeName": "Роженов",
           "score": 3,
-          "artist": "Кудрявое",
-          "comment": "",
-          "scoredAt": "2026-10-17T11:11:49.223Z"
+          "artist": "WHTQB",
+          "comment": "Есть годные панчи, в целом по рифме неплохо, вот сведос какой-то сомнительный, но я бы троечку тебе поставил авансом",
+          "scoredAt": "2026-10-17T11:21:15.434Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "artist": "МЦ Леонидик",
+          "comment": "Единственный минус в этом треке, что он заканчивается. Спасибо за участие!",
+          "scoredAt": "2026-10-17T11:21:10.504Z"
         },
         {
           "judgeName": "Никсон",
           "score": 2,
-          "artist": "Давид Шоуа",
-          "comment": "Думал, ставить 2 или 3, но рифмы не позволяют поставить проходную оценку.",
-          "scoredAt": "2026-10-17T11:11:17.219Z"
+          "artist": "Mom’s Nigga",
+          "comment": "Голос утопает, бит живёт отдельно, пока что рановато. Звучит очень и очень сыро.",
+          "scoredAt": "2026-10-17T11:21:05.531Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "Никсон",
           "score": 3,
-          "artist": "@aduwone",
-          "comment": "",
-          "scoredAt": "2026-10-17T11:10:50.250Z"
+          "artist": "Saint Y",
+          "comment": "Приятный голос и исполнение, поработать над текстом и будет лучше.",
+          "scoredAt": "2026-10-17T11:19:54.053Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "M.T.",
+          "comment": "Стильненько. Первые две четверки шедевральны по тексту, а с \"Год за годом будто Готтэм за окном\" - еще и вкусно начинает выглядеть по исполнению. ",
+          "scoredAt": "2026-10-17T11:19:11.970Z"
         },
         {
           "judgeName": "Samarskij",
           "score": 2,
-          "artist": "OnBonus",
-          "comment": "Жалко, что с кендриком не поехал в тур. Текст очень простой. Шторы тещи вообще ужас. Читаешь ровно, но не хватает подачи уверенной.",
-          "scoredAt": "2026-10-17T11:10:29.879Z"
+          "artist": "PAHAOX",
+          "comment": "Очень простой трек, братишка. Рановато для баттлов хип-хоп ру(это не я придумал такую формулировку).",
+          "scoredAt": "2026-10-17T11:19:04.140Z"
         },
         {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Роман Манакин",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T11:10:07.912Z"
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Сырный_Честер",
+          "comment": "Читка, ужасный бит и сведение съедают текст — я половину просто не разобрал. Это минус.",
+          "scoredAt": "2026-10-17T11:18:59.156Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Illusinati",
+          "comment": "Хорошая работа, отдельный плюс за рифмоконструкции",
+          "scoredAt": "2026-10-17T11:17:52.771Z"
         },
         {
           "judgeName": "Никсон",
           "score": 3,
-          "artist": "YASPAL",
-          "comment": "Колебался между тройкой и двойкой.",
-          "scoredAt": "2026-10-17T11:10:06.280Z"
+          "artist": "Руслан Ситдыков",
+          "comment": "Дослушал без раздражения, переслушивать не тянет. Ну и рифмы надо подтянуть.",
+          "scoredAt": "2026-10-17T11:16:56.834Z"
         },
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "Гарикъ Истерин",
           "score": 3,
-          "artist": "СИЛЕН",
-          "comment": "",
-          "scoredAt": "2026-10-17T11:09:31.377Z"
+          "artist": "под лирикой",
+          "comment": "Че не перезаписал предпоследнюю строчку, испортил впечатление. Тебе надо больше кекные строчек видимо делать с такой подачей, по тексту слабо, исполнение тоже, харизма абсурдиста напрашивается, давай 3 авансом , потанцевал проглядывается так что тащи его сюда ",
+          "scoredAt": "2026-10-17T11:16:31.979Z"
         },
         {
           "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Asad2",
-          "comment": "Мое почтение манере рифмовать, но очень неуверенное исполнение плюс где хоть что-то по теме?",
-          "scoredAt": "2026-10-17T11:09:07.235Z"
+          "score": 4,
+          "artist": "Ничевок",
+          "comment": "В текст и рифму умеешь, это главное. Стилек свой есть. Конкретный трек звучит утомительно, но думаю ты во втором сможешь сделать выводы верные. Авансом 4 балла. ",
+          "scoredAt": "2026-10-17T11:16:13.185Z"
         },
         {
           "judgeName": "Никсон",
-          "score": 3,
-          "artist": "МЦ КОЛОКОЛЬЧИК",
-          "comment": "На рифмы ты подзабил, зато подача прикольная — смешно, но не более.",
-          "scoredAt": "2026-10-17T11:08:49.363Z"
+          "score": 2,
+          "artist": "ЭКСАЙЗ",
+          "comment": "По звуку терпимо, текст не вытягивает вообще. Отсюда и двойка.",
+          "scoredAt": "2026-10-17T11:15:11.837Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "HTM IN DAT",
+          "artist": "вокинъяле",
           "comment": "",
-          "scoredAt": "2026-10-17T11:08:44.866Z"
+          "scoredAt": "2026-10-17T11:14:55.851Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 4,
-          "artist": "НИТЛЕР T-GIRL [#КБС]",
+          "artist": "pqtriot",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T11:08:07.240Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Егор Георгиев",
-          "comment": "Однообразный слабый флоу, к середине надоело. Не зашло.",
-          "scoredAt": "2026-10-17T11:07:28.322Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "F3ckItNow",
-          "comment": "Жаль, что трек не на баттл, в стилечке что-то есть и по тексту тоже",
-          "scoredAt": "2026-10-17T11:07:12.121Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "artist": "Geroy",
-          "comment": "Скучно, однообразно, еще опыта надо набираться, братик, лучше сконцентрируйся на сучках из текста пока что ",
-          "scoredAt": "2026-10-17T11:07:06.383Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "XiGzz",
-          "comment": "",
-          "scoredAt": "2026-10-17T11:06:45.437Z"
+          "scoredAt": "2026-10-17T11:14:15.306Z"
         }
       ]
     }
