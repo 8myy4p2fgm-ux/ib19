@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-17T10:42:11.560Z",
+  "exportedAt": "2026-10-17T10:52:09.595Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3241,6 +3241,12 @@
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
       "veteran": true,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "О да это же Том Харди! Стильно навалил, панчули пристутсвуют. Был бы еще не рэп про рэп поставил бы пятерку.",
+          "scoredAt": "2026-10-17T10:45:53.452Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
