@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T14:22:32.250Z",
-  "exportedAt": "2026-10-17T14:22:32.250Z",
-  "runId": "2026-10-17T14:22:32.250Z",
-  "forumExportedAt": "2026-10-17T14:22:32.250Z",
+  "lastSuccessfulAt": "2026-10-17T14:32:27.874Z",
+  "exportedAt": "2026-10-17T14:32:27.874Z",
+  "runId": "2026-10-17T14:32:27.874Z",
+  "forumExportedAt": "2026-10-17T14:32:27.874Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12854,
+    "scores": 12884,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -30,13 +30,13 @@
     "mode": "incremental",
     "participants": 3279,
     "participantsWithNewScores": 30,
-    "changedParticipants": 28,
+    "changedParticipants": 29,
     "logicalRequests": 33,
-    "durationMs": 33416,
-    "scoresBefore": 12823,
-    "scoresAfter": 12854,
-    "fullBaselineRequests": 3241,
-    "requestReductionPercent": 98.98179574205493,
+    "durationMs": 33445,
+    "scoresBefore": 12854,
+    "scoresAfter": 12884,
+    "fullBaselineRequests": 3242,
+    "requestReductionPercent": 98.98210980876001,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "вечный жид",
-          "comment": "Золотая середина. Осуждаем наркоманов.",
-          "scoredAt": "2026-10-17T14:21:31.859Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Benny Baxx",
-          "comment": "Текст прикольный, есть реально удачные панчи. Но припев мне не зашёл: как будто сбил тот темп, который ты хорошо набрал в куплете. Ставлю четыре",
-          "scoredAt": "2026-10-17T14:21:28.630Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 2,
-          "artist": "Tixtinbix",
-          "comment": "Неплохая попытка для первого раза. Ускорения не вывез. Подача слабовата, больше похоже, что ты пытаешься с выражением рассказать стих, который только что увидел.",
-          "scoredAt": "2026-10-17T14:21:01.524Z"
-        },
-        {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
-          "artist": "thatguyisugly",
-          "comment": "Есть панчики годные , много строчек хороших. Добавь уверенности в подачу. Хорошо закончил сильной строчкой! Лови 5 с минусом, броузи усиль подачу уверенностью и дай эмоций! ",
-          "scoredAt": "2026-10-17T14:20:57.084Z"
+          "artist": "фанатсонигрезе",
+          "comment": "Ждал тебя)) лови 5, хорошо по тексту/панчам, подача бодрая как всегда, проходите дальше, не задерживайтесь, вас там ждут ",
+          "scoredAt": "2026-10-17T14:31:38.183Z"
         },
         {
           "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "NoReason",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T14:20:32.360Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
           "score": 3,
-          "artist": "ДВОЙНОЙ ДИАГНОЗ",
-          "comment": "Даже в таком стиле нужно уметь попадать если не в бит, то хотя бы в мелодию. Потенциал есть, но пока слабовато.",
-          "scoredAt": "2026-10-17T14:19:59.840Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "VSD",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T14:19:59.149Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Tales",
-          "comment": "Голос тихо звучит. Средненько по исполнению и тексту.",
-          "scoredAt": "2026-10-17T14:18:50.708Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "Черный",
-          "comment": "Есть удачные трушные барсы, хорошее звучание, голос приятный хорошо сочетается с битом! Красавчик, можно добавить разнообразия, но в целом и так сойдет ",
-          "scoredAt": "2026-10-17T14:18:31.111Z"
+          "artist": "Sunverse",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:31:29.649Z"
         },
         {
           "judgeName": "Никсон",
           "score": 2,
-          "artist": "crushh3r",
-          "comment": "8 строк. Ну если нечего писать, то зачем идти на баттл.",
-          "scoredAt": "2026-10-17T14:18:00.719Z"
+          "artist": "XXFeuer",
+          "comment": "Начало было многообещающим, а дальше я как-то потерял интерес. Повторяется одна и та же подача, не хватает ни развития, ни концовки. Пока два",
+          "scoredAt": "2026-10-17T14:31:10.810Z"
         },
         {
-          "judgeName": "OFFSTAGE",
+          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Nilmak",
-          "comment": "Тебе надо поработать над ритмикой. Очень неровно читаешь - то неплохо, то мимо.",
-          "scoredAt": "2026-10-17T14:18:00.021Z"
+          "artist": "Tha_Cool",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:31:06.184Z"
         },
         {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "IRoNiST",
-          "comment": "Плотно зачитал, звучит хорошо. Немного за текст снизил.",
-          "scoredAt": "2026-10-17T14:16:56.576Z"
-        },
-        {
-          "judgeName": "Никсон",
+          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "SHOVE",
-          "comment": "Местами прям плохо было по звуку. Но скорее проход, чем непроход.",
-          "scoredAt": "2026-10-17T14:16:43.535Z"
+          "artist": "FVRUM",
+          "comment": "авансом",
+          "scoredAt": "2026-10-17T14:30:07.837Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
-          "artist": "Twint",
-          "comment": "Панч про квадраты нормасный, залупки в дядю приветствуются. Иногда ритмически не особо понравились твои решения, в целом понравился трек ",
-          "scoredAt": "2026-10-17T14:16:01.266Z"
+          "artist": "Bug Dan",
+          "comment": "1 половина понравилась , хорошо звучишь под этот бит с колких строчек парочку бы добавил и поставил бы 5",
+          "scoredAt": "2026-10-17T14:29:55.592Z"
         },
         {
           "judgeName": "Никсон",
+          "score": 3,
+          "artist": "purplxpunk",
+          "comment": "Не могу определиться, понравилось мне или просто не раздражало. Но стилёк не мой. Пусть будет три",
+          "scoredAt": "2026-10-17T14:29:17.231Z"
+        },
+        {
+          "judgeName": "AL Hammer",
           "score": 2,
-          "artist": "Музыка индустриальных районов",
-          "comment": "Идею я, может быть, понимаю, но в самом треке она не раскрылась. Звук мешает слушать, а текст не вытягивает.",
-          "scoredAt": "2026-10-17T14:15:48.920Z"
+          "artist": "Indigirka",
+          "comment": "авансом",
+          "scoredAt": "2026-10-17T14:29:04.298Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "AINER",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:28:42.396Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Илья Вайт",
+          "comment": "Ну честно говоря, скучноватая работа. Однообразно достаточно, но проход, как по мне",
+          "scoredAt": "2026-10-17T14:28:25.331Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "DREAD_LOCK",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:28:06.764Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ASSCOL",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T14:27:30.882Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Raticat.e",
+          "comment": "Какой-то спорный момент с подтягиваниями. Но начало очень хорошее.",
+          "scoredAt": "2026-10-17T14:27:23.646Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "litt.",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:26:44.977Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "SVAMI",
+          "comment": "Простовато по флоу, простовато по тексту. Тяжело будет во втором раунде, если не уделишь этим аспектам внинмание.",
+          "scoredAt": "2026-10-17T14:26:33.301Z"
         }
       ]
     }

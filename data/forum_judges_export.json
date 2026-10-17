@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-17T14:22:32.250Z",
+  "exportedAt": "2026-10-17T14:32:27.874Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1116,6 +1116,12 @@
       "forum_name": "Tha_Cool",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T14:31:06.184Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
