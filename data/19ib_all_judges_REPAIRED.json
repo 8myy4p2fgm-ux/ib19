@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T20:21:59.231Z",
+  "exportedAt": "2026-10-17T20:31:52.805Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -57676,8 +57676,14 @@
     },
     {
       "userId": "e2e7f69d-3f66-460d-b2f2-0097fe5029d4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T20:28:50.340Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -57703,7 +57709,7 @@
           "scoredAt": "2026-10-03T10:21:08.888Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-17T20:31:52.805Z",
       "current": true,
       "artistName": "dk.ghost7",
       "artistSlug": "dk-ghost7"
@@ -103625,8 +103631,14 @@
     },
     {
       "userId": "73718cb1-6ecc-4726-ae59-35e24f759802",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "comment": "Во втором жду от тебя крутой работы. ",
+          "scoredAt": "2026-10-17T20:22:04.403Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -103652,7 +103664,7 @@
           "scoredAt": "2026-10-10T00:24:59.331Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:42:08.135Z",
+      "fetchedAt": "2026-10-17T20:31:52.805Z",
       "current": true,
       "artistName": "4sgm",
       "artistSlug": "4sgm"

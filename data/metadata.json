@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T20:21:59.231Z",
-  "exportedAt": "2026-10-17T20:21:59.231Z",
-  "runId": "2026-10-17T20:21:59.231Z",
-  "forumExportedAt": "2026-10-17T20:21:59.231Z",
+  "lastSuccessfulAt": "2026-10-17T20:31:52.805Z",
+  "exportedAt": "2026-10-17T20:31:52.805Z",
+  "runId": "2026-10-17T20:31:52.805Z",
+  "forumExportedAt": "2026-10-17T20:31:52.805Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13257,
+    "scores": 13259,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4085,
-    "scoresBefore": 13255,
-    "scoresAfter": 13257,
+    "durationMs": 4014,
+    "scoresBefore": 13257,
+    "scoresAfter": 13259,
     "fullBaselineRequests": 3249,
     "requestReductionPercent": 99.87688519544476,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "dk.ghost7",
+          "comment": "",
+          "scoredAt": "2026-10-17T20:28:50.340Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 4,
+          "artist": "4sgm",
+          "comment": "Во втором жду от тебя крутой работы. ",
+          "scoredAt": "2026-10-17T20:22:04.403Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "Bishamon",
           "comment": "квадратами весь трек испортил ",
           "scoredAt": "2026-10-17T19:59:35.758Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 4,
-          "artist": "МС ЛОБОК [#КБС]",
-          "comment": "",
-          "scoredAt": "2026-10-17T19:54:00.772Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 2,
-          "artist": "96lock",
-          "comment": "Слабо по всем критериям ",
-          "scoredAt": "2026-10-17T19:52:06.511Z"
         }
       ]
     }
