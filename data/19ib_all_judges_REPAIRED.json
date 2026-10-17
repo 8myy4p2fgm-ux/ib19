@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T07:11:48.300Z",
+  "exportedAt": "2026-10-17T07:21:51.634Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -53470,8 +53470,14 @@
     },
     {
       "userId": "4ca777e5-47ba-4413-b80f-912422cb7a43",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Чувствуешь эту тему, наполняй текст",
+          "scoredAt": "2026-10-17T07:15:32.127Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -53485,7 +53491,7 @@
           "scoredAt": "2026-10-14T15:27:42.260Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:42:38.697Z",
+      "fetchedAt": "2026-10-17T07:21:51.634Z",
       "current": true,
       "artistName": "33black",
       "artistSlug": "33black"
@@ -57481,8 +57487,14 @@
     },
     {
       "userId": "85ec9faa-38f4-4fd3-8c64-bea6ed38cd1a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 1,
+          "comment": "Туц туц туц",
+          "scoredAt": "2026-10-17T07:21:06.770Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -57502,7 +57514,7 @@
           "scoredAt": "2026-10-14T17:05:51.556Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:52:41.382Z",
+      "fetchedAt": "2026-10-17T07:21:51.634Z",
       "current": true,
       "artistName": "Сын ДиМасты",
       "artistSlug": "syn-dimasty"
@@ -67443,8 +67455,14 @@
     },
     {
       "userId": "d6f7d0ed-3c4c-4d18-9ba9-605bf2da74af",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Интонациями странными заканчиваешь квадрат. Звучит как будто сбиваешься.  Ритмически текст вылазит за битло + беки прям в лоб, звучит как каша, демка ",
+          "scoredAt": "2026-10-17T07:20:23.324Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -67452,7 +67470,7 @@
           "scoredAt": "2026-09-24T15:16:23.412Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T07:21:51.634Z",
       "current": true,
       "artistName": "Серый Свет",
       "artistSlug": "seryy-svet"
@@ -101267,8 +101285,14 @@
     },
     {
       "userId": "fda3d205-a2dd-40f7-a4fd-8e3bb3894553",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T07:16:31.377Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -101288,7 +101312,7 @@
           "scoredAt": "2026-10-12T18:53:04.794Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:42:39.249Z",
+      "fetchedAt": "2026-10-17T07:21:51.634Z",
       "current": true,
       "artistName": "programmist",
       "artistSlug": "programmist"

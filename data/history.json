@@ -127696,6 +127696,62 @@
         "scoredAt": "2026-10-17T06:53:27.456Z",
         "userId": "3eaa27ae-2e91-488f-9f7b-d580234dc97c"
       }
+    },
+    {
+      "id": "d2c0355072438df621e94afdd10f1d9c5794b87b06ff0c26de08e56bf7dbccdb",
+      "observedAt": "2026-10-17T07:21:51.634Z",
+      "sourceScoredAt": "2026-10-17T07:15:32.127Z",
+      "key": "[\"4ca777e5-47ba-4413-b80f-912422cb7a43\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Чувствуешь эту тему, наполняй текст",
+        "scoredAt": "2026-10-17T07:15:32.127Z",
+        "userId": "4ca777e5-47ba-4413-b80f-912422cb7a43"
+      }
+    },
+    {
+      "id": "1f2d66fa2a488c2c6115d4da7206dc5fb2f28aeaae2fbd835a931982e894c0f1",
+      "observedAt": "2026-10-17T07:21:51.634Z",
+      "sourceScoredAt": "2026-10-17T07:21:06.770Z",
+      "key": "[\"85ec9faa-38f4-4fd3-8c64-bea6ed38cd1a\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 1,
+        "comment": "Туц туц туц",
+        "scoredAt": "2026-10-17T07:21:06.770Z",
+        "userId": "85ec9faa-38f4-4fd3-8c64-bea6ed38cd1a"
+      }
+    },
+    {
+      "id": "aeef75dd24dcb09613e3c6dc2f0cb1c7243d738474d62e9153169fe2526c9cd1",
+      "observedAt": "2026-10-17T07:21:51.634Z",
+      "sourceScoredAt": "2026-10-17T07:20:23.324Z",
+      "key": "[\"d6f7d0ed-3c4c-4d18-9ba9-605bf2da74af\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Интонациями странными заканчиваешь квадрат. Звучит как будто сбиваешься.  Ритмически текст вылазит за битло + беки прям в лоб, звучит как каша, демка ",
+        "scoredAt": "2026-10-17T07:20:23.324Z",
+        "userId": "d6f7d0ed-3c4c-4d18-9ba9-605bf2da74af"
+      }
+    },
+    {
+      "id": "1b341302ef956abfce154e1fe1597f06f6e2362c083c23dfd0b5c6012caa2c46",
+      "observedAt": "2026-10-17T07:21:51.634Z",
+      "sourceScoredAt": "2026-10-17T07:16:31.377Z",
+      "key": "[\"fda3d205-a2dd-40f7-a4fd-8e3bb3894553\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T07:16:31.377Z",
+        "userId": "fda3d205-a2dd-40f7-a4fd-8e3bb3894553"
+      }
     }
   ],
   "snapshots": [
@@ -134695,6 +134751,26 @@
           "index": 28.8495106216113,
           "favor": 18.013487401077825,
           "attention": -0.15234887248977913,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T07:21:51.634Z",
+      "exportedAt": "2026-10-17T07:21:51.634Z",
+      "scores": 12108,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.095389717350614,
+          "favor": 9.228597739217232,
+          "attention": 6.280076110974711,
+          "respect": 6.586715867158672
+        },
+        "veterans": {
+          "index": 28.8636819836414,
+          "favor": 18.017315185295196,
+          "attention": -0.1420052946770504,
           "respect": 10.988372093023257
         }
       }

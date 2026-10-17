@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T07:11:48.300Z",
-  "exportedAt": "2026-10-17T07:11:48.300Z",
-  "runId": "2026-10-17T07:11:48.300Z",
-  "forumExportedAt": "2026-10-17T07:11:48.300Z",
+  "lastSuccessfulAt": "2026-10-17T07:21:51.634Z",
+  "exportedAt": "2026-10-17T07:21:51.634Z",
+  "runId": "2026-10-17T07:21:51.634Z",
+  "forumExportedAt": "2026-10-17T07:21:51.634Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12104,
+    "scores": 12108,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1913,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6336,
     "scoresBefore": 12104,
-    "scoresAfter": 12104,
+    "scoresAfter": 12108,
     "fullBaselineRequests": 3212,
-    "requestReductionPercent": 99.93773349937733,
+    "requestReductionPercent": 99.813200498132,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Paradise",
+          "score": 1,
+          "artist": "Сын ДиМасты",
+          "comment": "Туц туц туц",
+          "scoredAt": "2026-10-17T07:21:06.770Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Серый Свет",
+          "comment": "Интонациями странными заканчиваешь квадрат. Звучит как будто сбиваешься.  Ритмически текст вылазит за битло + беки прям в лоб, звучит как каша, демка ",
+          "scoredAt": "2026-10-17T07:20:23.324Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "programmist",
+          "comment": "",
+          "scoredAt": "2026-10-17T07:16:31.377Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "33black",
+          "comment": "Чувствуешь эту тему, наполняй текст",
+          "scoredAt": "2026-10-17T07:15:32.127Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -159,34 +187,6 @@
           "artist": "sou kaannet",
           "comment": "Спасибо за трек! \nТекст: грязно очень, со старта\nИсполнение: прикольно читаешь, но скучновато\nОбщее впечатление: давай попробуем во втором над качеством поработать, можешь раскрыться интересно\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-17T06:32:30.040Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Богдан Журавлев",
-          "comment": "Хуйоу. Текст прикладывай, приколист, у меня не феноменальная память, чтобы помнить, что мне по тексту анализировать и выписывать. В принципе, рифмабельно и скилл читаки неплохой, хоть и не идеально тараторишь. Весьма поверхностно, конечно, по содержанию. Дам шанс тебе тройкой",
-          "scoredAt": "2026-10-17T06:32:27.502Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "LPFROMZLT",
-          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: неплохо, но можешь лучше\nОбщее впечатление: зачем делать вступления такие длинные? чтото в твоем треке есть, давай попробуем во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:31:48.174Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 1,
-          "artist": "_March",
-          "comment": "Спасибо за трек! \nТекст: слезы и нытье, слабенько\nИсполнение: скучно\nОбщее впечатление: пока что мы к такому не готовы, домофонная запись\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:31:03.910Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "V",
-          "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: скучно читать по слогам\nОбщее впечатление: слабо очень и неинтересно, рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:29:58.705Z"
         }
       ]
     }
