@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T00:22:00.991Z",
+  "exportedAt": "2026-10-17T00:31:55.996Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -49994,8 +49994,14 @@
     },
     {
       "userId": "ae54601b-287d-4042-a2ec-941f73c5928d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Посыл не очень понравился, просто не моё, но по технике хорошо. ",
+          "scoredAt": "2026-10-17T00:24:02.515Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -50015,7 +50021,7 @@
           "scoredAt": "2026-09-11T12:46:59.064Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:02:10.406Z",
+      "fetchedAt": "2026-10-17T00:31:55.996Z",
       "current": true,
       "artistName": "NotaB",
       "artistSlug": "notab"
@@ -104165,8 +104171,14 @@
     },
     {
       "userId": "b2e1653a-3e18-4119-9798-891bf670b5f7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Ну хоть что-то по теме бы... Я уже не понимаю где люди сдают свои старые работы, а где пишут на отбор. Ну нельзя же просто сдать что-то, что норм звучит и показать, что ты умеешь в рэп. Тут и рэпа маловато и вообще не баттлово, отдам на откуп другим судьям.",
+          "scoredAt": "2026-10-17T00:22:30.693Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -104186,7 +104198,7 @@
           "scoredAt": "2026-10-14T16:19:08.905Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:52:41.382Z",
+      "fetchedAt": "2026-10-17T00:31:55.996Z",
       "current": true,
       "artistName": "Илья Чичёткин",
       "artistSlug": "ilya-chichetkin"

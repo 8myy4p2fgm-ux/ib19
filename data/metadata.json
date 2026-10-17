@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T00:22:00.991Z",
-  "exportedAt": "2026-10-17T00:22:00.991Z",
-  "runId": "2026-10-17T00:22:00.991Z",
-  "forumExportedAt": "2026-10-17T00:22:00.991Z",
+  "lastSuccessfulAt": "2026-10-17T00:31:55.996Z",
+  "exportedAt": "2026-10-17T00:31:55.996Z",
+  "runId": "2026-10-17T00:31:55.996Z",
+  "forumExportedAt": "2026-10-17T00:31:55.996Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12008,
+    "scores": 12010,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7303,
-    "scoresBefore": 12003,
-    "scoresAfter": 12008,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4269,
+    "scoresBefore": 12008,
+    "scoresAfter": 12010,
     "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.78152309612985,
+    "requestReductionPercent": 99.87515605493134,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "NotaB",
+          "comment": "Посыл не очень понравился, просто не моё, но по технике хорошо. ",
+          "scoredAt": "2026-10-17T00:24:02.515Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Илья Чичёткин",
+          "comment": "Ну хоть что-то по теме бы... Я уже не понимаю где люди сдают свои старые работы, а где пишут на отбор. Ну нельзя же просто сдать что-то, что норм звучит и показать, что ты умеешь в рэп. Тут и рэпа маловато и вообще не баттлово, отдам на откуп другим судьям.",
+          "scoredAt": "2026-10-17T00:22:30.693Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -173,20 +187,6 @@
           "artist": "Greenflex",
           "comment": "Самое стандартное раскрытие. Уже немного надоело слушать одинаковые треки. Девушка в конце удивила. ",
           "scoredAt": "2026-10-17T00:04:33.116Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "YAGJI",
-          "comment": "Не хватаем этому трека качества. Качество+сведение и ты будешь звучать сильно круче. ",
-          "scoredAt": "2026-10-17T00:03:15.841Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 5,
-          "artist": "Буквально Я",
-          "comment": "За уникальный стиль докидываю балл до 5. Оригинально звучит, видно что умеешь делать и знаешь куда идёшь.",
-          "scoredAt": "2026-10-17T00:02:00.534Z"
         }
       ]
     }
