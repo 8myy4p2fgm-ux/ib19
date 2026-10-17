@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T02:11:53.651Z",
+  "exportedAt": "2026-10-17T02:21:59.536Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -19266,8 +19266,14 @@
     },
     {
       "userId": "7e8b54dc-17b7-436b-8a57-45e2acaa068b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Вот этот перфоманс мне нравится больше, чем оригинал \nебаните во 2 кто круче, тот и настоящий! ",
+          "scoredAt": "2026-10-17T02:12:28.489Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -19293,7 +19299,7 @@
           "scoredAt": "2026-09-06T16:44:22.335Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T02:21:59.536Z",
       "current": true,
       "artistName": "Give my Oscar",
       "artistSlug": "give-my-oscar"

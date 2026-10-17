@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T02:11:53.651Z",
-  "exportedAt": "2026-10-17T02:11:53.651Z",
-  "runId": "2026-10-17T02:11:53.651Z",
-  "forumExportedAt": "2026-10-17T02:11:53.651Z",
+  "lastSuccessfulAt": "2026-10-17T02:21:59.536Z",
+  "exportedAt": "2026-10-17T02:21:59.536Z",
+  "runId": "2026-10-17T02:21:59.536Z",
+  "forumExportedAt": "2026-10-17T02:21:59.536Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12021,
+    "scores": 12022,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 7820,
-    "scoresBefore": 12015,
-    "scoresAfter": 12021,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3403,
+    "scoresBefore": 12021,
+    "scoresAfter": 12022,
     "fullBaselineRequests": 3206,
-    "requestReductionPercent": 99.75046787273861,
+    "requestReductionPercent": 99.90642545227698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Give my Oscar",
+          "comment": "Вот этот перфоманс мне нравится больше, чем оригинал \nебаните во 2 кто круче, тот и настоящий! ",
+          "scoredAt": "2026-10-17T02:12:28.489Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -180,13 +187,6 @@
           "artist": "твой дорогой сх",
           "comment": "Это какая-то абстракция, я вообще не понимаю половину твоего текста. Структурировать бы все эти мысли.",
           "scoredAt": "2026-10-17T00:20:02.794Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "litt.",
-          "comment": "Средне. Для меня между 2 и 3. ",
-          "scoredAt": "2026-10-17T00:18:37.366Z"
         }
       ]
     }
