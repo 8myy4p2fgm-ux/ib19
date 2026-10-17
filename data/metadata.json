@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T09:52:10.497Z",
-  "exportedAt": "2026-10-17T09:52:10.497Z",
-  "runId": "2026-10-17T09:52:10.497Z",
-  "forumExportedAt": "2026-10-17T09:52:10.497Z",
+  "lastSuccessfulAt": "2026-10-17T10:02:28.111Z",
+  "exportedAt": "2026-10-17T10:02:28.111Z",
+  "runId": "2026-10-17T10:02:28.111Z",
+  "forumExportedAt": "2026-10-17T10:02:28.111Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12316,
+    "scores": 12339,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 23,
+    "httpRequests": 26,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 20,
+    "updatedCards": 23,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 20,
-    "changedParticipants": 19,
-    "logicalRequests": 23,
-    "durationMs": 23126,
-    "scoresBefore": 12296,
-    "scoresAfter": 12316,
-    "fullBaselineRequests": 3223,
-    "requestReductionPercent": 99.28637914986038,
+    "participantsWithNewScores": 23,
+    "changedParticipants": 22,
+    "logicalRequests": 26,
+    "durationMs": 26077,
+    "scoresBefore": 12316,
+    "scoresAfter": 12339,
+    "fullBaselineRequests": 3224,
+    "requestReductionPercent": 99.19354838709677,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Трушный Душный",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:51:39.116Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "RabbiT KroLL",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:51:23.263Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "F1SK",
-          "comment": "Очень топорная околоквадратная рифмовка, текст пустоват, но зачитал хорошо",
-          "scoredAt": "2026-10-17T09:49:34.243Z"
-        },
-        {
-          "judgeName": "AL Hammer",
           "score": 2,
-          "artist": "lil Leex",
+          "artist": "Kirieshka",
           "comment": "",
-          "scoredAt": "2026-10-17T09:48:24.566Z"
+          "scoredAt": "2026-10-17T10:01:42.296Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "ОДА",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:47:40.445Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "СЫНЛУНЫ",
-          "comment": "Проходная, но скучная работа , староват уже такой тексток честно говоря, добавь разнообразия и строчки поинтересней пж, авансом 3. Время идет, и надо с ним в ногу , либо делать очень вкусное старьё, юноу",
-          "scoredAt": "2026-10-17T09:47:35.729Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "Adamant",
-          "comment": "Здарова, Каже Обойма. Квадратненько, но оч плотно по рифме, атмосферно, напор есть",
-          "scoredAt": "2026-10-17T09:47:24.611Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Stan XSam",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:47:09.900Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Шпиш",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:46:56.737Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "NEBES1",
+          "artist": "MicSoloG",
           "comment": "Авансом",
-          "scoredAt": "2026-10-17T09:46:32.285Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Ts-Seven",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:45:28.157Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "GrustNoFact",
-          "comment": "Хорошо по тексту, нормасик ваще. Выдержано, приятно. Рифмы бы тебе сюда красивые ещё как и твой голос на бите, лови 4 с минусом , в следующем жду с красотой ",
-          "scoredAt": "2026-10-17T09:45:08.903Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 1,
-          "artist": "!хачухачапури",
-          "comment": "Охуительно",
-          "scoredAt": "2026-10-17T09:44:29.338Z"
+          "scoredAt": "2026-10-17T10:01:20.045Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "MLV.LVN",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:43:47.508Z"
+          "artist": "Montano",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:00:15.801Z"
         },
         {
           "judgeName": "Роженов",
-          "score": 4,
-          "artist": "KOLPAK_ZhZ",
-          "comment": "Что это за дрочь в конце, какой-то недоскит, как в лужу пёрнул?\nДопустим, если закрыть глаза на эту сомнительную херню, то в целом неплохо – тема раскрыта, рифмовка плотная (при мелькающей квадратности-то), техника неплохая. Четыре с минусом, брат.",
-          "scoredAt": "2026-10-17T09:43:42.758Z"
+          "score": 5,
+          "artist": "Ардхона",
+          "comment": "Звучишь, конечно, когда орёшь, как рофлящий Репин. Угарно, ударно, рифмабельно, читку и звук подтянула и жанрово попадание на этот раз.",
+          "scoredAt": "2026-10-17T09:59:45.068Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "TRUESTYLO",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:59:37.893Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Притаившийся Лют",
+          "comment": "Харизматично, но по тексту очень просто. И еще зря тянешь ноты. Лучше просто зачитать, но ровно. Поставлю тройку, но это с авансом.",
+          "scoredAt": "2026-10-17T09:59:30.298Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Андрей Карташов",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:59:12.711Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "PETKO",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:58:24.523Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "waystoconnecticut",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:57:41.511Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ZYKOVA",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:57:00.198Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Тинки Винки",
+          "comment": "дипси, ляля, по",
+          "scoredAt": "2026-10-17T09:56:44.507Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "kozha[мутанты squad]",
+          "comment": "слишком комично ",
+          "scoredAt": "2026-10-17T09:56:18.695Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ripvanwinkle",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:55:58.336Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "РэдФлаг",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:55:35.529Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "48Ронин",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:54:57.961Z"
         }
       ]
     }
