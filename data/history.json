@@ -128354,6 +128354,104 @@
         "scoredAt": "2026-10-17T08:04:40.742Z",
         "userId": "3ad90b61-dab1-4e4c-a242-97dd95d97548"
       }
+    },
+    {
+      "id": "e0421bad5ab72cfa0f1eb5ce182a01d91c82a81390a6019c9c0b93ab9798c8fe",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:13:12.042Z",
+      "key": "[\"a5d7350b-533f-4616-afca-c079826d9b19\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:13:12.042Z",
+        "userId": "a5d7350b-533f-4616-afca-c079826d9b19"
+      }
+    },
+    {
+      "id": "a4e526c72e94e6e09f8ace3ac0b33f200fb4e334b3ed1e1f39ace84e8005a8a1",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:17:04.518Z",
+      "key": "[\"7452def7-23dd-4d5c-8ef3-d16b9d3a53a4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "У это ебать как стильно. Очень хороший арэнби. За звук, кач и вайб поставлю четверку. Будет круто, если ты в эту форму завернешь еще тексток хотя-бы средненький) Мы же на хип-хоп баттле как-никак.",
+        "scoredAt": "2026-10-17T08:17:04.518Z",
+        "userId": "7452def7-23dd-4d5c-8ef3-d16b9d3a53a4"
+      }
+    },
+    {
+      "id": "8985bca993f5f51a518fc5dfb99349cfac3556d7445f7d1a43926d98c6611ef8",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:14:54.508Z",
+      "key": "[\"e4f83f2d-1194-48a7-9f9b-4817bb1cf54c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Весело и вайбово. Текст неплохой, есть много хороших моментов, но как-то сумбурно. Постарайся во втором(если пройдешь) причесать тексток и чутка добавить харизмы в исполнение. Тогда будет вышка и шансы на парный. Пока твердая четверка.",
+        "scoredAt": "2026-10-17T08:14:54.508Z",
+        "userId": "e4f83f2d-1194-48a7-9f9b-4817bb1cf54c"
+      }
+    },
+    {
+      "id": "86659504ff256373b822f9e2eb4de2671ddea782ec265bb4bace2afd868977e3",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:12:10.948Z",
+      "key": "[\"19abbca2-9224-44e7-99ef-18a2bcc28a66\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:12:10.948Z",
+        "userId": "19abbca2-9224-44e7-99ef-18a2bcc28a66"
+      }
+    },
+    {
+      "id": "f1dcefc8251442c26b17d7ffd1d6d9b2567aaba8ae0e2cbc9c14d65cf6a39345",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:14:11.733Z",
+      "key": "[\"8920271e-ecc9-4a25-810c-910ae7d882fe\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом ",
+        "scoredAt": "2026-10-17T08:14:11.733Z",
+        "userId": "8920271e-ecc9-4a25-810c-910ae7d882fe"
+      }
+    },
+    {
+      "id": "e0ec4c607c903f8570b2704825bfbfaf233a7e20e02751a1b805888af6cf5cfa",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:15:18.583Z",
+      "key": "[\"8d765fb8-76f3-4bc1-8fbf-9f77c065701f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:15:18.583Z",
+        "userId": "8d765fb8-76f3-4bc1-8fbf-9f77c065701f"
+      }
+    },
+    {
+      "id": "4096959024e14b42146a89c0004c01179b216f844a0a98775d469e5df6a2f2be",
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "sourceScoredAt": "2026-10-17T08:16:53.637Z",
+      "key": "[\"68189d14-d767-40d2-bddd-5364a82b5c47\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:16:53.637Z",
+        "userId": "68189d14-d767-40d2-bddd-5364a82b5c47"
+      }
     }
   ],
   "snapshots": [
@@ -135473,6 +135571,26 @@
           "index": 28.97443759897139,
           "favor": 18.03022946303869,
           "attention": -0.04416395709055532,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:21:53.967Z",
+      "exportedAt": "2026-10-17T08:21:53.967Z",
+      "scores": 12158,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.03124425668581,
+          "favor": 9.247789663568609,
+          "attention": 6.193381063705435,
+          "respect": 6.5900735294117645
+        },
+        "veterans": {
+          "index": 28.980044305897174,
+          "favor": 18.02878508720205,
+          "attention": -0.037112874328129,
           "respect": 10.988372093023257
         }
       }
