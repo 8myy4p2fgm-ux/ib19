@@ -143704,6 +143704,62 @@
         "scoredAt": "2026-10-17T19:20:49.772Z",
         "userId": "3edb9e64-1c1b-4f97-96b4-c1c90ad2e546"
       }
+    },
+    {
+      "id": "ab198a63fecedd223ae0ede661b6be3c4c3ea942c8b08f1e4f71f8c907195f85",
+      "observedAt": "2026-10-17T19:32:06.944Z",
+      "sourceScoredAt": "2026-10-17T19:27:22.574Z",
+      "key": "[\"4a9dcbd6-66e8-46a6-b8a0-793ac4dab676\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень дефолтно и часть текста произошёл спиздинг как понимаю, но при прослушки не нашёл чего то интересного",
+        "scoredAt": "2026-10-17T19:27:22.574Z",
+        "userId": "4a9dcbd6-66e8-46a6-b8a0-793ac4dab676"
+      }
+    },
+    {
+      "id": "108e8d7ca1eb3ce76c32fb6687d948529cc6e932c9e23cf192ef18ba4ea2d2f1",
+      "observedAt": "2026-10-17T19:32:06.944Z",
+      "sourceScoredAt": "2026-10-17T19:24:14.978Z",
+      "key": "[\"356e1e64-f51c-4ee4-a5e2-eeedfe1e7af4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Есть сбивки ритмики,  по флоу дефолтно, по тексту +-",
+        "scoredAt": "2026-10-17T19:24:14.978Z",
+        "userId": "356e1e64-f51c-4ee4-a5e2-eeedfe1e7af4"
+      }
+    },
+    {
+      "id": "df795d2954d7e6ecdc0f51d29ec658729d44295b3cffa7c07dd448aa73d1e673",
+      "observedAt": "2026-10-17T19:32:06.944Z",
+      "sourceScoredAt": "2026-10-17T19:25:27.516Z",
+      "key": "[\"c14121ba-6841-491b-8f0c-3c7440a004bf\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Странная ритмика в треке, флоу тоже однообразное",
+        "scoredAt": "2026-10-17T19:25:27.516Z",
+        "userId": "c14121ba-6841-491b-8f0c-3c7440a004bf"
+      }
+    },
+    {
+      "id": "9cd6f5c88c1ee116f6b369301c7d7731df6e6b4eb728ee29c65a8b28636bd11f",
+      "observedAt": "2026-10-17T19:32:06.944Z",
+      "sourceScoredAt": "2026-10-17T19:22:50.325Z",
+      "key": "[\"9a31e7eb-146d-4ec9-88f8-05a6e1774f1c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Ну в некст интересно что по тексту будет, только минус за это",
+        "scoredAt": "2026-10-17T19:22:50.325Z",
+        "userId": "9a31e7eb-146d-4ec9-88f8-05a6e1774f1c"
+      }
     }
   ],
   "snapshots": [
@@ -152123,6 +152179,26 @@
           "index": 29.781304656889667,
           "favor": 17.802924247722686,
           "attention": 1.2321117524505618,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T19:32:06.944Z",
+      "exportedAt": "2026-10-17T19:32:06.944Z",
+      "scores": 13241,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.883967765555234,
+          "favor": 9.271467541064862,
+          "attention": 6.142429801955162,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.79439378843226,
+          "favor": 17.805194672096142,
+          "attention": 1.2429304596196957,
           "respect": 10.746268656716419
         }
       }

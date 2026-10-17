@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T19:22:07.394Z",
-  "exportedAt": "2026-10-17T19:22:07.394Z",
-  "runId": "2026-10-17T19:22:07.394Z",
-  "forumExportedAt": "2026-10-17T19:22:07.394Z",
+  "lastSuccessfulAt": "2026-10-17T19:32:06.944Z",
+  "exportedAt": "2026-10-17T19:32:06.944Z",
+  "runId": "2026-10-17T19:32:06.944Z",
+  "forumExportedAt": "2026-10-17T19:32:06.944Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13237,
+    "scores": 13241,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8003,
-    "scoresBefore": 13231,
-    "scoresAfter": 13237,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6374,
+    "scoresBefore": 13237,
+    "scoresAfter": 13241,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.75377039088951,
+    "requestReductionPercent": 99.81532779316713,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "WAVknuvmike",
+          "comment": "Очень дефолтно и часть текста произошёл спиздинг как понимаю, но при прослушки не нашёл чего то интересного",
+          "scoredAt": "2026-10-17T19:27:22.574Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Vector Geology",
+          "comment": "Странная ритмика в треке, флоу тоже однообразное",
+          "scoredAt": "2026-10-17T19:25:27.516Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "SANITAR",
+          "comment": "Есть сбивки ритмики,  по флоу дефолтно, по тексту +-",
+          "scoredAt": "2026-10-17T19:24:14.978Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "SNB",
+          "comment": "Ну в некст интересно что по тексту будет, только минус за это",
+          "scoredAt": "2026-10-17T19:22:50.325Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -161,34 +189,6 @@
           "artist": "Кудатович",
           "comment": "Местами какие-то есть дикционные факапы, но в целом стилёк есть",
           "scoredAt": "2026-10-17T19:06:01.287Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Sunverse",
-          "comment": "Ну понятно о чем сторитейл, вот только голос из капы достать и немного разнообразия дать и будет норм",
-          "scoredAt": "2026-10-17T19:04:24.565Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Алексей Кузин",
-          "comment": "Слабовато бро, вроде читаешь +-, но вот ты отдельно от бита как-то",
-          "scoredAt": "2026-10-17T19:03:00.794Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "golovafx",
-          "comment": "Не надо так ритмику внутри строки ломать, в целом подача есть",
-          "scoredAt": "2026-10-17T19:00:47.080Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "молодой залупа",
-          "comment": "В некст раз звучок посильнее сделай",
-          "scoredAt": "2026-10-17T18:59:14.888Z"
         }
       ]
     }

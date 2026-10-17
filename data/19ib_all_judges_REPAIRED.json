@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T19:22:07.394Z",
+  "exportedAt": "2026-10-17T19:32:06.944Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -21801,8 +21801,14 @@
     },
     {
       "userId": "4a9dcbd6-66e8-46a6-b8a0-793ac4dab676",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень дефолтно и часть текста произошёл спиздинг как понимаю, но при прослушки не нашёл чего то интересного",
+          "scoredAt": "2026-10-17T19:27:22.574Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -21822,7 +21828,7 @@
           "scoredAt": "2026-09-11T11:22:05.407Z"
         }
       ],
-      "fetchedAt": "2026-10-16T08:32:24.957Z",
+      "fetchedAt": "2026-10-17T19:32:06.944Z",
       "current": true,
       "artistName": "WAVknuvmike",
       "artistSlug": "wavknuvmike"
@@ -39367,8 +39373,14 @@
     },
     {
       "userId": "356e1e64-f51c-4ee4-a5e2-eeedfe1e7af4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Есть сбивки ритмики,  по флоу дефолтно, по тексту +-",
+          "scoredAt": "2026-10-17T19:24:14.978Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -39394,7 +39406,7 @@
           "scoredAt": "2026-09-06T20:14:25.133Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:12:07.322Z",
+      "fetchedAt": "2026-10-17T19:32:06.944Z",
       "current": true,
       "artistName": "SANITAR",
       "artistSlug": "sanitar"
@@ -42735,8 +42747,14 @@
     },
     {
       "userId": "c14121ba-6841-491b-8f0c-3c7440a004bf",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Странная ритмика в треке, флоу тоже однообразное",
+          "scoredAt": "2026-10-17T19:25:27.516Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -42756,7 +42774,7 @@
           "scoredAt": "2026-09-15T15:56:19.282Z"
         }
       ],
-      "fetchedAt": "2026-10-14T19:02:18.299Z",
+      "fetchedAt": "2026-10-17T19:32:06.944Z",
       "current": true,
       "artistName": "Vector Geology",
       "artistSlug": "vector-geology"
@@ -58016,8 +58034,14 @@
     },
     {
       "userId": "9a31e7eb-146d-4ec9-88f8-05a6e1774f1c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Ну в некст интересно что по тексту будет, только минус за это",
+          "scoredAt": "2026-10-17T19:22:50.325Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -58043,7 +58067,7 @@
           "scoredAt": "2026-10-08T18:31:17.001Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:32:35.533Z",
+      "fetchedAt": "2026-10-17T19:32:06.944Z",
       "current": true,
       "artistName": "SNB",
       "artistSlug": "snb"
