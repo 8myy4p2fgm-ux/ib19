@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T16:02:11.042Z",
-  "exportedAt": "2026-10-17T16:02:11.042Z",
-  "runId": "2026-10-17T16:02:11.042Z",
-  "forumExportedAt": "2026-10-17T16:02:11.042Z",
+  "lastSuccessfulAt": "2026-10-17T16:12:11.296Z",
+  "exportedAt": "2026-10-17T16:12:11.296Z",
+  "runId": "2026-10-17T16:12:11.296Z",
+  "forumExportedAt": "2026-10-17T16:12:11.296Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13057,
+    "scores": 13065,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 11,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 11,
-    "changedParticipants": 11,
-    "logicalRequests": 13,
-    "durationMs": 13379,
-    "scoresBefore": 13046,
-    "scoresAfter": 13057,
-    "fullBaselineRequests": 3244,
-    "requestReductionPercent": 99.59926017262639,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 7,
+    "logicalRequests": 11,
+    "durationMs": 11404,
+    "scoresBefore": 13057,
+    "scoresAfter": 13065,
+    "fullBaselineRequests": 3245,
+    "requestReductionPercent": 99.66101694915255,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "GENOZZ",
+          "comment": "Авансом три за вторую часть, в первой текст что-то не нч. Биток мясо мощнейшее, тексток тоже надо было делать жирнюшим с панчами а-ля разорви ебало ",
+          "scoredAt": "2026-10-17T16:10:43.519Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "infante de los poetas",
+          "comment": "Братик , задатки есть в текст, исполнен е надо прокачивать еще, и в голос уверенности добавляй, такая подача не катит никогда, только если у тебя не убер шизовые ванлайны либо закрученные ",
+          "scoredAt": "2026-10-17T16:08:22.194Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "artist": "EIVTON",
+          "comment": "Звуки ебущихся топазовых киборгов. Искренее спасибо.",
+          "scoredAt": "2026-10-17T16:08:20.028Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Скаймартиника",
+          "comment": "Прикольно подаешь, но текст очень печальный. Проститутки, малафья. Твоим ртом бы, да хорошие песни петь. ",
+          "scoredAt": "2026-10-17T16:06:53.410Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Пэнс",
+          "comment": "Про циферблат нормасная строчка, 115 квартал у меня рядом с районом , подача нравится, звучание нормас. Лови 4. Добавь зубастых Панчей во 2 раунде плиз ",
+          "scoredAt": "2026-10-17T16:06:07.703Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "АВЕРЪ",
+          "comment": "Неплохо, но вот эти твои рифмы мне покоя не дают. Если ты думаешь, что это крутой ход, то это не так. Читаешь ровно.",
+          "scoredAt": "2026-10-17T16:05:16.917Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "IronJhony [Sakh]",
+          "comment": "Очень просто как по тексту, так и по исполнению. Делай побольше репака, с опытом будет лучше получаться.",
+          "scoredAt": "2026-10-17T16:03:12.533Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -140,55 +189,6 @@
           "artist": "BURNMM",
           "comment": "Бриллиант и мёд для ушей среди всех треков.",
           "scoredAt": "2026-10-17T15:55:16.297Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Muddy M",
-          "comment": "Ну смешной текст, но исполнения не хватает.",
-          "scoredAt": "2026-10-17T15:54:33.213Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 1,
-          "artist": "ВАМОРЪ",
-          "comment": "Поиздевался сам над собой..",
-          "scoredAt": "2026-10-17T15:53:57.319Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Rasskask",
-          "comment": "Ну всё крепко вроде, кроме рифм. В этом можно ещё добрать баллов в будущем.",
-          "scoredAt": "2026-10-17T15:53:09.810Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "Октябрьская грязь",
-          "comment": "Скучновато, отталкивающее звучание какое-то, по тексту кеки есть, но очень сыро",
-          "scoredAt": "2026-10-17T15:51:19.116Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Hastla",
-          "comment": "Простенько по смыслу и рифме. Квадраты, слабосозвучные рифмы. По тексту не за что зацепиться, читка серовата.",
-          "scoredAt": "2026-10-17T15:50:23.053Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "САНЯ ДВУЛИКИЙ",
-          "comment": "Ну очень однообразно. Просто полотно текста в одном флоу..",
-          "scoredAt": "2026-10-17T15:49:40.292Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "DAБ",
-          "comment": "Задумка хорошая, но реализация подкачала, грусть печаль. Скучно, однообразно по подаче, и грязновато ",
-          "scoredAt": "2026-10-17T15:49:13.647Z"
         }
       ]
     }
