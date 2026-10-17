@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T07:21:51.634Z",
-  "exportedAt": "2026-10-17T07:21:51.634Z",
-  "runId": "2026-10-17T07:21:51.634Z",
-  "forumExportedAt": "2026-10-17T07:21:51.634Z",
+  "lastSuccessfulAt": "2026-10-17T07:31:52.324Z",
+  "exportedAt": "2026-10-17T07:31:52.324Z",
+  "runId": "2026-10-17T07:31:52.324Z",
+  "forumExportedAt": "2026-10-17T07:31:52.324Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12108,
+    "scores": 12111,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6336,
-    "scoresBefore": 12104,
-    "scoresAfter": 12108,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5354,
+    "scoresBefore": 12108,
+    "scoresAfter": 12111,
     "fullBaselineRequests": 3212,
-    "requestReductionPercent": 99.813200498132,
+    "requestReductionPercent": 99.84433374844333,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "TRUMYWHITE",
+          "comment": "Круто подаешь. В текст бы побольше панчей, чем просто выебонов, выебывайся скилами",
+          "scoredAt": "2026-10-17T07:29:02.702Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "недоумок",
+          "comment": "Расмешнил",
+          "scoredAt": "2026-10-17T07:26:00.769Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Биосинтетический",
+          "comment": "",
+          "scoredAt": "2026-10-17T07:24:15.911Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 1,
@@ -166,27 +187,6 @@
           "artist": "джони сгрызли",
           "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: есть скилы, но нужно лучше\nОбщее впечатление: не достаточно для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-17T06:34:06.322Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "unplugged°",
-          "comment": "Спасибо за трек! \nТекст: мало рифм и много грязи\nИсполнение: скучно очень \nОбщее впечатление: пока что рано дял второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:33:44.638Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "Денис",
-          "comment": "Спасибо за трек! \nТекст: средне\nИсполнение: ну чтото можешь, не сильно\nОбщее впечатление: качество не позволяет такое пропустить во второй\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:33:06.220Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "sou kaannet",
-          "comment": "Спасибо за трек! \nТекст: грязно очень, со старта\nИсполнение: прикольно читаешь, но скучновато\nОбщее впечатление: давай попробуем во втором над качеством поработать, можешь раскрыться интересно\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-17T06:32:30.040Z"
         }
       ]
     }

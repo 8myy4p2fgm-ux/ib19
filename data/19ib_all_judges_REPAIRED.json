@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T07:21:51.634Z",
+  "exportedAt": "2026-10-17T07:31:52.324Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -5342,8 +5342,14 @@
     },
     {
       "userId": "6f3c7f76-951b-48f6-a9c1-5f6db8b65707",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "comment": "Расмешнил",
+          "scoredAt": "2026-10-17T07:26:00.769Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -5369,7 +5375,7 @@
           "scoredAt": "2026-09-09T15:07:39.713Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "fetchedAt": "2026-10-17T07:31:52.324Z",
       "current": true,
       "artistName": "недоумок",
       "artistSlug": "nedoumok"
@@ -85234,8 +85240,14 @@
     },
     {
       "userId": "1452df89-8265-479e-903a-933243932f8c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T07:24:15.911Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -85255,7 +85267,7 @@
           "scoredAt": "2026-10-12T18:51:07.249Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:52:21.634Z",
+      "fetchedAt": "2026-10-17T07:31:52.324Z",
       "current": true,
       "artistName": "Биосинтетический",
       "artistSlug": "biosinteticheskiy"
@@ -103723,8 +103735,14 @@
     },
     {
       "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Круто подаешь. В текст бы побольше панчей, чем просто выебонов, выебывайся скилами",
+          "scoredAt": "2026-10-17T07:29:02.702Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -103732,7 +103750,7 @@
           "scoredAt": "2026-10-16T17:48:18.331Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:52:29.544Z",
+      "fetchedAt": "2026-10-17T07:31:52.324Z",
       "current": true,
       "artistName": "TRUMYWHITE",
       "artistSlug": "trumywhite"

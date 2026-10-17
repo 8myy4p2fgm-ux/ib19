@@ -127752,6 +127752,48 @@
         "scoredAt": "2026-10-17T07:16:31.377Z",
         "userId": "fda3d205-a2dd-40f7-a4fd-8e3bb3894553"
       }
+    },
+    {
+      "id": "ef518620955fb7c1bf12f968545df321a66051446da95e8de4a4d3e235ecffb4",
+      "observedAt": "2026-10-17T07:31:52.324Z",
+      "sourceScoredAt": "2026-10-17T07:26:00.769Z",
+      "key": "[\"6f3c7f76-951b-48f6-a9c1-5f6db8b65707\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Расмешнил",
+        "scoredAt": "2026-10-17T07:26:00.769Z",
+        "userId": "6f3c7f76-951b-48f6-a9c1-5f6db8b65707"
+      }
+    },
+    {
+      "id": "ac49396f1105585641c4d56a213739993c6cfc0871eebdd093a1f802ad822e6c",
+      "observedAt": "2026-10-17T07:31:52.324Z",
+      "sourceScoredAt": "2026-10-17T07:24:15.911Z",
+      "key": "[\"1452df89-8265-479e-903a-933243932f8c\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T07:24:15.911Z",
+        "userId": "1452df89-8265-479e-903a-933243932f8c"
+      }
+    },
+    {
+      "id": "6b71c744716c941eb3c7a1411c17c49e6522ada0941dba6f65ce9f66b44059d8",
+      "observedAt": "2026-10-17T07:31:52.324Z",
+      "sourceScoredAt": "2026-10-17T07:29:02.702Z",
+      "key": "[\"faa54ff5-ef45-4a39-b64f-b62edff3a461\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Круто подаешь. В текст бы побольше панчей, чем просто выебонов, выебывайся скилами",
+        "scoredAt": "2026-10-17T07:29:02.702Z",
+        "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461"
+      }
     }
   ],
   "snapshots": [
@@ -134771,6 +134813,26 @@
           "index": 28.8636819836414,
           "favor": 18.017315185295196,
           "attention": -0.1420052946770504,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T07:31:52.324Z",
+      "exportedAt": "2026-10-17T07:31:52.324Z",
+      "scores": 12111,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.09994702453833,
+          "favor": 9.228330382965995,
+          "attention": 6.284900774413667,
+          "respect": 6.586715867158672
+        },
+        "veterans": {
+          "index": 28.871173552240244,
+          "favor": 18.017054651745056,
+          "attention": -0.13425319252807114,
           "respect": 10.988372093023257
         }
       }
