@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T14:42:15.233Z",
-  "exportedAt": "2026-10-17T14:42:15.233Z",
-  "runId": "2026-10-17T14:42:15.233Z",
-  "forumExportedAt": "2026-10-17T14:42:15.233Z",
+  "lastSuccessfulAt": "2026-10-17T14:52:22.726Z",
+  "exportedAt": "2026-10-17T14:52:22.726Z",
+  "runId": "2026-10-17T14:52:22.726Z",
+  "forumExportedAt": "2026-10-17T14:52:22.726Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12899,
+    "scores": 12930,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 17,
+    "httpRequests": 34,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 15,
+    "updatedCards": 31,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 15,
-    "changedParticipants": 15,
-    "logicalRequests": 17,
-    "durationMs": 16727,
-    "scoresBefore": 12884,
-    "scoresAfter": 12899,
-    "fullBaselineRequests": 3244,
-    "requestReductionPercent": 99.47595561035757,
+    "participantsWithNewScores": 31,
+    "changedParticipants": 29,
+    "logicalRequests": 34,
+    "durationMs": 34311,
+    "scoresBefore": 12899,
+    "scoresAfter": 12930,
+    "fullBaselineRequests": 3245,
+    "requestReductionPercent": 98.95223420647149,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "Гарикъ Истерин",
           "score": 3,
-          "artist": "Sonik",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T14:41:55.197Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Маруся Небесная",
-          "comment": "Нормальная работа, но по с текстом можно поработать. Потенциал есть.",
-          "scoredAt": "2026-10-17T14:41:48.722Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Дамир Камалов",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T14:41:18.507Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Eva Maslou",
-          "comment": "Нормальная работа, без провала.",
-          "scoredAt": "2026-10-17T14:41:04.012Z"
+          "artist": "JAY",
+          "comment": "Омг, давай 3, но не надо тебе пока в вокал братец )))  промазал знатно аще ",
+          "scoredAt": "2026-10-17T14:51:42.638Z"
         },
         {
           "judgeName": "Никсон",
           "score": 2,
-          "artist": "Андрей Николаевич",
-          "comment": "Ну пока точно сыровато. Голос сильно плывет в бите.",
-          "scoredAt": "2026-10-17T14:40:33.967Z"
+          "artist": "KOLPAK_ZhZ",
+          "comment": "Грязное исполнение, слышны вдохи-выдохи. И всего 8 строк. Как будто у самого нет желания дальше идти.",
+          "scoredAt": "2026-10-17T14:51:35.488Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Emilien",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:40:14.000Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Eazy Beazy",
+          "artist": "CheShire",
           "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T14:39:43.669Z"
+          "scoredAt": "2026-10-17T14:51:16.214Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "ka1ser",
+          "comment": "За флоу плюс, за однообразные панчи минус. Ну и маловато",
+          "scoredAt": "2026-10-17T14:50:32.591Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "M.Prime (Neuromonkeyz)",
+          "artist": "Grilzzy Wsteny",
           "comment": "",
-          "scoredAt": "2026-10-17T14:37:38.994Z"
+          "scoredAt": "2026-10-17T14:50:21.630Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "P11vV",
-          "comment": "Скучно, не интересно, грустно . делай текст интересным лучше с такой подачей . последняя строчка норм только, но слабовато как-то ",
-          "scoredAt": "2026-10-17T14:37:27.168Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "TOSH",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:37:08.826Z"
-        },
-        {
-          "judgeName": "AL Hammer",
           "score": 4,
-          "artist": "Владислав Разумов",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T14:36:40.691Z"
+          "artist": "INTI",
+          "comment": "Хорошо по тексту, раскрытию. Есть годные строчки мб конечно уже чутка побщанные, но тут хорошо лежат. По исполнению легкие шероховатости есть, но не особо значительные. Лови 4 с минусом. Чуть доработай панчлайнами текст более оригинальными, и не бойся редачить текст. ",
+          "scoredAt": "2026-10-17T14:50:05.174Z"
         },
         {
-          "judgeName": "Гарикъ Истерин",
+          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Квасов",
-          "comment": "Середнячок, кеков поинтересней бы сюда, рили не хватило креатива ",
-          "scoredAt": "2026-10-17T14:36:00.356Z"
+          "artist": "Саша Алди",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:49:54.967Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Денис Криштопов",
+          "comment": "Какой-то интересный текст, будто нужно покопаться. Исполнение хорошее",
+          "scoredAt": "2026-10-17T14:49:49.510Z"
         },
         {
           "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "ЭЛФИ",
+          "comment": "Рифмы прям неприятно нарезают по ушам, очень спорное решение лепить в ряд однокоренную и ассонансную, а следом точную. Ну очень просто и по детски. Понравился припев, жирнич конкретный, но куплетос просто убивает всю магию. Раскрытия темы не увидел.",
+          "scoredAt": "2026-10-17T14:48:59.487Z"
+        },
+        {
+          "judgeName": "Никсон",
           "score": 4,
-          "artist": "Mark66",
-          "comment": "Сделано конечно со вкусом. Но по части истории - не понял. Так и не врубился к кому ты адресовываешь это? К кумиру? В чем раскрытие тогда? Почему его должны были пиздить тогда?",
-          "scoredAt": "2026-10-17T14:35:10.026Z"
+          "artist": "МС беспредел",
+          "comment": "Неидеально, зато крепко и с харизмой.",
+          "scoredAt": "2026-10-17T14:48:17.846Z"
         },
         {
-          "judgeName": "Гарикъ Истерин",
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Сприщём",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:48:05.132Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "crusifier",
+          "comment": "Поработай над сведением. Потенциал точно есть, но тяжело вычленить отдельные строчки.",
+          "scoredAt": "2026-10-17T14:47:34.130Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "amadeuspk",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:47:27.892Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Stepauv",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:46:55.279Z"
+        },
+        {
+          "judgeName": "Никсон",
           "score": 2,
-          "artist": "МС Безбазаров",
-          "comment": "Скучно отец, поработай над интересными панчлайнами, ну и на бумбэпчик уже стыдно так читать без панчей, лиьот килузу показывай либо текстом дави. Сыро , слабо, звучит не особо приятно к сожалению",
-          "scoredAt": "2026-10-17T14:34:44.420Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "Stazy",
-          "comment": "Бодренько, соильненько, панчики завезла, вопросов к тебе нет, погнали, звук мощный , голос отличный! Пиздуй в следующий раунд ",
-          "scoredAt": "2026-10-17T14:33:05.328Z"
+          "artist": "filhardo",
+          "comment": "Вижу, что старался сделать батлово, но напора больше, чем содержания.",
+          "scoredAt": "2026-10-17T14:46:31.142Z"
         }
       ]
     }
