@@ -131840,6 +131840,202 @@
         "scoredAt": "2026-10-17T10:30:05.373Z",
         "userId": "62194a08-947a-4a0a-808f-6d573dde99ec"
       }
+    },
+    {
+      "id": "cd552d39fefa06981f3331245d7f60588d4d04c22fb2ca7a1d8072b057a73538",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:32:51.776Z",
+      "key": "[\"8670bcdd-b61b-4ac1-a350-3c87f0570e0e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:32:51.776Z",
+        "userId": "8670bcdd-b61b-4ac1-a350-3c87f0570e0e"
+      }
+    },
+    {
+      "id": "5a66731515d4fd6b57b79c94c071440b6b090148fcbe7e8dce6f8dcc79058d40",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:37:04.900Z",
+      "key": "[\"1816ae6b-5156-47f1-9612-5ed55e08f1b1\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Читаешь уверенно, но по тексту все очень просто. Биток хороший выбрал.",
+        "scoredAt": "2026-10-17T10:37:04.900Z",
+        "userId": "1816ae6b-5156-47f1-9612-5ed55e08f1b1"
+      }
+    },
+    {
+      "id": "6cda0d90e7954d15351037caa0b995a253485bd74a6ad6ad50708c15f86f8767",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:35:18.230Z",
+      "key": "[\"0f6ca742-8f70-422f-8e34-8e6931701957\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:35:18.230Z",
+        "userId": "0f6ca742-8f70-422f-8e34-8e6931701957"
+      }
+    },
+    {
+      "id": "f2f13a5ddf981791aaa9a669b808d3f949319af5f0c1dd69abb361640f0a977e",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:34:30.471Z",
+      "key": "[\"86993b62-df9a-40a8-9cd2-86850eb174c9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:34:30.471Z",
+        "userId": "86993b62-df9a-40a8-9cd2-86850eb174c9"
+      }
+    },
+    {
+      "id": "7cc3ad77e38776a66ef09cda22cc3da265c0027e4f87d7995f62d57bf42469b7",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:40:38.795Z",
+      "key": "[\"2e904e4e-dc04-4745-ab79-ff9181174370\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Скудновато, а если чисто как песню рассматривать, тогда сведоса не хватает. В общем, как ни крути, вышку поставить не могу ни в одной из вселенных. Но это весьма вкусно как композиция, рифмы каноничные (как минимум, до припева)",
+        "scoredAt": "2026-10-17T10:40:38.795Z",
+        "userId": "2e904e4e-dc04-4745-ab79-ff9181174370"
+      }
+    },
+    {
+      "id": "9d522c80a75d10488994bca5905aa39efd517a7a631e64dbd4f4399bf60dad8e",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:38:35.519Z",
+      "key": "[\"5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:38:35.519Z",
+        "userId": "5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f"
+      }
+    },
+    {
+      "id": "5ac8b263c264a1c3e78acbd216b55e0e0cdad0b32fd7bfe46c670e1f0bb8b8ce",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:36:21.171Z",
+      "key": "[\"34564a67-f7a3-421e-a100-7045b14293b9\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:36:21.171Z",
+        "userId": "34564a67-f7a3-421e-a100-7045b14293b9"
+      }
+    },
+    {
+      "id": "d364e3472b02282c82589807a5c0d4b900d295f1fd75cf3f1515602d77fd575d",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:37:23.682Z",
+      "key": "[\"83d8f01d-7dcf-41cf-a48a-4fa468070460\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:37:23.682Z",
+        "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460"
+      }
+    },
+    {
+      "id": "ba4022fbcaa887f6e3c3e90f00363d17ee04526a77ca507fc9edf4ac7b9b1bef",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:39:54.823Z",
+      "key": "[\"d3806a20-e471-452b-904f-3d9811eb0fd1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:39:54.823Z",
+        "userId": "d3806a20-e471-452b-904f-3d9811eb0fd1"
+      }
+    },
+    {
+      "id": "23c249317675d854d68b2e96a0610c342640f6c84eada6cd204739914e14fc8f",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:37:58.990Z",
+      "key": "[\"6278c966-22b1-4760-a779-e35e9de7d651\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:37:58.990Z",
+        "userId": "6278c966-22b1-4760-a779-e35e9de7d651"
+      }
+    },
+    {
+      "id": "4d0f9a44be36a934b5d0960be839e5f437598f8167b1062b32bc986bae59019c",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:38:32.091Z",
+      "key": "[\"c9c28ac7-d842-4d88-bb15-2553ff797fcd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Запись подводит сильно. А так даже на таком качестве посредственном выдаешь неплохо, чтобы бы ло если бы постарался.",
+        "scoredAt": "2026-10-17T10:38:32.091Z",
+        "userId": "c9c28ac7-d842-4d88-bb15-2553ff797fcd"
+      }
+    },
+    {
+      "id": "900f4c98495e816af7358c65c9b3a898190f26f03b5decc59a09dad2c9d8e572",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:33:36.000Z",
+      "key": "[\"bc36d47f-908a-423b-ac54-0aa16a06897e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T10:33:36.000Z",
+        "userId": "bc36d47f-908a-423b-ac54-0aa16a06897e"
+      }
+    },
+    {
+      "id": "e70b54d04223459b596d0bdbe7f718974fb2dd91bd06fd8d73817f18e4cb59d5",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:34:01.909Z",
+      "key": "[\"84d9202e-3abf-4210-baf4-755aabed2027\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Вайб присутсвует, подаешь хорошо, но по тексту пустота. ",
+        "scoredAt": "2026-10-17T10:34:01.909Z",
+        "userId": "84d9202e-3abf-4210-baf4-755aabed2027"
+      }
+    },
+    {
+      "id": "2e984be046ed402c09663183afbf8ba424b88e6589ee59e3332bac77064a3017",
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "sourceScoredAt": "2026-10-17T10:41:45.236Z",
+      "key": "[\"942fa69c-60fb-4ed3-b618-89f87021ca3b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T10:41:45.236Z",
+        "userId": "942fa69c-60fb-4ed3-b618-89f87021ca3b"
+      }
     }
   ],
   "snapshots": [
@@ -139240,6 +139436,26 @@
           "favor": 17.794997178860264,
           "attention": 0.10209723426446012,
           "respect": 10.846153846153847
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T10:42:11.560Z",
+      "exportedAt": "2026-10-17T10:42:11.560Z",
+      "scores": 12414,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.909475314041345,
+          "favor": 9.209617386485334,
+          "attention": 6.154403382101463,
+          "respect": 6.545454545454546
+        },
+        "veterans": {
+          "index": 28.511990100034318,
+          "favor": 17.743150870097246,
+          "attention": -0.051771457085828344,
+          "respect": 10.820610687022901
         }
       }
     }

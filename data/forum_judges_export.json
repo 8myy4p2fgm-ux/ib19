@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-17T10:32:17.063Z",
+  "exportedAt": "2026-10-17T10:42:11.560Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -702,6 +702,12 @@
       "forum_name": "Клавиатурный Герой",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:34:30.471Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -3235,6 +3241,12 @@
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
       "veteran": true,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:37:23.682Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,

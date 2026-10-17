@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T10:32:17.063Z",
+  "exportedAt": "2026-10-17T10:42:11.560Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -2482,46 +2482,6 @@
       "artistSlug": "under-angel"
     },
     {
-      "userId": "93c30855-1935-47be-8385-ea39abdcfa4b",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "comment": "Это НАСТОЛЬКО ПЛОХО, ЧТО ХОРОШО. На 5 прослушивании захотелось орать также, только в ритм. Давай 4 диким авансом с большим таким минусом как хер для Иры",
-          "scoredAt": "2026-10-14T20:13:20.784Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "comment": "https://www.twitch.tv/yuarr_mus cnhbv 10 это просто восхитительно",
-          "scoredAt": "2026-10-09T23:14:03.573Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "comment": "стрим 2.10. разбор 26 вайбик поймала, интересно что дальше во втором, про калаш осуждаю",
-          "scoredAt": "2026-10-02T20:05:18.894Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "comment": "Я НЕ МОГУ ПОСТАВИТЬ ТЕБЕ ОЦЕНКУ НИЖЕ, ТЫ ПРОСТО ЛЕГА! ХОРОШ, Я НАДЕЮСЬ ТЫ ПРОЙДЁШЬ ВО 2!",
-          "scoredAt": "2026-10-02T11:47:08.055Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 1,
-          "comment": "Стрим 7\nhttps://vkvideo.ru/live-207430455_456239032\n\nМотивацию поднял, спасибо!",
-          "scoredAt": "2026-09-27T18:49:31.853Z"
-        }
-      ],
-      "fetchedAt": "2026-10-14T20:22:10.207Z",
-      "current": true,
-      "artistName": "Mmoшка",
-      "artistSlug": "mmoshka"
-    },
-    {
       "userId": "83e7ecd4-9193-410f-bdb1-c8d82a813925",
       "scoredCount": 5,
       "scores": [
@@ -2594,6 +2554,46 @@
       "current": true,
       "artistName": "Mr. BARMALEY",
       "artistSlug": "mr-barmaley"
+    },
+    {
+      "userId": "93c30855-1935-47be-8385-ea39abdcfa4b",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Это НАСТОЛЬКО ПЛОХО, ЧТО ХОРОШО. На 5 прослушивании захотелось орать также, только в ритм. Давай 4 диким авансом с большим таким минусом как хер для Иры",
+          "scoredAt": "2026-10-14T20:13:20.784Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "https://www.twitch.tv/yuarr_mus cnhbv 10 это просто восхитительно",
+          "scoredAt": "2026-10-09T23:14:03.573Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "стрим 2.10. разбор 26 вайбик поймала, интересно что дальше во втором, про калаш осуждаю",
+          "scoredAt": "2026-10-02T20:05:18.894Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Я НЕ МОГУ ПОСТАВИТЬ ТЕБЕ ОЦЕНКУ НИЖЕ, ТЫ ПРОСТО ЛЕГА! ХОРОШ, Я НАДЕЮСЬ ТЫ ПРОЙДЁШЬ ВО 2!",
+          "scoredAt": "2026-10-02T11:47:08.055Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 1,
+          "comment": "Стрим 7\nhttps://vkvideo.ru/live-207430455_456239032\n\nМотивацию поднял, спасибо!",
+          "scoredAt": "2026-09-27T18:49:31.853Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T20:22:10.207Z",
+      "current": true,
+      "artistName": "Mmoшка",
+      "artistSlug": "mmoshka"
     },
     {
       "userId": "f7a4d488-1b60-4190-84b2-afa1876534e9",
@@ -59842,9 +59842,16 @@
     },
     {
       "userId": "8670bcdd-b61b-4ac1-a350-3c87f0570e0e",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T10:32:51.776Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "МАЛЮТА",
       "artistSlug": "malyuta"
@@ -64761,8 +64768,14 @@
     },
     {
       "userId": "1816ae6b-5156-47f1-9612-5ed55e08f1b1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Читаешь уверенно, но по тексту все очень просто. Биток хороший выбрал.",
+          "scoredAt": "2026-10-17T10:37:04.900Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -64788,7 +64801,7 @@
           "scoredAt": "2026-09-27T10:50:24.385Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:52:03.769Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "Kaen",
       "artistSlug": "kaen"
@@ -65555,8 +65568,14 @@
     },
     {
       "userId": "0f6ca742-8f70-422f-8e34-8e6931701957",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:35:18.230Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -65582,7 +65601,7 @@
           "scoredAt": "2026-10-08T19:18:59.760Z"
         }
       ],
-      "fetchedAt": "2026-10-16T14:03:18.998Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "Никита Ставрогин",
       "artistSlug": "nikita-stavrogin"
@@ -72573,8 +72592,14 @@
     },
     {
       "userId": "86993b62-df9a-40a8-9cd2-86850eb174c9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:34:30.471Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -72582,7 +72607,7 @@
           "scoredAt": "2026-10-16T07:26:52.216Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:32:22.250Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "Лобсанг",
       "artistSlug": "lobsang"
@@ -82424,8 +82449,14 @@
     },
     {
       "userId": "2e904e4e-dc04-4745-ab79-ff9181174370",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "comment": "Скудновато, а если чисто как песню рассматривать, тогда сведоса не хватает. В общем, как ни крути, вышку поставить не могу ни в одной из вселенных. Но это весьма вкусно как композиция, рифмы каноничные (как минимум, до припева)",
+          "scoredAt": "2026-10-17T10:40:38.795Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
@@ -82451,7 +82482,7 @@
           "scoredAt": "2026-09-24T21:22:52.725Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:32:26.602Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "INSOMA",
       "artistSlug": "insoma"
@@ -83755,8 +83786,14 @@
     },
     {
       "userId": "5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T10:38:35.519Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -83770,7 +83807,7 @@
           "scoredAt": "2026-10-09T12:46:34.913Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "AZVRT",
       "artistSlug": "azvrt"
@@ -86494,8 +86531,14 @@
     },
     {
       "userId": "34564a67-f7a3-421e-a100-7045b14293b9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:36:21.171Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -86515,7 +86558,7 @@
           "scoredAt": "2026-10-11T14:50:47.101Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:52:02.492Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "Серая слизь",
       "artistSlug": "seraya-sliz"
@@ -88172,8 +88215,14 @@
     },
     {
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:37:23.682Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -88181,7 +88230,7 @@
           "scoredAt": "2026-10-16T00:04:52.475Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:12:39.632Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "demogotcha",
       "artistSlug": "demogotcha"
@@ -88677,8 +88726,14 @@
     },
     {
       "userId": "d3806a20-e471-452b-904f-3d9811eb0fd1",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:39:54.823Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -88692,7 +88747,7 @@
           "scoredAt": "2026-09-30T19:05:01.503Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "WhoDie",
       "artistSlug": "whodie"
@@ -94032,8 +94087,14 @@
     },
     {
       "userId": "6278c966-22b1-4760-a779-e35e9de7d651",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:37:58.990Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
@@ -94047,15 +94108,21 @@
           "scoredAt": "2026-10-15T15:41:19.608Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:42:30.532Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "acidfromthecell",
       "artistSlug": "acidfromthecell"
     },
     {
       "userId": "c9c28ac7-d842-4d88-bb15-2553ff797fcd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Запись подводит сильно. А так даже на таком качестве посредственном выдаешь неплохо, чтобы бы ло если бы постарался.",
+          "scoredAt": "2026-10-17T10:38:32.091Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -94075,7 +94142,7 @@
           "scoredAt": "2026-10-05T10:44:02.834Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:42:23.783Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "BalazaR",
       "artistSlug": "balazar"
@@ -97705,8 +97772,14 @@
     },
     {
       "userId": "bc36d47f-908a-423b-ac54-0aa16a06897e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T10:33:36.000Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -97732,7 +97805,7 @@
           "scoredAt": "2026-10-13T14:26:15.220Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:42:22.665Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "Mel Cogni",
       "artistSlug": "mel-cogni"
@@ -98697,8 +98770,14 @@
     },
     {
       "userId": "84d9202e-3abf-4210-baf4-755aabed2027",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Вайб присутсвует, подаешь хорошо, но по тексту пустота. ",
+          "scoredAt": "2026-10-17T10:34:01.909Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -98712,7 +98791,7 @@
           "scoredAt": "2026-10-12T18:30:48.487Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:42:27.969Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "shlyapaNastene",
       "artistSlug": "shlyapanastene"
@@ -104161,8 +104240,14 @@
     },
     {
       "userId": "942fa69c-60fb-4ed3-b618-89f87021ca3b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T10:41:45.236Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -104188,7 +104273,7 @@
           "scoredAt": "2026-09-29T14:23:44.116Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:22:38.428Z",
+      "fetchedAt": "2026-10-17T10:42:11.560Z",
       "current": true,
       "artistName": "ман маныч [#КБС]",
       "artistSlug": "man-manych-kbs"
