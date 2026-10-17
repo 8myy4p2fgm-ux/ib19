@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T18:42:10.718Z",
-  "exportedAt": "2026-10-17T18:42:10.718Z",
-  "runId": "2026-10-17T18:42:10.718Z",
-  "forumExportedAt": "2026-10-17T18:42:10.718Z",
+  "lastSuccessfulAt": "2026-10-17T18:52:11.504Z",
+  "exportedAt": "2026-10-17T18:52:11.504Z",
+  "runId": "2026-10-17T18:52:11.504Z",
+  "forumExportedAt": "2026-10-17T18:52:11.504Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13212,
+    "scores": 13218,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11017,
-    "scoresBefore": 13203,
-    "scoresAfter": 13212,
-    "fullBaselineRequests": 3247,
-    "requestReductionPercent": 99.66122574684324,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8176,
+    "scoresBefore": 13212,
+    "scoresAfter": 13218,
+    "fullBaselineRequests": 3248,
+    "requestReductionPercent": 99.75369458128078,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Каспийский Гнус",
+          "comment": "не видали рифмовать с не видали мощно) в целом как омаж не плохо, но вот текст....",
+          "scoredAt": "2026-10-17T18:51:30.211Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Lil’в’УшИ",
+          "comment": "Тюн + дикционные промахи дают специфический результат, как и тут местами он хуеет от того к чему ему ровняться, ну и по подачи слабовато",
+          "scoredAt": "2026-10-17T18:49:44.118Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "РУБИЛО",
+          "comment": "\"Зови меня атеистом, Но у вас нету Бога.\" а разве концепт атеизма не состоит в том что.... Ладно почему я пытаюсь что-то себе в голове объяснить, короче масло масляное, так не надо... По поводу флоу стелишь нормально, но не всё сработало в плюс",
+          "scoredAt": "2026-10-17T18:48:04.165Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "triggex",
+          "comment": "Перебежка чуть подруинила ов, ну ещё в подачу напора бы дать было бы хорошо",
+          "scoredAt": "2026-10-17T18:45:00.047Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "ПЕРЕКУР",
+          "comment": "Прикольный бэк на фоне бита, спасибо что дал паузы чтоб их послушать, но если честно, очень странный тречок",
+          "scoredAt": "2026-10-17T18:44:04.793Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "KURBEN",
+          "comment": "Очень дефолтно, мега монотонно слушается...",
+          "scoredAt": "2026-10-17T18:42:20.738Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "₡A$I₦O₿O¥",
           "comment": "Автотюн испортил всё",
           "scoredAt": "2026-10-17T18:33:46.959Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "Prophet",
-          "comment": "Ладно, звучит в целом всё хорошо, может не хватило строк чтоб запоминались и в голову откладывались.",
-          "scoredAt": "2026-10-17T18:14:40.636Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "Бойфренд",
-          "comment": "Звучишь интересно, вопросы только с звуком, если вклячить более коммерческое звучание будет топчик",
-          "scoredAt": "2026-10-17T18:12:02.179Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "MC М.О.Г.",
-          "comment": "По флоу пойдет, текст очень простенько",
-          "scoredAt": "2026-10-17T18:10:19.689Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Kidanuza1000_K1k",
-          "comment": "Очень дефолтно, в некст разбавь чем-то трек",
-          "scoredAt": "2026-10-17T18:08:08.722Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "33black",
-          "comment": "В целом вайбанул под твой трек, единственное опять же не хватило какого то заднего фона айры там для объема трекаса",
-          "scoredAt": "2026-10-17T18:00:11.322Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "artist": "BIO MOYKA",
-          "comment": "Знаешь поставлю авансом, первый трек над которым я поржал в голос. И тебе риса что вызвал эмоцию)",
-          "scoredAt": "2026-10-17T17:58:21.278Z"
         }
       ]
     }

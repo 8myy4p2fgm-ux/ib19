@@ -143354,6 +143354,90 @@
         "scoredAt": "2026-10-17T18:35:00.395Z",
         "userId": "7ac66dc1-3ad9-4287-9982-20fab8317dff"
       }
+    },
+    {
+      "id": "68264e7984a84afcc379755b05fea45f6cc9fabd5d4adf5ff5aebb1656a972eb",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:45:00.047Z",
+      "key": "[\"846d3aca-4dc4-4304-b65c-7d5305104ba5\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Перебежка чуть подруинила ов, ну ещё в подачу напора бы дать было бы хорошо",
+        "scoredAt": "2026-10-17T18:45:00.047Z",
+        "userId": "846d3aca-4dc4-4304-b65c-7d5305104ba5"
+      }
+    },
+    {
+      "id": "90a0d49b3ab1ce703a8e3f902ac0bee40c8bc8f795c9874dbb501889587fa70b",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:48:04.165Z",
+      "key": "[\"192a92de-fd57-4a9e-a144-c9c90b9b2c8f\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "\"Зови меня атеистом, Но у вас нету Бога.\" а разве концепт атеизма не состоит в том что.... Ладно почему я пытаюсь что-то себе в голове объяснить, короче масло масляное, так не надо... По поводу флоу стелишь нормально, но не всё сработало в плюс",
+        "scoredAt": "2026-10-17T18:48:04.165Z",
+        "userId": "192a92de-fd57-4a9e-a144-c9c90b9b2c8f"
+      }
+    },
+    {
+      "id": "3f555f3eb24c22861bb8e6a7aa527bcd403e1b4ed4924b9a9123fd8834eb677d",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:42:20.738Z",
+      "key": "[\"d9898e00-b5d1-43a2-8f65-53c7ade092c7\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Очень дефолтно, мега монотонно слушается...",
+        "scoredAt": "2026-10-17T18:42:20.738Z",
+        "userId": "d9898e00-b5d1-43a2-8f65-53c7ade092c7"
+      }
+    },
+    {
+      "id": "718082c9f293eac33d73d6d05e32a4d78b5c5a9550724883cfc0e11dd393741f",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:44:04.793Z",
+      "key": "[\"0268bae1-7b50-4b59-a4f9-6eebc7992144\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Прикольный бэк на фоне бита, спасибо что дал паузы чтоб их послушать, но если честно, очень странный тречок",
+        "scoredAt": "2026-10-17T18:44:04.793Z",
+        "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144"
+      }
+    },
+    {
+      "id": "cd63ba781bef4009f04c1941ccadaffdfc2c800ef47bd2d11244eadc266983f1",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:49:44.118Z",
+      "key": "[\"e40e4261-bf65-4bce-b289-7a504302ad9b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Тюн + дикционные промахи дают специфический результат, как и тут местами он хуеет от того к чему ему ровняться, ну и по подачи слабовато",
+        "scoredAt": "2026-10-17T18:49:44.118Z",
+        "userId": "e40e4261-bf65-4bce-b289-7a504302ad9b"
+      }
+    },
+    {
+      "id": "53b238829517bea0a35193d5c178d71c7bc944e6c3c1a9d7f4cefa3c19306d90",
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "sourceScoredAt": "2026-10-17T18:51:30.211Z",
+      "key": "[\"f2da9b8a-fe80-47f8-a813-c88aec2ff615\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "не видали рифмовать с не видали мощно) в целом как омаж не плохо, но вот текст....",
+        "scoredAt": "2026-10-17T18:51:30.211Z",
+        "userId": "f2da9b8a-fe80-47f8-a813-c88aec2ff615"
+      }
     }
   ],
   "snapshots": [
@@ -151693,6 +151777,26 @@
           "index": 29.70182290922596,
           "favor": 17.791283299057547,
           "attention": 1.1642709534519964,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T18:52:11.504Z",
+      "exportedAt": "2026-10-17T18:52:11.504Z",
+      "scores": 13218,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.82952336997368,
+          "favor": 9.261464488181604,
+          "attention": 6.097988459256863,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.722130177122366,
+          "favor": 17.795273479742832,
+          "attention": 1.1805880406631146,
           "respect": 10.746268656716419
         }
       }
