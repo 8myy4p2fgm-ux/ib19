@@ -141772,6 +141772,202 @@
         "scoredAt": "2026-10-17T16:37:32.383Z",
         "userId": "177166bb-b66f-41ec-96ce-68d6a146888e"
       }
+    },
+    {
+      "id": "37349257f8cfe9575d931a5a4dfb165a6f88c8d3777e305939a84d69a2cef081",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:42:44.561Z",
+      "key": "[\"2c233cf9-20fb-416d-97d0-6e6097a9afdc\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Про \"патриотов\" круто, по рифме классно, уверено зачитал, хорошо на бите держишься, да в целом лови 5 с минусом, ща переслушивал без отвращения . добавь хлестких пэнчиков во втором пожалуйста! ",
+        "scoredAt": "2026-10-17T16:42:44.561Z",
+        "userId": "2c233cf9-20fb-416d-97d0-6e6097a9afdc"
+      }
+    },
+    {
+      "id": "c72376cc8f5391857d7a99a47d264edd2ef63ee36fc8f75f3abcac5165d4c094",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:48:31.834Z",
+      "key": "[\"6f578edd-6a8d-4662-8af1-b9a6881e7883\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Чето по исполнение братик завалил , скомкано слышно, для такого четкая дикция нужна, авансом ",
+        "scoredAt": "2026-10-17T16:48:31.834Z",
+        "userId": "6f578edd-6a8d-4662-8af1-b9a6881e7883"
+      }
+    },
+    {
+      "id": "1285a5d9edb6bd510b9865f613d962a1f794a74ac9b887ff1503eef85feab4a4",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:42:34.378Z",
+      "key": "[\"a8f66b43-99b4-407e-9064-89d556a57379\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом не плохо, но местами некоторые вокальные моменты немного режут ухо",
+        "scoredAt": "2026-10-17T16:42:34.378Z",
+        "userId": "a8f66b43-99b4-407e-9064-89d556a57379"
+      }
+    },
+    {
+      "id": "06367bc84a806291d6683143e6092f4e75cf58bfebd354bfaf7141f6169f8eb1",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:50:02.424Z",
+      "key": "[\"a918cd68-b009-45d3-a698-3b94371fa676\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "\"95 Как и раньше, толком ничего не изменилось\" вот с этого момента началась кривизна немного с заездами не по долям, надо было держать ритмику как в начале",
+        "scoredAt": "2026-10-17T16:50:02.424Z",
+        "userId": "a918cd68-b009-45d3-a698-3b94371fa676"
+      }
+    },
+    {
+      "id": "d81ad5c6a2b07fac2d91da4229ee249a9aad745de89b369fde214f5353498d6f",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:51:20.577Z",
+      "key": "[\"2c356f2b-d7a6-474f-ad58-32b117ad0cdb\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Нормас, уверено на бите по тексту ничего не зацепило сильно , хорошо прочитал, голос приятный ",
+        "scoredAt": "2026-10-17T16:51:20.577Z",
+        "userId": "2c356f2b-d7a6-474f-ad58-32b117ad0cdb"
+      }
+    },
+    {
+      "id": "1fdaf4b90787fe8f7388267f4f47b6daff8ce9524ca5a18d9df903ab13ea3014",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:47:18.991Z",
+      "key": "[\"205349b1-c887-4d76-8428-be7f7c9115f0\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Приятно зачитал, попытки в панчики есть , давай че-нить по закрученее",
+        "scoredAt": "2026-10-17T16:47:18.991Z",
+        "userId": "205349b1-c887-4d76-8428-be7f7c9115f0"
+      }
+    },
+    {
+      "id": "19da1c90f5e97d96e2b102d425ad787006cfa8a7821a3dd2aa9d24b7e75031d0",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:44:09.564Z",
+      "key": "[\"2717eecd-a6a3-473e-b06e-30aacaae0dc1\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно бро, в некст раз поиграйся с разнообразием читки, подачи,  вот это всё",
+        "scoredAt": "2026-10-17T16:44:09.564Z",
+        "userId": "2717eecd-a6a3-473e-b06e-30aacaae0dc1"
+      }
+    },
+    {
+      "id": "3fc80a70abe54462506e675473c132a4fcdb34c97a8f8d0351c0eeab5ffc858e",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:47:06.474Z",
+      "key": "[\"8c44054e-1520-4c4d-8b83-e528c68e0d2e\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Лайк за посыл, но это тяжело слушается, радирифменно местами, местами квадратно. ",
+        "scoredAt": "2026-10-17T16:47:06.474Z",
+        "userId": "8c44054e-1520-4c4d-8b83-e528c68e0d2e"
+      }
+    },
+    {
+      "id": "c76dc7d49089f85c0c2d9cd8b3fe776cc8b6c822196ea7c614f3f406d40c6f79",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:44:20.647Z",
+      "key": "[\"211447a5-6415-4b91-85ab-cf26d6bc92e8\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Проходная, средняя работка, намеки на пэнчи есть , но надо докручивать. ",
+        "scoredAt": "2026-10-17T16:44:20.647Z",
+        "userId": "211447a5-6415-4b91-85ab-cf26d6bc92e8"
+      }
+    },
+    {
+      "id": "1ca503ece34c4c43b05e361102d02d9e4b3499a208a822bff256573888e9dfda",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:48:20.849Z",
+      "key": "[\"ecef248f-9cf7-4c9c-bc5f-d639ec8f279b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Понравилось как ты бросил микрофон в конце, остальное очень тяжко дался трек",
+        "scoredAt": "2026-10-17T16:48:20.849Z",
+        "userId": "ecef248f-9cf7-4c9c-bc5f-d639ec8f279b"
+      }
+    },
+    {
+      "id": "d0bae54e00364e132aeeae40ac93807b4a6cb6cd80ba64d9174e243df802861c",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:46:56.870Z",
+      "key": "[\"2eed73cf-b8d8-4aff-8a6d-4d946443e3ec\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Очень жестко, бит на диктофон, кроме попытки в напор сложно подметить здесь что-то",
+        "scoredAt": "2026-10-17T16:46:56.870Z",
+        "userId": "2eed73cf-b8d8-4aff-8a6d-4d946443e3ec"
+      }
+    },
+    {
+      "id": "72354b2ced7d655a12a3a7e26e595ef794069c9ccad660cde5ef972aa889037d",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:42:21.227Z",
+      "key": "[\"2eed73cf-b8d8-4aff-8a6d-4d946443e3ec\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 1,
+        "comment": "Манерность дилетанта слышится, бит где-то на фоне играет. Много квадратов, жуешь слова",
+        "scoredAt": "2026-10-17T16:42:21.227Z",
+        "userId": "2eed73cf-b8d8-4aff-8a6d-4d946443e3ec"
+      }
+    },
+    {
+      "id": "df5d5b2e1957ecd900c91b4df13afc1db69d11f734ae04d2a205c3e29521ce9a",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:45:57.973Z",
+      "key": "[\"e4acb27d-baa3-48b0-bc98-881ab4b2521c\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот за качеством чувствуется что и по флоу раздаешь нормально, и чувствуешь музло, но почему так звук заруинил?",
+        "scoredAt": "2026-10-17T16:45:57.973Z",
+        "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c"
+      }
+    },
+    {
+      "id": "a9212a83aec598b3825813d95da56c9c542b943ebf326bc5f52e0775c43a3846",
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "sourceScoredAt": "2026-10-17T16:49:58.511Z",
+      "key": "[\"e80560cb-eb8b-432c-a86a-b6483c7e5a42\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Ну всё недокрученое , но попытка хорошая ",
+        "scoredAt": "2026-10-17T16:49:58.511Z",
+        "userId": "e80560cb-eb8b-432c-a86a-b6483c7e5a42"
+      }
     }
   ],
   "snapshots": [
@@ -149891,6 +150087,26 @@
           "index": 29.402696439868123,
           "favor": 17.783320190409306,
           "attention": 0.8731075927424015,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T16:52:09.380Z",
+      "exportedAt": "2026-10-17T16:52:09.380Z",
+      "scores": 13113,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.939519681179526,
+          "favor": 9.295066635492166,
+          "attention": 6.155091343559701,
+          "respect": 6.48936170212766
+        },
+        "veterans": {
+          "index": 29.444689645032412,
+          "favor": 17.790788334312715,
+          "attention": 0.9076326540032774,
           "respect": 10.746268656716419
         }
       }
