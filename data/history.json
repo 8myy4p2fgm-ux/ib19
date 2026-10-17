@@ -143522,6 +143522,104 @@
         "scoredAt": "2026-10-17T19:00:47.080Z",
         "userId": "9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f"
       }
+    },
+    {
+      "id": "161d53ae6f3e70d3891002c0bd8abae7b73f20d47a90a8c6b38e657a6839d1b5",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:06:01.287Z",
+      "key": "[\"f0b00857-da51-4b3a-9aeb-d24e376df4ec\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Местами какие-то есть дикционные факапы, но в целом стилёк есть",
+        "scoredAt": "2026-10-17T19:06:01.287Z",
+        "userId": "f0b00857-da51-4b3a-9aeb-d24e376df4ec"
+      }
+    },
+    {
+      "id": "e9da3d1d13c1587b316f64462fc4d2188ffd4dfb83bc9664f90d6ffdeb63c790",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:04:24.565Z",
+      "key": "[\"8b0bb029-18a4-46a3-b9d7-e2366b9f40cb\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну понятно о чем сторитейл, вот только голос из капы достать и немного разнообразия дать и будет норм",
+        "scoredAt": "2026-10-17T19:04:24.565Z",
+        "userId": "8b0bb029-18a4-46a3-b9d7-e2366b9f40cb"
+      }
+    },
+    {
+      "id": "cfc0bfb5bc8df852bb0cd0c2344b2d36100cc9042bfaeef177a12f957c686979",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:09:15.214Z",
+      "key": "[\"26b2e0ca-f28b-4138-bae0-f6c6469e617a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Дефолт бро, добавь жестких панчуль в такую подачу",
+        "scoredAt": "2026-10-17T19:09:15.214Z",
+        "userId": "26b2e0ca-f28b-4138-bae0-f6c6469e617a"
+      }
+    },
+    {
+      "id": "af4b9f828c7d987c0426209795a8b504141a6608eaceacdca4246a051b5ea842",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:11:42.577Z",
+      "key": "[\"f427961b-f1ac-4cee-96da-d0b365a8bf40\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "В некст раз чуть поярче звучок на дропе сделай, в целом понравилась работа",
+        "scoredAt": "2026-10-17T19:11:42.577Z",
+        "userId": "f427961b-f1ac-4cee-96da-d0b365a8bf40"
+      }
+    },
+    {
+      "id": "437a9ddc71cc1248d8d223e7fd78dd1b9b8c91b31a3655a1cea47937faed5625",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:08:02.229Z",
+      "key": "[\"e71b1a65-4f24-4675-a41d-2b815596faba\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "короче базу на базу, классика на классика, хоть и понимаю прием но не понимаю зачем, в целом чуть получше голос упаковать надо, то что разнообразие даешь это +",
+        "scoredAt": "2026-10-17T19:08:02.229Z",
+        "userId": "e71b1a65-4f24-4675-a41d-2b815596faba"
+      }
+    },
+    {
+      "id": "42e894a568762febe5029bd8189d42520fa5a914fcd817330da7e0f3a99a38ec",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:10:21.616Z",
+      "key": "[\"609f76d2-733f-4c4e-9bcc-2cccd6b3158e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 1,
+        "comment": "Вот вроде что-то есть в голосе в плане читки, но вот бит записать на диктофон и голос это жестко",
+        "scoredAt": "2026-10-17T19:10:21.616Z",
+        "userId": "609f76d2-733f-4c4e-9bcc-2cccd6b3158e"
+      }
+    },
+    {
+      "id": "04b41719ff90ef5e91f91e68a102e1197049a1ceb78e9b1dd6038fa5ba7bdbf4",
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "sourceScoredAt": "2026-10-17T19:03:00.794Z",
+      "key": "[\"68823dc4-6725-4b8e-b673-92052764338b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Слабовато бро, вроде читаешь +-, но вот ты отдельно от бита как-то",
+        "scoredAt": "2026-10-17T19:03:00.794Z",
+        "userId": "68823dc4-6725-4b8e-b673-92052764338b"
+      }
     }
   ],
   "snapshots": [
@@ -151901,6 +151999,26 @@
           "index": 29.742411462193857,
           "favor": 17.79926000250846,
           "attention": 1.1968828029689762,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T19:12:11.154Z",
+      "exportedAt": "2026-10-17T19:12:11.154Z",
+      "scores": 13231,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.861837537700172,
+          "favor": 9.268633932272088,
+          "attention": 6.1231331828928734,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.764513122555982,
+          "favor": 17.802379261970668,
+          "attention": 1.215865203868895,
           "respect": 10.746268656716419
         }
       }
