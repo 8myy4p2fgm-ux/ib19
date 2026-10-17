@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T16:12:11.296Z",
-  "exportedAt": "2026-10-17T16:12:11.296Z",
-  "runId": "2026-10-17T16:12:11.296Z",
-  "forumExportedAt": "2026-10-17T16:12:11.296Z",
+  "lastSuccessfulAt": "2026-10-17T16:22:04.182Z",
+  "exportedAt": "2026-10-17T16:22:04.182Z",
+  "runId": "2026-10-17T16:22:04.182Z",
+  "forumExportedAt": "2026-10-17T16:22:04.182Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13065,
+    "scores": 13071,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 7,
-    "logicalRequests": 11,
-    "durationMs": 11404,
-    "scoresBefore": 13057,
-    "scoresAfter": 13065,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8092,
+    "scoresBefore": 13065,
+    "scoresAfter": 13071,
     "fullBaselineRequests": 3245,
-    "requestReductionPercent": 99.66101694915255,
+    "requestReductionPercent": 99.75346687211093,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "EniWay",
+          "comment": "Фастфлоу заруинил капец. Подача скучная бро",
+          "scoredAt": "2026-10-17T16:19:47.774Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "anDrake",
+          "comment": "Еще один квадратный клишейный рэп ",
+          "scoredAt": "2026-10-17T16:19:20.280Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Еб@л Мадрид",
+          "comment": "Зачитал неплохо, но по тексту все просто.",
+          "scoredAt": "2026-10-17T16:19:03.762Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "V",
+          "comment": "Скучный флоу, сырой трек, по тексту скучно , авансом 3",
+          "scoredAt": "2026-10-17T16:18:41.653Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Алчевский",
+          "comment": "Биток мясо, стилек прикольный, харизма есть , про нехуй считать хороший пончик. Добавь таких еще штук 5 крепких в следующий раунд. Не проебимо, а то точно слететь так можно во втором ",
+          "scoredAt": "2026-10-17T16:17:12.477Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "милый котёнок",
+          "comment": "АВАНСОМ 4. потому что если б не хватило 1 балла было б обидно, считай что спасательный круг получил. Надо сделать работу над ошибками: добавь нормальных хороших Панчей, то что ты саунд убил самоиронично из-за неуверенности в подачи особенно в первой части. Потанцевал чувствуется, прокачайся текстово ко 2 этапу.",
+          "scoredAt": "2026-10-17T16:15:17.919Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Сын Грома",
+          "comment": "Средний проходной трек, немножко в середине подвалил чуточку немножко. Давай трушные барсы с таким голосом, тебе подойдет ",
+          "scoredAt": "2026-10-17T16:12:05.282Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -140,55 +189,6 @@
           "artist": "mwttm",
           "comment": "Ну как-то не очень уверено. Я думаю, что стихи у тебя пиздатые и роман точно крутой. Рэп пока такой себе.",
           "scoredAt": "2026-10-17T16:01:10.031Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Mrmris",
-          "comment": "Не всё по тексту моё, зато звучит так уверенно, что четвёрку ставлю без сомнений",
-          "scoredAt": "2026-10-17T16:00:54.040Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Богдан Журавлев",
-          "comment": "если не прикладываешь текст, нужно быть уверенным, что с ним нет проблем. А они есть, я переслушал.",
-          "scoredAt": "2026-10-17T15:59:38.831Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "sou kaannet",
-          "comment": "Забавные панчули. Вот бы ты их собрал в один целостный куплет.",
-          "scoredAt": "2026-10-17T15:58:38.493Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Сухой",
-          "comment": "Текст кажется смешным, пока не задумаешься. Всего хорошего!",
-          "scoredAt": "2026-10-17T15:58:20.737Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Банлезар",
-          "comment": "Бля, задумка ахуенная, реализация сумбурная, братец. Темп по-медленнее бы сюда для лучшей разборчивости . за идею накину проходной",
-          "scoredAt": "2026-10-17T15:55:53.709Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Veero Ro",
-          "comment": "Ритмика прикольная, по тексту ничего интересного. ",
-          "scoredAt": "2026-10-17T15:55:31.069Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 5,
-          "artist": "BURNMM",
-          "comment": "Бриллиант и мёд для ушей среди всех треков.",
-          "scoredAt": "2026-10-17T15:55:16.297Z"
         }
       ]
     }
