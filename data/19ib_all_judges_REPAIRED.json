@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T04:51:58.603Z",
+  "exportedAt": "2026-10-17T05:01:56.218Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -50268,8 +50268,14 @@
     },
     {
       "userId": "a137ab5d-620d-484b-a7e9-c0d00e27ccea",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Осталось очень неоднозначное впечатление – иногда кажется, что это очень поверхностно и ты ходишь вокруг да около... Но в целом слушабельно, неплохо разнообразил к концу. ",
+          "scoredAt": "2026-10-17T05:01:38.738Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -50283,7 +50289,7 @@
           "scoredAt": "2026-10-03T10:09:21.915Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T05:01:56.218Z",
       "current": true,
       "artistName": "Модернист",
       "artistSlug": "modernist"

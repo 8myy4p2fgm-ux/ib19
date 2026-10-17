@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T04:51:58.603Z",
-  "exportedAt": "2026-10-17T04:51:58.603Z",
-  "runId": "2026-10-17T04:51:58.603Z",
-  "forumExportedAt": "2026-10-17T04:51:58.603Z",
+  "lastSuccessfulAt": "2026-10-17T05:01:56.218Z",
+  "exportedAt": "2026-10-17T05:01:56.218Z",
+  "runId": "2026-10-17T05:01:56.218Z",
+  "forumExportedAt": "2026-10-17T05:01:56.218Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12025,
+    "scores": 12026,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4179,
-    "scoresBefore": 12023,
-    "scoresAfter": 12025,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3183,
+    "scoresBefore": 12025,
+    "scoresAfter": 12026,
     "fullBaselineRequests": 3207,
-    "requestReductionPercent": 99.87527284066105,
+    "requestReductionPercent": 99.90645463049579,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Модернист",
+          "comment": "Осталось очень неоднозначное впечатление – иногда кажется, что это очень поверхностно и ты ходишь вокруг да около... Но в целом слушабельно, неплохо разнообразил к концу. ",
+          "scoredAt": "2026-10-17T05:01:38.738Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 5,
@@ -180,13 +187,6 @@
           "artist": "vs.",
           "comment": "вот это ты мне вовремя залетел, дядька во 2 без диктофона\nчитаешь прилично, нужно серьезно подойти к 2 раунду",
           "scoredAt": "2026-10-17T01:56:27.690Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Asteroday",
-          "comment": "жесть исторический рэп, ну это вау!!! но исполнение слабоватое",
-          "scoredAt": "2026-10-17T01:55:37.089Z"
         }
       ]
     }
