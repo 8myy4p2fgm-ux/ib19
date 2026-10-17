@@ -143102,6 +143102,76 @@
         "scoredAt": "2026-10-17T17:46:15.976Z",
         "userId": "7b3e543a-3d93-4931-a3bf-28bc21334b96"
       }
+    },
+    {
+      "id": "3de36a801ff449762cf9500c7efaa7487062b1c8dc55f1c5614139bd23e446b3",
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "sourceScoredAt": "2026-10-17T17:54:33.166Z",
+      "key": "[\"4ad2a4d8-bf16-4fe6-a4d4-c64b6fef7833\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Немного поработал с текстом, но вот флоу однообразный вышел, в конце надо было на вокал выходить, и в целом зачитал без эмоций",
+        "scoredAt": "2026-10-17T17:54:33.166Z",
+        "userId": "4ad2a4d8-bf16-4fe6-a4d4-c64b6fef7833"
+      }
+    },
+    {
+      "id": "d99cbf9dbdb044916df290c9177be2c7ebac4f87fd0fe28e8ee360e69a8012d1",
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "sourceScoredAt": "2026-10-17T17:55:56.792Z",
+      "key": "[\"49309b8c-1e52-4670-bccc-eedcaffddc9b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот под такой биток надо валить жестко, ты как то стандартненько как будто скован.",
+        "scoredAt": "2026-10-17T17:55:56.792Z",
+        "userId": "49309b8c-1e52-4670-bccc-eedcaffddc9b"
+      }
+    },
+    {
+      "id": "c42a574fafe6505112b64aaf7e4242b7d16f9e9acaeb0f2e40da2f98ffc0f7fe",
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "sourceScoredAt": "2026-10-17T18:00:11.322Z",
+      "key": "[\"4ca777e5-47ba-4413-b80f-912422cb7a43\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом вайбанул под твой трек, единственное опять же не хватило какого то заднего фона айры там для объема трекаса",
+        "scoredAt": "2026-10-17T18:00:11.322Z",
+        "userId": "4ca777e5-47ba-4413-b80f-912422cb7a43"
+      }
+    },
+    {
+      "id": "cab7a7e965ce45cc105c6db713cb11be547448bbb94a388fb37974cfb822886a",
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "sourceScoredAt": "2026-10-17T17:53:05.014Z",
+      "key": "[\"94a92d99-b005-40c5-bb2a-3bcce6d39ee8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Средненько бро, чуть поработать надо по эмоциям и сменой подачи",
+        "scoredAt": "2026-10-17T17:53:05.014Z",
+        "userId": "94a92d99-b005-40c5-bb2a-3bcce6d39ee8"
+      }
+    },
+    {
+      "id": "592a1b23939ccebf68b21dc351e480b8036b6e79ebe0d53cb2ede84bc7aabcc3",
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "sourceScoredAt": "2026-10-17T17:58:21.278Z",
+      "key": "[\"94a0bcab-d1aa-41b6-87ca-34383d45dcca\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "Знаешь поставлю авансом, первый трек над которым я поржал в голос. И тебе риса что вызвал эмоцию)",
+        "scoredAt": "2026-10-17T17:58:21.278Z",
+        "userId": "94a0bcab-d1aa-41b6-87ca-34383d45dcca"
+      }
     }
   ],
   "snapshots": [
@@ -151361,6 +151431,26 @@
           "index": 29.66764570123182,
           "favor": 17.798816027062234,
           "attention": 1.1225610174531646,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T18:02:03.960Z",
+      "exportedAt": "2026-10-17T18:02:03.960Z",
+      "scores": 13199,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.798813302673903,
+          "favor": 9.263021216731278,
+          "attention": 6.065721663407413,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.67926172466977,
+          "favor": 17.79678530424799,
+          "attention": 1.1362077637053634,
           "respect": 10.746268656716419
         }
       }

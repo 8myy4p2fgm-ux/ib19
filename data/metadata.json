@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T17:52:08.668Z",
-  "exportedAt": "2026-10-17T17:52:08.668Z",
-  "runId": "2026-10-17T17:52:08.668Z",
-  "forumExportedAt": "2026-10-17T17:52:08.668Z",
+  "lastSuccessfulAt": "2026-10-17T18:02:03.960Z",
+  "exportedAt": "2026-10-17T18:02:03.960Z",
+  "runId": "2026-10-17T18:02:03.960Z",
+  "forumExportedAt": "2026-10-17T18:02:03.960Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13194,
+    "scores": 13199,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 14,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 12,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 12,
-    "changedParticipants": 12,
-    "logicalRequests": 14,
-    "durationMs": 14135,
-    "scoresBefore": 13182,
-    "scoresAfter": 13194,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7007,
+    "scoresBefore": 13194,
+    "scoresAfter": 13199,
     "fullBaselineRequests": 3247,
-    "requestReductionPercent": 99.56883276870958,
+    "requestReductionPercent": 99.78441638435478,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "33black",
+          "comment": "В целом вайбанул под твой трек, единственное опять же не хватило какого то заднего фона айры там для объема трекаса",
+          "scoredAt": "2026-10-17T18:00:11.322Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "BIO MOYKA",
+          "comment": "Знаешь поставлю авансом, первый трек над которым я поржал в голос. И тебе риса что вызвал эмоцию)",
+          "scoredAt": "2026-10-17T17:58:21.278Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Алексей Татаринов",
+          "comment": "Вот под такой биток надо валить жестко, ты как то стандартненько как будто скован.",
+          "scoredAt": "2026-10-17T17:55:56.792Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Летна",
+          "comment": "Немного поработал с текстом, но вот флоу однообразный вышел, в конце надо было на вокал выходить, и в целом зачитал без эмоций",
+          "scoredAt": "2026-10-17T17:54:33.166Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "LPFROMZLT",
+          "comment": "Средненько бро, чуть поработать надо по эмоциям и сменой подачи",
+          "scoredAt": "2026-10-17T17:53:05.014Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -154,41 +189,6 @@
           "artist": "becap",
           "comment": "Бро слабовато. Вроде качесетвенно и ровно зачитано. Но блинб прямо так всё и рифмы квадратные.",
           "scoredAt": "2026-10-17T17:44:48.833Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 1,
-          "artist": "Бескрайняя Плоть",
-          "comment": "Не уверенно",
-          "scoredAt": "2026-10-17T17:43:54.645Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "КЛИЕNT",
-          "comment": "Что-то вообще не дал эмоций чисто звучит как трек на скоряк",
-          "scoredAt": "2026-10-17T17:42:57.168Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "sever",
-          "comment": "по тексту есть шаблоны, куплет ровно зачитан, но как то без изюминки",
-          "scoredAt": "2026-10-17T17:41:57.514Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "грязный рай",
-          "comment": "Звучит как затянутая интруха, ещё и тюн шакальный. Не знаю бро весь трек режет ухо как-то.",
-          "scoredAt": "2026-10-17T17:40:31.782Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "Stalemate",
-          "comment": "Настелил не плохо, единственное я может последний отрывок наоборот в напор дал, но в целом нормас.",
-          "scoredAt": "2026-10-17T17:38:05.464Z"
         }
       ]
     }
