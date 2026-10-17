@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T11:02:09.871Z",
+  "exportedAt": "2026-10-17T11:12:20.288Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -1009,8 +1009,14 @@
     },
     {
       "userId": "4dfbb6ab-11ed-49a8-9e9b-0c54a283e8a6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "Я честно пытался найти, за что зацепиться, но так и не нашёл. Один балл.",
+          "scoredAt": "2026-10-17T11:03:42.558Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 2,
@@ -1036,7 +1042,7 @@
           "scoredAt": "2026-09-23T18:53:09.862Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Vasiliy Gogolev 1654",
       "artistSlug": "vasiliy-gogolev-1654"
@@ -4338,8 +4344,14 @@
     },
     {
       "userId": "b26f4b8b-9749-466f-8a2d-dbe4111ecc2e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Скучно, однообразно, еще опыта надо набираться, братик, лучше сконцентрируйся на сучках из текста пока что ",
+          "scoredAt": "2026-10-17T11:07:06.383Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -4359,7 +4371,7 @@
           "scoredAt": "2026-09-07T16:43:47.818Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Geroy",
       "artistSlug": "geroy"
@@ -11820,8 +11832,14 @@
     },
     {
       "userId": "ecdff4cd-e39a-4d81-8e50-ac8f911316af",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "На рифмы ты подзабил, зато подача прикольная — смешно, но не более.",
+          "scoredAt": "2026-10-17T11:08:49.363Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -11847,7 +11865,7 @@
           "scoredAt": "2026-09-09T17:28:27.267Z"
         }
       ],
-      "fetchedAt": "2026-10-16T21:31:46.823Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "МЦ КОЛОКОЛЬЧИК",
       "artistSlug": "mc-kolokolchik"
@@ -15676,8 +15694,14 @@
     },
     {
       "userId": "367fbc01-bbeb-43d9-a665-4f0307e6276d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Мое почтение манере рифмовать, но очень неуверенное исполнение плюс где хоть что-то по теме?",
+          "scoredAt": "2026-10-17T11:09:07.235Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -15691,7 +15715,7 @@
           "scoredAt": "2026-09-29T15:39:14.559Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Asad2",
       "artistSlug": "asad2"
@@ -24678,8 +24702,14 @@
     },
     {
       "userId": "9798ab3e-66aa-456a-9704-43cc10dd11bc",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "comment": "Добавь панчи и будешь пятерки забирать ",
+          "scoredAt": "2026-10-17T11:05:49.402Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -24705,7 +24735,7 @@
           "scoredAt": "2026-09-05T20:28:02.159Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:52:25.764Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "IvCity",
       "artistSlug": "ivcity"
@@ -39034,8 +39064,14 @@
     },
     {
       "userId": "91b16ac0-ecd4-4c05-a796-fc12c6b35ae8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T11:10:07.912Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -39055,7 +39091,7 @@
           "scoredAt": "2026-10-12T13:23:24.202Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:41:58.598Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Роман Манакин",
       "artistSlug": "roman-manakin"
@@ -43720,8 +43756,14 @@
     },
     {
       "userId": "4ed1765d-784c-48c0-99fe-d4c63805a6b2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Хорош! Действительно что-то от цинка есть , прикольно про то Я В ПРОЦЕССЕ, в целом хорошо даже , разнообразия дал, знаешь это 4+, но я тебе пожалуй поставлю 5 с минусом авансиком немного. Уверено читаешь, интонируешь, интереснаое мета-раскрытие темы, добавь панчлайнов интересных еще и избавляйся от пиздос-передоз-завоз это тебя не красит ",
+          "scoredAt": "2026-10-17T11:04:37.971Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -43747,7 +43789,7 @@
           "scoredAt": "2026-10-08T12:16:03.610Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:12:15.049Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "DREAM GOA",
       "artistSlug": "dream-goa"
@@ -48658,8 +48700,14 @@
     },
     {
       "userId": "720bdc77-a776-4744-925b-6cafac034e7b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Жалко, что с кендриком не поехал в тур. Текст очень простой. Шторы тещи вообще ужас. Читаешь ровно, но не хватает подачи уверенной.",
+          "scoredAt": "2026-10-17T11:10:29.879Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -48673,7 +48721,7 @@
           "scoredAt": "2026-10-01T19:12:43.974Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "OnBonus",
       "artistSlug": "onbonus"
@@ -55708,8 +55756,14 @@
     },
     {
       "userId": "21dc503d-b3cc-42a7-811c-dc927680d1f0",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:08:44.866Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -55729,7 +55783,7 @@
           "scoredAt": "2026-09-29T11:36:52.165Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:32:21.788Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "HTM IN DAT",
       "artistSlug": "htm-in-dat"
@@ -61649,8 +61703,14 @@
     },
     {
       "userId": "907ad1e8-8308-45a0-a042-6dac2bc9b675",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:06:45.437Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -61676,7 +61736,7 @@
           "scoredAt": "2026-10-04T08:16:52.661Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:42:25.785Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "XiGzz",
       "artistSlug": "xigzz"
@@ -64756,8 +64816,14 @@
     },
     {
       "userId": "7e2066d7-1499-4e73-9880-d476d66df5f9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Хороший голос, хорошая отсылка к Технику!",
+          "scoredAt": "2026-10-17T11:02:59.584Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -64765,7 +64831,7 @@
           "scoredAt": "2026-10-15T06:17:11.379Z"
         }
       ],
-      "fetchedAt": "2026-10-15T06:22:10.189Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "baradoz",
       "artistSlug": "baradoz"
@@ -65328,8 +65394,14 @@
     },
     {
       "userId": "2b24c4df-4420-42e1-825b-224538fca245",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T11:08:07.240Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -65355,7 +65427,7 @@
           "scoredAt": "2026-10-02T17:52:41.506Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:52:09.322Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "НИТЛЕР T-GIRL [#КБС]",
       "artistSlug": "nitler-t-girl-kbs"
@@ -65758,8 +65830,14 @@
     },
     {
       "userId": "def25adb-ce6b-4173-be99-acb0dafef234",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 5,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T11:06:12.117Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -65785,7 +65863,7 @@
           "scoredAt": "2026-09-17T18:18:15.076Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:32:23.705Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Victor Crouch",
       "artistSlug": "victor-crouch"
@@ -68451,8 +68529,14 @@
     },
     {
       "userId": "33aa2457-386a-4e8d-8e09-1dc20aec5039",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:04:21.290Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -68460,7 +68544,7 @@
           "scoredAt": "2026-09-24T21:20:06.716Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "HOAQUIN",
       "artistSlug": "hoaquin"
@@ -71949,8 +72033,14 @@
     },
     {
       "userId": "73203d24-ab62-4c51-86f8-6e8e4c91342c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Идея мне понятна, только воплощение её не тянет. Замах есть, попадания нет.",
+          "scoredAt": "2026-10-17T11:05:12.118Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -71970,7 +72060,7 @@
           "scoredAt": "2026-10-12T10:06:24.538Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:22:03.986Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Big63",
       "artistSlug": "big63"
@@ -71999,8 +72089,14 @@
     },
     {
       "userId": "8c8aa783-aa9a-4974-94fc-df53ab9d412f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Думал, ставить 2 или 3, но рифмы не позволяют поставить проходную оценку.",
+          "scoredAt": "2026-10-17T11:11:17.219Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -72026,7 +72122,7 @@
           "scoredAt": "2026-09-19T21:11:23.204Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Давид Шоуа",
       "artistSlug": "david-shoua"
@@ -72648,8 +72744,14 @@
     },
     {
       "userId": "26b2e0ca-f28b-4138-bae0-f6c6469e617a",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ритмика есть, остроты нет. Добавил бы панчей — разговор был бы другой.",
+          "scoredAt": "2026-10-17T11:06:32.701Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -72657,7 +72759,7 @@
           "scoredAt": "2026-09-29T11:20:32.723Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Veero Ro",
       "artistSlug": "veero-ro"
@@ -73466,8 +73568,14 @@
     },
     {
       "userId": "ea035668-c9ca-4c81-9276-16b87b39ca67",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:04:57.637Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -73493,7 +73601,7 @@
           "scoredAt": "2026-10-02T15:23:02.597Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "ЕАЙ",
       "artistSlug": "eay"
@@ -73708,8 +73816,14 @@
     },
     {
       "userId": "01a716fc-575a-4213-9582-1407a7aa3887",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Потенциал слышно, но до результата далеко. Работай дальше.",
+          "scoredAt": "2026-10-17T11:05:54.665Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 2,
@@ -73735,7 +73849,7 @@
           "scoredAt": "2026-09-19T23:20:10.705Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:12:42.870Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "PADISHAH",
       "artistSlug": "padishah-2"
@@ -74574,8 +74688,14 @@
     },
     {
       "userId": "abf54595-ef9a-496c-986b-44503e285ab6",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Колебался между тройкой и двойкой.",
+          "scoredAt": "2026-10-17T11:10:06.280Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -74583,7 +74703,7 @@
           "scoredAt": "2026-10-17T10:21:44.890Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:22:11.836Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "YASPAL",
       "artistSlug": "yaspal"
@@ -76073,8 +76193,14 @@
     },
     {
       "userId": "f6960fad-fe4c-4ed3-83dc-31d89dbc30d9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:11:49.223Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -76094,7 +76220,7 @@
           "scoredAt": "2026-09-28T13:49:19.561Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:52:21.258Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Кудрявое",
       "artistSlug": "kudryavoe"
@@ -82124,8 +82250,14 @@
     },
     {
       "userId": "d200a1e3-7c3a-48ec-a8f2-86495b343322",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:10:50.250Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 2,
@@ -82151,7 +82283,7 @@
           "scoredAt": "2026-10-12T11:25:35.712Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:52:23.240Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "@aduwone",
       "artistSlug": "aduwone"
@@ -83220,8 +83352,14 @@
     },
     {
       "userId": "d1749893-ae44-4003-b96c-d7046eb2c556",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T11:09:31.377Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -83247,7 +83385,7 @@
           "scoredAt": "2026-09-24T15:32:50.299Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:12:42.870Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "СИЛЕН",
       "artistSlug": "silen"
@@ -88744,8 +88882,14 @@
     },
     {
       "userId": "02f83c06-fa8f-4cd4-a199-ea02593ff832",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T11:02:29.932Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -88753,7 +88897,7 @@
           "scoredAt": "2026-10-12T21:18:59.169Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "ТЕТРАПАК",
       "artistSlug": "tetrapak"
@@ -90609,8 +90753,14 @@
     },
     {
       "userId": "52623f7c-28b7-49ad-9204-7c64dc655cee",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T11:03:35.398Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -90618,7 +90768,7 @@
           "scoredAt": "2026-10-06T15:45:35.231Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Витя Шихан",
       "artistSlug": "vitya-shihan"
@@ -95706,8 +95856,14 @@
     },
     {
       "userId": "7120bd84-2d18-43b9-8cf7-cf6678cf6bda",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Однообразный слабый флоу, к середине надоело. Не зашло.",
+          "scoredAt": "2026-10-17T11:07:28.322Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -95715,7 +95871,7 @@
           "scoredAt": "2026-10-13T15:53:47.362Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "Егор Георгиев",
       "artistSlug": "egor-georgiev"
@@ -107340,8 +107496,14 @@
     },
     {
       "userId": "313a9cf3-97e6-4282-85c2-a93a52e0e9f5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Жаль, что трек не на баттл, в стилечке что-то есть и по тексту тоже",
+          "scoredAt": "2026-10-17T11:07:12.121Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -107361,7 +107523,7 @@
           "scoredAt": "2026-10-06T15:43:46.091Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T11:12:20.288Z",
       "current": true,
       "artistName": "F3ckItNow",
       "artistSlug": "f3ckitnow"
