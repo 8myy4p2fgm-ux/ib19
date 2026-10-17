@@ -128452,6 +128452,118 @@
         "scoredAt": "2026-10-17T08:16:53.637Z",
         "userId": "68189d14-d767-40d2-bddd-5364a82b5c47"
       }
+    },
+    {
+      "id": "85364e58c7c030dc018879f13850fdd363969c513df138d3b480ec9c7a26dc57",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:30:39.990Z",
+      "key": "[\"17b6e093-56fc-47e9-9098-9dc78a336744\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:30:39.990Z",
+        "userId": "17b6e093-56fc-47e9-9098-9dc78a336744"
+      }
+    },
+    {
+      "id": "fadf45843effa4ea30792647842136f0f0c3cd767dc719fcedbc814720edeef4",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:25:28.265Z",
+      "key": "[\"c07c7ab1-b00b-4d00-ac3d-e1edb735953e\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:25:28.265Z",
+        "userId": "c07c7ab1-b00b-4d00-ac3d-e1edb735953e"
+      }
+    },
+    {
+      "id": "938a7347ffb684a3efc80d1a370616387ac5f4da5acff3e200dc5cb2c8931b16",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:26:34.054Z",
+      "key": "[\"cc33010f-bf59-44ca-b563-0b102cf5714e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Есть забавные строчки, но не более. Рэп про рэп. Я думаю, что если бы ты сильнее постарался, то и рэп у тебя вышел на порядок лучше.",
+        "scoredAt": "2026-10-17T08:26:34.054Z",
+        "userId": "cc33010f-bf59-44ca-b563-0b102cf5714e"
+      }
+    },
+    {
+      "id": "6642de17795ebe29fbfe5e52a3525708479c95e89e2d1d9a93c44ac0c4d8d5af",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:28:47.781Z",
+      "key": "[\"3cdafea4-06c6-4f9a-af50-9c0560a17970\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:28:47.781Z",
+        "userId": "3cdafea4-06c6-4f9a-af50-9c0560a17970"
+      }
+    },
+    {
+      "id": "4f09977ad6b424adbecbc07974f2f9982edce11e6fdbba2a33e4405fa116cbb4",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:28:27.763Z",
+      "key": "[\"76172822-8c19-4aa0-9265-fef149b84c0b\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну не все голосуют за говно, что ты уж так критично. Я вот хоть и уверенно зачитанному, но все же говну по тексту поставлю тройку. Как тебе?",
+        "scoredAt": "2026-10-17T08:28:27.763Z",
+        "userId": "76172822-8c19-4aa0-9265-fef149b84c0b"
+      }
+    },
+    {
+      "id": "f48b3baf63025bc4aead34165b60c25dcd6cf8e537e4b59a2df7aef473a388f6",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:29:23.659Z",
+      "key": "[\"3d13ecc5-012d-4c88-9abf-aae07c50cb7d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:29:23.659Z",
+        "userId": "3d13ecc5-012d-4c88-9abf-aae07c50cb7d"
+      }
+    },
+    {
+      "id": "295e72c95902eb110ce68cf31a508feae2a341dfeb51e0d88a14dbcd30e54303",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:25:09.770Z",
+      "key": "[\"4b436cee-7bd5-441c-b35f-409e8e19b30f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Респект за большие яйца. Дизреспект за приколдесный рэпак. Если бы сделал серьезный трек, я думаю прошел бы. Эдлибы в стиле нирваны - хорошо.",
+        "scoredAt": "2026-10-17T08:25:09.770Z",
+        "userId": "4b436cee-7bd5-441c-b35f-409e8e19b30f"
+      }
+    },
+    {
+      "id": "b5338acec3e31d9124dcee71bdf2f3db2566716684067c68a78f3e91830d3284",
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "sourceScoredAt": "2026-10-17T08:24:32.465Z",
+      "key": "[\"67c140b1-a6da-4006-8b08-1130084e8c05\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:24:32.465Z",
+        "userId": "67c140b1-a6da-4006-8b08-1130084e8c05"
+      }
     }
   ],
   "snapshots": [
@@ -135591,6 +135703,26 @@
           "index": 28.980044305897174,
           "favor": 18.02878508720205,
           "attention": -0.037112874328129,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:31:55.209Z",
+      "exportedAt": "2026-10-17T08:31:55.209Z",
+      "scores": 12166,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.9745371254076,
+          "favor": 9.25677030444541,
+          "attention": 6.124360227555599,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 28.99039039571113,
+          "favor": 18.030162811949975,
+          "attention": -0.02814450926210214,
           "respect": 10.988372093023257
         }
       }

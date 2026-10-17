@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T08:21:53.967Z",
-  "exportedAt": "2026-10-17T08:21:53.967Z",
-  "runId": "2026-10-17T08:21:53.967Z",
-  "forumExportedAt": "2026-10-17T08:21:53.967Z",
+  "lastSuccessfulAt": "2026-10-17T08:31:55.209Z",
+  "exportedAt": "2026-10-17T08:31:55.209Z",
+  "runId": "2026-10-17T08:31:55.209Z",
+  "forumExportedAt": "2026-10-17T08:31:55.209Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12158,
+    "scores": 12166,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 7,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 9,
-    "durationMs": 8773,
-    "scoresBefore": 12151,
-    "scoresAfter": 12158,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 10,
+    "durationMs": 9745,
+    "scoresBefore": 12158,
+    "scoresAfter": 12166,
     "fullBaselineRequests": 3213,
-    "requestReductionPercent": 99.71988795518207,
+    "requestReductionPercent": 99.68876439464674,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,62 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Илья Игнатов",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:30:39.990Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Mr. Nobody",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:29:23.659Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 5,
+          "artist": "DICTATURA",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:28:47.781Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Дима Джуз",
+          "comment": "Ну не все голосуют за говно, что ты уж так критично. Я вот хоть и уверенно зачитанному, но все же говну по тексту поставлю тройку. Как тебе?",
+          "scoredAt": "2026-10-17T08:28:27.763Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "райский sad",
+          "comment": "Есть забавные строчки, но не более. Рэп про рэп. Я думаю, что если бы ты сильнее постарался, то и рэп у тебя вышел на порядок лучше.",
+          "scoredAt": "2026-10-17T08:26:34.054Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Inice",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:25:28.265Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Ялли 21",
+          "comment": "Респект за большие яйца. Дизреспект за приколдесный рэпак. Если бы сделал серьезный трек, я думаю прошел бы. Эдлибы в стиле нирваны - хорошо.",
+          "scoredAt": "2026-10-17T08:25:09.770Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "evil twin",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:24:32.465Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -131,62 +187,6 @@
           "artist": "JOHNNY KATANA",
           "comment": "",
           "scoredAt": "2026-10-17T08:12:10.948Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "Положняковый",
-          "comment": "Хотел поставить тебе тройку, но ботинки преобул в полете и поставил единицу. Вообще мог бы сделать неплохой трек, но решил написать реп про реп.",
-          "scoredAt": "2026-10-17T08:11:54.941Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "agap ottawa",
-          "comment": "Интересный стилек, но текст очень простой.",
-          "scoredAt": "2026-10-17T08:10:15.626Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Забытый музой",
-          "comment": "Читаешь ровно, но по тексту все просто и наивно. ",
-          "scoredAt": "2026-10-17T08:09:11.785Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "Маркус Минай",
-          "comment": "Сомневался между 3 и 4. Есть косяки по исполнению - сбивка ритмики, склейки слышны. Текст тоже пустоват и простоват. Но местами неплохо звучит. Так что отдам в пользу участника.",
-          "scoredAt": "2026-10-17T08:06:36.635Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "YNWA<3U",
-          "comment": "Прикольно",
-          "scoredAt": "2026-10-17T08:05:24.447Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 5,
-          "artist": "домашний как тапочки",
-          "comment": "Хотел снизить за длинное интро, но 45 секунд хватило, чтобы переубедить.",
-          "scoredAt": "2026-10-17T08:04:40.742Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "Барни",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:03:50.344Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Семён",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:03:04.686Z"
         }
       ]
     }

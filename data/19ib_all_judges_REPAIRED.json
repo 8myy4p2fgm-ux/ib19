@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T08:21:53.967Z",
+  "exportedAt": "2026-10-17T08:31:55.209Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -5332,8 +5332,14 @@
     },
     {
       "userId": "17b6e093-56fc-47e9-9098-9dc78a336744",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:30:39.990Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -5347,7 +5353,7 @@
           "scoredAt": "2026-09-07T19:00:26.968Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "Илья Игнатов",
       "artistSlug": "ilya-ignatov"
@@ -17265,8 +17271,14 @@
     },
     {
       "userId": "c07c7ab1-b00b-4d00-ac3d-e1edb735953e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:25:28.265Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -17280,7 +17292,7 @@
           "scoredAt": "2026-09-19T04:45:14.111Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "Inice",
       "artistSlug": "inice"
@@ -26960,8 +26972,14 @@
     },
     {
       "userId": "cc33010f-bf59-44ca-b563-0b102cf5714e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Есть забавные строчки, но не более. Рэп про рэп. Я думаю, что если бы ты сильнее постарался, то и рэп у тебя вышел на порядок лучше.",
+          "scoredAt": "2026-10-17T08:26:34.054Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -26987,7 +27005,7 @@
           "scoredAt": "2026-09-09T15:02:37.547Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "райский sad",
       "artistSlug": "rayskiy-sad"
@@ -36470,8 +36488,14 @@
     },
     {
       "userId": "3cdafea4-06c6-4f9a-af50-9c0560a17970",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:28:47.781Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 5,
@@ -36491,7 +36515,7 @@
           "scoredAt": "2026-09-25T12:16:03.329Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:52:20.451Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "DICTATURA",
       "artistSlug": "dictatura"
@@ -50374,8 +50398,14 @@
     },
     {
       "userId": "76172822-8c19-4aa0-9265-fef149b84c0b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Ну не все голосуют за говно, что ты уж так критично. Я вот хоть и уверенно зачитанному, но все же говну по тексту поставлю тройку. Как тебе?",
+          "scoredAt": "2026-10-17T08:28:27.763Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -50389,7 +50419,7 @@
           "scoredAt": "2026-10-15T18:41:13.108Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:22:27.319Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "Дима Джуз",
       "artistSlug": "dima-dzhuz"
@@ -63896,8 +63926,14 @@
     },
     {
       "userId": "3d13ecc5-012d-4c88-9abf-aae07c50cb7d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:29:23.659Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 1,
@@ -63917,7 +63953,7 @@
           "scoredAt": "2026-09-23T09:08:24.928Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "Mr. Nobody",
       "artistSlug": "mr-nobody"
@@ -75201,8 +75237,14 @@
     },
     {
       "userId": "4b436cee-7bd5-441c-b35f-409e8e19b30f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Респект за большие яйца. Дизреспект за приколдесный рэпак. Если бы сделал серьезный трек, я думаю прошел бы. Эдлибы в стиле нирваны - хорошо.",
+          "scoredAt": "2026-10-17T08:25:09.770Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 5,
@@ -75216,7 +75258,7 @@
           "scoredAt": "2026-10-08T18:40:20.311Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "Ялли 21",
       "artistSlug": "yalli-21"
@@ -104560,8 +104602,14 @@
     },
     {
       "userId": "67c140b1-a6da-4006-8b08-1130084e8c05",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:24:32.465Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -104575,7 +104623,7 @@
           "scoredAt": "2026-10-07T11:18:39.648Z"
         }
       ],
-      "fetchedAt": "2026-10-16T04:02:11.004Z",
+      "fetchedAt": "2026-10-17T08:31:55.209Z",
       "current": true,
       "artistName": "evil twin",
       "artistSlug": "evil-twin"
