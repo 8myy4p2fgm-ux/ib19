@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T05:21:46.284Z",
-  "exportedAt": "2026-10-17T05:21:46.284Z",
-  "runId": "2026-10-17T05:21:46.284Z",
-  "forumExportedAt": "2026-10-17T05:21:46.284Z",
+  "lastSuccessfulAt": "2026-10-17T05:31:44.976Z",
+  "exportedAt": "2026-10-17T05:31:44.976Z",
+  "runId": "2026-10-17T05:31:44.976Z",
+  "forumExportedAt": "2026-10-17T05:31:44.976Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12030,
+    "scores": 12034,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 2721,
-    "scoresBefore": 12029,
-    "scoresAfter": 12030,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5919,
+    "scoresBefore": 12030,
+    "scoresAfter": 12034,
     "fullBaselineRequests": 3207,
-    "requestReductionPercent": 99.90645463049579,
+    "requestReductionPercent": 99.81290926099157,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "ЭТО44",
+          "comment": "Слишком в кашу всё, нет целостного впечатления, пояснения для дурачков в скобках, не всегда адекватные совмещения двух фразеологизмов в одном флаконе",
+          "scoredAt": "2026-10-17T05:28:03.890Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "Jercu™",
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: опыт есть\nОбщее впечатление: жду во твором раунде \nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:24:02.596Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "artist": "Синед Никшиш",
+          "comment": "Спасибо за трек! \nТекст: есть интерес, но мало\nИсполнение: среднее, не хватило\nОбщее впечатление: не хватило качесва в треке\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:23:30.066Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "Истропил монтировка",
+          "comment": "Спасибо за трек! \nТекст: прикольный \nИсполнение: в стиле Кровостока, но в тоже время разнообразно\nОбщее впечатление: неплохо, интересно будет во втором послушать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:22:42.526Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -159,34 +187,6 @@
           "artist": "Эл Картер",
           "comment": "чуть-чуть джонибоя напомнил\n\nпо звуку тоже, жонибой времен когда норм сведоса не существовало =(",
           "scoredAt": "2026-10-17T02:09:29.405Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Андрей Кошечкин",
-          "comment": "очень странная, сумбурная работа\n",
-          "scoredAt": "2026-10-17T02:08:15.672Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "STEEL",
-          "comment": "эх, вот бы юкоз баттолы сюда, ты б там смотрелся очень хорошо.\nтакой базовый мс, которому надо опыта поднабрать. \nно на 19 поздно набирать опыта, в отбор нужно уже приходить с ЧЕМ-ТО",
-          "scoredAt": "2026-10-17T02:07:07.345Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Алексей Кузин",
-          "comment": "пока рановато, неказистый бит, читка среднячок",
-          "scoredAt": "2026-10-17T02:05:10.812Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "sk1mee",
-          "comment": "Я не воздухан  если я пукну то обкакаюсь\n\nАЫХФАХФЫАХЫХАХЫАХЫФАХЫФХАЫХАХЫФАХЫХАЫХАХЫАХЫХАЫХАХАФХЫАХ \n\nво втором конечно надо прям серьёзно рэпась свой пересмотреть, бахнут тебе 4 за смишнявку и не такой уж и плохой уровень, мб поможет пройти)",
-          "scoredAt": "2026-10-17T02:03:02.884Z"
         }
       ]
     }

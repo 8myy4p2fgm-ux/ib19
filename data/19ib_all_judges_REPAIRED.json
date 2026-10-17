@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T05:21:46.284Z",
+  "exportedAt": "2026-10-17T05:31:44.976Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -26664,8 +26664,14 @@
     },
     {
       "userId": "1cb93080-658d-4e70-874a-d5d100f88811",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Слишком в кашу всё, нет целостного впечатления, пояснения для дурачков в скобках, не всегда адекватные совмещения двух фразеологизмов в одном флаконе",
+          "scoredAt": "2026-10-17T05:28:03.890Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -26685,7 +26691,7 @@
           "scoredAt": "2026-09-19T22:25:32.121Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T05:31:44.976Z",
       "current": true,
       "artistName": "ЭТО44",
       "artistSlug": "eto44"
@@ -59228,8 +59234,14 @@
     },
     {
       "userId": "15f49bb0-3c56-4a78-968c-dcafbce0ac89",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: есть интерес, но мало\nИсполнение: среднее, не хватило\nОбщее впечатление: не хватило качесва в треке\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:23:30.066Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -59249,7 +59261,7 @@
           "scoredAt": "2026-10-02T16:51:09.950Z"
         }
       ],
-      "fetchedAt": "2026-10-14T14:52:10.011Z",
+      "fetchedAt": "2026-10-17T05:31:44.976Z",
       "current": true,
       "artistName": "Синед Никшиш",
       "artistSlug": "sined-nikshish"
@@ -77150,8 +77162,14 @@
     },
     {
       "userId": "c527b8fb-eac7-42b1-922c-227abf1c8fa1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: прикольный \nИсполнение: в стиле Кровостока, но в тоже время разнообразно\nОбщее впечатление: неплохо, интересно будет во втором послушать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:22:42.526Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -77177,7 +77195,7 @@
           "scoredAt": "2026-09-25T17:58:21.509Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T05:31:44.976Z",
       "current": true,
       "artistName": "Истропил монтировка",
       "artistSlug": "istropil-montirovka"
@@ -80488,8 +80506,14 @@
     },
     {
       "userId": "5678605f-09ad-46e7-ab49-5b8a5a08072a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: опыт есть\nОбщее впечатление: жду во твором раунде \nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:24:02.596Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -80509,7 +80533,7 @@
           "scoredAt": "2026-10-05T21:40:47.842Z"
         }
       ],
-      "fetchedAt": "2026-10-14T14:52:10.011Z",
+      "fetchedAt": "2026-10-17T05:31:44.976Z",
       "current": true,
       "artistName": "Jercu™",
       "artistSlug": "jercu"
