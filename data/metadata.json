@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T07:51:58.097Z",
-  "exportedAt": "2026-10-17T07:51:58.097Z",
-  "runId": "2026-10-17T07:51:58.097Z",
-  "forumExportedAt": "2026-10-17T07:51:58.097Z",
+  "lastSuccessfulAt": "2026-10-17T08:02:10.395Z",
+  "exportedAt": "2026-10-17T08:02:10.395Z",
+  "runId": "2026-10-17T08:02:10.395Z",
+  "forumExportedAt": "2026-10-17T08:02:10.395Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12125,
+    "scores": 12141,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 18,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 16,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 10670,
-    "scoresBefore": 12116,
-    "scoresAfter": 12125,
-    "fullBaselineRequests": 3212,
-    "requestReductionPercent": 99.65753424657534,
+    "participantsWithNewScores": 16,
+    "changedParticipants": 16,
+    "logicalRequests": 18,
+    "durationMs": 17694,
+    "scoresBefore": 12125,
+    "scoresAfter": 12141,
+    "fullBaselineRequests": 3213,
+    "requestReductionPercent": 99.43977591036415,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "MR.Рогалик",
+          "comment": "Подтяни рифмовку и добавь побольше интересных строк и будет хорошо.",
+          "scoredAt": "2026-10-17T08:00:39.349Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Psevdonemoy",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:00:09.687Z"
+        },
+        {
           "judgeName": "Paradise",
           "score": 3,
-          "artist": "Kommers",
-          "comment": "Тут 2, но за смешные строчки моментами 3",
-          "scoredAt": "2026-10-17T07:51:27.463Z"
+          "artist": "1thousand",
+          "comment": "",
+          "scoredAt": "2026-10-17T07:59:20.074Z"
         },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
-          "artist": "МС.малой",
-          "comment": "Я думал, что невозможно будет в таком темпе зачитать весь трек. Но я ошибался.",
-          "scoredAt": "2026-10-17T07:50:38.828Z"
+          "artist": "bigle voozy",
+          "comment": "Не вывозишь по произношению на ускорениях.\nПри этом неплохо подаешь. Не идеально, но стараешься.",
+          "scoredAt": "2026-10-17T07:59:14.244Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Слушатель",
+          "comment": "Люблю трек на который ты зачитал. Частенько фристайлю под него. К сожалению биток оказался сильнее тебя. По тексту есть интересные моменты, но это скорее наметки хороших строчек, чем полноценные панчи. Про спектакль наоборот, например - классный образ, но он довольно отчужденно выглядит. И так по всему тексту.",
+          "scoredAt": "2026-10-17T07:58:41.775Z"
         },
         {
           "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Robbuksy",
-          "comment": "Аудиостих получился",
-          "scoredAt": "2026-10-17T07:50:01.974Z"
+          "score": 3,
+          "artist": "Алекс Виски",
+          "comment": "",
+          "scoredAt": "2026-10-17T07:58:20.603Z"
         },
         {
           "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "Nebraska",
-          "comment": "\"чтобы делать свое дело любо, страстно\" - старайся избегать таких старомодных формулировок в таких треках, в которых ты рассказываешь о том, как ты раскачиваешь и заряжен, как Тайсон. \nЗачитал неплохо, на ускорениях только немного не вывез. Ближе к 4, хотя сомневался между 3 и 4.",
-          "scoredAt": "2026-10-17T07:49:17.008Z"
-        },
-        {
-          "judgeName": "Paradise",
           "score": 2,
-          "artist": "likh",
-          "comment": "Оч слабо",
-          "scoredAt": "2026-10-17T07:48:54.240Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "MЦ АКАДЕМИК",
-          "comment": "Слабо очень",
-          "scoredAt": "2026-10-17T07:47:02.298Z"
+          "artist": "Zara",
+          "comment": "Очень долгое интро для минутного трека. Зачитал слабо очень.",
+          "scoredAt": "2026-10-17T07:58:20.352Z"
         },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
-          "artist": "Диалект",
-          "comment": "Пока что подача слабовата, не хватает опыта. В тексте тоже не нашел чего-то интересного.",
-          "scoredAt": "2026-10-17T07:46:35.344Z"
+          "artist": "OG G",
+          "comment": "Текст очень слабый по наполнению и рифмовке. Зачитал в целом неплохо.",
+          "scoredAt": "2026-10-17T07:57:12.149Z"
         },
         {
           "judgeName": "Paradise",
           "score": 4,
-          "artist": "АДАРИ́НА",
-          "comment": "Интересный хопчик, иногда так голос сведен необычно, где-то звучит стилево, а где-то как демка. ",
-          "scoredAt": "2026-10-17T07:45:31.730Z"
+          "artist": "ANITA MAX WYNN [LZN]",
+          "comment": "Да, поверили",
+          "scoredAt": "2026-10-17T07:57:07.085Z"
         },
         {
           "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "dmitriy_n7",
-          "comment": "За задумку и попытку раскрыть не банально поставлю 4, но вообще это скорее 3.5.",
-          "scoredAt": "2026-10-17T07:45:24.082Z"
+          "score": 2,
+          "artist": "Иван Аура",
+          "comment": "Очень слабым по исполнению получился куплет. При этом припев получился гораздо лучше. Возможно его исполнял не ты.",
+          "scoredAt": "2026-10-17T07:56:02.607Z"
         },
         {
           "judgeName": "Paradise",
           "score": 2,
-          "artist": "kill confirmed",
-          "comment": "Весело пиздец",
-          "scoredAt": "2026-10-17T07:41:43.867Z"
+          "artist": "Сложный Характер",
+          "comment": "Удачи в творчестве. Крым, родина моя😌 ",
+          "scoredAt": "2026-10-17T07:55:53.782Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Максим Ашуев",
+          "comment": "Мрачный стилек, но по содержанию простенько. Строчка про пуховик с синтетикой - классная, но кроме нее ничего больше и нет.",
+          "scoredAt": "2026-10-17T07:55:12.951Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Паша Пакстер",
+          "comment": "Зачитано стандартно для такого бита. Текст получился простеньким.",
+          "scoredAt": "2026-10-17T07:54:06.726Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "InDaChaos",
+          "comment": "Есть прикольные строчки, но подаешь очень слабо. Похож голосом на ПлавлюМозги, послушай как он делает. Работай над исполнением.",
+          "scoredAt": "2026-10-17T07:53:43.760Z"
         },
         {
           "judgeName": "Paradise",
           "score": 3,
-          "artist": "I-Stea",
-          "comment": "Припев вообще не вывез имхо\nЗачем такк вниз ушел, ну или обработал уже как-то, что бы звучало. Куплет был хорошим",
-          "scoredAt": "2026-10-17T07:40:43.526Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "Сармат Кокоев",
-          "comment": "Арёл на воле, брад",
-          "scoredAt": "2026-10-17T07:37:25.497Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Никита Лазарев",
-          "comment": "Никита Лазарев, 20лет, ты молодец, спасибо, что зачитал нам свои строчки, у тебя хорошее начало. Ждем в нормальном качестве и с прокаченными скилами, в 22 года приходите и забирайте 20 независимый",
-          "scoredAt": "2026-10-17T07:36:19.009Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "PadreMoralez",
-          "comment": "Вроде есть скил, круто и в текст и в технику можешь, но сделал вот этот сумбурный трек. Хз, впечатления так себе, особенно обилие неуместного мата, который моментами ваще хз зачем, что бы рифму и ритмику выдержать? Странный прием",
-          "scoredAt": "2026-10-17T07:33:20.939Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "TRUMYWHITE",
-          "comment": "Круто подаешь. В текст бы побольше панчей, чем просто выебонов, выебывайся скилами",
-          "scoredAt": "2026-10-17T07:29:02.702Z"
+          "artist": "DEADCONST",
+          "comment": "Все хорошо, теперь нужно качество, сведение",
+          "scoredAt": "2026-10-17T07:52:23.563Z"
         }
       ]
     }

@@ -127990,6 +127990,230 @@
         "scoredAt": "2026-10-17T07:46:35.344Z",
         "userId": "03d8b47a-e1db-40ec-8779-e34acf400363"
       }
+    },
+    {
+      "id": "fcb1800b7071a89dce9287c7b6313ca1130383ce96609db1e7c0298b80ea056f",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T08:00:09.687Z",
+      "key": "[\"4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:00:09.687Z",
+        "userId": "4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6"
+      }
+    },
+    {
+      "id": "38a976194be39cbfb37210944500d40d2f47515ef6c058918ef92a86325b2b2e",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:58:20.603Z",
+      "key": "[\"68425f72-8b77-4ac5-8c69-5928d07d046e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T07:58:20.603Z",
+        "userId": "68425f72-8b77-4ac5-8c69-5928d07d046e"
+      }
+    },
+    {
+      "id": "7a619676c88d51db7504dd657fc5961ed19e40a05b0d505879b1fe6a49b97ff7",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:58:41.775Z",
+      "key": "[\"70e0821f-263e-4f79-a997-597a9c43bd74\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Люблю трек на который ты зачитал. Частенько фристайлю под него. К сожалению биток оказался сильнее тебя. По тексту есть интересные моменты, но это скорее наметки хороших строчек, чем полноценные панчи. Про спектакль наоборот, например - классный образ, но он довольно отчужденно выглядит. И так по всему тексту.",
+        "scoredAt": "2026-10-17T07:58:41.775Z",
+        "userId": "70e0821f-263e-4f79-a997-597a9c43bd74"
+      }
+    },
+    {
+      "id": "872853d2132e3b480827a706ffbb345dcc73ddff93dc9f0b08b04d2058812dba",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:54:06.726Z",
+      "key": "[\"41f3d683-fdbd-4394-9892-2855c1805b9d\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Зачитано стандартно для такого бита. Текст получился простеньким.",
+        "scoredAt": "2026-10-17T07:54:06.726Z",
+        "userId": "41f3d683-fdbd-4394-9892-2855c1805b9d"
+      }
+    },
+    {
+      "id": "23dbfc6eb59729b6097cff3a145ee3d52e6d6d4cece4bfcb85add5b659eb9694",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:51:56.458Z",
+      "key": "[\"acebb8bf-f59d-4899-9240-e22a9e9eba05\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Рифма \"ТТ/Т-т-т-т\" очень точная, хорошая находка.",
+        "scoredAt": "2026-10-17T07:51:56.458Z",
+        "userId": "acebb8bf-f59d-4899-9240-e22a9e9eba05"
+      }
+    },
+    {
+      "id": "cf8eaba53196cd977f189fb335ff6f6c4ce8fb0c7743f46a1631c9a170692acb",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:52:23.563Z",
+      "key": "[\"ef678a01-7ce7-497a-870b-bcc301ac5d76\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Все хорошо, теперь нужно качество, сведение",
+        "scoredAt": "2026-10-17T07:52:23.563Z",
+        "userId": "ef678a01-7ce7-497a-870b-bcc301ac5d76"
+      }
+    },
+    {
+      "id": "277b132a8bd588e5837c704fb888a36f99990d2d9a019e0b41a7463cb54ad3cb",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:58:20.352Z",
+      "key": "[\"9c9e4970-dd74-4c56-8971-6e61ca929422\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "Очень долгое интро для минутного трека. Зачитал слабо очень.",
+        "scoredAt": "2026-10-17T07:58:20.352Z",
+        "userId": "9c9e4970-dd74-4c56-8971-6e61ca929422"
+      }
+    },
+    {
+      "id": "0f0576df440a416784368e2c0e105b2504c7668ee9d093808ffa3fea77cdad63",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:59:20.074Z",
+      "key": "[\"6f21a55a-5c6f-4649-b595-792bc8b497d4\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T07:59:20.074Z",
+        "userId": "6f21a55a-5c6f-4649-b595-792bc8b497d4"
+      }
+    },
+    {
+      "id": "8b93ecc61214ce0573b5ff972b935c796033c8f3c12c8155ced29d66ba0d0d91",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:57:12.149Z",
+      "key": "[\"bfc2a828-e9f9-4225-be19-292b1201b626\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Текст очень слабый по наполнению и рифмовке. Зачитал в целом неплохо.",
+        "scoredAt": "2026-10-17T07:57:12.149Z",
+        "userId": "bfc2a828-e9f9-4225-be19-292b1201b626"
+      }
+    },
+    {
+      "id": "01e8e17eed356f8188957b456233c061caa7a0c0a3709b6da9f511d4c51761df",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:59:14.244Z",
+      "key": "[\"f833081c-c8d6-4fb1-af2d-894b65523735\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Не вывозишь по произношению на ускорениях.\nПри этом неплохо подаешь. Не идеально, но стараешься.",
+        "scoredAt": "2026-10-17T07:59:14.244Z",
+        "userId": "f833081c-c8d6-4fb1-af2d-894b65523735"
+      }
+    },
+    {
+      "id": "e96264bbadb720b57939461f784175ed4b89fd0955cca2e1bf07f48feb256261",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:55:53.782Z",
+      "key": "[\"d5afc15c-4a40-431b-8d98-824d19e3a76e\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "Удачи в творчестве. Крым, родина моя😌 ",
+        "scoredAt": "2026-10-17T07:55:53.782Z",
+        "userId": "d5afc15c-4a40-431b-8d98-824d19e3a76e"
+      }
+    },
+    {
+      "id": "9691da5525b6d70e3a279752ff3df3fb1730059240cf99a8944040f0b3806c4d",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:56:02.607Z",
+      "key": "[\"866c6cd1-9c2b-4c5c-a202-194ab7863b0b\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "Очень слабым по исполнению получился куплет. При этом припев получился гораздо лучше. Возможно его исполнял не ты.",
+        "scoredAt": "2026-10-17T07:56:02.607Z",
+        "userId": "866c6cd1-9c2b-4c5c-a202-194ab7863b0b"
+      }
+    },
+    {
+      "id": "22e2768801d0e1159173253ab520eb3bbd8c1d9df6a0355d3ad0b89a85165e80",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T08:00:39.349Z",
+      "key": "[\"114db8f4-e440-4219-bb76-62af7a7097e2\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Подтяни рифмовку и добавь побольше интересных строк и будет хорошо.",
+        "scoredAt": "2026-10-17T08:00:39.349Z",
+        "userId": "114db8f4-e440-4219-bb76-62af7a7097e2"
+      }
+    },
+    {
+      "id": "eba02f7d4f52bdfb851032bea7c9dc9ad34d10cd3212a08accf15d49f2e0b80b",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:57:07.085Z",
+      "key": "[\"75398ab3-e8f2-4de7-8f42-7f9e524783e8\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Да, поверили",
+        "scoredAt": "2026-10-17T07:57:07.085Z",
+        "userId": "75398ab3-e8f2-4de7-8f42-7f9e524783e8"
+      }
+    },
+    {
+      "id": "7977df92d95a9aeb8154f1ff1eef97f87758142ea634964aaf00e8a5585784f3",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:53:43.760Z",
+      "key": "[\"693d473e-2dbd-4bd7-b445-66b70fb819c2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Есть прикольные строчки, но подаешь очень слабо. Похож голосом на ПлавлюМозги, послушай как он делает. Работай над исполнением.",
+        "scoredAt": "2026-10-17T07:53:43.760Z",
+        "userId": "693d473e-2dbd-4bd7-b445-66b70fb819c2"
+      }
+    },
+    {
+      "id": "75a69521a92a2420a34b2819ab604daaeece97506827f081f8e37dad5e26f8af",
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "sourceScoredAt": "2026-10-17T07:55:12.951Z",
+      "key": "[\"28f20d21-c843-47e8-8d14-31a9a9bb31c9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Мрачный стилек, но по содержанию простенько. Строчка про пуховик с синтетикой - классная, но кроме нее ничего больше и нет.",
+        "scoredAt": "2026-10-17T07:55:12.951Z",
+        "userId": "28f20d21-c843-47e8-8d14-31a9a9bb31c9"
+      }
     }
   ],
   "snapshots": [
@@ -135069,6 +135293,26 @@
           "index": 28.911832839598368,
           "favor": 18.02417666353901,
           "attention": -0.10071591696389623,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:02:10.395Z",
+      "exportedAt": "2026-10-17T08:02:10.395Z",
+      "scores": 12141,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.15633936027138,
+          "favor": 9.243355912918858,
+          "attention": 6.326267580193849,
+          "respect": 6.586715867158672
+        },
+        "veterans": {
+          "index": 28.95432774025432,
+          "favor": 18.031938991241315,
+          "attention": -0.06598334401024984,
           "respect": 10.988372093023257
         }
       }
