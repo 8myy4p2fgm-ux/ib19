@@ -128214,6 +128214,146 @@
         "scoredAt": "2026-10-17T07:55:12.951Z",
         "userId": "28f20d21-c843-47e8-8d14-31a9a9bb31c9"
       }
+    },
+    {
+      "id": "af09ead0235b5406b1f4af283f7c96c79d9b4bf2727ac140a70736ac73eaab7b",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:06:36.635Z",
+      "key": "[\"0baeadab-bfe3-4b3a-bca7-de3db08412ce\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Сомневался между 3 и 4. Есть косяки по исполнению - сбивка ритмики, склейки слышны. Текст тоже пустоват и простоват. Но местами неплохо звучит. Так что отдам в пользу участника.",
+        "scoredAt": "2026-10-17T08:06:36.635Z",
+        "userId": "0baeadab-bfe3-4b3a-bca7-de3db08412ce"
+      }
+    },
+    {
+      "id": "201d6bbe3db6c4792196a3d8c9985f3ec21ee52541fefecd297f4b360872f814",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:03:50.344Z",
+      "key": "[\"a344a08d-4c58-412b-8820-b6b79297986f\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:03:50.344Z",
+        "userId": "a344a08d-4c58-412b-8820-b6b79297986f"
+      }
+    },
+    {
+      "id": "fb9c115146fc3da9cee8878e588504c9d3e382e0b95c1954f5c02dd4cf2909d2",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:02:32.503Z",
+      "key": "[\"a860237a-69b3-4e1a-aee6-69d4f7bae62d\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 3,
+        "comment": "Стилево, но так тяжело такое слушать. ",
+        "scoredAt": "2026-10-17T08:02:32.503Z",
+        "userId": "a860237a-69b3-4e1a-aee6-69d4f7bae62d"
+      }
+    },
+    {
+      "id": "2291c9ea654cbad7cb5167b14c9026e8c7a42909bcd84bc6f87e7b800fec25ab",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:11:54.941Z",
+      "key": "[\"c1630001-6014-4622-b4d8-941c4c05c873\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Хотел поставить тебе тройку, но ботинки преобул в полете и поставил единицу. Вообще мог бы сделать неплохой трек, но решил написать реп про реп.",
+        "scoredAt": "2026-10-17T08:11:54.941Z",
+        "userId": "c1630001-6014-4622-b4d8-941c4c05c873"
+      }
+    },
+    {
+      "id": "7da447079ee9cd67195cd941a6b2a6cfe394482494a456c8157fe99dd758fb08",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:10:15.626Z",
+      "key": "[\"24ade32f-5c4e-4da5-a449-ea98a6051412\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Интересный стилек, но текст очень простой.",
+        "scoredAt": "2026-10-17T08:10:15.626Z",
+        "userId": "24ade32f-5c4e-4da5-a449-ea98a6051412"
+      }
+    },
+    {
+      "id": "5279c7958109f575ba50bedec49128169963f7d8770a10a0c8d8db744d2d5662",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:03:04.686Z",
+      "key": "[\"fa75fb95-f34f-4ac0-89b6-ee358bc57c15\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:03:04.686Z",
+        "userId": "fa75fb95-f34f-4ac0-89b6-ee358bc57c15"
+      }
+    },
+    {
+      "id": "0c6a2dae77b24a9aa58aadc4fb70ab590c5f16dccd4f96fcfe2d224c14af48ad",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:09:11.785Z",
+      "key": "[\"8e14f39c-0fc6-4819-9295-2b1f6c920bd0\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Читаешь ровно, но по тексту все просто и наивно. ",
+        "scoredAt": "2026-10-17T08:09:11.785Z",
+        "userId": "8e14f39c-0fc6-4819-9295-2b1f6c920bd0"
+      }
+    },
+    {
+      "id": "2db63afbed49d3755f2f29801c79fa2e4af45e7ad7adeee5224943cfa1d0f066",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:05:24.447Z",
+      "key": "[\"aa140fd7-afe6-41bd-a715-1b6184d16a89\",\"Paradise\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Paradise",
+        "score": 4,
+        "comment": "Прикольно",
+        "scoredAt": "2026-10-17T08:05:24.447Z",
+        "userId": "aa140fd7-afe6-41bd-a715-1b6184d16a89"
+      }
+    },
+    {
+      "id": "47931bfa7d0165ecb69555cabe898000b68778c35a212f408aed80ab351168bf",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:02:42.827Z",
+      "key": "[\"4ac34ec6-736e-44fd-95ac-5111b8ce2873\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 5,
+        "comment": "Для отбора вполне неплохо, хоть и не люблю подобное творчество. Но с критериальной точки зрения ближе к 5.",
+        "scoredAt": "2026-10-17T08:02:42.827Z",
+        "userId": "4ac34ec6-736e-44fd-95ac-5111b8ce2873"
+      }
+    },
+    {
+      "id": "47090c6ad4ca85b66d1a9f6b0c748d55595514025e5bbe5f1d8ae1dc0ca2bd21",
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "sourceScoredAt": "2026-10-17T08:04:40.742Z",
+      "key": "[\"3ad90b61-dab1-4e4c-a242-97dd95d97548\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 5,
+        "comment": "Хотел снизить за длинное интро, но 45 секунд хватило, чтобы переубедить.",
+        "scoredAt": "2026-10-17T08:04:40.742Z",
+        "userId": "3ad90b61-dab1-4e4c-a242-97dd95d97548"
+      }
     }
   ],
   "snapshots": [
@@ -135313,6 +135453,26 @@
           "index": 28.95432774025432,
           "favor": 18.031938991241315,
           "attention": -0.06598334401024984,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:12:02.758Z",
+      "exportedAt": "2026-10-17T08:12:02.758Z",
+      "scores": 12151,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.02721780973153,
+          "favor": 9.249260620571151,
+          "attention": 6.1878836597486115,
+          "respect": 6.5900735294117645
+        },
+        "veterans": {
+          "index": 28.97443759897139,
+          "favor": 18.03022946303869,
+          "attention": -0.04416395709055532,
           "respect": 10.988372093023257
         }
       }

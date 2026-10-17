@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T08:02:10.395Z",
-  "exportedAt": "2026-10-17T08:02:10.395Z",
-  "runId": "2026-10-17T08:02:10.395Z",
-  "forumExportedAt": "2026-10-17T08:02:10.395Z",
+  "lastSuccessfulAt": "2026-10-17T08:12:02.758Z",
+  "exportedAt": "2026-10-17T08:12:02.758Z",
+  "runId": "2026-10-17T08:12:02.758Z",
+  "forumExportedAt": "2026-10-17T08:12:02.758Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12141,
+    "scores": 12151,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 18,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 16,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 16,
-    "changedParticipants": 16,
-    "logicalRequests": 18,
-    "durationMs": 17694,
-    "scoresBefore": 12125,
-    "scoresAfter": 12141,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 9,
+    "logicalRequests": 13,
+    "durationMs": 13524,
+    "scoresBefore": 12141,
+    "scoresAfter": 12151,
     "fullBaselineRequests": 3213,
-    "requestReductionPercent": 99.43977591036415,
+    "requestReductionPercent": 99.59539371304076,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,6 +84,69 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "agap ottawa",
+          "comment": "Интересный стилек, но текст очень простой.",
+          "scoredAt": "2026-10-17T08:10:15.626Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Забытый музой",
+          "comment": "Читаешь ровно, но по тексту все просто и наивно. ",
+          "scoredAt": "2026-10-17T08:09:11.785Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "Маркус Минай",
+          "comment": "Сомневался между 3 и 4. Есть косяки по исполнению - сбивка ритмики, склейки слышны. Текст тоже пустоват и простоват. Но местами неплохо звучит. Так что отдам в пользу участника.",
+          "scoredAt": "2026-10-17T08:06:36.635Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "YNWA<3U",
+          "comment": "Прикольно",
+          "scoredAt": "2026-10-17T08:05:24.447Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "artist": "домашний как тапочки",
+          "comment": "Хотел снизить за длинное интро, но 45 секунд хватило, чтобы переубедить.",
+          "scoredAt": "2026-10-17T08:04:40.742Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "artist": "Барни",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:03:50.344Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 2,
+          "artist": "Семён",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:03:04.686Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "artist": "R",
+          "comment": "Для отбора вполне неплохо, хоть и не люблю подобное творчество. Но с критериальной точки зрения ближе к 5.",
+          "scoredAt": "2026-10-17T08:02:42.827Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "artist": "GROS",
+          "comment": "Стилево, но так тяжело такое слушать. ",
+          "scoredAt": "2026-10-17T08:02:32.503Z"
+        },
+        {
           "judgeName": "OFFSTAGE",
           "score": 4,
           "artist": "MR.Рогалик",
@@ -124,69 +187,6 @@
           "artist": "Алекс Виски",
           "comment": "",
           "scoredAt": "2026-10-17T07:58:20.603Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 2,
-          "artist": "Zara",
-          "comment": "Очень долгое интро для минутного трека. Зачитал слабо очень.",
-          "scoredAt": "2026-10-17T07:58:20.352Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "OG G",
-          "comment": "Текст очень слабый по наполнению и рифмовке. Зачитал в целом неплохо.",
-          "scoredAt": "2026-10-17T07:57:12.149Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "artist": "ANITA MAX WYNN [LZN]",
-          "comment": "Да, поверили",
-          "scoredAt": "2026-10-17T07:57:07.085Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 2,
-          "artist": "Иван Аура",
-          "comment": "Очень слабым по исполнению получился куплет. При этом припев получился гораздо лучше. Возможно его исполнял не ты.",
-          "scoredAt": "2026-10-17T07:56:02.607Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 2,
-          "artist": "Сложный Характер",
-          "comment": "Удачи в творчестве. Крым, родина моя😌 ",
-          "scoredAt": "2026-10-17T07:55:53.782Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Максим Ашуев",
-          "comment": "Мрачный стилек, но по содержанию простенько. Строчка про пуховик с синтетикой - классная, но кроме нее ничего больше и нет.",
-          "scoredAt": "2026-10-17T07:55:12.951Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Паша Пакстер",
-          "comment": "Зачитано стандартно для такого бита. Текст получился простеньким.",
-          "scoredAt": "2026-10-17T07:54:06.726Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "InDaChaos",
-          "comment": "Есть прикольные строчки, но подаешь очень слабо. Похож голосом на ПлавлюМозги, послушай как он делает. Работай над исполнением.",
-          "scoredAt": "2026-10-17T07:53:43.760Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "artist": "DEADCONST",
-          "comment": "Все хорошо, теперь нужно качество, сведение",
-          "scoredAt": "2026-10-17T07:52:23.563Z"
         }
       ]
     }
