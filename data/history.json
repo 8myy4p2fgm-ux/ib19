@@ -141030,6 +141030,160 @@
         "scoredAt": "2026-10-17T15:44:00.533Z",
         "userId": "4736435a-3790-4870-8078-35b1015c4a94"
       }
+    },
+    {
+      "id": "49579f95893cd06843c578fc5440acdbd20255f1bccb1edef457ccc6e5d3d489",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:54:33.213Z",
+      "key": "[\"4eddc605-ab9c-442c-bbf4-f2661aa606fe\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну смешной текст, но исполнения не хватает.",
+        "scoredAt": "2026-10-17T15:54:33.213Z",
+        "userId": "4eddc605-ab9c-442c-bbf4-f2661aa606fe"
+      }
+    },
+    {
+      "id": "defbf33d57f4b4eebf4919f60e3ef813f065d7dc303b5ded51a9d9fa2170487f",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:55:16.297Z",
+      "key": "[\"a4fc35ba-041a-45ef-97f8-4c53b3b08d85\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 5,
+        "comment": "Бриллиант и мёд для ушей среди всех треков.",
+        "scoredAt": "2026-10-17T15:55:16.297Z",
+        "userId": "a4fc35ba-041a-45ef-97f8-4c53b3b08d85"
+      }
+    },
+    {
+      "id": "c4c60a75156e22960561e7cb821ac0093c26ffeaf439d08066f7db3991d8cb02",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:58:20.737Z",
+      "key": "[\"a65b0260-ba60-4e75-839c-a55918601201\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Текст кажется смешным, пока не задумаешься. Всего хорошего!",
+        "scoredAt": "2026-10-17T15:58:20.737Z",
+        "userId": "a65b0260-ba60-4e75-839c-a55918601201"
+      }
+    },
+    {
+      "id": "e6eaa54f22c3fb0056e28b344026cd8681a5d580cdf127e9a53bb6a32fffb4a4",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:53:09.810Z",
+      "key": "[\"2c1c3c9d-122a-4d58-89ae-dca379f13803\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну всё крепко вроде, кроме рифм. В этом можно ещё добрать баллов в будущем.",
+        "scoredAt": "2026-10-17T15:53:09.810Z",
+        "userId": "2c1c3c9d-122a-4d58-89ae-dca379f13803"
+      }
+    },
+    {
+      "id": "583c8814bee4cdd5bc53cfe6140d3bbdf2d078f73aedf0ed892c04d9eb144551",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:55:31.069Z",
+      "key": "[\"26b2e0ca-f28b-4138-bae0-f6c6469e617a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ритмика прикольная, по тексту ничего интересного. ",
+        "scoredAt": "2026-10-17T15:55:31.069Z",
+        "userId": "26b2e0ca-f28b-4138-bae0-f6c6469e617a"
+      }
+    },
+    {
+      "id": "501e08ba75346ae4c318885dcee7d8e937e51c5401762ab4b00db37d97279c3e",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:59:38.831Z",
+      "key": "[\"1c7a6001-2f4c-422a-86e1-3addca80f84e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "если не прикладываешь текст, нужно быть уверенным, что с ним нет проблем. А они есть, я переслушал.",
+        "scoredAt": "2026-10-17T15:59:38.831Z",
+        "userId": "1c7a6001-2f4c-422a-86e1-3addca80f84e"
+      }
+    },
+    {
+      "id": "5783072ece2f89c9265c28e5df1727ef9baa60dee3299a9e2c5327a00d92ce90",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:55:53.709Z",
+      "key": "[\"44cb31c3-ec07-4320-9f12-ae6498d4f607\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Бля, задумка ахуенная, реализация сумбурная, братец. Темп по-медленнее бы сюда для лучшей разборчивости . за идею накину проходной",
+        "scoredAt": "2026-10-17T15:55:53.709Z",
+        "userId": "44cb31c3-ec07-4320-9f12-ae6498d4f607"
+      }
+    },
+    {
+      "id": "133d0b8455ecb1cf391b3e1fe77f6f6459c9bca98ac3b38f5c3acd0689a516c1",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:53:57.319Z",
+      "key": "[\"3e08e5e9-0c8a-402f-a628-67f61680848f\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 1,
+        "comment": "Поиздевался сам над собой..",
+        "scoredAt": "2026-10-17T15:53:57.319Z",
+        "userId": "3e08e5e9-0c8a-402f-a628-67f61680848f"
+      }
+    },
+    {
+      "id": "dad2540eee495d6ab71383f817b2c99b7df555ceed8a0a29d7c37b193ece5183",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T15:58:38.493Z",
+      "key": "[\"9e6af746-846b-42de-855a-6e9a183f86b9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Забавные панчули. Вот бы ты их собрал в один целостный куплет.",
+        "scoredAt": "2026-10-17T15:58:38.493Z",
+        "userId": "9e6af746-846b-42de-855a-6e9a183f86b9"
+      }
+    },
+    {
+      "id": "1f996f59641f895075b331c571a4999297be7fbf8b6a014ccc209828cd0cf443",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T16:00:54.040Z",
+      "key": "[\"3df95504-c0a0-4581-b5de-db8ffe9951e3\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Не всё по тексту моё, зато звучит так уверенно, что четвёрку ставлю без сомнений",
+        "scoredAt": "2026-10-17T16:00:54.040Z",
+        "userId": "3df95504-c0a0-4581-b5de-db8ffe9951e3"
+      }
+    },
+    {
+      "id": "fb14c700f4e61a92e4c585553650aadb5da280f906189b567d17b85d88fa3ecc",
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "sourceScoredAt": "2026-10-17T16:01:10.031Z",
+      "key": "[\"8e3fc1ea-7fe0-4e70-9c89-78170f355b40\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну как-то не очень уверено. Я думаю, что стихи у тебя пиздатые и роман точно крутой. Рэп пока такой себе.",
+        "scoredAt": "2026-10-17T16:01:10.031Z",
+        "userId": "8e3fc1ea-7fe0-4e70-9c89-78170f355b40"
+      }
     }
   ],
   "snapshots": [
@@ -149049,6 +149203,26 @@
           "index": 29.270215495289087,
           "favor": 17.77274177439937,
           "attention": 0.7512050641732969,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T16:02:11.042Z",
+      "exportedAt": "2026-10-17T16:02:11.042Z",
+      "scores": 13057,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.82929297604117,
+          "favor": 9.27774493067411,
+          "attention": 6.0621863432394,
+          "respect": 6.48936170212766
+        },
+        "veterans": {
+          "index": 29.30509234107378,
+          "favor": 17.7735866053929,
+          "attention": 0.7852370789644614,
           "respect": 10.746268656716419
         }
       }
