@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T19:32:06.944Z",
+  "exportedAt": "2026-10-17T19:52:10.099Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -24309,8 +24309,14 @@
     },
     {
       "userId": "f26b7932-bbae-4eec-9f71-4096a0098ddf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Слабо по всем критериям ",
+          "scoredAt": "2026-10-17T19:52:06.511Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -24336,7 +24342,7 @@
           "scoredAt": "2026-09-08T15:13:34.209Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-17T19:52:10.099Z",
       "current": true,
       "artistName": "96lock",
       "artistSlug": "96lock"
@@ -33597,8 +33603,14 @@
     },
     {
       "userId": "c81585a1-8f8a-412f-8c60-659524417908",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "С барскими",
+          "scoredAt": "2026-10-17T19:44:38.038Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -33612,7 +33624,7 @@
           "scoredAt": "2026-10-14T15:35:45.753Z"
         }
       ],
-      "fetchedAt": "2026-10-15T21:12:25.842Z",
+      "fetchedAt": "2026-10-17T19:52:10.099Z",
       "current": true,
       "artistName": "DAMAGE",
       "artistSlug": "damage"

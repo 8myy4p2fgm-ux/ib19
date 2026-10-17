@@ -143760,6 +143760,34 @@
         "scoredAt": "2026-10-17T19:22:50.325Z",
         "userId": "9a31e7eb-146d-4ec9-88f8-05a6e1774f1c"
       }
+    },
+    {
+      "id": "c0f7626b8ef3b0e273279327c5a1abdab52982781bb6d158514d37a5e715039c",
+      "observedAt": "2026-10-17T19:52:10.099Z",
+      "sourceScoredAt": "2026-10-17T19:52:06.511Z",
+      "key": "[\"f26b7932-bbae-4eec-9f71-4096a0098ddf\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Слабо по всем критериям ",
+        "scoredAt": "2026-10-17T19:52:06.511Z",
+        "userId": "f26b7932-bbae-4eec-9f71-4096a0098ddf"
+      }
+    },
+    {
+      "id": "2b17ee30fbd1fc8a9d1f84f6e8e34523603fcd9e1da34176b01bb99fa970ae2e",
+      "observedAt": "2026-10-17T19:52:10.099Z",
+      "sourceScoredAt": "2026-10-17T19:44:38.038Z",
+      "key": "[\"c81585a1-8f8a-412f-8c60-659524417908\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "С барскими",
+        "scoredAt": "2026-10-17T19:44:38.038Z",
+        "userId": "c81585a1-8f8a-412f-8c60-659524417908"
+      }
     }
   ],
   "snapshots": [
@@ -152199,6 +152227,26 @@
           "index": 29.79439378843226,
           "favor": 17.805194672096142,
           "attention": 1.2429304596196957,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T19:52:10.099Z",
+      "exportedAt": "2026-10-17T19:52:10.099Z",
+      "scores": 13243,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.886157140138184,
+          "favor": 9.272033738040559,
+          "attention": 6.144052979562413,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.796037684060217,
+          "favor": 17.805757238675028,
+          "attention": 1.244011788668768,
           "respect": 10.746268656716419
         }
       }
