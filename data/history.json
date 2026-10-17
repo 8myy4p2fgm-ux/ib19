@@ -138636,6 +138636,216 @@
         "scoredAt": "2026-10-17T14:28:42.396Z",
         "userId": "e478f2b7-6c06-4d96-80a6-9e2d368482d8"
       }
+    },
+    {
+      "id": "14f6aa4c887c3a92b071614930060936325179b245813c53b664059ed3dfa870",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:35:10.026Z",
+      "key": "[\"c059e004-6c45-4150-ac5d-16c8cfe2b695\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 4,
+        "comment": "Сделано конечно со вкусом. Но по части истории - не понял. Так и не врубился к кому ты адресовываешь это? К кумиру? В чем раскрытие тогда? Почему его должны были пиздить тогда?",
+        "scoredAt": "2026-10-17T14:35:10.026Z",
+        "userId": "c059e004-6c45-4150-ac5d-16c8cfe2b695"
+      }
+    },
+    {
+      "id": "b1d143bb14201505d15705756c4ca0de2ec5ea1b6638c268ce5f8b017ae4ef60",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:37:08.826Z",
+      "key": "[\"1db13180-31ea-430f-b7f6-cd10cad3efdb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T14:37:08.826Z",
+        "userId": "1db13180-31ea-430f-b7f6-cd10cad3efdb"
+      }
+    },
+    {
+      "id": "64d9b471d94cc83f92aebc717efcf3722a274303e3e7cc6bad3eb6f23282ebb0",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:36:40.691Z",
+      "key": "[\"99999c24-216d-47c7-bbf5-19d0c6f27120\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T14:36:40.691Z",
+        "userId": "99999c24-216d-47c7-bbf5-19d0c6f27120"
+      }
+    },
+    {
+      "id": "654a6f96b5bcfee629d613ade71e37afb103a1382583706586b95f83b8e8ca59",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:37:27.168Z",
+      "key": "[\"13e9b8a9-588e-44d8-b6bf-8812614f0104\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Скучно, не интересно, грустно . делай текст интересным лучше с такой подачей . последняя строчка норм только, но слабовато как-то ",
+        "scoredAt": "2026-10-17T14:37:27.168Z",
+        "userId": "13e9b8a9-588e-44d8-b6bf-8812614f0104"
+      }
+    },
+    {
+      "id": "b72b93ecca4fe2a8d19756783a0334014f1d76e94bd7b5998dbe6cd5a7e9927b",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:41:48.722Z",
+      "key": "[\"79e684b6-1076-45e5-8bd3-e4ec5d4f6509\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Нормальная работа, но по с текстом можно поработать. Потенциал есть.",
+        "scoredAt": "2026-10-17T14:41:48.722Z",
+        "userId": "79e684b6-1076-45e5-8bd3-e4ec5d4f6509"
+      }
+    },
+    {
+      "id": "3579e7e540ce4f1dd9455ba2be3e2712371782487a0fb2d92dc9580c3c285f74",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:40:14.000Z",
+      "key": "[\"9b8406ec-6976-4703-a28a-734e2398a23c\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T14:40:14.000Z",
+        "userId": "9b8406ec-6976-4703-a28a-734e2398a23c"
+      }
+    },
+    {
+      "id": "f48adbe84b4be5712733a506d5e8c7061295472c045a87746e735424503a6b55",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:34:44.420Z",
+      "key": "[\"abcd6082-c12f-4eda-946c-dbffa441f322\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Скучно отец, поработай над интересными панчлайнами, ну и на бумбэпчик уже стыдно так читать без панчей, лиьот килузу показывай либо текстом дави. Сыро , слабо, звучит не особо приятно к сожалению",
+        "scoredAt": "2026-10-17T14:34:44.420Z",
+        "userId": "abcd6082-c12f-4eda-946c-dbffa441f322"
+      }
+    },
+    {
+      "id": "114cd54ccbdaa34d3e80180706d79266b96bc9de386bb265f3b8872ba69a18bc",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:33:05.328Z",
+      "key": "[\"09179686-5b41-4998-9564-50ccff202172\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Бодренько, соильненько, панчики завезла, вопросов к тебе нет, погнали, звук мощный , голос отличный! Пиздуй в следующий раунд ",
+        "scoredAt": "2026-10-17T14:33:05.328Z",
+        "userId": "09179686-5b41-4998-9564-50ccff202172"
+      }
+    },
+    {
+      "id": "760e6f0071ecb05a08e92946bab1669a3b80f7377112ecf540abdb56872af843",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:41:04.012Z",
+      "key": "[\"d9e32539-60d9-47e1-85e8-68532e3a17ed\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Нормальная работа, без провала.",
+        "scoredAt": "2026-10-17T14:41:04.012Z",
+        "userId": "d9e32539-60d9-47e1-85e8-68532e3a17ed"
+      }
+    },
+    {
+      "id": "2fc2aa1270148427e0ec960e90369e3fa339abeb92bf429fe11d59f225a54ce2",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:41:55.197Z",
+      "key": "[\"09f2d96f-5b43-4b33-a173-15027671301b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T14:41:55.197Z",
+        "userId": "09f2d96f-5b43-4b33-a173-15027671301b"
+      }
+    },
+    {
+      "id": "24ffc422a44e1eecc80519b985c06b776a94dd965ae18afb0b319f4deb944be0",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:36:00.356Z",
+      "key": "[\"b8726f92-a543-4a37-9c49-79ac8c7a774e\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Середнячок, кеков поинтересней бы сюда, рили не хватило креатива ",
+        "scoredAt": "2026-10-17T14:36:00.356Z",
+        "userId": "b8726f92-a543-4a37-9c49-79ac8c7a774e"
+      }
+    },
+    {
+      "id": "7b288f7648c5a95314c933f19c5f399e868afb285b3934b844718aeacd366349",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:40:33.967Z",
+      "key": "[\"82cd3bac-b911-4930-95cf-401eb2519f22\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Ну пока точно сыровато. Голос сильно плывет в бите.",
+        "scoredAt": "2026-10-17T14:40:33.967Z",
+        "userId": "82cd3bac-b911-4930-95cf-401eb2519f22"
+      }
+    },
+    {
+      "id": "54a04153a3dbbe1318a6d23de1868601d786f474e4c12a45e2f97f99a14750b5",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:37:38.994Z",
+      "key": "[\"8f270ec8-044e-4e0c-910e-90f0acede158\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T14:37:38.994Z",
+        "userId": "8f270ec8-044e-4e0c-910e-90f0acede158"
+      }
+    },
+    {
+      "id": "c7df94a9aa62b30854dc66c2f34b55fafe804195d32b1d88015a45e2ec315e9f",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:39:43.669Z",
+      "key": "[\"21d3181e-2acc-4c43-85f0-bbc0769338b8\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T14:39:43.669Z",
+        "userId": "21d3181e-2acc-4c43-85f0-bbc0769338b8"
+      }
+    },
+    {
+      "id": "beb4c7617c3444a014d400a084cfdda6372e450cd08a0d38150b051adadfc85f",
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "sourceScoredAt": "2026-10-17T14:41:18.507Z",
+      "key": "[\"b8bd8e38-21b8-45c7-90ab-695c2a14e114\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T14:41:18.507Z",
+        "userId": "b8bd8e38-21b8-45c7-90ab-695c2a14e114"
+      }
     }
   ],
   "snapshots": [
@@ -146515,6 +146725,26 @@
           "index": 28.803592490156532,
           "favor": 17.72547848990342,
           "attention": 0.33184534353669193,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T14:42:15.233Z",
+      "exportedAt": "2026-10-17T14:42:15.233Z",
+      "scores": 12899,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.009716771695338,
+          "favor": 9.208177836852236,
+          "attention": 6.323044311187187,
+          "respect": 6.478494623655914
+        },
+        "veterans": {
+          "index": 28.83565074825217,
+          "favor": 17.728730027886414,
+          "attention": 0.3606520636493388,
           "respect": 10.746268656716419
         }
       }

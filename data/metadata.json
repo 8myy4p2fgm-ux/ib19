@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T14:32:27.874Z",
-  "exportedAt": "2026-10-17T14:32:27.874Z",
-  "runId": "2026-10-17T14:32:27.874Z",
-  "forumExportedAt": "2026-10-17T14:32:27.874Z",
+  "lastSuccessfulAt": "2026-10-17T14:42:15.233Z",
+  "exportedAt": "2026-10-17T14:42:15.233Z",
+  "runId": "2026-10-17T14:42:15.233Z",
+  "forumExportedAt": "2026-10-17T14:42:15.233Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12884,
+    "scores": 12899,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 33,
+    "httpRequests": 17,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 30,
+    "updatedCards": 15,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 30,
-    "changedParticipants": 29,
-    "logicalRequests": 33,
-    "durationMs": 33445,
-    "scoresBefore": 12854,
-    "scoresAfter": 12884,
-    "fullBaselineRequests": 3242,
-    "requestReductionPercent": 98.98210980876001,
+    "participantsWithNewScores": 15,
+    "changedParticipants": 15,
+    "logicalRequests": 17,
+    "durationMs": 16727,
+    "scoresBefore": 12884,
+    "scoresAfter": 12899,
+    "fullBaselineRequests": 3244,
+    "requestReductionPercent": 99.47595561035757,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Sonik",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T14:41:55.197Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Маруся Небесная",
+          "comment": "Нормальная работа, но по с текстом можно поработать. Потенциал есть.",
+          "scoredAt": "2026-10-17T14:41:48.722Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Дамир Камалов",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T14:41:18.507Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Eva Maslou",
+          "comment": "Нормальная работа, без провала.",
+          "scoredAt": "2026-10-17T14:41:04.012Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Андрей Николаевич",
+          "comment": "Ну пока точно сыровато. Голос сильно плывет в бите.",
+          "scoredAt": "2026-10-17T14:40:33.967Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Emilien",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:40:14.000Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Eazy Beazy",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T14:39:43.669Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "M.Prime (Neuromonkeyz)",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:37:38.994Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "P11vV",
+          "comment": "Скучно, не интересно, грустно . делай текст интересным лучше с такой подачей . последняя строчка норм только, но слабовато как-то ",
+          "scoredAt": "2026-10-17T14:37:27.168Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "TOSH",
+          "comment": "",
+          "scoredAt": "2026-10-17T14:37:08.826Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Владислав Разумов",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T14:36:40.691Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Квасов",
+          "comment": "Середнячок, кеков поинтересней бы сюда, рили не хватило креатива ",
+          "scoredAt": "2026-10-17T14:36:00.356Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 4,
+          "artist": "Mark66",
+          "comment": "Сделано конечно со вкусом. Но по части истории - не понял. Так и не врубился к кому ты адресовываешь это? К кумиру? В чем раскрытие тогда? Почему его должны были пиздить тогда?",
+          "scoredAt": "2026-10-17T14:35:10.026Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "МС Безбазаров",
+          "comment": "Скучно отец, поработай над интересными панчлайнами, ну и на бумбэпчик уже стыдно так читать без панчей, лиьот килузу показывай либо текстом дави. Сыро , слабо, звучит не особо приятно к сожалению",
+          "scoredAt": "2026-10-17T14:34:44.420Z"
+        },
+        {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
-          "artist": "фанатсонигрезе",
-          "comment": "Ждал тебя)) лови 5, хорошо по тексту/панчам, подача бодрая как всегда, проходите дальше, не задерживайтесь, вас там ждут ",
-          "scoredAt": "2026-10-17T14:31:38.183Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Sunverse",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:31:29.649Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "XXFeuer",
-          "comment": "Начало было многообещающим, а дальше я как-то потерял интерес. Повторяется одна и та же подача, не хватает ни развития, ни концовки. Пока два",
-          "scoredAt": "2026-10-17T14:31:10.810Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Tha_Cool",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:31:06.184Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "FVRUM",
-          "comment": "авансом",
-          "scoredAt": "2026-10-17T14:30:07.837Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Bug Dan",
-          "comment": "1 половина понравилась , хорошо звучишь под этот бит с колких строчек парочку бы добавил и поставил бы 5",
-          "scoredAt": "2026-10-17T14:29:55.592Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "purplxpunk",
-          "comment": "Не могу определиться, понравилось мне или просто не раздражало. Но стилёк не мой. Пусть будет три",
-          "scoredAt": "2026-10-17T14:29:17.231Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "Indigirka",
-          "comment": "авансом",
-          "scoredAt": "2026-10-17T14:29:04.298Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "AINER",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:28:42.396Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Илья Вайт",
-          "comment": "Ну честно говоря, скучноватая работа. Однообразно достаточно, но проход, как по мне",
-          "scoredAt": "2026-10-17T14:28:25.331Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "DREAD_LOCK",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:28:06.764Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "ASSCOL",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T14:27:30.882Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Raticat.e",
-          "comment": "Какой-то спорный момент с подтягиваниями. Но начало очень хорошее.",
-          "scoredAt": "2026-10-17T14:27:23.646Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "litt.",
-          "comment": "",
-          "scoredAt": "2026-10-17T14:26:44.977Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "SVAMI",
-          "comment": "Простовато по флоу, простовато по тексту. Тяжело будет во втором раунде, если не уделишь этим аспектам внинмание.",
-          "scoredAt": "2026-10-17T14:26:33.301Z"
+          "artist": "Stazy",
+          "comment": "Бодренько, соильненько, панчики завезла, вопросов к тебе нет, погнали, звук мощный , голос отличный! Пиздуй в следующий раунд ",
+          "scoredAt": "2026-10-17T14:33:05.328Z"
         }
       ]
     }
