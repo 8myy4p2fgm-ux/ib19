@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T02:21:59.536Z",
+  "exportedAt": "2026-10-17T02:41:49.349Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -78854,6 +78854,34 @@
       "artistSlug": "snosno"
     },
     {
+      "userId": "88c3a4bf-cd35-4eec-975d-61c0cc3262bd",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Стрим 11 ",
+          "scoredAt": "2026-10-16T18:16:41.237Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Звучит приколдесно хоть и рифмы местами простенькие ",
+          "scoredAt": "2026-10-15T12:58:22.991Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "За идейность + \nприколдесненько, но давай без скажи-доложи и путь-свернуть\nИдея не победит критерии, если по ним всё плохо, подтяни текст и исполнение речитативной части ",
+          "scoredAt": "2026-10-15T00:17:11.091Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "current": true,
+      "artistName": "Dead Romance Club",
+      "artistSlug": "dead-romance-club"
+    },
+    {
       "userId": "e509edb3-e372-41d1-9aa6-012d4b9e2204",
       "scoredCount": 3,
       "scores": [
@@ -79066,34 +79094,6 @@
       "current": true,
       "artistName": "Олег Смит",
       "artistSlug": "oleg-smit"
-    },
-    {
-      "userId": "88c3a4bf-cd35-4eec-975d-61c0cc3262bd",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "comment": "Стрим 11 ",
-          "scoredAt": "2026-10-16T18:16:41.237Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "comment": "Звучит приколдесно хоть и рифмы местами простенькие ",
-          "scoredAt": "2026-10-15T12:58:22.991Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "comment": "За идейность + \nприколдесненько, но давай без скажи-доложи и путь-свернуть\nИдея не победит критерии, если по ним всё плохо, подтяни текст и исполнение речитативной части ",
-          "scoredAt": "2026-10-15T00:17:11.091Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
-      "current": true,
-      "artistName": "Dead Romance Club",
-      "artistSlug": "dead-romance-club"
     },
     {
       "userId": "82cd3bac-b911-4930-95cf-401eb2519f22",

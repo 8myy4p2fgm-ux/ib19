@@ -133170,6 +133170,26 @@
           "respect": 11.07421875
         }
       }
+    },
+    {
+      "observedAt": "2026-10-17T02:41:49.349Z",
+      "exportedAt": "2026-10-17T02:41:49.349Z",
+      "scores": 12022,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.901114086166707,
+          "favor": 9.153773832862147,
+          "attention": 6.160624386145892,
+          "respect": 6.586715867158672
+        },
+        "veterans": {
+          "index": 29.05620564233433,
+          "favor": 18.115311554144945,
+          "attention": -0.13332466181061395,
+          "respect": 11.07421875
+        }
+      }
     }
   ],
   "selectionVersions": [
