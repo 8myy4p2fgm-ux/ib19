@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T21:31:56.086Z",
-  "exportedAt": "2026-10-17T21:31:56.086Z",
-  "runId": "2026-10-17T21:31:56.086Z",
-  "forumExportedAt": "2026-10-17T21:31:56.086Z",
+  "lastSuccessfulAt": "2026-10-17T21:52:04.512Z",
+  "exportedAt": "2026-10-17T21:52:04.512Z",
+  "runId": "2026-10-17T21:52:04.512Z",
+  "forumExportedAt": "2026-10-17T21:52:04.512Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13262,
+    "scores": 13263,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 3,
-    "durationMs": 3090,
-    "scoresBefore": 13261,
-    "scoresAfter": 13262,
+    "durationMs": 3240,
+    "scoresBefore": 13262,
+    "scoresAfter": 13263,
     "fullBaselineRequests": 3249,
     "requestReductionPercent": 99.90766389658357,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "Раджио",
+          "comment": "У тебя тремор, у тебя траблы, у тебя крысы, у меня братья (с) - эта манера исполнения особенно эстетично выглядит. В целом очень и очень эффектно преподнесено все. Ты идеален на этом звенящем бите, мало тут кто смог бы так его вывезти. Ощущение легкости невероятное, еще и текст написан так, чтоб тебе просто было бегать с ним на инструментале. Один из моих ЛТР 100%. ",
+          "scoredAt": "2026-10-17T21:43:19.584Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -182,13 +189,6 @@
           "artist": "Мсье Кучер",
           "comment": "Текстовик ",
           "scoredAt": "2026-10-17T20:03:32.065Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 2,
-          "artist": "Петя Джи",
-          "comment": "Ничем не выделяешься на фоне остальных ",
-          "scoredAt": "2026-10-17T20:02:31.583Z"
         }
       ]
     }
