@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T07:01:51.162Z",
+  "exportedAt": "2026-10-17T07:11:48.300Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -56470,40 +56470,6 @@
       "artistSlug": "pyha-pulemet"
     },
     {
-      "userId": "35e0cc54-73ea-443d-a885-d4e99c78473c",
-      "scoredCount": 4,
-      "scores": [
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "comment": "В целом мне нравится как ты зачитал, немного не хватило чуть больше эмоций в треке",
-          "scoredAt": "2026-10-16T14:42:05.862Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "comment": "Седьмой стрим.",
-          "scoredAt": "2026-10-12T13:04:48.719Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "comment": "Хороший стилёк, звучит как уверенный отборочный трек. Только панчи вроде того, что про сумо, лучше больше не писать — это уж слишком банально.",
-          "scoredAt": "2026-10-12T11:05:48.569Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "comment": "Бодро читаешь, красиво\nнравится твой голос, но хотелось бы немножко агрессии, понять как ты баттлишь. \nВ остальном крепкая 4-ка ",
-          "scoredAt": "2026-10-09T10:40:47.346Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T14:42:24.640Z",
-      "current": true,
-      "artistName": "KOR",
-      "artistSlug": "kor"
-    },
-    {
       "userId": "1fbb5f9f-7772-4d94-966c-6d16066f961f",
       "scoredCount": 4,
       "scores": [
@@ -56536,6 +56502,40 @@
       "current": true,
       "artistName": "Figurant",
       "artistSlug": "figurant"
+    },
+    {
+      "userId": "35e0cc54-73ea-443d-a885-d4e99c78473c",
+      "scoredCount": 4,
+      "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "В целом мне нравится как ты зачитал, немного не хватило чуть больше эмоций в треке",
+          "scoredAt": "2026-10-16T14:42:05.862Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Седьмой стрим.",
+          "scoredAt": "2026-10-12T13:04:48.719Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Хороший стилёк, звучит как уверенный отборочный трек. Только панчи вроде того, что про сумо, лучше больше не писать — это уж слишком банально.",
+          "scoredAt": "2026-10-12T11:05:48.569Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Бодро читаешь, красиво\nнравится твой голос, но хотелось бы немножко агрессии, понять как ты баттлишь. \nВ остальном крепкая 4-ка ",
+          "scoredAt": "2026-10-09T10:40:47.346Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T14:42:24.640Z",
+      "current": true,
+      "artistName": "KOR",
+      "artistSlug": "kor"
     },
     {
       "userId": "fcd271d1-71e4-43ac-a6a3-7df5762188f7",
@@ -69925,6 +69925,22 @@
       "artistSlug": "xamm"
     },
     {
+      "userId": "8df38f4d-bd37-4008-a37c-28cd82b009d2",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "свежо. хорош",
+          "scoredAt": "2026-10-16T15:31:53.228Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "current": true,
+      "artistName": "2thousandtears",
+      "artistSlug": "2thousandtears"
+    },
+    {
       "userId": "cd3cf931-194e-4b1b-a4ef-56fca996544c",
       "scoredCount": 4,
       "scores": [
@@ -69957,22 +69973,6 @@
       "current": true,
       "artistName": "Matesha",
       "artistSlug": "matesha"
-    },
-    {
-      "userId": "8df38f4d-bd37-4008-a37c-28cd82b009d2",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "comment": "свежо. хорош",
-          "scoredAt": "2026-10-16T15:31:53.228Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
-      "current": true,
-      "artistName": "2thousandtears",
-      "artistSlug": "2thousandtears"
     },
     {
       "userId": "acb7209a-ef5f-497c-98e0-238cffbb08f8",
