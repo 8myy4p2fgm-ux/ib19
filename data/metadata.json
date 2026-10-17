@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T05:11:51.198Z",
-  "exportedAt": "2026-10-17T05:11:51.198Z",
-  "runId": "2026-10-17T05:11:51.198Z",
-  "forumExportedAt": "2026-10-17T05:11:51.198Z",
+  "lastSuccessfulAt": "2026-10-17T05:21:46.284Z",
+  "exportedAt": "2026-10-17T05:21:46.284Z",
+  "runId": "2026-10-17T05:21:46.284Z",
+  "forumExportedAt": "2026-10-17T05:21:46.284Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12029,
+    "scores": 12030,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5308,
-    "scoresBefore": 12026,
-    "scoresAfter": 12029,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2721,
+    "scoresBefore": 12029,
+    "scoresAfter": 12030,
     "fullBaselineRequests": 3207,
-    "requestReductionPercent": 99.84409105082632,
+    "requestReductionPercent": 99.90645463049579,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "BOGOMOL",
+          "comment": "Спасибо за трек! \nТекст: средний текст\nИсполнение: неплохо читаешь, но нужно добавить эмоций чуть больше и разнообразия\nОбщее впечатление: средний трек на самом деле, много пустоты в треке\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-17T05:19:22.413Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 5,
@@ -180,13 +187,6 @@
           "artist": "sk1mee",
           "comment": "Я не воздухан  если я пукну то обкакаюсь\n\nАЫХФАХФЫАХЫХАХЫАХЫФАХЫФХАЫХАХЫФАХЫХАЫХАХЫАХЫХАЫХАХАФХЫАХ \n\nво втором конечно надо прям серьёзно рэпась свой пересмотреть, бахнут тебе 4 за смишнявку и не такой уж и плохой уровень, мб поможет пройти)",
           "scoredAt": "2026-10-17T02:03:02.884Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Kommers",
-          "comment": "авансом 4, звук уг, читка соу соу, текст мент-нет такое, но нравится слог ",
-          "scoredAt": "2026-10-17T02:00:45.771Z"
         }
       ]
     }
