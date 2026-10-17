@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T20:02:07.557Z",
-  "exportedAt": "2026-10-17T20:02:07.557Z",
-  "runId": "2026-10-17T20:02:07.557Z",
-  "forumExportedAt": "2026-10-17T20:02:07.557Z",
+  "lastSuccessfulAt": "2026-10-17T20:12:05.060Z",
+  "exportedAt": "2026-10-17T20:12:05.060Z",
+  "runId": "2026-10-17T20:12:05.060Z",
+  "forumExportedAt": "2026-10-17T20:12:05.060Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13247,
+    "scores": 13255,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6495,
-    "scoresBefore": 13243,
-    "scoresAfter": 13247,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 7,
+    "logicalRequests": 11,
+    "durationMs": 10819,
+    "scoresBefore": 13247,
+    "scoresAfter": 13255,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.81532779316713,
+    "requestReductionPercent": 99.66143428747307,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "EggStacy [ЯЙЦА СТАСА]",
+          "comment": "Спасибо за участие ",
+          "scoredAt": "2026-10-17T20:10:36.520Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Crocodillac Crocodillac",
+          "comment": "Переслушивать такое не стал бы. Максимально неслушабельно звучит. ",
+          "scoredAt": "2026-10-17T20:09:52.195Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "Moymirok",
+          "comment": "",
+          "scoredAt": "2026-10-17T20:08:01.560Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "artist": "Роман Манакин",
+          "comment": "С такими рифмами парных не видать ",
+          "scoredAt": "2026-10-17T20:06:27.471Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Терраксом",
+          "comment": "Лютый флоу нужно прокачивать ещё ",
+          "scoredAt": "2026-10-17T20:04:40.766Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "artist": "Мсье Кучер",
+          "comment": "Текстовик ",
+          "scoredAt": "2026-10-17T20:03:32.065Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "artist": "Петя Джи",
+          "comment": "Ничем не выделяешься на фоне остальных ",
+          "scoredAt": "2026-10-17T20:02:31.583Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -140,55 +189,6 @@
           "artist": "Vector Geology",
           "comment": "Странная ритмика в треке, флоу тоже однообразное",
           "scoredAt": "2026-10-17T19:25:27.516Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "SANITAR",
-          "comment": "Есть сбивки ритмики,  по флоу дефолтно, по тексту +-",
-          "scoredAt": "2026-10-17T19:24:14.978Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "SNB",
-          "comment": "Ну в некст интересно что по тексту будет, только минус за это",
-          "scoredAt": "2026-10-17T19:22:50.325Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Рома Chelsea",
-          "comment": "Средненько бро, внутри трека разнообразия бы",
-          "scoredAt": "2026-10-17T19:21:54.069Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "молодой Куколд",
-          "comment": "По тексту норм, по остальному увы",
-          "scoredAt": "2026-10-17T19:20:49.772Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "Дима Капрал",
-          "comment": "Ну прикольно дядь настелил, не хватило немного спокойных тонов в треке",
-          "scoredAt": "2026-10-17T19:16:56.682Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Alex Cheef",
-          "comment": "Ов портит звучок, а по флоу не плохо",
-          "scoredAt": "2026-10-17T19:14:40.009Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "artist": "Сэйн",
-          "comment": "Стиль есть, больше рофлянок в такой стилек загоняй, и добавь жирка в голос и будет классно",
-          "scoredAt": "2026-10-17T19:13:51.960Z"
         }
       ]
     }

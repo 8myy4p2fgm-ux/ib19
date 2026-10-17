@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T20:02:07.557Z",
+  "exportedAt": "2026-10-17T20:12:05.060Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -1795,8 +1795,14 @@
     },
     {
       "userId": "fa145f41-01a2-4b51-a0eb-c8f2b9bbb992",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 1,
+          "comment": "Текстовик ",
+          "scoredAt": "2026-10-17T20:03:32.065Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -1810,7 +1816,7 @@
           "scoredAt": "2026-10-07T12:14:31.899Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Мсье Кучер",
       "artistSlug": "mse-kucher"
@@ -12156,8 +12162,14 @@
     },
     {
       "userId": "ed87631b-8bcb-4523-b868-bffd88065c03",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Лютый флоу нужно прокачивать ещё ",
+          "scoredAt": "2026-10-17T20:04:40.766Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -12177,7 +12189,7 @@
           "scoredAt": "2026-10-10T08:30:14.801Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Терраксом",
       "artistSlug": "terraksom"
@@ -33693,8 +33705,14 @@
     },
     {
       "userId": "1d2b6585-374c-43e7-acb8-e23195227888",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Слабо по всем критериям ",
+          "scoredAt": "2026-10-17T20:11:56.355Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -33708,7 +33726,7 @@
           "scoredAt": "2026-10-16T19:08:16.505Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Роберт Хелениус",
       "artistSlug": "robert-helenius"
@@ -40223,8 +40241,14 @@
     },
     {
       "userId": "91b16ac0-ecd4-4c05-a796-fc12c6b35ae8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "comment": "С такими рифмами парных не видать ",
+          "scoredAt": "2026-10-17T20:06:27.471Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -40250,7 +40274,7 @@
           "scoredAt": "2026-10-12T13:23:24.202Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:12:20.288Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Роман Манакин",
       "artistSlug": "roman-manakin"
@@ -64606,8 +64630,14 @@
     },
     {
       "userId": "a659dd7b-53d5-4606-a813-b3565c395aac",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Ничем не выделяешься на фоне остальных ",
+          "scoredAt": "2026-10-17T20:02:31.583Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -64633,7 +64663,7 @@
           "scoredAt": "2026-10-03T13:22:49.120Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Петя Джи",
       "artistSlug": "petya-dzhi"
@@ -85573,8 +85603,14 @@
     },
     {
       "userId": "3b4f1e18-6650-490c-bddc-a8d387c1c0cd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Спасибо за участие ",
+          "scoredAt": "2026-10-17T20:10:36.520Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -85588,7 +85624,7 @@
           "scoredAt": "2026-10-16T20:28:02.979Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:52:14.446Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "EggStacy [ЯЙЦА СТАСА]",
       "artistSlug": "eggstacy-yayca-stasa"
@@ -87181,8 +87217,14 @@
     },
     {
       "userId": "097e6c69-8e35-4c92-a14d-048ca280c8a9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 2,
+          "comment": "Переслушивать такое не стал бы. Максимально неслушабельно звучит. ",
+          "scoredAt": "2026-10-17T20:09:52.195Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -87196,7 +87238,7 @@
           "scoredAt": "2026-10-13T16:46:25.420Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:52:29.544Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Crocodillac Crocodillac",
       "artistSlug": "crocodillac-crocodillac"
@@ -97837,8 +97879,14 @@
     },
     {
       "userId": "ac689412-d0ef-46a2-8fa7-03384d2f22cd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Бен Арфа",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T20:08:01.560Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -97852,7 +97900,7 @@
           "scoredAt": "2026-10-13T13:17:40.270Z"
         }
       ],
-      "fetchedAt": "2026-10-14T17:22:33.011Z",
+      "fetchedAt": "2026-10-17T20:12:05.060Z",
       "current": true,
       "artistName": "Moymirok",
       "artistSlug": "moymirok"

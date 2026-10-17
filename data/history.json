@@ -143844,6 +143844,118 @@
         "scoredAt": "2026-10-17T20:00:06.197Z",
         "userId": "1e15f129-c162-4562-9720-8a223e75895f"
       }
+    },
+    {
+      "id": "6f03bffa0ea73799f8e804a6f98e5de1f78926550351fea94d230f90955e3667",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:03:32.065Z",
+      "key": "[\"fa145f41-01a2-4b51-a0eb-c8f2b9bbb992\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 1,
+        "comment": "Текстовик ",
+        "scoredAt": "2026-10-17T20:03:32.065Z",
+        "userId": "fa145f41-01a2-4b51-a0eb-c8f2b9bbb992"
+      }
+    },
+    {
+      "id": "9c6ae16e8899b69fc520f7f748f8c36ed1b6a8ee32f836ff5179c09c50a1ac66",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:04:40.766Z",
+      "key": "[\"ed87631b-8bcb-4523-b868-bffd88065c03\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Лютый флоу нужно прокачивать ещё ",
+        "scoredAt": "2026-10-17T20:04:40.766Z",
+        "userId": "ed87631b-8bcb-4523-b868-bffd88065c03"
+      }
+    },
+    {
+      "id": "b75c0591313fb411d43071003126d3167ee865933ccdad1bd099a2e071b66882",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:11:56.355Z",
+      "key": "[\"1d2b6585-374c-43e7-acb8-e23195227888\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Слабо по всем критериям ",
+        "scoredAt": "2026-10-17T20:11:56.355Z",
+        "userId": "1d2b6585-374c-43e7-acb8-e23195227888"
+      }
+    },
+    {
+      "id": "e5b11d68ddcdd0ba04b3db1605fc3a4a5946272a1bacea059fb456436a0e6589",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:06:27.471Z",
+      "key": "[\"91b16ac0-ecd4-4c05-a796-fc12c6b35ae8\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "С такими рифмами парных не видать ",
+        "scoredAt": "2026-10-17T20:06:27.471Z",
+        "userId": "91b16ac0-ecd4-4c05-a796-fc12c6b35ae8"
+      }
+    },
+    {
+      "id": "12029b7323949e41dcf9d527ae0d8b16bf0e319f048f07f5d3ce3bd5c437cd85",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:02:31.583Z",
+      "key": "[\"a659dd7b-53d5-4606-a813-b3565c395aac\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Ничем не выделяешься на фоне остальных ",
+        "scoredAt": "2026-10-17T20:02:31.583Z",
+        "userId": "a659dd7b-53d5-4606-a813-b3565c395aac"
+      }
+    },
+    {
+      "id": "235c13ced9e64cae32fe8b5b014f959c9e67f875f991a69be557a3e17f0575d3",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:10:36.520Z",
+      "key": "[\"3b4f1e18-6650-490c-bddc-a8d387c1c0cd\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Спасибо за участие ",
+        "scoredAt": "2026-10-17T20:10:36.520Z",
+        "userId": "3b4f1e18-6650-490c-bddc-a8d387c1c0cd"
+      }
+    },
+    {
+      "id": "ba43e99c0c22011a8e1b8bfb7718e89d4272c6deb6caf16fdad63202fbdcbfb3",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:09:52.195Z",
+      "key": "[\"097e6c69-8e35-4c92-a14d-048ca280c8a9\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 2,
+        "comment": "Переслушивать такое не стал бы. Максимально неслушабельно звучит. ",
+        "scoredAt": "2026-10-17T20:09:52.195Z",
+        "userId": "097e6c69-8e35-4c92-a14d-048ca280c8a9"
+      }
+    },
+    {
+      "id": "29f073c7996453a3082e6c7c8fab9f4ed2f6031ae7eae483b2ecbfc8ea137798",
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "sourceScoredAt": "2026-10-17T20:08:01.560Z",
+      "key": "[\"ac689412-d0ef-46a2-8fa7-03384d2f22cd\",\"Бен Арфа\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Бен Арфа",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T20:08:01.560Z",
+        "userId": "ac689412-d0ef-46a2-8fa7-03384d2f22cd"
+      }
     }
   ],
   "snapshots": [
@@ -152323,6 +152435,26 @@
           "index": 29.79938743601555,
           "favor": 17.808025760012562,
           "attention": 1.2450930192865677,
+          "respect": 10.746268656716419
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:12:05.060Z",
+      "exportedAt": "2026-10-17T20:12:05.060Z",
+      "scores": 13255,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.90366991895587,
+          "favor": 9.28467866019647,
+          "attention": 6.148920836224191,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.81179852301004,
+          "favor": 17.81827468101152,
+          "attention": 1.2472551852821043,
           "respect": 10.746268656716419
         }
       }
