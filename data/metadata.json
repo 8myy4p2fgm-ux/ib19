@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T09:42:08.135Z",
-  "exportedAt": "2026-10-17T09:42:08.135Z",
-  "runId": "2026-10-17T09:42:08.135Z",
-  "forumExportedAt": "2026-10-17T09:42:08.135Z",
+  "lastSuccessfulAt": "2026-10-17T09:52:10.497Z",
+  "exportedAt": "2026-10-17T09:52:10.497Z",
+  "runId": "2026-10-17T09:52:10.497Z",
+  "forumExportedAt": "2026-10-17T09:52:10.497Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12296,
+    "scores": 12316,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 22,
+    "httpRequests": 23,
     "errors429": 0,
     "retries": 0,
     "updatedCards": 20,
     "mode": "incremental",
     "participants": 3279,
     "participantsWithNewScores": 20,
-    "changedParticipants": 20,
-    "logicalRequests": 22,
-    "durationMs": 21864,
-    "scoresBefore": 12276,
-    "scoresAfter": 12296,
+    "changedParticipants": 19,
+    "logicalRequests": 23,
+    "durationMs": 23126,
+    "scoresBefore": 12296,
+    "scoresAfter": 12316,
     "fullBaselineRequests": 3223,
-    "requestReductionPercent": 99.31740614334471,
+    "requestReductionPercent": 99.28637914986038,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
-          "judgeName": "AL Hammer",
+          "judgeName": "KseroN",
           "score": 3,
-          "artist": "РУБИЛО",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T09:41:17.806Z"
+          "artist": "Трушный Душный",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:51:39.116Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "ДЕВЯНОСТОЧЕТВЕРТЫЙ",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T09:40:43.701Z"
+          "artist": "RabbiT KroLL",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:51:23.263Z"
         },
         {
           "judgeName": "Роженов",
+          "score": 3,
+          "artist": "F1SK",
+          "comment": "Очень топорная околоквадратная рифмовка, текст пустоват, но зачитал хорошо",
+          "scoredAt": "2026-10-17T09:49:34.243Z"
+        },
+        {
+          "judgeName": "AL Hammer",
           "score": 2,
-          "artist": "4sgm",
-          "comment": "Сумбурное исполнение, многовато топорной рифмовки, какая-то неудачная структура (либо ты её не смог при исполнении компенсировать решениями). Короче, как-то не органично, да и тема избитая дофига, ничего нового по ней не сказал, недостаточно цепко по содержанию ",
-          "scoredAt": "2026-10-17T09:40:29.917Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Буквально Я",
-          "comment": "Интересный слог. Напомнил мне ПлавлюМозги, зацени его репак обязательно. Многому научишься у него. Зачитал ровно. ",
-          "scoredAt": "2026-10-17T09:40:08.701Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "SIlN",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T09:39:54.779Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "InDaChaos",
+          "artist": "lil Leex",
           "comment": "",
-          "scoredAt": "2026-10-17T09:39:10.064Z"
+          "scoredAt": "2026-10-17T09:48:24.566Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ОДА",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:47:40.445Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "Три Бэка",
-          "comment": "Хорошее, оригинальное раскрытие темы, органично звучит голос с битом, концовка хорошая! Нудеть за звук и рифмы тут не буду, закрою глаза из-за хорошего сторитела, молодец. 5 с минусом лови",
-          "scoredAt": "2026-10-17T09:39:04.076Z"
-        },
-        {
-          "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "ЭТО44",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T09:38:31.237Z"
+          "artist": "СЫНЛУНЫ",
+          "comment": "Проходная, но скучная работа , староват уже такой тексток честно говоря, добавь разнообразия и строчки поинтересней пж, авансом 3. Время идет, и надо с ним в ногу , либо делать очень вкусное старьё, юноу",
+          "scoredAt": "2026-10-17T09:47:35.729Z"
         },
         {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "mxgilxvskiii",
-          "comment": "",
-          "scoredAt": "2026-10-17T09:37:48.366Z"
-        },
-        {
-          "judgeName": "Samarskij",
+          "judgeName": "Роженов",
           "score": 4,
-          "artist": "DVA500",
-          "comment": "Я не в контексте истории, которую ты рассказываешь, но в любом случае это круто. Вообще раньше было много лже царей. Короче, молодец, я думаю ты один из 3500 человек, кто сделал такое раскрытие. Хотелось бы еще чтобы ты кроме сторителлинга заложил еще посыл и не забыл про рифмы и панчи. За уникальность - четверка, но во втором надо будет удивлять.",
-          "scoredAt": "2026-10-17T09:37:32.110Z"
+          "artist": "Adamant",
+          "comment": "Здарова, Каже Обойма. Квадратненько, но оч плотно по рифме, атмосферно, напор есть",
+          "scoredAt": "2026-10-17T09:47:24.611Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 2,
-          "artist": "connector",
+          "artist": "Stan XSam",
           "comment": "",
-          "scoredAt": "2026-10-17T09:36:33.950Z"
+          "scoredAt": "2026-10-17T09:47:09.900Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Шпиш",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:46:56.737Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "NEBES1",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:46:32.285Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Ts-Seven",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:45:28.157Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "GrustNoFact",
+          "comment": "Хорошо по тексту, нормасик ваще. Выдержано, приятно. Рифмы бы тебе сюда красивые ещё как и твой голос на бите, лови 4 с минусом , в следующем жду с красотой ",
+          "scoredAt": "2026-10-17T09:45:08.903Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 1,
+          "artist": "!хачухачапури",
+          "comment": "Охуительно",
+          "scoredAt": "2026-10-17T09:44:29.338Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Частый Лодырь",
+          "artist": "MLV.LVN",
           "comment": "",
-          "scoredAt": "2026-10-17T09:36:05.298Z"
+          "scoredAt": "2026-10-17T09:43:47.508Z"
         },
         {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "AINEES",
-          "comment": "Средненько и по исполнению, и по тексту.",
-          "scoredAt": "2026-10-17T09:36:02.645Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Di Mo",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T09:35:07.425Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 5,
-          "artist": "Уксоди",
-          "comment": "Немного с авансом, не всё понравилось, но оригинально получилось.",
-          "scoredAt": "2026-10-17T09:34:57.246Z"
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "KOLPAK_ZhZ",
+          "comment": "Что это за дрочь в конце, какой-то недоскит, как в лужу пёрнул?\nДопустим, если закрыть глаза на эту сомнительную херню, то в целом неплохо – тема раскрыта, рифмовка плотная (при мелькающей квадратности-то), техника неплохая. Четыре с минусом, брат.",
+          "scoredAt": "2026-10-17T09:43:42.758Z"
         }
       ]
     }
