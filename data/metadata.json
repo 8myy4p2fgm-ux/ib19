@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T08:31:55.209Z",
-  "exportedAt": "2026-10-17T08:31:55.209Z",
-  "runId": "2026-10-17T08:31:55.209Z",
-  "forumExportedAt": "2026-10-17T08:31:55.209Z",
+  "lastSuccessfulAt": "2026-10-17T08:42:01.082Z",
+  "exportedAt": "2026-10-17T08:42:01.082Z",
+  "runId": "2026-10-17T08:42:01.082Z",
+  "forumExportedAt": "2026-10-17T08:42:01.082Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12166,
+    "scores": 12172,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 9745,
-    "scoresBefore": 12158,
-    "scoresAfter": 12166,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8233,
+    "scoresBefore": 12166,
+    "scoresAfter": 12172,
     "fullBaselineRequests": 3213,
-    "requestReductionPercent": 99.68876439464674,
+    "requestReductionPercent": 99.75101151571741,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "RUSO FARRISTA",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:41:44.915Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Генацидов",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:40:24.722Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "21 keyz",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:39:34.804Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "Железный Джон",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:38:56.851Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "Антон Zabe",
+          "comment": "Надо было гимн SLOVO SPB загружать ",
+          "scoredAt": "2026-10-17T08:38:36.794Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "SIDIS",
+          "comment": "",
+          "scoredAt": "2026-10-17T08:37:46.144Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -145,48 +187,6 @@
           "artist": "AVAYVA",
           "comment": "У это ебать как стильно. Очень хороший арэнби. За звук, кач и вайб поставлю четверку. Будет круто, если ты в эту форму завернешь еще тексток хотя-бы средненький) Мы же на хип-хоп баттле как-никак.",
           "scoredAt": "2026-10-17T08:17:04.518Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "KMRSZ (Kommers)",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:16:53.637Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "ПеньИсТрущоб",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:15:18.583Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Сэйн",
-          "comment": "Весело и вайбово. Текст неплохой, есть много хороших моментов, но как-то сумбурно. Постарайся во втором(если пройдешь) причесать тексток и чутка добавить харизмы в исполнение. Тогда будет вышка и шансы на парный. Пока твердая четверка.",
-          "scoredAt": "2026-10-17T08:14:54.508Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "amara bobova",
-          "comment": "Авансом ",
-          "scoredAt": "2026-10-17T08:14:11.733Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "КОЛЯ REYT",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:13:12.042Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "artist": "JOHNNY KATANA",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:12:10.948Z"
         }
       ]
     }

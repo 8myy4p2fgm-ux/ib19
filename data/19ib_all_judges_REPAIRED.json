@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-17T08:31:55.209Z",
+  "exportedAt": "2026-10-17T08:42:01.082Z",
   "totalParticipants": 3279,
   "members": [
     {
@@ -15424,8 +15424,14 @@
     },
     {
       "userId": "24cffe4f-bd2c-43c8-81a4-818cac5612db",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:39:34.804Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -15451,7 +15457,7 @@
           "scoredAt": "2026-08-30T16:08:53.707Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "21 keyz",
       "artistSlug": "21-keyz"
@@ -45839,8 +45845,14 @@
     },
     {
       "userId": "689a8e7a-f67a-4ee1-a20c-a96f7ed7edf1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:37:46.144Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -45860,7 +45872,7 @@
           "scoredAt": "2026-10-07T19:53:05.899Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "SIDIS",
       "artistSlug": "sidis"
@@ -61904,8 +61916,14 @@
     },
     {
       "userId": "63774b08-71ab-4d89-892a-352db4363b17",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:38:56.851Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -61919,7 +61937,7 @@
           "scoredAt": "2026-10-08T07:18:30.737Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:32:19.543Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "Железный Джон",
       "artistSlug": "zheleznyy-dzhon"
@@ -77231,8 +77249,14 @@
     },
     {
       "userId": "b300c2c4-dd12-4026-846b-f74741df0c65",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T08:41:44.915Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -77258,7 +77282,7 @@
           "scoredAt": "2026-09-27T11:15:23.919Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:52:39.670Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "RUSO FARRISTA",
       "artistSlug": "ruso-farrista"
@@ -105382,8 +105406,14 @@
     },
     {
       "userId": "ce53f5ba-f1ba-4fce-adfe-2884ec649c07",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Надо было гимн SLOVO SPB загружать ",
+          "scoredAt": "2026-10-17T08:38:36.794Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 1,
@@ -105409,7 +105439,7 @@
           "scoredAt": "2026-10-08T18:27:10.566Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:42:15.963Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "Антон Zabe",
       "artistSlug": "anton-zabe"
@@ -105425,8 +105455,14 @@
     },
     {
       "userId": "6f581193-4f8d-4e45-9788-571173a67eac",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T08:40:24.722Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -105434,7 +105470,7 @@
           "scoredAt": "2026-10-12T09:16:52.057Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-17T08:42:01.082Z",
       "current": true,
       "artistName": "Генацидов",
       "artistSlug": "genacidov"

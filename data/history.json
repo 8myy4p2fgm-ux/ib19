@@ -128564,6 +128564,90 @@
         "scoredAt": "2026-10-17T08:24:32.465Z",
         "userId": "67c140b1-a6da-4006-8b08-1130084e8c05"
       }
+    },
+    {
+      "id": "1ea03e067f1c33e1634944118e23a58644d25e8df33116a24fd77ac9534cb5a7",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:39:34.804Z",
+      "key": "[\"24cffe4f-bd2c-43c8-81a4-818cac5612db\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:39:34.804Z",
+        "userId": "24cffe4f-bd2c-43c8-81a4-818cac5612db"
+      }
+    },
+    {
+      "id": "94bcc1a30e3e83f0b1d928a62364a82e68f9e58728c5a8664d53a0cde40775a3",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:37:46.144Z",
+      "key": "[\"689a8e7a-f67a-4ee1-a20c-a96f7ed7edf1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:37:46.144Z",
+        "userId": "689a8e7a-f67a-4ee1-a20c-a96f7ed7edf1"
+      }
+    },
+    {
+      "id": "40ee0d5a70ccad3289c7cce31b3e9cb9449ae8168e1f694709975a744d436820",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:38:56.851Z",
+      "key": "[\"63774b08-71ab-4d89-892a-352db4363b17\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:38:56.851Z",
+        "userId": "63774b08-71ab-4d89-892a-352db4363b17"
+      }
+    },
+    {
+      "id": "b45fb0c4be8cc3cfd3121c82fbd0f04fccf2e2f0244e25ce8d9c463ea25e51c6",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:41:44.915Z",
+      "key": "[\"b300c2c4-dd12-4026-846b-f74741df0c65\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T08:41:44.915Z",
+        "userId": "b300c2c4-dd12-4026-846b-f74741df0c65"
+      }
+    },
+    {
+      "id": "30817a7bb9ef2bfed59a616b8074e245103aabec6446c770e4d4561a149831c4",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:38:36.794Z",
+      "key": "[\"ce53f5ba-f1ba-4fce-adfe-2884ec649c07\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 5,
+        "comment": "Надо было гимн SLOVO SPB загружать ",
+        "scoredAt": "2026-10-17T08:38:36.794Z",
+        "userId": "ce53f5ba-f1ba-4fce-adfe-2884ec649c07"
+      }
+    },
+    {
+      "id": "946893746621f1151c3f7a7fa63af9e70fb14d4c0005846a3c3fdddde02c7787",
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "sourceScoredAt": "2026-10-17T08:40:24.722Z",
+      "key": "[\"6f581193-4f8d-4e45-9788-571173a67eac\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T08:40:24.722Z",
+        "userId": "6f581193-4f8d-4e45-9788-571173a67eac"
+      }
     }
   ],
   "snapshots": [
@@ -135723,6 +135807,26 @@
           "index": 28.99039039571113,
           "favor": 18.030162811949975,
           "attention": -0.02814450926210214,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:42:01.082Z",
+      "exportedAt": "2026-10-17T08:42:01.082Z",
+      "scores": 12172,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.979381532563323,
+          "favor": 9.254970174795368,
+          "attention": 6.131004764361363,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 28.994702048263022,
+          "favor": 18.028392446446745,
+          "attention": -0.022062491206978143,
           "respect": 10.988372093023257
         }
       }
