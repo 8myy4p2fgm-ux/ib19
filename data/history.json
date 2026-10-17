@@ -136186,6 +136186,342 @@
         "scoredAt": "2026-10-17T12:54:37.170Z",
         "userId": "6c2e6763-1d9d-4120-986f-8c8eca3e0a0d"
       }
+    },
+    {
+      "id": "f0519d3878e5c693da7c50d2814e72b6979c27c7200e0bbaef1d2b79fe5fae25",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:02:50.365Z",
+      "key": "[\"bd3ef19a-0240-478c-8c86-49d04a729f01\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:02:50.365Z",
+        "userId": "bd3ef19a-0240-478c-8c86-49d04a729f01"
+      }
+    },
+    {
+      "id": "c3118fcaff956fd2ec77b22762b484e6e739b1e2a72acf5f6792448c8d6215a3",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:09:17.583Z",
+      "key": "[\"524eeebc-9509-47ab-a7d2-7544795b1a94\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "страшно",
+        "scoredAt": "2026-10-17T13:09:17.583Z",
+        "userId": "524eeebc-9509-47ab-a7d2-7544795b1a94"
+      }
+    },
+    {
+      "id": "c53ae34527c296658bce13fdd573249d43f3d5c168e7091fe7e9a5fe080ccd6d",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:11:47.016Z",
+      "key": "[\"a58dcf77-20e6-4221-9af2-3c0a9bce023e\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "че то есть в этом ",
+        "scoredAt": "2026-10-17T13:11:47.016Z",
+        "userId": "a58dcf77-20e6-4221-9af2-3c0a9bce023e"
+      }
+    },
+    {
+      "id": "1e56538e823640b830d42118ed0f15d63aba7f6a89a62270f646585986bdf5b4",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:05:55.838Z",
+      "key": "[\"76cbb5f7-7c37-4512-a2d4-95a2371e966d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:05:55.838Z",
+        "userId": "76cbb5f7-7c37-4512-a2d4-95a2371e966d"
+      }
+    },
+    {
+      "id": "98898434d28f069b8aa74df94f7d2f4ec3f63811c60a181daeaa029598ee99b1",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:06:19.314Z",
+      "key": "[\"de94fe2f-70ee-4f26-ae32-22cd3851c1a3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:06:19.314Z",
+        "userId": "de94fe2f-70ee-4f26-ae32-22cd3851c1a3"
+      }
+    },
+    {
+      "id": "19ff8f59dbb35976022cd5fd1cde539ef6b5ba92e54ae27c2c9181867f7530c6",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:08:27.736Z",
+      "key": "[\"1d228ba7-408f-4b30-a0ad-5c1f41380c77\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "чуть не хватило до 3",
+        "scoredAt": "2026-10-17T13:08:27.736Z",
+        "userId": "1d228ba7-408f-4b30-a0ad-5c1f41380c77"
+      }
+    },
+    {
+      "id": "ac653f50ec28d0a355aa1713bead5bf2b1143c37deb114fccc05f6edaa638e86",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:04:11.049Z",
+      "key": "[\"9453029d-501c-44ae-84b4-b687f5034adf\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:04:11.049Z",
+        "userId": "9453029d-501c-44ae-84b4-b687f5034adf"
+      }
+    },
+    {
+      "id": "b7c4326a1388859ca5e6bc7c52419b27f893ae5eb08223d0b28b68f4f548f156",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:08:23.829Z",
+      "key": "[\"880b7233-62ab-4732-bcfa-a89838789f08\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:08:23.829Z",
+        "userId": "880b7233-62ab-4732-bcfa-a89838789f08"
+      }
+    },
+    {
+      "id": "ecd96c936adf8c00d8cf874ac72d5b6ede03aaa042ca2ae6c9bf2e4fa8926eda",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:05:05.969Z",
+      "key": "[\"b9669e36-5842-4069-b53e-25d39d6719d3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:05:05.969Z",
+        "userId": "b9669e36-5842-4069-b53e-25d39d6719d3"
+      }
+    },
+    {
+      "id": "22b18d59463aeeb9dcb3422bd7bbbcf166244bee55047a11bd5bcb2dd75027ed",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:04:47.725Z",
+      "key": "[\"f0b00857-da51-4b3a-9aeb-d24e376df4ec\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "крутой рэпер слышно. но текст ещё научиться бы писать ",
+        "scoredAt": "2026-10-17T13:04:47.725Z",
+        "userId": "f0b00857-da51-4b3a-9aeb-d24e376df4ec"
+      }
+    },
+    {
+      "id": "55dda6dfa4956949112d0a9e5f34e15af2285ae7ee75566c47472a23ba41225e",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:07:11.159Z",
+      "key": "[\"93ddb786-1c00-442e-8bc0-169e0d0cef37\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T13:07:11.159Z",
+        "userId": "93ddb786-1c00-442e-8bc0-169e0d0cef37"
+      }
+    },
+    {
+      "id": "3f8dd5e32120031ede72d15599352aa2a7a842d9ac408f3a8374ff58d76c9027",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:06:40.781Z",
+      "key": "[\"3edb9e64-1c1b-4f97-96b4-c1c90ad2e546\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "С такой подачей и стильком строчки должны быть мощнейшими , броузи . тут надо над формулировками париться к рифмам чтобы обертка получалась красивая. Пока скучно , но образность хорошая, иного слов если уходит на неё то пусть они будут оправданны . авансом 3",
+        "scoredAt": "2026-10-17T13:06:40.781Z",
+        "userId": "3edb9e64-1c1b-4f97-96b4-c1c90ad2e546"
+      }
+    },
+    {
+      "id": "e6a52f083fca7bb141216e447eb940b82a91fdda33b9deb8df9fcae119b318f3",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:06:16.541Z",
+      "key": "[\"5c9ebe09-e784-4568-a78c-162fec8b9b01\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо ",
+        "scoredAt": "2026-10-17T13:06:16.541Z",
+        "userId": "5c9ebe09-e784-4568-a78c-162fec8b9b01"
+      }
+    },
+    {
+      "id": "0f30a1e78c9af6f2f6b5d3508046883422f04fa196274b0350979994586785ab",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:05:15.226Z",
+      "key": "[\"611f803e-78a2-4433-8b25-6bf65357cca3\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Очень приятный голос и стильное исполнение. Крепкий трек",
+        "scoredAt": "2026-10-17T13:05:15.226Z",
+        "userId": "611f803e-78a2-4433-8b25-6bf65357cca3"
+      }
+    },
+    {
+      "id": "efad1b52885f519deadbde18543f466006242d680bdefa6fcdc32eeaaa0025df",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:05:40.122Z",
+      "key": "[\"ad6006f2-9c84-42a5-9652-741d29b3de8a\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T13:05:40.122Z",
+        "userId": "ad6006f2-9c84-42a5-9652-741d29b3de8a"
+      }
+    },
+    {
+      "id": "8969453afd5c205789316bcaa39aa56678327d792d8a1e945f28220dd2e12b03",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:06:23.137Z",
+      "key": "[\"3cc686ef-5ba9-4b23-95bf-eae26f13a543\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Стильно, уверенно, с характером. Для пятёрки не хватило разнообразия",
+        "scoredAt": "2026-10-17T13:06:23.137Z",
+        "userId": "3cc686ef-5ba9-4b23-95bf-eae26f13a543"
+      }
+    },
+    {
+      "id": "90001ce78b8f8f6def4eea8b98f42c147a1b9ecb7429745c8667ee34cee363b8",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:03:08.275Z",
+      "key": "[\"74ec3284-c672-4c4a-a714-15145c5abaa2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "3 авансом, очень скучно по тексту и рифмам , три с минусом ",
+        "scoredAt": "2026-10-17T13:03:08.275Z",
+        "userId": "74ec3284-c672-4c4a-a714-15145c5abaa2"
+      }
+    },
+    {
+      "id": "394f4d0164e515b79036018414062173c046310567b8783cbef219fe1fab4596",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:07:04.248Z",
+      "key": "[\"0d0890c6-8f75-42b5-a2f1-d9a9eb2ee097\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Блин, по звуку прям очень нравится. Голос уверенный, по биту идёшь классно, но несколько строчек для меня слабее остального трека. Поэтому четыре, хотя думал о пятёрке",
+        "scoredAt": "2026-10-17T13:07:04.248Z",
+        "userId": "0d0890c6-8f75-42b5-a2f1-d9a9eb2ee097"
+      }
+    },
+    {
+      "id": "3e5b442a6913c2dfe656961fe138ff9ae089d249725cb03575c496f6b28db9f8",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:11:12.017Z",
+      "key": "[\"02f51435-4a0e-41bb-8572-c4f65dd9cd0f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабый андер ",
+        "scoredAt": "2026-10-17T13:11:12.017Z",
+        "userId": "02f51435-4a0e-41bb-8572-c4f65dd9cd0f"
+      }
+    },
+    {
+      "id": "ecf6d150f992cfb71fb2140705796af74c19b2aeef456c657db1f94557b32ec3",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:05:39.386Z",
+      "key": "[\"bc608693-6cb9-487e-8551-e0171ed4b038\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "пойдёт ",
+        "scoredAt": "2026-10-17T13:05:39.386Z",
+        "userId": "bc608693-6cb9-487e-8551-e0171ed4b038"
+      }
+    },
+    {
+      "id": "36e2ebeac6214b886423dd0c674fbfa78a89ddf33160c8db60b7f59bb4e9d9d4",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:02:42.450Z",
+      "key": "[\"91ba34bd-c781-49b6-b383-fb35ee73138f\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "По тексту есть удачные места, но подача довольно странная. Ускорения ни к месту.",
+        "scoredAt": "2026-10-17T13:02:42.450Z",
+        "userId": "91ba34bd-c781-49b6-b383-fb35ee73138f"
+      }
+    },
+    {
+      "id": "596511ff725af87f4e213e00c0c9be4a214902073f7fe2cc1e6b22e204b6cc5f",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:04:01.931Z",
+      "key": "[\"a885333f-448c-4510-b1bd-951a6641ff2a\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Пара моментов нормальная. Остальное звучит так, будто дописывал прямо перед сдачей",
+        "scoredAt": "2026-10-17T13:04:01.931Z",
+        "userId": "a885333f-448c-4510-b1bd-951a6641ff2a"
+      }
+    },
+    {
+      "id": "fbcd50188a9040c122cdf503948c8e368176e8d95df613ef2bb9a08177f9a689",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:10:30.688Z",
+      "key": "[\"699c05f5-a962-43bb-b8a2-ec6a3a96dfda\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "лжедмитрий?",
+        "scoredAt": "2026-10-17T13:10:30.688Z",
+        "userId": "699c05f5-a962-43bb-b8a2-ec6a3a96dfda"
+      }
+    },
+    {
+      "id": "71cc7b58b1719baa88a561b995f25a4120f4e83271819acde43e21ad8a3cb3d7",
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "sourceScoredAt": "2026-10-17T13:03:40.331Z",
+      "key": "[\"e57716ee-295d-4bd4-8f32-0af99950653b\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "звук кайф. текст такое",
+        "scoredAt": "2026-10-17T13:03:40.331Z",
+        "userId": "e57716ee-295d-4bd4-8f32-0af99950653b"
+      }
     }
   ],
   "snapshots": [
@@ -143886,6 +144222,26 @@
           "favor": 17.79707908375317,
           "attention": 0.32735794356397374,
           "respect": 10.795454545454545
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T13:12:25.963Z",
+      "exportedAt": "2026-10-17T13:12:25.963Z",
+      "scores": 12733,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.976493081845035,
+          "favor": 9.232822333060888,
+          "attention": 6.241872187633066,
+          "respect": 6.501798561151079
+        },
+        "veterans": {
+          "index": 28.766363911458917,
+          "favor": 17.754448621553887,
+          "attention": 0.2412385981757081,
+          "respect": 10.770676691729323
         }
       }
     }

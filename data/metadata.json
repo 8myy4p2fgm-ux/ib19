@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T13:02:28.880Z",
-  "exportedAt": "2026-10-17T13:02:28.880Z",
-  "runId": "2026-10-17T13:02:28.880Z",
-  "forumExportedAt": "2026-10-17T13:02:28.880Z",
+  "lastSuccessfulAt": "2026-10-17T13:12:25.963Z",
+  "exportedAt": "2026-10-17T13:12:25.963Z",
+  "runId": "2026-10-17T13:12:25.963Z",
+  "forumExportedAt": "2026-10-17T13:12:25.963Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12709,
+    "scores": 12733,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 30,
+    "httpRequests": 26,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 27,
+    "updatedCards": 24,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 27,
-    "changedParticipants": 26,
-    "logicalRequests": 30,
-    "durationMs": 30051,
-    "scoresBefore": 12682,
-    "scoresAfter": 12709,
-    "fullBaselineRequests": 3235,
-    "requestReductionPercent": 99.0726429675425,
+    "participantsWithNewScores": 24,
+    "changedParticipants": 24,
+    "logicalRequests": 26,
+    "durationMs": 26081,
+    "scoresBefore": 12709,
+    "scoresAfter": 12733,
+    "fullBaselineRequests": 3236,
+    "requestReductionPercent": 99.19653893695921,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,108 +85,108 @@
       "feed": [
         {
           "judgeName": "OttO",
-          "score": 2,
-          "artist": "СТОНИК НА ПРАВОЙ РУКЕ",
-          "comment": "ахуенно",
-          "scoredAt": "2026-10-17T13:01:43.954Z"
+          "score": 3,
+          "artist": "vsecelo",
+          "comment": "че то есть в этом ",
+          "scoredAt": "2026-10-17T13:11:47.016Z"
         },
         {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "amara bobova",
-          "comment": "Стильно, уверенно, с характером. ",
-          "scoredAt": "2026-10-17T13:01:30.200Z"
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "doNNNie",
+          "comment": "слабый андер ",
+          "scoredAt": "2026-10-17T13:11:12.017Z"
         },
         {
           "judgeName": "OttO",
           "score": 3,
-          "artist": "Илим",
-          "comment": "слабо ",
-          "scoredAt": "2026-10-17T13:01:19.148Z"
+          "artist": "дачтотычёртпоберитакоенесёшь",
+          "comment": "лжедмитрий?",
+          "scoredAt": "2026-10-17T13:10:30.688Z"
         },
         {
-          "judgeName": "Никсон",
+          "judgeName": "OttO",
           "score": 3,
-          "artist": "Axelll",
-          "comment": "Есть своё настроение, это приятно. Но звук пока мешает оценить работу выше",
-          "scoredAt": "2026-10-17T13:00:54.395Z"
+          "artist": "FVNTHOM",
+          "comment": "страшно",
+          "scoredAt": "2026-10-17T13:09:17.583Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Дуэт Качели",
+          "comment": "чуть не хватило до 3",
+          "scoredAt": "2026-10-17T13:08:27.736Z"
         },
         {
           "judgeName": "AL Hammer",
           "score": 3,
-          "artist": "Воровской карман",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T13:00:54.190Z"
+          "artist": "Lobo",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:08:23.829Z"
         },
         {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Пластилин",
-          "comment": "че то есть в этом ",
-          "scoredAt": "2026-10-17T13:00:27.022Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "кирюха смерч",
-          "comment": "Я вот всё время недоволен долгими интрухами, тут вообще хуй забил на трек, просто ПРИКОЛ ПРИДУМАЛ и между ним рэп зачитал.",
-          "scoredAt": "2026-10-17T13:00:22.994Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "RampThug",
-          "comment": "не. оч слабо",
-          "scoredAt": "2026-10-17T12:59:52.817Z"
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Yamantao",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:07:11.159Z"
         },
         {
           "judgeName": "Никсон",
-          "score": 1,
-          "artist": "Погáнок",
-          "comment": "Блин, я пытался найти хоть один момент, который мне понравится, но не нашёл",
-          "scoredAt": "2026-10-17T12:59:20.009Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Леша Смит",
-          "comment": "прикольно ",
-          "scoredAt": "2026-10-17T12:59:15.335Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 1,
-          "artist": "Ura_rap",
-          "comment": "Не смог дослушать без пауз. Пока слишком сыро и по звуку, и по исполнению»",
-          "scoredAt": "2026-10-17T12:58:46.991Z"
+          "score": 4,
+          "artist": "X-mite",
+          "comment": "Блин, по звуку прям очень нравится. Голос уверенный, по биту идёшь классно, но несколько строчек для меня слабее остального трека. Поэтому четыре, хотя думал о пятёрке",
+          "scoredAt": "2026-10-17T13:07:04.248Z"
         },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
-          "artist": "К2.8",
-          "comment": "Пустой текст просто капец. Строки ради строк, а с таким голосом на этот бит мог раздать стиля. В итоге скучно , не интересно звучит, добавь либо обыгрывание голосом своих строк так чтоб звучало круто стильно, либо напиши убойные строки, чтоб их можно было так безэмоционально читать чтоб удерживать внимание слушателя. Пока что сыро ",
-          "scoredAt": "2026-10-17T12:58:46.873Z"
+          "artist": "молодой Куколд",
+          "comment": "С такой подачей и стильком строчки должны быть мощнейшими , броузи . тут надо над формулировками париться к рифмам чтобы обертка получалась красивая. Пока скучно , но образность хорошая, иного слов если уходит на неё то пусть они будут оправданны . авансом 3",
+          "scoredAt": "2026-10-17T13:06:40.781Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "MIRO MC",
+          "comment": "Стильно, уверенно, с характером. Для пятёрки не хватило разнообразия",
+          "scoredAt": "2026-10-17T13:06:23.137Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "yoonilorde",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:06:19.314Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Вова Против",
+          "comment": "слабо ",
+          "scoredAt": "2026-10-17T13:06:16.541Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "artist": "мц кутикула",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:05:55.838Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ПИБ",
+          "comment": "",
+          "scoredAt": "2026-10-17T13:05:40.122Z"
         },
         {
           "judgeName": "OttO",
           "score": 3,
-          "artist": "Кирбадн",
-          "comment": "пойдёт. скучновато ",
-          "scoredAt": "2026-10-17T12:58:28.374Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Subereal",
-          "comment": "Текст местами забавный, исполнение нормальное. До четвёрки не дожал",
-          "scoredAt": "2026-10-17T12:58:25.453Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "КМ74",
-          "comment": "Звучишь уверенно, и это плюс. В тексте много вопросов.",
-          "scoredAt": "2026-10-17T12:57:47.003Z"
+          "artist": "Reeo&Chinzanu",
+          "comment": "пойдёт ",
+          "scoredAt": "2026-10-17T13:05:39.386Z"
         }
       ]
     }
