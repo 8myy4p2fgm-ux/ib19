@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T00:31:55.996Z",
-  "exportedAt": "2026-10-17T00:31:55.996Z",
-  "runId": "2026-10-17T00:31:55.996Z",
-  "forumExportedAt": "2026-10-17T00:31:55.996Z",
+  "lastSuccessfulAt": "2026-10-17T02:01:49.400Z",
+  "exportedAt": "2026-10-17T02:01:49.400Z",
+  "runId": "2026-10-17T02:01:49.400Z",
+  "forumExportedAt": "2026-10-17T02:01:49.400Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12010,
+    "scores": 12015,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4269,
-    "scoresBefore": 12008,
-    "scoresAfter": 12010,
-    "fullBaselineRequests": 3204,
-    "requestReductionPercent": 99.87515605493134,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 6861,
+    "scoresBefore": 12010,
+    "scoresAfter": 12015,
+    "fullBaselineRequests": 3205,
+    "requestReductionPercent": 99.78159126365055,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -83,6 +83,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Kommers",
+          "comment": "авансом 4, звук уг, читка соу соу, текст мент-нет такое, но нравится слог ",
+          "scoredAt": "2026-10-17T02:00:45.771Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "БП",
+          "comment": "мне не нравится огромное количество пауз в треке, во второй части такого уже нет, но 50% трека просто как стихотворение ",
+          "scoredAt": "2026-10-17T01:59:15.338Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "bigle voozy",
+          "comment": "ну чото хз ",
+          "scoredAt": "2026-10-17T01:57:44.459Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "vs.",
+          "comment": "вот это ты мне вовремя залетел, дядька во 2 без диктофона\nчитаешь прилично, нужно серьезно подойти к 2 раунду",
+          "scoredAt": "2026-10-17T01:56:27.690Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Asteroday",
+          "comment": "жесть исторический рэп, ну это вау!!! но исполнение слабоватое",
+          "scoredAt": "2026-10-17T01:55:37.089Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -152,41 +187,6 @@
           "artist": "TOYOHARA BLOCK",
           "comment": "Пока что ты топ1 по концентрации неймдропинга, Авансом 3 с минусом , АНТИХАЙП!",
           "scoredAt": "2026-10-17T00:09:13.637Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "НикотинУбивает",
-          "comment": "Хорошо, уверенно, с напором и подачей. Удачи во втором.",
-          "scoredAt": "2026-10-17T00:08:19.375Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "PALMA46",
-          "comment": "Вроде есть стиль, качество, но я не понимаю как эта работа относится к баттлу? Про что это?",
-          "scoredAt": "2026-10-17T00:07:06.903Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "КРОМЕ НАС",
-          "comment": "Вокал не тянешь пока. В целом слабовато для прохода.",
-          "scoredAt": "2026-10-17T00:05:46.454Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "artist": "По ГОСТу",
-          "comment": "Я не плачу, просто ностальгия в глаз попала , забирай свою эту пятерку , лега!",
-          "scoredAt": "2026-10-17T00:05:00.871Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Greenflex",
-          "comment": "Самое стандартное раскрытие. Уже немного надоело слушать одинаковые треки. Девушка в конце удивила. ",
-          "scoredAt": "2026-10-17T00:04:33.116Z"
         }
       ]
     }

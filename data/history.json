@@ -126380,6 +126380,76 @@
         "scoredAt": "2026-10-17T00:22:30.693Z",
         "userId": "b2e1653a-3e18-4119-9798-891bf670b5f7"
       }
+    },
+    {
+      "id": "e7af8e3b12f5cd9a1079f4cd0e9f5a7cf100eefa803bc5ed74d856436ac0d738",
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "sourceScoredAt": "2026-10-17T02:00:45.771Z",
+      "key": "[\"a8709edc-a0e1-46aa-b70d-3a8ac4011818\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "авансом 4, звук уг, читка соу соу, текст мент-нет такое, но нравится слог ",
+        "scoredAt": "2026-10-17T02:00:45.771Z",
+        "userId": "a8709edc-a0e1-46aa-b70d-3a8ac4011818"
+      }
+    },
+    {
+      "id": "11e75f30e0e570a5ef30b693506a00d6ffd25105cff8e68126f34dd1891862cb",
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "sourceScoredAt": "2026-10-17T01:57:44.459Z",
+      "key": "[\"f833081c-c8d6-4fb1-af2d-894b65523735\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "ну чото хз ",
+        "scoredAt": "2026-10-17T01:57:44.459Z",
+        "userId": "f833081c-c8d6-4fb1-af2d-894b65523735"
+      }
+    },
+    {
+      "id": "bf701cdacba784dc4fce2ba6b7e26991443ea35cd9b221c0a43d3e5c5bb32e22",
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "sourceScoredAt": "2026-10-17T01:55:37.089Z",
+      "key": "[\"200dc529-000e-4539-8e50-05a09c3fc0b3\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "жесть исторический рэп, ну это вау!!! но исполнение слабоватое",
+        "scoredAt": "2026-10-17T01:55:37.089Z",
+        "userId": "200dc529-000e-4539-8e50-05a09c3fc0b3"
+      }
+    },
+    {
+      "id": "3a118343f46fd988d9e5097352193d0857ef097d26bdfd806b9b49af341e687d",
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "sourceScoredAt": "2026-10-17T01:59:15.338Z",
+      "key": "[\"fe98289a-892a-421f-9d39-d4f2db1ba263\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "мне не нравится огромное количество пауз в треке, во второй части такого уже нет, но 50% трека просто как стихотворение ",
+        "scoredAt": "2026-10-17T01:59:15.338Z",
+        "userId": "fe98289a-892a-421f-9d39-d4f2db1ba263"
+      }
+    },
+    {
+      "id": "07861c9f1de44ac296c8308c36ccce3e13f0c931478ebc8061d912a19439d9e2",
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "sourceScoredAt": "2026-10-17T01:56:27.690Z",
+      "key": "[\"9b5fb87a-8bd5-4d67-897a-01de40193e13\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "вот это ты мне вовремя залетел, дядька во 2 без диктофона\nчитаешь прилично, нужно серьезно подойти к 2 раунду",
+        "scoredAt": "2026-10-17T01:56:27.690Z",
+        "userId": "9b5fb87a-8bd5-4d67-897a-01de40193e13"
+      }
     }
   ],
   "snapshots": [
@@ -132939,6 +133009,26 @@
           "index": 29.034884494438362,
           "favor": 18.11755044394883,
           "attention": -0.15688469951046766,
+          "respect": 11.07421875
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T02:01:49.400Z",
+      "exportedAt": "2026-10-17T02:01:49.400Z",
+      "scores": 12015,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 21.889045508571506,
+          "favor": 9.153932415516255,
+          "attention": 6.148397225896577,
+          "respect": 6.586715867158672
+        },
+        "veterans": {
+          "index": 29.04261639672231,
+          "favor": 18.11546029801464,
+          "attention": -0.14706265129232932,
           "respect": 11.07421875
         }
       }
