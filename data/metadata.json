@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T09:02:15.893Z",
-  "exportedAt": "2026-10-17T09:02:15.893Z",
-  "runId": "2026-10-17T09:02:15.893Z",
-  "forumExportedAt": "2026-10-17T09:02:15.893Z",
+  "lastSuccessfulAt": "2026-10-17T09:12:06.133Z",
+  "exportedAt": "2026-10-17T09:12:06.133Z",
+  "runId": "2026-10-17T09:12:06.133Z",
+  "forumExportedAt": "2026-10-17T09:12:06.133Z",
   "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3279,
     "forum": 94,
-    "scores": 12195,
+    "scores": 12210,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 9
   },
   "collection": {
-    "httpRequests": 15,
+    "httpRequests": 18,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 13,
+    "updatedCards": 15,
     "mode": "incremental",
     "participants": 3279,
-    "participantsWithNewScores": 13,
-    "changedParticipants": 13,
-    "logicalRequests": 15,
-    "durationMs": 14762,
-    "scoresBefore": 12182,
-    "scoresAfter": 12195,
-    "fullBaselineRequests": 3214,
-    "requestReductionPercent": 99.53329184816428,
+    "participantsWithNewScores": 15,
+    "changedParticipants": 14,
+    "logicalRequests": 18,
+    "durationMs": 17783,
+    "scoresBefore": 12195,
+    "scoresAfter": 12210,
+    "fullBaselineRequests": 3217,
+    "requestReductionPercent": 99.44047248989743,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -84,109 +84,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "симплекс",
+          "comment": "Авансом 4 с огромным минусом, строчки интересные есть, слегка завернул ты их, ну или точнее натянул их, первая половина (но без окси) понравилась, а дальше будто текст ради текста. Давай не ленись, и делай панчи, задаток какой-то есть, про пещеру и горстку нормасно сказал. Ну и рифмы такие не позволяй себе. В следующем раунде покажи свой максимум перед парными ",
+          "scoredAt": "2026-10-17T09:11:21.235Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Боргес (33)",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:10:52.690Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "СЕРВАК",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:09:58.972Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Дефекты речи",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:08:27.362Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Dronov",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:06:52.067Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Kitcher.k",
+          "comment": "Немного кривовато читаешь, много суеты.",
+          "scoredAt": "2026-10-17T09:06:19.655Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Хьюи",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T09:05:47.312Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "STFFN",
+          "comment": "Не дожал по тексту свой сторител немного.",
+          "scoredAt": "2026-10-17T09:05:36.518Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "karrat",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:04:18.395Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "NVAN",
+          "comment": "Тебе нужно поработать над формой текста. По мысли всё хорошо, а вот по изложению не очень.",
+          "scoredAt": "2026-10-17T09:04:12.822Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Двигаюсь иначе",
+          "comment": "Авансом четыре с минусом , попытки в панчики есть, полуразнообразие какое-то дал, но приятно на этот бит звучишь, раскрытие сойдёт, но звёзд с неба не хватает. Давай строчки по закрученее, потанцевал чувствуется",
+          "scoredAt": "2026-10-17T09:03:40.775Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "E45",
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T09:03:31.092Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "ЭВИЛ БЕРТИ",
+          "comment": "",
+          "scoredAt": "2026-10-17T09:02:35.180Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "DaLadno",
+          "comment": "Твой текст напомнил мне легендарные фразочки из мема: \"Смотря какой fabric, смотря сколько details\". ",
+          "scoredAt": "2026-10-17T09:02:18.121Z"
+        },
+        {
           "judgeName": "AL Hammer",
           "score": 3,
           "artist": "YVNLTRIP",
           "comment": "",
           "scoredAt": "2026-10-17T09:01:05.910Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "GENRIXXX",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T09:00:13.745Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Гладкий",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:59:38.253Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "brooxwood",
-          "comment": "Текст не понравился, особенно рифмовка. Зачитал неплохо. В следующем раунде нужно еще добавить к этому хороший тексток и можно побороться.",
-          "scoredAt": "2026-10-17T08:59:25.509Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Двигаюсь иначе",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:58:13.996Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Кинсай",
-          "comment": "Блин, ну классно лежишь на бите, рифмы некоторые конечно капец... Текст пустой, целая минута у тебя была ( мне нравится как звучит , тему как-никак затронул. Давай пэнчиков добавляй, впереди же самый смак - парные раунды а строк не показал нам тут хлёсткий.. Лови проходной, но не выше, не за что зацепиться чтоб поставить выше",
-          "scoredAt": "2026-10-17T08:57:52.996Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "Mrmris",
-          "comment": "По исполнению сделал хорошо, необычно. Текстово просел, однокоренные рифмы, простенькие мысли изложил.",
-          "scoredAt": "2026-10-17T08:57:43.465Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Tipsyxgipsy",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:56:29.967Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "soldi",
-          "comment": "Текст обо всём и ни о чём получился. Но звучит неплохо.",
-          "scoredAt": "2026-10-17T08:55:23.592Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Xakas",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:55:14.640Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "горилла манго",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:53:48.667Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "Dobromyslov",
-          "comment": "Приятно звучит, дефолтный рэп, голос у тебя хороший, текст пустой рэп ради рэпа , тебе бы строчек крутых/панчлайнов.. Разнообразия нет, а мог бы на изи 4 забрать, а если бы пару строк интересных, крутых дал то еще и 5ку",
-          "scoredAt": "2026-10-17T08:53:02.086Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "Артист",
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T08:52:44.484Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Screw Skeng",
-          "comment": "",
-          "scoredAt": "2026-10-17T08:51:23.851Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Shiko",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T08:50:29.995Z"
         }
       ]
     }

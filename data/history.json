@@ -128970,6 +128970,216 @@
         "scoredAt": "2026-10-17T08:59:25.509Z",
         "userId": "5ab336de-4472-4311-80b7-ac5d61a40b7c"
       }
+    },
+    {
+      "id": "f4032d088388f9dbd0a0209ac499a1b250db378cf90d04e0a0220e6a5dd412e3",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:11:21.235Z",
+      "key": "[\"503435c9-43db-46a0-8faa-45129f07f9c2\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Авансом 4 с огромным минусом, строчки интересные есть, слегка завернул ты их, ну или точнее натянул их, первая половина (но без окси) понравилась, а дальше будто текст ради текста. Давай не ленись, и делай панчи, задаток какой-то есть, про пещеру и горстку нормасно сказал. Ну и рифмы такие не позволяй себе. В следующем раунде покажи свой максимум перед парными ",
+        "scoredAt": "2026-10-17T09:11:21.235Z",
+        "userId": "503435c9-43db-46a0-8faa-45129f07f9c2"
+      }
+    },
+    {
+      "id": "3fa07c075c4bb12b0cfc826206c673921305b71d777988c58dc07d0e367dafc8",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:10:52.690Z",
+      "key": "[\"f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:10:52.690Z",
+        "userId": "f42d4ab4-48d0-4214-b2ec-b0b5d5e96f1d"
+      }
+    },
+    {
+      "id": "11277c6bde3e279d19095ba40ad5c9d4fb432dc30f45a6d0d1b95d00db358e8d",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:09:58.972Z",
+      "key": "[\"97c26824-a1df-4514-97e5-b74bde0118d1\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:09:58.972Z",
+        "userId": "97c26824-a1df-4514-97e5-b74bde0118d1"
+      }
+    },
+    {
+      "id": "7f29336b83597ef8b0c45b02676139a48d9fdc0954ff6eec0acf43ccd7375907",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:05:47.312Z",
+      "key": "[\"c11abc53-9643-43c9-87a2-e7481cedfd6b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:05:47.312Z",
+        "userId": "c11abc53-9643-43c9-87a2-e7481cedfd6b"
+      }
+    },
+    {
+      "id": "4bc0c0bc9af86abcecea4aaf6b3eb3d7b9a63b2f5dcc7166d739ec5eb3afc506",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:06:19.655Z",
+      "key": "[\"9cfa5170-043b-49e6-9518-1c67303a34d7\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Немного кривовато читаешь, много суеты.",
+        "scoredAt": "2026-10-17T09:06:19.655Z",
+        "userId": "9cfa5170-043b-49e6-9518-1c67303a34d7"
+      }
+    },
+    {
+      "id": "df5a888bcc81d366a11d7ed4a85ace4985ec469ba2b78482ca6a1e54fe06b4da",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:06:52.067Z",
+      "key": "[\"2c356f2b-d7a6-474f-ad58-32b117ad0cdb\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-17T09:06:52.067Z",
+        "userId": "2c356f2b-d7a6-474f-ad58-32b117ad0cdb"
+      }
+    },
+    {
+      "id": "7c67b6143657b5d5160e6f9f4ac36388a5db4a1e8d548384773484241d668369",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:05:36.518Z",
+      "key": "[\"8fe37b2f-dcf5-4c76-9e05-34c4cf3f8dd7\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Не дожал по тексту свой сторител немного.",
+        "scoredAt": "2026-10-17T09:05:36.518Z",
+        "userId": "8fe37b2f-dcf5-4c76-9e05-34c4cf3f8dd7"
+      }
+    },
+    {
+      "id": "cb5e8488dd1e462e871dae39d6df8b65c5874e36af73e4bb4b5e437f142afc75",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:02:35.180Z",
+      "key": "[\"a6256fb3-6dfe-4a52-a694-35f7b5940834\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:02:35.180Z",
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834"
+      }
+    },
+    {
+      "id": "9b6aad06e62151e7e758c1f4d5c7f8657992294e8f7e49f2651e89766a208ee3",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:04:18.395Z",
+      "key": "[\"94a56fcb-020b-477c-9973-b97aa7fe79cd\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-17T09:04:18.395Z",
+        "userId": "94a56fcb-020b-477c-9973-b97aa7fe79cd"
+      }
+    },
+    {
+      "id": "0313dc160430c3d5b4ec5ce2907de38b38deff0fd368efee4facfce26146d78a",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:03:31.092Z",
+      "key": "[\"0d6d8d02-d158-4073-9efd-a38c06f5464b\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:03:31.092Z",
+        "userId": "0d6d8d02-d158-4073-9efd-a38c06f5464b"
+      }
+    },
+    {
+      "id": "771b54f8735ed9d9d0dcd68e3d9c3f74afafa0bfd239bd79a119ad12d921ceda",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:11:47.578Z",
+      "key": "[\"0268bae1-7b50-4b59-a4f9-6eebc7992144\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 2,
+        "comment": "Хороший фристайл, ДА!",
+        "scoredAt": "2026-10-17T09:11:47.578Z",
+        "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144"
+      }
+    },
+    {
+      "id": "f0fad5936e82a5c06b117d834312f08b4bbbb812bfc3210842c94d4616f28d34",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:03:40.775Z",
+      "key": "[\"819bf872-7424-44c2-86fd-d184519c05ba\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Авансом четыре с минусом , попытки в панчики есть, полуразнообразие какое-то дал, но приятно на этот бит звучишь, раскрытие сойдёт, но звёзд с неба не хватает. Давай строчки по закрученее, потанцевал чувствуется",
+        "scoredAt": "2026-10-17T09:03:40.775Z",
+        "userId": "819bf872-7424-44c2-86fd-d184519c05ba"
+      }
+    },
+    {
+      "id": "965f49bbcc489b2368b61c513dfa61dd6522f11fda66c0adacc9b9a7781a58cc",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:08:27.362Z",
+      "key": "[\"9a6e758b-654b-41b6-ba45-6362af477ca7\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом",
+        "scoredAt": "2026-10-17T09:08:27.362Z",
+        "userId": "9a6e758b-654b-41b6-ba45-6362af477ca7"
+      }
+    },
+    {
+      "id": "90234e5d128cb3b29a5b42c1a29277e76852ee01a24dac9b841da2b757c5e39c",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:02:18.121Z",
+      "key": "[\"e945940c-827a-4c9c-bca8-345a7f61a74b\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Твой текст напомнил мне легендарные фразочки из мема: \"Смотря какой fabric, смотря сколько details\". ",
+        "scoredAt": "2026-10-17T09:02:18.121Z",
+        "userId": "e945940c-827a-4c9c-bca8-345a7f61a74b"
+      }
+    },
+    {
+      "id": "e0677df0edbd2a0a414d8c850d41fd4ad3a0aaae8c8dcfdd95a164f5158152ef",
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "sourceScoredAt": "2026-10-17T09:04:12.822Z",
+      "key": "[\"cfe99b72-a434-4b40-868f-42cadffc6422\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Тебе нужно поработать над формой текста. По мысли всё хорошо, а вот по изложению не очень.",
+        "scoredAt": "2026-10-17T09:04:12.822Z",
+        "userId": "cfe99b72-a434-4b40-868f-42cadffc6422"
+      }
     }
   ],
   "snapshots": [
@@ -136189,6 +136399,26 @@
           "index": 29.015303874481653,
           "favor": 18.025973425230994,
           "attention": 0.0009583562273987657,
+          "respect": 10.988372093023257
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-17T09:12:06.133Z",
+      "exportedAt": "2026-10-17T09:12:06.133Z",
+      "scores": 12210,
+      "selectionVersion": "a457235c12f54fdb7887fd80eadc2552bf9b5f7e16d4b6b89995b947314c617c",
+      "indices": {
+        "forum": {
+          "index": 22.014417020252832,
+          "favor": 9.249894362988103,
+          "attention": 6.171116063858136,
+          "respect": 6.593406593406593
+        },
+        "veterans": {
+          "index": 29.0319112188418,
+          "favor": 18.023429063126223,
+          "attention": 0.020110062692322427,
           "respect": 10.988372093023257
         }
       }
