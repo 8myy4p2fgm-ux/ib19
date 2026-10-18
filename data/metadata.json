@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T09:22:13.863Z",
-  "exportedAt": "2026-10-18T09:22:13.863Z",
-  "runId": "2026-10-18T09:22:13.863Z",
-  "forumExportedAt": "2026-10-18T09:22:13.863Z",
+  "lastSuccessfulAt": "2026-10-18T09:31:59.721Z",
+  "exportedAt": "2026-10-18T09:31:59.721Z",
+  "runId": "2026-10-18T09:31:59.721Z",
+  "forumExportedAt": "2026-10-18T09:31:59.721Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13427,
+    "scores": 13433,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,11 +32,11 @@
     "participantsWithNewScores": 6,
     "changedParticipants": 6,
     "logicalRequests": 8,
-    "durationMs": 8295,
-    "scoresBefore": 13421,
-    "scoresAfter": 13427,
-    "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.75407316323394,
+    "durationMs": 7973,
+    "scoresBefore": 13427,
+    "scoresAfter": 13433,
+    "fullBaselineRequests": 3254,
+    "requestReductionPercent": 99.7541487400123,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "hronofob",
+          "comment": "Уныло и серо, рифма теряется",
+          "scoredAt": "2026-10-18T09:29:58.119Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Мц На три буквы",
+          "comment": "Спасибо богу!!! Простой рэпчик. ",
+          "scoredAt": "2026-10-18T09:29:40.350Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "HOLOD MORGA",
+          "comment": "Строчки про русалку, крокодил, осиновый дилдо вполне себе. Остальное обзывашки - и забавно, когда на околомодном исполнении люди читают \"колготочные чуханы их ложки ёпта с дырками\", сразу понятно, что человек \"из народа\", как ни хотел бы казаться модником. Но трек сумел свой интересно построить + для меня важен финал истории, а его все же смог ярким сделать. Поставлю-ка я не три, а 4, а то вдруг там для прохода одного балла не хватит. ",
+          "scoredAt": "2026-10-18T09:29:01.926Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "крутая минусовка для репа",
+          "comment": "Панчи на высоте! Интересно что во втором найдешь им применение в хорошем тексте.",
+          "scoredAt": "2026-10-18T09:28:39.428Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Стэнд",
+          "comment": "Неуверенно на бите звучишь, зря кривляешься. По тексту все очень просто. Машем мамашам!",
+          "scoredAt": "2026-10-18T09:27:19.619Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Prolife",
+          "comment": "Ровно исполняешь. Припев годный. По тексту ничего интересного. ",
+          "scoredAt": "2026-10-18T09:26:16.090Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -147,48 +189,6 @@
           "artist": "XXFeuer",
           "comment": "Тяжело слушаются квадраты такие, однообразие и рифма банальная совсем в 2026. По сути и не сказал ничего важного - что цитировать-то? ",
           "scoredAt": "2026-10-18T09:07:18.524Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Грязный грим",
-          "comment": "Скучный и простой рэпчик. Зачитал ровно. Слушал и почуствовал себя шакалом.",
-          "scoredAt": "2026-10-18T09:06:49.904Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Рома Chelsea",
-          "comment": "Читаешь неуверенно. По тексту ничего интересного.",
-          "scoredAt": "2026-10-18T09:05:41.519Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Rob Stillz",
-          "comment": "Бодренько, и рада что индустрия не настолько заебала (с) чтоб трек не сдать сюда хех ",
-          "scoredAt": "2026-10-18T09:05:09.639Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 5,
-          "artist": "Lil Paper",
-          "comment": "Прэк братуха, стопудняк прэк! Угарно! Звучишь как виртуал лсп который типа атланту тайп пел. В любом случае я повеселился и хоче поставить тебе 5",
-          "scoredAt": "2026-10-18T09:04:18.122Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "purplxpunk",
-          "comment": "ты рэб читаешь, как будто очень не внятный хаски",
-          "scoredAt": "2026-10-18T09:02:39.970Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "юRAPчёл [Mult Company]",
-          "comment": "Простой и наивный рэпак. Для второго раунда рановато.",
-          "scoredAt": "2026-10-18T09:02:24.567Z"
         }
       ]
     }
