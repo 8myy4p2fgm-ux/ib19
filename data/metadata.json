@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T07:52:01.231Z",
-  "exportedAt": "2026-10-18T07:52:01.231Z",
-  "runId": "2026-10-18T07:52:01.231Z",
-  "forumExportedAt": "2026-10-18T07:52:01.231Z",
+  "lastSuccessfulAt": "2026-10-18T08:22:01.215Z",
+  "exportedAt": "2026-10-18T08:22:01.215Z",
+  "runId": "2026-10-18T08:22:01.215Z",
+  "forumExportedAt": "2026-10-18T08:22:01.215Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13382,
+    "scores": 13384,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1698,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3682,
     "scoresBefore": 13382,
-    "scoresAfter": 13382,
+    "scoresAfter": 13384,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.93851829080849,
+    "requestReductionPercent": 99.87703658161698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Handle",
+          "comment": "Ну ты и романтик, брат... Очень скучный трэк. По тексту очень просто. ",
+          "scoredAt": "2026-10-18T08:20:57.266Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Просто ПроМо",
+          "comment": "Это ебать как качает. По ритмике хорошо работает, на моменте \"крутится шар, как барабан\" меня разъебало мощно. Звук отличный, саунд диайн, биток в тему. Ставлю вышку, НО! Братуха добавляй по тексту. Отбор можно забрать только подачей, но в парные попасть будет сложнее. ",
+          "scoredAt": "2026-10-18T08:17:59.761Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -175,20 +189,6 @@
           "artist": "land of hope",
           "comment": "Слушать нормик, но это на разок, ибо ничего такого не открывается, клишейно. ",
           "scoredAt": "2026-10-18T06:42:22.785Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "SVAMI",
-          "comment": "Зачитал ровно, но по тексту все очень просто, без интересных моментов.",
-          "scoredAt": "2026-10-18T05:30:18.350Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Lucky_Jazz",
-          "comment": "Несешь здравую мысль, хоть и очень простую. По технике исполнения и написания текста все простенько. Поставлю тройку, но это аванс.",
-          "scoredAt": "2026-10-18T05:29:13.556Z"
         }
       ]
     }

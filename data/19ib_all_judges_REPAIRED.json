@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T07:52:01.231Z",
+  "exportedAt": "2026-10-18T08:22:01.215Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -58132,8 +58132,14 @@
     },
     {
       "userId": "43e27be2-fc63-4d58-8740-7b5e7a20bdb9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Это ебать как качает. По ритмике хорошо работает, на моменте \"крутится шар, как барабан\" меня разъебало мощно. Звук отличный, саунд диайн, биток в тему. Ставлю вышку, НО! Братуха добавляй по тексту. Отбор можно забрать только подачей, но в парные попасть будет сложнее. ",
+          "scoredAt": "2026-10-18T08:17:59.761Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -58147,7 +58153,7 @@
           "scoredAt": "2026-10-17T15:10:08.899Z"
         }
       ],
-      "fetchedAt": "2026-10-18T01:42:08.261Z",
+      "fetchedAt": "2026-10-18T08:22:01.215Z",
       "current": true,
       "artistName": "Просто ПроМо",
       "artistSlug": "prosto-promo"
@@ -86780,8 +86786,14 @@
     },
     {
       "userId": "2810ada4-2d77-43e3-a0e9-2042fc865e4d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Ну ты и романтик, брат... Очень скучный трэк. По тексту очень просто. ",
+          "scoredAt": "2026-10-18T08:20:57.266Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 1,
@@ -86795,7 +86807,7 @@
           "scoredAt": "2026-10-12T12:49:20.739Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:22:32.827Z",
+      "fetchedAt": "2026-10-18T08:22:01.215Z",
       "current": true,
       "artistName": "Handle",
       "artistSlug": "handle"
