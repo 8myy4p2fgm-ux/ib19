@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T00:42:02.042Z",
+  "exportedAt": "2026-10-18T00:52:03.448Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -53880,8 +53880,14 @@
     },
     {
       "userId": "395fa76b-34cf-4172-9908-8131d2820055",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Лениво и сдержанно как-то, словно спустя рукава делал. Не хватило разнообразия и фишечек в звучании, в моментах прям напрашивалось. Чуть больше работы с текстом, вроде способен.",
+          "scoredAt": "2026-10-18T00:48:14.945Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -53907,7 +53913,7 @@
           "scoredAt": "2026-09-29T11:29:54.607Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:02:15.893Z",
+      "fetchedAt": "2026-10-18T00:52:03.448Z",
       "current": true,
       "artistName": "soldi",
       "artistSlug": "soldi"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T00:42:02.042Z",
-  "exportedAt": "2026-10-18T00:42:02.042Z",
-  "runId": "2026-10-18T00:42:02.042Z",
-  "forumExportedAt": "2026-10-18T00:42:02.042Z",
+  "lastSuccessfulAt": "2026-10-18T00:52:03.448Z",
+  "exportedAt": "2026-10-18T00:52:03.448Z",
+  "runId": "2026-10-18T00:52:03.448Z",
+  "forumExportedAt": "2026-10-18T00:52:03.448Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13263,
+    "scores": 13264,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 1720,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2940,
     "scoresBefore": 13263,
-    "scoresAfter": 13263,
+    "scoresAfter": 13264,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.93844259772237,
+    "requestReductionPercent": 99.90766389658357,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "soldi",
+          "comment": "Лениво и сдержанно как-то, словно спустя рукава делал. Не хватило разнообразия и фишечек в звучании, в моментах прям напрашивалось. Чуть больше работы с текстом, вроде способен.",
+          "scoredAt": "2026-10-18T00:48:14.945Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -182,13 +189,6 @@
           "artist": "Терраксом",
           "comment": "Лютый флоу нужно прокачивать ещё ",
           "scoredAt": "2026-10-17T20:04:40.766Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 1,
-          "artist": "Мсье Кучер",
-          "comment": "Текстовик ",
-          "scoredAt": "2026-10-17T20:03:32.065Z"
         }
       ]
     }
