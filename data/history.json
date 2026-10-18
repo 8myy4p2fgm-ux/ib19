@@ -145440,6 +145440,62 @@
         "scoredAt": "2026-10-18T05:09:52.428Z",
         "userId": "544df16c-7ef3-4c16-b63f-f26198e95904"
       }
+    },
+    {
+      "id": "f1a2538ab8e513f0f1ad95d618e8a2cd56bc0e3f5b4439008627c2a96613b57b",
+      "observedAt": "2026-10-18T05:22:03.201Z",
+      "sourceScoredAt": "2026-10-18T05:15:14.616Z",
+      "key": "[\"14ed37a6-f69a-4574-9bc0-6aa2aeb9e7ce\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Что тебе плохого сделали дайверы? Ну братка, это очень просто и даже скучновато.",
+        "scoredAt": "2026-10-18T05:15:14.616Z",
+        "userId": "14ed37a6-f69a-4574-9bc0-6aa2aeb9e7ce"
+      }
+    },
+    {
+      "id": "da5cc564f4a98e5ecf4489259dfd652a9998a331120aa8eb98ec136d23d727b3",
+      "observedAt": "2026-10-18T05:22:03.201Z",
+      "sourceScoredAt": "2026-10-18T05:13:44.152Z",
+      "key": "[\"9220a9de-1309-45d8-acd6-3e19bbe650ac\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень просто и навино, братка. Даже текста всего на половину трека.",
+        "scoredAt": "2026-10-18T05:13:44.152Z",
+        "userId": "9220a9de-1309-45d8-acd6-3e19bbe650ac"
+      }
+    },
+    {
+      "id": "3ef6ed250389141a963ba50b899ca5a93a05f24887f7f16e31f1898e96586664",
+      "observedAt": "2026-10-18T05:22:03.201Z",
+      "sourceScoredAt": "2026-10-18T05:21:25.608Z",
+      "key": "[\"4d50a36a-d60b-468d-9c36-115e0aea67f2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Припев попортил впечатление. Искренняя история, но по тексту и исполнению все просто.",
+        "scoredAt": "2026-10-18T05:21:25.608Z",
+        "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2"
+      }
+    },
+    {
+      "id": "cf8ea2553c1943837b1a4d7f53361a3a787e0df71115b3f8ef012eebb3a909c4",
+      "observedAt": "2026-10-18T05:22:03.201Z",
+      "sourceScoredAt": "2026-10-18T05:12:42.475Z",
+      "key": "[\"52623f7c-28b7-49ad-9204-7c64dc655cee\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Ну про коробку очень сильная строчка, молодец. Вообще за такое раскрытие не ставлю пятерку, но ты меня убедил. ",
+        "scoredAt": "2026-10-18T05:12:42.475Z",
+        "userId": "52623f7c-28b7-49ad-9204-7c64dc655cee"
+      }
     }
   ],
   "snapshots": [
@@ -154559,6 +154615,26 @@
           "index": 29.852618052204104,
           "favor": 17.772132331938774,
           "attention": 1.358263498043108,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T05:22:03.201Z",
+      "exportedAt": "2026-10-18T05:22:03.201Z",
+      "scores": 13365,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 22.001469826631425,
+          "favor": 9.286750431493475,
+          "attention": 6.244648972602739,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.86119228216492,
+          "favor": 17.773242630385482,
+          "attention": 1.3657274295572168,
           "respect": 10.722222222222221
         }
       }

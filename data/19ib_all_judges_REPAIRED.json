@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T05:12:00.198Z",
+  "exportedAt": "2026-10-18T05:22:03.201Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -18612,8 +18612,14 @@
     },
     {
       "userId": "14ed37a6-f69a-4574-9bc0-6aa2aeb9e7ce",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Что тебе плохого сделали дайверы? Ну братка, это очень просто и даже скучновато.",
+          "scoredAt": "2026-10-18T05:15:14.616Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -18633,7 +18639,7 @@
           "scoredAt": "2026-09-24T15:26:13.251Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T05:22:03.201Z",
       "current": true,
       "artistName": "Мутный Рассудок",
       "artistSlug": "mutnyy-rassudok"
@@ -62084,8 +62090,14 @@
     },
     {
       "userId": "9220a9de-1309-45d8-acd6-3e19bbe650ac",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень просто и навино, братка. Даже текста всего на половину трека.",
+          "scoredAt": "2026-10-18T05:13:44.152Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -62093,7 +62105,7 @@
           "scoredAt": "2026-10-16T06:09:28.835Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:12:23.989Z",
+      "fetchedAt": "2026-10-18T05:22:03.201Z",
       "current": true,
       "artistName": "NPC",
       "artistSlug": "npc"
@@ -92716,8 +92728,14 @@
     },
     {
       "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Припев попортил впечатление. Искренняя история, но по тексту и исполнению все просто.",
+          "scoredAt": "2026-10-18T05:21:25.608Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -92725,7 +92743,7 @@
           "scoredAt": "2026-10-16T16:49:23.620Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:52:39.670Z",
+      "fetchedAt": "2026-10-18T05:22:03.201Z",
       "current": true,
       "artistName": "Купэт",
       "artistSlug": "kupet"
@@ -94804,8 +94822,14 @@
     },
     {
       "userId": "52623f7c-28b7-49ad-9204-7c64dc655cee",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Ну про коробку очень сильная строчка, молодец. Вообще за такое раскрытие не ставлю пятерку, но ты меня убедил. ",
+          "scoredAt": "2026-10-18T05:12:42.475Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -94819,7 +94843,7 @@
           "scoredAt": "2026-10-06T15:45:35.231Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:12:20.288Z",
+      "fetchedAt": "2026-10-18T05:22:03.201Z",
       "current": true,
       "artistName": "Витя Шихан",
       "artistSlug": "vitya-shihan"
