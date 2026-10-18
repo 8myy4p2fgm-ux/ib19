@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T09:12:09.913Z",
-  "exportedAt": "2026-10-18T09:12:09.913Z",
-  "runId": "2026-10-18T09:12:09.913Z",
-  "forumExportedAt": "2026-10-18T09:12:09.913Z",
+  "lastSuccessfulAt": "2026-10-18T09:22:13.863Z",
+  "exportedAt": "2026-10-18T09:22:13.863Z",
+  "runId": "2026-10-18T09:22:13.863Z",
+  "forumExportedAt": "2026-10-18T09:22:13.863Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13421,
+    "scores": 13427,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 10890,
-    "scoresBefore": 13412,
-    "scoresAfter": 13421,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8295,
+    "scoresBefore": 13421,
+    "scoresAfter": 13427,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.66185059944667,
+    "requestReductionPercent": 99.75407316323394,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Hastla",
+          "comment": "Земляк. Пока рано тебе во второй. Очень просто и наивно. Читай побольше, со временем будешь увереннее себя чувствовать на битах.",
+          "scoredAt": "2026-10-18T09:20:53.099Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "Пахарь-Трахарь",
+          "comment": "Тему раскрыл? Раскрыл. Внимание удерживается слушательское до конца трека? Удерживается. Опыт ощущается? Ощущается. Исполнено на стильке, достойно. \n\nТебе подберём другую под сумочку (с) хоть и знаю, что вранье, но за Полкана так обидно стало. ",
+          "scoredAt": "2026-10-18T09:20:33.398Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "VZRYVNOY",
+          "comment": "Ну биток ебать какой мощный. Подаешь интересно, но по тексту пусто.",
+          "scoredAt": "2026-10-18T09:18:43.063Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "artist": "Раххбельд",
+          "comment": "BEST! Если ты на серьезных щах так делаешь, то пока еще рано во второй.",
+          "scoredAt": "2026-10-18T09:17:49.698Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "MOZG",
+          "comment": "Да все хорошо тут, с юмором, про актуалочку почитал энергично. Опыт не спрятать. Рада видеть. ",
+          "scoredAt": "2026-10-18T09:15:23.942Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "антон зацепер",
+          "comment": "признан кем-то там чем-то там (с) Я повеселилась, один из тех редких случаев, когда полуфристайл выглядит эффектно. Панчики хорошие и для широкого зрителя, и для погруженных. Могаешь, короч",
+          "scoredAt": "2026-10-18T09:13:16.658Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "юRAPчёл [Mult Company]",
           "comment": "Простой и наивный рэпак. Для второго раунда рановато.",
           "scoredAt": "2026-10-18T09:02:24.567Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Mr. Nobody",
-          "comment": "Работай над ритмикой и эмоцией. ",
-          "scoredAt": "2026-10-18T09:01:54.263Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Mazer Осипов",
-          "comment": "Уверенно, средне. Не хватило какого-то твиста, прэка.",
-          "scoredAt": "2026-10-18T09:00:59.963Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Дед Кондратий",
-          "comment": "Хахаха, угарно.",
-          "scoredAt": "2026-10-18T08:59:45.444Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "К2.8",
-          "comment": "Нормально валишь бро! В техт бы каких то крутых, осмысленных баров бы.",
-          "scoredAt": "2026-10-18T08:58:44.755Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Ga-Rage",
-          "comment": "Сын Стима? Понравилось, как навалил - и по подаче, и по тексту, и по заложенному смыслу. ",
-          "scoredAt": "2026-10-18T08:58:25.332Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Street Ace",
-          "comment": "Нормально звучишь. Но брат какие практики-акробатики. Такие моменты сильно ударили по впечатлению.",
-          "scoredAt": "2026-10-18T08:57:18.042Z"
         }
       ]
     }
