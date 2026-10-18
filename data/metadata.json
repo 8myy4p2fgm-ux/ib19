@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T22:12:08.420Z",
-  "exportedAt": "2026-10-18T22:12:08.420Z",
-  "runId": "2026-10-18T22:12:08.420Z",
-  "forumExportedAt": "2026-10-18T22:12:08.420Z",
+  "lastSuccessfulAt": "2026-10-18T22:22:04.126Z",
+  "exportedAt": "2026-10-18T22:22:04.126Z",
+  "runId": "2026-10-18T22:22:04.126Z",
+  "forumExportedAt": "2026-10-18T22:22:04.126Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13851,
+    "scores": 13854,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4624,
-    "scoresBefore": 13849,
-    "scoresAfter": 13851,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4799,
+    "scoresBefore": 13851,
+    "scoresAfter": 13854,
     "fullBaselineRequests": 3259,
-    "requestReductionPercent": 99.87726296409943,
+    "requestReductionPercent": 99.84657870512427,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "MANAGER",
+          "comment": "Очень бодрая подача и голос, но эти читки по слогам совсем утомили под конец. Зачем растягивать их на весь трэк? Не стоило столько времени посвящать этому элементу. Авансирую четвёркой, но не повтори эту ошибку во втором раунде.",
+          "scoredAt": "2026-10-18T22:21:02.797Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Moymirok",
+          "comment": "Если честно, то фоновые бэк-вокалы иногда сильно приятнее, чем основной хрипловатый флоу. Самый скучный завершающий квадрат трэка не на своём месте, чуть подубил вайбик – выходить из песни нужно запоминающимся, динамичным и ярким элементом.",
+          "scoredAt": "2026-10-18T22:17:41.210Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Октябрь",
+          "comment": "Некий рассказческий рэп, сиречь – спич. Сложно оценивать как подачу. Лично для меня – это что-то не то. Хотя текст на рифмы не беден. Вокал совсем не получился, лишний элемент. ",
+          "scoredAt": "2026-10-18T22:12:28.664Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -168,27 +189,6 @@
           "artist": "Вова Против",
           "comment": "Ну чисто на послушать можно, бодренько. В основном, за это тройбан. Очень квадратно по рифме.",
           "scoredAt": "2026-10-18T20:43:56.852Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "НеЩиплетГлазки",
-          "comment": "Ты уже почти готов, но еще нет. Остороты не хватает и уверенности МСшной. Есть прикольных пару панчей - про трудовую рэп-книжку например или про пальцы ног. За хук завершающий произведение и его логичность я даже проходной балл поставлю, но хватит ли этого, чтобы тебе протиснуться во второй? ",
-          "scoredAt": "2026-10-18T20:43:03.780Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Tomили Jerry",
-          "comment": "Можно было дотягивать рифму и ритмику. При том именно к концу в квадраты скатился местами",
-          "scoredAt": "2026-10-18T20:40:31.437Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "павук [ЛЮДСКОЕ]",
-          "comment": "О, по ОВ одна из самых сильных женских работ, что я слышала в этом раунде. На спокойной подаче, не торопливо, показать что можешь - и пройти во 2. ",
-          "scoredAt": "2026-10-18T20:38:35.194Z"
         }
       ]
     }
