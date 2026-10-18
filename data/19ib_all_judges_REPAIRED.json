@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T20:32:05.209Z",
+  "exportedAt": "2026-10-18T20:42:12.626Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -18417,8 +18417,14 @@
     },
     {
       "userId": "7c27b328-729d-4490-a5ec-2651bbbc6b61",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Можно было дотягивать рифму и ритмику. При том именно к концу в квадраты скатился местами",
+          "scoredAt": "2026-10-18T20:40:31.437Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -18444,7 +18450,7 @@
           "scoredAt": "2026-09-27T09:25:23.756Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:02:27.839Z",
+      "fetchedAt": "2026-10-18T20:42:12.626Z",
       "current": true,
       "artistName": "Tomили Jerry",
       "artistSlug": "tomili-jerry"
@@ -72482,8 +72488,14 @@
     },
     {
       "userId": "b5593ba9-b548-4583-97f6-f8aa1bb170e6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Бодренько. Панчи муторные какие-то и имеются вопросы к тому, сколь это в рамках одной канвы, а сколь набором попахивает. Рифмы порой околоквадратны, порой слабосозвучны. Припев чушь, конечно, та ещё, при этом максимально квадратная.",
+          "scoredAt": "2026-10-18T20:36:26.407Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -72503,7 +72515,7 @@
           "scoredAt": "2026-10-11T10:54:00.788Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:42:23.878Z",
+      "fetchedAt": "2026-10-18T20:42:12.626Z",
       "current": true,
       "artistName": "led sgorel",
       "artistSlug": "led-sgorel"
@@ -87818,8 +87830,14 @@
     },
     {
       "userId": "728df404-827c-4391-ad1b-2035b3322266",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "О, по ОВ одна из самых сильных женских работ, что я слышала в этом раунде. На спокойной подаче, не торопливо, показать что можешь - и пройти во 2. ",
+          "scoredAt": "2026-10-18T20:38:35.194Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -87839,7 +87857,7 @@
           "scoredAt": "2026-10-14T14:38:04.846Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:52:19.201Z",
+      "fetchedAt": "2026-10-18T20:42:12.626Z",
       "current": true,
       "artistName": "павук [ЛЮДСКОЕ]",
       "artistSlug": "pavuk-lyudskoe"
