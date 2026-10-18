@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T23:31:55.569Z",
-  "exportedAt": "2026-10-18T23:31:55.569Z",
-  "runId": "2026-10-18T23:31:55.569Z",
-  "forumExportedAt": "2026-10-18T23:31:55.569Z",
+  "lastSuccessfulAt": "2026-10-18T23:42:07.411Z",
+  "exportedAt": "2026-10-18T23:42:07.411Z",
+  "runId": "2026-10-18T23:42:07.411Z",
+  "forumExportedAt": "2026-10-18T23:42:07.411Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13876,
+    "scores": 13879,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 2884,
-    "scoresBefore": 13875,
-    "scoresAfter": 13876,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5553,
+    "scoresBefore": 13876,
+    "scoresAfter": 13879,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.9079754601227,
+    "requestReductionPercent": 99.84662576687117,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Юрий Милославский",
+          "comment": "Интересный текст, но читка очень суетливая, с промашками. Авансирую четвёркой, чтобы компенсировать двойку от другого судьи. Хотелось бы, чтобы ты попытал удачу во втором, учтя недочёты данной песни.",
+          "scoredAt": "2026-10-18T23:38:38.604Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "ЧИЛИКЛИНТОН",
+          "comment": "Насытил рифмовками, но читка и качество меня опечалили.",
+          "scoredAt": "2026-10-18T23:35:45.082Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "TCELYA",
+          "comment": "Ай, хорошо! Шикарный панч про каналы. Ещё б качество не всратое. Любишь писаться на диктофон, походу.",
+          "scoredAt": "2026-10-18T23:33:46.306Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -168,27 +189,6 @@
           "artist": "АВТОР ВРЁТ",
           "comment": "Очень угрюмо. Подгрузило. Не понравилось.",
           "scoredAt": "2026-10-18T22:53:40.707Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Женечка Мелкая",
-          "comment": "Очень медленно, квадратно и просто по исполнению. Вокал немножко поистязал мои ушки. Троишная работа.",
-          "scoredAt": "2026-10-18T22:50:04.955Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Два в парадный",
-          "comment": "Читка на уровне никакущей. Запись на студии точно не спасла бы. Спасибо за сопереживание судьям, хоть и сам поссал нам в уши.",
-          "scoredAt": "2026-10-18T22:47:09.355Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Догор",
-          "comment": "Не люблю подобную крикливость. Не сказал бы, что вы синхронизировались с гитарой: твой надрыв сильно вылезает вперёд. Голосую пятым, видя, что баллов для прохода тебе будет достаточно с моей тройкой. Достоин идти дальше, но давай как-то поспокойнее.",
-          "scoredAt": "2026-10-18T22:44:27.159Z"
         }
       ]
     }

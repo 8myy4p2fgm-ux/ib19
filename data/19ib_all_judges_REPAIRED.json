@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T23:31:55.569Z",
+  "exportedAt": "2026-10-18T23:42:07.411Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -15135,8 +15135,14 @@
     },
     {
       "userId": "f2fd1cc7-b83b-4f5f-a760-699917e01cdc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Интересный текст, но читка очень суетливая, с промашками. Авансирую четвёркой, чтобы компенсировать двойку от другого судьи. Хотелось бы, чтобы ты попытал удачу во втором, учтя недочёты данной песни.",
+          "scoredAt": "2026-10-18T23:38:38.604Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -15156,7 +15162,7 @@
           "scoredAt": "2026-10-07T19:04:14.415Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:02:17.851Z",
+      "fetchedAt": "2026-10-18T23:42:07.411Z",
       "current": true,
       "artistName": "Юрий Милославский",
       "artistSlug": "yuriy-miloslavskiy"
@@ -45903,8 +45909,14 @@
     },
     {
       "userId": "6fc1a44f-119a-42bb-b9b0-79fa1fad92c4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Ай, хорошо! Шикарный панч про каналы. Ещё б качество не всратое. Любишь писаться на диктофон, походу.",
+          "scoredAt": "2026-10-18T23:33:46.306Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -45918,7 +45930,7 @@
           "scoredAt": "2026-10-15T11:03:15.789Z"
         }
       ],
-      "fetchedAt": "2026-10-16T23:01:54.651Z",
+      "fetchedAt": "2026-10-18T23:42:07.411Z",
       "current": true,
       "artistName": "TCELYA",
       "artistSlug": "tcelya"
@@ -79782,8 +79794,14 @@
     },
     {
       "userId": "e8e32650-ed78-42c4-ac8d-1377f0311708",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Насытил рифмовками, но читка и качество меня опечалили.",
+          "scoredAt": "2026-10-18T23:35:45.082Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -79797,7 +79815,7 @@
           "scoredAt": "2026-10-17T13:49:04.506Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:52:42.433Z",
+      "fetchedAt": "2026-10-18T23:42:07.411Z",
       "current": true,
       "artistName": "ЧИЛИКЛИНТОН",
       "artistSlug": "chiliklinton"
