@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T05:32:02.657Z",
+  "exportedAt": "2026-10-18T06:42:10.154Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -109590,6 +109590,34 @@
       "artistSlug": "trushnyy-dushnyy"
     },
     {
+      "userId": "cdeaac77-54da-42c7-aec1-63fd38dddbc3",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
+          "scoredAt": "2026-10-15T00:39:47.440Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну вот концовка вкатила по стильку, но в целом звучит средне. По тексту тоже есть много вопросов.",
+          "scoredAt": "2026-10-14T19:29:19.005Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Голосом хорошо получается играть, но он еще не уверенно звучит, к концу просел по энергии. ",
+          "scoredAt": "2026-10-06T21:48:55.766Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T00:42:10.402Z",
+      "current": true,
+      "artistName": "INCLUS",
+      "artistSlug": "inclus"
+    },
+    {
       "userId": "46571f27-5da6-4374-99e7-087649eab13d",
       "scoredCount": 5,
       "scores": [
@@ -109628,34 +109656,6 @@
       "current": true,
       "artistName": "мц спермозавр",
       "artistSlug": "mc-spermozavr"
-    },
-    {
-      "userId": "cdeaac77-54da-42c7-aec1-63fd38dddbc3",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "comment": "Вечеркалось, хливкие шорьки\nСинерялись в быской раствове,\nХрюкатались настиша вкробки\nНезаблудки в мутраве.",
-          "scoredAt": "2026-10-15T00:39:47.440Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "comment": "Ну вот концовка вкатила по стильку, но в целом звучит средне. По тексту тоже есть много вопросов.",
-          "scoredAt": "2026-10-14T19:29:19.005Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "comment": "Голосом хорошо получается играть, но он еще не уверенно звучит, к концу просел по энергии. ",
-          "scoredAt": "2026-10-06T21:48:55.766Z"
-        }
-      ],
-      "fetchedAt": "2026-10-15T00:42:10.402Z",
-      "current": true,
-      "artistName": "INCLUS",
-      "artistSlug": "inclus"
     },
     {
       "userId": "cfe99b72-a434-4b40-868f-42cadffc6422",
