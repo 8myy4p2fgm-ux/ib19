@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T02:02:08.813Z",
+  "exportedAt": "2026-10-18T02:12:02.782Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -58598,8 +58598,14 @@
     },
     {
       "userId": "90bfd957-65ac-48cf-b88a-46787efbdfd3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "ОК.",
+          "scoredAt": "2026-10-18T02:09:36.994Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -58625,7 +58631,7 @@
           "scoredAt": "2026-09-30T15:32:51.811Z"
         }
       ],
-      "fetchedAt": "2026-10-17T07:51:58.097Z",
+      "fetchedAt": "2026-10-18T02:12:02.782Z",
       "current": true,
       "artistName": "likh",
       "artistSlug": "likh"
@@ -71178,8 +71184,14 @@
     },
     {
       "userId": "33aa2457-386a-4e8d-8e09-1dc20aec5039",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Отличный реп без бита..\nИзвини, я против халтуры.\nПлюс стиль какой-то неудачный закос под бамбл бизи.",
+          "scoredAt": "2026-10-18T02:08:47.265Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -71193,7 +71205,7 @@
           "scoredAt": "2026-09-24T21:20:06.716Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:12:20.288Z",
+      "fetchedAt": "2026-10-18T02:12:02.782Z",
       "current": true,
       "artistName": "HOAQUIN",
       "artistSlug": "hoaquin"
@@ -102421,8 +102433,14 @@
     },
     {
       "userId": "52fdfb6d-c7a3-4483-b13c-6f8ebb2335d1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Неплохо",
+          "scoredAt": "2026-10-18T02:10:47.917Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -102442,7 +102460,7 @@
           "scoredAt": "2026-10-07T18:40:08.789Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:22:45.996Z",
+      "fetchedAt": "2026-10-18T02:12:02.782Z",
       "current": true,
       "artistName": "Маша Гантеля",
       "artistSlug": "masha-gantelya"
@@ -110040,8 +110058,14 @@
     },
     {
       "userId": "70ce609d-7182-41f4-a6a3-47d66b2be792",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Так просто, но есть какая-то магия, раскачал.\nС числами понравилось.\nЗнаю, что от меня зависит твой проход.\nЯ бы с удовольствием послушал бы тебя во 2 раунде, давай.\n\nP.S: Давай никому не скажем, что раскрытия темы нет от слова совсем))",
+          "scoredAt": "2026-10-18T02:05:45.192Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -110067,7 +110091,7 @@
           "scoredAt": "2026-09-01T20:06:11.872Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:22:32.250Z",
+      "fetchedAt": "2026-10-18T02:12:02.782Z",
       "current": true,
       "artistName": "crushh3r",
       "artistSlug": "crushh3r"

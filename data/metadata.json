@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T02:02:08.813Z",
-  "exportedAt": "2026-10-18T02:02:08.813Z",
-  "runId": "2026-10-18T02:02:08.813Z",
-  "forumExportedAt": "2026-10-18T02:02:08.813Z",
+  "lastSuccessfulAt": "2026-10-18T02:12:02.782Z",
+  "exportedAt": "2026-10-18T02:12:02.782Z",
+  "runId": "2026-10-18T02:12:02.782Z",
+  "forumExportedAt": "2026-10-18T02:12:02.782Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13289,
+    "scores": 13293,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 8,
-    "logicalRequests": 12,
-    "durationMs": 11785,
-    "scoresBefore": 13280,
-    "scoresAfter": 13289,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6158,
+    "scoresBefore": 13289,
+    "scoresAfter": 13293,
     "fullBaselineRequests": 3252,
-    "requestReductionPercent": 99.63099630996311,
+    "requestReductionPercent": 99.81549815498155,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Маша Гантеля",
+          "comment": "Неплохо",
+          "scoredAt": "2026-10-18T02:10:47.917Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "likh",
+          "comment": "ОК.",
+          "scoredAt": "2026-10-18T02:09:36.994Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "HOAQUIN",
+          "comment": "Отличный реп без бита..\nИзвини, я против халтуры.\nПлюс стиль какой-то неудачный закос под бамбл бизи.",
+          "scoredAt": "2026-10-18T02:08:47.265Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "crushh3r",
+          "comment": "Так просто, но есть какая-то магия, раскачал.\nС числами понравилось.\nЗнаю, что от меня зависит твой проход.\nЯ бы с удовольствием послушал бы тебя во 2 раунде, давай.\n\nP.S: Давай никому не скажем, что раскрытия темы нет от слова совсем))",
+          "scoredAt": "2026-10-18T02:05:45.192Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "DEADCONST",
+          "comment": "Эмоции хорошие, качество звука плохое.",
+          "scoredAt": "2026-10-18T02:02:03.502Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -154,41 +189,6 @@
           "artist": "Максон С Полей",
           "comment": "Охуенно! Нравится всё, прям всё!",
           "scoredAt": "2026-10-18T01:51:05.678Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "CardinaL",
-          "comment": "Пожалуйста, запишись на норм студии и сведись. Потенциалл огромный!",
-          "scoredAt": "2026-10-18T01:47:25.208Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "жека тарасов",
-          "comment": "",
-          "scoredAt": "2026-10-18T01:42:18.037Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "AmigoДруг",
-          "comment": "Старичок, красава!\nВ 3 просто обязан входить, не подкачай!",
-          "scoredAt": "2026-10-18T01:41:45.398Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "NWR",
-          "comment": "Хорош, приятно звучит",
-          "scoredAt": "2026-10-18T01:40:17.857Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "ꙮКАЗИЯ",
-          "comment": "бабан не одобрит",
-          "scoredAt": "2026-10-18T01:39:30.698Z"
         }
       ]
     }
