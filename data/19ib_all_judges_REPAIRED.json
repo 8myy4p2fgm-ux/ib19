@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T23:22:09.899Z",
+  "exportedAt": "2026-10-18T23:31:55.569Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -103680,8 +103680,14 @@
     },
     {
       "userId": "a602970d-d8be-4413-bd6f-98394f244a08",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Как развидеть рифмовку «виде» / «видели» / «видели» / «развидеть»? Как ты додумался до «жизнь – не солька»? Вопросов много... Навык читки есть, но пока не «внеземнЫй звук».",
+          "scoredAt": "2026-10-18T23:25:35.923Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -103689,7 +103695,7 @@
           "scoredAt": "2026-10-17T09:35:07.425Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:42:08.135Z",
+      "fetchedAt": "2026-10-18T23:31:55.569Z",
       "current": true,
       "artistName": "Di Mo",
       "artistSlug": "di-mo"

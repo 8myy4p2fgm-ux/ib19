@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T23:22:09.899Z",
-  "exportedAt": "2026-10-18T23:22:09.899Z",
-  "runId": "2026-10-18T23:22:09.899Z",
-  "forumExportedAt": "2026-10-18T23:22:09.899Z",
+  "lastSuccessfulAt": "2026-10-18T23:31:55.569Z",
+  "exportedAt": "2026-10-18T23:31:55.569Z",
+  "runId": "2026-10-18T23:31:55.569Z",
+  "forumExportedAt": "2026-10-18T23:31:55.569Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13875,
+    "scores": 13876,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5359,
-    "scoresBefore": 13872,
-    "scoresAfter": 13875,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2884,
+    "scoresBefore": 13875,
+    "scoresAfter": 13876,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.84662576687117,
+    "requestReductionPercent": 99.9079754601227,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Di Mo",
+          "comment": "Как развидеть рифмовку «виде» / «видели» / «видели» / «развидеть»? Как ты додумался до «жизнь – не солька»? Вопросов много... Навык читки есть, но пока не «внеземнЫй звук».",
+          "scoredAt": "2026-10-18T23:25:35.923Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -182,13 +189,6 @@
           "artist": "Догор",
           "comment": "Не люблю подобную крикливость. Не сказал бы, что вы синхронизировались с гитарой: твой надрыв сильно вылезает вперёд. Голосую пятым, видя, что баллов для прохода тебе будет достаточно с моей тройкой. Достоин идти дальше, но давай как-то поспокойнее.",
           "scoredAt": "2026-10-18T22:44:27.159Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Languid",
-          "comment": "Рифмы, к сожалению, на уровне примитивности. Одна и та же ритмика во всём трэке, очень скучно.",
-          "scoredAt": "2026-10-18T22:38:34.812Z"
         }
       ]
     }
