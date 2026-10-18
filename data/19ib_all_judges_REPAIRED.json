@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T04:22:01.345Z",
+  "exportedAt": "2026-10-18T04:32:04.223Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -19747,8 +19747,14 @@
     },
     {
       "userId": "d7c621da-81ad-4cbf-b374-4b3b7db7b06d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Навалил как надо, но по тексту ничего интересного. Припев вайбовый. С натяжкой за стиль оформлю тебе четверку.",
+          "scoredAt": "2026-10-18T04:31:54.604Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -19762,7 +19768,7 @@
           "scoredAt": "2026-09-29T13:01:17.144Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T04:32:04.223Z",
       "current": true,
       "artistName": "DNK",
       "artistSlug": "dnk"
@@ -46866,8 +46872,14 @@
     },
     {
       "userId": "477de9e0-cd10-4890-bfd7-3b4949641fa8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Панчей нету, да и тема не раскрыта...",
+          "scoredAt": "2026-10-18T04:23:37.294Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -46881,7 +46893,7 @@
           "scoredAt": "2026-10-10T16:50:55.076Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T04:32:04.223Z",
       "current": true,
       "artistName": "Саша Чужой",
       "artistSlug": "sasha-chuzhoy"
@@ -73768,8 +73780,14 @@
     },
     {
       "userId": "a5d72d63-e7df-4de6-9691-8bde770e5ffa",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Ну такое. Авансом пятерка. Для локалок это крутая работа. Для хх.ру надо стараться больше, слишком уж с верхов поснимал. ",
+          "scoredAt": "2026-10-18T04:30:35.538Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -73795,7 +73813,7 @@
           "scoredAt": "2026-10-09T13:15:49.626Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-18T04:32:04.223Z",
       "current": true,
       "artistName": "МОНО ( ЦИТРАМОН )",
       "artistSlug": "mono-citramon"
@@ -104166,8 +104184,14 @@
     },
     {
       "userId": "86a901f6-a284-4529-bc15-c907604eb838",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Стилек вязкий. Мне такое заходит. Если пройдешь сделай какой-нибудь осознанный текст, а не репрезент. Было бы интересно послушать.",
+          "scoredAt": "2026-10-18T04:28:14.856Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -104193,7 +104217,7 @@
           "scoredAt": "2026-10-14T16:05:08.531Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:22:45.996Z",
+      "fetchedAt": "2026-10-18T04:32:04.223Z",
       "current": true,
       "artistName": "DEUS VULT",
       "artistSlug": "deus-vult"
@@ -105692,8 +105716,14 @@
     },
     {
       "userId": "8c2ad364-8527-4723-8833-c0f5ac633e10",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Зачитал неплохо, но по тексту ничего интересного.",
+          "scoredAt": "2026-10-18T04:24:51.043Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -105713,7 +105743,7 @@
           "scoredAt": "2026-10-13T19:10:04.290Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:22:36.032Z",
+      "fetchedAt": "2026-10-18T04:32:04.223Z",
       "current": true,
       "artistName": "Макс Медведь",
       "artistSlug": "maks-medved"

@@ -145160,6 +145160,76 @@
         "scoredAt": "2026-10-18T04:14:36.863Z",
         "userId": "62a9ba74-c9a5-42be-9ff1-44ea49a52cf9"
       }
+    },
+    {
+      "id": "fd3c24f179b8844abadf0a6631680f75750a282bcac1224934a4e17a91439ab0",
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "sourceScoredAt": "2026-10-18T04:31:54.604Z",
+      "key": "[\"d7c621da-81ad-4cbf-b374-4b3b7db7b06d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Навалил как надо, но по тексту ничего интересного. Припев вайбовый. С натяжкой за стиль оформлю тебе четверку.",
+        "scoredAt": "2026-10-18T04:31:54.604Z",
+        "userId": "d7c621da-81ad-4cbf-b374-4b3b7db7b06d"
+      }
+    },
+    {
+      "id": "0ea657702ad3816ff6ffb59c6ca470759dc146b6c7574848f6b46920672ca6d5",
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "sourceScoredAt": "2026-10-18T04:23:37.294Z",
+      "key": "[\"477de9e0-cd10-4890-bfd7-3b4949641fa8\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Панчей нету, да и тема не раскрыта...",
+        "scoredAt": "2026-10-18T04:23:37.294Z",
+        "userId": "477de9e0-cd10-4890-bfd7-3b4949641fa8"
+      }
+    },
+    {
+      "id": "d0959346c9de623fd8fee744f57a7f84bba72bd78035810e0716d5b2e77245c7",
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "sourceScoredAt": "2026-10-18T04:30:35.538Z",
+      "key": "[\"a5d72d63-e7df-4de6-9691-8bde770e5ffa\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Ну такое. Авансом пятерка. Для локалок это крутая работа. Для хх.ру надо стараться больше, слишком уж с верхов поснимал. ",
+        "scoredAt": "2026-10-18T04:30:35.538Z",
+        "userId": "a5d72d63-e7df-4de6-9691-8bde770e5ffa"
+      }
+    },
+    {
+      "id": "b191a9db1489ee4adadfce9c91323905d08b5215fd4896a358ef80da56e5edaf",
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "sourceScoredAt": "2026-10-18T04:28:14.856Z",
+      "key": "[\"86a901f6-a284-4529-bc15-c907604eb838\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Стилек вязкий. Мне такое заходит. Если пройдешь сделай какой-нибудь осознанный текст, а не репрезент. Было бы интересно послушать.",
+        "scoredAt": "2026-10-18T04:28:14.856Z",
+        "userId": "86a901f6-a284-4529-bc15-c907604eb838"
+      }
+    },
+    {
+      "id": "cd49571d84583e43f56859815b187c6c49012fb28a5e24d0d6fda25971b838a6",
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "sourceScoredAt": "2026-10-18T04:24:51.043Z",
+      "key": "[\"8c2ad364-8527-4723-8833-c0f5ac633e10\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал неплохо, но по тексту ничего интересного.",
+        "scoredAt": "2026-10-18T04:24:51.043Z",
+        "userId": "8c2ad364-8527-4723-8833-c0f5ac633e10"
+      }
     }
   ],
   "snapshots": [
@@ -154199,6 +154269,26 @@
           "index": 29.809665986074425,
           "favor": 17.76657075066889,
           "attention": 1.3208730131833124,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T04:32:04.223Z",
+      "exportedAt": "2026-10-18T04:32:04.223Z",
+      "scores": 13346,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.97438477790162,
+          "favor": 9.276842728396097,
+          "attention": 6.227471626970312,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.815874994850184,
+          "favor": 17.763421054844866,
+          "attention": 1.3302317177830978,
           "respect": 10.722222222222221
         }
       }
