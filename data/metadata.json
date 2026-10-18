@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T06:42:10.154Z",
-  "exportedAt": "2026-10-18T06:42:10.154Z",
-  "runId": "2026-10-18T06:42:10.154Z",
-  "forumExportedAt": "2026-10-18T06:42:10.154Z",
+  "lastSuccessfulAt": "2026-10-18T06:52:01.704Z",
+  "exportedAt": "2026-10-18T06:52:01.704Z",
+  "runId": "2026-10-18T06:52:01.704Z",
+  "forumExportedAt": "2026-10-18T06:52:01.704Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13369,
+    "scores": 13372,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 2,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 2,
-    "durationMs": 2742,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4714,
     "scoresBefore": 13369,
-    "scoresAfter": 13369,
+    "scoresAfter": 13372,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.93851829080849,
+    "requestReductionPercent": 99.8462957270212,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "artist": "L.I.D.",
+          "comment": "Рифмабельно, панчёво, звучит",
+          "scoredAt": "2026-10-18T06:48:28.435Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "джекрег",
+          "comment": "Без текста не всё можно разобрать. Квадратно по рифме нередко, наполнение не цепко.",
+          "scoredAt": "2026-10-18T06:44:56.259Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "land of hope",
+          "comment": "Слушать нормик, но это на разок, ибо ничего такого не открывается, клишейно. ",
+          "scoredAt": "2026-10-18T06:42:22.785Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -168,27 +189,6 @@
           "artist": "КрокодилGunGrena",
           "comment": "Жду фита с ксероном.",
           "scoredAt": "2026-10-18T05:04:56.597Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Добрый",
-          "comment": "Очень простой трек без интересных моментов в исполнении и тексте.",
-          "scoredAt": "2026-10-18T05:02:09.055Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Прощай, Белла",
-          "comment": "Очень простой трек. Ничего интересного.",
-          "scoredAt": "2026-10-18T05:01:12.391Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Алем Алашорда",
-          "comment": "Стильно. Чувствуется искренность. Трек трогает. Жалко, что по тексту все просто.",
-          "scoredAt": "2026-10-18T04:59:11.623Z"
         }
       ]
     }

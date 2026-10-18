@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T06:42:10.154Z",
+  "exportedAt": "2026-10-18T06:52:01.704Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -47682,8 +47682,14 @@
     },
     {
       "userId": "1a4b5c0c-8ce2-4942-977f-55cdcbba2dc1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "comment": "Рифмабельно, панчёво, звучит",
+          "scoredAt": "2026-10-18T06:48:28.435Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -47703,7 +47709,7 @@
           "scoredAt": "2026-09-19T21:49:15.304Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T06:52:01.704Z",
       "current": true,
       "artistName": "L.I.D.",
       "artistSlug": "l-i-d"
@@ -60946,8 +60952,14 @@
     },
     {
       "userId": "1a6e232e-22b1-483d-83ad-d7e461a47cbe",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Слушать нормик, но это на разок, ибо ничего такого не открывается, клишейно. ",
+          "scoredAt": "2026-10-18T06:42:22.785Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -60961,7 +60973,7 @@
           "scoredAt": "2026-10-08T13:22:20.511Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:23:02.897Z",
+      "fetchedAt": "2026-10-18T06:52:01.704Z",
       "current": true,
       "artistName": "land of hope",
       "artistSlug": "land-of-hope"
@@ -104520,8 +104532,14 @@
     },
     {
       "userId": "443f7a15-af26-4b5e-b936-92ee703a1fcb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Без текста не всё можно разобрать. Квадратно по рифме нередко, наполнение не цепко.",
+          "scoredAt": "2026-10-18T06:44:56.259Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -104541,7 +104559,7 @@
           "scoredAt": "2026-10-11T18:50:16.349Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:32:21.046Z",
+      "fetchedAt": "2026-10-18T06:52:01.704Z",
       "current": true,
       "artistName": "джекрег",
       "artistSlug": "dzhekreg"

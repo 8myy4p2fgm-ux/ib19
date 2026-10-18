@@ -145552,6 +145552,48 @@
         "scoredAt": "2026-10-18T05:29:13.556Z",
         "userId": "f311ba91-1aff-43ab-8401-4a482ee81425"
       }
+    },
+    {
+      "id": "4af981b791c5d212602d178b1c8afeeb63e8d9bc1b791b48cfc0c4fda2f96be5",
+      "observedAt": "2026-10-18T06:52:01.704Z",
+      "sourceScoredAt": "2026-10-18T06:48:28.435Z",
+      "key": "[\"1a4b5c0c-8ce2-4942-977f-55cdcbba2dc1\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 5,
+        "comment": "Рифмабельно, панчёво, звучит",
+        "scoredAt": "2026-10-18T06:48:28.435Z",
+        "userId": "1a4b5c0c-8ce2-4942-977f-55cdcbba2dc1"
+      }
+    },
+    {
+      "id": "72a61b53909dd9afa395b71ac8bf9230ba9587064cf42b1f78f4732bed242159",
+      "observedAt": "2026-10-18T06:52:01.704Z",
+      "sourceScoredAt": "2026-10-18T06:42:22.785Z",
+      "key": "[\"1a6e232e-22b1-483d-83ad-d7e461a47cbe\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Слушать нормик, но это на разок, ибо ничего такого не открывается, клишейно. ",
+        "scoredAt": "2026-10-18T06:42:22.785Z",
+        "userId": "1a6e232e-22b1-483d-83ad-d7e461a47cbe"
+      }
+    },
+    {
+      "id": "2b7ad0575f4deee1aad67448a6f75ea8aac6a1c6daa7e46dcef5eccfc8b2dbd4",
+      "observedAt": "2026-10-18T06:52:01.704Z",
+      "sourceScoredAt": "2026-10-18T06:44:56.259Z",
+      "key": "[\"443f7a15-af26-4b5e-b936-92ee703a1fcb\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Без текста не всё можно разобрать. Квадратно по рифме нередко, наполнение не цепко.",
+        "scoredAt": "2026-10-18T06:44:56.259Z",
+        "userId": "443f7a15-af26-4b5e-b936-92ee703a1fcb"
+      }
     }
   ],
   "snapshots": [
@@ -154731,6 +154773,26 @@
           "index": 29.874294906194834,
           "favor": 17.778886034288785,
           "attention": 1.373186649683826,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T06:52:01.704Z",
+      "exportedAt": "2026-10-18T06:52:01.704Z",
+      "scores": 13372,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 22.012580872306735,
+          "favor": 9.292142678811254,
+          "attention": 6.25036777096027,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.877986546042237,
+          "favor": 17.778583599842193,
+          "attention": 1.3771807239778209,
           "respect": 10.722222222222221
         }
       }
