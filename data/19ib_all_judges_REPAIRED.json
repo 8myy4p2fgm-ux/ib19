@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T21:42:04.259Z",
+  "exportedAt": "2026-10-18T21:52:05.191Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -106399,8 +106399,14 @@
     },
     {
       "userId": "c816cb1a-37b2-416b-936a-70713140caf8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Классно сделал: техничненько, налегке, филигранно. Проскакивают очень плотные рифмовки. Звучок бы подтянуть. Но смело двигаешь дальше.",
+          "scoredAt": "2026-10-18T21:51:32.626Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -106414,7 +106420,7 @@
           "scoredAt": "2026-10-12T10:10:01.791Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:02:11.418Z",
+      "fetchedAt": "2026-10-18T21:52:05.191Z",
       "current": true,
       "artistName": "WM",
       "artistSlug": "wm"

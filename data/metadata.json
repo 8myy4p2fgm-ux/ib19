@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T21:42:04.259Z",
-  "exportedAt": "2026-10-18T21:42:04.259Z",
-  "runId": "2026-10-18T21:42:04.259Z",
-  "forumExportedAt": "2026-10-18T21:42:04.259Z",
+  "lastSuccessfulAt": "2026-10-18T21:52:05.191Z",
+  "exportedAt": "2026-10-18T21:52:05.191Z",
+  "runId": "2026-10-18T21:52:05.191Z",
+  "forumExportedAt": "2026-10-18T21:52:05.191Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13846,
+    "scores": 13847,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3966,
-    "scoresBefore": 13844,
-    "scoresAfter": 13846,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2869,
+    "scoresBefore": 13846,
+    "scoresAfter": 13847,
     "fullBaselineRequests": 3259,
-    "requestReductionPercent": 99.87726296409943,
+    "requestReductionPercent": 99.90794722307457,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "WM",
+          "comment": "Классно сделал: техничненько, налегке, филигранно. Проскакивают очень плотные рифмовки. Звучок бы подтянуть. Но смело двигаешь дальше.",
+          "scoredAt": "2026-10-18T21:51:32.626Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -182,13 +189,6 @@
           "artist": "Калий (19) [Категория_Состояния]",
           "comment": "При всём отношении к теме тебя спасло только то, что ты хотя бы 19ку и т.п. обыгрываешь – хотя бы есть признаки свежей работы под конкретный баттл.",
           "scoredAt": "2026-10-18T20:19:57.925Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "КРЭНГ",
-          "comment": "Со мной дерутся альфы, зумеры и зомби (с) Очень классно текст вывернул от неправды к правде, оценила ход. Да и довольно харизматично исполнено, есть самобытность. В общем, гнешь свою творческую линию, куда тебе нужно. А мы и рады. ",
-          "scoredAt": "2026-10-18T20:17:17.822Z"
         }
       ]
     }
