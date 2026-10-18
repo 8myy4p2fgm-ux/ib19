@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T03:32:01.010Z",
-  "exportedAt": "2026-10-18T03:32:01.010Z",
-  "runId": "2026-10-18T03:32:01.010Z",
-  "forumExportedAt": "2026-10-18T03:32:01.010Z",
+  "lastSuccessfulAt": "2026-10-18T03:42:01.359Z",
+  "exportedAt": "2026-10-18T03:42:01.359Z",
+  "runId": "2026-10-18T03:42:01.359Z",
+  "forumExportedAt": "2026-10-18T03:42:01.359Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13323,
+    "scores": 13326,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4034,
-    "scoresBefore": 13321,
-    "scoresAfter": 13323,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5124,
+    "scoresBefore": 13323,
+    "scoresAfter": 13326,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.87703658161698,
+    "requestReductionPercent": 99.8462957270212,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Figurant",
+          "comment": "Вроде бы не самый плохой текст, и зачитал неплохо, но мне не хватило какого-то выстроенного повествования для максимальной оценки.",
+          "scoredAt": "2026-10-18T03:40:57.103Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Ай",
+          "comment": "Отличный текст, очень хорошая работа. Молодец.",
+          "scoredAt": "2026-10-18T03:36:31.219Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Nik0lsky",
+          "comment": "Если вчитаться в текст, то можно найти интересные задумки, но пока это только задумки. Есть проблемы с ритмикой. И манеру исполнения выбрал не очень удачно",
+          "scoredAt": "2026-10-18T03:35:05.366Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -168,27 +189,6 @@
           "artist": "Emilien",
           "comment": "Сын Трула, Паши Кемпеля и Классика))\nНормально навалил!",
           "scoredAt": "2026-10-18T02:39:28.821Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "VOKINNERAM",
-          "comment": "",
-          "scoredAt": "2026-10-18T02:38:02.606Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "VaL",
-          "comment": "Хорошо. И текст, и исполнение на уцровне. Интересно было слушать и приятно.",
-          "scoredAt": "2026-10-18T02:37:30.342Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Spayke",
-          "comment": "",
-          "scoredAt": "2026-10-18T02:36:15.574Z"
         }
       ]
     }
