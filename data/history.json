@@ -146798,6 +146798,90 @@
         "scoredAt": "2026-10-18T10:03:19.967Z",
         "userId": "5f2667a5-1bb0-4ecb-9dd6-4d50d526b195"
       }
+    },
+    {
+      "id": "deaeceae83918f68c61c1be0a43203fd948fc4d6719a752b17f2632bba7e8049",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:28:04.409Z",
+      "key": "[\"33b4c97a-96e9-4559-9ddc-aecc8cde4bbd\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Хорошо читаешь, но есть парочка ритмических неточностей. ",
+        "scoredAt": "2026-10-18T10:28:04.409Z",
+        "userId": "33b4c97a-96e9-4559-9ddc-aecc8cde4bbd"
+      }
+    },
+    {
+      "id": "c44490fc77acdc69e921a73ca517ffd3bddc215169c1cc45b2af8b759ea6aa7e",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:29:53.256Z",
+      "key": "[\"4a58019e-5dde-4961-9788-cf68daa02af9\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Техника хромает, немного неровно держишься на бите.\nТекст не понравился.",
+        "scoredAt": "2026-10-18T10:29:53.256Z",
+        "userId": "4a58019e-5dde-4961-9788-cf68daa02af9"
+      }
+    },
+    {
+      "id": "fb6f4b84aba39cc82c2d2b50de7748264c194045f619ee38961168998794ea63",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:24:27.092Z",
+      "key": "[\"8a573748-997f-44b9-bf1f-a69ed71e6bd3\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Текст очень слабый, чисто за разнообразие поставлю 4.",
+        "scoredAt": "2026-10-18T10:24:27.092Z",
+        "userId": "8a573748-997f-44b9-bf1f-a69ed71e6bd3"
+      }
+    },
+    {
+      "id": "82c9c12e9d50a5da0341585efa0e95ac4d4adc1fc0996101287040781bff07e1",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:26:18.871Z",
+      "key": "[\"0d809268-7118-4e77-b5aa-ec204b176625\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Немного не хватает подачи. Текст простоват, но за сторител респект.",
+        "scoredAt": "2026-10-18T10:26:18.871Z",
+        "userId": "0d809268-7118-4e77-b5aa-ec204b176625"
+      }
+    },
+    {
+      "id": "f7772c9a867a601a7a19ff81d15fb9a500dcbff7958f156e8ad85499cace23ee",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:31:42.714Z",
+      "key": "[\"1f0da752-ea50-418b-9672-5f481491b638\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Мы Амкал, а вы нет!",
+        "scoredAt": "2026-10-18T10:31:42.714Z",
+        "userId": "1f0da752-ea50-418b-9672-5f481491b638"
+      }
+    },
+    {
+      "id": "576c8d2ea4101e5a5315631ace565da002ebf278b66f34b33b3f62b99e531580",
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "sourceScoredAt": "2026-10-18T10:30:38.810Z",
+      "key": "[\"5573adeb-20b6-4ae8-bd31-59d2fa82bc3e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:30:38.810Z",
+        "userId": "5573adeb-20b6-4ae8-bd31-59d2fa82bc3e"
+      }
     }
   ],
   "snapshots": [
@@ -156357,6 +156441,26 @@
           "index": 30.026208819366275,
           "favor": 17.795491505917084,
           "attention": 1.508495091226969,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T10:32:11.021Z",
+      "exportedAt": "2026-10-18T10:32:11.021Z",
+      "scores": 13464,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.983428496078616,
+          "favor": 9.260546084081135,
+          "attention": 6.2755139909448525,
+          "respect": 6.447368421052632
+        },
+        "veterans": {
+          "index": 30.036506298506108,
+          "favor": 17.79263260559682,
+          "attention": 1.5216514706870674,
           "respect": 10.722222222222221
         }
       }

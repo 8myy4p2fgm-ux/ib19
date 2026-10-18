@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T10:12:00.188Z",
+  "exportedAt": "2026-10-18T10:32:11.021Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -53314,8 +53314,14 @@
     },
     {
       "userId": "33b4c97a-96e9-4559-9ddc-aecc8cde4bbd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "comment": "Хорошо читаешь, но есть парочка ритмических неточностей. ",
+          "scoredAt": "2026-10-18T10:28:04.409Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -53329,7 +53335,7 @@
           "scoredAt": "2026-10-06T16:24:02.054Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:52:29.544Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "DIFT",
       "artistSlug": "dift"
@@ -72766,8 +72772,14 @@
     },
     {
       "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "Техника хромает, немного неровно держишься на бите.\nТекст не понравился.",
+          "scoredAt": "2026-10-18T10:29:53.256Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -72793,7 +72805,7 @@
           "scoredAt": "2026-09-19T21:19:53.673Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:52:28.191Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "Антон Вайс",
       "artistSlug": "anton-vays"
@@ -74786,8 +74798,14 @@
     },
     {
       "userId": "8a573748-997f-44b9-bf1f-a69ed71e6bd3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "comment": "Текст очень слабый, чисто за разнообразие поставлю 4.",
+          "scoredAt": "2026-10-18T10:24:27.092Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -74813,7 +74831,7 @@
           "scoredAt": "2026-09-27T10:38:29.587Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:52:06.072Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "92",
       "artistSlug": "92"
@@ -93456,8 +93474,14 @@
     },
     {
       "userId": "0d809268-7118-4e77-b5aa-ec204b176625",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "Немного не хватает подачи. Текст простоват, но за сторител респект.",
+          "scoredAt": "2026-10-18T10:26:18.871Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -93483,7 +93507,7 @@
           "scoredAt": "2026-10-11T04:39:53.741Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:02:21.159Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "Назар Николюк",
       "artistSlug": "nazar-nikolyuk"
@@ -103563,8 +103587,14 @@
     },
     {
       "userId": "1f0da752-ea50-418b-9672-5f481491b638",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Мы Амкал, а вы нет!",
+          "scoredAt": "2026-10-18T10:31:42.714Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 4,
@@ -103578,7 +103608,7 @@
           "scoredAt": "2026-10-12T15:08:14.876Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:12:42.870Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "Андрей Сибскана",
       "artistSlug": "andrey-sibskana"
@@ -104989,8 +105019,14 @@
     },
     {
       "userId": "5573adeb-20b6-4ae8-bd31-59d2fa82bc3e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-18T10:30:38.810Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -105010,7 +105046,7 @@
           "scoredAt": "2026-09-10T19:30:16.555Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T10:32:11.021Z",
       "current": true,
       "artistName": "психопатрик",
       "artistSlug": "psihopatrik"

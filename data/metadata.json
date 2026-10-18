@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T10:12:00.188Z",
-  "exportedAt": "2026-10-18T10:12:00.188Z",
-  "runId": "2026-10-18T10:12:00.188Z",
-  "forumExportedAt": "2026-10-18T10:12:00.188Z",
+  "lastSuccessfulAt": "2026-10-18T10:32:11.021Z",
+  "exportedAt": "2026-10-18T10:32:11.021Z",
+  "runId": "2026-10-18T10:32:11.021Z",
+  "forumExportedAt": "2026-10-18T10:32:11.021Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13458,
+    "scores": 13464,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4223,
-    "scoresBefore": 13456,
-    "scoresAfter": 13458,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8370,
+    "scoresBefore": 13458,
+    "scoresAfter": 13464,
     "fullBaselineRequests": 3254,
-    "requestReductionPercent": 99.87707437000614,
+    "requestReductionPercent": 99.7541487400123,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Андрей Сибскана",
+          "comment": "Мы Амкал, а вы нет!",
+          "scoredAt": "2026-10-18T10:31:42.714Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "психопатрик",
+          "comment": "",
+          "scoredAt": "2026-10-18T10:30:38.810Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Антон Вайс",
+          "comment": "Техника хромает, немного неровно держишься на бите.\nТекст не понравился.",
+          "scoredAt": "2026-10-18T10:29:53.256Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "DIFT",
+          "comment": "Хорошо читаешь, но есть парочка ритмических неточностей. ",
+          "scoredAt": "2026-10-18T10:28:04.409Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "artist": "Назар Николюк",
+          "comment": "Немного не хватает подачи. Текст простоват, но за сторител респект.",
+          "scoredAt": "2026-10-18T10:26:18.871Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 4,
+          "artist": "92",
+          "comment": "Текст очень слабый, чисто за разнообразие поставлю 4.",
+          "scoredAt": "2026-10-18T10:24:27.092Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "KIPMC",
           "comment": "Очень сумбурно читаешь, избавляйся от перебежек и запинок. Ну и по тексту все очень просто.",
           "scoredAt": "2026-10-18T09:54:01.181Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "МцБитцаВздумал",
-          "comment": "Читай репака побольше. Пока очень плохо.",
-          "scoredAt": "2026-10-18T09:52:38.418Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "HUNTER",
-          "comment": "Лев Михайлович, мое вам с кисточкой! Как же печально, что местная публика не знает легенду. Они вас не заслуживают!",
-          "scoredAt": "2026-10-18T09:51:29.490Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "ТРАЙЛ",
-          "comment": "Зачитал нормально, но по тексту ничего интересного. Скучный репак.",
-          "scoredAt": "2026-10-18T09:49:15.842Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Яппи ТУХЪ",
-          "comment": "Забавная подача. Причесать бы твой тречок и будет заебок. Пока двоечка.",
-          "scoredAt": "2026-10-18T09:47:28.556Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Bandit777",
-          "comment": "Ну очень простой репак, брат. Ничего интересного.",
-          "scoredAt": "2026-10-18T09:46:29.048Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Клюква",
-          "comment": "Харизма на месте. Из-за ностальгии по глинотейпу поставлю тебе 4, но вообще надо в тексте добавлять. Абсурд на месте, но хотелось бы связанного единой мыслю текста.",
-          "scoredAt": "2026-10-18T09:44:40.040Z"
         }
       ]
     }
