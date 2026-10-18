@@ -144124,6 +144124,132 @@
         "scoredAt": "2026-10-18T01:28:11.506Z",
         "userId": "a201c8cc-4e64-4f62-8034-fdd2a8ecb40c"
       }
+    },
+    {
+      "id": "10b9551d80feac489d988988ed32868fe8f563aee6dbfa90fe5dccc97cf95986",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:36:38.888Z",
+      "key": "[\"a69ce39c-3c45-4566-b68c-cb38f4ee5eb1\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Начало было бодрое, середина сильно просела. Текст слабый",
+        "scoredAt": "2026-10-18T01:36:38.888Z",
+        "userId": "a69ce39c-3c45-4566-b68c-cb38f4ee5eb1"
+      }
+    },
+    {
+      "id": "496bb56cf083442ed75b09d628ea7ad65a9ffede68f9e0a2554bb9bc08aba327",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:38:31.159Z",
+      "key": "[\"7356205b-9e64-44fd-855d-631e5aa5b7fa\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-18T01:38:31.159Z",
+        "userId": "7356205b-9e64-44fd-855d-631e5aa5b7fa"
+      }
+    },
+    {
+      "id": "e4b265ef737a5ff8c0569b05eea537d2e10782766fad95963233637617c63fb8",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:41:45.398Z",
+      "key": "[\"9c79fffd-3a83-4b81-8322-30f2242e02ee\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Старичок, красава!\nВ 3 просто обязан входить, не подкачай!",
+        "scoredAt": "2026-10-18T01:41:45.398Z",
+        "userId": "9c79fffd-3a83-4b81-8322-30f2242e02ee"
+      }
+    },
+    {
+      "id": "88144df44fa619af22bac3aa9e12eca8b7a060c973ebeba228155055bd379f0a",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:35:11.948Z",
+      "key": "[\"13baf70b-e391-4d85-8a94-556abf5ef83d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Денис Кор, выходи, мы тебя узнали!",
+        "scoredAt": "2026-10-18T01:35:11.948Z",
+        "userId": "13baf70b-e391-4d85-8a94-556abf5ef83d"
+      }
+    },
+    {
+      "id": "88bb58904df6a2368694c44c6288553c832e68b43434513ec54dd0834d6dee99",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:38:08.783Z",
+      "key": "[\"43e27be2-fc63-4d58-8740-7b5e7a20bdb9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Ритмика квадратная, скучная. Качество записи норм, эмоции тоже",
+        "scoredAt": "2026-10-18T01:38:08.783Z",
+        "userId": "43e27be2-fc63-4d58-8740-7b5e7a20bdb9"
+      }
+    },
+    {
+      "id": "e5627e579fec3521309937ee603d6fa7d179f726c95904ee0bcfc2911a0b17be",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:37:28.668Z",
+      "key": "[\"ebef5bf7-374a-4de1-bd0d-7db9466b725d\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Уверенно, стильно! ",
+        "scoredAt": "2026-10-18T01:37:28.668Z",
+        "userId": "ebef5bf7-374a-4de1-bd0d-7db9466b725d"
+      }
+    },
+    {
+      "id": "e7cee065ac0cdc2d3d7be1b4c4d792151bc5edcea022c501a821d3daf5907fed",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:40:17.857Z",
+      "key": "[\"7231d1d4-e023-455b-be59-d2e534f186ca\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорош, приятно звучит",
+        "scoredAt": "2026-10-18T01:40:17.857Z",
+        "userId": "7231d1d4-e023-455b-be59-d2e534f186ca"
+      }
+    },
+    {
+      "id": "441c1721b66bb385bea26f51d2e63f1c8eeaed41bb79cc221ec9649721239a1b",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:39:30.698Z",
+      "key": "[\"0ddcceb3-40a7-4a4b-985b-91fa8f840e6f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "бабан не одобрит",
+        "scoredAt": "2026-10-18T01:39:30.698Z",
+        "userId": "0ddcceb3-40a7-4a4b-985b-91fa8f840e6f"
+      }
+    },
+    {
+      "id": "8ecd77bfb65a92bcec094bd5a54f6d197feb9eebcd3563144dd25e4bef46ed52",
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "sourceScoredAt": "2026-10-18T01:35:46.189Z",
+      "key": "[\"cded9aaa-065a-4008-9a2d-4d316956d839\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Текст слабый. Подал норм",
+        "scoredAt": "2026-10-18T01:35:46.189Z",
+        "userId": "cded9aaa-065a-4008-9a2d-4d316956d839"
+      }
     }
   ],
   "snapshots": [
@@ -152843,6 +152969,26 @@
           "index": 29.701309706644228,
           "favor": 17.77325955257725,
           "attention": 1.205827931844755,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T01:42:08.261Z",
+      "exportedAt": "2026-10-18T01:42:08.261Z",
+      "scores": 13276,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.92128804909991,
+          "favor": 9.28365993374037,
+          "attention": 6.167557692824329,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.71026512070256,
+          "favor": 17.77006654321927,
+          "attention": 1.2179763552610678,
           "respect": 10.722222222222221
         }
       }

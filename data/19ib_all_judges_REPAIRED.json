@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T01:32:06.247Z",
+  "exportedAt": "2026-10-18T01:42:08.261Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -3441,8 +3441,14 @@
     },
     {
       "userId": "a69ce39c-3c45-4566-b68c-cb38f4ee5eb1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Начало было бодрое, середина сильно просела. Текст слабый",
+          "scoredAt": "2026-10-18T01:36:38.888Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -3462,7 +3468,7 @@
           "scoredAt": "2026-08-31T20:11:31.764Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "STERN",
       "artistSlug": "stern"
@@ -13906,8 +13912,14 @@
     },
     {
       "userId": "7356205b-9e64-44fd-855d-631e5aa5b7fa",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-18T01:38:31.159Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -13915,7 +13927,7 @@
           "scoredAt": "2026-09-04T13:05:06.912Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "KAIAND",
       "artistSlug": "kaiand"
@@ -48676,8 +48688,14 @@
     },
     {
       "userId": "9c79fffd-3a83-4b81-8322-30f2242e02ee",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Старичок, красава!\nВ 3 просто обязан входить, не подкачай!",
+          "scoredAt": "2026-10-18T01:41:45.398Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -48697,7 +48715,7 @@
           "scoredAt": "2026-10-09T22:09:58.284Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:22:46.526Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "AmigoДруг",
       "artistSlug": "amigodrug"
@@ -54000,8 +54018,14 @@
     },
     {
       "userId": "13baf70b-e391-4d85-8a94-556abf5ef83d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Денис Кор, выходи, мы тебя узнали!",
+          "scoredAt": "2026-10-18T01:35:11.948Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -54021,7 +54045,7 @@
           "scoredAt": "2026-10-15T08:44:35.835Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:12:19.126Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "Пожилой Владивосток",
       "artistSlug": "pozhiloy-vladivostok"
@@ -57922,8 +57946,14 @@
     },
     {
       "userId": "43e27be2-fc63-4d58-8740-7b5e7a20bdb9",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Ритмика квадратная, скучная. Качество записи норм, эмоции тоже",
+          "scoredAt": "2026-10-18T01:38:08.783Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -57931,7 +57961,7 @@
           "scoredAt": "2026-10-17T15:10:08.899Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:12:14.197Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "Просто ПроМо",
       "artistSlug": "prosto-promo"
@@ -75332,8 +75362,14 @@
     },
     {
       "userId": "ebef5bf7-374a-4de1-bd0d-7db9466b725d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Уверенно, стильно! ",
+          "scoredAt": "2026-10-18T01:37:28.668Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -75353,7 +75389,7 @@
           "scoredAt": "2026-10-05T15:59:39.562Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:12:36.764Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "RIM",
       "artistSlug": "rim"
@@ -84925,8 +84961,14 @@
     },
     {
       "userId": "7231d1d4-e023-455b-be59-d2e534f186ca",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Хорош, приятно звучит",
+          "scoredAt": "2026-10-18T01:40:17.857Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -84952,7 +84994,7 @@
           "scoredAt": "2026-10-15T11:46:46.783Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:52:03.769Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "NWR",
       "artistSlug": "nwr"
@@ -93193,8 +93235,14 @@
     },
     {
       "userId": "0ddcceb3-40a7-4a4b-985b-91fa8f840e6f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "бабан не одобрит",
+          "scoredAt": "2026-10-18T01:39:30.698Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -93208,7 +93256,7 @@
           "scoredAt": "2026-10-07T20:13:43.844Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:32:30.666Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "ꙮКАЗИЯ",
       "artistSlug": "kaziya"
@@ -101340,8 +101388,14 @@
     },
     {
       "userId": "cded9aaa-065a-4008-9a2d-4d316956d839",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Текст слабый. Подал норм",
+          "scoredAt": "2026-10-18T01:35:46.189Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -101367,7 +101421,7 @@
           "scoredAt": "2026-10-06T12:55:43.931Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:32:07.259Z",
+      "fetchedAt": "2026-10-18T01:42:08.261Z",
       "current": true,
       "artistName": "БИЛЛИ РУКАМИ",
       "artistSlug": "billi-rukami"
