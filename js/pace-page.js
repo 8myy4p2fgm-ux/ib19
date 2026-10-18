@@ -19,7 +19,7 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
   const needRate=daysLeft>0?m.remaining/daysLeft:null;
   $('pace-needed-label').textContent=expired?'Прогноз завершения':'Нужно в день';
   $('pace-needed').classList.toggle('is-forecast',expired);
-  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?'смотреть 83 раза клип янг спейса':'—';
+  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?'смотреть 83 раза клип янг спайса':'—';
  }
  refreshNeeded();
  setInterval(refreshNeeded,1000);
