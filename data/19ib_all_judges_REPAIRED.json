@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T21:52:05.191Z",
+  "exportedAt": "2026-10-18T22:02:06.682Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -17933,8 +17933,14 @@
     },
     {
       "userId": "30aea481-ab1a-4b81-a8d7-762f9d427054",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Первый однострочный трэк на раунд. Чувствуется некая неуверенность в исполнении. Советовал бы вырезать мощные вдохи между строк. Напевы в конце не удались.",
+          "scoredAt": "2026-10-18T21:56:11.106Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -17954,7 +17960,7 @@
           "scoredAt": "2026-09-01T20:22:24.231Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T22:02:06.682Z",
       "current": true,
       "artistName": "Vito22",
       "artistSlug": "vito22"
@@ -98992,8 +98998,14 @@
     },
     {
       "userId": "c41df27a-7231-474b-9f94-cfda7f7e82f3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Хорошо напичкал трэк рифмами, но мне не близка подобная комедийность в рэпах. Панч про глагол шикарный. Авансирую четвёркой в надежде услышать от тебя что-нибудь посерьёзнее.",
+          "scoredAt": "2026-10-18T22:00:16.338Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -99007,7 +99019,7 @@
           "scoredAt": "2026-10-12T13:18:00.725Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:32:28.888Z",
+      "fetchedAt": "2026-10-18T22:02:06.682Z",
       "current": true,
       "artistName": "stiga2mc",
       "artistSlug": "stiga2mc"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T21:52:05.191Z",
-  "exportedAt": "2026-10-18T21:52:05.191Z",
-  "runId": "2026-10-18T21:52:05.191Z",
-  "forumExportedAt": "2026-10-18T21:52:05.191Z",
+  "lastSuccessfulAt": "2026-10-18T22:02:06.682Z",
+  "exportedAt": "2026-10-18T22:02:06.682Z",
+  "runId": "2026-10-18T22:02:06.682Z",
+  "forumExportedAt": "2026-10-18T22:02:06.682Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13847,
+    "scores": 13849,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 2869,
-    "scoresBefore": 13846,
-    "scoresAfter": 13847,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4185,
+    "scoresBefore": 13847,
+    "scoresAfter": 13849,
     "fullBaselineRequests": 3259,
-    "requestReductionPercent": 99.90794722307457,
+    "requestReductionPercent": 99.87726296409943,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "stiga2mc",
+          "comment": "Хорошо напичкал трэк рифмами, но мне не близка подобная комедийность в рэпах. Панч про глагол шикарный. Авансирую четвёркой в надежде услышать от тебя что-нибудь посерьёзнее.",
+          "scoredAt": "2026-10-18T22:00:16.338Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Vito22",
+          "comment": "Первый однострочный трэк на раунд. Чувствуется некая неуверенность в исполнении. Советовал бы вырезать мощные вдохи между строк. Напевы в конце не удались.",
+          "scoredAt": "2026-10-18T21:56:11.106Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "кеша хрустальный",
           "comment": "Сам пидор. И рифмы как у хрустальных поэтесс порой – ассонансы в шампанском!1 Ну идея неплохая, но ты не единственный, кто тут смекнул за неё.",
           "scoredAt": "2026-10-18T20:30:36.632Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Ilyasky",
-          "comment": "Много квадратов, простенько по смыслу. С этими эффектами недопонимаю ты там зажевываешь местами или это уже сведос ",
-          "scoredAt": "2026-10-18T20:26:14.009Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Калий (19) [Категория_Состояния]",
-          "comment": "При всём отношении к теме тебя спасло только то, что ты хотя бы 19ку и т.п. обыгрываешь – хотя бы есть признаки свежей работы под конкретный баттл.",
-          "scoredAt": "2026-10-18T20:19:57.925Z"
         }
       ]
     }
