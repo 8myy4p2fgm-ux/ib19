@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T03:02:06.790Z",
+  "exportedAt": "2026-10-18T03:12:04.652Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -27217,8 +27217,14 @@
     },
     {
       "userId": "a3843150-5465-43d6-9a37-a9a480af469e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Запись портит впечатление. Особенно от тараторки. Сделал бы качественнее, оценка была бы выше.",
+          "scoredAt": "2026-10-18T03:04:38.263Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -27244,7 +27250,7 @@
           "scoredAt": "2026-10-12T21:14:26.862Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:22:26.568Z",
+      "fetchedAt": "2026-10-18T03:12:04.652Z",
       "current": true,
       "artistName": "GRYAZNYMARIK",
       "artistSlug": "gryaznymarik"
@@ -56318,8 +56324,14 @@
     },
     {
       "userId": "d9daf914-3b14-4b0b-8eb4-4a2a81160c9c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Ну нарифмовал плотно, а по содержанию ничего интересного. Поток создания без интересных моментов.",
+          "scoredAt": "2026-10-18T03:05:39.301Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -56345,7 +56357,7 @@
           "scoredAt": "2026-10-03T14:07:44.862Z"
         }
       ],
-      "fetchedAt": "2026-10-15T20:02:17.437Z",
+      "fetchedAt": "2026-10-18T03:12:04.652Z",
       "current": true,
       "artistName": "МЦ ВИРТУАЛ",
       "artistSlug": "mc-virtual"
@@ -70408,8 +70420,14 @@
     },
     {
       "userId": "1233ff86-a78a-4a1d-ae17-f4f1b4e9d28d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Вроде есть неплохие моменты, но как же плохо ты рифмуешь. Зачитал уверенно.",
+          "scoredAt": "2026-10-18T03:03:20.736Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -70435,7 +70453,7 @@
           "scoredAt": "2026-10-01T20:12:56.469Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:32:23.748Z",
+      "fetchedAt": "2026-10-18T03:12:04.652Z",
       "current": true,
       "artistName": "ФромЗиро",
       "artistSlug": "fromziro"
@@ -95277,8 +95295,14 @@
     },
     {
       "userId": "eb847b27-a9a8-4a7c-a90f-48192c7148f9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Интересный тречок. Абсурда дал, строчек дал, смылса и посыла не дал. Зачитал ровно.",
+          "scoredAt": "2026-10-18T03:07:16.054Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -95298,7 +95322,7 @@
           "scoredAt": "2026-10-13T23:33:34.780Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-18T03:12:04.652Z",
       "current": true,
       "artistName": "Илим",
       "artistSlug": "ilim"
@@ -97540,8 +97564,14 @@
     },
     {
       "userId": "601f74a7-3b79-4dec-bfad-b03dca3b8341",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Слишком просто и наивно, как по читке так и по тексту.",
+          "scoredAt": "2026-10-18T03:11:50.856Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -97549,7 +97579,7 @@
           "scoredAt": "2026-10-13T15:11:28.820Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T03:12:04.652Z",
       "current": true,
       "artistName": "Prince Noir",
       "artistSlug": "prince-noir"

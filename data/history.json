@@ -144768,6 +144768,76 @@
         "scoredAt": "2026-10-18T02:59:47.457Z",
         "userId": "823d37bd-82fb-419d-bd11-f298fcf9c5e6"
       }
+    },
+    {
+      "id": "66f06e2d48e2b6d2fa344f5fa88ee7a4867b676209f06f131cb0b70ebf6668df",
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "sourceScoredAt": "2026-10-18T03:04:38.263Z",
+      "key": "[\"a3843150-5465-43d6-9a37-a9a480af469e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Запись портит впечатление. Особенно от тараторки. Сделал бы качественнее, оценка была бы выше.",
+        "scoredAt": "2026-10-18T03:04:38.263Z",
+        "userId": "a3843150-5465-43d6-9a37-a9a480af469e"
+      }
+    },
+    {
+      "id": "0530a08cbb2bdc069b90ac13ec08cea08bf543bf919ce86873eb1042002c93f1",
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "sourceScoredAt": "2026-10-18T03:05:39.301Z",
+      "key": "[\"d9daf914-3b14-4b0b-8eb4-4a2a81160c9c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну нарифмовал плотно, а по содержанию ничего интересного. Поток создания без интересных моментов.",
+        "scoredAt": "2026-10-18T03:05:39.301Z",
+        "userId": "d9daf914-3b14-4b0b-8eb4-4a2a81160c9c"
+      }
+    },
+    {
+      "id": "74dbcafcbd444e3a5f310bd046297c1cef24ad2ad4fef99eda380d45f02d9dc2",
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "sourceScoredAt": "2026-10-18T03:03:20.736Z",
+      "key": "[\"1233ff86-a78a-4a1d-ae17-f4f1b4e9d28d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Вроде есть неплохие моменты, но как же плохо ты рифмуешь. Зачитал уверенно.",
+        "scoredAt": "2026-10-18T03:03:20.736Z",
+        "userId": "1233ff86-a78a-4a1d-ae17-f4f1b4e9d28d"
+      }
+    },
+    {
+      "id": "06a559ccb17daedfb9ec1a26077dda6d0ec164c0141a0d90e9d78003e69657d2",
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "sourceScoredAt": "2026-10-18T03:07:16.054Z",
+      "key": "[\"eb847b27-a9a8-4a7c-a90f-48192c7148f9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Интересный тречок. Абсурда дал, строчек дал, смылса и посыла не дал. Зачитал ровно.",
+        "scoredAt": "2026-10-18T03:07:16.054Z",
+        "userId": "eb847b27-a9a8-4a7c-a90f-48192c7148f9"
+      }
+    },
+    {
+      "id": "ca0b66ae436e386bb462544a46839b8c64047af46edd532c1e4990609768374d",
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "sourceScoredAt": "2026-10-18T03:11:50.856Z",
+      "key": "[\"601f74a7-3b79-4dec-bfad-b03dca3b8341\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Слишком просто и наивно, как по читке так и по тексту.",
+        "scoredAt": "2026-10-18T03:11:50.856Z",
+        "userId": "601f74a7-3b79-4dec-bfad-b03dca3b8341"
+      }
     }
   ],
   "snapshots": [
@@ -153647,6 +153717,26 @@
           "index": 29.75499690270794,
           "favor": 17.76444747980641,
           "attention": 1.2683272006793094,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T03:12:04.652Z",
+      "exportedAt": "2026-10-18T03:12:04.652Z",
+      "scores": 13318,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.952652131278462,
+          "favor": 9.280481492607628,
+          "attention": 6.202100216135624,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.766930745330605,
+          "favor": 17.766981044611324,
+          "attention": 1.2777274784970576,
           "respect": 10.722222222222221
         }
       }
