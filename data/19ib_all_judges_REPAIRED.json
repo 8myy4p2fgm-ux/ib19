@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T04:02:07.196Z",
+  "exportedAt": "2026-10-18T04:12:01.420Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -20685,8 +20685,14 @@
     },
     {
       "userId": "12f0e2c3-e2fc-4c08-8c42-a02c07aa741d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Ну строчка про \"между пультом и экраном\" - хороша. Зря прокричал в моменте \"на баттлах\". Короче вижу в тебе потенциал при условии, что ты причешешь подачу и текст. Ставлю четверку авансом.",
+          "scoredAt": "2026-10-18T04:10:42.502Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -20700,7 +20706,7 @@
           "scoredAt": "2026-09-17T15:09:01.172Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:52:39.670Z",
+      "fetchedAt": "2026-10-18T04:12:01.420Z",
       "current": true,
       "artistName": "МС Мастурбатя",
       "artistSlug": "ms-masturbatya"
@@ -41687,8 +41693,14 @@
     },
     {
       "userId": "5b578b53-34ae-4ec7-9653-4321fc96bb99",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "В тексте собрал всё, что только можно было. Получилось всё сумбурно. Зачитал как-то вяло. ",
+          "scoredAt": "2026-10-18T04:03:13.440Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -41708,7 +41720,7 @@
           "scoredAt": "2026-09-09T17:52:06.354Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T04:12:01.420Z",
       "current": true,
       "artistName": "Vetalon",
       "artistSlug": "vetalon"
@@ -57004,8 +57016,14 @@
     },
     {
       "userId": "c11abc53-9643-43c9-87a2-e7481cedfd6b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "В ОГНЕ, БРАТ! Есть забавные строчки, но зачитал как обычно неуверенно ну и плюс это рэп про рэп.",
+          "scoredAt": "2026-10-18T04:06:55.850Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -57031,7 +57049,7 @@
           "scoredAt": "2026-10-10T17:25:48.478Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:12:06.133Z",
+      "fetchedAt": "2026-10-18T04:12:01.420Z",
       "current": true,
       "artistName": "Хьюи",
       "artistSlug": "hyui"
@@ -93989,8 +94007,14 @@
     },
     {
       "userId": "93c3454a-3939-4f6b-bd9c-c0cb9e05c440",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Стильно навалил, хороший биток. Мне понравился момент с  \"тут как\", но по тексту ничего нет, кроме описания лайфстайла. Стильно, но для баттла - такое себе.",
+          "scoredAt": "2026-10-18T04:05:04.428Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -94016,7 +94040,7 @@
           "scoredAt": "2026-10-11T10:59:19.546Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:22:13.673Z",
+      "fetchedAt": "2026-10-18T04:12:01.420Z",
       "current": true,
       "artistName": "Тёма Дикий",
       "artistSlug": "tema-dikiy"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T04:02:07.196Z",
-  "exportedAt": "2026-10-18T04:02:07.196Z",
-  "runId": "2026-10-18T04:02:07.196Z",
-  "forumExportedAt": "2026-10-18T04:02:07.196Z",
+  "lastSuccessfulAt": "2026-10-18T04:12:01.420Z",
+  "exportedAt": "2026-10-18T04:12:01.420Z",
+  "runId": "2026-10-18T04:12:01.420Z",
+  "forumExportedAt": "2026-10-18T04:12:01.420Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13335,
+    "scores": 13339,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7009,
-    "scoresBefore": 13330,
-    "scoresAfter": 13335,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6310,
+    "scoresBefore": 13335,
+    "scoresAfter": 13339,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.78481401782969,
+    "requestReductionPercent": 99.81555487242545,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "МС Мастурбатя",
+          "comment": "Ну строчка про \"между пультом и экраном\" - хороша. Зря прокричал в моменте \"на баттлах\". Короче вижу в тебе потенциал при условии, что ты причешешь подачу и текст. Ставлю четверку авансом.",
+          "scoredAt": "2026-10-18T04:10:42.502Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Хьюи",
+          "comment": "В ОГНЕ, БРАТ! Есть забавные строчки, но зачитал как обычно неуверенно ну и плюс это рэп про рэп.",
+          "scoredAt": "2026-10-18T04:06:55.850Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Тёма Дикий",
+          "comment": "Стильно навалил, хороший биток. Мне понравился момент с  \"тут как\", но по тексту ничего нет, кроме описания лайфстайла. Стильно, но для баттла - такое себе.",
+          "scoredAt": "2026-10-18T04:05:04.428Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Vetalon",
+          "comment": "В тексте собрал всё, что только можно было. Получилось всё сумбурно. Зачитал как-то вяло. ",
+          "scoredAt": "2026-10-18T04:03:13.440Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 1,
@@ -161,34 +189,6 @@
           "artist": "Ай",
           "comment": "Отличный текст, очень хорошая работа. Молодец.",
           "scoredAt": "2026-10-18T03:36:31.219Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Nik0lsky",
-          "comment": "Если вчитаться в текст, то можно найти интересные задумки, но пока это только задумки. Есть проблемы с ритмикой. И манеру исполнения выбрал не очень удачно",
-          "scoredAt": "2026-10-18T03:35:05.366Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "SSSAVAGE",
-          "comment": "Блин, неплозой трек, но ты очень много накосячил по ритмике. Много лишних ускорений, сбивок. Прямо очень сильно попортил впечатление.",
-          "scoredAt": "2026-10-18T03:26:27.537Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "AstroNatrick",
-          "comment": "Неплохой трэк. Из минусов - проблемы по ритмике. Видно, что ты все делал в угоду тектсу, но не забывай, что это еще и четко звучать. Пятерка есть, но не самая уверенная.",
-          "scoredAt": "2026-10-18T03:24:51.719Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Кевин Халф",
-          "comment": "Панчули хорошие, только все про еблю и пердеж. Попробуй все это добро завернуть в текст со смыслом, тогда это будет вышка. Пока только четверка.",
-          "scoredAt": "2026-10-18T03:18:17.525Z"
         }
       ]
     }
