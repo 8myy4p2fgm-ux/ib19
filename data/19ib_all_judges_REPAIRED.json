@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T21:12:05.716Z",
+  "exportedAt": "2026-10-18T21:42:04.259Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -59906,8 +59906,14 @@
     },
     {
       "userId": "accfb6c0-bfd2-4b9b-85a7-acd6cdb37da6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Неубедительное исполнение, рифма то ли теряется, то ли ты вообще иногда не имел цели рифмовать ахаха\nНу и в целом тексток простенький ж",
+          "scoredAt": "2026-10-18T21:41:02.633Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -59933,7 +59939,7 @@
           "scoredAt": "2026-09-15T14:10:53.901Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:22:27.536Z",
+      "fetchedAt": "2026-10-18T21:42:04.259Z",
       "current": true,
       "artistName": "struggle five",
       "artistSlug": "struggle-five"
@@ -80770,9 +80776,16 @@
     },
     {
       "userId": "b5c0b6d5-825f-4595-9289-3d22c679599d",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Шалом, Мирон :3 ну неплохо, да, флоу зрелый, рифмабельно, но само качество рифмы подводит частенько ",
+          "scoredAt": "2026-10-18T21:35:27.569Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T21:42:04.259Z",
       "current": true,
       "artistName": "bалуев Ю.",
       "artistSlug": "baluev-yu"
