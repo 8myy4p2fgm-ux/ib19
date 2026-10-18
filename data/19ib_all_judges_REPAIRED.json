@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T07:32:11.857Z",
+  "exportedAt": "2026-10-18T07:42:45.024Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -111280,8 +111280,14 @@
     },
     {
       "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Частенько это выглядит, как частушка детская в плохом смысле слова. Ты говоришь \"хаслим панчи\", так, ну и где они?) Прав, как руль? Вот этот один бородатый баян, всё?) ",
+          "scoredAt": "2026-10-18T07:33:53.713Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -111295,7 +111301,7 @@
           "scoredAt": "2026-10-16T17:48:18.331Z"
         }
       ],
-      "fetchedAt": "2026-10-17T07:31:52.324Z",
+      "fetchedAt": "2026-10-18T07:42:45.024Z",
       "current": true,
       "artistName": "TRUMYWHITE",
       "artistSlug": "trumywhite"

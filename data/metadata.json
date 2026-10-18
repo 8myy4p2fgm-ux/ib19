@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T07:32:11.857Z",
-  "exportedAt": "2026-10-18T07:32:11.857Z",
-  "runId": "2026-10-18T07:32:11.857Z",
-  "forumExportedAt": "2026-10-18T07:32:11.857Z",
+  "lastSuccessfulAt": "2026-10-18T07:42:45.024Z",
+  "exportedAt": "2026-10-18T07:42:45.024Z",
+  "runId": "2026-10-18T07:42:45.024Z",
+  "forumExportedAt": "2026-10-18T07:42:45.024Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13381,
+    "scores": 13382,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 5006,
-    "scoresBefore": 13379,
-    "scoresAfter": 13381,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3115,
+    "scoresBefore": 13381,
+    "scoresAfter": 13382,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.87703658161698,
+    "requestReductionPercent": 99.90777743621273,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "TRUMYWHITE",
+          "comment": "Частенько это выглядит, как частушка детская в плохом смысле слова. Ты говоришь \"хаслим панчи\", так, ну и где они?) Прав, как руль? Вот этот один бородатый баян, всё?) ",
+          "scoredAt": "2026-10-18T07:33:53.713Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -182,13 +189,6 @@
           "artist": "Lucky_Jazz",
           "comment": "Несешь здравую мысль, хоть и очень простую. По технике исполнения и написания текста все простенько. Поставлю тройку, но это аванс.",
           "scoredAt": "2026-10-18T05:29:13.556Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "F1xxer",
-          "comment": "Ну очень простой тречок. Стараешься интонировать, но пока получается так себе. Если тебе реально 14, то ты большой молодец, делай песни, через пару лет будешь мега уверенным челом на битах.",
-          "scoredAt": "2026-10-18T05:27:31.444Z"
         }
       ]
     }
