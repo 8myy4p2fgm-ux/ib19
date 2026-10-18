@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T06:52:01.704Z",
-  "exportedAt": "2026-10-18T06:52:01.704Z",
-  "runId": "2026-10-18T06:52:01.704Z",
-  "forumExportedAt": "2026-10-18T06:52:01.704Z",
+  "lastSuccessfulAt": "2026-10-18T07:02:04.417Z",
+  "exportedAt": "2026-10-18T07:02:04.417Z",
+  "runId": "2026-10-18T07:02:04.417Z",
+  "forumExportedAt": "2026-10-18T07:02:04.417Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13372,
+    "scores": 13374,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4714,
-    "scoresBefore": 13369,
-    "scoresAfter": 13372,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4193,
+    "scoresBefore": 13372,
+    "scoresAfter": 13374,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.8462957270212,
+    "requestReductionPercent": 99.87703658161698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Неон [Категория_Состояния]",
+          "comment": "А вот панч про победит не важно кто, лишь бы Неон – прям впервые юзаешь, никто из оппонентов тоже не юзал никогда?) Рифме зачастую не хватает остроты, точности, несколько квадратов допущено. Первый абзац по исполнению серенький, дальше лучше.",
+          "scoredAt": "2026-10-18T07:00:19.529Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Ха",
+          "comment": "Это крайне квадратно по рифме, довольно однообразно по читке и совсем не цепко по строчкам в плане панчей там каких-нибудь. Увы... Мне бы хотелось бы за какой-то аргумент зацепиться, но что ты будешь делать во втором, чем крыть, какие козыри – не вижу(",
+          "scoredAt": "2026-10-18T06:54:23.455Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 5,
@@ -175,20 +189,6 @@
           "artist": "жжёные васильки",
           "comment": "Мрачная бытовуха. Понравился твой ход когда одно слово в двух значениях используешь. последняя строчка испортила впечатление, поломал какой-то хуйней все повествование.",
           "scoredAt": "2026-10-18T05:09:52.428Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "theSW",
-          "comment": "mysw - уважаем. Ничего интересного не услышал в твоем треке. Исполняешь пока неуверенно.",
-          "scoredAt": "2026-10-18T05:07:15.038Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "КрокодилGunGrena",
-          "comment": "Жду фита с ксероном.",
-          "scoredAt": "2026-10-18T05:04:56.597Z"
         }
       ]
     }
