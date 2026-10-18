@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T04:32:04.223Z",
+  "exportedAt": "2026-10-18T04:42:03.625Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -26159,8 +26159,14 @@
     },
     {
       "userId": "dd9c5142-75f4-41fe-89a4-a89b44c18a18",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Биток крутой, но по всем остальным параметрам просто.",
+          "scoredAt": "2026-10-18T04:34:08.444Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -26180,7 +26186,7 @@
           "scoredAt": "2026-09-18T17:52:35.631Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:22:32.250Z",
+      "fetchedAt": "2026-10-18T04:42:03.625Z",
       "current": true,
       "artistName": "Nilmak",
       "artistSlug": "nilmak"
@@ -40859,8 +40865,14 @@
     },
     {
       "userId": "3e14f03c-319e-4230-80e3-ddedf6a6194b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Может запись и сведение ты добавишь во втором. А вот текст будет лучше? Я почему-то сомневаюсь.",
+          "scoredAt": "2026-10-18T04:39:37.267Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -40874,7 +40886,7 @@
           "scoredAt": "2026-10-09T11:29:51.927Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T04:42:03.625Z",
       "current": true,
       "artistName": "MO S MARSA",
       "artistSlug": "mo-s-marsa"
@@ -102828,8 +102840,14 @@
     },
     {
       "userId": "c79c8849-0e4a-4c75-9f93-c771233cd3cd",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Неплохой трек. Есть интересные строчки. За строчку \"достиг дна, но это был окоп\" ставлю пятерку. И ни \"Ничего, кроме правды, но это ничего\" тоже хорошая, и про \"подавился виной\". Короче молодец. Побольше таких строчек и поменьше про лепреконов и гномов.",
+          "scoredAt": "2026-10-18T04:37:10.820Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 5,
@@ -102855,7 +102873,7 @@
           "scoredAt": "2026-10-11T14:47:29.713Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:12:11.022Z",
+      "fetchedAt": "2026-10-18T04:42:03.625Z",
       "current": true,
       "artistName": "anorexia",
       "artistSlug": "anorexia"
@@ -105932,8 +105950,14 @@
     },
     {
       "userId": "ff8d61ab-f604-495e-a659-35741f41f232",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Стильно навалил. В тачке такой рэпак с кайфом послушаю, во втором - хз.",
+          "scoredAt": "2026-10-18T04:38:19.879Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -105953,7 +105977,7 @@
           "scoredAt": "2026-10-15T11:47:25.126Z"
         }
       ],
-      "fetchedAt": "2026-10-17T02:11:53.651Z",
+      "fetchedAt": "2026-10-18T04:42:03.625Z",
       "current": true,
       "artistName": "Андрей Кошечкин",
       "artistSlug": "andrey-koshechkin"

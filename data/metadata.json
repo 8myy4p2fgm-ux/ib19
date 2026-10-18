@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T04:32:04.223Z",
-  "exportedAt": "2026-10-18T04:32:04.223Z",
-  "runId": "2026-10-18T04:32:04.223Z",
-  "forumExportedAt": "2026-10-18T04:32:04.223Z",
+  "lastSuccessfulAt": "2026-10-18T04:42:03.625Z",
+  "exportedAt": "2026-10-18T04:42:03.625Z",
+  "runId": "2026-10-18T04:42:03.625Z",
+  "forumExportedAt": "2026-10-18T04:42:03.625Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13346,
+    "scores": 13350,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7152,
-    "scoresBefore": 13341,
-    "scoresAfter": 13346,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5737,
+    "scoresBefore": 13346,
+    "scoresAfter": 13350,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.78481401782969,
+    "requestReductionPercent": 99.81555487242545,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "MO S MARSA",
+          "comment": "Может запись и сведение ты добавишь во втором. А вот текст будет лучше? Я почему-то сомневаюсь.",
+          "scoredAt": "2026-10-18T04:39:37.267Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Андрей Кошечкин",
+          "comment": "Стильно навалил. В тачке такой рэпак с кайфом послушаю, во втором - хз.",
+          "scoredAt": "2026-10-18T04:38:19.879Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "anorexia",
+          "comment": "Неплохой трек. Есть интересные строчки. За строчку \"достиг дна, но это был окоп\" ставлю пятерку. И ни \"Ничего, кроме правды, но это ничего\" тоже хорошая, и про \"подавился виной\". Короче молодец. Побольше таких строчек и поменьше про лепреконов и гномов.",
+          "scoredAt": "2026-10-18T04:37:10.820Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Nilmak",
+          "comment": "Биток крутой, но по всем остальным параметрам просто.",
+          "scoredAt": "2026-10-18T04:34:08.444Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -161,34 +189,6 @@
           "artist": "Vetalon",
           "comment": "В тексте собрал всё, что только можно было. Получилось всё сумбурно. Зачитал как-то вяло. ",
           "scoredAt": "2026-10-18T04:03:13.440Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "Костя Сумрак",
-          "comment": "Если бы не за два часа писал, было бы нормально. А так шляпа. Даже двойку не хочу ставить.",
-          "scoredAt": "2026-10-18T04:00:26.264Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "saba",
-          "comment": "Вроде бы неплохо, но как-то просто и наивно.",
-          "scoredAt": "2026-10-18T03:59:01.702Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "slava ches",
-          "comment": "Зачитал ровно, но в тексте нету ничего интересного.",
-          "scoredAt": "2026-10-18T03:56:58.225Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Defental",
-          "comment": "Не хватило, конечно четверки про макс. Идея неплохая, но исполнение подводит.",
-          "scoredAt": "2026-10-18T03:55:15.653Z"
         }
       ]
     }
