@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T19:12:08.202Z",
-  "exportedAt": "2026-10-18T19:12:08.202Z",
-  "runId": "2026-10-18T19:12:08.202Z",
-  "forumExportedAt": "2026-10-18T19:12:08.202Z",
+  "lastSuccessfulAt": "2026-10-18T19:22:05.441Z",
+  "exportedAt": "2026-10-18T19:22:05.441Z",
+  "runId": "2026-10-18T19:22:05.441Z",
+  "forumExportedAt": "2026-10-18T19:22:05.441Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13829,
+    "scores": 13831,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6187,
-    "scoresBefore": 13825,
-    "scoresAfter": 13829,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3886,
+    "scoresBefore": 13829,
+    "scoresAfter": 13831,
     "fullBaselineRequests": 3258,
-    "requestReductionPercent": 99.8158379373849,
+    "requestReductionPercent": 99.87722529158994,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Silaslovskiy",
+          "comment": "О, Силасловский! Звучит в этот раз странно немного, но сполна покрывается разнообразием в исполнении, да и история хорошая. Убедительно. Харизмой тянешь весь свой музыкальный поезд. ",
+          "scoredAt": "2026-10-18T19:14:12.112Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "YNWA<3U",
+          "comment": "Очень недурно, но как будто это нужно выкручивать мощнее то ли интеллектом и лексиконом, то ли просто панчить и т.п., не знаю. Но до вышки недотягивает. Выделяется осмысленностью, по исполнению тоже, наверно, в моей вселенной ближе к 4",
+          "scoredAt": "2026-10-18T19:13:19.821Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "zakat",
           "comment": "\"безопасней - опасней\"? Серьёзно? :D Ну чисто в уши подолбить басы можно. Работу тут во многом звук делает, не технически подкованный исполнитель. Квадратно по рифме, очень поверхностно. Два даже с натяжкой.",
           "scoredAt": "2026-10-18T18:31:52.876Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 1,
-          "artist": "Ноубадиев",
-          "comment": "Ну это столь скудно и куце, что я хз даже, ещё и в форме скита последние строчки сделал. Не надорвался? :D",
-          "scoredAt": "2026-10-18T18:28:36.730Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Алексей Татаринов",
-          "comment": "Мне нравится бит и то, каким это потенциально МОГЛО БЫ ВЫГЛЯДЕТЬ (ЗВУК И ИСПОЛНЕНИЕ). Но ты не потащил. По рифме квадратно, ударок не хватает ",
-          "scoredAt": "2026-10-18T18:23:43.047Z"
         }
       ]
     }
