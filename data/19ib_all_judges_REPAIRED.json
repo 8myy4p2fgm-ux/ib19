@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T01:42:08.261Z",
+  "exportedAt": "2026-10-18T01:52:02.753Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -28629,8 +28629,14 @@
     },
     {
       "userId": "c554c1b0-9213-4ea6-a3cd-e332aee64a1c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Пожалуйста, запишись на норм студии и сведись. Потенциалл огромный!",
+          "scoredAt": "2026-10-18T01:47:25.208Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -28656,7 +28662,7 @@
           "scoredAt": "2026-10-12T17:03:39.509Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:52:03.769Z",
+      "fetchedAt": "2026-10-18T01:52:02.753Z",
       "current": true,
       "artistName": "CardinaL",
       "artistSlug": "cardinal"
@@ -42565,8 +42571,14 @@
     },
     {
       "userId": "801923f9-c858-4176-a64d-289a9c62fedb",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Охуенно! Нравится всё, прям всё!",
+          "scoredAt": "2026-10-18T01:51:05.678Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -42580,7 +42592,7 @@
           "scoredAt": "2026-09-23T17:56:33.600Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:22:20.239Z",
+      "fetchedAt": "2026-10-18T01:52:02.753Z",
       "current": true,
       "artistName": "Максон С Полей",
       "artistSlug": "makson-s-poley"
@@ -95858,8 +95870,14 @@
     },
     {
       "userId": "1d536000-9358-46c2-87b6-c1685152f472",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Хорошо.",
+          "scoredAt": "2026-10-18T01:51:49.463Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -95885,7 +95903,7 @@
           "scoredAt": "2026-10-08T10:10:00.770Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:02:28.338Z",
+      "fetchedAt": "2026-10-18T01:52:02.753Z",
       "current": true,
       "artistName": "Сапа",
       "artistSlug": "sapa-2"
@@ -107931,8 +107949,14 @@
     },
     {
       "userId": "47e99f64-df0c-4b01-8f61-2ed3b1855a81",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T01:42:18.037Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -107958,7 +107982,7 @@
           "scoredAt": "2026-10-06T17:56:21.780Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:52:25.586Z",
+      "fetchedAt": "2026-10-18T01:52:02.753Z",
       "current": true,
       "artistName": "жека тарасов",
       "artistSlug": "zheka-tarasov"

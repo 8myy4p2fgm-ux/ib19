@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T01:42:08.261Z",
-  "exportedAt": "2026-10-18T01:42:08.261Z",
-  "runId": "2026-10-18T01:42:08.261Z",
-  "forumExportedAt": "2026-10-18T01:42:08.261Z",
+  "lastSuccessfulAt": "2026-10-18T01:52:02.753Z",
+  "exportedAt": "2026-10-18T01:52:02.753Z",
+  "runId": "2026-10-18T01:52:02.753Z",
+  "forumExportedAt": "2026-10-18T01:52:02.753Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13276,
+    "scores": 13280,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11597,
-    "scoresBefore": 13267,
-    "scoresAfter": 13276,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5858,
+    "scoresBefore": 13276,
+    "scoresAfter": 13280,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.66143428747307,
+    "requestReductionPercent": 99.81532779316713,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Сапа",
+          "comment": "Хорошо.",
+          "scoredAt": "2026-10-18T01:51:49.463Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "Максон С Полей",
+          "comment": "Охуенно! Нравится всё, прям всё!",
+          "scoredAt": "2026-10-18T01:51:05.678Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "CardinaL",
+          "comment": "Пожалуйста, запишись на норм студии и сведись. Потенциалл огромный!",
+          "scoredAt": "2026-10-18T01:47:25.208Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "жека тарасов",
+          "comment": "",
+          "scoredAt": "2026-10-18T01:42:18.037Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -161,34 +189,6 @@
           "artist": "RSM2",
           "comment": "Горе ритмику вымучил, а здравое зерно положить забыл.",
           "scoredAt": "2026-10-18T01:28:11.506Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 2,
-          "artist": "N-Ron",
-          "comment": "Невозможно слушать. Не потому что плохо читаешь, а потому что текст по дебильному написан, который буквально наполнен водой сначала строк, всяких местоимений и слов паразитов - \"Но, но\", \"Он, он\", \"У него\", \"Ему\", \"Как будто. Все это косноязычно. Рифмы простые, в содержании нулевая драматургия (тебе не удается ее передать), в общем, к сожалению слабенький рэпк. Читаешь лучше, чем пишешь.",
-          "scoredAt": "2026-10-18T01:03:08.825Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 3,
-          "artist": "soldi",
-          "comment": "Лениво и сдержанно как-то, словно спустя рукава делал. Не хватило разнообразия и фишечек в звучании, в моментах прям напрашивалось. Чуть больше работы с текстом, вроде способен.",
-          "scoredAt": "2026-10-18T00:48:14.945Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "Раджио",
-          "comment": "У тебя тремор, у тебя траблы, у тебя крысы, у меня братья (с) - эта манера исполнения особенно эстетично выглядит. В целом очень и очень эффектно преподнесено все. Ты идеален на этом звенящем бите, мало тут кто смог бы так его вывезти. Ощущение легкости невероятное, еще и текст написан так, чтоб тебе просто было бегать с ним на инструментале. Один из моих ЛТР 100%. ",
-          "scoredAt": "2026-10-17T21:43:19.584Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Katrien",
-          "comment": "Ты поедешь в рехаб, а судьи баттла - в психушку. ",
-          "scoredAt": "2026-10-17T21:30:29.313Z"
         }
       ]
     }

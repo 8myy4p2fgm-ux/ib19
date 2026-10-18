@@ -144250,6 +144250,62 @@
         "scoredAt": "2026-10-18T01:35:46.189Z",
         "userId": "cded9aaa-065a-4008-9a2d-4d316956d839"
       }
+    },
+    {
+      "id": "6ebbf68e4571919ac416b94bcc509b94d267cd13b540eec72d1c86167d897c93",
+      "observedAt": "2026-10-18T01:52:02.753Z",
+      "sourceScoredAt": "2026-10-18T01:47:25.208Z",
+      "key": "[\"c554c1b0-9213-4ea6-a3cd-e332aee64a1c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Пожалуйста, запишись на норм студии и сведись. Потенциалл огромный!",
+        "scoredAt": "2026-10-18T01:47:25.208Z",
+        "userId": "c554c1b0-9213-4ea6-a3cd-e332aee64a1c"
+      }
+    },
+    {
+      "id": "de0d3808a5485e3ffb013003af89e736fbcc1b263e0df6b0e2190573f52910c9",
+      "observedAt": "2026-10-18T01:52:02.753Z",
+      "sourceScoredAt": "2026-10-18T01:51:05.678Z",
+      "key": "[\"801923f9-c858-4176-a64d-289a9c62fedb\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Охуенно! Нравится всё, прям всё!",
+        "scoredAt": "2026-10-18T01:51:05.678Z",
+        "userId": "801923f9-c858-4176-a64d-289a9c62fedb"
+      }
+    },
+    {
+      "id": "554ab29c6a013fbbd5084a81745e8e7ded91fdf06b50e3f2d9c65352baf22b3c",
+      "observedAt": "2026-10-18T01:52:02.753Z",
+      "sourceScoredAt": "2026-10-18T01:51:49.463Z",
+      "key": "[\"1d536000-9358-46c2-87b6-c1685152f472\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хорошо.",
+        "scoredAt": "2026-10-18T01:51:49.463Z",
+        "userId": "1d536000-9358-46c2-87b6-c1685152f472"
+      }
+    },
+    {
+      "id": "15e57e72cc5b9afd02b5695277deeb8e98ec512d6889f893df2c4b5e0ffd47ba",
+      "observedAt": "2026-10-18T01:52:02.753Z",
+      "sourceScoredAt": "2026-10-18T01:42:18.037Z",
+      "key": "[\"47e99f64-df0c-4b01-8f61-2ed3b1855a81\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T01:42:18.037Z",
+        "userId": "47e99f64-df0c-4b01-8f61-2ed3b1855a81"
+      }
     }
   ],
   "snapshots": [
@@ -152989,6 +153045,26 @@
           "index": 29.71026512070256,
           "favor": 17.77006654321927,
           "attention": 1.2179763552610678,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T01:52:02.753Z",
+      "exportedAt": "2026-10-18T01:52:02.753Z",
+      "scores": 13280,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.922188294012862,
+          "favor": 9.281322747194153,
+          "attention": 6.170795124283496,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.713355190766233,
+          "favor": 17.76776129495795,
+          "attention": 1.2233716735860614,
           "respect": 10.722222222222221
         }
       }
