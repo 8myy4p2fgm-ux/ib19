@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T10:02:10.206Z",
-  "exportedAt": "2026-10-18T10:02:10.206Z",
-  "runId": "2026-10-18T10:02:10.206Z",
-  "forumExportedAt": "2026-10-18T10:02:10.206Z",
+  "lastSuccessfulAt": "2026-10-18T10:12:00.188Z",
+  "exportedAt": "2026-10-18T10:12:00.188Z",
+  "runId": "2026-10-18T10:12:00.188Z",
+  "forumExportedAt": "2026-10-18T10:12:00.188Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13456,
+    "scores": 13458,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 10044,
-    "scoresBefore": 13448,
-    "scoresAfter": 13456,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4223,
+    "scoresBefore": 13456,
+    "scoresAfter": 13458,
     "fullBaselineRequests": 3254,
-    "requestReductionPercent": 99.69268592501537,
+    "requestReductionPercent": 99.87707437000614,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "ДОКТОР СТЕРЖЕНЬ",
+          "comment": "Ничего интересного нет в твоем треке. Скукота.",
+          "scoredAt": "2026-10-18T10:04:34.289Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Saint 3.14",
+          "comment": "Неплохо навалил. Как же повезло, что тебе похуй на баттлы и на оценки, а то я бы запарился над оценкой и комментарием, а так хуй положу. Пойду роллить баксы.",
+          "scoredAt": "2026-10-18T10:03:19.967Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Клюква",
           "comment": "Харизма на месте. Из-за ностальгии по глинотейпу поставлю тебе 4, но вообще надо в тексте добавлять. Абсурд на месте, но хотелось бы связанного единой мыслю текста.",
           "scoredAt": "2026-10-18T09:44:40.040Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Okatovsky",
-          "comment": "Зачитал неплохо, но по тексту ничего инетересного.",
-          "scoredAt": "2026-10-18T09:42:58.840Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "МС Домофон",
-          "comment": "я бы без текста плохо разобрала о чем тут вообще. Тебе оч нужна проф запись. По тексту, кстати, озарения имеются. Прокачивайся и возвращайся",
-          "scoredAt": "2026-10-18T09:41:30.165Z"
         }
       ]
     }

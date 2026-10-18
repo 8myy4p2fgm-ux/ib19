@@ -146770,6 +146770,34 @@
         "scoredAt": "2026-10-18T09:58:25.789Z",
         "userId": "7120bd84-2d18-43b9-8cf7-cf6678cf6bda"
       }
+    },
+    {
+      "id": "8745d963728aa9b4e0a610b47df1e935fad8eb97660fdfdc5be293c1d9eb023b",
+      "observedAt": "2026-10-18T10:12:00.188Z",
+      "sourceScoredAt": "2026-10-18T10:04:34.289Z",
+      "key": "[\"fcd271d1-71e4-43ac-a6a3-7df5762188f7\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ничего интересного нет в твоем треке. Скукота.",
+        "scoredAt": "2026-10-18T10:04:34.289Z",
+        "userId": "fcd271d1-71e4-43ac-a6a3-7df5762188f7"
+      }
+    },
+    {
+      "id": "2347861951650ce837bba72c5fa3905e500611fd723eb464a882e704abec6ab9",
+      "observedAt": "2026-10-18T10:12:00.188Z",
+      "sourceScoredAt": "2026-10-18T10:03:19.967Z",
+      "key": "[\"5f2667a5-1bb0-4ecb-9dd6-4d50d526b195\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Неплохо навалил. Как же повезло, что тебе похуй на баттлы и на оценки, а то я бы запарился над оценкой и комментарием, а так хуй положу. Пойду роллить баксы.",
+        "scoredAt": "2026-10-18T10:03:19.967Z",
+        "userId": "5f2667a5-1bb0-4ecb-9dd6-4d50d526b195"
+      }
     }
   ],
   "snapshots": [
@@ -156309,6 +156337,26 @@
           "index": 30.021974540755128,
           "favor": 17.794943656215334,
           "attention": 1.5048086623175734,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T10:12:00.188Z",
+      "exportedAt": "2026-10-18T10:12:00.188Z",
+      "scores": 13458,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.98076721147079,
+          "favor": 9.263445564491962,
+          "attention": 6.2699532259262005,
+          "respect": 6.447368421052632
+        },
+        "veterans": {
+          "index": 30.026208819366275,
+          "favor": 17.795491505917084,
+          "attention": 1.508495091226969,
           "respect": 10.722222222222221
         }
       }

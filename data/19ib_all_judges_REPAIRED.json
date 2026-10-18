@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T10:02:10.206Z",
+  "exportedAt": "2026-10-18T10:12:00.188Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -59730,8 +59730,14 @@
     },
     {
       "userId": "fcd271d1-71e4-43ac-a6a3-7df5762188f7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Ничего интересного нет в твоем треке. Скукота.",
+          "scoredAt": "2026-10-18T10:04:34.289Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
@@ -59757,7 +59763,7 @@
           "scoredAt": "2026-09-17T18:23:51.362Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:42:30.532Z",
+      "fetchedAt": "2026-10-18T10:12:00.188Z",
       "current": true,
       "artistName": "ДОКТОР СТЕРЖЕНЬ",
       "artistSlug": "doktor-sterzhen"
@@ -90150,8 +90156,14 @@
     },
     {
       "userId": "5f2667a5-1bb0-4ecb-9dd6-4d50d526b195",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Неплохо навалил. Как же повезло, что тебе похуй на баттлы и на оценки, а то я бы запарился над оценкой и комментарием, а так хуй положу. Пойду роллить баксы.",
+          "scoredAt": "2026-10-18T10:03:19.967Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -90177,7 +90189,7 @@
           "scoredAt": "2026-10-13T16:39:41.828Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:32:47.284Z",
+      "fetchedAt": "2026-10-18T10:12:00.188Z",
       "current": true,
       "artistName": "Saint 3.14",
       "artistSlug": "saint-3-14"
