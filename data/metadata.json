@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T05:22:03.201Z",
-  "exportedAt": "2026-10-18T05:22:03.201Z",
-  "runId": "2026-10-18T05:22:03.201Z",
-  "forumExportedAt": "2026-10-18T05:22:03.201Z",
+  "lastSuccessfulAt": "2026-10-18T05:32:02.657Z",
+  "exportedAt": "2026-10-18T05:32:02.657Z",
+  "runId": "2026-10-18T05:32:02.657Z",
+  "forumExportedAt": "2026-10-18T05:32:02.657Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13365,
+    "scores": 13369,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 4,
     "changedParticipants": 4,
     "logicalRequests": 6,
-    "durationMs": 6423,
-    "scoresBefore": 13361,
-    "scoresAfter": 13365,
+    "durationMs": 6024,
+    "scoresBefore": 13365,
+    "scoresAfter": 13369,
     "fullBaselineRequests": 3253,
     "requestReductionPercent": 99.81555487242545,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "SVAMI",
+          "comment": "Зачитал ровно, но по тексту все очень просто, без интересных моментов.",
+          "scoredAt": "2026-10-18T05:30:18.350Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Lucky_Jazz",
+          "comment": "Несешь здравую мысль, хоть и очень простую. По технике исполнения и написания текста все простенько. Поставлю тройку, но это аванс.",
+          "scoredAt": "2026-10-18T05:29:13.556Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "F1xxer",
+          "comment": "Ну очень простой тречок. Стараешься интонировать, но пока получается так себе. Если тебе реально 14, то ты большой молодец, делай песни, через пару лет будешь мега уверенным челом на битах.",
+          "scoredAt": "2026-10-18T05:27:31.444Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "artist": "Серёжа честный",
+          "comment": "Не люблю, когда не стараются, а ты не стараешься.",
+          "scoredAt": "2026-10-18T05:22:40.243Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -161,34 +189,6 @@
           "artist": "Алем Алашорда",
           "comment": "Стильно. Чувствуется искренность. Трек трогает. Жалко, что по тексту все просто.",
           "scoredAt": "2026-10-18T04:59:11.623Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "Панк Василий",
-          "comment": "Очень просто и навино, братка.",
-          "scoredAt": "2026-10-18T04:57:46.256Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "шлк",
-          "comment": "Интересно подошел к раскрытию темы. Молодец. Строчки хорошие подвез. Зачитал ровно.",
-          "scoredAt": "2026-10-18T04:56:30.280Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Никита Полосин",
-          "comment": "Забавный тречок, но по тексту скучно. ",
-          "scoredAt": "2026-10-18T04:55:02.324Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Street Ace",
-          "comment": "Второй репер подряд читает, что взорвет как Бэн Ладен. Зачитал норм, но записал хуево. По тексту ничего интересного.",
-          "scoredAt": "2026-10-18T04:53:41.018Z"
         }
       ]
     }

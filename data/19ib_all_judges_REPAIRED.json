@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T05:22:03.201Z",
+  "exportedAt": "2026-10-18T05:32:02.657Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -87064,8 +87064,14 @@
     },
     {
       "userId": "dffa2392-1060-4bd8-82e9-7ef97da8171a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Зачитал ровно, но по тексту все очень просто, без интересных моментов.",
+          "scoredAt": "2026-10-18T05:30:18.350Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -87085,7 +87091,7 @@
           "scoredAt": "2026-09-24T20:35:18.067Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-18T05:32:02.657Z",
       "current": true,
       "artistName": "SVAMI",
       "artistSlug": "svami"
@@ -93727,8 +93733,14 @@
     },
     {
       "userId": "fcf8f4cf-d00b-4099-867c-5571a3aaa3f4",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "comment": "Не люблю, когда не стараются, а ты не стараешься.",
+          "scoredAt": "2026-10-18T05:22:40.243Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -93748,7 +93760,7 @@
           "scoredAt": "2026-10-07T16:54:58.523Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:52:36.548Z",
+      "fetchedAt": "2026-10-18T05:32:02.657Z",
       "current": true,
       "artistName": "Серёжа честный",
       "artistSlug": "serezha-chestnyy"
@@ -97114,8 +97126,14 @@
     },
     {
       "userId": "659dfa67-2b31-4d59-aac8-9b2591f7abd7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Ну очень простой тречок. Стараешься интонировать, но пока получается так себе. Если тебе реально 14, то ты большой молодец, делай песни, через пару лет будешь мега уверенным челом на битах.",
+          "scoredAt": "2026-10-18T05:27:31.444Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -97141,7 +97159,7 @@
           "scoredAt": "2026-10-09T12:03:34.811Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:52:08.668Z",
+      "fetchedAt": "2026-10-18T05:32:02.657Z",
       "current": true,
       "artistName": "F1xxer",
       "artistSlug": "f1xxer"
@@ -97306,8 +97324,14 @@
     },
     {
       "userId": "f311ba91-1aff-43ab-8401-4a482ee81425",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Несешь здравую мысль, хоть и очень простую. По технике исполнения и написания текста все простенько. Поставлю тройку, но это аванс.",
+          "scoredAt": "2026-10-18T05:29:13.556Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -97315,7 +97339,7 @@
           "scoredAt": "2026-10-18T01:58:15.465Z"
         }
       ],
-      "fetchedAt": "2026-10-18T02:02:08.813Z",
+      "fetchedAt": "2026-10-18T05:32:02.657Z",
       "current": true,
       "artistName": "Lucky_Jazz",
       "artistSlug": "lucky-jazz"

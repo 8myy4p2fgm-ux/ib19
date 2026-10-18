@@ -145496,6 +145496,62 @@
         "scoredAt": "2026-10-18T05:12:42.475Z",
         "userId": "52623f7c-28b7-49ad-9204-7c64dc655cee"
       }
+    },
+    {
+      "id": "2c73c434e7d51a01327f5fb10c5e34dfa7b64b3f4520106ecdd81368de8d0dcc",
+      "observedAt": "2026-10-18T05:32:02.657Z",
+      "sourceScoredAt": "2026-10-18T05:30:18.350Z",
+      "key": "[\"dffa2392-1060-4bd8-82e9-7ef97da8171a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Зачитал ровно, но по тексту все очень просто, без интересных моментов.",
+        "scoredAt": "2026-10-18T05:30:18.350Z",
+        "userId": "dffa2392-1060-4bd8-82e9-7ef97da8171a"
+      }
+    },
+    {
+      "id": "9e864d512e8200ac4b1fd1fafc71ce91096d7d4c53c190f80330b253812f63a4",
+      "observedAt": "2026-10-18T05:32:02.657Z",
+      "sourceScoredAt": "2026-10-18T05:22:40.243Z",
+      "key": "[\"fcf8f4cf-d00b-4099-867c-5571a3aaa3f4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Не люблю, когда не стараются, а ты не стараешься.",
+        "scoredAt": "2026-10-18T05:22:40.243Z",
+        "userId": "fcf8f4cf-d00b-4099-867c-5571a3aaa3f4"
+      }
+    },
+    {
+      "id": "ea10d0efa62f77fd2aac9a008044be9961c82da70a18ec7c5cd2e20f638b27a9",
+      "observedAt": "2026-10-18T05:32:02.657Z",
+      "sourceScoredAt": "2026-10-18T05:27:31.444Z",
+      "key": "[\"659dfa67-2b31-4d59-aac8-9b2591f7abd7\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Ну очень простой тречок. Стараешься интонировать, но пока получается так себе. Если тебе реально 14, то ты большой молодец, делай песни, через пару лет будешь мега уверенным челом на битах.",
+        "scoredAt": "2026-10-18T05:27:31.444Z",
+        "userId": "659dfa67-2b31-4d59-aac8-9b2591f7abd7"
+      }
+    },
+    {
+      "id": "9fe1ba783b5d42ccba188bbc15e0accfc096921990238a331aa8eda851a2e27b",
+      "observedAt": "2026-10-18T05:32:02.657Z",
+      "sourceScoredAt": "2026-10-18T05:29:13.556Z",
+      "key": "[\"f311ba91-1aff-43ab-8401-4a482ee81425\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Несешь здравую мысль, хоть и очень простую. По технике исполнения и написания текста все простенько. Поставлю тройку, но это аванс.",
+        "scoredAt": "2026-10-18T05:29:13.556Z",
+        "userId": "f311ba91-1aff-43ab-8401-4a482ee81425"
+      }
     }
   ],
   "snapshots": [
@@ -154635,6 +154691,26 @@
           "index": 29.86119228216492,
           "favor": 17.773242630385482,
           "attention": 1.3657274295572168,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T05:32:02.657Z",
+      "exportedAt": "2026-10-18T05:32:02.657Z",
+      "scores": 13369,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 22.010784326061952,
+          "favor": 9.292452652483492,
+          "attention": 6.24826125104325,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.874294906194834,
+          "favor": 17.778886034288785,
+          "attention": 1.373186649683826,
           "respect": 10.722222222222221
         }
       }
