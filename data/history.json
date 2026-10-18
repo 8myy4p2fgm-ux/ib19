@@ -145286,6 +145286,90 @@
         "scoredAt": "2026-10-18T04:38:19.879Z",
         "userId": "ff8d61ab-f604-495e-a659-35741f41f232"
       }
+    },
+    {
+      "id": "b1df10c2e154695bc483c3a9d85305a57307abbda5b9886abaa3464cee64458a",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T04:55:02.324Z",
+      "key": "[\"0c0a0df2-1e42-46f8-b3bd-10013be236dd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Забавный тречок, но по тексту скучно. ",
+        "scoredAt": "2026-10-18T04:55:02.324Z",
+        "userId": "0c0a0df2-1e42-46f8-b3bd-10013be236dd"
+      }
+    },
+    {
+      "id": "87eac67a2d8972c6f1343fcbb1ae73bd2c92efaaf48b6002c8d82a9a19eddada",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T05:01:12.391Z",
+      "key": "[\"df3ebcdd-75c8-4b1d-9721-83c1bdd526dd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень простой трек. Ничего интересного.",
+        "scoredAt": "2026-10-18T05:01:12.391Z",
+        "userId": "df3ebcdd-75c8-4b1d-9721-83c1bdd526dd"
+      }
+    },
+    {
+      "id": "f07117015d6f0d3b87b452b7ef16abc9fcfbbda8643fd0dc6afa447c4dbd6471",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T04:59:11.623Z",
+      "key": "[\"67dddd29-b2d3-4200-9855-1c3e85cf499f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Стильно. Чувствуется искренность. Трек трогает. Жалко, что по тексту все просто.",
+        "scoredAt": "2026-10-18T04:59:11.623Z",
+        "userId": "67dddd29-b2d3-4200-9855-1c3e85cf499f"
+      }
+    },
+    {
+      "id": "b9f1236250b11099f110c947af7ce721c7c4c6704bca7b07b9b3ff9a360dd211",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T04:57:46.256Z",
+      "key": "[\"222d1718-dcb3-49b3-a265-d3333c7ccb4a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Очень просто и навино, братка.",
+        "scoredAt": "2026-10-18T04:57:46.256Z",
+        "userId": "222d1718-dcb3-49b3-a265-d3333c7ccb4a"
+      }
+    },
+    {
+      "id": "faf5aedf1c0c27b1cca1ca39895f4e9fedb5c46f3a8cddbe1928f81e712b6b6a",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T04:53:41.018Z",
+      "key": "[\"88ad084a-761e-4986-98f3-568023354882\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Второй репер подряд читает, что взорвет как Бэн Ладен. Зачитал норм, но записал хуево. По тексту ничего интересного.",
+        "scoredAt": "2026-10-18T04:53:41.018Z",
+        "userId": "88ad084a-761e-4986-98f3-568023354882"
+      }
+    },
+    {
+      "id": "b889454f5c786b5239b35612d3feb993e9f4c0862973f841299da78e60e058c4",
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "sourceScoredAt": "2026-10-18T04:56:30.280Z",
+      "key": "[\"8cbeb5d3-4296-4ecd-bda7-7291e369b1e4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Интересно подошел к раскрытию темы. Молодец. Строчки хорошие подвез. Зачитал ровно.",
+        "scoredAt": "2026-10-18T04:56:30.280Z",
+        "userId": "8cbeb5d3-4296-4ecd-bda7-7291e369b1e4"
+      }
     }
   ],
   "snapshots": [
@@ -154365,6 +154449,26 @@
           "index": 29.823335755603125,
           "favor": 17.763400176567032,
           "attention": 1.3377133568138715,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T05:02:06.631Z",
+      "exportedAt": "2026-10-18T05:02:06.631Z",
+      "scores": 13356,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.987379297831772,
+          "favor": 9.28079261985622,
+          "attention": 6.23651625544034,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.83848901181746,
+          "favor": 17.7673398381363,
+          "attention": 1.3489269514589397,
           "respect": 10.722222222222221
         }
       }

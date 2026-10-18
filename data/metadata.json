@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T04:42:03.625Z",
-  "exportedAt": "2026-10-18T04:42:03.625Z",
-  "runId": "2026-10-18T04:42:03.625Z",
-  "forumExportedAt": "2026-10-18T04:42:03.625Z",
+  "lastSuccessfulAt": "2026-10-18T05:02:06.631Z",
+  "exportedAt": "2026-10-18T05:02:06.631Z",
+  "runId": "2026-10-18T05:02:06.631Z",
+  "forumExportedAt": "2026-10-18T05:02:06.631Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13350,
+    "scores": 13356,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 5737,
-    "scoresBefore": 13346,
-    "scoresAfter": 13350,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 8,
+    "durationMs": 8112,
+    "scoresBefore": 13350,
+    "scoresAfter": 13356,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.81555487242545,
+    "requestReductionPercent": 99.75407316323394,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Прощай, Белла",
+          "comment": "Очень простой трек. Ничего интересного.",
+          "scoredAt": "2026-10-18T05:01:12.391Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Алем Алашорда",
+          "comment": "Стильно. Чувствуется искренность. Трек трогает. Жалко, что по тексту все просто.",
+          "scoredAt": "2026-10-18T04:59:11.623Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "artist": "Панк Василий",
+          "comment": "Очень просто и навино, братка.",
+          "scoredAt": "2026-10-18T04:57:46.256Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "шлк",
+          "comment": "Интересно подошел к раскрытию темы. Молодец. Строчки хорошие подвез. Зачитал ровно.",
+          "scoredAt": "2026-10-18T04:56:30.280Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Никита Полосин",
+          "comment": "Забавный тречок, но по тексту скучно. ",
+          "scoredAt": "2026-10-18T04:55:02.324Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Street Ace",
+          "comment": "Второй репер подряд читает, что взорвет как Бэн Ладен. Зачитал норм, но записал хуево. По тексту ничего интересного.",
+          "scoredAt": "2026-10-18T04:53:41.018Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -147,48 +189,6 @@
           "artist": "Саша Чужой",
           "comment": "Панчей нету, да и тема не раскрыта...",
           "scoredAt": "2026-10-18T04:23:37.294Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "ЕМИЕМ",
-          "comment": "Очень сумбурно. Рад, что ты покакал. ",
-          "scoredAt": "2026-10-18T04:15:36.946Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Kenli",
-          "comment": "Слушаю твой трек и думаю на. у. я мне это...",
-          "scoredAt": "2026-10-18T04:14:36.863Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "МС Мастурбатя",
-          "comment": "Ну строчка про \"между пультом и экраном\" - хороша. Зря прокричал в моменте \"на баттлах\". Короче вижу в тебе потенциал при условии, что ты причешешь подачу и текст. Ставлю четверку авансом.",
-          "scoredAt": "2026-10-18T04:10:42.502Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Хьюи",
-          "comment": "В ОГНЕ, БРАТ! Есть забавные строчки, но зачитал как обычно неуверенно ну и плюс это рэп про рэп.",
-          "scoredAt": "2026-10-18T04:06:55.850Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Тёма Дикий",
-          "comment": "Стильно навалил, хороший биток. Мне понравился момент с  \"тут как\", но по тексту ничего нет, кроме описания лайфстайла. Стильно, но для баттла - такое себе.",
-          "scoredAt": "2026-10-18T04:05:04.428Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Vetalon",
-          "comment": "В тексте собрал всё, что только можно было. Получилось всё сумбурно. Зачитал как-то вяло. ",
-          "scoredAt": "2026-10-18T04:03:13.440Z"
         }
       ]
     }
