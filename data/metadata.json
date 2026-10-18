@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T18:42:00.641Z",
-  "exportedAt": "2026-10-18T18:42:00.641Z",
-  "runId": "2026-10-18T18:42:00.641Z",
-  "forumExportedAt": "2026-10-18T18:42:00.641Z",
+  "lastSuccessfulAt": "2026-10-18T18:52:09.684Z",
+  "exportedAt": "2026-10-18T18:52:09.684Z",
+  "runId": "2026-10-18T18:52:09.684Z",
+  "forumExportedAt": "2026-10-18T18:52:09.684Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13819,
+    "scores": 13822,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4341,
-    "scoresBefore": 13817,
-    "scoresAfter": 13819,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5811,
+    "scoresBefore": 13819,
+    "scoresAfter": 13822,
     "fullBaselineRequests": 3258,
-    "requestReductionPercent": 99.87722529158994,
+    "requestReductionPercent": 99.8465316144874,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "SergioSkaolini",
+          "comment": "Красивое битло. И зачитано неплохо. Но как же тяжело мне преодолеть отторжение из-за обилия плохих рифм, например, да и по смыслу обыденно. По рифме весь набор – слабосозвучные рифмы, квадраты, глагольные. Не буду терзать себя 2 или 3 поставить, ты проходишь с любой из этих оценок.",
+          "scoredAt": "2026-10-18T18:47:41.925Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "DEADCONST",
+          "comment": "Это что за сын Стима с плохим звуком? Ну через такое качество слышится, что читать ты могёшь. По рифме очень квадратно, конечно, также не хватает чего-то колкого/ударного.",
+          "scoredAt": "2026-10-18T18:43:44.050Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "VaL",
+          "comment": "Очень хорошая, качественная, слушабельная работа со смыслом. Вы в танцах! ",
+          "scoredAt": "2026-10-18T18:41:58.313Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 1,
@@ -168,27 +189,6 @@
           "artist": "Ваня Вульф (Calvary Cross)",
           "comment": "Мощно!",
           "scoredAt": "2026-10-18T18:17:55.812Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "pepedaster",
-          "comment": "Плотно, интересно!",
-          "scoredAt": "2026-10-18T18:17:13.211Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 3,
-          "artist": "Illusinati",
-          "comment": "Вот вроде бы местами и неплохо по подаче, но такое количество радирифменных штук... что выбирая между 3 и 4, рука сама тянется поставить ниже, а голова понимает, что в подаче ничего такого особенного и уверенного не было, чтобы закрывать глаза на своеобразный текстуль и натягивать оценку до 4-х.",
-          "scoredAt": "2026-10-18T18:16:59.274Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Аксёнов",
-          "comment": "GOOD!",
-          "scoredAt": "2026-10-18T18:16:28.749Z"
         }
       ]
     }
