@@ -147190,6 +147190,510 @@
         "scoredAt": "2026-10-18T10:40:43.754Z",
         "userId": "f1ff436e-4850-445b-a247-d4698676f089"
       }
+    },
+    {
+      "id": "7a120600d1bcaeff85509013805417bb2d3bbd566f47049e5b5978eb4add807f",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:43:20.567Z",
+      "key": "[\"08ec7f8c-59de-4f42-923c-3c0bf8d32839\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Вторую половину слушал с большим интересом, чем первую. Тройка с надеждой, что дальше разгонишься",
+        "scoredAt": "2026-10-18T10:43:20.567Z",
+        "userId": "08ec7f8c-59de-4f42-923c-3c0bf8d32839"
+      }
+    },
+    {
+      "id": "ce3e2858bb8bee47978c3c9d276e116cb1b227b7acaa5a4c97a1b2e79eba50dc",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:46:13.502Z",
+      "key": "[\"8077ffe6-3d8e-4ef0-92d6-be0ff37da543\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:46:13.502Z",
+        "userId": "8077ffe6-3d8e-4ef0-92d6-be0ff37da543"
+      }
+    },
+    {
+      "id": "61e06ee2b17fa72e67d74c43156ecbb0e3c128d9d64499a71f889b3a37de107f",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:43:46.398Z",
+      "key": "[\"f5667afb-ceb1-4518-a294-fdb561e8df9e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "За флоу плюс, за однообразные панчи минус. В сумме тройка",
+        "scoredAt": "2026-10-18T10:43:46.398Z",
+        "userId": "f5667afb-ceb1-4518-a294-fdb561e8df9e"
+      }
+    },
+    {
+      "id": "3f4a644964e6964cfd540c52f27f28f254d058bfff4f6c88e1c5915613f613af",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:44:49.472Z",
+      "key": "[\"ae7e503d-8655-47b6-94f7-a7ab7baaf5c1\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Ровно, норм, средний трек. Не выделяешь на фоне основной массы, но и не проседаешь. Чистое 3. ",
+        "scoredAt": "2026-10-18T10:44:49.472Z",
+        "userId": "ae7e503d-8655-47b6-94f7-a7ab7baaf5c1"
+      }
+    },
+    {
+      "id": "5565c358f65b1b122459e56a097a95147e13a4e1fb485c50073fb0f5ee7e0640",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:46:22.091Z",
+      "key": "[\"6f06b938-18a0-49ca-a0f8-9789ef6e1b66\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 1,
+        "comment": "Сыро очень и рано для второго раунда",
+        "scoredAt": "2026-10-18T10:46:22.091Z",
+        "userId": "6f06b938-18a0-49ca-a0f8-9789ef6e1b66"
+      }
+    },
+    {
+      "id": "609845c242890cb1b20215d4c690a00cc4ed6e2608751c6a419e4b1829614969",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:47:11.852Z",
+      "key": "[\"de94fe2f-70ee-4f26-ae32-22cd3851c1a3\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:47:11.852Z",
+        "userId": "de94fe2f-70ee-4f26-ae32-22cd3851c1a3"
+      }
+    },
+    {
+      "id": "860bd6ff1d1b9ec820a24ea318573f0a81e1108f3e4c293cb5a68026d3c0d717",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:42:48.035Z",
+      "key": "[\"04522da9-2721-4eb4-9fc8-b8ef880045b7\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Хорошая работа, проходная",
+        "scoredAt": "2026-10-18T10:42:48.035Z",
+        "userId": "04522da9-2721-4eb4-9fc8-b8ef880045b7"
+      }
+    },
+    {
+      "id": "4c056eb53b62d7c0fbeae485de595de6e58df9396854b6149f6ca9f1e6fbd188",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:50:16.437Z",
+      "key": "[\"f13b9b40-9e31-4230-8cb2-94c644faab35\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам.  Паузы километровые нахуя между строк? Плотнее делай. ",
+        "scoredAt": "2026-10-18T10:50:16.437Z",
+        "userId": "f13b9b40-9e31-4230-8cb2-94c644faab35"
+      }
+    },
+    {
+      "id": "77ff361de7bfbcc68cd04a42d780117c28f4b0d482df2d5a86cccaade958b90f",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:23.124Z",
+      "key": "[\"00af10d8-db89-4453-9572-2838660af1b2\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Много чего сказал, но как будто бы в итоге ничего нового. За исполнение поставлю 4, в тексте не хватает действительно интересных панчей.",
+        "scoredAt": "2026-10-18T10:45:23.124Z",
+        "userId": "00af10d8-db89-4453-9572-2838660af1b2"
+      }
+    },
+    {
+      "id": "b71961c722eb99aa5fa05e6c120f5b2e391e256595576d69275663e7b6a6c1db",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:43:25.507Z",
+      "key": "[\"c017d4b7-b335-4000-8eb2-9cc6c9cdc9a8\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Средне, норм - 3. Монотонно. ",
+        "scoredAt": "2026-10-18T10:43:25.507Z",
+        "userId": "c017d4b7-b335-4000-8eb2-9cc6c9cdc9a8"
+      }
+    },
+    {
+      "id": "2ed0790892f30ae439f8f7fcc1f6677394d4a675db65f7c042fd58422d4f86e9",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:47:15.280Z",
+      "key": "[\"f5bc2e06-3446-4281-a53c-0586edc7cd8c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень простой репак. Ничего интересного.",
+        "scoredAt": "2026-10-18T10:47:15.280Z",
+        "userId": "f5bc2e06-3446-4281-a53c-0586edc7cd8c"
+      }
+    },
+    {
+      "id": "e947aa083541cdc94636335faa12a282a33a5b30dd3caac939336170e388e682",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:46:41.748Z",
+      "key": "[\"b65f36e6-175d-45e6-beac-f5c5272aacd4\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:46:41.748Z",
+        "userId": "b65f36e6-175d-45e6-beac-f5c5272aacd4"
+      }
+    },
+    {
+      "id": "ddda7bd28748d118e1aa6eaae12340c05ba378ab3872e80aea009b612fc9b89c",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:51:44.857Z",
+      "key": "[\"0f071284-eea0-4941-9246-8830746af1ff\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:51:44.857Z",
+        "userId": "0f071284-eea0-4941-9246-8830746af1ff"
+      }
+    },
+    {
+      "id": "fb2b3e605c09d426df95e7d90ccd75e08023d267ee7062a3582976dc1cf6a936",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:51:30.495Z",
+      "key": "[\"5d8f6f42-359e-4001-a7cd-0c7b9159926b\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Поработай над текстом в следующем раунде, он получился очень простым по всем параметрам.",
+        "scoredAt": "2026-10-18T10:51:30.495Z",
+        "userId": "5d8f6f42-359e-4001-a7cd-0c7b9159926b"
+      }
+    },
+    {
+      "id": "bee8f0c060fabe252beab7b1bff83e13f47c017ba4a61f2bafd5b83164e38ec8",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:47:59.133Z",
+      "key": "[\"99a1211f-ae8a-4ed4-a8ea-2c9c495fc213\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Много квадратов, нужно насыщать текст подобного рода трека панчами, конечно же, иначе выглядит просто техничной болтологией на бите. Но на самом деле, можно было и читку докрутить, чуть сыроватым относительно твоего потенциала, как мне показалось.",
+        "scoredAt": "2026-10-18T10:47:59.133Z",
+        "userId": "99a1211f-ae8a-4ed4-a8ea-2c9c495fc213"
+      }
+    },
+    {
+      "id": "2250b3c7946dfbeefbfefef38080975cb6bc5ac119937cc122ce54ac18c68c59",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:42:38.638Z",
+      "key": "[\"e8e32650-ed78-42c4-ac8d-1377f0311708\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:42:38.638Z",
+        "userId": "e8e32650-ed78-42c4-ac8d-1377f0311708"
+      }
+    },
+    {
+      "id": "896414d7db54666839e514024247c4fe148cf1917e8ee19e87864df1c4556041",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:52:20.347Z",
+      "key": "[\"43a85297-d94d-4036-886c-4f5d2d9169e2\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:52:20.347Z",
+        "userId": "43a85297-d94d-4036-886c-4f5d2d9169e2"
+      }
+    },
+    {
+      "id": "7899ae5fc732c9c75bdcd9d020ac586208321c3ad1e3aea1dc1e19c531f0df3a",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:38.828Z",
+      "key": "[\"088c9b6a-6c9a-43cc-9d94-65ebf69f7f7c\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Местами интересно по флоу, но в целом просто нормально. Должен проходить.",
+        "scoredAt": "2026-10-18T10:45:38.828Z",
+        "userId": "088c9b6a-6c9a-43cc-9d94-65ebf69f7f7c"
+      }
+    },
+    {
+      "id": "b4c5d6c6e3d127a5fa8a417fc0f64c87a7da99972f0969f8b9a46321c0a28ab0",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:04.985Z",
+      "key": "[\"94a56fcb-020b-477c-9973-b97aa7fe79cd\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Самая средняя работа,  достаточно для прохода, как по мне",
+        "scoredAt": "2026-10-18T10:45:04.985Z",
+        "userId": "94a56fcb-020b-477c-9973-b97aa7fe79cd"
+      }
+    },
+    {
+      "id": "e5d53c0dc3d369526c338b7ce31f0ea0cee353eb86b451b51790a6d5a1fd1eef",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:54.017Z",
+      "key": "[\"c3edd29e-213a-45a1-9e13-f0dc37b5ea58\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "В выбраном тобой стиле надо делать очень хорошо по звуку, но у тебя все простенько в этом плане. По тексту ничего интересного. ",
+        "scoredAt": "2026-10-18T10:45:54.017Z",
+        "userId": "c3edd29e-213a-45a1-9e13-f0dc37b5ea58"
+      }
+    },
+    {
+      "id": "8c65c61bdc118d2997201a99e746062e231fa31c48044624bdbcf2f05c2422af",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:49:02.776Z",
+      "key": "[\"9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 4,
+        "comment": "Флоу крутой, для баттла тексток подточи чуть в сторону баттловой и содержательной составляющей, а так хорош. ",
+        "scoredAt": "2026-10-18T10:49:02.776Z",
+        "userId": "9156ff3d-3d5a-4e73-91cf-1a4bf8b2947f"
+      }
+    },
+    {
+      "id": "cad5c7bb32d067172d5779e0eadc3ebd03fb62e4c08b2b7b1654bc8a2eb86b51",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:47:35.808Z",
+      "key": "[\"05ee928f-0512-4cf3-9856-dcd5158f107a\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Для отборочного всё хорошо. Проход",
+        "scoredAt": "2026-10-18T10:47:35.808Z",
+        "userId": "05ee928f-0512-4cf3-9856-dcd5158f107a"
+      }
+    },
+    {
+      "id": "209daecdbde3d1d39731ad2ec01f1bd462d0102e55fa1fea96b3d0b29b903a8d",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:48:07.490Z",
+      "key": "[\"8dddad03-997f-4d63-8875-dff4bc25ee42\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Нихуя себе, очень рад тебя видеть, с подключением - располагайся. ",
+        "scoredAt": "2026-10-18T10:48:07.490Z",
+        "userId": "8dddad03-997f-4d63-8875-dff4bc25ee42"
+      }
+    },
+    {
+      "id": "41513c40c1de8d5483473654547031ae699f41a31a912016aaf54c279c90913f",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:58.849Z",
+      "key": "[\"a98d753a-78f3-4110-b09f-f94f4aa34dc3\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Крепкая работа! Стильная читка",
+        "scoredAt": "2026-10-18T10:45:58.849Z",
+        "userId": "a98d753a-78f3-4110-b09f-f94f4aa34dc3"
+      }
+    },
+    {
+      "id": "913d64c6a0c4abb20cde3850b463bfb8c68acd9e6d86c0f74298e9b393144d5d",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:50:18.869Z",
+      "key": "[\"9a6e758b-654b-41b6-ba45-6362af477ca7\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "мне кажется что это вырезка из какого-то трека который ты когда-то писал ведь текст тут в два раза больше чем твой трек но в итоге решил что он подойдет для первого раунда и сдал зачитал неплохо для такого стилька но местами слышны были технические огрехи понравились некоторые идеи заложенные в трек чуть-чуть не хватило их докрутить мне кажется у тебя есть потенциал надо только его раскрыть поэтому желаю удачи тебе во втором раунде и больше так не пиши текст пожалуйста а то очень тяжело его читать потом но в любом случае спасибо за творчества и еще раз удачи",
+        "scoredAt": "2026-10-18T10:50:18.869Z",
+        "userId": "9a6e758b-654b-41b6-ba45-6362af477ca7"
+      }
+    },
+    {
+      "id": "5240743af668bd000198c2f7df0714c346cbc1727120bbcae6d6c8fb8cf8318a",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:42:50.923Z",
+      "key": "[\"65e6b4c0-f1e3-4832-98e6-ad9db9ba426d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Не все золото блестит, не все мертвое молчит - очень крутая строчка. В начале сделал мне больно ударениями. Голос, кстати похож на 13/47.",
+        "scoredAt": "2026-10-18T10:42:50.923Z",
+        "userId": "65e6b4c0-f1e3-4832-98e6-ad9db9ba426d"
+      }
+    },
+    {
+      "id": "5c0aae68e42e34723e8894363d77c55ad6a187501f8e5113c6d653503f7adceb",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:45:40.465Z",
+      "key": "[\"565b3621-3741-487a-8603-ce025d35a2b6\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Качество то подтяни бро, а то на Маржело а звучишь как в РОДЕ НТ1А, средний трек, не вывез свой флекс. ",
+        "scoredAt": "2026-10-18T10:45:40.465Z",
+        "userId": "565b3621-3741-487a-8603-ce025d35a2b6"
+      }
+    },
+    {
+      "id": "2e59060afc5e7c99fb5bab40a0b96a7836d16a08b1a0dbd6209f47e9a1686181",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:43:56.706Z",
+      "key": "[\"5b5e7d77-2659-412d-a396-89abf3720482\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:43:56.706Z",
+        "userId": "5b5e7d77-2659-412d-a396-89abf3720482"
+      }
+    },
+    {
+      "id": "7e55e53859dc5ccead869d172f98c39d94be35ae21b22781d708114e50df3192",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:52:11.553Z",
+      "key": "[\"ebf7f605-44b7-47da-80f6-d344ccc5f137\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Круто, что выучил понятие \"неймдроп\", но исполнение прям страдает.",
+        "scoredAt": "2026-10-18T10:52:11.553Z",
+        "userId": "ebf7f605-44b7-47da-80f6-d344ccc5f137"
+      }
+    },
+    {
+      "id": "f41e799408b494f380f30c40dcf8b32846517eea5839d939bd6b223e0d0b9cea",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:49:31.580Z",
+      "key": "[\"b8bd8e38-21b8-45c7-90ab-695c2a14e114\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Надо расти по всем параметрам. ",
+        "scoredAt": "2026-10-18T10:49:31.580Z",
+        "userId": "b8bd8e38-21b8-45c7-90ab-695c2a14e114"
+      }
+    },
+    {
+      "id": "f0f889e20ad35e1e64f73efb72f8cd491f1f3634fdd4e7673302049f7fb75a4b",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:43:56.991Z",
+      "key": "[\"2efbb7cd-b22a-4087-bdd2-4e2a817cb4f2\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Техники не хватает, допускаешь ошибки, читаешь не очень уверенно. Текст очень прост по форме, по рифмам.",
+        "scoredAt": "2026-10-18T10:43:56.991Z",
+        "userId": "2efbb7cd-b22a-4087-bdd2-4e2a817cb4f2"
+      }
+    },
+    {
+      "id": "b3668ea48fce531fde37fd9d79ab9d9ff3be5da8dcec9ce0d35cc2223df5da8c",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:52:01.341Z",
+      "key": "[\"5b92c98e-63aa-4cc1-b5e4-1df17e8a882d\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Зачастую квадратно, ближе к концу подзажевал в паре моментов. Не хватает того, что можно было бы извлечь из содержания и предъявить, как аргумент поставить оценку выше.",
+        "scoredAt": "2026-10-18T10:52:01.341Z",
+        "userId": "5b92c98e-63aa-4cc1-b5e4-1df17e8a882d"
+      }
+    },
+    {
+      "id": "ad2fca93a563a62f9686cd0af01f92fd64d709f3e6d79d495212a8c8d8d117a0",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:47:10.590Z",
+      "key": "[\"893e26ae-f05b-4e04-8c8d-14b517cc47f1\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Звучишь уверенно, и это пока единственный плюс. Текста не хватает.",
+        "scoredAt": "2026-10-18T10:47:10.590Z",
+        "userId": "893e26ae-f05b-4e04-8c8d-14b517cc47f1"
+      }
+    },
+    {
+      "id": "99b773e3f62788c91aec58e949e97191a76da9e487247c1bae49580f6f82f1b2",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:44:00.999Z",
+      "key": "[\"997cf2ec-2cd4-4745-b416-5828de5a8059\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Средне, слишком тужишься, надо пофиксить это, под такой спокойный бит странно смотрится.",
+        "scoredAt": "2026-10-18T10:44:00.999Z",
+        "userId": "997cf2ec-2cd4-4745-b416-5828de5a8059"
+      }
+    },
+    {
+      "id": "ac077aea7e0839907cbdb3221b9df0a82f7c12f40083b65a3c827d422ace5c30",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:51:30.518Z",
+      "key": "[\"fda3d205-a2dd-40f7-a4fd-8e3bb3894553\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну прикольно раскидал всем залуп. Но по исполнению есть косяки",
+        "scoredAt": "2026-10-18T10:51:30.518Z",
+        "userId": "fda3d205-a2dd-40f7-a4fd-8e3bb3894553"
+      }
+    },
+    {
+      "id": "3f67d22b2e3f520f04e2b7f85c9336ba738d81e6fae5f6e972eb787a1becedb4",
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "sourceScoredAt": "2026-10-18T10:42:23.300Z",
+      "key": "[\"55805da6-4420-4fd6-9319-168a99b76ca6\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Голос как-то утоплен, бит его перебивает. Но в целом нормально",
+        "scoredAt": "2026-10-18T10:42:23.300Z",
+        "userId": "55805da6-4420-4fd6-9319-168a99b76ca6"
+      }
     }
   ],
   "snapshots": [
@@ -156789,6 +157293,26 @@
           "index": 30.107901153571294,
           "favor": 17.79977363326925,
           "attention": 1.5859052980798232,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T10:52:42.433Z",
+      "exportedAt": "2026-10-18T10:52:42.433Z",
+      "scores": 13522,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.85580358675279,
+          "favor": 9.306647020301245,
+          "attention": 6.090823233118212,
+          "respect": 6.458333333333333
+        },
+        "veterans": {
+          "index": 30.204281381444893,
+          "favor": 17.81405675489488,
+          "attention": 1.6680024043277901,
           "respect": 10.722222222222221
         }
       }
