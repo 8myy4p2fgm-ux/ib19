@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T01:12:02.108Z",
+  "exportedAt": "2026-10-18T01:32:06.247Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -32917,8 +32917,14 @@
     },
     {
       "userId": "878b9cc4-142e-4335-b3f1-740237098795",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Оффбиты. Рифмы норм",
+          "scoredAt": "2026-10-18T01:29:55.780Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -32944,7 +32950,7 @@
           "scoredAt": "2026-10-14T12:40:19.994Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-18T01:32:06.247Z",
       "current": true,
       "artistName": "GENRIXXX",
       "artistSlug": "genrixxx"
@@ -44939,8 +44945,14 @@
     },
     {
       "userId": "a201c8cc-4e64-4f62-8034-fdd2a8ecb40c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "comment": "Горе ритмику вымучил, а здравое зерно положить забыл.",
+          "scoredAt": "2026-10-18T01:28:11.506Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -44960,7 +44972,7 @@
           "scoredAt": "2026-09-18T16:17:38.913Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T01:32:06.247Z",
       "current": true,
       "artistName": "RSM2",
       "artistSlug": "rsm2"

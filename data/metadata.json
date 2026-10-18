@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T01:12:02.108Z",
-  "exportedAt": "2026-10-18T01:12:02.108Z",
-  "runId": "2026-10-18T01:12:02.108Z",
-  "forumExportedAt": "2026-10-18T01:12:02.108Z",
+  "lastSuccessfulAt": "2026-10-18T01:32:06.247Z",
+  "exportedAt": "2026-10-18T01:32:06.247Z",
+  "runId": "2026-10-18T01:32:06.247Z",
+  "forumExportedAt": "2026-10-18T01:32:06.247Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13265,
+    "scores": 13267,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 2947,
-    "scoresBefore": 13264,
-    "scoresAfter": 13265,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4391,
+    "scoresBefore": 13265,
+    "scoresAfter": 13267,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.90766389658357,
+    "requestReductionPercent": 99.87688519544476,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "GENRIXXX",
+          "comment": "Оффбиты. Рифмы норм",
+          "scoredAt": "2026-10-18T01:29:55.780Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "artist": "RSM2",
+          "comment": "Горе ритмику вымучил, а здравое зерно положить забыл.",
+          "scoredAt": "2026-10-18T01:28:11.506Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 2,
@@ -175,20 +189,6 @@
           "artist": "Crocodillac Crocodillac",
           "comment": "Переслушивать такое не стал бы. Максимально неслушабельно звучит. ",
           "scoredAt": "2026-10-17T20:09:52.195Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "Moymirok",
-          "comment": "",
-          "scoredAt": "2026-10-17T20:08:01.560Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 3,
-          "artist": "Роман Манакин",
-          "comment": "С такими рифмами парных не видать ",
-          "scoredAt": "2026-10-17T20:06:27.471Z"
         }
       ]
     }
