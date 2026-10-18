@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T22:02:06.682Z",
+  "exportedAt": "2026-10-18T22:12:08.420Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -89417,8 +89417,14 @@
     },
     {
       "userId": "5939e3f4-45af-4ac4-a1f9-43dfdd40fd7f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Работа весьма средняя: простые рифмы, явные склейки при записи, однообразная манера читки.",
+          "scoredAt": "2026-10-18T22:03:54.294Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -89438,7 +89444,7 @@
           "scoredAt": "2026-10-09T12:46:34.913Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:42:11.560Z",
+      "fetchedAt": "2026-10-18T22:12:08.420Z",
       "current": true,
       "artistName": "AZVRT",
       "artistSlug": "azvrt"
@@ -89973,8 +89979,14 @@
     },
     {
       "userId": "1534be4c-823d-4388-986e-fcd9347460e5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Строчки вообще не проходные – есть весьма оригинальные панчики. А вот читка совсем слабая: оффбиты, одинаковые акцентные интонации, потери ритма. Этот параметр тебе нужно прокачивать, чтобы догнать текстовые умения.",
+          "scoredAt": "2026-10-18T22:07:19.881Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -89988,7 +90000,7 @@
           "scoredAt": "2026-10-15T05:27:09.365Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:02:24.160Z",
+      "fetchedAt": "2026-10-18T22:12:08.420Z",
       "current": true,
       "artistName": "deli hell",
       "artistSlug": "deli-hell"
