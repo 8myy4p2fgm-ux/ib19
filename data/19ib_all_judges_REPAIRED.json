@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T13:02:06.743Z",
+  "exportedAt": "2026-10-18T13:22:13.358Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -7595,8 +7595,14 @@
     },
     {
       "userId": "ef6f595d-a353-47af-9e21-46480b27ba05",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Дабл трек добавляет грязи. Либо ровняй, либо не делай так больше. По читке как-то вяло, хочется еще добавить харизмы. По тексту есть светлые моменты, но это пока только моменты.",
+          "scoredAt": "2026-10-18T13:13:56.033Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -7616,7 +7622,7 @@
           "scoredAt": "2026-10-10T00:33:28.757Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:52:23.240Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "Плесень",
       "artistSlug": "plesen"
@@ -35556,9 +35562,16 @@
     },
     {
       "userId": "de647c74-3ea0-4691-87bd-9f6e93e15afb",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Интересная задумка, есть забавные строчки, но исполнение очень сильно подводит.",
+          "scoredAt": "2026-10-18T13:02:33.296Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "C001C01D",
       "artistSlug": "c001c01d"
@@ -62081,8 +62094,14 @@
     },
     {
       "userId": "71a48f32-0277-4226-9506-74c1c3b9b8af",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Ой как вкусно! Хорошо звучит, бит ваще разъеб, отлично дополняете друг-друга, есть интересные строчки! Хорошо стелешь",
+          "scoredAt": "2026-10-18T13:11:26.264Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 5,
@@ -62090,7 +62109,7 @@
           "scoredAt": "2026-10-07T19:28:23.346Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "ReckTER",
       "artistSlug": "reckter"
@@ -71083,8 +71102,14 @@
     },
     {
       "userId": "5f3b3223-0eed-464b-8d98-2e736b1effc8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Искусство! Гений своего времени!",
+          "scoredAt": "2026-10-18T13:08:59.775Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -71110,7 +71135,7 @@
           "scoredAt": "2026-10-13T06:25:50.828Z"
         }
       ],
-      "fetchedAt": "2026-10-15T12:22:29.143Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "MC_CROW",
       "artistSlug": "mc-crow"
@@ -71145,8 +71170,14 @@
     },
     {
       "userId": "ad4cbb9a-848e-459d-b2ff-117c2f059afc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Рифмы интереснее сделай, панчи тоже щакрученей чем шурупы надо, скучновато звучит, но читочку бы тоже подкачать, во втором можно так слететь на изи . есть прикольные моменты в тексте но их мало ",
+          "scoredAt": "2026-10-18T13:03:04.491Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -71166,7 +71197,7 @@
           "scoredAt": "2026-10-09T11:07:42.216Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:52:08.668Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "phlegmvtix",
       "artistSlug": "phlegmvtix"
@@ -80394,8 +80425,14 @@
     },
     {
       "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Скучновато по подаче , мыслей много накидал на раскрытие но ни одну в панч не завернул. И добавь лёгкости в исполнении как-то напряженно читаешь звучит лоускильно . добавь к смысла панчлайны сильные и можешь подачу пока-что не менять даже . ",
+          "scoredAt": "2026-10-18T13:19:05.591Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -80403,7 +80440,7 @@
           "scoredAt": "2026-10-16T00:13:02.530Z"
         }
       ],
-      "fetchedAt": "2026-10-16T00:22:22.399Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "СТРАННЫЙ",
       "artistSlug": "strannyy"
@@ -85082,8 +85119,14 @@
     },
     {
       "userId": "754e9f48-571b-4016-8c69-43ec3d636c6d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Читаешь уверенно, фишечки присутствуют. ИИшный припев сильно портит впечатление.",
+          "scoredAt": "2026-10-18T13:11:55.547Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -85091,7 +85134,7 @@
           "scoredAt": "2026-10-17T12:06:23.334Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:12:16.903Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "Erwachen",
       "artistSlug": "erwachen"
@@ -86105,8 +86148,14 @@
     },
     {
       "userId": "b7690fc4-f3dc-4ed1-bf06-51b954854052",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Читаешь уверенно и технично. По тексту ничего интересного.",
+          "scoredAt": "2026-10-18T13:16:10.716Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -86132,7 +86181,7 @@
           "scoredAt": "2026-10-11T10:19:30.673Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:32:26.602Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "MusicMuggle",
       "artistSlug": "musicmuggle"
@@ -96540,8 +96589,14 @@
     },
     {
       "userId": "60d120b4-3959-4e71-8392-1f07078370a4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Ну вот ты выбрал упор на исполнение, но по звуку все это рассыпается. Припев в твоем исполнении вяленько звучит, а по тексту ничего нет интересного. Можешь делать лучше. Натяну на 4 с надеждой на то, что во втором исправишься. ",
+          "scoredAt": "2026-10-18T13:10:45.680Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -96555,7 +96610,7 @@
           "scoredAt": "2026-10-07T11:53:03.123Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "kriv",
       "artistSlug": "kriv"
@@ -96862,8 +96917,14 @@
     },
     {
       "userId": "0f0fe96f-2f67-427b-b17d-18e15b81c217",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Ну какая-то каша лютая у тебя братан. ",
+          "scoredAt": "2026-10-18T13:04:25.136Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -96883,7 +96944,7 @@
           "scoredAt": "2026-10-16T09:31:43.068Z"
         }
       ],
-      "fetchedAt": "2026-10-16T22:21:54.908Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "диссарик",
       "artistSlug": "dissarik"
@@ -98698,8 +98759,14 @@
     },
     {
       "userId": "750ff312-243f-4a4d-a1c1-a560462ef81a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Клёвые строчки есть, разнообразия дал, кеков накидал, тему стебанул , звучишь хорошо, читать умеешь, рифмы желают стать лучше , лови 5 авансом. Во втором знаем что можешь выдать пздато ",
+          "scoredAt": "2026-10-18T13:06:07.872Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -98725,7 +98792,7 @@
           "scoredAt": "2026-10-13T22:47:54.513Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:32:21.025Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "Некто в сером",
       "artistSlug": "nekto-v-serom"
@@ -99616,8 +99683,14 @@
     },
     {
       "userId": "211447a5-6415-4b91-85ab-cf26d6bc92e8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "К сожалению я ебанат и не прозрел, ибо не нашел ни одного нормально панча. Зато увидел про лоха и про клитор. ",
+          "scoredAt": "2026-10-18T13:08:35.156Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -99631,7 +99704,7 @@
           "scoredAt": "2026-10-14T15:55:57.235Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:52:09.380Z",
+      "fetchedAt": "2026-10-18T13:22:13.358Z",
       "current": true,
       "artistName": "Trais",
       "artistSlug": "trais"
