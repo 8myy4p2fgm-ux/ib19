@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T02:32:08.538Z",
+  "exportedAt": "2026-10-18T02:42:11.554Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -15852,8 +15852,14 @@
     },
     {
       "userId": "aef7c6d4-411a-4808-8b4a-618a80a4f295",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Ой, прикольно))\nЩиты за Луччи, Мастяка, Татища и Танира.\nНу-ка не обижай их, я тебе 4 поставлю)\nНу а если серьезно, мне напомнил группу Заточка. \nИ про вокал никого не слушай, пусть будет твоей фишкой.\nЗнаешь, этакий дворой образ опытного дядьки с гаража.\nОнит не шарят, бро, это стиль))",
+          "scoredAt": "2026-10-18T02:34:57.313Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -15879,7 +15885,7 @@
           "scoredAt": "2026-10-02T16:47:58.849Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-18T02:42:11.554Z",
       "current": true,
       "artistName": "Макфлай",
       "artistSlug": "makflay"
@@ -58016,8 +58022,14 @@
     },
     {
       "userId": "9b8406ec-6976-4703-a28a-734e2398a23c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Сын Трула, Паши Кемпеля и Классика))\nНормально навалил!",
+          "scoredAt": "2026-10-18T02:39:28.821Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -58031,7 +58043,7 @@
           "scoredAt": "2026-10-15T18:42:07.533Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:42:15.233Z",
+      "fetchedAt": "2026-10-18T02:42:11.554Z",
       "current": true,
       "artistName": "Emilien",
       "artistSlug": "emilien"
@@ -72638,8 +72650,14 @@
     },
     {
       "userId": "1bec8b38-88ac-436a-930b-8372bfb94dea",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T02:38:02.606Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -72665,7 +72683,7 @@
           "scoredAt": "2026-10-02T16:29:48.705Z"
         }
       ],
-      "fetchedAt": "2026-10-16T08:12:20.030Z",
+      "fetchedAt": "2026-10-18T02:42:11.554Z",
       "current": true,
       "artistName": "VOKINNERAM",
       "artistSlug": "vokinneram"
@@ -103400,8 +103418,14 @@
     },
     {
       "userId": "82f4581b-d516-49cb-969c-a2e6b717a988",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Хорошо. И текст, и исполнение на уцровне. Интересно было слушать и приятно.",
+          "scoredAt": "2026-10-18T02:37:30.342Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -103421,7 +103445,7 @@
           "scoredAt": "2026-10-14T11:31:46.468Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:32:07.259Z",
+      "fetchedAt": "2026-10-18T02:42:11.554Z",
       "current": true,
       "artistName": "VaL",
       "artistSlug": "val"
@@ -110177,8 +110201,14 @@
     },
     {
       "userId": "55805da6-4420-4fd6-9319-168a99b76ca6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-18T02:36:15.574Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -110198,7 +110228,7 @@
           "scoredAt": "2026-10-12T18:58:46.864Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:12:36.764Z",
+      "fetchedAt": "2026-10-18T02:42:11.554Z",
       "current": true,
       "artistName": "Spayke",
       "artistSlug": "spayke"
