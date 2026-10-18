@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T22:22:04.126Z",
-  "exportedAt": "2026-10-18T22:22:04.126Z",
-  "runId": "2026-10-18T22:22:04.126Z",
-  "forumExportedAt": "2026-10-18T22:22:04.126Z",
+  "lastSuccessfulAt": "2026-10-18T22:32:09.839Z",
+  "exportedAt": "2026-10-18T22:32:09.839Z",
+  "runId": "2026-10-18T22:32:09.839Z",
+  "forumExportedAt": "2026-10-18T22:32:09.839Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13854,
+    "scores": 13857,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 5,
-    "durationMs": 4799,
-    "scoresBefore": 13851,
-    "scoresAfter": 13854,
+    "durationMs": 4690,
+    "scoresBefore": 13854,
+    "scoresAfter": 13857,
     "fullBaselineRequests": 3259,
     "requestReductionPercent": 99.84657870512427,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Saint Y",
+          "comment": "Дружище, ну умеешь же читать и писать. Зачем выбирать сдавать на проводимое раз в два года знаковое хип-хоп соревнование такую унылость от бита до исполнения? Это очень грузово и монотонно. Будь ярче!",
+          "scoredAt": "2026-10-18T22:29:02.773Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Stimma",
+          "comment": "Надеюсь, что инженеришь ты не так, как рэпуешь! Плюс балл за нужную людям профессию!",
+          "scoredAt": "2026-10-18T22:25:30.299Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Стичи [JAMBULA]",
+          "comment": "Оригинальный подход к раскрытию, улыбнуло! К исполнению в паре мест есть некоторые вопросики, но I always find something wrong.",
+          "scoredAt": "2026-10-18T22:24:15.768Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -168,27 +189,6 @@
           "artist": "Bronik",
           "comment": "Тук тук я к вам пришел к вашим мамам Буду там бам бам бАм (с) это могло бы даже в рамках выбранного вектора красиво и качево звучать, но это надо другим совсем звуком брать, напором и убедительностью - пока нету. ",
           "scoredAt": "2026-10-18T21:02:29.034Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Propel",
-          "comment": "\"и вряд ли Я то там пройду отбор и дАже первый круг\" - да ты тут треть участников могнул. Есть шероховатости, но не критичные. Ждем во втором. Хорошо, что принял решение вернуться",
-          "scoredAt": "2026-10-18T21:00:03.300Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "Стокгольмский Синдром",
-          "comment": "Неоднозначная история, но и по подаче пока вопросы огромные. Возвращайся на след сезон",
-          "scoredAt": "2026-10-18T20:56:44.086Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Вова Против",
-          "comment": "Ну чисто на послушать можно, бодренько. В основном, за это тройбан. Очень квадратно по рифме.",
-          "scoredAt": "2026-10-18T20:43:56.852Z"
         }
       ]
     }

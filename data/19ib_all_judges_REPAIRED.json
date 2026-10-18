@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T22:22:04.126Z",
+  "exportedAt": "2026-10-18T22:32:09.839Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -36855,8 +36855,14 @@
     },
     {
       "userId": "665772b2-8246-4449-944a-5e42f993bfbd",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Надеюсь, что инженеришь ты не так, как рэпуешь! Плюс балл за нужную людям профессию!",
+          "scoredAt": "2026-10-18T22:25:30.299Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 1,
@@ -36882,7 +36888,7 @@
           "scoredAt": "2026-09-10T17:47:17.036Z"
         }
       ],
-      "fetchedAt": "2026-10-18T17:22:07.203Z",
+      "fetchedAt": "2026-10-18T22:32:09.839Z",
       "current": true,
       "artistName": "Stimma",
       "artistSlug": "stimma"
@@ -44461,8 +44467,14 @@
     },
     {
       "userId": "55f121eb-056d-4a69-966c-470e0b6b7fa1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Дружище, ну умеешь же читать и писать. Зачем выбирать сдавать на проводимое раз в два года знаковое хип-хоп соревнование такую унылость от бита до исполнения? Это очень грузово и монотонно. Будь ярче!",
+          "scoredAt": "2026-10-18T22:29:02.773Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -44482,7 +44494,7 @@
           "scoredAt": "2026-10-15T10:56:56.990Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:22:20.239Z",
+      "fetchedAt": "2026-10-18T22:32:09.839Z",
       "current": true,
       "artistName": "Saint Y",
       "artistSlug": "saint-y"
@@ -46775,8 +46787,14 @@
     },
     {
       "userId": "f5b5ffb8-3019-4a57-8c50-e90c3e161626",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Оригинальный подход к раскрытию, улыбнуло! К исполнению в паре мест есть некоторые вопросики, но I always find something wrong.",
+          "scoredAt": "2026-10-18T22:24:15.768Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -46802,7 +46820,7 @@
           "scoredAt": "2026-09-24T21:10:07.688Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:22:26.568Z",
+      "fetchedAt": "2026-10-18T22:32:09.839Z",
       "current": true,
       "artistName": "Стичи [JAMBULA]",
       "artistSlug": "stichi-jambula"
