@@ -146882,6 +146882,314 @@
         "scoredAt": "2026-10-18T10:30:38.810Z",
         "userId": "5573adeb-20b6-4ae8-bd31-59d2fa82bc3e"
       }
+    },
+    {
+      "id": "2de03438ad3ddb6a1e7547362adf1af79a8e7e668011f51ec4e537b01f719756",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:41:39.971Z",
+      "key": "[\"a82ee880-67b7-4156-9825-d9d8b270dd68\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:41:39.971Z",
+        "userId": "a82ee880-67b7-4156-9825-d9d8b270dd68"
+      }
+    },
+    {
+      "id": "15c05e90fa59de59e126c07a072b118e6ac383bfcf28ea5caa27ff0f96f872d2",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:37:21.494Z",
+      "key": "[\"e5f793e8-3472-452c-8196-58d43be449dd\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Потенциал есть, но пока не очень звучит. Мало для прохода",
+        "scoredAt": "2026-10-18T10:37:21.494Z",
+        "userId": "e5f793e8-3472-452c-8196-58d43be449dd"
+      }
+    },
+    {
+      "id": "6d20cc77be21d627363fdcec193842461ac6d284315277c31580edcbb6b96176",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:38:25.248Z",
+      "key": "[\"69bcf410-4737-46fc-a232-28790fa46682\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Половину слов не разобрать, не самая худшая работа, но и проходить такое не должно.",
+        "scoredAt": "2026-10-18T10:38:25.248Z",
+        "userId": "69bcf410-4737-46fc-a232-28790fa46682"
+      }
+    },
+    {
+      "id": "edd91f778bef4bde545be09858d914abe8e4b09fcdcc63de874fbf1ede9669ff",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:41:28.436Z",
+      "key": "[\"9855b230-00e7-4724-baef-c4fe4a52c580\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Есть своё настроение, это приятно. Но странный звук/сведение пока мешает оценить работу выше",
+        "scoredAt": "2026-10-18T10:41:28.436Z",
+        "userId": "9855b230-00e7-4724-baef-c4fe4a52c580"
+      }
+    },
+    {
+      "id": "dbb07df9fd1bccf995fc7a7df731747b494ae55218e00132063bf1a9dc73dc20",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:39:13.845Z",
+      "key": "[\"364b49c6-fe2a-4733-99fc-44fc584ca6a7\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну надо чуть подкрутить сведение и исполнение. Авансом 3",
+        "scoredAt": "2026-10-18T10:39:13.845Z",
+        "userId": "364b49c6-fe2a-4733-99fc-44fc584ca6a7"
+      }
+    },
+    {
+      "id": "54e806e1897b710d168772224e4ca572f534ebb90c2cc4810a056d6e01d1a742",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:36:44.050Z",
+      "key": "[\"210fec3b-edaa-4c18-8e29-2eb2f1328883\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 5,
+        "comment": "Раскрытие не оригинальное, но здесь неплохо подобраны формулировки, хорошая подача текста.",
+        "scoredAt": "2026-10-18T10:36:44.050Z",
+        "userId": "210fec3b-edaa-4c18-8e29-2eb2f1328883"
+      }
+    },
+    {
+      "id": "37f99c173d5dcadfda907d36b4525fdd3e2db51bd84bd023eb1bde200415431a",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:39:49.458Z",
+      "key": "[\"3cdafea4-06c6-4f9a-af50-9c0560a17970\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 5,
+        "comment": "Хороший трек. Рифмовка приятная прям",
+        "scoredAt": "2026-10-18T10:39:49.458Z",
+        "userId": "3cdafea4-06c6-4f9a-af50-9c0560a17970"
+      }
+    },
+    {
+      "id": "39ad881c5b545e514c32915e6498bfbceb326016352316e226936c1b477713de",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:40:22.195Z",
+      "key": "[\"8c0ebea1-0c85-4281-a209-d9672abbd0b9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Рифмуешь хорошо. Подаешь тоже. По ОВ поставлю вышку, но хотелось бы еще какой-то посыл обнаружить в тексте.",
+        "scoredAt": "2026-10-18T10:40:22.195Z",
+        "userId": "8c0ebea1-0c85-4281-a209-d9672abbd0b9"
+      }
+    },
+    {
+      "id": "b4a90c2102ea180a04ef84e67b260986c143f5d32d520d9d26e17b9622dc0c88",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:36:39.259Z",
+      "key": "[\"8174ac3e-9188-4a62-bca9-0a71620d7924\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Бит живёт отдельно, голос отдельно. Просто набор букв в рифму",
+        "scoredAt": "2026-10-18T10:36:39.259Z",
+        "userId": "8174ac3e-9188-4a62-bca9-0a71620d7924"
+      }
+    },
+    {
+      "id": "b967bbdf3362c58a2dae373139dd3693e71c3e011e79996d48f25377e0c259ce",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:36:51.920Z",
+      "key": "[\"27b38ca0-6c06-4e53-84fa-5bbb27eeefb5\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:36:51.920Z",
+        "userId": "27b38ca0-6c06-4e53-84fa-5bbb27eeefb5"
+      }
+    },
+    {
+      "id": "d28f39b8b376f0b616a5f119a9718bf9741adcc29dd637aca69782fc25a27f00",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:34:13.566Z",
+      "key": "[\"dfc3a63a-cf04-4f11-92c4-901320c98206\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Не провалился нигде, но и удивить меня не получилось. Средне",
+        "scoredAt": "2026-10-18T10:34:13.566Z",
+        "userId": "dfc3a63a-cf04-4f11-92c4-901320c98206"
+      }
+    },
+    {
+      "id": "f10729a0eee4f6ac7bb2bb5e085fb3c256ee24920eb2bf410bdd56f301de1ca6",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:32:13.872Z",
+      "key": "[\"26e51249-b25c-45d8-abf2-5fc18330d4b9\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Исполнение бодрее, чем сам материал",
+        "scoredAt": "2026-10-18T10:32:13.872Z",
+        "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9"
+      }
+    },
+    {
+      "id": "f928135ea5664d88e80a3588c485742d343e63b55d7d580342c39272b4278202",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:40:15.249Z",
+      "key": "[\"d923e0cc-58b6-403c-a4e3-1a8b0490fe16\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Текст местами хороший, исполнение нормальное. До четвёрки не дожал",
+        "scoredAt": "2026-10-18T10:40:15.249Z",
+        "userId": "d923e0cc-58b6-403c-a4e3-1a8b0490fe16"
+      }
+    },
+    {
+      "id": "4612f6a36cf3a69331da6258a476cf654e03444806ace135be17b6104e3067be",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:32:49.838Z",
+      "key": "[\"d2b38546-8e17-47c1-b9fe-4075cfa9a214\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Хорошая работа, между 3 и 4",
+        "scoredAt": "2026-10-18T10:32:49.838Z",
+        "userId": "d2b38546-8e17-47c1-b9fe-4075cfa9a214"
+      }
+    },
+    {
+      "id": "d80f9b677b557157a35e9e96d8d76c5fc8e6f3fca67c0c03fbe78ef47b3534c1",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:35:37.281Z",
+      "key": "[\"b2866669-07fc-40c8-a57c-0ce3722fa93a\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Прикольно, но интересно, как это будет дальше выглядеть.",
+        "scoredAt": "2026-10-18T10:35:37.281Z",
+        "userId": "b2866669-07fc-40c8-a57c-0ce3722fa93a"
+      }
+    },
+    {
+      "id": "6bf06ddff1adc6ff0f69dcb6286c3133050f4c270eafb8356d7cbccebda80f19",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:37:41.602Z",
+      "key": "[\"9c8233e9-a5cd-47d3-925f-ebd5a85c60b1\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 2,
+        "comment": "ну ты и ТВАРЬ",
+        "scoredAt": "2026-10-18T10:37:41.602Z",
+        "userId": "9c8233e9-a5cd-47d3-925f-ebd5a85c60b1"
+      }
+    },
+    {
+      "id": "6632d38ba4fb79d432e9ac3fd04f4575bb5437330d691548dd58237883197981",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:33:26.799Z",
+      "key": "[\"24927798-0db3-46fc-a29f-92653881dca8\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T10:33:26.799Z",
+        "userId": "24927798-0db3-46fc-a29f-92653881dca8"
+      }
+    },
+    {
+      "id": "b19f934e5330949fe32e7d513d7ca25b6246fd4b1b40398ec9435de1a9b8a36e",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:37:47.143Z",
+      "key": "[\"c0ab7b0f-0485-4c68-b792-3af41094a175\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 1,
+        "comment": "Удачи в дальнейшем!",
+        "scoredAt": "2026-10-18T10:37:47.143Z",
+        "userId": "c0ab7b0f-0485-4c68-b792-3af41094a175"
+      }
+    },
+    {
+      "id": "bd6131afb40f84489ce0bdc6ff9f77f48eec38b1ee38de4f7ec1cd307888baeb",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:32:46.730Z",
+      "key": "[\"819bf872-7424-44c2-86fd-d184519c05ba\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 3,
+        "comment": "Заявка на оригинальнность, но полностью не вывез свою идею.",
+        "scoredAt": "2026-10-18T10:32:46.730Z",
+        "userId": "819bf872-7424-44c2-86fd-d184519c05ba"
+      }
+    },
+    {
+      "id": "ec6dd0be836ec0a0ec021f3f8a5daee1c92541299bfc4c54fcce7869f08c2c58",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:34:56.761Z",
+      "key": "[\"5573adeb-20b6-4ae8-bd31-59d2fa82bc3e\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Если добавить к этому реально крутые панчи, стебные приколы, то будет очень даже годно. Поставлю 4 с небольшим авансом.",
+        "scoredAt": "2026-10-18T10:34:56.761Z",
+        "userId": "5573adeb-20b6-4ae8-bd31-59d2fa82bc3e"
+      }
+    },
+    {
+      "id": "e38da45b63473197054efcff3f66900ae0f422cfc47b36f7c5285ae5e1311200",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:34:41.182Z",
+      "key": "[\"0f3f5bed-5111-43c2-b72e-075fff25cfbb\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 1,
+        "comment": "Это больше похоже на черновик, чем на готовую работу",
+        "scoredAt": "2026-10-18T10:34:41.182Z",
+        "userId": "0f3f5bed-5111-43c2-b72e-075fff25cfbb"
+      }
+    },
+    {
+      "id": "2b4549e89361705991be987e12e0aa5ad8edff9893b2bbbcc41029f41745aec7",
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "sourceScoredAt": "2026-10-18T10:40:43.754Z",
+      "key": "[\"f1ff436e-4850-445b-a247-d4698676f089\",\"OFFSTAGE\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OFFSTAGE",
+        "score": 4,
+        "comment": "Вообще после впечатляющего начала надеялся на крутой трек, но постепенно он скатился в кринж. Жаль не докрутил до конца, может не хватило креатива.",
+        "scoredAt": "2026-10-18T10:40:43.754Z",
+        "userId": "f1ff436e-4850-445b-a247-d4698676f089"
+      }
     }
   ],
   "snapshots": [
@@ -156461,6 +156769,26 @@
           "index": 30.036506298506108,
           "favor": 17.79263260559682,
           "attention": 1.5216514706870674,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T10:42:21.154Z",
+      "exportedAt": "2026-10-18T10:42:21.154Z",
+      "scores": 13486,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.85570493911293,
+          "favor": 9.222377622377625,
+          "attention": 6.208502141910129,
+          "respect": 6.424825174825175
+        },
+        "veterans": {
+          "index": 30.107901153571294,
+          "favor": 17.79977363326925,
+          "attention": 1.5859052980798232,
           "respect": 10.722222222222221
         }
       }

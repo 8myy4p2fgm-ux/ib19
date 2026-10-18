@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T10:32:11.021Z",
-  "exportedAt": "2026-10-18T10:32:11.021Z",
-  "runId": "2026-10-18T10:32:11.021Z",
-  "forumExportedAt": "2026-10-18T10:32:11.021Z",
+  "lastSuccessfulAt": "2026-10-18T10:42:21.154Z",
+  "exportedAt": "2026-10-18T10:42:21.154Z",
+  "runId": "2026-10-18T10:42:21.154Z",
+  "forumExportedAt": "2026-10-18T10:42:21.154Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13464,
+    "scores": 13486,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 24,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 22,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8370,
-    "scoresBefore": 13458,
-    "scoresAfter": 13464,
-    "fullBaselineRequests": 3254,
-    "requestReductionPercent": 99.7541487400123,
+    "participantsWithNewScores": 22,
+    "changedParticipants": 22,
+    "logicalRequests": 24,
+    "durationMs": 23742,
+    "scoresBefore": 13464,
+    "scoresAfter": 13486,
+    "fullBaselineRequests": 3255,
+    "requestReductionPercent": 99.2626728110599,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -87,108 +87,108 @@
       "feed": [
         {
           "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Андрей Сибскана",
-          "comment": "Мы Амкал, а вы нет!",
-          "scoredAt": "2026-10-18T10:31:42.714Z"
+          "score": 1,
+          "artist": "Denexis [LTTR]",
+          "comment": "",
+          "scoredAt": "2026-10-18T10:41:39.971Z"
         },
         {
           "judgeName": "Никсон",
+          "score": 3,
+          "artist": "maby king",
+          "comment": "Есть своё настроение, это приятно. Но странный звук/сведение пока мешает оценить работу выше",
+          "scoredAt": "2026-10-18T10:41:28.436Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
           "score": 4,
-          "artist": "психопатрик",
+          "artist": "hussein2k",
+          "comment": "Вообще после впечатляющего начала надеялся на крутой трек, но постепенно он скатился в кринж. Жаль не докрутил до конца, может не хватило креатива.",
+          "scoredAt": "2026-10-18T10:40:43.754Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Сранита Бздунц",
+          "comment": "Рифмуешь хорошо. Подаешь тоже. По ОВ поставлю вышку, но хотелось бы еще какой-то посыл обнаружить в тексте.",
+          "scoredAt": "2026-10-18T10:40:22.195Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "nothing to say",
+          "comment": "Текст местами хороший, исполнение нормальное. До четвёрки не дожал",
+          "scoredAt": "2026-10-18T10:40:15.249Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 5,
+          "artist": "DICTATURA",
+          "comment": "Хороший трек. Рифмовка приятная прям",
+          "scoredAt": "2026-10-18T10:39:49.458Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "PERVIY",
+          "comment": "Ну надо чуть подкрутить сведение и исполнение. Авансом 3",
+          "scoredAt": "2026-10-18T10:39:13.845Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Mr. BARMALEY",
+          "comment": "Половину слов не разобрать, не самая худшая работа, но и проходить такое не должно.",
+          "scoredAt": "2026-10-18T10:38:25.248Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "artist": "PETROVICH",
+          "comment": "Удачи в дальнейшем!",
+          "scoredAt": "2026-10-18T10:37:47.143Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 2,
+          "artist": "ТВАРЬ",
+          "comment": "ну ты и ТВАРЬ",
+          "scoredAt": "2026-10-18T10:37:41.602Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "And Whiskey",
+          "comment": "Потенциал есть, но пока не очень звучит. Мало для прохода",
+          "scoredAt": "2026-10-18T10:37:21.494Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "KADOOM",
           "comment": "",
-          "scoredAt": "2026-10-18T10:30:38.810Z"
+          "scoredAt": "2026-10-18T10:36:51.920Z"
         },
         {
           "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Антон Вайс",
-          "comment": "Техника хромает, немного неровно держишься на бите.\nТекст не понравился.",
-          "scoredAt": "2026-10-18T10:29:53.256Z"
+          "score": 5,
+          "artist": "Zhazhda",
+          "comment": "Раскрытие не оригинальное, но здесь неплохо подобраны формулировки, хорошая подача текста.",
+          "scoredAt": "2026-10-18T10:36:44.050Z"
         },
         {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "DIFT",
-          "comment": "Хорошо читаешь, но есть парочка ритмических неточностей. ",
-          "scoredAt": "2026-10-18T10:28:04.409Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "artist": "Назар Николюк",
-          "comment": "Немного не хватает подачи. Текст простоват, но за сторител респект.",
-          "scoredAt": "2026-10-18T10:26:18.871Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 4,
-          "artist": "92",
-          "comment": "Текст очень слабый, чисто за разнообразие поставлю 4.",
-          "scoredAt": "2026-10-18T10:24:27.092Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "ДОКТОР СТЕРЖЕНЬ",
-          "comment": "Ничего интересного нет в твоем треке. Скукота.",
-          "scoredAt": "2026-10-18T10:04:34.289Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Saint 3.14",
-          "comment": "Неплохо навалил. Как же повезло, что тебе похуй на баттлы и на оценки, а то я бы запарился над оценкой и комментарием, а так хуй положу. Пойду роллить баксы.",
-          "scoredAt": "2026-10-18T10:03:19.967Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Snap Ze",
-          "comment": "Зачитал ровно и уверенно, но по тексту ничего интересного.",
-          "scoredAt": "2026-10-18T10:01:36.694Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "МЦ Олег",
-          "comment": "У нас, реально сегодня минус. Забавный тречик, для отбора пойдет, но во втором надо будет постараться и найти какое-то применение твоим забавным стрчокам.",
-          "scoredAt": "2026-10-18T10:00:27.784Z"
-        },
-        {
-          "judgeName": "Samarskij",
+          "judgeName": "Никсон",
           "score": 2,
-          "artist": "Егор Георгиев",
-          "comment": "Забавно. Люблю такой хип-хап, но у тебя совсем уж нету ничего интересного в тексте.",
-          "scoredAt": "2026-10-18T09:58:25.789Z"
+          "artist": "Дядя Витя",
+          "comment": "Бит живёт отдельно, голос отдельно. Просто набор букв в рифму",
+          "scoredAt": "2026-10-18T10:36:39.259Z"
         },
         {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Grilzzy Wsteny",
-          "comment": "Неплохой текст, надо бы еще добавить смысла. Зачитал ровно. Четверка уверенная.",
-          "scoredAt": "2026-10-18T09:57:25.801Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Православный богатырь",
-          "comment": "Нарифмовал прикольно, но содержания забыл добавить. Мне понравился трек, но четверка тебе с бооооольшой натяжкой.",
-          "scoredAt": "2026-10-18T09:56:24.005Z"
-        },
-        {
-          "judgeName": "Роженов",
+          "judgeName": "Никсон",
           "score": 3,
-          "artist": "Пыха Пулемёт",
-          "comment": "Хорошо, что ты не ограничился концептом \"тупо набор брехни\", а вырулил к глобальной мысли со сравнением темы и впечатлений от года. Плохо, что кучу квадратов накидал. По исполнению вопросов нет, но в то же время у многих здесь флоу помощнее и шире диапазон умений показанных на отборе. Не знал бы, что это участник с именем, я бы поставил тройку, крепкую, но тройку. Поэтому 3",
-          "scoredAt": "2026-10-18T09:55:25.811Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "KIPMC",
-          "comment": "Очень сумбурно читаешь, избавляйся от перебежек и запинок. Ну и по тексту все очень просто.",
-          "scoredAt": "2026-10-18T09:54:01.181Z"
+          "artist": "Анастасия GERA",
+          "comment": "Прикольно, но интересно, как это будет дальше выглядеть.",
+          "scoredAt": "2026-10-18T10:35:37.281Z"
         }
       ]
     }
