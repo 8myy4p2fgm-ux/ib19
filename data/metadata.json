@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T00:52:03.448Z",
-  "exportedAt": "2026-10-18T00:52:03.448Z",
-  "runId": "2026-10-18T00:52:03.448Z",
-  "forumExportedAt": "2026-10-18T00:52:03.448Z",
+  "lastSuccessfulAt": "2026-10-18T01:12:02.108Z",
+  "exportedAt": "2026-10-18T01:12:02.108Z",
+  "runId": "2026-10-18T01:12:02.108Z",
+  "forumExportedAt": "2026-10-18T01:12:02.108Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13264,
+    "scores": 13265,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 3,
-    "durationMs": 2940,
-    "scoresBefore": 13263,
-    "scoresAfter": 13264,
+    "durationMs": 2947,
+    "scoresBefore": 13264,
+    "scoresAfter": 13265,
     "fullBaselineRequests": 3249,
     "requestReductionPercent": 99.90766389658357,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "artist": "N-Ron",
+          "comment": "Невозможно слушать. Не потому что плохо читаешь, а потому что текст по дебильному написан, который буквально наполнен водой сначала строк, всяких местоимений и слов паразитов - \"Но, но\", \"Он, он\", \"У него\", \"Ему\", \"Как будто. Все это косноязычно. Рифмы простые, в содержании нулевая драматургия (тебе не удается ее передать), в общем, к сожалению слабенький рэпк. Читаешь лучше, чем пишешь.",
+          "scoredAt": "2026-10-18T01:03:08.825Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -182,13 +189,6 @@
           "artist": "Роман Манакин",
           "comment": "С такими рифмами парных не видать ",
           "scoredAt": "2026-10-17T20:06:27.471Z"
-        },
-        {
-          "judgeName": "Бен Арфа",
-          "score": 2,
-          "artist": "Терраксом",
-          "comment": "Лютый флоу нужно прокачивать ещё ",
-          "scoredAt": "2026-10-17T20:04:40.766Z"
         }
       ]
     }
