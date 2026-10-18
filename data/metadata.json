@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T16:02:11.841Z",
-  "exportedAt": "2026-10-18T16:02:11.841Z",
-  "runId": "2026-10-18T16:02:11.841Z",
-  "forumExportedAt": "2026-10-18T16:02:11.841Z",
+  "lastSuccessfulAt": "2026-10-18T16:12:05.531Z",
+  "exportedAt": "2026-10-18T16:12:05.531Z",
+  "runId": "2026-10-18T16:12:05.531Z",
+  "forumExportedAt": "2026-10-18T16:12:05.531Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13716,
+    "scores": 13718,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7399,
-    "scoresBefore": 13711,
-    "scoresAfter": 13716,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4131,
+    "scoresBefore": 13716,
+    "scoresAfter": 13718,
     "fullBaselineRequests": 3257,
-    "requestReductionPercent": 99.78507829290758,
+    "requestReductionPercent": 99.87718759594719,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "Паша Пакстер",
+          "comment": "Ну это, конечно, прям супер крепкая 3.5 балла.\n\nЗачитано просто, но достаточно для не самого уверенного прохода. На припеве какая-то грязюка с даблами, еще и непонятно, зачем его два раза повторять - ну не такой уж он крутой, чтобы прям \"прокачать\". Потому 3.",
+          "scoredAt": "2026-10-18T16:11:48.560Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "coolsem",
+          "comment": "Квадратно-глагольная поверхностная работа на скоряк, о чём ты и сам говоришь. За бит респект!)",
+          "scoredAt": "2026-10-18T16:10:34.834Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Long G",
           "comment": "Простой репак, братуха. По тексту ничего интересного. Зачитал ровно.",
           "scoredAt": "2026-10-18T15:35:53.970Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 3,
-          "artist": "Пепел Музыка",
-          "comment": "Читать - читаешь, писать - не пишешь. Читка не самая уверенная, но пойдет, работяжная тройка на не самый уверенный проход, но текстово местами это конечно ауф ауф кусь мяу, квадраты на самые избитые рифмы и так далее.",
-          "scoredAt": "2026-10-18T15:34:36.601Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Oxxxyminor",
-          "comment": "Ну как пародия - ок. Как полноценный трек на баттл - средненько. ",
-          "scoredAt": "2026-10-18T15:33:06.676Z"
         }
       ]
     }
