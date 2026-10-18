@@ -34,7 +34,7 @@ try{
   await page.waitForSelector('#carrot-loader',{state:'detached'});
   await page.waitForSelector('#pace-finish-chart');
   assert.equal(await page.locator('#pace-needed-label').textContent(),'Нужно в день');
-  assert.equal(await page.locator('#pace-needed').textContent(),'смотреть 83 раза клип янг спайса');
+  assert.equal(await page.locator('#pace-needed').textContent(),'83 раза посмотреть клип янг спайса');
   assert.notEqual(await page.locator('#deadline-countdown-value').textContent(),'Дедлайн прошёл');
   for(const offset of [0,86400000,7*86400000]){
    await page.evaluate(t=>{window.testNow=t;},limit+offset);
