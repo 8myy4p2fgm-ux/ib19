@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T22:32:09.839Z",
+  "exportedAt": "2026-10-18T22:42:09.640Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -12847,8 +12847,14 @@
     },
     {
       "userId": "544cf60c-1153-4b43-891d-b7cf703eddbf",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Не знаю, кто эти все, но я точно говорю, что это фикалус.",
+          "scoredAt": "2026-10-18T22:36:12.545Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -12856,7 +12862,7 @@
           "scoredAt": "2026-10-16T13:18:35.034Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:22:32.827Z",
+      "fetchedAt": "2026-10-18T22:42:09.640Z",
       "current": true,
       "artistName": "НЕВЫНОСИМ",
       "artistSlug": "nevynosim"
@@ -15925,8 +15931,14 @@
     },
     {
       "userId": "71b0a43e-8a13-40de-aad4-958548ad07f5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Рифмы, к сожалению, на уровне примитивности. Одна и та же ритмика во всём трэке, очень скучно.",
+          "scoredAt": "2026-10-18T22:38:34.812Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -15940,7 +15952,7 @@
           "scoredAt": "2026-10-16T09:51:09.144Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:32:17.063Z",
+      "fetchedAt": "2026-10-18T22:42:09.640Z",
       "current": true,
       "artistName": "Languid",
       "artistSlug": "languid"
@@ -63222,8 +63234,14 @@
     },
     {
       "userId": "9220a9de-1309-45d8-acd6-3e19bbe650ac",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Катастрафически мало. Проигрышей бита примерно столько же, сколько и читки. Ещё и открыл трэк базовой глагольной рифмовкой.",
+          "scoredAt": "2026-10-18T22:32:09.721Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -63237,7 +63255,7 @@
           "scoredAt": "2026-10-16T06:09:28.835Z"
         }
       ],
-      "fetchedAt": "2026-10-18T05:22:03.201Z",
+      "fetchedAt": "2026-10-18T22:42:09.640Z",
       "current": true,
       "artistName": "NPC",
       "artistSlug": "npc"
@@ -66862,8 +66880,14 @@
     },
     {
       "userId": "0644310a-2f46-4a7d-96fd-bc46cca1771a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Техника присутствует, но рот выдаёт в основном какую-то нижепоясную дичь. ",
+          "scoredAt": "2026-10-18T22:34:49.279Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -66889,7 +66913,7 @@
           "scoredAt": "2026-10-13T14:13:55.317Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:22:32.827Z",
+      "fetchedAt": "2026-10-18T22:42:09.640Z",
       "current": true,
       "artistName": "KLETUS",
       "artistSlug": "kletus"

@@ -152404,6 +152404,62 @@
         "scoredAt": "2026-10-18T22:24:15.768Z",
         "userId": "f5b5ffb8-3019-4a57-8c50-e90c3e161626"
       }
+    },
+    {
+      "id": "37dc6121b60d57b08d98755e671cf3b771a18d4a00d6bd17cf5e283e8042cced",
+      "observedAt": "2026-10-18T22:42:09.640Z",
+      "sourceScoredAt": "2026-10-18T22:36:12.545Z",
+      "key": "[\"544cf60c-1153-4b43-891d-b7cf703eddbf\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Не знаю, кто эти все, но я точно говорю, что это фикалус.",
+        "scoredAt": "2026-10-18T22:36:12.545Z",
+        "userId": "544cf60c-1153-4b43-891d-b7cf703eddbf"
+      }
+    },
+    {
+      "id": "04476c80ce07bccb38a935222b3b800392c70900b39fe126155453374e50c889",
+      "observedAt": "2026-10-18T22:42:09.640Z",
+      "sourceScoredAt": "2026-10-18T22:38:34.812Z",
+      "key": "[\"71b0a43e-8a13-40de-aad4-958548ad07f5\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Рифмы, к сожалению, на уровне примитивности. Одна и та же ритмика во всём трэке, очень скучно.",
+        "scoredAt": "2026-10-18T22:38:34.812Z",
+        "userId": "71b0a43e-8a13-40de-aad4-958548ad07f5"
+      }
+    },
+    {
+      "id": "152b5639f56fa52fd02602a5a6b52238f3105836d0310a0d4a86c3f5879324c5",
+      "observedAt": "2026-10-18T22:42:09.640Z",
+      "sourceScoredAt": "2026-10-18T22:32:09.721Z",
+      "key": "[\"9220a9de-1309-45d8-acd6-3e19bbe650ac\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Катастрафически мало. Проигрышей бита примерно столько же, сколько и читки. Ещё и открыл трэк базовой глагольной рифмовкой.",
+        "scoredAt": "2026-10-18T22:32:09.721Z",
+        "userId": "9220a9de-1309-45d8-acd6-3e19bbe650ac"
+      }
+    },
+    {
+      "id": "da0b8f2ab0b983ea945fa24f8eab2ede045f86b9ef012257c1fbacf034490139",
+      "observedAt": "2026-10-18T22:42:09.640Z",
+      "sourceScoredAt": "2026-10-18T22:34:49.279Z",
+      "key": "[\"0644310a-2f46-4a7d-96fd-bc46cca1771a\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Техника присутствует, но рот выдаёт в основном какую-то нижепоясную дичь. ",
+        "scoredAt": "2026-10-18T22:34:49.279Z",
+        "userId": "0644310a-2f46-4a7d-96fd-bc46cca1771a"
+      }
     }
   ],
   "snapshots": [
@@ -163203,6 +163259,26 @@
           "index": 30.80691243570306,
           "favor": 17.833819171160666,
           "attention": 2.2508710423201745,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T22:42:09.640Z",
+      "exportedAt": "2026-10-18T22:42:09.640Z",
+      "scores": 13861,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.570741688781474,
+          "favor": 9.150294234339551,
+          "attention": 6.050584440743294,
+          "respect": 6.36986301369863
+        },
+        "veterans": {
+          "index": 30.814982026300648,
+          "favor": 17.835964187996826,
+          "attention": 2.2567956160816016,
           "respect": 10.722222222222221
         }
       }
