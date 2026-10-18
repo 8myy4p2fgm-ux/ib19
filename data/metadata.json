@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T12:12:12.622Z",
-  "exportedAt": "2026-10-18T12:12:12.622Z",
-  "runId": "2026-10-18T12:12:12.622Z",
-  "forumExportedAt": "2026-10-18T12:12:12.622Z",
+  "lastSuccessfulAt": "2026-10-18T12:22:05.461Z",
+  "exportedAt": "2026-10-18T12:22:05.461Z",
+  "runId": "2026-10-18T12:22:05.461Z",
+  "forumExportedAt": "2026-10-18T12:22:05.461Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13592,
+    "scores": 13597,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4880,
-    "scoresBefore": 13589,
-    "scoresAfter": 13592,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7019,
+    "scoresBefore": 13592,
+    "scoresAfter": 13597,
     "fullBaselineRequests": 3256,
-    "requestReductionPercent": 99.84643734643734,
+    "requestReductionPercent": 99.78501228501229,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "dimaotvali",
+          "comment": "Водичку бы панчами насытить посильнее, есть прикольные моменты, с битом прикольно тоже сделал ",
+          "scoredAt": "2026-10-18T12:21:15.858Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "Сергей(МС ТИХО)",
+          "comment": "Слабовато, по тексту и исполнению надо бы еще подрасти . скучно звучит всё",
+          "scoredAt": "2026-10-18T12:19:25.942Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "artist": "Алексей Кузин",
+          "comment": "Скучновато, братик",
+          "scoredAt": "2026-10-18T12:17:12.580Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Яппи ТУХЪ",
+          "comment": "Прикольно сделал, текст бы насытить панчлайнами помощнее и збс ",
+          "scoredAt": "2026-10-18T12:16:20.300Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "ZYKOVA",
+          "comment": "Хотел 5 поставить, но раскрытия темы тут не смог придумать , разве что можно зацепиться ща \"это не так как нам говорили в фильмах\" поэтому минусну не 2 балла, а один. ",
+          "scoredAt": "2026-10-18T12:14:47.732Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -154,41 +189,6 @@
           "artist": "Oxxxyminor",
           "comment": "Прикольно пародируешь , по другому строчки воспринимаются. Если самоиронией будешь двигать его то это заявка на успех !",
           "scoredAt": "2026-10-18T11:26:17.418Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Алекс Виски",
-          "comment": "По звуку вопросов немного, а вот по тексту хотелось бы больше неожиданности. Пока три",
-          "scoredAt": "2026-10-18T11:25:09.973Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Ulysses",
-          "comment": "Ну как будто перемудрил с концепцией.",
-          "scoredAt": "2026-10-18T11:24:44.103Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Ga-Rage",
-          "comment": "Больше напоминает трёп репрезентовый с тремя строчками про правду, чем полноценное раскрытие. В целом весьма поверхностно, такому нужны мощные пунчи. Много квадратил. К исполнению претензий нет, но это разовая работа прохода ради по ощущениям, чисто разгон.",
-          "scoredAt": "2026-10-18T11:24:29.838Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "artist": "ГОРЯ",
-          "comment": "Что-то в этом есть, интересно будет послушать на продолжительности 2+ минуты как сделаешь, по тексту есть прикольные завороты, про подводника норм например. 3 авансом ",
-          "scoredAt": "2026-10-18T11:23:34.548Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Propel",
-          "comment": "Хороший тречок, местами даже сильно прокачало меня",
-          "scoredAt": "2026-10-18T11:23:20.705Z"
         }
       ]
     }
