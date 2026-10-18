@@ -145370,6 +145370,76 @@
         "scoredAt": "2026-10-18T04:56:30.280Z",
         "userId": "8cbeb5d3-4296-4ecd-bda7-7291e369b1e4"
       }
+    },
+    {
+      "id": "1db19bff91359c769c3efcf93a29952570fc5c9f2b01c7a335d073fd74645f5d",
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "sourceScoredAt": "2026-10-18T05:04:56.597Z",
+      "key": "[\"76eee54c-5541-47bf-b90a-0f8589e36461\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Жду фита с ксероном.",
+        "scoredAt": "2026-10-18T05:04:56.597Z",
+        "userId": "76eee54c-5541-47bf-b90a-0f8589e36461"
+      }
+    },
+    {
+      "id": "e1df440ffd9adeba438778bfc077ba5545605e2fc40a6c5d07500e7f4d441441",
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "sourceScoredAt": "2026-10-18T05:07:15.038Z",
+      "key": "[\"495d9bc6-aa15-4e98-9b9e-7eb7bce3fb83\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "mysw - уважаем. Ничего интересного не услышал в твоем треке. Исполняешь пока неуверенно.",
+        "scoredAt": "2026-10-18T05:07:15.038Z",
+        "userId": "495d9bc6-aa15-4e98-9b9e-7eb7bce3fb83"
+      }
+    },
+    {
+      "id": "e062375b7cf0717cae78c6c48d1f2f3fdb9b638d1ee008168e3e9f47d522f84b",
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "sourceScoredAt": "2026-10-18T05:11:00.075Z",
+      "key": "[\"13911978-5a67-436e-92b5-2bb19aa087f4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень просто и наивно как по исполнению так и по тексту.",
+        "scoredAt": "2026-10-18T05:11:00.075Z",
+        "userId": "13911978-5a67-436e-92b5-2bb19aa087f4"
+      }
+    },
+    {
+      "id": "40bceae851f946af9c28c5bcdab5a58ed2350fd2a537c6a378054da7580cab91",
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "sourceScoredAt": "2026-10-18T05:02:09.055Z",
+      "key": "[\"9077f2fe-35f4-4b5c-9d93-3f3c66475ad7\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень простой трек без интересных моментов в исполнении и тексте.",
+        "scoredAt": "2026-10-18T05:02:09.055Z",
+        "userId": "9077f2fe-35f4-4b5c-9d93-3f3c66475ad7"
+      }
+    },
+    {
+      "id": "b047937c77c1ebe25dfe2916f0d173543d44cf928c15023508a22a06dbb81693",
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "sourceScoredAt": "2026-10-18T05:09:52.428Z",
+      "key": "[\"544df16c-7ef3-4c16-b63f-f26198e95904\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Мрачная бытовуха. Понравился твой ход когда одно слово в двух значениях используешь. последняя строчка испортила впечатление, поломал какой-то хуйней все повествование.",
+        "scoredAt": "2026-10-18T05:09:52.428Z",
+        "userId": "544df16c-7ef3-4c16-b63f-f26198e95904"
+      }
     }
   ],
   "snapshots": [
@@ -154469,6 +154539,26 @@
           "index": 29.83848901181746,
           "favor": 17.7673398381363,
           "attention": 1.3489269514589397,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T05:12:00.198Z",
+      "exportedAt": "2026-10-18T05:12:00.198Z",
+      "scores": 13361,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.996738655123522,
+          "favor": 9.285632930411092,
+          "attention": 6.241035302177218,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.852618052204104,
+          "favor": 17.772132331938774,
+          "attention": 1.358263498043108,
           "respect": 10.722222222222221
         }
       }

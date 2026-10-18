@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T05:02:06.631Z",
-  "exportedAt": "2026-10-18T05:02:06.631Z",
-  "runId": "2026-10-18T05:02:06.631Z",
-  "forumExportedAt": "2026-10-18T05:02:06.631Z",
+  "lastSuccessfulAt": "2026-10-18T05:12:00.198Z",
+  "exportedAt": "2026-10-18T05:12:00.198Z",
+  "runId": "2026-10-18T05:12:00.198Z",
+  "forumExportedAt": "2026-10-18T05:12:00.198Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13356,
+    "scores": 13361,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 6,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 8,
-    "durationMs": 8112,
-    "scoresBefore": 13350,
-    "scoresAfter": 13356,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 7007,
+    "scoresBefore": 13356,
+    "scoresAfter": 13361,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.75407316323394,
+    "requestReductionPercent": 99.78481401782969,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "MЦ АКАДЕМИК",
+          "comment": "Очень просто и наивно как по исполнению так и по тексту.",
+          "scoredAt": "2026-10-18T05:11:00.075Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "жжёные васильки",
+          "comment": "Мрачная бытовуха. Понравился твой ход когда одно слово в двух значениях используешь. последняя строчка испортила впечатление, поломал какой-то хуйней все повествование.",
+          "scoredAt": "2026-10-18T05:09:52.428Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "theSW",
+          "comment": "mysw - уважаем. Ничего интересного не услышал в твоем треке. Исполняешь пока неуверенно.",
+          "scoredAt": "2026-10-18T05:07:15.038Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "КрокодилGunGrena",
+          "comment": "Жду фита с ксероном.",
+          "scoredAt": "2026-10-18T05:04:56.597Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Добрый",
+          "comment": "Очень простой трек без интересных моментов в исполнении и тексте.",
+          "scoredAt": "2026-10-18T05:02:09.055Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -154,41 +189,6 @@
           "artist": "Nilmak",
           "comment": "Биток крутой, но по всем остальным параметрам просто.",
           "scoredAt": "2026-10-18T04:34:08.444Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "DNK",
-          "comment": "Навалил как надо, но по тексту ничего интересного. Припев вайбовый. С натяжкой за стиль оформлю тебе четверку.",
-          "scoredAt": "2026-10-18T04:31:54.604Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "МОНО ( ЦИТРАМОН )",
-          "comment": "Ну такое. Авансом пятерка. Для локалок это крутая работа. Для хх.ру надо стараться больше, слишком уж с верхов поснимал. ",
-          "scoredAt": "2026-10-18T04:30:35.538Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "DEUS VULT",
-          "comment": "Стилек вязкий. Мне такое заходит. Если пройдешь сделай какой-нибудь осознанный текст, а не репрезент. Было бы интересно послушать.",
-          "scoredAt": "2026-10-18T04:28:14.856Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Макс Медведь",
-          "comment": "Зачитал неплохо, но по тексту ничего интересного.",
-          "scoredAt": "2026-10-18T04:24:51.043Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Саша Чужой",
-          "comment": "Панчей нету, да и тема не раскрыта...",
-          "scoredAt": "2026-10-18T04:23:37.294Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T05:02:06.631Z",
+  "exportedAt": "2026-10-18T05:12:00.198Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -12840,8 +12840,14 @@
     },
     {
       "userId": "76eee54c-5541-47bf-b90a-0f8589e36461",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Жду фита с ксероном.",
+          "scoredAt": "2026-10-18T05:04:56.597Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -12855,7 +12861,7 @@
           "scoredAt": "2026-09-13T14:42:37.726Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:02:58.094Z",
+      "fetchedAt": "2026-10-18T05:12:00.198Z",
       "current": true,
       "artistName": "КрокодилGunGrena",
       "artistSlug": "krokodilgungrena"
@@ -55840,8 +55846,14 @@
     },
     {
       "userId": "495d9bc6-aa15-4e98-9b9e-7eb7bce3fb83",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "mysw - уважаем. Ничего интересного не услышал в твоем треке. Исполняешь пока неуверенно.",
+          "scoredAt": "2026-10-18T05:07:15.038Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -55855,7 +55867,7 @@
           "scoredAt": "2026-10-17T04:44:40.959Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:12:16.903Z",
+      "fetchedAt": "2026-10-18T05:12:00.198Z",
       "current": true,
       "artistName": "theSW",
       "artistSlug": "thesw"
@@ -58798,8 +58810,14 @@
     },
     {
       "userId": "13911978-5a67-436e-92b5-2bb19aa087f4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень просто и наивно как по исполнению так и по тексту.",
+          "scoredAt": "2026-10-18T05:11:00.075Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -58825,7 +58843,7 @@
           "scoredAt": "2026-10-10T00:07:44.592Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:42:16.331Z",
+      "fetchedAt": "2026-10-18T05:12:00.198Z",
       "current": true,
       "artistName": "MЦ АКАДЕМИК",
       "artistSlug": "mc-akademik"
@@ -59064,8 +59082,14 @@
     },
     {
       "userId": "9077f2fe-35f4-4b5c-9d93-3f3c66475ad7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень простой трек без интересных моментов в исполнении и тексте.",
+          "scoredAt": "2026-10-18T05:02:09.055Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -59085,7 +59109,7 @@
           "scoredAt": "2026-10-15T15:55:52.682Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:01:59.841Z",
+      "fetchedAt": "2026-10-18T05:12:00.198Z",
       "current": true,
       "artistName": "Добрый",
       "artistSlug": "dobryy"
@@ -67402,8 +67426,14 @@
     },
     {
       "userId": "544df16c-7ef3-4c16-b63f-f26198e95904",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Мрачная бытовуха. Понравился твой ход когда одно слово в двух значениях используешь. последняя строчка испортила впечатление, поломал какой-то хуйней все повествование.",
+          "scoredAt": "2026-10-18T05:09:52.428Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -67423,7 +67453,7 @@
           "scoredAt": "2026-10-15T17:12:41.825Z"
         }
       ],
-      "fetchedAt": "2026-10-17T07:01:51.162Z",
+      "fetchedAt": "2026-10-18T05:12:00.198Z",
       "current": true,
       "artistName": "жжёные васильки",
       "artistSlug": "zhzhenye-vasilki"
