@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T15:52:01.912Z",
+  "exportedAt": "2026-10-18T16:02:11.841Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -53234,8 +53234,14 @@
     },
     {
       "userId": "1211a1a2-9cff-4ef4-bf17-a118fc4de63c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Сашка - Хулигашка охуенная рифма. Голосом похож на монти из команды марбл фэм. Нарифмовал плотно, но по содержанию ничего интересного. Даже упоминание процкера не помогло(",
+          "scoredAt": "2026-10-18T15:58:16.099Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -53255,7 +53261,7 @@
           "scoredAt": "2026-10-16T16:33:01.063Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:42:26.240Z",
+      "fetchedAt": "2026-10-18T16:02:11.841Z",
       "current": true,
       "artistName": "Рубашка по Процкий",
       "artistSlug": "rubashka-po-prockiy"
@@ -89760,8 +89766,14 @@
     },
     {
       "userId": "bc608693-6cb9-487e-8551-e0171ed4b038",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Нормально зачитал, но по тексту ничего интересного.",
+          "scoredAt": "2026-10-18T15:54:41.999Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -89787,7 +89799,7 @@
           "scoredAt": "2026-10-07T15:55:09.261Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:12:25.963Z",
+      "fetchedAt": "2026-10-18T16:02:11.841Z",
       "current": true,
       "artistName": "Reeo&Chinzanu",
       "artistSlug": "reeo-chinzanu"
@@ -91276,8 +91288,14 @@
     },
     {
       "userId": "fc5fc7b7-c5e4-42bc-aa52-de365d253d6a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "Ну были бы в треке были бы какие-то те самые \"факты\", которые вы годами рассказываете, можно было бы и подумать над оценкой повыше - а так ровный реп с ровной подачей, ритмически хорошо все чувствуешь, но без претензий на самый высший балл будто бы, текст достаточно простой и таких тут прям оч много на отборе из тысяч участников.",
+          "scoredAt": "2026-10-18T15:54:29.906Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -91297,7 +91315,7 @@
           "scoredAt": "2026-10-13T20:31:35.748Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:52:19.201Z",
+      "fetchedAt": "2026-10-18T16:02:11.841Z",
       "current": true,
       "artistName": "СНЭЛ",
       "artistSlug": "snel"
@@ -105794,8 +105812,14 @@
     },
     {
       "userId": "6a7a96c4-04d0-4ce3-bc2a-3c755934ee62",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Очень сумбурно, братик. По тексту все просто и скучно.",
+          "scoredAt": "2026-10-18T15:56:06.606Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -105809,7 +105833,7 @@
           "scoredAt": "2026-10-14T17:34:39.921Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:22:20.239Z",
+      "fetchedAt": "2026-10-18T16:02:11.841Z",
       "current": true,
       "artistName": "вокинъяле",
       "artistSlug": "vokinyale"
@@ -107136,8 +107160,14 @@
     },
     {
       "userId": "0aa9313d-5349-4fd7-92f7-78879a2da680",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Очень вайбовый трек. Решил пойти по стопам тумани и попасть в хаджиме после независимого баттла.",
+          "scoredAt": "2026-10-18T15:59:35.591Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -107151,7 +107181,7 @@
           "scoredAt": "2026-10-14T13:34:33.536Z"
         }
       ],
-      "fetchedAt": "2026-10-16T21:21:52.482Z",
+      "fetchedAt": "2026-10-18T16:02:11.841Z",
       "current": true,
       "artistName": "Дживан",
       "artistSlug": "dzhivan"
