@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T21:02:08.235Z",
-  "exportedAt": "2026-10-18T21:02:08.235Z",
-  "runId": "2026-10-18T21:02:08.235Z",
-  "forumExportedAt": "2026-10-18T21:02:08.235Z",
+  "lastSuccessfulAt": "2026-10-18T21:12:05.716Z",
+  "exportedAt": "2026-10-18T21:12:05.716Z",
+  "runId": "2026-10-18T21:12:05.716Z",
+  "forumExportedAt": "2026-10-18T21:12:05.716Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13843,
+    "scores": 13844,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -29,12 +29,12 @@
     "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
+    "participantsWithNewScores": 1,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4426,
-    "scoresBefore": 13841,
-    "scoresAfter": 13843,
+    "durationMs": 4461,
+    "scoresBefore": 13843,
+    "scoresAfter": 13844,
     "fullBaselineRequests": 3258,
     "requestReductionPercent": 99.87722529158994,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "Катрин Карапетян",
+          "comment": "скучно но звучит ",
+          "scoredAt": "2026-10-18T21:07:13.702Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Bronik",
+          "comment": "Тук тук я к вам пришел к вашим мамам Буду там бам бам бАм (с) это могло бы даже в рамках выбранного вектора красиво и качево звучать, но это надо другим совсем звуком брать, напором и убедительностью - пока нету. ",
+          "scoredAt": "2026-10-18T21:02:29.034Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "Silaslovskiy",
           "comment": "О, Силасловский! Звучит в этот раз странно немного, но сполна покрывается разнообразием в исполнении, да и история хорошая. Убедительно. Харизмой тянешь весь свой музыкальный поезд. ",
           "scoredAt": "2026-10-18T19:14:12.112Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "YNWA<3U",
-          "comment": "Очень недурно, но как будто это нужно выкручивать мощнее то ли интеллектом и лексиконом, то ли просто панчить и т.п., не знаю. Но до вышки недотягивает. Выделяется осмысленностью, по исполнению тоже, наверно, в моей вселенной ближе к 4",
-          "scoredAt": "2026-10-18T19:13:19.821Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "NoReason",
-          "comment": "Пирог меня не покорил. Ну прикольно, да, но так чисто шутка ради шутки, можно сказать. В остальном серовато, по рифме много квадратов, даже глаголы мелькнули",
-          "scoredAt": "2026-10-18T19:10:48.526Z"
         }
       ]
     }
