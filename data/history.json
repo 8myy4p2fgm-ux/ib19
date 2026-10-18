@@ -145132,6 +145132,34 @@
         "scoredAt": "2026-10-18T04:05:04.428Z",
         "userId": "93c3454a-3939-4f6b-bd9c-c0cb9e05c440"
       }
+    },
+    {
+      "id": "7621aa6de37d52cc085beb5ddfe76ffd8480b7f7c9d0484b0fd6216e17390b5b",
+      "observedAt": "2026-10-18T04:22:01.345Z",
+      "sourceScoredAt": "2026-10-18T04:15:36.946Z",
+      "key": "[\"e7f7cb38-f0b8-465d-919e-39df2509d985\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень сумбурно. Рад, что ты покакал. ",
+        "scoredAt": "2026-10-18T04:15:36.946Z",
+        "userId": "e7f7cb38-f0b8-465d-919e-39df2509d985"
+      }
+    },
+    {
+      "id": "00c30cde2353f2eefb005b875b54847260afa7d2b71444fd5a0965d68e159fc9",
+      "observedAt": "2026-10-18T04:22:01.345Z",
+      "sourceScoredAt": "2026-10-18T04:14:36.863Z",
+      "key": "[\"62a9ba74-c9a5-42be-9ff1-44ea49a52cf9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Слушаю твой трек и думаю на. у. я мне это...",
+        "scoredAt": "2026-10-18T04:14:36.863Z",
+        "userId": "62a9ba74-c9a5-42be-9ff1-44ea49a52cf9"
+      }
     }
   ],
   "snapshots": [
@@ -154151,6 +154179,26 @@
           "index": 29.803091308183646,
           "favor": 17.76374162711636,
           "attention": 1.317127458845063,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T04:22:01.345Z",
+      "exportedAt": "2026-10-18T04:22:01.345Z",
+      "scores": 13341,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.9730516192577,
+          "favor": 9.280035154636172,
+          "attention": 6.222946042086315,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.809665986074425,
+          "favor": 17.76657075066889,
+          "attention": 1.3208730131833124,
           "respect": 10.722222222222221
         }
       }

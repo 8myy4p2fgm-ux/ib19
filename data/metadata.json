@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T04:12:01.420Z",
-  "exportedAt": "2026-10-18T04:12:01.420Z",
-  "runId": "2026-10-18T04:12:01.420Z",
-  "forumExportedAt": "2026-10-18T04:12:01.420Z",
+  "lastSuccessfulAt": "2026-10-18T04:22:01.345Z",
+  "exportedAt": "2026-10-18T04:22:01.345Z",
+  "runId": "2026-10-18T04:22:01.345Z",
+  "forumExportedAt": "2026-10-18T04:22:01.345Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13339,
+    "scores": 13341,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6310,
-    "scoresBefore": 13335,
-    "scoresAfter": 13339,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3664,
+    "scoresBefore": 13339,
+    "scoresAfter": 13341,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.81555487242545,
+    "requestReductionPercent": 99.87703658161698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "ЕМИЕМ",
+          "comment": "Очень сумбурно. Рад, что ты покакал. ",
+          "scoredAt": "2026-10-18T04:15:36.946Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Kenli",
+          "comment": "Слушаю твой трек и думаю на. у. я мне это...",
+          "scoredAt": "2026-10-18T04:14:36.863Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "DimaS",
           "comment": "Зачитал уверенно, по тексту ничем не удивил.",
           "scoredAt": "2026-10-18T03:42:14.900Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "Figurant",
-          "comment": "Вроде бы не самый плохой текст, и зачитал неплохо, но мне не хватило какого-то выстроенного повествования для максимальной оценки.",
-          "scoredAt": "2026-10-18T03:40:57.103Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "Ай",
-          "comment": "Отличный текст, очень хорошая работа. Молодец.",
-          "scoredAt": "2026-10-18T03:36:31.219Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T04:12:01.420Z",
+  "exportedAt": "2026-10-18T04:22:01.345Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -63089,8 +63089,14 @@
     },
     {
       "userId": "e7f7cb38-f0b8-465d-919e-39df2509d985",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень сумбурно. Рад, что ты покакал. ",
+          "scoredAt": "2026-10-18T04:15:36.946Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -63116,7 +63122,7 @@
           "scoredAt": "2026-09-13T13:43:54.198Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:42:16.351Z",
+      "fetchedAt": "2026-10-18T04:22:01.345Z",
       "current": true,
       "artistName": "ЕМИЕМ",
       "artistSlug": "emiem"
@@ -99207,8 +99213,14 @@
     },
     {
       "userId": "62a9ba74-c9a5-42be-9ff1-44ea49a52cf9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Слушаю твой трек и думаю на. у. я мне это...",
+          "scoredAt": "2026-10-18T04:14:36.863Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -99234,7 +99246,7 @@
           "scoredAt": "2026-10-14T15:13:38.901Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:22:24.346Z",
+      "fetchedAt": "2026-10-18T04:22:01.345Z",
       "current": true,
       "artistName": "Kenli",
       "artistSlug": "kenli"
