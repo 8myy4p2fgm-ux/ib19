@@ -145006,6 +145006,76 @@
         "scoredAt": "2026-10-18T03:42:14.900Z",
         "userId": "6c2e6763-1d9d-4120-986f-8c8eca3e0a0d"
       }
+    },
+    {
+      "id": "f0c17910ab414031fcb7f63baa5f36151aaa8639f1aeb4d02372a361a867c319",
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "sourceScoredAt": "2026-10-18T03:59:01.702Z",
+      "key": "[\"82900799-9652-4ad7-8a16-8130e03ce427\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Вроде бы неплохо, но как-то просто и наивно.",
+        "scoredAt": "2026-10-18T03:59:01.702Z",
+        "userId": "82900799-9652-4ad7-8a16-8130e03ce427"
+      }
+    },
+    {
+      "id": "15614481088ff8e40cb58ede05119c18b3c4ccacde860b218689a7349357a9c1",
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "sourceScoredAt": "2026-10-18T04:00:26.264Z",
+      "key": "[\"89b7a6b0-9e43-47ca-af25-a0dda1c422e4\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Если бы не за два часа писал, было бы нормально. А так шляпа. Даже двойку не хочу ставить.",
+        "scoredAt": "2026-10-18T04:00:26.264Z",
+        "userId": "89b7a6b0-9e43-47ca-af25-a0dda1c422e4"
+      }
+    },
+    {
+      "id": "bd7884e40fde54e601d3f9c04090c8536ca01472783909a0a9f8179607f66f81",
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "sourceScoredAt": "2026-10-18T03:56:58.225Z",
+      "key": "[\"bd05af46-295f-40d3-82c1-4d769b8f3197\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал ровно, но в тексте нету ничего интересного.",
+        "scoredAt": "2026-10-18T03:56:58.225Z",
+        "userId": "bd05af46-295f-40d3-82c1-4d769b8f3197"
+      }
+    },
+    {
+      "id": "e42b87750bcab634a0ea69b98b4c76a178d5ba6d654c30b84774e63f16c711c9",
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "sourceScoredAt": "2026-10-18T03:52:45.025Z",
+      "key": "[\"f1f6c6f2-0596-47ab-a74b-0b200d061ce2\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Тройка за забавные панчи, кроме них ничего нет. Даже по исполнению не убедил особо.",
+        "scoredAt": "2026-10-18T03:52:45.025Z",
+        "userId": "f1f6c6f2-0596-47ab-a74b-0b200d061ce2"
+      }
+    },
+    {
+      "id": "766c0020237cc682e9700a0c7a461b538c7d2305577062bff78356b253f77a7d",
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "sourceScoredAt": "2026-10-18T03:55:15.653Z",
+      "key": "[\"a5c7fa30-b031-4e42-ab7b-3d9715e645a3\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Не хватило, конечно четверки про макс. Идея неплохая, но исполнение подводит.",
+        "scoredAt": "2026-10-18T03:55:15.653Z",
+        "userId": "a5c7fa30-b031-4e42-ab7b-3d9715e645a3"
+      }
     }
   ],
   "snapshots": [
@@ -153985,6 +154055,26 @@
           "index": 29.782574324280823,
           "favor": 17.76009431181845,
           "attention": 1.300257790240152,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T04:02:07.196Z",
+      "exportedAt": "2026-10-18T04:02:07.196Z",
+      "scores": 13335,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.964786020822093,
+          "favor": 9.2772031391475,
+          "attention": 6.217512459139382,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.7956176427072,
+          "favor": 17.763762626262622,
+          "attention": 1.3096327942223578,
           "respect": 10.722222222222221
         }
       }

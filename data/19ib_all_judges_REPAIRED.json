@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T03:52:04.124Z",
+  "exportedAt": "2026-10-18T04:02:07.196Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -13408,8 +13408,14 @@
     },
     {
       "userId": "82900799-9652-4ad7-8a16-8130e03ce427",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Вроде бы неплохо, но как-то просто и наивно.",
+          "scoredAt": "2026-10-18T03:59:01.702Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -13435,7 +13441,7 @@
           "scoredAt": "2026-10-12T09:34:57.451Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:02:28.338Z",
+      "fetchedAt": "2026-10-18T04:02:07.196Z",
       "current": true,
       "artistName": "saba",
       "artistSlug": "saba"
@@ -23131,8 +23137,14 @@
     },
     {
       "userId": "89b7a6b0-9e43-47ca-af25-a0dda1c422e4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "comment": "Если бы не за два часа писал, было бы нормально. А так шляпа. Даже двойку не хочу ставить.",
+          "scoredAt": "2026-10-18T04:00:26.264Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -23158,7 +23170,7 @@
           "scoredAt": "2026-09-29T13:09:23.814Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:22:36.032Z",
+      "fetchedAt": "2026-10-18T04:02:07.196Z",
       "current": true,
       "artistName": "Костя Сумрак",
       "artistSlug": "kostya-sumrak"
@@ -65696,8 +65708,14 @@
     },
     {
       "userId": "bd05af46-295f-40d3-82c1-4d769b8f3197",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Зачитал ровно, но в тексте нету ничего интересного.",
+          "scoredAt": "2026-10-18T03:56:58.225Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -65723,7 +65741,7 @@
           "scoredAt": "2026-10-03T13:34:41.965Z"
         }
       ],
-      "fetchedAt": "2026-10-17T18:42:10.718Z",
+      "fetchedAt": "2026-10-18T04:02:07.196Z",
       "current": true,
       "artistName": "slava ches",
       "artistSlug": "slava-ches"
@@ -83081,8 +83099,14 @@
     },
     {
       "userId": "f1f6c6f2-0596-47ab-a74b-0b200d061ce2",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Тройка за забавные панчи, кроме них ничего нет. Даже по исполнению не убедил особо.",
+          "scoredAt": "2026-10-18T03:52:45.025Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -83102,7 +83126,7 @@
           "scoredAt": "2026-09-26T19:28:28.125Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:11:59.551Z",
+      "fetchedAt": "2026-10-18T04:02:07.196Z",
       "current": true,
       "artistName": "Рофл",
       "artistSlug": "rofl"
@@ -108863,8 +108887,14 @@
     },
     {
       "userId": "a5c7fa30-b031-4e42-ab7b-3d9715e645a3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Не хватило, конечно четверки про макс. Идея неплохая, но исполнение подводит.",
+          "scoredAt": "2026-10-18T03:55:15.653Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -108878,7 +108908,7 @@
           "scoredAt": "2026-10-11T10:24:23.742Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T04:02:07.196Z",
       "current": true,
       "artistName": "Defental",
       "artistSlug": "defental"
