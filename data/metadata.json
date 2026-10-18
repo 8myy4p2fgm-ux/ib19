@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T07:12:05.654Z",
-  "exportedAt": "2026-10-18T07:12:05.654Z",
-  "runId": "2026-10-18T07:12:05.654Z",
-  "forumExportedAt": "2026-10-18T07:12:05.654Z",
+  "lastSuccessfulAt": "2026-10-18T07:22:01.430Z",
+  "exportedAt": "2026-10-18T07:22:01.430Z",
+  "runId": "2026-10-18T07:22:01.430Z",
+  "forumExportedAt": "2026-10-18T07:22:01.430Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13377,
+    "scores": 13379,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5322,
-    "scoresBefore": 13374,
-    "scoresAfter": 13377,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3835,
+    "scoresBefore": 13377,
+    "scoresAfter": 13379,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.8462957270212,
+    "requestReductionPercent": 99.87703658161698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "КрокодилGunGrena",
+          "comment": "Искренне надеюсь, что это байт Ксерона на фит, а твой основной трек где-то в таблице тоже есть, потому что оставаться в первом раунде с такими исходными данными не оч правильно как по мне. ",
+          "scoredAt": "2026-10-18T07:16:05.539Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "ха-ха-харви",
+          "comment": "Увы, про глубину строк не дал возможности согласиться, да и банально панчей тут не хватает, многовато весьма дефолтных строчек, немного заквадратил. Но послушал я с кайфом и не единожды отличные диссонансные рифмы были.",
+          "scoredAt": "2026-10-18T07:14:13.478Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Купэт",
           "comment": "Припев попортил впечатление. Искренняя история, но по тексту и исполнению все просто.",
           "scoredAt": "2026-10-18T05:21:25.608Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "Мутный Рассудок",
-          "comment": "Что тебе плохого сделали дайверы? Ну братка, это очень просто и даже скучновато.",
-          "scoredAt": "2026-10-18T05:15:14.616Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "NPC",
-          "comment": "Очень просто и навино, братка. Даже текста всего на половину трека.",
-          "scoredAt": "2026-10-18T05:13:44.152Z"
         }
       ]
     }
