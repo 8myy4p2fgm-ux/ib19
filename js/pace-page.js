@@ -1,3 +1,4 @@
+import {paceStatus} from './pace-status.js';
 import {scoreEconomy} from './score-economy.js';
 import {DAY} from './config.js';
 import {paceModel,pacePlotRange,moscowDay} from './pace-model.js';
@@ -7,19 +8,28 @@ function niceMaximum(value){const raw=Math.max(1,value/4),power=10**Math.floor(M
 const shortDate=t=>new Date(t).toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit',timeZone:'Europe/Moscow'});
 export function createPacePage({D,config,$,fmt,attachChartTip}){
  const m=paceModel({events:D.events,participants:D.people.length,scoresPerParticipant:config.scoresPerParticipant,asOf:Date.parse(D.updated),deadline:config.deadline,now:Date.now()});
- const status=m.remaining===0?'Успевают':m.verdict==='Пока непонятно'?'Недостаточно данных':m.verdict==='Не успевают'?'Не успевают обхватывать':m.verdict;
- $('pace-verdict').textContent=status;$('pace-verdict').dataset.tone=m.remaining===0||status==='Успевают'?'positive':status==='Не успевают обхватывать'?'negative':'neutral';
-
- const captions={'Не успевают обхватывать':'При текущем темпе судейство не укладывается в дедлайн','Успевают':m.remaining===0?'Судейство завершено':'При текущем темпе укладываются в дедлайн','Недостаточно данных':'Недостаточно данных для уверенного прогноза'};
+ // Historical metadata affects presentation only; paceModel receives the current deadline alone.
+ const originalTime=Date.parse(config.originalDeadline),originalDeadline=Number.isFinite(originalTime)&&m.deadline!==null&&originalTime<m.deadline?originalTime:null;
+ const extensionNote=$('pace-extension-note');
+ if(extensionNote){
+  extensionNote.hidden=originalDeadline===null;
+  if(originalDeadline!==null){const days=(m.deadline-originalDeadline)/DAY;extensionNote.replaceChildren();const title=document.createElement('strong'),copy=document.createElement('span');title.textContent='Дедлайн продлён до '+new Date(m.deadline).toLocaleDateString('ru-RU',{day:'numeric',month:'long',timeZone:'Europe/Moscow'})+' · +'+days+' дня';copy.textContent='Не успели обхватить к 18-му. Судейство продолжается';extensionNote.append(title,copy);extensionNote.title='Первоначальный срок: '+date(originalDeadline)+', 23:59 МСК. Новый срок: '+date(m.deadline)+', 23:59 МСК.';}
+ }
+ const presentation=paceStatus(m,originalDeadline);
+ $('pace-verdict').textContent=presentation.text;$('pace-verdict').dataset.tone=presentation.tone;
+ const statusCaption=$('pace-status-caption');if(statusCaption){statusCaption.hidden=!presentation.caption;statusCaption.textContent=presentation.caption||'';}
  const captionNode=$('pace-caption');if(captionNode)captionNode.textContent='';
  $('pace-remaining').textContent=fmt(m.remaining,0);$('pace-current').textContent=m.rate>0&&m.rate<1?'<1':fmt(m.rate,0);
+ const snapshotAsOf=m.asOf;
  function refreshNeeded(){
   const now=Date.now(),expired=m.deadline!==null&&now>=m.deadline;
   const daysLeft=m.deadline===null?null:Math.max(0,(m.deadline-now)/DAY);
   const needRate=daysLeft>0?m.remaining/daysLeft:null;
   $('pace-needed-label').textContent=expired?'Прогноз завершения':'Нужно в день';
   $('pace-needed').classList.toggle('is-forecast',expired);
-  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?'83 раза посмотреть клип янг спайса':'—';
+  $('pace-needed').classList.remove('is-caption');
+  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?fmt(Math.ceil(needRate),0):'—';
+  const help=$('pace-needed-help');if(help)help.textContent=expired?'Прогноз по последним 7 полным дням на дату выгрузки '+date(snapshotAsOf)+'.':needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(daysLeft,1)+' дня до дедлайна 22 октября, 23:59 МСК. Нужно в среднем '+fmt(Math.ceil(needRate),0)+' оценок в день.':'Нельзя рассчитать без актуального дедлайна.';
  }
  refreshNeeded();
  setInterval(refreshNeeded,1000);
@@ -83,9 +93,10 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
   $('pace-progress-deadline-date').textContent=m.deadline===null?'Дедлайн не задан':shortDate(m.deadline)+' · дедлайн';
  }
  function drawFinish(){
-  const svg=$('pace-finish-chart'),f=frame(svg),range=pacePlotRange(m),max=niceMaximum(m.target);f.T=f.mobile?31:33;f.B=86;const a=axes(f,range.start,range.end,max);
+  const svg=$('pace-finish-chart'),f=frame(svg),range=pacePlotRange(m),max=niceMaximum(m.target);f.T=f.mobile?31:33;f.B=originalDeadline!==null?108:86;if(originalDeadline!==null)range.start=Math.min(range.start,moscowDay(originalDeadline));const a=axes(f,range.start,range.end,max);
   const {x,y}=a;let html='<defs><linearGradient id="pace-fact-glow" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9ABFAE" stop-opacity=".17"/><stop offset="100%" stop-color="#9ABFAE" stop-opacity="0"/></linearGradient></defs>'+a.html;
 
+  if(originalDeadline!==null&&originalDeadline>=range.start&&originalDeadline<=range.end)html+='<line class="pace-original-deadline-line" x1="'+x(originalDeadline)+'" x2="'+x(originalDeadline)+'" y1="'+f.T+'" y2="'+(f.H-f.B)+'"/>';
   if(m.deadline!==null&&m.deadline>=range.start&&m.deadline<=range.end)html+='<line class="pace-deadline-line" x1="'+x(m.deadline)+'" x2="'+x(m.deadline)+'" y1="'+f.T+'" y2="'+(f.H-f.B)+'"/>';
   const fact=m.days.map(d=>({t:Math.min(d.t+DAY-1,m.asOf),count:d.cumulative}));
   if(fact.length){const path=fact.map((p,i)=>(i?'L':'M')+x(p.t)+','+y(p.count)).join(' ');html+='<path class="pace-fact-fill" d="'+path+' L'+x(fact.at(-1).t)+','+y(0)+' L'+x(fact[0].t)+','+y(0)+' Z"/>';html+='<path class="pace-fact-line" d="'+path+'"/>';html+='<circle class="pace-last-point-halo" cx="'+x(fact.at(-1).t)+'" cy="'+y(fact.at(-1).count)+'" r="10"/><circle class="pace-last-point" cx="'+x(fact.at(-1).t)+'" cy="'+y(fact.at(-1).count)+'" r="4.5"/>';const current=fact.at(-1),cx=x(current.t),cy=y(current.count);const labelX=Math.max(f.L+50,cx-18),labelY=Math.max(f.T+17,cy-24);html+='<text class="pace-current-value" x="'+labelX+'" y="'+labelY+'" text-anchor="end">'+fmt(m.done,0)+'</text>';}
@@ -103,9 +114,14 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
   }
   // Direct labels describe existing reference lines; forecast math stays unchanged.
    
+  // Each annotation has its own lane, independent of date proximity and the axis ticks.
+  if(originalDeadline!==null&&originalDeadline>=range.start&&originalDeadline<=range.end){
+   const ox=x(originalDeadline),labelX=Math.max(f.L+94,Math.min(f.W-f.R-94,ox));
+   html+='<text class="pace-original-deadline-label" x="'+labelX+'" y="'+(f.H-76)+'" text-anchor="middle">Первоначальный срок · '+shortDate(originalDeadline)+'</text>';
+  }
   if(m.deadline!==null&&m.deadline>=range.start&&m.deadline<=range.end){
    const dx=x(m.deadline),labelX=Math.max(f.L+55,Math.min(f.W-f.R-55,dx));
-   html+='<circle cx="'+dx+'" cy="'+(f.H-f.B)+'" r="3.5" fill="#C3A46A"/><text class="pace-deadline-bottom" x="'+labelX+'" y="'+(f.H-32)+'" text-anchor="middle">Дедлайн · '+shortDate(m.deadline)+'</text>';
+   html+='<circle cx="'+dx+'" cy="'+(f.H-f.B)+'" r="3.5" fill="#C3A46A"/><text class="pace-deadline-bottom" x="'+labelX+'" y="'+(originalDeadline!==null?f.H-54:f.H-32)+'" text-anchor="middle">'+(originalDeadline!==null?'Новый срок':'Дедлайн')+' · '+shortDate(m.deadline)+'</text>';
   }
   if(m.projected!==null&&m.enough&&forecast.length){
    const last=forecast.at(-1),dateLabel=shortDate(m.projected),truncated=range.truncated;
@@ -113,7 +129,7 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
    const label=(truncated?'Прогноз за пределами графика':'Финиш ≈ '+dateLabel);
    const labelY=Math.max(f.T+34,Math.min(f.H-f.B-12,py-15));
    html+='<circle class="pace-forecast-end" cx="'+px+'" cy="'+py+'" r="4"/>';
-   if(!truncated)html+='<text class="pace-finish-date-tick" x="'+Math.max(f.L+50,Math.min(f.W-f.R-50,px))+'" y="'+(f.H-52)+'" text-anchor="middle">Финиш ≈ '+shortDate(m.projected)+'</text>';
+   html+='<text class="pace-finish-date-tick" x="'+Math.max(f.L+50,Math.min(f.W-f.R-50,px))+'" y="'+(originalDeadline!==null?f.H-32:f.H-52)+'" text-anchor="middle">Финиш ≈ '+shortDate(m.projected)+'</text>';
    // Show the projected cumulative score at the endpoint, inside the chart bounds.
    // The label is anchored to the right and shifted away from the dot and upper gridline.
    const valueLabel=fmt(Math.round(last.count),0);

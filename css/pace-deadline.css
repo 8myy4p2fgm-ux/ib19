@@ -2,3 +2,16 @@
 #dynamics .pace-metrics>div{min-width:0}
 #dynamics .pace-metrics>div:has(#pace-needed) dt{white-space:normal}
 #dynamics #pace-needed{white-space:normal;overflow-wrap:anywhere}
+/* Deadline extension is a compact annotation inside the existing forecast heading. */
+#dynamics .pace-extension-note{margin:10px 0 0;font-size:13px;line-height:1.5;color:var(--muted)}
+#dynamics .pace-extension-note strong{display:block;color:#C7A66E;font-weight:600}
+#dynamics .pace-extension-note span{display:block;font-style:italic}
+#dynamics .pace-primary .pace-original-deadline-line{stroke:#91A098;stroke-width:1;stroke-dasharray:4 5;opacity:.65}
+#dynamics .pace-primary .pace-deadline-line{stroke:#C7A66E!important;stroke-width:1.8!important;stroke-dasharray:none;opacity:1!important}
+#dynamics .pace-primary .pace-original-deadline-label{fill:#A3B0A7;font-size:12px;font-weight:400}
+#dynamics .pace-primary .pace-deadline-bottom,#dynamics .pace-primary .pace-finish-date-tick{font-size:12px!important}
+@media(max-width:760px){#dynamics .pace-primary .pace-original-deadline-label,#dynamics .pace-primary .pace-deadline-bottom,#dynamics .pace-primary .pace-finish-date-tick{font-size:11px!important}}
+#dynamics .pace-status{grid-column:1;grid-row:1;min-width:0}
+#dynamics .pace-status .pace-caption{font-size:13px;line-height:1.5;margin:8px 0 0;color:var(--muted)}
+/* The restored rightmost info popup stays inside the viewport when focused. */
+#dynamics #pace-needed-help{left:auto;right:0;transform:none;width:min(270px,calc(100vw - 40px));box-sizing:border-box}

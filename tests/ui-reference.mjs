@@ -1,12 +1,13 @@
 import {chromium} from 'playwright';import http from 'node:http';import fs from 'node:fs/promises';import path from 'node:path';import assert from 'node:assert/strict';import {createRequire} from 'node:module';
 const root=process.cwd(),require=createRequire(import.meta.url);const {PNG}=require(path.join(root,'node_modules/playwright-core/lib/utilsBundle.js'));const pixelmatch=require(path.join(root,'node_modules/playwright-core/lib/third_party/pixelmatch.js'));
+import {config} from '../js/config.js';
 const original=await fs.readFile('docs/IB19_V95_WHITE_TUZ_HEADING.html','utf8');
 const overview=await fs.readFile('docs/TUZ_V95_overview_v6.html','utf8');
 const statusSource=(await fs.readFile('js/general.js','utf8')).match(/export function participantStatus\(scores\)\{[\s\S]*?\n\}/)[0].replace('export ','');
 // Only data is adapted in each reference, keeping their UI and formulas intact.
 function currentDataReference(original){
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
- let code=first.slice(first.indexOf('const module3='));
+ let code=first.slice(first.indexOf('const module3=')).replaceAll('2026-10-18T23:59:00+03:00',config.deadline);
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");
  // Apply the approved status correction to the runtime reference; keep historical files intact.
  code=code.replace(/function participantStatus\(scores\)\{[^\n]+\}/,()=>statusSource);

@@ -41,7 +41,7 @@ dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
   // The deadline is site-wide metadata, visible on every page.
   holder.hidden=false;
   holder.setAttribute('aria-hidden','false');
-  const raw=holder.dataset.deadline || '2026-10-18T23:59:00+03:00';
+  const raw=holder.dataset.deadline || '2026-10-22T23:59:00+03:00';
   const deadlineMs=raw?Date.parse(raw):NaN;
   if(!Number.isFinite(deadlineMs)){output.textContent='Дата не задана';return;}
   const remaining=deadlineMs-Date.now();
