@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T23:12:07.212Z",
+  "exportedAt": "2026-10-18T23:22:09.899Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -1233,8 +1233,14 @@
     },
     {
       "userId": "7334e0b9-8953-4c84-86f3-52c4850b0ad0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Зачитал прикольно и с правильными интонациями. Строчка про ручку сильная! С мыслями про бумагу согласен. Но как же паршиво ты спел...",
+          "scoredAt": "2026-10-18T23:16:10.759Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -1260,7 +1266,7 @@
           "scoredAt": "2026-08-30T23:58:30.533Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T23:22:09.899Z",
       "current": true,
       "artistName": "АЗаМат Извиняев",
       "artistSlug": "azamat-izvinyaev"
@@ -10956,8 +10962,14 @@
     },
     {
       "userId": "28e1418a-d7d4-4757-b044-9dc8da7e0aff",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Нихерово в тебе накопилось, дружище! Но куда ты так спешишь? Студия закрывалась через 10 минут? ",
+          "scoredAt": "2026-10-18T23:13:07.474Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -10977,7 +10989,7 @@
           "scoredAt": "2026-09-12T20:18:03.219Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:31:59.118Z",
+      "fetchedAt": "2026-10-18T23:22:09.899Z",
       "current": true,
       "artistName": "Freska",
       "artistSlug": "freska"
@@ -31010,8 +31022,14 @@
     },
     {
       "userId": "11f3f853-9d32-4e3f-b326-cdb1721eb2b5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Классные рифмы! Но, по-моему, ты поставил рекорд оффбитов за минуту. Это пиздец как неритмично. Буквально каждая строка!!!",
+          "scoredAt": "2026-10-18T23:19:46.559Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -31031,7 +31049,7 @@
           "scoredAt": "2026-09-09T17:18:40.408Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:02:31.250Z",
+      "fetchedAt": "2026-10-18T23:22:09.899Z",
       "current": true,
       "artistName": "Wincent Dapooh",
       "artistSlug": "wincent-dapooh"
