@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T11:12:14.016Z",
-  "exportedAt": "2026-10-18T11:12:14.016Z",
-  "runId": "2026-10-18T11:12:14.016Z",
-  "forumExportedAt": "2026-10-18T11:12:14.016Z",
+  "lastSuccessfulAt": "2026-10-18T11:22:12.081Z",
+  "exportedAt": "2026-10-18T11:22:12.081Z",
+  "runId": "2026-10-18T11:22:12.081Z",
+  "forumExportedAt": "2026-10-18T11:22:12.081Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13567,
+    "scores": 13577,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 17,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 15,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 15,
-    "changedParticipants": 15,
-    "logicalRequests": 17,
-    "durationMs": 16682,
-    "scoresBefore": 13552,
-    "scoresAfter": 13567,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 9,
+    "logicalRequests": 13,
+    "durationMs": 12887,
+    "scoresBefore": 13567,
+    "scoresAfter": 13577,
     "fullBaselineRequests": 3256,
-    "requestReductionPercent": 99.47788697788698,
+    "requestReductionPercent": 99.6007371007371,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -86,6 +86,69 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "Maxong",
+          "comment": "Ну тут хоть стиль дрила выдержан (не то что у некоторых тут) панчи неочемные , брад, скучные, дефолтные, давай расчехляй оригинальное. За технику и выверенность дриллу по смысловым оттенкам лови 4. Но над текстом надо стараться , найди баланс над красивой читкой и хлесткостью текста, а то поешь в микро а это мой член, ну пиздец кто только не юзал , и всякое в таком духе ",
+          "scoredAt": "2026-10-18T11:20:48.778Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "PAHAOX",
+          "comment": "Увы, пока совсем рановато для второго раунда",
+          "scoredAt": "2026-10-18T11:19:01.119Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "OnBonus",
+          "comment": "Где-то проблемы с дикцией, но потенциал есть",
+          "scoredAt": "2026-10-18T11:18:07.831Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 4,
+          "artist": "жжёные васильки",
+          "comment": "В этом что-то есть, прикольно закрутил про мента, наверное единственное что понравилось тут. В целом писать умеешь, на абсурдном движе, сойдёт . звучит органично ",
+          "scoredAt": "2026-10-18T11:17:43.610Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "XXCommunicado",
+          "comment": "Припев неплохой. В куплете куда-то как-будто торопишься. По тексту - пустота.",
+          "scoredAt": "2026-10-18T11:15:21.727Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "ХИПХОПГОБЛИН",
+          "comment": "Текст понятен, читаешь нормасно, харизма на месте, но текст пустоват, добавь панчи . пока что ничем не цепанул в строчках, второсортные ходы используешь , давай свою оригинальность",
+          "scoredAt": "2026-10-18T11:14:43.696Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "artist": "femboxxxy",
+          "comment": "Ну тебе пока рано во второй. Советую поучаствовать на локалках, наберешься опыта и вернешься на 20нз всем давать пизды.\n",
+          "scoredAt": "2026-10-18T11:13:45.266Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "L.VICE",
+          "comment": "Есть текстовые интересные моменты, есть неудачные по рифме как с Алишером. Подача странная, немного скучноватая. Добавь эмоций. Три с плюсом ",
+          "scoredAt": "2026-10-18T11:12:27.423Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "SKAPOLOMIN",
+          "comment": "Зачитал уверенно и харизматично. По тексту ничего интересного. Биток выбрал неплохой.",
+          "scoredAt": "2026-10-18T11:12:11.871Z"
+        },
+        {
           "judgeName": "Samarskij",
           "score": 5,
           "artist": "EggStacy [ЯЙЦА СТАСА]",
@@ -126,69 +189,6 @@
           "artist": "Caaaprico",
           "comment": "Интересный трек, чем-то напомнил АТЛ. По тексту хотелось бы побольше интересных строчек.",
           "scoredAt": "2026-10-18T11:07:32.645Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "barmalek",
-          "comment": "С качеством решай что-то бро, из того что расслышал - средний уровень. ",
-          "scoredAt": "2026-10-18T11:07:31.947Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 5,
-          "artist": "CATPOWN",
-          "comment": "Соусно, круто стелишь. Красава.",
-          "scoredAt": "2026-10-18T11:06:48.734Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "I-Stea",
-          "comment": "Трек между 3 и 4. Но слишком скованно читаешь, раскованности бы.  Припев подруинил все же 3. ",
-          "scoredAt": "2026-10-18T11:05:57.484Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 1,
-          "artist": "АнтропониМ",
-          "comment": "PAPOI",
-          "scoredAt": "2026-10-18T11:05:33.078Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 5,
-          "artist": "Фаросский",
-          "comment": "Яма на дропе не очень понравилась, тейки чуть налезают кривовато в паре мест. Где-то между 4 и  5. Хуй с ним ставлю 5-, поешь отлично, но повнимательнее с мелочами. ",
-          "scoredAt": "2026-10-18T11:04:56.871Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Danya Sley",
-          "comment": "Простой репчик, переслушал два раза, ничего интересного не услышал.",
-          "scoredAt": "2026-10-18T11:04:37.678Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "Senat",
-          "comment": "Дефолтный пустой рэп , звучит конечно сыро капец как",
-          "scoredAt": "2026-10-18T11:04:18.065Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "mrexx",
-          "comment": "Зачитал норм, но по тексту ничего интересного.",
-          "scoredAt": "2026-10-18T11:02:48.988Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Бедуин",
-          "comment": "Забавно сделал ! Нормасик. Не скучно! Лови 4",
-          "scoredAt": "2026-10-18T11:02:37.592Z"
         }
       ]
     }
