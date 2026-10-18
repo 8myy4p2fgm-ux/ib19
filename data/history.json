@@ -145790,6 +145790,104 @@
         "scoredAt": "2026-10-18T08:27:41.700Z",
         "userId": "2501bc75-c673-4886-9ad9-8db339ecec9d"
       }
+    },
+    {
+      "id": "07f56735d005f120cb25a1158abac176876a536633459ccdcf5d6975a334823d",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:38:20.837Z",
+      "key": "[\"22087e43-1a03-40ee-90c4-4dde6cf11a54\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Я валет и калека.",
+        "scoredAt": "2026-10-18T08:38:20.837Z",
+        "userId": "22087e43-1a03-40ee-90c4-4dde6cf11a54"
+      }
+    },
+    {
+      "id": "185300e3cfb2a6820799fb8e491382a322460ae3bed37d93bab2ea560b05f7d0",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:33:10.128Z",
+      "key": "[\"613d01e4-6adc-4bad-b444-5f5e56dad0c9\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "no boobies... Очень простой трек. Зачитал ровно, но по тексту ничего интересного. ",
+        "scoredAt": "2026-10-18T08:33:10.128Z",
+        "userId": "613d01e4-6adc-4bad-b444-5f5e56dad0c9"
+      }
+    },
+    {
+      "id": "c693a3dc0b4703ef231d489c0bc1864156e71bb20aaafa7fd164cde087e45c15",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:39:25.373Z",
+      "key": "[\"df00ad5b-10c6-432a-88ce-35595fc027eb\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Панчи уверенные. Трек плотный. Молодец.",
+        "scoredAt": "2026-10-18T08:39:25.373Z",
+        "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb"
+      }
+    },
+    {
+      "id": "739484ade42dff0044db949c6a15115a62603f5383089d5d1152a3746e5e34ee",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:32:06.198Z",
+      "key": "[\"b2866669-07fc-40c8-a57c-0ce3722fa93a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Приятная песня, но мы все-таки на хип-хоп баттле. Хороший текст мог бы исправить впечатление, но его к сожалению нет.",
+        "scoredAt": "2026-10-18T08:32:06.198Z",
+        "userId": "b2866669-07fc-40c8-a57c-0ce3722fa93a"
+      }
+    },
+    {
+      "id": "1dc95b2a842f99b6fbb2b08d0e189ffbbbb71fac9ccbde610fb0d6c02cdefe91",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:37:16.866Z",
+      "key": "[\"7bfb601f-4ab4-43a7-98e9-13522301c982\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну нарифмовал нормально, а смыслов не подвез. Зачитал ровно, но сам куплет очень скучный и неинтересный.",
+        "scoredAt": "2026-10-18T08:37:16.866Z",
+        "userId": "7bfb601f-4ab4-43a7-98e9-13522301c982"
+      }
+    },
+    {
+      "id": "9b2af182843d15927377aa40f8cdfad306e31a149b4c9370fdbcf9dbbe68fe1e",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:35:15.489Z",
+      "key": "[\"c13ac718-5608-4ffb-a1f9-88740f176414\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Не переживай брат, поднимемся, купим себе по феррари. Пока надо что-то с рэпом сделать. Читаешь неплохо, но еще не очень уверенно. По тексту все очень просто, никаких интересных моменов я не обнаружил(А Я ИСКАЛ!).",
+        "scoredAt": "2026-10-18T08:35:15.489Z",
+        "userId": "c13ac718-5608-4ffb-a1f9-88740f176414"
+      }
+    },
+    {
+      "id": "1bb15e344cc753ddc6a3e692d224b8d79fc03acce21eca8288be3fe142b1b5a6",
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "sourceScoredAt": "2026-10-18T08:40:23.363Z",
+      "key": "[\"d324ad9c-3f3b-427c-a607-ce04f9611724\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "С вами очень потно....\nОбычный рэпчик о том, какой ты крутой и какая у тебя крутая бротва. Скучно.",
+        "scoredAt": "2026-10-18T08:40:23.363Z",
+        "userId": "d324ad9c-3f3b-427c-a607-ce04f9611724"
+      }
     }
   ],
   "snapshots": [
@@ -155149,6 +155247,26 @@
           "index": 29.906869251394202,
           "favor": 17.786984630090807,
           "attention": 1.3976623990811743,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T08:42:10.912Z",
+      "exportedAt": "2026-10-18T08:42:10.912Z",
+      "scores": 13393,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 22.04143870778038,
+          "favor": 9.302563608057678,
+          "attention": 6.268804677187489,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.921815639804947,
+          "favor": 17.788915707078324,
+          "attention": 1.4106777105044004,
           "respect": 10.722222222222221
         }
       }
