@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T03:22:02.667Z",
-  "exportedAt": "2026-10-18T03:22:02.667Z",
-  "runId": "2026-10-18T03:22:02.667Z",
-  "forumExportedAt": "2026-10-18T03:22:02.667Z",
+  "lastSuccessfulAt": "2026-10-18T03:32:01.010Z",
+  "exportedAt": "2026-10-18T03:32:01.010Z",
+  "runId": "2026-10-18T03:32:01.010Z",
+  "forumExportedAt": "2026-10-18T03:32:01.010Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13321,
+    "scores": 13323,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4880,
-    "scoresBefore": 13318,
-    "scoresAfter": 13321,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4034,
+    "scoresBefore": 13321,
+    "scoresAfter": 13323,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.8462957270212,
+    "requestReductionPercent": 99.87703658161698,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "SSSAVAGE",
+          "comment": "Блин, неплозой трек, но ты очень много накосячил по ритмике. Много лишних ускорений, сбивок. Прямо очень сильно попортил впечатление.",
+          "scoredAt": "2026-10-18T03:26:27.537Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "AstroNatrick",
+          "comment": "Неплохой трэк. Из минусов - проблемы по ритмике. Видно, что ты все делал в угоду тектсу, но не забывай, что это еще и четко звучать. Пятерка есть, но не самая уверенная.",
+          "scoredAt": "2026-10-18T03:24:51.719Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "Spayke",
           "comment": "",
           "scoredAt": "2026-10-18T02:36:15.574Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Макфлай",
-          "comment": "Ой, прикольно))\nЩиты за Луччи, Мастяка, Татища и Танира.\nНу-ка не обижай их, я тебе 4 поставлю)\nНу а если серьезно, мне напомнил группу Заточка. \nИ про вокал никого не слушай, пусть будет твоей фишкой.\nЗнаешь, этакий дворой образ опытного дядьки с гаража.\nОнит не шарят, бро, это стиль))",
-          "scoredAt": "2026-10-18T02:34:57.313Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Rаш",
-          "comment": "Словно ранний Галат, очень голос похож)",
-          "scoredAt": "2026-10-18T02:30:49.386Z"
         }
       ]
     }

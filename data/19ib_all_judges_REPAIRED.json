@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T03:22:02.667Z",
+  "exportedAt": "2026-10-18T03:32:01.010Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -6998,8 +6998,14 @@
     },
     {
       "userId": "6485a969-5c90-4848-bbb2-fdfd0a042910",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Блин, неплозой трек, но ты очень много накосячил по ритмике. Много лишних ускорений, сбивок. Прямо очень сильно попортил впечатление.",
+          "scoredAt": "2026-10-18T03:26:27.537Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -7025,7 +7031,7 @@
           "scoredAt": "2026-09-24T21:25:07.412Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:32:20.851Z",
+      "fetchedAt": "2026-10-18T03:32:01.010Z",
       "current": true,
       "artistName": "SSSAVAGE",
       "artistSlug": "sssavage"
@@ -68130,8 +68136,14 @@
     },
     {
       "userId": "485e7e4e-35f9-4da7-9369-387eb61e3925",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Неплохой трэк. Из минусов - проблемы по ритмике. Видно, что ты все делал в угоду тектсу, но не забывай, что это еще и четко звучать. Пятерка есть, но не самая уверенная.",
+          "scoredAt": "2026-10-18T03:24:51.719Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 4,
@@ -68145,7 +68157,7 @@
           "scoredAt": "2026-10-16T09:54:58.630Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:32:30.666Z",
+      "fetchedAt": "2026-10-18T03:32:01.010Z",
       "current": true,
       "artistName": "AstroNatrick",
       "artistSlug": "astronatrick"
