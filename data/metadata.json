@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T12:22:05.461Z",
-  "exportedAt": "2026-10-18T12:22:05.461Z",
-  "runId": "2026-10-18T12:22:05.461Z",
-  "forumExportedAt": "2026-10-18T12:22:05.461Z",
+  "lastSuccessfulAt": "2026-10-18T12:31:58.031Z",
+  "exportedAt": "2026-10-18T12:31:58.031Z",
+  "runId": "2026-10-18T12:31:58.031Z",
+  "forumExportedAt": "2026-10-18T12:31:58.031Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13597,
+    "scores": 13599,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7019,
-    "scoresBefore": 13592,
-    "scoresAfter": 13597,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3665,
+    "scoresBefore": 13597,
+    "scoresAfter": 13599,
     "fullBaselineRequests": 3256,
-    "requestReductionPercent": 99.78501228501229,
+    "requestReductionPercent": 99.87714987714988,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "SVAMI",
+          "comment": "Авансом 5 поставлю как спасательный круг во второй отборочный. НО пожалуйста начни делать панчлайны потому что рэп ради рэпа уже всем надоел, как репрезент в целом норм. Добавь интересных строк и разнообразия в подаче, интонировать ты умеешь, читать тоже. Собери всё самое лучшее что у тебя есть нам показать во втором раунде и выдай пушечку с неизбитыми панчлайнами без баянов что",
+          "scoredAt": "2026-10-18T12:29:41.278Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "Еб@л Мадрид",
+          "comment": "Закрою глаза на уебищнве рифмы которые у тебя проскакивают опасно-напрасно и т.д есть у тебя вроде заходы на панчлайны но они недокрученные . хотя с шепелявой птицы чето порвало неожиданная строчка , в конце красиво закончил, по жкспрессии кайфово, знаешь , позуй лови 5 с минусом ща убогие рифмы но они хотя бы были обернуты в панчи, но старайся от этого уходить пж пж пж ",
+          "scoredAt": "2026-10-18T12:25:42.846Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "под лирикой",
           "comment": "Какое-то странное впечатление от трека. Пусто по тексту, а звук просто обычный.",
           "scoredAt": "2026-10-18T11:27:36.238Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 2,
-          "artist": "Ura_rap",
-          "comment": "Искусство нельзя оценивать!",
-          "scoredAt": "2026-10-18T11:26:58.030Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "Oxxxyminor",
-          "comment": "Прикольно пародируешь , по другому строчки воспринимаются. Если самоиронией будешь двигать его то это заявка на успех !",
-          "scoredAt": "2026-10-18T11:26:17.418Z"
         }
       ]
     }
