@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T15:42:03.125Z",
+  "exportedAt": "2026-10-18T15:52:01.912Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -78932,8 +78932,14 @@
     },
     {
       "userId": "8201923f-cd28-432c-963c-d6e64881ab40",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Ну звучит как левак. Да и левак слабенький. Пытаешься флексить, но как-то не верится в твой флекс.",
+          "scoredAt": "2026-10-18T15:48:43.216Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -78959,7 +78965,7 @@
           "scoredAt": "2026-10-08T15:28:30.195Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:52:19.201Z",
+      "fetchedAt": "2026-10-18T15:52:01.912Z",
       "current": true,
       "artistName": "TRIPPLE-K IANI",
       "artistSlug": "tripple-k-iani"
@@ -104812,8 +104818,14 @@
     },
     {
       "userId": "1f0da752-ea50-418b-9672-5f481491b638",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Зачитал хорошо, но текст очень уж простой с технической точки зрения. За попытку хоть как-то раскрыть тему поставлю четрые, но это аванс.",
+          "scoredAt": "2026-10-18T15:45:53.022Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -104833,7 +104845,7 @@
           "scoredAt": "2026-10-12T15:08:14.876Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:32:11.021Z",
+      "fetchedAt": "2026-10-18T15:52:01.912Z",
       "current": true,
       "artistName": "Андрей Сибскана",
       "artistSlug": "andrey-sibskana"
@@ -107201,46 +107213,6 @@
       "artistSlug": "almazik"
     },
     {
-      "userId": "025340cb-8d34-4049-b163-33b7a117d5f1",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "comment": "Поднял оценку за неплохую конструкцию местами) но подача, совсем никуда не годится.. ( ",
-          "scoredAt": "2026-10-16T17:22:58.520Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "comment": "Чот не смотришься ты на бите ну и затягивать строчки под такое странно, ну и звук конечно(",
-          "scoredAt": "2026-10-16T14:40:20.857Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "comment": "Ку-ка-ре-ку!\nУлыбнуло!",
-          "scoredAt": "2026-10-13T23:52:24.567Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 2,
-          "comment": "с минусом, но что то тут есть. боярский?",
-          "scoredAt": "2026-10-13T19:28:34.328Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "comment": "хахаха ахуенно",
-          "scoredAt": "2026-10-13T16:14:29.781Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
-      "current": true,
-      "artistName": "Кукарек МЦ",
-      "artistSlug": "kukarek-mc"
-    },
-    {
       "userId": "c228a5fb-13ba-4d33-bd45-ebf93a772569",
       "scoredCount": 3,
       "scores": [
@@ -107345,6 +107317,46 @@
       "current": true,
       "artistName": "BIKMET",
       "artistSlug": "bikmet"
+    },
+    {
+      "userId": "025340cb-8d34-4049-b163-33b7a117d5f1",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Поднял оценку за неплохую конструкцию местами) но подача, совсем никуда не годится.. ( ",
+          "scoredAt": "2026-10-16T17:22:58.520Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Чот не смотришься ты на бите ну и затягивать строчки под такое странно, ну и звук конечно(",
+          "scoredAt": "2026-10-16T14:40:20.857Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Ку-ка-ре-ку!\nУлыбнуло!",
+          "scoredAt": "2026-10-13T23:52:24.567Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 2,
+          "comment": "с минусом, но что то тут есть. боярский?",
+          "scoredAt": "2026-10-13T19:28:34.328Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "хахаха ахуенно",
+          "scoredAt": "2026-10-13T16:14:29.781Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "current": true,
+      "artistName": "пук среньк",
+      "artistSlug": "puk-srenk"
     },
     {
       "userId": "b0536d92-bd2b-40ac-b8be-59ff9e126ffb",
@@ -109996,8 +110008,14 @@
     },
     {
       "userId": "992cdd91-af40-47ea-8dd2-4f0efcd154fb",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Забавный тречок - миниатюра. Немного перемудрил с формой, но в целом неплохо.",
+          "scoredAt": "2026-10-18T15:42:54.600Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -110023,7 +110041,7 @@
           "scoredAt": "2026-10-12T19:14:12.545Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "fetchedAt": "2026-10-18T15:52:01.912Z",
       "current": true,
       "artistName": "Алексей Рыбников",
       "artistSlug": "aleksey-rybnikov"
