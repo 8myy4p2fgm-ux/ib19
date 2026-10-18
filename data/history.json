@@ -145888,6 +145888,104 @@
         "scoredAt": "2026-10-18T08:40:23.363Z",
         "userId": "d324ad9c-3f3b-427c-a607-ce04f9611724"
       }
+    },
+    {
+      "id": "761abbc366e0583882120688ff963a7ff153e62ec5a832d3310ad35431b0e1b9",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:42:16.043Z",
+      "key": "[\"ea7b9e0b-f0a9-4e56-b9eb-54a3cdaa787a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Пока очень рано. Мне кажется для тебя это просто эксперимент с формой. Продуй еще раз, со временем будет получаться лучше.",
+        "scoredAt": "2026-10-18T08:42:16.043Z",
+        "userId": "ea7b9e0b-f0a9-4e56-b9eb-54a3cdaa787a"
+      }
+    },
+    {
+      "id": "a557ee61caed3c757a0f92c7260958b689fdaf7359ef9b00a96c35919e305831",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:46:56.276Z",
+      "key": "[\"801923f9-c858-4176-a64d-289a9c62fedb\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Пиздато. Во втором сделай не рэп про рэп. ",
+        "scoredAt": "2026-10-18T08:46:56.276Z",
+        "userId": "801923f9-c858-4176-a64d-289a9c62fedb"
+      }
+    },
+    {
+      "id": "6a69a585ab2a2b0b6b06186e3a179a96bfe4216f72e392c55afacfe5fd6c8a8c",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:48:57.635Z",
+      "key": "[\"c4d253fb-0c7b-49b8-b522-92108199fc80\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Не нравится как ты пытаешься тянуть слоги. На тараторной части нажевал слова. По тексту ничего интересного.",
+        "scoredAt": "2026-10-18T08:48:57.635Z",
+        "userId": "c4d253fb-0c7b-49b8-b522-92108199fc80"
+      }
+    },
+    {
+      "id": "36e1d052dc0bfcf5c25bab05a4168e92c3c92d28f5dabec1d3f3c230b616e303",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:51:20.324Z",
+      "key": "[\"553fc66c-0e27-4e95-a547-2a6a4d13986a\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "ну свушай прикольно вайбешь, живо, по человечески, У ТЕБЯ ЕСТЬ СТИЛЬ, это круто. Минус в таком рэпе хочется больше техтовых якорей типо панчей и рифмы покурче.",
+        "scoredAt": "2026-10-18T08:51:20.324Z",
+        "userId": "553fc66c-0e27-4e95-a547-2a6a4d13986a"
+      }
+    },
+    {
+      "id": "5af86f0bbfd887d70f6c4505dd58949b6afa54443a0b3f54e2a3da302b77b1ca",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:43:27.899Z",
+      "key": "[\"9f4a2cb8-0311-4fe2-b656-cff40350fc61\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Где-то я тебя видел. Зачитал уверенно и харизматично, но по тексту все очень просто.",
+        "scoredAt": "2026-10-18T08:43:27.899Z",
+        "userId": "9f4a2cb8-0311-4fe2-b656-cff40350fc61"
+      }
+    },
+    {
+      "id": "cd52c50ec82e7a073ab3bbbbccae6358a861dd2dbc534fe8405fcc0058ded2e3",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:50:46.868Z",
+      "key": "[\"08cae693-4c18-480c-ae2e-b8b1c68e2594\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "Послушал на площадках треки. Прикольно. Послушал этот трек. Не прикольно.",
+        "scoredAt": "2026-10-18T08:50:46.868Z",
+        "userId": "08cae693-4c18-480c-ae2e-b8b1c68e2594"
+      }
+    },
+    {
+      "id": "166bb6ac829b0f669cd4809545b5421ab5bbd71fbd39aeef0b1cb19423012cb3",
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "sourceScoredAt": "2026-10-18T08:48:00.002Z",
+      "key": "[\"03bfce20-d354-412a-983b-af7b20b7bf6f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Очень просто и наивно. Надеюсь моя баба не шмара.",
+        "scoredAt": "2026-10-18T08:48:00.002Z",
+        "userId": "03bfce20-d354-412a-983b-af7b20b7bf6f"
+      }
     }
   ],
   "snapshots": [
@@ -155267,6 +155365,26 @@
           "index": 29.921815639804947,
           "favor": 17.788915707078324,
           "attention": 1.4106777105044004,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T08:52:06.334Z",
+      "exportedAt": "2026-10-18T08:52:06.334Z",
+      "scores": 13400,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 22.054815745828083,
+          "favor": 9.307935904539768,
+          "attention": 6.276809418753105,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.939077263597103,
+          "favor": 17.794237131968,
+          "attention": 1.4226179094068816,
           "respect": 10.722222222222221
         }
       }

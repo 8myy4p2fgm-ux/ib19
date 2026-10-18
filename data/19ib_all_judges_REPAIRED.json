@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T08:42:10.912Z",
+  "exportedAt": "2026-10-18T08:52:06.334Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -16594,8 +16594,14 @@
     },
     {
       "userId": "ea7b9e0b-f0a9-4e56-b9eb-54a3cdaa787a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Пока очень рано. Мне кажется для тебя это просто эксперимент с формой. Продуй еще раз, со временем будет получаться лучше.",
+          "scoredAt": "2026-10-18T08:42:16.043Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -16621,7 +16627,7 @@
           "scoredAt": "2026-09-17T18:54:42.131Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:52:21.634Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "lina_aivy",
       "artistSlug": "lina-aivy"
@@ -42697,8 +42703,14 @@
     },
     {
       "userId": "801923f9-c858-4176-a64d-289a9c62fedb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Пиздато. Во втором сделай не рэп про рэп. ",
+          "scoredAt": "2026-10-18T08:46:56.276Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -42718,7 +42730,7 @@
           "scoredAt": "2026-09-23T17:56:33.600Z"
         }
       ],
-      "fetchedAt": "2026-10-18T01:52:02.753Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "Максон С Полей",
       "artistSlug": "makson-s-poley"
@@ -50798,8 +50810,14 @@
     },
     {
       "userId": "c4d253fb-0c7b-49b8-b522-92108199fc80",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Не нравится как ты пытаешься тянуть слоги. На тараторной части нажевал слова. По тексту ничего интересного.",
+          "scoredAt": "2026-10-18T08:48:57.635Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -50825,7 +50843,7 @@
           "scoredAt": "2026-09-30T17:57:54.366Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:31:59.118Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "M0rdekaY",
       "artistSlug": "m0rdekay"
@@ -79506,6 +79524,28 @@
       "artistSlug": "axel-lezvie"
     },
     {
+      "userId": "dde03ebf-574b-4689-8611-9822c018e067",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом",
+          "scoredAt": "2026-10-17T13:41:38.530Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Упокой спокойно однокоренные, брат. Рифма в целом формально канонична, но топорная, не оч вкусно. По читке блёкло",
+          "scoredAt": "2026-10-16T16:29:29.972Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T13:42:16.331Z",
+      "current": true,
+      "artistName": "Рома Кросс",
+      "artistSlug": "roma-kross"
+    },
+    {
       "userId": "f6960fad-fe4c-4ed3-83dc-31d89dbc30d9",
       "scoredCount": 4,
       "scores": [
@@ -79778,28 +79818,6 @@
       "current": true,
       "artistName": "Карман (ДоПэ)",
       "artistSlug": "karman-dope"
-    },
-    {
-      "userId": "dde03ebf-574b-4689-8611-9822c018e067",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "Авансом",
-          "scoredAt": "2026-10-17T13:41:38.530Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "comment": "Упокой спокойно однокоренные, брат. Рифма в целом формально канонична, но топорная, не оч вкусно. По читке блёкло",
-          "scoredAt": "2026-10-16T16:29:29.972Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T13:42:16.331Z",
-      "current": true,
-      "artistName": "Рома Кросс",
-      "artistSlug": "roma-kross"
     },
     {
       "userId": "86cd07ae-9edd-4878-a809-d44b3b0ed5a9",
@@ -82153,8 +82171,14 @@
     },
     {
       "userId": "553fc66c-0e27-4e95-a547-2a6a4d13986a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "ну свушай прикольно вайбешь, живо, по человечески, У ТЕБЯ ЕСТЬ СТИЛЬ, это круто. Минус в таком рэпе хочется больше техтовых якорей типо панчей и рифмы покурче.",
+          "scoredAt": "2026-10-18T08:51:20.324Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -82180,7 +82204,7 @@
           "scoredAt": "2026-09-30T18:19:15.189Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "КМ74",
       "artistSlug": "km74"
@@ -90507,8 +90531,14 @@
     },
     {
       "userId": "9f4a2cb8-0311-4fe2-b656-cff40350fc61",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Где-то я тебя видел. Зачитал уверенно и харизматично, но по тексту все очень просто.",
+          "scoredAt": "2026-10-18T08:43:27.899Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -90528,7 +90558,7 @@
           "scoredAt": "2026-10-14T08:02:51.141Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:02:47.880Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "detis",
       "artistSlug": "detis"
@@ -95345,8 +95375,14 @@
     },
     {
       "userId": "08cae693-4c18-480c-ae2e-b8b1c68e2594",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 1,
+          "comment": "Послушал на площадках треки. Прикольно. Послушал этот трек. Не прикольно.",
+          "scoredAt": "2026-10-18T08:50:46.868Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -95372,7 +95408,7 @@
           "scoredAt": "2026-10-08T14:49:40.360Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:32:25.607Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "ШААКУР",
       "artistSlug": "shaakur"
@@ -108895,8 +108931,14 @@
     },
     {
       "userId": "03bfce20-d354-412a-983b-af7b20b7bf6f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень просто и наивно. Надеюсь моя баба не шмара.",
+          "scoredAt": "2026-10-18T08:48:00.002Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -108922,7 +108964,7 @@
           "scoredAt": "2026-08-31T17:21:51.577Z"
         }
       ],
-      "fetchedAt": "2026-10-16T12:42:15.963Z",
+      "fetchedAt": "2026-10-18T08:52:06.334Z",
       "current": true,
       "artistName": "Xbhhhhh",
       "artistSlug": "xbhhhhh"
