@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T22:42:09.640Z",
-  "exportedAt": "2026-10-18T22:42:09.640Z",
-  "runId": "2026-10-18T22:42:09.640Z",
-  "forumExportedAt": "2026-10-18T22:42:09.640Z",
+  "lastSuccessfulAt": "2026-10-18T22:52:03.847Z",
+  "exportedAt": "2026-10-18T22:52:03.847Z",
+  "runId": "2026-10-18T22:52:03.847Z",
+  "forumExportedAt": "2026-10-18T22:52:03.847Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13861,
+    "scores": 13864,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 5996,
-    "scoresBefore": 13857,
-    "scoresAfter": 13861,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5368,
+    "scoresBefore": 13861,
+    "scoresAfter": 13864,
     "fullBaselineRequests": 3259,
-    "requestReductionPercent": 99.81589444614912,
+    "requestReductionPercent": 99.84657870512427,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Женечка Мелкая",
+          "comment": "Очень медленно, квадратно и просто по исполнению. Вокал немножко поистязал мои ушки. Троишная работа.",
+          "scoredAt": "2026-10-18T22:50:04.955Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Два в парадный",
+          "comment": "Читка на уровне никакущей. Запись на студии точно не спасла бы. Спасибо за сопереживание судьям, хоть и сам поссал нам в уши.",
+          "scoredAt": "2026-10-18T22:47:09.355Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Догор",
+          "comment": "Не люблю подобную крикливость. Не сказал бы, что вы синхронизировались с гитарой: твой надрыв сильно вылезает вперёд. Голосую пятым, видя, что баллов для прохода тебе будет достаточно с моей тройкой. Достоин идти дальше, но давай как-то поспокойнее.",
+          "scoredAt": "2026-10-18T22:44:27.159Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -168,27 +189,6 @@
           "artist": "AZVRT",
           "comment": "Работа весьма средняя: простые рифмы, явные склейки при записи, однообразная манера читки.",
           "scoredAt": "2026-10-18T22:03:54.294Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "stiga2mc",
-          "comment": "Хорошо напичкал трэк рифмами, но мне не близка подобная комедийность в рэпах. Панч про глагол шикарный. Авансирую четвёркой в надежде услышать от тебя что-нибудь посерьёзнее.",
-          "scoredAt": "2026-10-18T22:00:16.338Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Vito22",
-          "comment": "Первый однострочный трэк на раунд. Чувствуется некая неуверенность в исполнении. Советовал бы вырезать мощные вдохи между строк. Напевы в конце не удались.",
-          "scoredAt": "2026-10-18T21:56:11.106Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "WM",
-          "comment": "Классно сделал: техничненько, налегке, филигранно. Проскакивают очень плотные рифмовки. Звучок бы подтянуть. Но смело двигаешь дальше.",
-          "scoredAt": "2026-10-18T21:51:32.626Z"
         }
       ]
     }
