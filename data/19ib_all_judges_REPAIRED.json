@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T23:02:44.874Z",
+  "exportedAt": "2026-10-18T23:12:07.212Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -72548,8 +72548,14 @@
     },
     {
       "userId": "f680b08b-9a43-4a2d-92fa-19198690ebc0",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Ритмика особо не заглядывала в этот трэк. Как и связанные мысли.",
+          "scoredAt": "2026-10-18T23:07:36.408Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -72563,7 +72569,7 @@
           "scoredAt": "2026-09-23T10:20:07.450Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-18T23:12:07.212Z",
       "current": true,
       "artistName": "Андрей Макаров",
       "artistSlug": "andrey-makarov"
@@ -86635,8 +86641,14 @@
     },
     {
       "userId": "56b67b30-a722-4849-a833-ec904168f488",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Такой ты светлячок, зарядил мотивацией! Спасибо за веру! Но качество записи из 80-х и флоу в формате разговора сбрасывают оценку до четырёх.",
+          "scoredAt": "2026-10-18T23:10:48.375Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -86656,7 +86668,7 @@
           "scoredAt": "2026-10-07T17:37:46.246Z"
         }
       ],
-      "fetchedAt": "2026-10-15T01:12:16.909Z",
+      "fetchedAt": "2026-10-18T23:12:07.212Z",
       "current": true,
       "artistName": "The Mighty",
       "artistSlug": "the-mighty"
@@ -96548,9 +96560,16 @@
     },
     {
       "userId": "e7749219-6f4d-43ed-bb57-a71cd6dd0cda",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Аварнсирую четвёркой: за нестандартное исполнение на батоле, за усердие в рифмовках, за использование всей минуты трэка. Но вокал и читку надо прокачивать.",
+          "scoredAt": "2026-10-18T23:04:39.166Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T23:12:07.212Z",
       "current": true,
       "artistName": "BARKHAN",
       "artistSlug": "barkhan"
