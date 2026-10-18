@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T02:12:02.782Z",
+  "exportedAt": "2026-10-18T02:22:06.298Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -4620,8 +4620,14 @@
     },
     {
       "userId": "ec65d8b9-677f-4ee5-af20-40461c22877b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "ок.",
+          "scoredAt": "2026-10-18T02:12:48.685Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -4647,7 +4653,7 @@
           "scoredAt": "2026-10-12T12:48:13.504Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "руси масриах",
       "artistSlug": "rusi-masriah"
@@ -49468,8 +49474,14 @@
     },
     {
       "userId": "4edbe679-182e-4231-9568-704168f79ee1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-18T02:15:38.627Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -49489,7 +49501,7 @@
           "scoredAt": "2026-09-30T17:59:45.961Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:52:22.726Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "TRONK",
       "artistSlug": "tronk"
@@ -68938,8 +68950,14 @@
     },
     {
       "userId": "d0c4db76-619d-470d-a95c-dca9388ab5e4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Достойна! Концовка круто звучит",
+          "scoredAt": "2026-10-18T02:12:16.865Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 4,
@@ -68965,7 +68983,7 @@
           "scoredAt": "2026-09-23T10:08:32.848Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:42:39.249Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "VLA2",
       "artistSlug": "vla2"
@@ -86156,8 +86174,14 @@
     },
     {
       "userId": "38c4c951-3ec4-4854-b3da-d80ed8e3df14",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-18T02:16:27.468Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -86171,7 +86195,7 @@
           "scoredAt": "2026-10-13T07:24:24.462Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:52:21.634Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "ArtRhythmix",
       "artistSlug": "artrhythmix"
@@ -104644,8 +104668,14 @@
     },
     {
       "userId": "33b94e10-f7d9-4514-9350-042727a79d3e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T02:16:57.293Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -104665,7 +104695,7 @@
           "scoredAt": "2026-10-07T12:38:58.870Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:12:22.305Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "МС Домофон",
       "artistSlug": "ms-domofon"
@@ -109874,8 +109904,14 @@
     },
     {
       "userId": "6c2e6763-1d9d-4120-986f-8c8eca3e0a0d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Нормально подаешь.\nСловно сын Гарри Топора.",
+          "scoredAt": "2026-10-18T02:13:36.492Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -109895,7 +109931,7 @@
           "scoredAt": "2026-10-12T19:06:01.522Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "DimaS",
       "artistSlug": "dimas"
@@ -110148,8 +110184,14 @@
     },
     {
       "userId": "0989ddc9-ae32-4a23-8022-bba5bf4496d9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "бодро",
+          "scoredAt": "2026-10-18T02:14:43.688Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -110175,7 +110217,7 @@
           "scoredAt": "2026-09-06T15:35:07.337Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:23:02.897Z",
+      "fetchedAt": "2026-10-18T02:22:06.298Z",
       "current": true,
       "artistName": "Богомолъ",
       "artistSlug": "bogomol-2"

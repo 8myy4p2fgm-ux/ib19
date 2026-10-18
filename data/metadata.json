@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T02:12:02.782Z",
-  "exportedAt": "2026-10-18T02:12:02.782Z",
-  "runId": "2026-10-18T02:12:02.782Z",
-  "forumExportedAt": "2026-10-18T02:12:02.782Z",
+  "lastSuccessfulAt": "2026-10-18T02:22:06.298Z",
+  "exportedAt": "2026-10-18T02:22:06.298Z",
+  "runId": "2026-10-18T02:22:06.298Z",
+  "forumExportedAt": "2026-10-18T02:22:06.298Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13293,
+    "scores": 13300,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 6158,
-    "scoresBefore": 13289,
-    "scoresAfter": 13293,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 8662,
+    "scoresBefore": 13293,
+    "scoresAfter": 13300,
     "fullBaselineRequests": 3252,
-    "requestReductionPercent": 99.81549815498155,
+    "requestReductionPercent": 99.72324723247232,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "МС Домофон",
+          "comment": "",
+          "scoredAt": "2026-10-18T02:16:57.293Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "ArtRhythmix",
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-18T02:16:27.468Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "TRONK",
+          "comment": "",
+          "scoredAt": "2026-10-18T02:15:38.627Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Богомолъ",
+          "comment": "бодро",
+          "scoredAt": "2026-10-18T02:14:43.688Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "DimaS",
+          "comment": "Нормально подаешь.\nСловно сын Гарри Топора.",
+          "scoredAt": "2026-10-18T02:13:36.492Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "руси масриах",
+          "comment": "ок.",
+          "scoredAt": "2026-10-18T02:12:48.685Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "VLA2",
+          "comment": "Достойна! Концовка круто звучит",
+          "scoredAt": "2026-10-18T02:12:16.865Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -140,55 +189,6 @@
           "artist": "48surd",
           "comment": "Скучно, но уверенно",
           "scoredAt": "2026-10-18T01:58:45.982Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Lucky_Jazz",
-          "comment": "Рифмы плохие, а вот все остальное хорошее.",
-          "scoredAt": "2026-10-18T01:58:15.465Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "Hallraiser",
-          "comment": "Хоть и грязно, фальшиво, зато от души! Респект тебе!",
-          "scoredAt": "2026-10-18T01:57:19.702Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "YASPAL",
-          "comment": "",
-          "scoredAt": "2026-10-18T01:56:20.726Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Андеграунд Возле Аквариума",
-          "comment": "",
-          "scoredAt": "2026-10-18T01:54:09.758Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Дамир Камалов",
-          "comment": "Биток огонь!",
-          "scoredAt": "2026-10-18T01:53:19.575Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Сапа",
-          "comment": "Хорошо.",
-          "scoredAt": "2026-10-18T01:51:49.463Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Максон С Полей",
-          "comment": "Охуенно! Нравится всё, прям всё!",
-          "scoredAt": "2026-10-18T01:51:05.678Z"
         }
       ]
     }
