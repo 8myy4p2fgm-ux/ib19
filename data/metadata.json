@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T18:32:30.943Z",
-  "exportedAt": "2026-10-18T18:32:30.943Z",
-  "runId": "2026-10-18T18:32:30.943Z",
-  "forumExportedAt": "2026-10-18T18:32:30.943Z",
+  "lastSuccessfulAt": "2026-10-18T18:42:00.641Z",
+  "exportedAt": "2026-10-18T18:42:00.641Z",
+  "runId": "2026-10-18T18:42:00.641Z",
+  "forumExportedAt": "2026-10-18T18:42:00.641Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13817,
+    "scores": 13819,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 37,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 35,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 35,
-    "changedParticipants": 35,
-    "logicalRequests": 37,
-    "durationMs": 37263,
-    "scoresBefore": 13782,
-    "scoresAfter": 13817,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4341,
+    "scoresBefore": 13817,
+    "scoresAfter": 13819,
     "fullBaselineRequests": 3258,
-    "requestReductionPercent": 98.86433394720687,
+    "requestReductionPercent": 99.87722529158994,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "ЭмоГотка2007",
+          "comment": "Аудионаркотики! Если наркотики в трецках запрещены, то почему это прошло модерацию!1111 ну и правильно текст не приложил – ты же просто дилер!1111",
+          "scoredAt": "2026-10-18T18:37:47.301Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "artist": "T0BI",
+          "comment": "Зачастую либо слабосозвучно, либо квадратно по рифме. Нет сильных фраз. Бит тебе не особо нужен оказался) ",
+          "scoredAt": "2026-10-18T18:35:30.656Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -175,20 +189,6 @@
           "artist": "Аксёнов",
           "comment": "GOOD!",
           "scoredAt": "2026-10-18T18:16:28.749Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Antony Atom",
-          "comment": "Больше всего на свете люблю, когда читают про то, что происходит прямо сейчас, а не выжимают из себя ностальгические слезы или общие фразы. Про Канье интересно. В целом запомнила про будку охранника и аллергию у пчел, подал еще так интересно - я бы послушала тебя в 2. Надеюсь, ты пройдешь, есть какой-то такой свой стилек и харизма. ",
-          "scoredAt": "2026-10-18T18:16:25.732Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "ripvanwinkle",
-          "comment": "",
-          "scoredAt": "2026-10-18T18:13:43.361Z"
         }
       ]
     }

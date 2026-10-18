@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T18:32:30.943Z",
+  "exportedAt": "2026-10-18T18:42:00.641Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -11244,8 +11244,14 @@
     },
     {
       "userId": "6b460f9b-3f31-472a-8a0f-0cbd2c2b5826",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "comment": "Аудионаркотики! Если наркотики в трецках запрещены, то почему это прошло модерацию!1111 ну и правильно текст не приложил – ты же просто дилер!1111",
+          "scoredAt": "2026-10-18T18:37:47.301Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 1,
@@ -11259,7 +11265,7 @@
           "scoredAt": "2026-10-14T05:59:49.017Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:32:38.063Z",
+      "fetchedAt": "2026-10-18T18:42:00.641Z",
       "current": true,
       "artistName": "ЭмоГотка2007",
       "artistSlug": "emogotka2007"
@@ -47220,8 +47226,14 @@
     },
     {
       "userId": "b5d82b80-1c76-4494-ac39-8db51756543e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 1,
+          "comment": "Зачастую либо слабосозвучно, либо квадратно по рифме. Нет сильных фраз. Бит тебе не особо нужен оказался) ",
+          "scoredAt": "2026-10-18T18:35:30.656Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -47241,7 +47253,7 @@
           "scoredAt": "2026-09-07T17:44:00.878Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-18T18:42:00.641Z",
       "current": true,
       "artistName": "T0BI",
       "artistSlug": "t0bi"
