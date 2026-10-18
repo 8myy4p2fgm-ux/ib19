@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T20:21:54.714Z",
+  "exportedAt": "2026-10-18T20:32:05.209Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -31812,8 +31812,14 @@
     },
     {
       "userId": "517dd1e5-a800-4cd6-9be9-a0284152dcd4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Много квадратов, простенько по смыслу. С этими эффектами недопонимаю ты там зажевываешь местами или это уже сведос ",
+          "scoredAt": "2026-10-18T20:26:14.009Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -31839,7 +31845,7 @@
           "scoredAt": "2026-08-30T21:57:55.752Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:21:56.434Z",
+      "fetchedAt": "2026-10-18T20:32:05.209Z",
       "current": true,
       "artistName": "Ilyasky",
       "artistSlug": "ilyasky"
@@ -105372,8 +105378,14 @@
     },
     {
       "userId": "9d2a94a0-1e4d-4a95-a7b0-24e8be9fb88c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Сам пидор. И рифмы как у хрустальных поэтесс порой – ассонансы в шампанском!1 Ну идея неплохая, но ты не единственный, кто тут смекнул за неё.",
+          "scoredAt": "2026-10-18T20:30:36.632Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -105387,7 +105399,7 @@
           "scoredAt": "2026-10-13T14:05:15.148Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-18T20:32:05.209Z",
       "current": true,
       "artistName": "кеша хрустальный",
       "artistSlug": "kesha-hrustalnyy"
