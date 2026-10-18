@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T16:32:05.784Z",
-  "exportedAt": "2026-10-18T16:32:05.784Z",
-  "runId": "2026-10-18T16:32:05.784Z",
-  "forumExportedAt": "2026-10-18T16:32:05.784Z",
+  "lastSuccessfulAt": "2026-10-18T16:42:04.382Z",
+  "exportedAt": "2026-10-18T16:42:04.382Z",
+  "runId": "2026-10-18T16:42:04.382Z",
+  "forumExportedAt": "2026-10-18T16:42:04.382Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13725,
+    "scores": 13727,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4684,
-    "scoresBefore": 13722,
-    "scoresAfter": 13725,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3759,
+    "scoresBefore": 13725,
+    "scoresAfter": 13727,
     "fullBaselineRequests": 3257,
-    "requestReductionPercent": 99.84648449493399,
+    "requestReductionPercent": 99.87718759594719,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "ripvanwinkle",
+          "comment": "Ну это охуенно) Очень сильно люблю треки для тех кто шарит в мемах... Жалко, что сделал сноску, попортил этим многое)",
+          "scoredAt": "2026-10-18T16:40:38.860Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "GINTRO",
+          "comment": "Неплохой текст, но не докрутил до пятака. Есть конечно претенциозность во всех этих словечках, но вроде бы не так все страшно. ",
+          "scoredAt": "2026-10-18T16:37:50.996Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 1,
@@ -175,20 +189,6 @@
           "artist": "Reeo&Chinzanu",
           "comment": "Нормально зачитал, но по тексту ничего интересного.",
           "scoredAt": "2026-10-18T15:54:41.999Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 4,
-          "artist": "СНЭЛ",
-          "comment": "Ну были бы в треке были бы какие-то те самые \"факты\", которые вы годами рассказываете, можно было бы и подумать над оценкой повыше - а так ровный реп с ровной подачей, ритмически хорошо все чувствуешь, но без претензий на самый высший балл будто бы, текст достаточно простой и таких тут прям оч много на отборе из тысяч участников.",
-          "scoredAt": "2026-10-18T15:54:29.906Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "TRIPPLE-K IANI",
-          "comment": "Ну звучит как левак. Да и левак слабенький. Пытаешься флексить, но как-то не верится в твой флекс.",
-          "scoredAt": "2026-10-18T15:48:43.216Z"
         }
       ]
     }

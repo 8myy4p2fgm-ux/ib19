@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T16:32:05.784Z",
+  "exportedAt": "2026-10-18T16:42:04.382Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -67990,8 +67990,14 @@
     },
     {
       "userId": "35e77a70-9ac8-4716-934c-c480dd92114d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Неплохой текст, но не докрутил до пятака. Есть конечно претенциозность во всех этих словечках, но вроде бы не так все страшно. ",
+          "scoredAt": "2026-10-18T16:37:50.996Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -68017,7 +68023,7 @@
           "scoredAt": "2026-10-02T20:20:35.877Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:42:07.255Z",
+      "fetchedAt": "2026-10-18T16:42:04.382Z",
       "current": true,
       "artistName": "GINTRO",
       "artistSlug": "gintro"
@@ -107526,8 +107532,14 @@
     },
     {
       "userId": "54a75e7d-7c37-4c11-b7ca-6691a35ac8b1",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Ну это охуенно) Очень сильно люблю треки для тех кто шарит в мемах... Жалко, что сделал сноску, попортил этим многое)",
+          "scoredAt": "2026-10-18T16:40:38.860Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -107541,7 +107553,7 @@
           "scoredAt": "2026-10-15T23:20:57.316Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:02:28.111Z",
+      "fetchedAt": "2026-10-18T16:42:04.382Z",
       "current": true,
       "artistName": "ripvanwinkle",
       "artistSlug": "ripvanwinkle"
