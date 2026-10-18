@@ -152502,6 +152502,76 @@
         "scoredAt": "2026-10-18T22:47:09.355Z",
         "userId": "2129d49c-0466-4c01-801d-6dc3f584b520"
       }
+    },
+    {
+      "id": "e3b163bc04776b0dc1d52c59bc9d96b97a736da67a9931ea5f173e2e8c1847d0",
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "sourceScoredAt": "2026-10-18T22:53:40.707Z",
+      "key": "[\"947c218b-a790-4da0-aef0-f07bb0654af3\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Очень угрюмо. Подгрузило. Не понравилось.",
+        "scoredAt": "2026-10-18T22:53:40.707Z",
+        "userId": "947c218b-a790-4da0-aef0-f07bb0654af3"
+      }
+    },
+    {
+      "id": "453c09f96e7571f53572deaa387a38a8e2a399698e39d362533a9519775a5c88",
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "sourceScoredAt": "2026-10-18T22:58:52.118Z",
+      "key": "[\"76172822-8c19-4aa0-9265-fef149b84c0b\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Зачем тебе нужно, чтобы все узнали о баттле? Попробуй дойди до парных и справься сначала с теми, кто сдал.",
+        "scoredAt": "2026-10-18T22:58:52.118Z",
+        "userId": "76172822-8c19-4aa0-9265-fef149b84c0b"
+      }
+    },
+    {
+      "id": "712209f32e1a014d82696c1b89b98e8b64bc2a089261a8cd2ae647bac832f3f6",
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "sourceScoredAt": "2026-10-18T23:01:46.255Z",
+      "key": "[\"ed24ab2f-9426-4f5d-9898-9b2ab5b4362c\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Первые две рифмы просто потрясающие. Неоригинальное раскрытие: несколько сотен участников сделали примерно то же самое. Читка – слабовата, качество – шакальное.",
+        "scoredAt": "2026-10-18T23:01:46.255Z",
+        "userId": "ed24ab2f-9426-4f5d-9898-9b2ab5b4362c"
+      }
+    },
+    {
+      "id": "2bbb655565a347daad51b98fd3651c7843cc759c4e5d69b697262e4afa1d9690",
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "sourceScoredAt": "2026-10-18T22:56:48.957Z",
+      "key": "[\"a9d199b0-a3ed-426a-96a3-2d5cd4344ae6\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Рифмы в очень слабой атаке. Такое оверпацанство тоже не модно.",
+        "scoredAt": "2026-10-18T22:56:48.957Z",
+        "userId": "a9d199b0-a3ed-426a-96a3-2d5cd4344ae6"
+      }
+    },
+    {
+      "id": "c55cc72d15f10ce4c3ab5f643e40df9856caf2a7472a5a39e2470c3a697597b0",
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "sourceScoredAt": "2026-10-18T22:54:39.996Z",
+      "key": "[\"aea77b65-a0fd-420c-8241-9f43d09bb6f8\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 1,
+        "comment": "Спасибо, что извинился в тексте.",
+        "scoredAt": "2026-10-18T22:54:39.996Z",
+        "userId": "aea77b65-a0fd-420c-8241-9f43d09bb6f8"
+      }
     }
   ],
   "snapshots": [
@@ -163341,6 +163411,26 @@
           "index": 30.821304518713237,
           "favor": 17.837845274803538,
           "attention": 2.261237021687479,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T23:02:44.874Z",
+      "exportedAt": "2026-10-18T23:02:44.874Z",
+      "scores": 13869,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.587187065612017,
+          "favor": 9.156828480074582,
+          "attention": 6.060495571838806,
+          "respect": 6.36986301369863
+        },
+        "veterans": {
+          "index": 30.833292566257878,
+          "favor": 17.84243483326052,
+          "attention": 2.2686355107751375,
           "respect": 10.722222222222221
         }
       }

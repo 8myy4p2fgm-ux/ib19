@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T22:52:03.847Z",
-  "exportedAt": "2026-10-18T22:52:03.847Z",
-  "runId": "2026-10-18T22:52:03.847Z",
-  "forumExportedAt": "2026-10-18T22:52:03.847Z",
+  "lastSuccessfulAt": "2026-10-18T23:02:44.874Z",
+  "exportedAt": "2026-10-18T23:02:44.874Z",
+  "runId": "2026-10-18T23:02:44.874Z",
+  "forumExportedAt": "2026-10-18T23:02:44.874Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13864,
+    "scores": 13869,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5368,
-    "scoresBefore": 13861,
-    "scoresAfter": 13864,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 7,
+    "durationMs": 6775,
+    "scoresBefore": 13864,
+    "scoresAfter": 13869,
     "fullBaselineRequests": 3259,
-    "requestReductionPercent": 99.84657870512427,
+    "requestReductionPercent": 99.78521018717397,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Юрась",
+          "comment": "Первые две рифмы просто потрясающие. Неоригинальное раскрытие: несколько сотен участников сделали примерно то же самое. Читка – слабовата, качество – шакальное.",
+          "scoredAt": "2026-10-18T23:01:46.255Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Дима Джуз",
+          "comment": "Зачем тебе нужно, чтобы все узнали о баттле? Попробуй дойди до парных и справься сначала с теми, кто сдал.",
+          "scoredAt": "2026-10-18T22:58:52.118Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Алкогольный KILLA",
+          "comment": "Рифмы в очень слабой атаке. Такое оверпацанство тоже не модно.",
+          "scoredAt": "2026-10-18T22:56:48.957Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 1,
+          "artist": "!хачухачапури",
+          "comment": "Спасибо, что извинился в тексте.",
+          "scoredAt": "2026-10-18T22:54:39.996Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "АВТОР ВРЁТ",
+          "comment": "Очень угрюмо. Подгрузило. Не понравилось.",
+          "scoredAt": "2026-10-18T22:53:40.707Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -154,41 +189,6 @@
           "artist": "Стичи [JAMBULA]",
           "comment": "Оригинальный подход к раскрытию, улыбнуло! К исполнению в паре мест есть некоторые вопросики, но I always find something wrong.",
           "scoredAt": "2026-10-18T22:24:15.768Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "MANAGER",
-          "comment": "Очень бодрая подача и голос, но эти читки по слогам совсем утомили под конец. Зачем растягивать их на весь трэк? Не стоило столько времени посвящать этому элементу. Авансирую четвёркой, но не повтори эту ошибку во втором раунде.",
-          "scoredAt": "2026-10-18T22:21:02.797Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Moymirok",
-          "comment": "Если честно, то фоновые бэк-вокалы иногда сильно приятнее, чем основной хрипловатый флоу. Самый скучный завершающий квадрат трэка не на своём месте, чуть подубил вайбик – выходить из песни нужно запоминающимся, динамичным и ярким элементом.",
-          "scoredAt": "2026-10-18T22:17:41.210Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Октябрь",
-          "comment": "Некий рассказческий рэп, сиречь – спич. Сложно оценивать как подачу. Лично для меня – это что-то не то. Хотя текст на рифмы не беден. Вокал совсем не получился, лишний элемент. ",
-          "scoredAt": "2026-10-18T22:12:28.664Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "deli hell",
-          "comment": "Строчки вообще не проходные – есть весьма оригинальные панчики. А вот читка совсем слабая: оффбиты, одинаковые акцентные интонации, потери ритма. Этот параметр тебе нужно прокачивать, чтобы догнать текстовые умения.",
-          "scoredAt": "2026-10-18T22:07:19.881Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "AZVRT",
-          "comment": "Работа весьма средняя: простые рифмы, явные склейки при записи, однообразная манера читки.",
-          "scoredAt": "2026-10-18T22:03:54.294Z"
         }
       ]
     }

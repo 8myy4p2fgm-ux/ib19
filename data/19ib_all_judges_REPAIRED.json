@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T22:52:03.847Z",
+  "exportedAt": "2026-10-18T23:02:44.874Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -1781,8 +1781,14 @@
     },
     {
       "userId": "947c218b-a790-4da0-aef0-f07bb0654af3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Очень угрюмо. Подгрузило. Не понравилось.",
+          "scoredAt": "2026-10-18T22:53:40.707Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -1796,7 +1802,7 @@
           "scoredAt": "2026-10-07T16:19:44.290Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:22:22.935Z",
+      "fetchedAt": "2026-10-18T23:02:44.874Z",
       "current": true,
       "artistName": "АВТОР ВРЁТ",
       "artistSlug": "avtor-vret"
@@ -53580,8 +53586,14 @@
     },
     {
       "userId": "76172822-8c19-4aa0-9265-fef149b84c0b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Зачем тебе нужно, чтобы все узнали о баттле? Попробуй дойди до парных и справься сначала с теми, кто сдал.",
+          "scoredAt": "2026-10-18T22:58:52.118Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -53607,7 +53619,7 @@
           "scoredAt": "2026-10-15T18:41:13.108Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-18T23:02:44.874Z",
       "current": true,
       "artistName": "Дима Джуз",
       "artistSlug": "dima-dzhuz"
@@ -53784,8 +53796,14 @@
     },
     {
       "userId": "ed24ab2f-9426-4f5d-9898-9b2ab5b4362c",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Первые две рифмы просто потрясающие. Неоригинальное раскрытие: несколько сотен участников сделали примерно то же самое. Читка – слабовата, качество – шакальное.",
+          "scoredAt": "2026-10-18T23:01:46.255Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -53793,7 +53811,7 @@
           "scoredAt": "2026-10-13T13:51:52.705Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T23:02:44.874Z",
       "current": true,
       "artistName": "Юрась",
       "artistSlug": "yuras"
@@ -64221,8 +64239,14 @@
     },
     {
       "userId": "a9d199b0-a3ed-426a-96a3-2d5cd4344ae6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Рифмы в очень слабой атаке. Такое оверпацанство тоже не модно.",
+          "scoredAt": "2026-10-18T22:56:48.957Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -64242,7 +64266,7 @@
           "scoredAt": "2026-10-05T15:55:15.205Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-18T23:02:44.874Z",
       "current": true,
       "artistName": "Алкогольный KILLA",
       "artistSlug": "alkogolnyy-killa"
@@ -73170,8 +73194,14 @@
     },
     {
       "userId": "aea77b65-a0fd-420c-8241-9f43d09bb6f8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 1,
+          "comment": "Спасибо, что извинился в тексте.",
+          "scoredAt": "2026-10-18T22:54:39.996Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 1,
@@ -73191,7 +73221,7 @@
           "scoredAt": "2026-10-09T12:12:07.830Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:52:10.497Z",
+      "fetchedAt": "2026-10-18T23:02:44.874Z",
       "current": true,
       "artistName": "!хачухачапури",
       "artistSlug": "hachuhachapuri"
