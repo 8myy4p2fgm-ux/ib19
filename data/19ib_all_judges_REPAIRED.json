@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T02:42:11.554Z",
+  "exportedAt": "2026-10-18T03:02:06.790Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -69312,8 +69312,14 @@
     },
     {
       "userId": "823d37bd-82fb-419d-bd11-f298fcf9c5e6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Идём на хуй, братка. От пизды сделал репака, если бы постарался, то получилось бы пизже.",
+          "scoredAt": "2026-10-18T02:59:47.457Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -69327,7 +69333,7 @@
           "scoredAt": "2026-10-15T13:23:37.887Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:42:39.249Z",
+      "fetchedAt": "2026-10-18T03:02:06.790Z",
       "current": true,
       "artistName": "mc trebuha",
       "artistSlug": "mc-trebuha"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T02:42:11.554Z",
-  "exportedAt": "2026-10-18T02:42:11.554Z",
-  "runId": "2026-10-18T02:42:11.554Z",
-  "forumExportedAt": "2026-10-18T02:42:11.554Z",
+  "lastSuccessfulAt": "2026-10-18T03:02:06.790Z",
+  "exportedAt": "2026-10-18T03:02:06.790Z",
+  "runId": "2026-10-18T03:02:06.790Z",
+  "forumExportedAt": "2026-10-18T03:02:06.790Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13312,
+    "scores": 13313,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7401,
-    "scoresBefore": 13307,
-    "scoresAfter": 13312,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3221,
+    "scoresBefore": 13312,
+    "scoresAfter": 13313,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.78481401782969,
+    "requestReductionPercent": 99.90777743621273,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "mc trebuha",
+          "comment": "Идём на хуй, братка. От пизды сделал репака, если бы постарался, то получилось бы пизже.",
+          "scoredAt": "2026-10-18T02:59:47.457Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -182,13 +189,6 @@
           "artist": "ArtRhythmix",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
           "scoredAt": "2026-10-18T02:16:27.468Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "TRONK",
-          "comment": "",
-          "scoredAt": "2026-10-18T02:15:38.627Z"
         }
       ]
     }
