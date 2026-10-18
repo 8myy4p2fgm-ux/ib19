@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T17:52:19.664Z",
+  "exportedAt": "2026-10-18T18:02:20.653Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -7306,6 +7306,34 @@
       "artistSlug": "esklav"
     },
     {
+      "userId": "7b933028-f40a-47e7-aa32-b22cd7007309",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-16T10:44:16.894Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "3,5 оценка.\nПодача и исполнение вполне себе норм, но настолько банальный и скучный те5кст все портит. Дальше с подобным делать нечего.",
+          "scoredAt": "2026-10-14T23:35:28.602Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Третий стрим.",
+          "scoredAt": "2026-10-08T13:57:23.065Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T10:52:25.586Z",
+      "current": true,
+      "artistName": "busquet",
+      "artistSlug": "busquet"
+    },
+    {
       "userId": "768b78d5-8445-45fb-b41b-68ec8e444c4e",
       "scoredCount": 5,
       "scores": [
@@ -7344,34 +7372,6 @@
       "current": true,
       "artistName": "XPOM",
       "artistSlug": "xpom"
-    },
-    {
-      "userId": "7b933028-f40a-47e7-aa32-b22cd7007309",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-16T10:44:16.894Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "comment": "3,5 оценка.\nПодача и исполнение вполне себе норм, но настолько банальный и скучный те5кст все портит. Дальше с подобным делать нечего.",
-          "scoredAt": "2026-10-14T23:35:28.602Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "comment": "Третий стрим.",
-          "scoredAt": "2026-10-08T13:57:23.065Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T10:52:25.586Z",
-      "current": true,
-      "artistName": "busquet",
-      "artistSlug": "busquet"
     },
     {
       "userId": "3eaf313e-9c67-4a91-9e21-5c16f7270627",
@@ -11028,8 +11028,14 @@
     },
     {
       "userId": "4eb7f00e-1a1f-4547-bb2a-c6a264b4edb9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Есть прикольные моменты в тексте",
+          "scoredAt": "2026-10-18T17:53:16.813Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -11055,7 +11061,7 @@
           "scoredAt": "2026-08-30T16:43:03.033Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Избушка с микрофоном",
       "artistSlug": "izbushka-s-mikrofonom"
@@ -19694,8 +19700,14 @@
     },
     {
       "userId": "5aacad37-5702-4043-938f-a81491082d42",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Ну, при всей своей простоте работа на проход. Про аспида круто, а вот разнообразие упомянул, а не реализовал. ",
+          "scoredAt": "2026-10-18T17:54:22.980Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -19721,7 +19733,7 @@
           "scoredAt": "2026-08-30T12:16:29.869Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:12:19.126Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "PRAETOR",
       "artistSlug": "praetor"
@@ -20008,8 +20020,14 @@
     },
     {
       "userId": "c982c476-9425-422b-829a-1f606527624d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Такой крутой рэп из 2005. \nИ нравится, и вроде слабо.\nНачиная от рифм и заканчивая разнообразием исполнения. Но ок. ",
+          "scoredAt": "2026-10-18T17:58:18.466Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -20029,7 +20047,7 @@
           "scoredAt": "2026-10-10T08:52:28.302Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:32:17.063Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "VSEMIRNO",
       "artistSlug": "vsemirno"
@@ -22214,8 +22232,14 @@
     },
     {
       "userId": "12a8dedb-3aa9-4fb7-b80b-6d924b622c8b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-18T17:56:25.255Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -22241,7 +22265,7 @@
           "scoredAt": "2026-09-10T19:19:31.723Z"
         }
       ],
-      "fetchedAt": "2026-10-16T08:32:24.957Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Пылесборник",
       "artistSlug": "pylesbornik"
@@ -27436,8 +27460,20 @@
     },
     {
       "userId": "52929e19-db1a-4d06-aac0-053dfe106531",
-      "scoredCount": 2,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Драйвово, но чем ты лучше реперов, если квадратишь и много примитива по содержанию?",
+          "scoredAt": "2026-10-18T18:00:40.926Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Счастлив, что это закончилось.\nСпаксибо.\nБесы чуть не уничтожили всю квартиру, забери их обратно",
+          "scoredAt": "2026-10-18T17:57:18.905Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -27451,7 +27487,7 @@
           "scoredAt": "2026-10-08T17:47:30.172Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:22:17.884Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Artem Zebrev",
       "artistSlug": "artem-zebrev"
@@ -39261,8 +39297,14 @@
     },
     {
       "userId": "9c73d2f0-3a16-479d-a9ff-c60b95972354",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Вот прям казахский вайб!",
+          "scoredAt": "2026-10-18T17:55:57.314Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -39288,7 +39330,7 @@
           "scoredAt": "2026-09-05T12:58:29.629Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "oneskv",
       "artistSlug": "oneskv"
@@ -39471,8 +39513,14 @@
     },
     {
       "userId": "904a4302-01ee-4b1a-82aa-141bdee73d5b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Про рифмы тебе стопудово все напишут, а вайбик добрый и хороший. Посмотрим во втором. ",
+          "scoredAt": "2026-10-18T18:01:44.438Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -39492,7 +39540,7 @@
           "scoredAt": "2026-09-07T17:53:24.717Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:42:56.567Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "luckystrikewhite",
       "artistSlug": "luckystrikewhite"
@@ -44389,8 +44437,14 @@
     },
     {
       "userId": "2486f1ca-7515-4f79-a234-1a1366dcd581",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Качество тебя подводит, но слышно, что опыт есть, классноу правляешь голосом, да и тембр оч классный. Текст тожэе интересный. С норм записью и сведением была бы клевая песня",
+          "scoredAt": "2026-10-18T18:00:10.756Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -44416,7 +44470,7 @@
           "scoredAt": "2026-10-13T09:53:30.466Z"
         }
       ],
-      "fetchedAt": "2026-10-15T17:22:23.279Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Хила",
       "artistSlug": "hila"
@@ -47856,8 +47910,14 @@
     },
     {
       "userId": "025615ab-d041-4df5-99b8-ed349d8cf64d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "Ну стих и правда незамысловатый, в некст раундах такого не хватит, так что добавляй.\n\nСтиль есть, но четверочный, не железный, а панчей так вообще пока не хватает! Надеюсь, добавишь их во втором, чтобы оправдать свои же слова!",
+          "scoredAt": "2026-10-18T18:00:08.333Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -47877,7 +47937,7 @@
           "scoredAt": "2026-10-15T10:28:09.926Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:52:14.446Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "КИТ",
       "artistSlug": "kit"
@@ -52392,8 +52452,14 @@
     },
     {
       "userId": "f5f273c3-7c22-46b5-8e49-708038f3c5c8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Хорошо текстово поработал, флоу еще прокачивать. В целом приятное послевкусие. ",
+          "scoredAt": "2026-10-18T17:56:09.940Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -52419,7 +52485,7 @@
           "scoredAt": "2026-10-10T00:42:00.271Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:52:39.670Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "МСьё Репочков",
       "artistSlug": "mse-repochkov"
@@ -53476,8 +53542,14 @@
     },
     {
       "userId": "a137ab5d-620d-484b-a7e9-c0d00e27ccea",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Все как-то мимо проходит, но атмосфера присутствует и слышно, что способен на многое!\nКонцовка прям хороша. Да и за разнообразие флоу накинул оценку, и за казахский стиль. Нормуль",
+          "scoredAt": "2026-10-18T18:01:28.007Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -53497,7 +53569,7 @@
           "scoredAt": "2026-10-03T10:09:21.915Z"
         }
       ],
-      "fetchedAt": "2026-10-17T05:01:56.218Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Модернист",
       "artistSlug": "modernist"
@@ -65450,8 +65522,14 @@
     },
     {
       "userId": "f6b706df-7a0b-4ff3-994d-1bc5e9a635e0",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-18T18:01:42.820Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -65465,7 +65543,7 @@
           "scoredAt": "2026-10-14T16:29:41.618Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:22:36.032Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "illilith",
       "artistSlug": "illilith"
@@ -74746,8 +74824,14 @@
     },
     {
       "userId": "b5931d8f-0ab0-4f70-b439-524cdd3eb2d3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "Вот хорошая ж подача, но в совокупности вместе с текстом как-то все это не работает. Отсылка на Элджея звучит как-то наигранно, текст до этого тоже не вызывает восторженных эмоций :-/\n\nНе знаю, мб, конкретно в меня не попало, но я готов ванговать - если в некст раундах не сделаешь что-то со своей концепцией и атмосферой, то в третий роу с оч высокими шансами не проскочишь.",
+          "scoredAt": "2026-10-18T17:52:17.859Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -74773,7 +74857,7 @@
           "scoredAt": "2026-09-24T12:40:31.176Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:52:05.766Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "NECELOVAN",
       "artistSlug": "necelovan"
@@ -93328,8 +93412,14 @@
     },
     {
       "userId": "673c3975-c5ad-4a7f-9420-08b91ecd0543",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Думаю, можно пропускать во второй, хотя совершенно точно уверена, что это не лучшая твоя работа. Звучание не слишком приятное. ",
+          "scoredAt": "2026-10-18T17:58:26.496Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -93349,7 +93439,7 @@
           "scoredAt": "2026-10-14T09:19:44.251Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:22:24.346Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "aSmilez",
       "artistSlug": "asmilez"
@@ -94138,8 +94228,14 @@
     },
     {
       "userId": "ff87e2be-ad77-4de0-9de2-8fc547fc5e1f",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 5,
+          "comment": "Ну звучишь оч хорошо, разнообразно. Подкупило то, что в конце тюнчик хороший и грамотный - в меру чистый, в меру грязный, в меру как надо для такого трека.\n\nВ некст раундах надо добавлять по смыслам все же, пока это просто твой срез эмоций каких-то, коих тут много, а вот если насытить все это еще панчами и строчками сосмыслом, тогда будет конфэта уверенная для парных раундов.",
+          "scoredAt": "2026-10-18T17:57:36.602Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -94147,7 +94243,7 @@
           "scoredAt": "2026-10-16T15:03:45.603Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:12:28.750Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "Твой Спутник",
       "artistSlug": "tvoy-sputnik"
@@ -102570,8 +102666,14 @@
     },
     {
       "userId": "177166bb-b66f-41ec-96ce-68d6a146888e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Звучишь на 4, текст на 2.",
+          "scoredAt": "2026-10-18T17:54:25.497Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -102585,7 +102687,7 @@
           "scoredAt": "2026-10-16T04:06:39.022Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:42:08.109Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "VCPR",
       "artistSlug": "vcpr"
@@ -103284,8 +103386,14 @@
     },
     {
       "userId": "c2b2c404-e123-4a2d-bce9-0af44601586c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Нраивтся искренность, но технически пока слабо.\nПотенциал есть",
+          "scoredAt": "2026-10-18T17:54:06.675Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -103299,7 +103407,7 @@
           "scoredAt": "2026-10-10T17:40:11.978Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:52:09.595Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "лирик",
       "artistSlug": "lirik"
@@ -105160,8 +105268,14 @@
     },
     {
       "userId": "5ef754c7-2079-4f64-af88-fc97e431c878",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Прокачался! Круто! Отлично все! ",
+          "scoredAt": "2026-10-18T17:59:10.022Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -105175,7 +105289,7 @@
           "scoredAt": "2026-10-11T13:47:17.676Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:31:59.721Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "крутая минусовка для репа",
       "artistSlug": "krutaya-minusovka-dlya-repa"
@@ -112719,8 +112833,14 @@
     },
     {
       "userId": "008b9023-bfd4-406e-85b5-77ded7e51fb6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Ничего непонятно, по очень стильно и интересно",
+          "scoredAt": "2026-10-18T17:55:14.550Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -112746,7 +112866,7 @@
           "scoredAt": "2026-10-06T15:34:20.370Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:12:09.913Z",
+      "fetchedAt": "2026-10-18T18:02:20.653Z",
       "current": true,
       "artistName": "purplxpunk",
       "artistSlug": "purplxpunk"
