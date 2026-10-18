@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T07:02:04.417Z",
-  "exportedAt": "2026-10-18T07:02:04.417Z",
-  "runId": "2026-10-18T07:02:04.417Z",
-  "forumExportedAt": "2026-10-18T07:02:04.417Z",
+  "lastSuccessfulAt": "2026-10-18T07:12:05.654Z",
+  "exportedAt": "2026-10-18T07:12:05.654Z",
+  "runId": "2026-10-18T07:12:05.654Z",
+  "forumExportedAt": "2026-10-18T07:12:05.654Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13374,
+    "scores": 13377,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4193,
-    "scoresBefore": 13372,
-    "scoresAfter": 13374,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5322,
+    "scoresBefore": 13374,
+    "scoresAfter": 13377,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.87703658161698,
+    "requestReductionPercent": 99.8462957270212,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Эл Картер",
+          "comment": "Я даже проверил, оказывается, не один я услышал Джонибоя. Рифме иногда не хватает остроты, многовато глаголов. Зацепиться по тексту не за чего, пустовато, чисто приколоться на отбор разок",
+          "scoredAt": "2026-10-18T07:10:28.018Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Морозов",
+          "comment": "Ну угарненько, да, но бит где-то на фоне играет и ты под него нудновато-вяловато наговариваешь, хотя бит особо роли не играл)))",
+          "scoredAt": "2026-10-18T07:06:30.788Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "Не знающий \"в рот\"",
+          "comment": "Осмысленный текст, серьёзный. Не хочу говорить, мол, вот какой крутой текст, просто исполнение подводит, бит плохо слышно... Над текстом тоже много работать нужно. Во-первых, запоминающихся моментов нет, выделить нечего. Во-вторых, рифмовка частенько квадратна и/или слабосозвучна.",
+          "scoredAt": "2026-10-18T07:03:45.734Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -168,27 +189,6 @@
           "artist": "NPC",
           "comment": "Очень просто и навино, братка. Даже текста всего на половину трека.",
           "scoredAt": "2026-10-18T05:13:44.152Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "artist": "Витя Шихан",
-          "comment": "Ну про коробку очень сильная строчка, молодец. Вообще за такое раскрытие не ставлю пятерку, но ты меня убедил. ",
-          "scoredAt": "2026-10-18T05:12:42.475Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "MЦ АКАДЕМИК",
-          "comment": "Очень просто и наивно как по исполнению так и по тексту.",
-          "scoredAt": "2026-10-18T05:11:00.075Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "artist": "жжёные васильки",
-          "comment": "Мрачная бытовуха. Понравился твой ход когда одно слово в двух значениях используешь. последняя строчка испортила впечатление, поломал какой-то хуйней все повествование.",
-          "scoredAt": "2026-10-18T05:09:52.428Z"
         }
       ]
     }
