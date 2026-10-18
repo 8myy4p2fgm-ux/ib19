@@ -144950,6 +144950,62 @@
         "scoredAt": "2026-10-18T03:35:05.366Z",
         "userId": "6159783a-38b5-4e81-a270-6baf2fec1529"
       }
+    },
+    {
+      "id": "2ce67a44bad8053fe57fb59da1055e6a7789d2dd7625e5c9e7b13cebe81fe0ad",
+      "observedAt": "2026-10-18T03:52:04.124Z",
+      "sourceScoredAt": "2026-10-18T03:51:02.052Z",
+      "key": "[\"cd8d2b82-9c28-4b93-8227-4b8435888de1\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал пиздато, но по тексту ничего интересного.",
+        "scoredAt": "2026-10-18T03:51:02.052Z",
+        "userId": "cd8d2b82-9c28-4b93-8227-4b8435888de1"
+      }
+    },
+    {
+      "id": "f0c3bb613c98a2812bcd12b7b494e6f58af2846d91fd72e9ef0d6366e224475c",
+      "observedAt": "2026-10-18T03:52:04.124Z",
+      "sourceScoredAt": "2026-10-18T03:49:05.958Z",
+      "key": "[\"777c3722-e6af-4dc5-979c-cafcf1ffb9c8\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "$waG. Зачитал ровно. Текст классный, только не хватило какой-то концовки нормальной. Если пройдешь, то сможешь показать себя лучше в более длинном тайминге.",
+        "scoredAt": "2026-10-18T03:49:05.958Z",
+        "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8"
+      }
+    },
+    {
+      "id": "7e8cab113151725a57622edc06cf7c49af719a268885f81b0c3bcb89ef14c3e1",
+      "observedAt": "2026-10-18T03:52:04.124Z",
+      "sourceScoredAt": "2026-10-18T03:45:19.661Z",
+      "key": "[\"0adc450f-32ae-43e1-9826-fa27da31616a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Не самое уверенное исполнение. По тексту есть неплохие строчки, но все это как-то отрывисто и не складывается в общую картину. Если бы докрутил до полноценного трека с посылом была бы оценка выше. ",
+        "scoredAt": "2026-10-18T03:45:19.661Z",
+        "userId": "0adc450f-32ae-43e1-9826-fa27da31616a"
+      }
+    },
+    {
+      "id": "bfa9e8ebfa4515450040c6eff20f2176d10b8e40e894a551f825a30a75a48033",
+      "observedAt": "2026-10-18T03:52:04.124Z",
+      "sourceScoredAt": "2026-10-18T03:42:14.900Z",
+      "key": "[\"6c2e6763-1d9d-4120-986f-8c8eca3e0a0d\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал уверенно, по тексту ничем не удивил.",
+        "scoredAt": "2026-10-18T03:42:14.900Z",
+        "userId": "6c2e6763-1d9d-4120-986f-8c8eca3e0a0d"
+      }
     }
   ],
   "snapshots": [
@@ -153909,6 +153965,26 @@
           "index": 29.77508888450989,
           "favor": 17.760114219290926,
           "attention": 1.2927524429967427,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T03:52:04.124Z",
+      "exportedAt": "2026-10-18T03:52:04.124Z",
+      "scores": 13330,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.956552222146755,
+          "favor": 9.273499729019523,
+          "attention": 6.212982070592019,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.782574324280823,
+          "favor": 17.76009431181845,
+          "attention": 1.300257790240152,
           "respect": 10.722222222222221
         }
       }

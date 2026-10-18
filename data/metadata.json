@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T03:42:01.359Z",
-  "exportedAt": "2026-10-18T03:42:01.359Z",
-  "runId": "2026-10-18T03:42:01.359Z",
-  "forumExportedAt": "2026-10-18T03:42:01.359Z",
+  "lastSuccessfulAt": "2026-10-18T03:52:04.124Z",
+  "exportedAt": "2026-10-18T03:52:04.124Z",
+  "runId": "2026-10-18T03:52:04.124Z",
+  "forumExportedAt": "2026-10-18T03:52:04.124Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13326,
+    "scores": 13330,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5124,
-    "scoresBefore": 13323,
-    "scoresAfter": 13326,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5809,
+    "scoresBefore": 13326,
+    "scoresAfter": 13330,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.8462957270212,
+    "requestReductionPercent": 99.81555487242545,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "YVNLTRIP",
+          "comment": "Зачитал пиздато, но по тексту ничего интересного.",
+          "scoredAt": "2026-10-18T03:51:02.052Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Yyong",
+          "comment": "$waG. Зачитал ровно. Текст классный, только не хватило какой-то концовки нормальной. Если пройдешь, то сможешь показать себя лучше в более длинном тайминге.",
+          "scoredAt": "2026-10-18T03:49:05.958Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Капица",
+          "comment": "Не самое уверенное исполнение. По тексту есть неплохие строчки, но все это как-то отрывисто и не складывается в общую картину. Если бы докрутил до полноценного трека с посылом была бы оценка выше. ",
+          "scoredAt": "2026-10-18T03:45:19.661Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "DimaS",
+          "comment": "Зачитал уверенно, по тексту ничем не удивил.",
+          "scoredAt": "2026-10-18T03:42:14.900Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -161,34 +189,6 @@
           "artist": "МЦ ВИРТУАЛ",
           "comment": "Ну нарифмовал плотно, а по содержанию ничего интересного. Поток создания без интересных моментов.",
           "scoredAt": "2026-10-18T03:05:39.301Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "GRYAZNYMARIK",
-          "comment": "Запись портит впечатление. Особенно от тараторки. Сделал бы качественнее, оценка была бы выше.",
-          "scoredAt": "2026-10-18T03:04:38.263Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "ФромЗиро",
-          "comment": "Вроде есть неплохие моменты, но как же плохо ты рифмуешь. Зачитал уверенно.",
-          "scoredAt": "2026-10-18T03:03:20.736Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 2,
-          "artist": "mc trebuha",
-          "comment": "Идём на хуй, братка. От пизды сделал репака, если бы постарался, то получилось бы пизже.",
-          "scoredAt": "2026-10-18T02:59:47.457Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Emilien",
-          "comment": "Сын Трула, Паши Кемпеля и Классика))\nНормально навалил!",
-          "scoredAt": "2026-10-18T02:39:28.821Z"
         }
       ]
     }

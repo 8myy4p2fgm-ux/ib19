@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T03:42:01.359Z",
+  "exportedAt": "2026-10-18T03:52:04.124Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -84181,8 +84181,14 @@
     },
     {
       "userId": "cd8d2b82-9c28-4b93-8227-4b8435888de1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Зачитал пиздато, но по тексту ничего интересного.",
+          "scoredAt": "2026-10-18T03:51:02.052Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -84208,7 +84214,7 @@
           "scoredAt": "2026-10-07T19:11:08.448Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:02:15.893Z",
+      "fetchedAt": "2026-10-18T03:52:04.124Z",
       "current": true,
       "artistName": "YVNLTRIP",
       "artistSlug": "yvnltrip"
@@ -104649,8 +104655,14 @@
     },
     {
       "userId": "777c3722-e6af-4dc5-979c-cafcf1ffb9c8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "$waG. Зачитал ровно. Текст классный, только не хватило какой-то концовки нормальной. Если пройдешь, то сможешь показать себя лучше в более длинном тайминге.",
+          "scoredAt": "2026-10-18T03:49:05.958Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -104676,7 +104688,7 @@
           "scoredAt": "2026-10-08T13:49:40.484Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:02:21.159Z",
+      "fetchedAt": "2026-10-18T03:52:04.124Z",
       "current": true,
       "artistName": "Yyong",
       "artistSlug": "yyong"
@@ -106096,8 +106108,14 @@
     },
     {
       "userId": "0adc450f-32ae-43e1-9826-fa27da31616a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Не самое уверенное исполнение. По тексту есть неплохие строчки, но все это как-то отрывисто и не складывается в общую картину. Если бы докрутил до полноценного трека с посылом была бы оценка выше. ",
+          "scoredAt": "2026-10-18T03:45:19.661Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -106123,7 +106141,7 @@
           "scoredAt": "2026-09-09T17:42:39.565Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:42:25.785Z",
+      "fetchedAt": "2026-10-18T03:52:04.124Z",
       "current": true,
       "artistName": "Капица",
       "artistSlug": "kapica"
@@ -110049,8 +110067,14 @@
     },
     {
       "userId": "6c2e6763-1d9d-4120-986f-8c8eca3e0a0d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Зачитал уверенно, по тексту ничем не удивил.",
+          "scoredAt": "2026-10-18T03:42:14.900Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -110076,7 +110100,7 @@
           "scoredAt": "2026-10-12T19:06:01.522Z"
         }
       ],
-      "fetchedAt": "2026-10-18T02:22:06.298Z",
+      "fetchedAt": "2026-10-18T03:52:04.124Z",
       "current": true,
       "artistName": "DimaS",
       "artistSlug": "dimas"
