@@ -6,16 +6,26 @@ const date=t=>new Date(t).toLocaleDateString('ru-RU',{day:'numeric',month:'long'
 function niceMaximum(value){const raw=Math.max(1,value/4),power=10**Math.floor(Math.log10(raw)),scaled=raw/power,step=Math.max(1,Math.ceil((scaled<=1?1:scaled<=2?2:scaled<=2.5?2.5:scaled<=5?5:10)*power));return step*4;}
 const shortDate=t=>new Date(t).toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit',timeZone:'Europe/Moscow'});
 export function createPacePage({D,config,$,fmt,attachChartTip}){
- const m=paceModel({events:D.events,participants:D.people.length,scoresPerParticipant:config.scoresPerParticipant,asOf:Date.parse(D.updated),deadline:config.deadline});
+ const m=paceModel({events:D.events,participants:D.people.length,scoresPerParticipant:config.scoresPerParticipant,asOf:Date.parse(D.updated),deadline:config.deadline,now:Date.now()});
  const status=m.remaining===0?'Успевают':m.verdict==='Пока непонятно'?'Недостаточно данных':m.verdict==='Не успевают'?'Не успевают обхватывать':m.verdict;
  $('pace-verdict').textContent=status;$('pace-verdict').dataset.tone=m.remaining===0||status==='Успевают'?'positive':status==='Не успевают обхватывать'?'negative':'neutral';
 
  const captions={'Не успевают обхватывать':'При текущем темпе судейство не укладывается в дедлайн','Успевают':m.remaining===0?'Судейство завершено':'При текущем темпе укладываются в дедлайн','Недостаточно данных':'Недостаточно данных для уверенного прогноза'};
  const captionNode=$('pace-caption');if(captionNode)captionNode.textContent='';
  $('pace-remaining').textContent=fmt(m.remaining,0);$('pace-current').textContent=m.rate>0&&m.rate<1?'<1':fmt(m.rate,0);
- $('pace-needed').textContent=m.needRate!==null?fmt(Math.ceil(m.needRate),0):'—';
+ const snapshotAsOf=m.asOf;
+ function refreshNeeded(){
+  const now=Date.now(),expired=m.deadline!==null&&now>=m.deadline;
+  const daysLeft=m.deadline===null?null:Math.max(0,(m.deadline-now)/DAY);
+  const needRate=daysLeft>0?m.remaining/daysLeft:null;
+  $('pace-needed-label').textContent=expired?'Прогноз завершения':'Нужно в день';
+  $('pace-needed').classList.toggle('is-forecast',expired);
+  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?fmt(Math.ceil(needRate),0):'—';
+  $('pace-needed-help').textContent=expired?'Прогноз по последним 7 полным дням на дату выгрузки '+date(snapshotAsOf)+'.':needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(daysLeft,1)+' дня до дедлайна. Нужно в среднем '+fmt(Math.ceil(needRate),0)+' в день.':'Нельзя рассчитать без актуального дедлайна.';
+ }
+ refreshNeeded();
+ setInterval(refreshNeeded,1000);
  $('pace-remaining-help').textContent='Всего '+fmt(m.target,0)+' оценок: '+fmt(D.people.length,0)+' участников × '+config.scoresPerParticipant+'. Осталось '+fmt(m.remaining,0)+' невыставленных.';
- $('pace-needed-help').textContent=m.needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(Math.max(0,(m.deadline-m.asOf)/DAY),1)+' дня до дедлайна. Нужно в среднем '+fmt(Math.ceil(m.needRate),0)+' в день.':'Нельзя рассчитать без актуального дедлайна.';
  let summary;
  if(m.remaining===0)summary='Судейство завершено.';
  else if(!m.enough)summary='Для прогноза недостаточно данных.';
@@ -40,7 +50,7 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
  $('pace-insight-pace').textContent=m.remaining===0?'1. Судейство завершено.':m.ratio!==null&&m.ratio>1?'1. Чтобы успеть, нужно ускориться в '+fmt(m.ratio,1)+' раза или добавить '+(extra===null?'—':fmt(extra,0))+' резервных судей.':m.ratio!==null?'1. При текущем темпе судьи успевают.':'1. Пока недостаточно данных для прогноза.';
  $('pace-insight-clones').textContent=m.remaining===0?'2. Клонирование судей больше не требуется.':missingDaily===null?'2. Пока нельзя рассчитать число клонов.':'2. Или клонировать '+(leadClones===null?'—':fmt(leadClones,0))+' раз '+(leader?leader[0]:'самого продуктивного судью')+' либо '+(slowClones===null?'—':fmt(slowClones,0))+' раз '+(trailer?trailer[0]:'наименее продуктивного судью')+'.';
  $('pace-insight-saving').textContent='3. Можно было не ставить '+fmt(economy.total,0)+' оценок: '+fmt(economy.past,0)+' уже выставлены после математически решённого исхода, ещё '+fmt(economy.future,0)+' можно не выставлять. '+(m.rate>0?'Экономия — около '+fmt(economy.total/m.rate,1)+' дня при нынешнем темпе.':'');
- $('pace-economy-method').textContent='Исход определён при сумме ≥ '+config.passScore+' или сумме + остаток × '+config.maxScore+' < '+config.passScore+': считаем оценки после первого такого момента и оставшиеся слоты, это гипотетическая экономия — официальное обязательство, объём и прогноз сохраняются.';
+ $('pace-economy-method').textContent='Исход определён при сумме + остаток ≥ '+config.passScore+' или сумме + остаток × '+config.maxScore+' < '+config.passScore+': считаем оценки после первого такого момента и оставшиеся слоты, это гипотетическая экономия — официальное обязательство, объём и прогноз сохраняются.';
  $('pace-economy-limit').hidden=economy.ambiguous===0;
  $('pace-economy-limit').textContent=fmt(economy.ambiguous,0)+' участников исключены из исторической экономии из-за неоднозначных дат.';
  function frame(svg,activity=false){
@@ -75,7 +85,7 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
   $('pace-progress-deadline-date').textContent=m.deadline===null?'Дедлайн не задан':shortDate(m.deadline)+' · дедлайн';
  }
  function drawFinish(){
-  const svg=$('pace-finish-chart'),f=frame(svg),range=pacePlotRange(m),max=niceMaximum(m.target);f.T=f.mobile?31:33;const a=axes(f,range.start,range.end,max);
+  const svg=$('pace-finish-chart'),f=frame(svg),range=pacePlotRange(m),max=niceMaximum(m.target);f.T=f.mobile?31:33;f.B=86;const a=axes(f,range.start,range.end,max);
   const {x,y}=a;let html='<defs><linearGradient id="pace-fact-glow" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9ABFAE" stop-opacity=".17"/><stop offset="100%" stop-color="#9ABFAE" stop-opacity="0"/></linearGradient></defs>'+a.html;
 
   if(m.deadline!==null&&m.deadline>=range.start&&m.deadline<=range.end)html+='<line class="pace-deadline-line" x1="'+x(m.deadline)+'" x2="'+x(m.deadline)+'" y1="'+f.T+'" y2="'+(f.H-f.B)+'"/>';
@@ -96,8 +106,8 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
   // Direct labels describe existing reference lines; forecast math stays unchanged.
    
   if(m.deadline!==null&&m.deadline>=range.start&&m.deadline<=range.end){
-   const dx=x(m.deadline),right=dx>f.W-f.R-70;
-   html+='<circle cx="'+dx+'" cy="'+(f.H-f.B)+'" r="3.5" fill="#C3A46A"/><text class="pace-deadline-bottom" x="'+dx+'" y="'+(f.H-9)+'" text-anchor="middle">Дедлайн · '+shortDate(m.deadline)+'</text>';
+   const dx=x(m.deadline),labelX=Math.max(f.L+55,Math.min(f.W-f.R-55,dx));
+   html+='<circle cx="'+dx+'" cy="'+(f.H-f.B)+'" r="3.5" fill="#C3A46A"/><text class="pace-deadline-bottom" x="'+labelX+'" y="'+(f.H-32)+'" text-anchor="middle">Дедлайн · '+shortDate(m.deadline)+'</text>';
   }
   if(m.projected!==null&&m.enough&&forecast.length){
    const last=forecast.at(-1),dateLabel=shortDate(m.projected),truncated=range.truncated;
@@ -105,7 +115,7 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
    const label=(truncated?'Прогноз за пределами графика':'Финиш ≈ '+dateLabel);
    const labelY=Math.max(f.T+34,Math.min(f.H-f.B-12,py-15));
    html+='<circle class="pace-forecast-end" cx="'+px+'" cy="'+py+'" r="4"/>';
-   if(!truncated)html+='<text class="pace-finish-date-tick" x="'+px+'" y="'+(f.H-9)+'" text-anchor="middle">'+shortDate(m.projected)+'</text>';
+   if(!truncated)html+='<text class="pace-finish-date-tick" x="'+Math.max(f.L+50,Math.min(f.W-f.R-50,px))+'" y="'+(f.H-52)+'" text-anchor="middle">Финиш ≈ '+shortDate(m.projected)+'</text>';
    // Show the projected cumulative score at the endpoint, inside the chart bounds.
    // The label is anchored to the right and shifted away from the dot and upper gridline.
    const valueLabel=fmt(Math.round(last.count),0);

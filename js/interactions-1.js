@@ -44,15 +44,16 @@ dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
   const raw=holder.dataset.deadline || '2026-10-18T23:59:00+03:00';
   const deadlineMs=raw?Date.parse(raw):NaN;
   if(!Number.isFinite(deadlineMs)){output.textContent='Дата не задана';return;}
-  const diff=Math.max(0,Math.floor((deadlineMs-Date.now())/1000));
-  if(diff===0){output.textContent='Дедлайн истёк';return;}
+  const remaining=deadlineMs-Date.now();
+  if(remaining<=0){output.textContent='Дедлайн прошёл';return;}
+  const diff=Math.floor(remaining/1000);
   const days=Math.floor(diff/86400),hours=Math.floor(diff%86400/3600),minutes=Math.floor(diff%3600/60);
   output.textContent=`${days}д ${hours}ч ${minutes}м`;
  }
  window.addEventListener('ib19:route',refreshDeadlineCountdown);
  window.addEventListener('deadline-data-ready',refreshDeadlineCountdown);
  // Recheck after data loads and when navigation changes active sections.
- setInterval(refreshDeadlineCountdown,10000);
+ setInterval(refreshDeadlineCountdown,1000);
  document.addEventListener('DOMContentLoaded',refreshDeadlineCountdown);
  window.addEventListener('load',refreshDeadlineCountdown);
  refreshDeadlineCountdown();
