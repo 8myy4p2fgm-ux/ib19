@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T01:52:02.753Z",
-  "exportedAt": "2026-10-18T01:52:02.753Z",
-  "runId": "2026-10-18T01:52:02.753Z",
-  "forumExportedAt": "2026-10-18T01:52:02.753Z",
+  "lastSuccessfulAt": "2026-10-18T02:02:08.813Z",
+  "exportedAt": "2026-10-18T02:02:08.813Z",
+  "runId": "2026-10-18T02:02:08.813Z",
+  "forumExportedAt": "2026-10-18T02:02:08.813Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13280,
+    "scores": 13289,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 4,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 6,
-    "durationMs": 5858,
-    "scoresBefore": 13276,
-    "scoresAfter": 13280,
-    "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.81532779316713,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 8,
+    "logicalRequests": 12,
+    "durationMs": 11785,
+    "scoresBefore": 13280,
+    "scoresAfter": 13289,
+    "fullBaselineRequests": 3252,
+    "requestReductionPercent": 99.63099630996311,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -87,6 +87,62 @@
       "feed": [
         {
           "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "арлекин.",
+          "comment": "Хорошо!\nИсполнение подтягивай, слетаешь порой.\nПотенциал хороший.",
+          "scoredAt": "2026-10-18T02:01:23.386Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "RUD",
+          "comment": "Неплохо",
+          "scoredAt": "2026-10-18T01:59:12.855Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "48surd",
+          "comment": "Скучно, но уверенно",
+          "scoredAt": "2026-10-18T01:58:45.982Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Lucky_Jazz",
+          "comment": "Рифмы плохие, а вот все остальное хорошее.",
+          "scoredAt": "2026-10-18T01:58:15.465Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "Hallraiser",
+          "comment": "Хоть и грязно, фальшиво, зато от души! Респект тебе!",
+          "scoredAt": "2026-10-18T01:57:19.702Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "YASPAL",
+          "comment": "",
+          "scoredAt": "2026-10-18T01:56:20.726Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Андеграунд Возле Аквариума",
+          "comment": "",
+          "scoredAt": "2026-10-18T01:54:09.758Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Дамир Камалов",
+          "comment": "Биток огонь!",
+          "scoredAt": "2026-10-18T01:53:19.575Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 3,
           "artist": "Сапа",
           "comment": "Хорошо.",
@@ -133,62 +189,6 @@
           "artist": "ꙮКАЗИЯ",
           "comment": "бабан не одобрит",
           "scoredAt": "2026-10-18T01:39:30.698Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "KAIAND",
-          "comment": "",
-          "scoredAt": "2026-10-18T01:38:31.159Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Просто ПроМо",
-          "comment": "Ритмика квадратная, скучная. Качество записи норм, эмоции тоже",
-          "scoredAt": "2026-10-18T01:38:08.783Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "RIM",
-          "comment": "Уверенно, стильно! ",
-          "scoredAt": "2026-10-18T01:37:28.668Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "STERN",
-          "comment": "Начало было бодрое, середина сильно просела. Текст слабый",
-          "scoredAt": "2026-10-18T01:36:38.888Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "БИЛЛИ РУКАМИ",
-          "comment": "Текст слабый. Подал норм",
-          "scoredAt": "2026-10-18T01:35:46.189Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Пожилой Владивосток",
-          "comment": "Денис Кор, выходи, мы тебя узнали!",
-          "scoredAt": "2026-10-18T01:35:11.948Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "GENRIXXX",
-          "comment": "Оффбиты. Рифмы норм",
-          "scoredAt": "2026-10-18T01:29:55.780Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 2,
-          "artist": "RSM2",
-          "comment": "Горе ритмику вымучил, а здравое зерно положить забыл.",
-          "scoredAt": "2026-10-18T01:28:11.506Z"
         }
       ]
     }

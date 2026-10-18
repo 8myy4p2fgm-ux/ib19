@@ -144306,6 +144306,132 @@
         "scoredAt": "2026-10-18T01:42:18.037Z",
         "userId": "47e99f64-df0c-4b01-8f61-2ed3b1855a81"
       }
+    },
+    {
+      "id": "67b5a0bef147b5832f3ec51ee4e8f3971ed75a8fa32b613de3adb29533bd6b46",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:59:12.855Z",
+      "key": "[\"7cef7f5a-5396-4468-b852-c68348c8bea3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Неплохо",
+        "scoredAt": "2026-10-18T01:59:12.855Z",
+        "userId": "7cef7f5a-5396-4468-b852-c68348c8bea3"
+      }
+    },
+    {
+      "id": "05db72acae9b2113a53e242bd8c492320142d145da3bb328831536b14088e20c",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T02:02:03.502Z",
+      "key": "[\"ef678a01-7ce7-497a-870b-bcc301ac5d76\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Эмоции хорошие, качество звука плохое.",
+        "scoredAt": "2026-10-18T02:02:03.502Z",
+        "userId": "ef678a01-7ce7-497a-870b-bcc301ac5d76"
+      }
+    },
+    {
+      "id": "e6d7534fe0ba155e251243c680e1daeeadf710157c93d793f4acb912199fe5cd",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:54:09.758Z",
+      "key": "[\"129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T01:54:09.758Z",
+        "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b"
+      }
+    },
+    {
+      "id": "ecba5948155e8b6613f4f80e5e3f8d38edfc3e24223b2861d89cb8d490525902",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:56:20.726Z",
+      "key": "[\"abf54595-ef9a-496c-986b-44503e285ab6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-18T01:56:20.726Z",
+        "userId": "abf54595-ef9a-496c-986b-44503e285ab6"
+      }
+    },
+    {
+      "id": "e85afaf3edaaf176cfdcb25776ae7c2ef7a96678188e01a431301191ac8fea31",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:57:19.702Z",
+      "key": "[\"f8906d2e-9be4-4ece-ae31-337e551ea1a6\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Хоть и грязно, фальшиво, зато от души! Респект тебе!",
+        "scoredAt": "2026-10-18T01:57:19.702Z",
+        "userId": "f8906d2e-9be4-4ece-ae31-337e551ea1a6"
+      }
+    },
+    {
+      "id": "6cddc9b04b4f8064d2269d2082bd4ca87e7cc22e6dea0ec8de2dfc84dc2f5fb2",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:58:15.465Z",
+      "key": "[\"f311ba91-1aff-43ab-8401-4a482ee81425\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Рифмы плохие, а вот все остальное хорошее.",
+        "scoredAt": "2026-10-18T01:58:15.465Z",
+        "userId": "f311ba91-1aff-43ab-8401-4a482ee81425"
+      }
+    },
+    {
+      "id": "d3328bce0493a74fbb0d9e14ed7cbd9705f259c029f21d79e58a56b827d505e5",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T02:01:23.386Z",
+      "key": "[\"e8de81c5-5fd8-458a-9928-c1571f890d74\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошо!\nИсполнение подтягивай, слетаешь порой.\nПотенциал хороший.",
+        "scoredAt": "2026-10-18T02:01:23.386Z",
+        "userId": "e8de81c5-5fd8-458a-9928-c1571f890d74"
+      }
+    },
+    {
+      "id": "356fb503180adba55a73dcc9e0eb7ed4bb45ddc4a3bce137658f6e1f4ca3771a",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:53:19.575Z",
+      "key": "[\"b8bd8e38-21b8-45c7-90ab-695c2a14e114\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Биток огонь!",
+        "scoredAt": "2026-10-18T01:53:19.575Z",
+        "userId": "b8bd8e38-21b8-45c7-90ab-695c2a14e114"
+      }
+    },
+    {
+      "id": "68d502ba2f9357ebbb9a7e0aef21886b5a1bbc1ddcab85d8c5951224edbb7732",
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "sourceScoredAt": "2026-10-18T01:58:45.982Z",
+      "key": "[\"706949ec-75dc-4781-95d8-02e15eecba34\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Скучно, но уверенно",
+        "scoredAt": "2026-10-18T01:58:45.982Z",
+        "userId": "706949ec-75dc-4781-95d8-02e15eecba34"
+      }
     }
   ],
   "snapshots": [
@@ -153065,6 +153191,26 @@
           "index": 29.713355190766233,
           "favor": 17.76776129495795,
           "attention": 1.2233716735860614,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T02:02:08.813Z",
+      "exportedAt": "2026-10-18T02:02:08.813Z",
+      "scores": 13289,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.929693695660216,
+          "favor": 9.281547996166156,
+          "attention": 6.178075276958849,
+          "respect": 6.470070422535211
+        },
+        "veterans": {
+          "index": 29.72572063179391,
+          "favor": 17.767996215768754,
+          "attention": 1.2355021938029318,
           "respect": 10.722222222222221
         }
       }

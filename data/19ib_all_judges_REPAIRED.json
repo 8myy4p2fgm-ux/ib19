@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T01:52:02.753Z",
+  "exportedAt": "2026-10-18T02:02:08.813Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -30463,8 +30463,14 @@
     },
     {
       "userId": "7cef7f5a-5396-4468-b852-c68348c8bea3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Неплохо",
+          "scoredAt": "2026-10-18T01:59:12.855Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -30484,7 +30490,7 @@
           "scoredAt": "2026-10-14T17:13:04.206Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:12:33.688Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "RUD",
       "artistSlug": "rud"
@@ -48250,8 +48256,14 @@
     },
     {
       "userId": "ef678a01-7ce7-497a-870b-bcc301ac5d76",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Эмоции хорошие, качество звука плохое.",
+          "scoredAt": "2026-10-18T02:02:03.502Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -48271,7 +48283,7 @@
           "scoredAt": "2026-10-07T16:58:42.498Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:02:10.395Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "DEADCONST",
       "artistSlug": "deadconst"
@@ -75488,9 +75500,16 @@
     },
     {
       "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T01:54:09.758Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "Андеграунд Возле Аквариума",
       "artistSlug": "andegraund-vozle-akvariuma"
@@ -77519,8 +77538,14 @@
     },
     {
       "userId": "abf54595-ef9a-496c-986b-44503e285ab6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T01:56:20.726Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -77540,7 +77565,7 @@
           "scoredAt": "2026-10-17T10:21:44.890Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:42:16.331Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "YASPAL",
       "artistSlug": "yaspal"
@@ -93362,8 +93387,14 @@
     },
     {
       "userId": "f8906d2e-9be4-4ece-ae31-337e551ea1a6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Хоть и грязно, фальшиво, зато от души! Респект тебе!",
+          "scoredAt": "2026-10-18T01:57:19.702Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -93383,7 +93414,7 @@
           "scoredAt": "2026-10-06T15:34:32.309Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:42:33.072Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "Hallraiser",
       "artistSlug": "hallraiser"
@@ -96944,9 +96975,16 @@
     },
     {
       "userId": "f311ba91-1aff-43ab-8401-4a482ee81425",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Рифмы плохие, а вот все остальное хорошее.",
+          "scoredAt": "2026-10-18T01:58:15.465Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "Lucky_Jazz",
       "artistSlug": "lucky-jazz"
@@ -100592,8 +100630,14 @@
     },
     {
       "userId": "e8de81c5-5fd8-458a-9928-c1571f890d74",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Хорошо!\nИсполнение подтягивай, слетаешь порой.\nПотенциал хороший.",
+          "scoredAt": "2026-10-18T02:01:23.386Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -100619,7 +100663,7 @@
           "scoredAt": "2026-09-30T14:05:02.224Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "арлекин.",
       "artistSlug": "arlekin"
@@ -101752,8 +101796,14 @@
     },
     {
       "userId": "b8bd8e38-21b8-45c7-90ab-695c2a14e114",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Биток огонь!",
+          "scoredAt": "2026-10-18T01:53:19.575Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -101773,7 +101823,7 @@
           "scoredAt": "2026-10-10T14:15:01.563Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:42:15.233Z",
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "Дамир Камалов",
       "artistSlug": "damir-kamalov"
@@ -105763,9 +105813,16 @@
     },
     {
       "userId": "706949ec-75dc-4781-95d8-02e15eecba34",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Скучно, но уверенно",
+          "scoredAt": "2026-10-18T01:58:45.982Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T02:02:08.813Z",
       "current": true,
       "artistName": "48surd",
       "artistSlug": "48surd"
