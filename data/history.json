@@ -146574,6 +146574,90 @@
         "scoredAt": "2026-10-18T09:36:01.339Z",
         "userId": "893e26ae-f05b-4e04-8c8d-14b517cc47f1"
       }
+    },
+    {
+      "id": "c313707b64d8bdce06f93ea812215c063b9cd8e0db3f32ae430af981d72a5d8f",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:49:15.842Z",
+      "key": "[\"b49189a6-a41d-435a-949c-d52b415b989e\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал нормально, но по тексту ничего интересного. Скучный репак.",
+        "scoredAt": "2026-10-18T09:49:15.842Z",
+        "userId": "b49189a6-a41d-435a-949c-d52b415b989e"
+      }
+    },
+    {
+      "id": "745d14ddf90a58d54dd2a48f07006c03919cb6aa6b087144e963dccc4f23dc39",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:42:58.840Z",
+      "key": "[\"56a37b00-e104-41bd-a8bd-cdccf1eb8c30\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал неплохо, но по тексту ничего инетересного.",
+        "scoredAt": "2026-10-18T09:42:58.840Z",
+        "userId": "56a37b00-e104-41bd-a8bd-cdccf1eb8c30"
+      }
+    },
+    {
+      "id": "1a5870fd05201bccdc084e7aef9c6572f3b8b1062625da76a882466bfffd4f78",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:46:29.048Z",
+      "key": "[\"926eb322-d328-416f-96d3-a1e3855ef55a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ну очень простой репак, брат. Ничего интересного.",
+        "scoredAt": "2026-10-18T09:46:29.048Z",
+        "userId": "926eb322-d328-416f-96d3-a1e3855ef55a"
+      }
+    },
+    {
+      "id": "d55444bf1c18c4ec063cc266cb83f6eba20e66041f8804d7a0aec6c87b908c95",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:47:28.556Z",
+      "key": "[\"fc9209d8-7940-46a5-b96c-d3bb9a4c0023\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Забавная подача. Причесать бы твой тречок и будет заебок. Пока двоечка.",
+        "scoredAt": "2026-10-18T09:47:28.556Z",
+        "userId": "fc9209d8-7940-46a5-b96c-d3bb9a4c0023"
+      }
+    },
+    {
+      "id": "f9b01527075e62c671c34456f58d2158557d00cbf7746fb840ba8922bd0fc5b3",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:51:29.490Z",
+      "key": "[\"5d2fb0dd-c72a-4444-8625-a543809aa23c\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Лев Михайлович, мое вам с кисточкой! Как же печально, что местная публика не знает легенду. Они вас не заслуживают!",
+        "scoredAt": "2026-10-18T09:51:29.490Z",
+        "userId": "5d2fb0dd-c72a-4444-8625-a543809aa23c"
+      }
+    },
+    {
+      "id": "62b435feec15b4ca3b8c393b19aed77266e721c5ccdc43f82e6d0d009cb007c5",
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "sourceScoredAt": "2026-10-18T09:44:40.040Z",
+      "key": "[\"e4d60b79-6c81-4c8f-8a02-11fbfdebda2a\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Харизма на месте. Из-за ностальгии по глинотейпу поставлю тебе 4, но вообще надо в тексте добавлять. Абсурд на месте, но хотелось бы связанного единой мыслю текста.",
+        "scoredAt": "2026-10-18T09:44:40.040Z",
+        "userId": "e4d60b79-6c81-4c8f-8a02-11fbfdebda2a"
+      }
     }
   ],
   "snapshots": [
@@ -156073,6 +156157,26 @@
           "index": 29.993952636845567,
           "favor": 17.792231323530636,
           "attention": 1.4794990910927086,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T09:52:10.435Z",
+      "exportedAt": "2026-10-18T09:52:10.435Z",
+      "scores": 13448,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.96812392137302,
+          "favor": 9.259547295649286,
+          "attention": 6.261208204671102,
+          "respect": 6.447368421052632
+        },
+        "veterans": {
+          "index": 30.004424850184552,
+          "favor": 17.79162389310365,
+          "attention": 1.490578734858681,
           "respect": 10.722222222222221
         }
       }
