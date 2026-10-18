@@ -148114,6 +148114,216 @@
         "scoredAt": "2026-10-18T11:01:07.145Z",
         "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461"
       }
+    },
+    {
+      "id": "641959b86b69584eec35dbf9318727b4e233388e3ea9aef0355cd8f17ae13f7c",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:07:31.947Z",
+      "key": "[\"512aa907-4321-427e-8248-fea2f74f3353\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "С качеством решай что-то бро, из того что расслышал - средний уровень. ",
+        "scoredAt": "2026-10-18T11:07:31.947Z",
+        "userId": "512aa907-4321-427e-8248-fea2f74f3353"
+      }
+    },
+    {
+      "id": "e61c2e6253fc4475d98d5addd3a1a3bf451d316075e8de2d1cdb24f03dbbabe2",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:05:57.484Z",
+      "key": "[\"d83df612-fe18-4ae5-b156-ece58c74c6dc\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Трек между 3 и 4. Но слишком скованно читаешь, раскованности бы.  Припев подруинил все же 3. ",
+        "scoredAt": "2026-10-18T11:05:57.484Z",
+        "userId": "d83df612-fe18-4ae5-b156-ece58c74c6dc"
+      }
+    },
+    {
+      "id": "a19e9303df5612632f40259b3cb302b54bd181e59660070495d19e2629436fde",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:08:32.062Z",
+      "key": "[\"cb29a7b0-b6f1-4a0f-af03-907290387f63\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Андеграундо, но приколов в духе группы Контейнер не хватило, по тексту скуповато для такого стилька. Суммарно нормас. ",
+        "scoredAt": "2026-10-18T11:08:32.062Z",
+        "userId": "cb29a7b0-b6f1-4a0f-af03-907290387f63"
+      }
+    },
+    {
+      "id": "7b05f7ac3bd34eef588196232fe34cefe71e71c539e1fe65dc0f3e94baf317fb",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:02:48.988Z",
+      "key": "[\"6bca7dff-7ad8-41da-b7ed-4a8465f74d15\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Зачитал норм, но по тексту ничего интересного.",
+        "scoredAt": "2026-10-18T11:02:48.988Z",
+        "userId": "6bca7dff-7ad8-41da-b7ed-4a8465f74d15"
+      }
+    },
+    {
+      "id": "1473c140d59e3217dc8889b7c36d7fba84cf4e14eab819b5a7ebdf97a50895b0",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:09:54.649Z",
+      "key": "[\"8fc7f6f7-1374-4421-a546-4a7c6d2afcdf\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 3,
+        "comment": "Пустой текст , но читаешь норм",
+        "scoredAt": "2026-10-18T11:09:54.649Z",
+        "userId": "8fc7f6f7-1374-4421-a546-4a7c6d2afcdf"
+      }
+    },
+    {
+      "id": "d2753a4b9c5bef91a8da6d09981b51a45c3354c41b26325d812ed0a1d28bad96",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:04:18.065Z",
+      "key": "[\"95db4b45-3f56-4e1b-9f37-bfb720db1d85\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Дефолтный пустой рэп , звучит конечно сыро капец как",
+        "scoredAt": "2026-10-18T11:04:18.065Z",
+        "userId": "95db4b45-3f56-4e1b-9f37-bfb720db1d85"
+      }
+    },
+    {
+      "id": "e3cae6cb7d516d35690228887b147308a5d74da1b078894ee72382d0d0d662b6",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:02:37.592Z",
+      "key": "[\"76721483-7780-4766-92ef-1b493ea1b608\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 4,
+        "comment": "Забавно сделал ! Нормасик. Не скучно! Лови 4",
+        "scoredAt": "2026-10-18T11:02:37.592Z",
+        "userId": "76721483-7780-4766-92ef-1b493ea1b608"
+      }
+    },
+    {
+      "id": "4b17a3fe68990cdde7ccd24a47a68f5908e9a094f8abc33c2ce71841a436266e",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:08:38.604Z",
+      "key": "[\"1c4169a8-484e-4cf8-88b5-8943b074737e\",\"Гарикъ Истерин\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гарикъ Истерин",
+        "score": 2,
+        "comment": "Дикция вышла из трека и назвалась стилем ? Текст вообще никакой и никуда ",
+        "scoredAt": "2026-10-18T11:08:38.604Z",
+        "userId": "1c4169a8-484e-4cf8-88b5-8943b074737e"
+      }
+    },
+    {
+      "id": "1626018252fee520b29fd1b66e44dbd20e2c5e55b5fb2a8a70f754fd06c5d9c0",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:07:32.645Z",
+      "key": "[\"106deadd-8e2d-4d4d-a3c3-0177f8d288eb\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Интересный трек, чем-то напомнил АТЛ. По тексту хотелось бы побольше интересных строчек.",
+        "scoredAt": "2026-10-18T11:07:32.645Z",
+        "userId": "106deadd-8e2d-4d4d-a3c3-0177f8d288eb"
+      }
+    },
+    {
+      "id": "7117ee63b4facdf90b50f2a8336d357ef1b622440bb1f123ea2b9393c3524cf8",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:11:01.041Z",
+      "key": "[\"3b4f1e18-6650-490c-bddc-a8d387c1c0cd\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Веселый рэпчик. Ход избитый, но твою мать работает. Стасу привет!",
+        "scoredAt": "2026-10-18T11:11:01.041Z",
+        "userId": "3b4f1e18-6650-490c-bddc-a8d387c1c0cd"
+      }
+    },
+    {
+      "id": "61d2eee623a58ca8e0e33c5f15df2510f856caf114f9e4d3717a9ed2c2aa555a",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:09:51.164Z",
+      "key": "[\"29d86c5d-d908-4c61-9aec-aa3d2aebd40b\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Ровно зачитал, но по тексту все просто.",
+        "scoredAt": "2026-10-18T11:09:51.164Z",
+        "userId": "29d86c5d-d908-4c61-9aec-aa3d2aebd40b"
+      }
+    },
+    {
+      "id": "248180ae488ff7f980f29fcd3cdac0d4edcc4d59db73eb58c2524034f838cfa2",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:04:56.871Z",
+      "key": "[\"3b8d2566-cca5-404d-ab46-7d1a4a9b9f41\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Яма на дропе не очень понравилась, тейки чуть налезают кривовато в паре мест. Где-то между 4 и  5. Хуй с ним ставлю 5-, поешь отлично, но повнимательнее с мелочами. ",
+        "scoredAt": "2026-10-18T11:04:56.871Z",
+        "userId": "3b8d2566-cca5-404d-ab46-7d1a4a9b9f41"
+      }
+    },
+    {
+      "id": "95f121df0602d69e86354df2f53b8782b4c5659de4329e72ad534d7689c0b05b",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:05:33.078Z",
+      "key": "[\"cd31e6f6-6bb3-4765-b26f-12d10b5723da\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 1,
+        "comment": "PAPOI",
+        "scoredAt": "2026-10-18T11:05:33.078Z",
+        "userId": "cd31e6f6-6bb3-4765-b26f-12d10b5723da"
+      }
+    },
+    {
+      "id": "69ab0ebed124e4fe8be08325b48bd1e73f346e76539451ca54993b1e9965d3a4",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:04:37.678Z",
+      "key": "[\"8be1735e-5094-4339-acf7-4e386ad5ea21\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Простой репчик, переслушал два раза, ничего интересного не услышал.",
+        "scoredAt": "2026-10-18T11:04:37.678Z",
+        "userId": "8be1735e-5094-4339-acf7-4e386ad5ea21"
+      }
+    },
+    {
+      "id": "e31c29eb58f1e3129515fd8c4b45536d365a968a6ade30d158825b8248dfef7c",
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "sourceScoredAt": "2026-10-18T11:06:48.734Z",
+      "key": "[\"e6e357c1-69e5-41bd-a772-ee42105f0828\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 5,
+        "comment": "Соусно, круто стелишь. Красава.",
+        "scoredAt": "2026-10-18T11:06:48.734Z",
+        "userId": "e6e357c1-69e5-41bd-a772-ee42105f0828"
+      }
     }
   ],
   "snapshots": [
@@ -157753,6 +157963,26 @@
           "index": 30.29271626230438,
           "favor": 17.83335403675271,
           "attention": 1.737140003329449,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:12:14.016Z",
+      "exportedAt": "2026-10-18T11:12:14.016Z",
+      "scores": 13567,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.501246710173675,
+          "favor": 9.2360369111219,
+          "attention": 5.851416695603501,
+          "respect": 6.413793103448276
+        },
+        "veterans": {
+          "index": 30.320131474364484,
+          "favor": 17.832919727350934,
+          "attention": 1.7649895247913272,
           "respect": 10.722222222222221
         }
       }
