@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T03:12:04.652Z",
+  "exportedAt": "2026-10-18T03:22:02.667Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -61834,8 +61834,14 @@
     },
     {
       "userId": "f3da19b4-dcd9-4be4-a1cf-7bf91d967e4e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Панчули хорошие, только все про еблю и пердеж. Попробуй все это добро завернуть в текст со смыслом, тогда это будет вышка. Пока только четверка.",
+          "scoredAt": "2026-10-18T03:18:17.525Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -61855,7 +61861,7 @@
           "scoredAt": "2026-10-12T10:11:35.267Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:02:11.418Z",
+      "fetchedAt": "2026-10-18T03:22:02.667Z",
       "current": true,
       "artistName": "Кевин Халф",
       "artistSlug": "kevin-half"
@@ -104166,8 +104172,14 @@
     },
     {
       "userId": "07ec54e0-e793-475e-a9e7-5fe4ea5ad42b",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Копаем картофель. Неплохо раскрыл тему. Строчка про трактор - хороша. Не самая уверенная, но все же вышка.",
+          "scoredAt": "2026-10-18T03:13:21.872Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -104181,7 +104193,7 @@
           "scoredAt": "2026-10-10T14:05:53.040Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:42:01.695Z",
+      "fetchedAt": "2026-10-18T03:22:02.667Z",
       "current": true,
       "artistName": "Пахарь-Трахарь",
       "artistSlug": "pahar-trahar"
@@ -111536,8 +111548,14 @@
     },
     {
       "userId": "e80560cb-eb8b-432c-a86a-b6483c7e5a42",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Панчули присутствуют. Зачитал нормально. Криминальный бит на минималках. Поменьше бы грязи было бы вообще хорошо. Четверка с натяжкой.",
+          "scoredAt": "2026-10-18T03:15:20.766Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -111551,7 +111569,7 @@
           "scoredAt": "2026-10-15T09:36:02.840Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:52:09.380Z",
+      "fetchedAt": "2026-10-18T03:22:02.667Z",
       "current": true,
       "artistName": "Дед Кондратий",
       "artistSlug": "ded-kondratiy"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T03:12:04.652Z",
-  "exportedAt": "2026-10-18T03:12:04.652Z",
-  "runId": "2026-10-18T03:12:04.652Z",
-  "forumExportedAt": "2026-10-18T03:12:04.652Z",
+  "lastSuccessfulAt": "2026-10-18T03:22:02.667Z",
+  "exportedAt": "2026-10-18T03:22:02.667Z",
+  "runId": "2026-10-18T03:22:02.667Z",
+  "forumExportedAt": "2026-10-18T03:22:02.667Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13318,
+    "scores": 13321,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 6735,
-    "scoresBefore": 13313,
-    "scoresAfter": 13318,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4880,
+    "scoresBefore": 13318,
+    "scoresAfter": 13321,
     "fullBaselineRequests": 3253,
-    "requestReductionPercent": 99.78481401782969,
+    "requestReductionPercent": 99.8462957270212,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Кевин Халф",
+          "comment": "Панчули хорошие, только все про еблю и пердеж. Попробуй все это добро завернуть в текст со смыслом, тогда это будет вышка. Пока только четверка.",
+          "scoredAt": "2026-10-18T03:18:17.525Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Дед Кондратий",
+          "comment": "Панчули присутствуют. Зачитал нормально. Криминальный бит на минималках. Поменьше бы грязи было бы вообще хорошо. Четверка с натяжкой.",
+          "scoredAt": "2026-10-18T03:15:20.766Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Пахарь-Трахарь",
+          "comment": "Копаем картофель. Неплохо раскрыл тему. Строчка про трактор - хороша. Не самая уверенная, но все же вышка.",
+          "scoredAt": "2026-10-18T03:13:21.872Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -168,27 +189,6 @@
           "artist": "Rаш",
           "comment": "Словно ранний Галат, очень голос похож)",
           "scoredAt": "2026-10-18T02:30:49.386Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Caaaprico",
-          "comment": "Сильно!",
-          "scoredAt": "2026-10-18T02:30:05.239Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "КойоТоо",
-          "comment": "Ой, что за красавчик! Обнял, поцеловал, пропустил дальше!",
-          "scoredAt": "2026-10-18T02:28:48.613Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "millourt",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-18T02:28:07.053Z"
         }
       ]
     }
