@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T11:32:14.136Z",
-  "exportedAt": "2026-10-18T11:32:14.136Z",
-  "runId": "2026-10-18T11:32:14.136Z",
-  "forumExportedAt": "2026-10-18T11:32:14.136Z",
+  "lastSuccessfulAt": "2026-10-18T12:01:53.626Z",
+  "exportedAt": "2026-10-18T12:01:53.626Z",
+  "runId": "2026-10-18T12:01:53.626Z",
+  "forumExportedAt": "2026-10-18T12:01:53.626Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13587,
+    "scores": 13589,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 12644,
-    "scoresBefore": 13577,
-    "scoresAfter": 13587,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4119,
+    "scoresBefore": 13587,
+    "scoresAfter": 13589,
     "fullBaselineRequests": 3256,
-    "requestReductionPercent": 99.63144963144963,
+    "requestReductionPercent": 99.87714987714988,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "artist": "рачии",
+          "comment": "Угар )))",
+          "scoredAt": "2026-10-18T12:00:37.614Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "artist": "KIDO",
+          "comment": "Нормально так застелил, мб чуток пережкспрессивил даже ))) есть строчки интересные, Панчами заправь в следующем раунде . вроде 4+ , но лучше 5 с минусом тут",
+          "scoredAt": "2026-10-18T11:58:44.769Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "PAHAOX",
           "comment": "Увы, пока совсем рановато для второго раунда",
           "scoredAt": "2026-10-18T11:19:01.119Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "OnBonus",
-          "comment": "Где-то проблемы с дикцией, но потенциал есть",
-          "scoredAt": "2026-10-18T11:18:07.831Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 4,
-          "artist": "жжёные васильки",
-          "comment": "В этом что-то есть, прикольно закрутил про мента, наверное единственное что понравилось тут. В целом писать умеешь, на абсурдном движе, сойдёт . звучит органично ",
-          "scoredAt": "2026-10-18T11:17:43.610Z"
         }
       ]
     }

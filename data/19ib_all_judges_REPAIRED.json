@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T11:32:14.136Z",
+  "exportedAt": "2026-10-18T12:01:53.626Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -12591,8 +12591,14 @@
     },
     {
       "userId": "795eacd1-e6fa-457a-8274-dcf5b5aa5233",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Угар )))",
+          "scoredAt": "2026-10-18T12:00:37.614Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -12618,7 +12624,7 @@
           "scoredAt": "2026-09-03T19:01:56.370Z"
         }
       ],
-      "fetchedAt": "2026-10-15T15:02:31.250Z",
+      "fetchedAt": "2026-10-18T12:01:53.626Z",
       "current": true,
       "artistName": "рачии",
       "artistSlug": "rachii"
@@ -72933,8 +72939,14 @@
     },
     {
       "userId": "fca22d57-e7c6-4c51-ada8-fdc692d4d7ae",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Нормально так застелил, мб чуток пережкспрессивил даже ))) есть строчки интересные, Панчами заправь в следующем раунде . вроде 4+ , но лучше 5 с минусом тут",
+          "scoredAt": "2026-10-18T11:58:44.769Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -72960,7 +72972,7 @@
           "scoredAt": "2026-10-03T18:39:04.614Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:32:21.025Z",
+      "fetchedAt": "2026-10-18T12:01:53.626Z",
       "current": true,
       "artistName": "KIDO",
       "artistSlug": "kido"
