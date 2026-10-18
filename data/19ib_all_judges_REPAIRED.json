@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T16:42:04.382Z",
+  "exportedAt": "2026-10-18T16:51:54.443Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -114328,8 +114328,14 @@
     },
     {
       "userId": "a2db5e97-759f-430d-9f69-eccbce2a8527",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Зачитал ровно, но тексту не хватает колких строчек. Все просто и понятно. За ОВ посталю тебе 4, если пройдешь, то нужно будет постараться.",
+          "scoredAt": "2026-10-18T16:47:35.719Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -114355,7 +114361,7 @@
           "scoredAt": "2026-10-13T21:43:16.989Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:12:09.913Z",
+      "fetchedAt": "2026-10-18T16:51:54.443Z",
       "current": true,
       "artistName": "Rob Stillz",
       "artistSlug": "rob-stillz"

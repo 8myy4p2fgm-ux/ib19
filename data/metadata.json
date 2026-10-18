@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T16:42:04.382Z",
-  "exportedAt": "2026-10-18T16:42:04.382Z",
-  "runId": "2026-10-18T16:42:04.382Z",
-  "forumExportedAt": "2026-10-18T16:42:04.382Z",
+  "lastSuccessfulAt": "2026-10-18T16:51:54.443Z",
+  "exportedAt": "2026-10-18T16:51:54.443Z",
+  "runId": "2026-10-18T16:51:54.443Z",
+  "forumExportedAt": "2026-10-18T16:51:54.443Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13727,
+    "scores": 13728,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3759,
-    "scoresBefore": 13725,
-    "scoresAfter": 13727,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3030,
+    "scoresBefore": 13727,
+    "scoresAfter": 13728,
     "fullBaselineRequests": 3257,
-    "requestReductionPercent": 99.87718759594719,
+    "requestReductionPercent": 99.9078906969604,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Rob Stillz",
+          "comment": "Зачитал ровно, но тексту не хватает колких строчек. Все просто и понятно. За ОВ посталю тебе 4, если пройдешь, то нужно будет постараться.",
+          "scoredAt": "2026-10-18T16:47:35.719Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 5,
@@ -182,13 +189,6 @@
           "artist": "вокинъяле",
           "comment": "Очень сумбурно, братик. По тексту все просто и скучно.",
           "scoredAt": "2026-10-18T15:56:06.606Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 3,
-          "artist": "Reeo&Chinzanu",
-          "comment": "Нормально зачитал, но по тексту ничего интересного.",
-          "scoredAt": "2026-10-18T15:54:41.999Z"
         }
       ]
     }
