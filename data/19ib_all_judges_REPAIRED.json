@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T19:31:56.296Z",
+  "exportedAt": "2026-10-18T19:41:54.468Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -13322,6 +13322,34 @@
       "artistSlug": "nseed"
     },
     {
+      "userId": "463ac09d-95aa-477b-9315-9be5b380dbf8",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "На легком уверенном в следующий раунд лети!\nДобавь панчиков и рифм красивых ",
+          "scoredAt": "2026-10-18T14:09:25.555Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Уверенно дальше!",
+          "scoredAt": "2026-10-15T19:34:21.944Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 5,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1110931",
+          "scoredAt": "2026-09-30T15:24:23.169Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:12:13.190Z",
+      "current": true,
+      "artistName": "UNFEAR",
+      "artistSlug": "unfear"
+    },
+    {
       "userId": "44c7e6aa-ffbb-4c1d-97d8-88061aaa7117",
       "scoredCount": 5,
       "scores": [
@@ -13668,34 +13696,6 @@
       "current": true,
       "artistName": "saba",
       "artistSlug": "saba"
-    },
-    {
-      "userId": "463ac09d-95aa-477b-9315-9be5b380dbf8",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "comment": "На легком уверенном в следующий раунд лети!\nДобавь панчиков и рифм красивых ",
-          "scoredAt": "2026-10-18T14:09:25.555Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "comment": "Уверенно дальше!",
-          "scoredAt": "2026-10-15T19:34:21.944Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 5,
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1110931",
-          "scoredAt": "2026-09-30T15:24:23.169Z"
-        }
-      ],
-      "fetchedAt": "2026-10-18T14:12:13.190Z",
-      "current": true,
-      "artistName": "UNFEAR",
-      "artistSlug": "unfear"
     },
     {
       "userId": "f963a8ba-6ea5-4b4a-bd59-6e6bc50cb333",
