@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T19:22:05.441Z",
-  "exportedAt": "2026-10-18T19:22:05.441Z",
-  "runId": "2026-10-18T19:22:05.441Z",
-  "forumExportedAt": "2026-10-18T19:22:05.441Z",
+  "lastSuccessfulAt": "2026-10-18T19:31:56.296Z",
+  "exportedAt": "2026-10-18T19:31:56.296Z",
+  "runId": "2026-10-18T19:31:56.296Z",
+  "forumExportedAt": "2026-10-18T19:31:56.296Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13831,
+    "scores": 13832,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3886,
-    "scoresBefore": 13829,
-    "scoresAfter": 13831,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 2931,
+    "scoresBefore": 13831,
+    "scoresAfter": 13832,
     "fullBaselineRequests": 3258,
-    "requestReductionPercent": 99.87722529158994,
+    "requestReductionPercent": 99.90791896869244,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "былое величие",
+          "comment": "Я в этом баттле впервые слышу использование саксофона! Как в тему и как он тебя круто дополняет. \"Синяя таблетка Морфеуса один победитель, а эти в таблице для виду чисто (с) зашло мне раскрытие твое, классные острые строчки, воздушность и точность образов - ты в это все умеешь. Трек - большое удовольствие. Благодарю. Голос знакомый очень, но пока не выкупила кто ты. Жду твой трек на 2. ",
+          "scoredAt": "2026-10-18T19:22:35.394Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -182,13 +189,6 @@
           "artist": "T0BI",
           "comment": "Зачастую либо слабосозвучно, либо квадратно по рифме. Нет сильных фраз. Бит тебе не особо нужен оказался) ",
           "scoredAt": "2026-10-18T18:35:30.656Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "zakat",
-          "comment": "\"безопасней - опасней\"? Серьёзно? :D Ну чисто в уши подолбить басы можно. Работу тут во многом звук делает, не технически подкованный исполнитель. Квадратно по рифме, очень поверхностно. Два даже с натяжкой.",
-          "scoredAt": "2026-10-18T18:31:52.876Z"
         }
       ]
     }
