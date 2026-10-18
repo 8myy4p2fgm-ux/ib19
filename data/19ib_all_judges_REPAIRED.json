@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T12:52:05.476Z",
+  "exportedAt": "2026-10-18T13:02:06.743Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -18233,8 +18233,14 @@
     },
     {
       "userId": "508f1614-8910-4d21-b40b-33634c358c54",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "Слабо братик по исполнению, по тексту скучно ",
+          "scoredAt": "2026-10-18T12:55:35.690Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -18260,7 +18266,7 @@
           "scoredAt": "2026-08-30T19:50:55.491Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:31:59.721Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "Стэнд",
       "artistSlug": "stend"
@@ -19246,8 +19252,14 @@
     },
     {
       "userId": "49da9cae-791c-4cc7-80ea-03e718c300b1",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "Искусство не судится!",
+          "scoredAt": "2026-10-18T12:52:17.341Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 1,
@@ -19261,7 +19273,7 @@
           "scoredAt": "2026-10-12T12:55:52.046Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:41:58.598Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "Ансамбль \"Предметы\"",
       "artistSlug": "ansambl-predmety"
@@ -41064,8 +41076,14 @@
     },
     {
       "userId": "2f088d18-532d-4194-8623-fa28b2e3b62f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 2,
+          "comment": "Как то слабо очень, не получилось прикольно сделать, текст надо было мощный делать для таких приколюх ",
+          "scoredAt": "2026-10-18T12:57:28.632Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -41085,7 +41103,7 @@
           "scoredAt": "2026-10-08T10:12:20.750Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "ГРОМ",
       "artistSlug": "grom"
@@ -61795,8 +61813,14 @@
     },
     {
       "userId": "bb3b5c75-cb79-40c3-bb77-c979fb37ea03",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Авансом 5, рифмы подправь и строчек интересных бы тебе сюда завезти, образы у тебя есть. На рифмы тут за счет вокала закрыл глаза для начала ",
+          "scoredAt": "2026-10-18T12:54:41.929Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -61816,7 +61840,7 @@
           "scoredAt": "2026-09-25T18:57:26.275Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "INOSKE",
       "artistSlug": "inoske"
@@ -65777,8 +65801,14 @@
     },
     {
       "userId": "706f91b5-6f5b-4127-9692-d8f64f5f8307",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Скучно по исполнению, но голос красивый вопросов нету, дай эмоций и силы в голосе , сразу ярче тречок станет ",
+          "scoredAt": "2026-10-18T12:58:55.449Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -65798,7 +65828,7 @@
           "scoredAt": "2026-10-01T18:47:37.341Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "Женечка Мелкая",
       "artistSlug": "zhenechka-melkaya"
@@ -71733,8 +71763,14 @@
     },
     {
       "userId": "f833081c-c8d6-4fb1-af2d-894b65523735",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Начал с сумбурной подачи. Потом порычал. Потом опять вернулся в сумбур. Неудачные эксперименты. По тексту ничего интересного.",
+          "scoredAt": "2026-10-18T12:59:40.872Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -71748,7 +71784,7 @@
           "scoredAt": "2026-10-17T01:57:44.459Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:02:10.395Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "bigle voozy",
       "artistSlug": "bigle-voozy"
@@ -101995,8 +102031,14 @@
     },
     {
       "userId": "b446c199-c5a9-4b1f-a151-9f0393387441",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "Оч скучно, голос с битом красиво сочетается , авансом тройка. На бумбеп давай панчлайнов наваливай и технику показывай сейчас не 2016тгод всё-таки, надо разнообразие , удивлять либо строки мощный ронять ",
+          "scoredAt": "2026-10-18T13:00:53.550Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -102022,7 +102064,7 @@
           "scoredAt": "2026-10-09T20:40:48.106Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:02:26.938Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "Ptitza",
       "artistSlug": "ptitza"
@@ -104963,8 +105005,14 @@
     },
     {
       "userId": "ef8a15b9-d3ab-4364-87b0-5d7a2b6b6ad0",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Хороший тречок для отбора. Вот бы еще был не просто реп про реп, было бы вообще кайф.",
+          "scoredAt": "2026-10-18T13:01:17.476Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -104978,7 +105026,7 @@
           "scoredAt": "2026-10-07T16:59:45.356Z"
         }
       ],
-      "fetchedAt": "2026-10-14T22:52:27.606Z",
+      "fetchedAt": "2026-10-18T13:02:06.743Z",
       "current": true,
       "artistName": "Little Po",
       "artistSlug": "little-po"
