@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T20:42:12.626Z",
-  "exportedAt": "2026-10-18T20:42:12.626Z",
-  "runId": "2026-10-18T20:42:12.626Z",
-  "forumExportedAt": "2026-10-18T20:42:12.626Z",
+  "lastSuccessfulAt": "2026-10-18T20:52:09.219Z",
+  "exportedAt": "2026-10-18T20:52:09.219Z",
+  "runId": "2026-10-18T20:52:09.219Z",
+  "forumExportedAt": "2026-10-18T20:52:09.219Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13839,
+    "scores": 13841,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5164,
-    "scoresBefore": 13836,
-    "scoresAfter": 13839,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4499,
+    "scoresBefore": 13839,
+    "scoresAfter": 13841,
     "fullBaselineRequests": 3258,
-    "requestReductionPercent": 99.8465316144874,
+    "requestReductionPercent": 99.87722529158994,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Вова Против",
+          "comment": "Ну чисто на послушать можно, бодренько. В основном, за это тройбан. Очень квадратно по рифме.",
+          "scoredAt": "2026-10-18T20:43:56.852Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "НеЩиплетГлазки",
+          "comment": "Ты уже почти готов, но еще нет. Остороты не хватает и уверенности МСшной. Есть прикольных пару панчей - про трудовую рэп-книжку например или про пальцы ног. За хук завершающий произведение и его логичность я даже проходной балл поставлю, но хватит ли этого, чтобы тебе протиснуться во второй? ",
+          "scoredAt": "2026-10-18T20:43:03.780Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Гладкий",
           "comment": "прекрасный неймдропинг, ждешь раскрытия до последней строки - и оно реализовывается! Тебя интересно слушать, внимание держишь на ура, еще и поешь хорошо - это отличная заявка. ",
           "scoredAt": "2026-10-18T19:06:13.269Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "ПЕРЕКУР",
-          "comment": "19 секунд на бит заходил, че ты долгий такой. ",
-          "scoredAt": "2026-10-18T19:04:13.354Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "BIKMET",
-          "comment": "Слишком квадратно по рифме, последняя ещё и слабосозвучна, фразово без крутостей, исполнение среднячок ",
-          "scoredAt": "2026-10-18T19:01:28.461Z"
         }
       ]
     }
