@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-17T21:52:04.512Z",
-  "exportedAt": "2026-10-17T21:52:04.512Z",
-  "runId": "2026-10-17T21:52:04.512Z",
-  "forumExportedAt": "2026-10-17T21:52:04.512Z",
+  "lastSuccessfulAt": "2026-10-18T00:31:58.046Z",
+  "exportedAt": "2026-10-18T00:31:58.046Z",
+  "runId": "2026-10-18T00:31:58.046Z",
+  "forumExportedAt": "2026-10-18T00:31:58.046Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 2,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3240,
-    "scoresBefore": 13262,
+    "participantsWithNewScores": 0,
+    "changedParticipants": 0,
+    "updatedCards": 0,
+    "logicalRequests": 2,
+    "durationMs": 1862,
+    "scoresBefore": 13263,
     "scoresAfter": 13263,
     "fullBaselineRequests": 3249,
-    "requestReductionPercent": 99.90766389658357,
+    "requestReductionPercent": 99.93844259772237,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
