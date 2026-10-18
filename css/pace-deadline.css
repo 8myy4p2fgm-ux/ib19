@@ -1,4 +1,4 @@
-#dynamics .pace-metrics dd.is-forecast{font-size:clamp(15px,2vw,24px);white-space:normal;letter-spacing:0;overflow-wrap:normal}
+#dynamics .pace-metrics dd:is(.is-forecast,.is-caption){font-size:clamp(15px,2vw,24px);white-space:normal;letter-spacing:0;overflow-wrap:normal}
 #dynamics .pace-metrics>div{min-width:0}
 #dynamics .pace-metrics>div:has(#pace-needed) dt{white-space:normal}
 #dynamics #pace-needed{white-space:normal;overflow-wrap:anywhere}

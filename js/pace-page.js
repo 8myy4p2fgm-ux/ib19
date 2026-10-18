@@ -13,15 +13,13 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
  const captions={'Не успевают обхватывать':'При текущем темпе судейство не укладывается в дедлайн','Успевают':m.remaining===0?'Судейство завершено':'При текущем темпе укладываются в дедлайн','Недостаточно данных':'Недостаточно данных для уверенного прогноза'};
  const captionNode=$('pace-caption');if(captionNode)captionNode.textContent='';
  $('pace-remaining').textContent=fmt(m.remaining,0);$('pace-current').textContent=m.rate>0&&m.rate<1?'<1':fmt(m.rate,0);
- const snapshotAsOf=m.asOf;
  function refreshNeeded(){
   const now=Date.now(),expired=m.deadline!==null&&now>=m.deadline;
   const daysLeft=m.deadline===null?null:Math.max(0,(m.deadline-now)/DAY);
   const needRate=daysLeft>0?m.remaining/daysLeft:null;
   $('pace-needed-label').textContent=expired?'Прогноз завершения':'Нужно в день';
   $('pace-needed').classList.toggle('is-forecast',expired);
-  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?'да все уже':'—';
-  $('pace-needed-help').textContent=expired?'Прогноз по последним 7 полным дням на дату выгрузки '+date(snapshotAsOf)+'.':needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(daysLeft,1)+' дня до дедлайна. Нужно в среднем '+fmt(Math.ceil(needRate),0)+' в день.':'Нельзя рассчитать без актуального дедлайна.';
+  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?'смотреть 83 раза клип янг спейса':'—';
  }
  refreshNeeded();
  setInterval(refreshNeeded,1000);
