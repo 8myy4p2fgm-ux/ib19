@@ -152712,6 +152712,34 @@
         "scoredAt": "2026-10-18T23:35:45.082Z",
         "userId": "e8e32650-ed78-42c4-ac8d-1377f0311708"
       }
+    },
+    {
+      "id": "7b8442c89d54d046c9cb34eca509e15c32d105bc0eebbbda997cb486b6fb034c",
+      "observedAt": "2026-10-18T23:52:05.015Z",
+      "sourceScoredAt": "2026-10-18T23:51:24.651Z",
+      "key": "[\"4f8b4112-3810-49f6-934e-ef9e0d5575d6\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Опус на тройку. Песня-тревога.",
+        "scoredAt": "2026-10-18T23:51:24.651Z",
+        "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6"
+      }
+    },
+    {
+      "id": "7e0a8cd18ae9351d7229ec8cf0e1d0608751df83298367fcd9377de68018e349",
+      "observedAt": "2026-10-18T23:52:05.015Z",
+      "sourceScoredAt": "2026-10-18T23:49:40.714Z",
+      "key": "[\"8da8d9da-c3ed-46ff-be3e-29630c01dba8\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Не увидел связи между повторяющейся фразой в припеве и остальными строчками. Как будто просто так приплёл. И звук в какую-то кашу-малашу.",
+        "scoredAt": "2026-10-18T23:49:40.714Z",
+        "userId": "8da8d9da-c3ed-46ff-be3e-29630c01dba8"
+      }
     }
   ],
   "snapshots": [
@@ -163651,6 +163679,26 @@
           "index": 30.84851312669715,
           "favor": 17.842872849566678,
           "attention": 2.2834180549082514,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-18T23:52:05.015Z",
+      "exportedAt": "2026-10-18T23:52:05.015Z",
+      "scores": 13881,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.602990609428293,
+          "favor": 9.157784751365174,
+          "attention": 6.075342844364488,
+          "respect": 6.36986301369863
+        },
+        "veterans": {
+          "index": 30.85199134603055,
+          "favor": 17.843396866967364,
+          "attention": 2.2863722568409646,
           "respect": 10.722222222222221
         }
       }

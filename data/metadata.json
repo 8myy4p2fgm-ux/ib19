@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T23:42:07.411Z",
-  "exportedAt": "2026-10-18T23:42:07.411Z",
-  "runId": "2026-10-18T23:42:07.411Z",
-  "forumExportedAt": "2026-10-18T23:42:07.411Z",
+  "lastSuccessfulAt": "2026-10-18T23:52:05.015Z",
+  "exportedAt": "2026-10-18T23:52:05.015Z",
+  "runId": "2026-10-18T23:52:05.015Z",
+  "forumExportedAt": "2026-10-18T23:52:05.015Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13879,
+    "scores": 13881,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 5553,
-    "scoresBefore": 13876,
-    "scoresAfter": 13879,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3712,
+    "scoresBefore": 13879,
+    "scoresAfter": 13881,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.84662576687117,
+    "requestReductionPercent": 99.87730061349693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "OPUS",
+          "comment": "Опус на тройку. Песня-тревога.",
+          "scoredAt": "2026-10-18T23:51:24.651Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Axelll",
+          "comment": "Не увидел связи между повторяющейся фразой в припеве и остальными строчками. Как будто просто так приплёл. И звук в какую-то кашу-малашу.",
+          "scoredAt": "2026-10-18T23:49:40.714Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Алкогольный KILLA",
           "comment": "Рифмы в очень слабой атаке. Такое оверпацанство тоже не модно.",
           "scoredAt": "2026-10-18T22:56:48.957Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 1,
-          "artist": "!хачухачапури",
-          "comment": "Спасибо, что извинился в тексте.",
-          "scoredAt": "2026-10-18T22:54:39.996Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "АВТОР ВРЁТ",
-          "comment": "Очень угрюмо. Подгрузило. Не понравилось.",
-          "scoredAt": "2026-10-18T22:53:40.707Z"
         }
       ]
     }

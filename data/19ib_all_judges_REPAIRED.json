@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T23:42:07.411Z",
+  "exportedAt": "2026-10-18T23:52:05.015Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -22922,8 +22922,14 @@
     },
     {
       "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Опус на тройку. Песня-тревога.",
+          "scoredAt": "2026-10-18T23:51:24.651Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -22949,7 +22955,7 @@
           "scoredAt": "2026-10-13T13:19:24.824Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:42:35.539Z",
+      "fetchedAt": "2026-10-18T23:52:05.015Z",
       "current": true,
       "artistName": "OPUS",
       "artistSlug": "opus"
@@ -103182,8 +103188,14 @@
     },
     {
       "userId": "8da8d9da-c3ed-46ff-be3e-29630c01dba8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Не увидел связи между повторяющейся фразой в припеве и остальными строчками. Как будто просто так приплёл. И звук в какую-то кашу-малашу.",
+          "scoredAt": "2026-10-18T23:49:40.714Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -103209,7 +103221,7 @@
           "scoredAt": "2026-10-16T00:26:31.717Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-18T23:52:05.015Z",
       "current": true,
       "artistName": "Axelll",
       "artistSlug": "axelll"
