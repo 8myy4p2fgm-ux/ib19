@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T19:02:08.741Z",
+  "exportedAt": "2026-10-18T19:12:08.202Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -83647,8 +83647,14 @@
     },
     {
       "userId": "d882607b-3374-4422-bc86-59b9d322bf32",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Пирог меня не покорил. Ну прикольно, да, но так чисто шутка ради шутки, можно сказать. В остальном серовато, по рифме много квадратов, даже глаголы мелькнули",
+          "scoredAt": "2026-10-18T19:10:48.526Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -83674,7 +83680,7 @@
           "scoredAt": "2026-10-16T07:06:35.875Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:52:22.726Z",
+      "fetchedAt": "2026-10-18T19:12:08.202Z",
       "current": true,
       "artistName": "NoReason",
       "artistSlug": "noreason"
@@ -92440,8 +92446,14 @@
     },
     {
       "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "19 секунд на бит заходил, че ты долгий такой. ",
+          "scoredAt": "2026-10-18T19:04:13.354Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -92455,7 +92467,7 @@
           "scoredAt": "2026-10-17T09:11:47.578Z"
         }
       ],
-      "fetchedAt": "2026-10-17T18:52:11.504Z",
+      "fetchedAt": "2026-10-18T19:12:08.202Z",
       "current": true,
       "artistName": "ПЕРЕКУР",
       "artistSlug": "perekur"
@@ -95200,8 +95212,14 @@
     },
     {
       "userId": "db7f88bd-1546-40ae-ad36-73e006ce3ba7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "прекрасный неймдропинг, ждешь раскрытия до последней строки - и оно реализовывается! Тебя интересно слушать, внимание держишь на ура, еще и поешь хорошо - это отличная заявка. ",
+          "scoredAt": "2026-10-18T19:06:13.269Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -95221,7 +95239,7 @@
           "scoredAt": "2026-10-09T09:32:22.163Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:02:15.893Z",
+      "fetchedAt": "2026-10-18T19:12:08.202Z",
       "current": true,
       "artistName": "Гладкий",
       "artistSlug": "gladkiy"
@@ -107450,8 +107468,14 @@
     },
     {
       "userId": "882e4121-720a-4b1e-9f9e-00d8e9e93708",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Есть шероховатости по текстопостроению, по исполнению тоже не все идеально, но какой-то ты живой и искренний и трек твой бодрый. Скорее 4 чем 3.",
+          "scoredAt": "2026-10-18T19:08:15.516Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -107477,7 +107501,7 @@
           "scoredAt": "2026-10-11T17:54:39.442Z"
         }
       ],
-      "fetchedAt": "2026-10-16T09:22:27.319Z",
+      "fetchedAt": "2026-10-18T19:12:08.202Z",
       "current": true,
       "artistName": "katoriy",
       "artistSlug": "katoriy"
