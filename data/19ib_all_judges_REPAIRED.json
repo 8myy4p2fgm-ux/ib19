@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-18T20:52:09.219Z",
+  "exportedAt": "2026-10-18T21:02:08.235Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -58548,8 +58548,14 @@
     },
     {
       "userId": "5e90fca2-5599-4306-99e4-409ea5c76a68",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "\"и вряд ли Я то там пройду отбор и дАже первый круг\" - да ты тут треть участников могнул. Есть шероховатости, но не критичные. Ждем во втором. Хорошо, что принял решение вернуться",
+          "scoredAt": "2026-10-18T21:00:03.300Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -58575,7 +58581,7 @@
           "scoredAt": "2026-10-13T22:00:10.966Z"
         }
       ],
-      "fetchedAt": "2026-10-18T11:32:14.136Z",
+      "fetchedAt": "2026-10-18T21:02:08.235Z",
       "current": true,
       "artistName": "Propel",
       "artistSlug": "propel"
@@ -99601,8 +99607,14 @@
     },
     {
       "userId": "fd754e1b-847b-4eda-83f9-a6020d29a491",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Неоднозначная история, но и по подаче пока вопросы огромные. Возвращайся на след сезон",
+          "scoredAt": "2026-10-18T20:56:44.086Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 1,
@@ -99622,7 +99634,7 @@
           "scoredAt": "2026-10-12T17:07:47.353Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:32:11.939Z",
+      "fetchedAt": "2026-10-18T21:02:08.235Z",
       "current": true,
       "artistName": "Стокгольмский Синдром",
       "artistSlug": "stokgolmskiy-sindrom"
