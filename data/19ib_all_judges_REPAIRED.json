@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T07:02:10.147Z",
+  "exportedAt": "2026-10-19T07:12:10.189Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -83167,8 +83167,14 @@
     },
     {
       "userId": "db807a0d-d7c4-46f0-8670-86de97f4cab1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Подача в этот раз странная какая-то, ощущение, что это надо было под гитарку реализовывать подобное. Минус еще вязкий, ты в нем тонешь, возможно, сведение дает такой эффект",
+          "scoredAt": "2026-10-19T07:11:54.734Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -83194,7 +83200,7 @@
           "scoredAt": "2026-09-23T20:17:34.697Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:32:28.888Z",
+      "fetchedAt": "2026-10-19T07:12:10.189Z",
       "current": true,
       "artistName": "ANKASAT",
       "artistSlug": "ankasat"

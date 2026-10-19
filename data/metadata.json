@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T07:02:10.147Z",
-  "exportedAt": "2026-10-19T07:02:10.147Z",
-  "runId": "2026-10-19T07:02:10.147Z",
-  "forumExportedAt": "2026-10-19T07:02:10.147Z",
+  "lastSuccessfulAt": "2026-10-19T07:12:10.189Z",
+  "exportedAt": "2026-10-19T07:12:10.189Z",
+  "runId": "2026-10-19T07:12:10.189Z",
+  "forumExportedAt": "2026-10-19T07:12:10.189Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13922,
+    "scores": 13923,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 3,
-    "durationMs": 3030,
-    "scoresBefore": 13921,
-    "scoresAfter": 13922,
+    "durationMs": 3035,
+    "scoresBefore": 13922,
+    "scoresAfter": 13923,
     "fullBaselineRequests": 3261,
     "requestReductionPercent": 99.90800367985281,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "ANKASAT",
+          "comment": "Подача в этот раз странная какая-то, ощущение, что это надо было под гитарку реализовывать подобное. Минус еще вязкий, ты в нем тонешь, возможно, сведение дает такой эффект",
+          "scoredAt": "2026-10-19T07:11:54.734Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -182,13 +189,6 @@
           "artist": "дауни младший",
           "comment": "",
           "scoredAt": "2026-10-19T04:58:47.288Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "three50",
-          "comment": "",
-          "scoredAt": "2026-10-19T04:58:27.399Z"
         }
       ]
     }
