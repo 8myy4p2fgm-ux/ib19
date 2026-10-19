@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T22:52:12.693Z",
-  "exportedAt": "2026-10-19T22:52:12.693Z",
-  "runId": "2026-10-19T22:52:12.693Z",
-  "forumExportedAt": "2026-10-19T22:52:12.693Z",
+  "lastSuccessfulAt": "2026-10-19T23:52:07.123Z",
+  "exportedAt": "2026-10-19T23:52:07.123Z",
+  "runId": "2026-10-19T23:52:07.123Z",
+  "forumExportedAt": "2026-10-19T23:52:07.123Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14680,
+    "scores": 14681,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 4639,
-    "scoresBefore": 14679,
-    "scoresAfter": 14680,
+    "durationMs": 4105,
+    "scoresBefore": 14680,
+    "scoresAfter": 14681,
     "fullBaselineRequests": 3271,
     "requestReductionPercent": 99.87771323754203,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "Vasya Sumirai",
+          "comment": "Из нормального пока можно отметить только уверенную подачу и мб еще настрой. По доброте душевной заявка на вытянутую тройку, буквально выглядывающую одним пикселем из преисподней. Больше уделяй внимания тексту и идее, для бэттла с 3200+ участниками, очень серо и не технично.",
+          "scoredAt": "2026-10-19T23:52:03.274Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -191,13 +198,6 @@
           "artist": "LittleKri",
           "comment": "Очень плохо по рифмам( работай с этим в первую очередь",
           "scoredAt": "2026-10-19T22:01:45.800Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "ядеркола",
-          "comment": "Ну не постарался совсем на записи, а так то шаришь.. слушается. Поднял до 3. ",
-          "scoredAt": "2026-10-19T22:00:59.275Z"
         }
       ]
     }
