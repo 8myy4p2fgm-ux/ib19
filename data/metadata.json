@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T05:42:04.793Z",
-  "exportedAt": "2026-10-19T05:42:04.793Z",
-  "runId": "2026-10-19T05:42:04.793Z",
-  "forumExportedAt": "2026-10-19T05:42:04.793Z",
+  "lastSuccessfulAt": "2026-10-19T05:52:10.093Z",
+  "exportedAt": "2026-10-19T05:52:10.093Z",
+  "runId": "2026-10-19T05:52:10.093Z",
+  "forumExportedAt": "2026-10-19T05:52:10.093Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13916,
+    "scores": 13920,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3189,
-    "scoresBefore": 13915,
-    "scoresAfter": 13916,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 5797,
+    "scoresBefore": 13916,
+    "scoresAfter": 13920,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.9079754601227,
+    "requestReductionPercent": 99.8159509202454,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "БЗП",
+          "comment": "немного неказисто начитываешь, по раскладкам.\nИ интонации кривовато юзаешь, во 2 поработай над треком получше. ",
+          "scoredAt": "2026-10-19T05:51:37.113Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Platinum 900",
+          "comment": "",
+          "scoredAt": "2026-10-19T05:50:17.792Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "GARNIY",
+          "comment": "Половина слов невнятные вообще, во 2 удели этому внимание \nи рифмы король-ноль дичь \nНо идейно, натяну повыше бал для шанса прохода. ",
+          "scoredAt": "2026-10-19T05:46:33.373Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Кевин Халф",
+          "comment": "",
+          "scoredAt": "2026-10-19T05:45:23.589Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -161,34 +189,6 @@
           "artist": "Heeeybro",
           "comment": "",
           "scoredAt": "2026-10-19T04:57:43.743Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "КириллБезМефодия",
-          "comment": "",
-          "scoredAt": "2026-10-19T04:57:27.614Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "herobrine",
-          "comment": "",
-          "scoredAt": "2026-10-19T04:57:07.833Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "DRUNKROMANTIC",
-          "comment": "Рифмы депрессивные. Мелизм клёвый. Текста мало. Читка чёткая.",
-          "scoredAt": "2026-10-19T01:18:10.828Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "SNK",
-          "comment": "Хорошее рассуждение. Качественный звук. В подаче есть фирмачество. Собачка была лишней.",
-          "scoredAt": "2026-10-19T01:15:13.429Z"
         }
       ]
     }

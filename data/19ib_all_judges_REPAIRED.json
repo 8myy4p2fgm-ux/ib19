@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T05:42:04.793Z",
+  "exportedAt": "2026-10-19T05:52:10.093Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -32360,8 +32360,14 @@
     },
     {
       "userId": "71b60ba8-d8d8-49b4-98ee-f516330bff05",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "немного неказисто начитываешь, по раскладкам.\nИ интонации кривовато юзаешь, во 2 поработай над треком получше. ",
+          "scoredAt": "2026-10-19T05:51:37.113Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -32381,7 +32387,7 @@
           "scoredAt": "2026-10-06T14:42:00.310Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:02:20.053Z",
+      "fetchedAt": "2026-10-19T05:52:10.093Z",
       "current": true,
       "artistName": "БЗП",
       "artistSlug": "bzp"
@@ -52992,8 +52998,14 @@
     },
     {
       "userId": "ca74a7ac-1665-42d9-86e9-5a751ba8c17f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Половина слов невнятные вообще, во 2 удели этому внимание \nи рифмы король-ноль дичь \nНо идейно, натяну повыше бал для шанса прохода. ",
+          "scoredAt": "2026-10-19T05:46:33.373Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -53007,7 +53019,7 @@
           "scoredAt": "2026-09-14T16:16:52.811Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T05:52:10.093Z",
       "current": true,
       "artistName": "GARNIY",
       "artistSlug": "garniy"
@@ -63254,8 +63266,14 @@
     },
     {
       "userId": "f3da19b4-dcd9-4be4-a1cf-7bf91d967e4e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-19T05:45:23.589Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -63281,7 +63299,7 @@
           "scoredAt": "2026-10-12T10:11:35.267Z"
         }
       ],
-      "fetchedAt": "2026-10-18T03:22:02.667Z",
+      "fetchedAt": "2026-10-19T05:52:10.093Z",
       "current": true,
       "artistName": "Кевин Халф",
       "artistSlug": "kevin-half"
@@ -110942,8 +110960,14 @@
     },
     {
       "userId": "854b38cc-1064-4587-b12f-401d2a0e0608",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-19T05:50:17.792Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -110951,7 +110975,7 @@
           "scoredAt": "2026-10-17T17:29:09.798Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:32:06.962Z",
+      "fetchedAt": "2026-10-19T05:52:10.093Z",
       "current": true,
       "artistName": "Platinum 900",
       "artistSlug": "platinum-900"
