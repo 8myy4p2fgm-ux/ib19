@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-18T23:52:05.015Z",
-  "exportedAt": "2026-10-18T23:52:05.015Z",
-  "runId": "2026-10-18T23:52:05.015Z",
-  "forumExportedAt": "2026-10-18T23:52:05.015Z",
+  "lastSuccessfulAt": "2026-10-19T00:02:03.454Z",
+  "exportedAt": "2026-10-19T00:02:03.454Z",
+  "runId": "2026-10-19T00:02:03.454Z",
+  "forumExportedAt": "2026-10-19T00:02:03.454Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13881,
+    "scores": 13883,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 3712,
-    "scoresBefore": 13879,
-    "scoresAfter": 13881,
+    "durationMs": 3698,
+    "scoresBefore": 13881,
+    "scoresAfter": 13883,
     "fullBaselineRequests": 3260,
     "requestReductionPercent": 99.87730061349693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "LIL PRORAB",
+          "comment": "Рифмы на глаголы меня прямо соКРУШИЛИ. Зря ты это уСТРОИЛ. Читаешь точно сильнее, чем тройка, но последний квадрат не оставляет выбора.",
+          "scoredAt": "2026-10-18T23:56:36.184Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "МцБитцаВздумал",
+          "comment": "Есть в этом что-то. Настоящий ты.",
+          "scoredAt": "2026-10-18T23:53:17.973Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Юрась",
           "comment": "Первые две рифмы просто потрясающие. Неоригинальное раскрытие: несколько сотен участников сделали примерно то же самое. Читка – слабовата, качество – шакальное.",
           "scoredAt": "2026-10-18T23:01:46.255Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Дима Джуз",
-          "comment": "Зачем тебе нужно, чтобы все узнали о баттле? Попробуй дойди до парных и справься сначала с теми, кто сдал.",
-          "scoredAt": "2026-10-18T22:58:52.118Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Алкогольный KILLA",
-          "comment": "Рифмы в очень слабой атаке. Такое оверпацанство тоже не модно.",
-          "scoredAt": "2026-10-18T22:56:48.957Z"
         }
       ]
     }
