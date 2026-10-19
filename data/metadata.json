@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T00:52:15.405Z",
-  "exportedAt": "2026-10-19T00:52:15.405Z",
-  "runId": "2026-10-19T00:52:15.405Z",
-  "forumExportedAt": "2026-10-19T00:52:15.405Z",
+  "lastSuccessfulAt": "2026-10-19T01:02:02.824Z",
+  "exportedAt": "2026-10-19T01:02:02.824Z",
+  "runId": "2026-10-19T01:02:02.824Z",
+  "forumExportedAt": "2026-10-19T01:02:02.824Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13896,
+    "scores": 13898,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 2,
     "changedParticipants": 2,
     "logicalRequests": 4,
-    "durationMs": 4187,
-    "scoresBefore": 13894,
-    "scoresAfter": 13896,
+    "durationMs": 4143,
+    "scoresBefore": 13896,
+    "scoresAfter": 13898,
     "fullBaselineRequests": 3260,
     "requestReductionPercent": 99.87730061349693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "шумнафоне",
+          "comment": "Читка отдаёт каким-то юношеством, наивностью. Пресноватая работа. Знаешь, как зайти в раунд, с моей точки зрения, хорошистом.",
+          "scoredAt": "2026-10-19T00:59:50.594Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "AntonDevik [ЧБ]",
+          "comment": "Как же ты раздаёшь! Строчка «ведь врать не хорошо, пиздеть надо осознанно» меня покорила. Только на рифмы в последней четвёрке и паре мест прям наплевал. Прощаю на первый раз̶унд.",
+          "scoredAt": "2026-10-19T00:54:49.061Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Articoola",
           "comment": "Если бы Максим Вердикт сдал трэк на батол... Округлю до четвёрки за старания, но исполнение какое-то сырое: вроде разнообразно и динамично, но не живёшь вместе с музыкой, интонации порой несуразные, а эти «эй-эй» какие-то дурацкие.",
           "scoredAt": "2026-10-19T00:03:33.839Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "LIL PRORAB",
-          "comment": "Рифмы на глаголы меня прямо соКРУШИЛИ. Зря ты это уСТРОИЛ. Читаешь точно сильнее, чем тройка, но последний квадрат не оставляет выбора.",
-          "scoredAt": "2026-10-18T23:56:36.184Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "МцБитцаВздумал",
-          "comment": "Есть в этом что-то. Настоящий ты.",
-          "scoredAt": "2026-10-18T23:53:17.973Z"
         }
       ]
     }
