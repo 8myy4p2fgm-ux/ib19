@@ -163394,6 +163394,216 @@
         "scoredAt": "2026-10-19T21:40:04.416Z",
         "userId": "b03d6fe3-801c-405b-8532-5e8cdf263ff0"
       }
+    },
+    {
+      "id": "ddb43526038f2fb6c883cf5c1910dba56ac8d415cc4cfeaa522aa8d54867f7f0",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:50:53.504Z",
+      "key": "[\"83cd23d9-74d6-4ecb-a0bc-b934f4770d6f\",\"Мультифрукт\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Мультифрукт",
+        "score": 4,
+        "comment": "Что будет, если скрестить Playingtheangel и Каспийский Груз?\n\nВообще, стилек и правда угарный, хочется только к этому всему текстулей еще больше наполненнных всякими строчками крутецкими. Был бы такой же стилек с угарным текстом - поставил бы 5, наверно.",
+        "scoredAt": "2026-10-19T21:50:53.504Z",
+        "userId": "83cd23d9-74d6-4ecb-a0bc-b934f4770d6f"
+      }
+    },
+    {
+      "id": "b2d8c054df593aa620ce28de0904efc6176e470305b2544b8c308ccc5d0397ed",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:49:49.019Z",
+      "key": "[\"83a1514e-7527-47ed-a971-6120ed27644e\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 4,
+        "comment": "Регулярная смена конструкций - однозначный плюс. По тексту надо, стоило побольше. ",
+        "scoredAt": "2026-10-19T21:49:49.019Z",
+        "userId": "83a1514e-7527-47ed-a971-6120ed27644e"
+      }
+    },
+    {
+      "id": "25ba810dedd3a6e3f3df79cc6c6c7bdc7b629e7845663cae20839fea57263dd6",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:51:05.787Z",
+      "key": "[\"c0088173-abe0-4e33-be7d-b435b7228cc0\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Очень жирный звук. Круто делаешь, это и есть баттл-рэп. 👍",
+        "scoredAt": "2026-10-19T21:51:05.787Z",
+        "userId": "c0088173-abe0-4e33-be7d-b435b7228cc0"
+      }
+    },
+    {
+      "id": "7031b158ef25058e9654bd78eb5b8248eb86e3423421b1e96cf0a3c966a1807d",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:52:13.384Z",
+      "key": "[\"060eeb25-6e0c-4f2f-843e-954e659adb89\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Насиловал иконы? Ладно...\n",
+        "scoredAt": "2026-10-19T21:52:13.384Z",
+        "userId": "060eeb25-6e0c-4f2f-843e-954e659adb89"
+      }
+    },
+    {
+      "id": "f83cbe9db359d8edee02f75f7d79315fd631025b70af91c5181c20ea77e89a9f",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:44:50.311Z",
+      "key": "[\"7335806f-1cf9-4168-9eec-770830bab624\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Если это фристайл, то нормально.",
+        "scoredAt": "2026-10-19T21:44:50.311Z",
+        "userId": "7335806f-1cf9-4168-9eec-770830bab624"
+      }
+    },
+    {
+      "id": "71527e8f09f84d3b79dc5ed311db3a6e46f5cd40e8f7d9d6e1d16fbeeaa96d9b",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:44:13.562Z",
+      "key": "[\"9cfa5170-043b-49e6-9518-1c67303a34d7\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Это 3, но не прям уверенная.",
+        "scoredAt": "2026-10-19T21:44:13.562Z",
+        "userId": "9cfa5170-043b-49e6-9518-1c67303a34d7"
+      }
+    },
+    {
+      "id": "b6d4b611a04a7df0329fe9cd4d8ca97d8874ecf0052feccfb0cf0cba391f119f",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:43:04.139Z",
+      "key": "[\"d5ca310a-1a20-427e-8a46-1e5e286b2521\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Голос поставленный, но попробуй покрутить с разнообразием конструкции текста, а то много частушечности. ",
+        "scoredAt": "2026-10-19T21:43:04.139Z",
+        "userId": "d5ca310a-1a20-427e-8a46-1e5e286b2521"
+      }
+    },
+    {
+      "id": "f30b27775f63b937d82dfdac20fe28ecdf049b5748c27ead60cca748f2dc0d01",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:46:14.876Z",
+      "key": "[\"d70284d7-3a6f-4a62-a8a1-394fb9964436\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Бля, реально частушки))))))))))))))\nЭто смешно)))) если ты дойдёшь до парных и попадёшь на Трула, это будет лучшая пар)",
+        "scoredAt": "2026-10-19T21:46:14.876Z",
+        "userId": "d70284d7-3a6f-4a62-a8a1-394fb9964436"
+      }
+    },
+    {
+      "id": "38bacb00380bc38e7fe9ec00340df5a06d301059881f1e073e50b5411b2d6f38",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:50:10.509Z",
+      "key": "[\"15677de1-5bbb-4611-a44d-ad5e5e92509e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Уверенно зачитал, сильно ровно, но для первого раунда ок.",
+        "scoredAt": "2026-10-19T21:50:10.509Z",
+        "userId": "15677de1-5bbb-4611-a44d-ad5e5e92509e"
+      }
+    },
+    {
+      "id": "7d667c8e8b3e10d38bbe382184befbd9b832ae26cf24020db099013636d3af7d",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:47:34.476Z",
+      "key": "[\"86b6e317-c979-4e42-85cc-c4a05e2368ad\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "ооо, кому-то, кроме меня, теперь можно написать коммент, что : похоже на Нойзе МС)  \nкрути технику и конструкцию, понимание рифм у тебя есть ",
+        "scoredAt": "2026-10-19T21:47:34.476Z",
+        "userId": "86b6e317-c979-4e42-85cc-c4a05e2368ad"
+      }
+    },
+    {
+      "id": "e3cad329f44b054983914a7ad45549c2526713539b9c6d9722008c37e5afcb2f",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:47:20.995Z",
+      "key": "[\"83d8f01d-7dcf-41cf-a48a-4fa468070460\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": " VRS это ты?) Почему не записал качественно? По тексту хорошо сделал.",
+        "scoredAt": "2026-10-19T21:47:20.995Z",
+        "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460"
+      }
+    },
+    {
+      "id": "dae0cc3dbf09a71d2a7819ef802fd6bfba5e4a1ca71b5ba61bb0d46a6a8bdcd3",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:46:15.445Z",
+      "key": "[\"15510c9a-614c-4e61-8a0d-f52bba52613d\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Рифмы простенькие местами, но мне нравится как работаешь с голосом, опыт прям виден! Надо было в теме сильнее работать. ",
+        "scoredAt": "2026-10-19T21:46:15.445Z",
+        "userId": "15510c9a-614c-4e61-8a0d-f52bba52613d"
+      }
+    },
+    {
+      "id": "9140075d9f4d999707f22eb9038d831fc740df920b4edc6b8589cf76e23fb97f",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:43:22.665Z",
+      "key": "[\"0f0fe96f-2f67-427b-b17d-18e15b81c217\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Как же ты меня разъебал сменой минуса)))) я бы поставил 5 за этот неожиданный мув, но это будет не честно по отношению к другим участникам.",
+        "scoredAt": "2026-10-19T21:43:22.665Z",
+        "userId": "0f0fe96f-2f67-427b-b17d-18e15b81c217"
+      }
+    },
+    {
+      "id": "9c847de0abc17fc6043535422001b79ea763fde656acec21c5bcab94c4955fa1",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:51:15.000Z",
+      "key": "[\"e57716ee-295d-4bd4-8f32-0af99950653b\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Ну забавно, в целом) \nна лайте конечно нарифмовал, но забавно) ",
+        "scoredAt": "2026-10-19T21:51:15.000Z",
+        "userId": "e57716ee-295d-4bd4-8f32-0af99950653b"
+      }
+    },
+    {
+      "id": "f890ae07b3cc870f356c927c92ec1bcd5a8ca9778f0c0e401c41bbfc8d5564c7",
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "sourceScoredAt": "2026-10-19T21:48:42.942Z",
+      "key": "[\"7917d414-86c8-4c22-accc-466c364ac2f8\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 4,
+        "comment": "о, первый квадрат и мне уже понравился по тексту.. наверное техники добавить, а так - круто. ",
+        "scoredAt": "2026-10-19T21:48:42.942Z",
+        "userId": "7917d414-86c8-4c22-accc-466c364ac2f8"
+      }
     }
   ],
   "snapshots": [
@@ -175234,6 +175444,26 @@
           "favor": 18.122208780570315,
           "attention": 3.1144747089583187,
           "respect": 10.784671532846716
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T21:52:26.085Z",
+      "exportedAt": "2026-10-19T21:52:26.085Z",
+      "scores": 14651,
+      "selectionVersion": "7970e1c027adab47167f6ebb675c2d8e3756a9719b609b49d0be07fb1c5dfb55",
+      "indices": {
+        "forum": {
+          "index": 21.109453759775402,
+          "favor": 9.040970970528889,
+          "attention": 5.830859026870275,
+          "respect": 6.237623762376238
+        },
+        "veterans": {
+          "index": 31.718942317506176,
+          "favor": 18.070695238751465,
+          "attention": 2.8873775135373188,
+          "respect": 10.76086956521739
         }
       }
     }
