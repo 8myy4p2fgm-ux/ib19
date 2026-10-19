@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T07:12:10.189Z",
-  "exportedAt": "2026-10-19T07:12:10.189Z",
-  "runId": "2026-10-19T07:12:10.189Z",
-  "forumExportedAt": "2026-10-19T07:12:10.189Z",
+  "lastSuccessfulAt": "2026-10-19T07:22:11.690Z",
+  "exportedAt": "2026-10-19T07:22:11.690Z",
+  "runId": "2026-10-19T07:22:11.690Z",
+  "forumExportedAt": "2026-10-19T07:22:11.690Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13923,
+    "scores": 13925,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3035,
-    "scoresBefore": 13922,
-    "scoresAfter": 13923,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4383,
+    "scoresBefore": 13923,
+    "scoresAfter": 13925,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.90800367985281,
+    "requestReductionPercent": 99.87733823980373,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "artist": "ПОЦАРАПАННЫЙ БОНГОМ",
+          "comment": "Нам не спасти этот грёбаный мир —\nИ что тут правда? Спроси у ИИ (с) вооо, какому надо это судье попало. Звучит менее идеально, чем предполагает стиль (мало времени было на создание, возможно). Прекрасное раскрытие, хочется и интересно слушать. Тембр голоса хорош и подходит сюда + легкость исполнения. С кайфом несколько раз послушала. ",
+          "scoredAt": "2026-10-19T07:19:44.195Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Карл Собакин",
+          "comment": "Сложная ситуация. С одной стороны понятно, что ты очень неплох в исполнении, необходимый эффект уверенности в голосе присутствует. Но текст это же вода-водичка, ни одного панча, ни одной запоминающейся строки + очень банальная рифма",
+          "scoredAt": "2026-10-19T07:15:14.563Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "weekds",
           "comment": "",
           "scoredAt": "2026-10-19T04:59:29.865Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "ОСУШИТЕЛЬ КИСОК 2010",
-          "comment": "поменьше грязи в некст раунде, если пройдёшь ",
-          "scoredAt": "2026-10-19T04:59:13.624Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "дауни младший",
-          "comment": "",
-          "scoredAt": "2026-10-19T04:58:47.288Z"
         }
       ]
     }
