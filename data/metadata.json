@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T08:02:20.242Z",
-  "exportedAt": "2026-10-19T08:02:20.242Z",
-  "runId": "2026-10-19T08:02:20.242Z",
-  "forumExportedAt": "2026-10-19T08:02:20.242Z",
+  "lastSuccessfulAt": "2026-10-19T08:12:13.658Z",
+  "exportedAt": "2026-10-19T08:12:13.658Z",
+  "runId": "2026-10-19T08:12:13.658Z",
+  "forumExportedAt": "2026-10-19T08:12:13.658Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13938,
+    "scores": 13940,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 9,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 9,
-    "logicalRequests": 11,
-    "durationMs": 11442,
-    "scoresBefore": 13929,
-    "scoresAfter": 13938,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4225,
+    "scoresBefore": 13938,
+    "scoresAfter": 13940,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.6626801594603,
+    "requestReductionPercent": 99.87733823980373,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Генацидов",
+          "comment": "Очень дефолтно бро по исполнению, не хватило где-то с ритмикой поиграться, можно было ну хотя бы беки по ярче сделать) по тексту +- норм",
+          "scoredAt": "2026-10-19T08:06:55.849Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "Monotonn",
+          "comment": "По флоу не плохо, но не хватило разнообразия какого-то треку, где-то можно было и с рифмой и с ритмикой поиграть, в целом средняк",
+          "scoredAt": "2026-10-19T08:03:44.795Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "В этом нету радости",
           "comment": "я дам тебе свободу мой поп фильтр носок (с) очень даже жизненные ситуации описал! Возможно, просела некая цельность и общность всех раскрытий, но все исполнил хорошо, есть панчики, идея ясна. Беги во второй. ",
           "scoredAt": "2026-10-19T07:25:38.609Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "artist": "ПОЦАРАПАННЫЙ БОНГОМ",
-          "comment": "Нам не спасти этот грёбаный мир —\nИ что тут правда? Спроси у ИИ (с) вооо, какому надо это судье попало. Звучит менее идеально, чем предполагает стиль (мало времени было на создание, возможно). Прекрасное раскрытие, хочется и интересно слушать. Тембр голоса хорош и подходит сюда + легкость исполнения. С кайфом несколько раз послушала. ",
-          "scoredAt": "2026-10-19T07:19:44.195Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Карл Собакин",
-          "comment": "Сложная ситуация. С одной стороны понятно, что ты очень неплох в исполнении, необходимый эффект уверенности в голосе присутствует. Но текст это же вода-водичка, ни одного панча, ни одной запоминающейся строки + очень банальная рифма",
-          "scoredAt": "2026-10-19T07:15:14.563Z"
         }
       ]
     }

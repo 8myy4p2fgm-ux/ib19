@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T08:02:20.242Z",
+  "exportedAt": "2026-10-19T08:12:13.658Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -110893,8 +110893,14 @@
     },
     {
       "userId": "b2e03187-2b69-46f6-8d77-4b59e74dc912",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "По флоу не плохо, но не хватило разнообразия какого-то треку, где-то можно было и с рифмой и с ритмикой поиграть, в целом средняк",
+          "scoredAt": "2026-10-19T08:03:44.795Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -110920,7 +110926,7 @@
           "scoredAt": "2026-09-19T21:45:12.496Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:22:24.346Z",
+      "fetchedAt": "2026-10-19T08:12:13.658Z",
       "current": true,
       "artistName": "Monotonn",
       "artistSlug": "monotonn"
@@ -116045,8 +116051,14 @@
     },
     {
       "userId": "6f581193-4f8d-4e45-9788-571173a67eac",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Очень дефолтно бро по исполнению, не хватило где-то с ритмикой поиграться, можно было ну хотя бы беки по ярче сделать) по тексту +- норм",
+          "scoredAt": "2026-10-19T08:06:55.849Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -116060,7 +116072,7 @@
           "scoredAt": "2026-10-12T09:16:52.057Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:42:01.082Z",
+      "fetchedAt": "2026-10-19T08:12:13.658Z",
       "current": true,
       "artistName": "Генацидов",
       "artistSlug": "genacidov"
