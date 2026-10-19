@@ -154490,6 +154490,62 @@
         "scoredAt": "2026-10-19T10:08:12.716Z",
         "userId": "3e9eae43-0127-4e20-87da-27a5ef293dd2"
       }
+    },
+    {
+      "id": "2fde7e8ef8aed122590baf19f6af55d2cff5919ca19b53091b7f78e642cb847a",
+      "observedAt": "2026-10-19T10:22:10.536Z",
+      "sourceScoredAt": "2026-10-19T10:17:22.717Z",
+      "key": "[\"bd3ef19a-0240-478c-8c86-49d04a729f01\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Короче ритмику чувствуешь, есть подача пойдет, хоть местами не додал напора, ну и местами рифма конечно такое себе",
+        "scoredAt": "2026-10-19T10:17:22.717Z",
+        "userId": "bd3ef19a-0240-478c-8c86-49d04a729f01"
+      }
+    },
+    {
+      "id": "09ca6ce58c6b19d65928f93f15e83f16cf1484e3bf6964b02b7b5e73c255ba4d",
+      "observedAt": "2026-10-19T10:22:10.536Z",
+      "sourceScoredAt": "2026-10-19T10:16:03.361Z",
+      "key": "[\"c982c476-9425-422b-829a-1f606527624d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом звучишь уверенно, но вот высокие частоты в голосе режет ухо.",
+        "scoredAt": "2026-10-19T10:16:03.361Z",
+        "userId": "c982c476-9425-422b-829a-1f606527624d"
+      }
+    },
+    {
+      "id": "ddce54635ff298b0f005faaa0d3596ba8ed1c24521c295f3db425e5f69919a18",
+      "observedAt": "2026-10-19T10:22:10.536Z",
+      "sourceScoredAt": "2026-10-19T10:18:58.388Z",
+      "key": "[\"0cc0e8fa-dd57-471a-8efa-963cef3670ab\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Голос сильно утоплен в бите без текста не всё бы понял в треке если слушал просто идя куда-то, хотя вроде есть чувство у тебя такого стилька.... Но увы больше дать не смогу",
+        "scoredAt": "2026-10-19T10:18:58.388Z",
+        "userId": "0cc0e8fa-dd57-471a-8efa-963cef3670ab"
+      }
+    },
+    {
+      "id": "53448a2238b1e07bc9c2e4cd39a63f98d3c7e75a3a51585bbb1932463abfe951",
+      "observedAt": "2026-10-19T10:22:10.536Z",
+      "sourceScoredAt": "2026-10-19T10:12:39.187Z",
+      "key": "[\"737ff124-5087-4a9d-862c-80dd699f11d2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Оке по тексту нормас, вроде слышно интонирование делаешь, ритмику тоже но вот ов подруинивает качество как упакован голос, фикси ",
+        "scoredAt": "2026-10-19T10:12:39.187Z",
+        "userId": "737ff124-5087-4a9d-862c-80dd699f11d2"
+      }
     }
   ],
   "snapshots": [
@@ -166129,6 +166185,26 @@
           "index": 30.922358633931946,
           "favor": 17.92552165062131,
           "attention": 2.243160512722403,
+          "respect": 10.753676470588236
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T10:22:10.536Z",
+      "exportedAt": "2026-10-19T10:22:10.536Z",
+      "scores": 14010,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.360226583659916,
+          "favor": 9.046917577562608,
+          "attention": 6.008224260334595,
+          "respect": 6.305084745762712
+        },
+        "veterans": {
+          "index": 30.935109893671182,
+          "favor": 17.927635484062442,
+          "attention": 2.2537979390205036,
           "respect": 10.753676470588236
         }
       }

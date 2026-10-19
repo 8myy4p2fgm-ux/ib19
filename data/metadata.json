@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T10:12:11.178Z",
-  "exportedAt": "2026-10-19T10:12:11.178Z",
-  "runId": "2026-10-19T10:12:11.178Z",
-  "forumExportedAt": "2026-10-19T10:12:11.178Z",
+  "lastSuccessfulAt": "2026-10-19T10:22:10.536Z",
+  "exportedAt": "2026-10-19T10:22:10.536Z",
+  "runId": "2026-10-19T10:22:10.536Z",
+  "forumExportedAt": "2026-10-19T10:22:10.536Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 14006,
+    "scores": 14010,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4029,
-    "scoresBefore": 14004,
-    "scoresAfter": 14006,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6486,
+    "scoresBefore": 14006,
+    "scoresAfter": 14010,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.87733823980373,
+    "requestReductionPercent": 99.81600735970562,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "lil Leex",
+          "comment": "Голос сильно утоплен в бите без текста не всё бы понял в треке если слушал просто идя куда-то, хотя вроде есть чувство у тебя такого стилька.... Но увы больше дать не смогу",
+          "scoredAt": "2026-10-19T10:18:58.388Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "тётя витя",
+          "comment": "Короче ритмику чувствуешь, есть подача пойдет, хоть местами не додал напора, ну и местами рифма конечно такое себе",
+          "scoredAt": "2026-10-19T10:17:22.717Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "VSEMIRNO",
+          "comment": "В целом звучишь уверенно, но вот высокие частоты в голосе режет ухо.",
+          "scoredAt": "2026-10-19T10:16:03.361Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "sobesednik",
+          "comment": "Оке по тексту нормас, вроде слышно интонирование делаешь, ритмику тоже но вот ов подруинивает качество как упакован голос, фикси ",
+          "scoredAt": "2026-10-19T10:12:39.187Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 5,
@@ -161,34 +189,6 @@
           "artist": "СЭТИДЖЭЙ",
           "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: делай аценты и хуки в исполнении\nОбщее впечатление: сведос заруинил все, половину непонятно о чем читаешь, но какбудто потенциал есть и можешь удивить во втором, давай попробуем\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-19T09:31:58.124Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 1,
-          "artist": "Desperto",
-          "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: скучно\nОбщее впечатление: очень рано для баттла\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:31:10.745Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "TEROBYTE",
-          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: лампово сделал\nОбщее впечатление: жду во твором, но поработай над качеством\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:30:42.158Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "clownkai",
-          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: странное очень исполнение, пусть и опыт какойто чувствуется, может быть сведением заруинил все\nОбщее впечатление: неинтересно сделал, рано для второго раунда\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:29:35.769Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "ChameleonChrono",
-          "comment": "Спасибо за трек! \nТекст: средний \nИсполнение: монотонно очень\nОбщее впечатление: скучновато, и для меня рано еще во второй такое пропускать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:28:54.619Z"
         }
       ]
     }
