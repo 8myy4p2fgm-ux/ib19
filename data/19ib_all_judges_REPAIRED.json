@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T08:22:15.107Z",
+  "exportedAt": "2026-10-19T08:32:18.591Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -7391,8 +7391,14 @@
     },
     {
       "userId": "7b933028-f40a-47e7-aa32-b22cd7007309",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Вот есть стилек, но по подаче только третья четверка попортила впечатление.",
+          "scoredAt": "2026-10-19T08:29:43.473Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -7412,7 +7418,7 @@
           "scoredAt": "2026-10-08T13:57:23.065Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:52:25.586Z",
+      "fetchedAt": "2026-10-19T08:32:18.591Z",
       "current": true,
       "artistName": "busquet",
       "artistSlug": "busquet"
@@ -23638,8 +23644,14 @@
     },
     {
       "userId": "24ade32f-5c4e-4da5-a449-ea98a6051412",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Ну скажу так, есть что-то по флоу, стилек главное что присутствует, но вот не хватает начинки можно так сказать в тексте... ",
+          "scoredAt": "2026-10-19T08:28:04.909Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -23665,7 +23677,7 @@
           "scoredAt": "2026-09-28T13:03:52.409Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:12:02.758Z",
+      "fetchedAt": "2026-10-19T08:32:18.591Z",
       "current": true,
       "artistName": "agap ottawa",
       "artistSlug": "agap-ottawa"
@@ -84701,8 +84713,14 @@
     },
     {
       "userId": "e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Вот провал в треке это исполнение, чувство что ты как то игноришь бит и чисто читаешь свой текст под музыкальный ряд(",
+          "scoredAt": "2026-10-19T08:31:50.302Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -84716,7 +84734,7 @@
           "scoredAt": "2026-10-01T19:43:29.381Z"
         }
       ],
-      "fetchedAt": "2026-10-16T05:12:12.862Z",
+      "fetchedAt": "2026-10-19T08:32:18.591Z",
       "current": true,
       "artistName": "Принц Комы",
       "artistSlug": "princ-komy"
@@ -99082,8 +99100,14 @@
     },
     {
       "userId": "73af9d54-e788-4629-97eb-31aaf790012d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "В целом норм, единственное для меня давай немного разнообразия в манере читке",
+          "scoredAt": "2026-10-19T08:23:25.818Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -99103,7 +99127,7 @@
           "scoredAt": "2026-10-03T15:18:40.182Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:32:17.063Z",
+      "fetchedAt": "2026-10-19T08:32:18.591Z",
       "current": true,
       "artistName": "leha_plus",
       "artistSlug": "leha-plus"

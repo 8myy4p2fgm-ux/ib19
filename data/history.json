@@ -153622,6 +153622,62 @@
         "scoredAt": "2026-10-19T08:21:36.325Z",
         "userId": "211447a5-6415-4b91-85ab-cf26d6bc92e8"
       }
+    },
+    {
+      "id": "322fba6eb2276f91a8487c721292cb8e9fd493463b21512ba9cf9f005cf96bb9",
+      "observedAt": "2026-10-19T08:32:18.591Z",
+      "sourceScoredAt": "2026-10-19T08:29:43.473Z",
+      "key": "[\"7b933028-f40a-47e7-aa32-b22cd7007309\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вот есть стилек, но по подаче только третья четверка попортила впечатление.",
+        "scoredAt": "2026-10-19T08:29:43.473Z",
+        "userId": "7b933028-f40a-47e7-aa32-b22cd7007309"
+      }
+    },
+    {
+      "id": "6092f4fcd66fdad518b4b86554da15f3ac61bda65a4ec96d08481b98716f00d6",
+      "observedAt": "2026-10-19T08:32:18.591Z",
+      "sourceScoredAt": "2026-10-19T08:28:04.909Z",
+      "key": "[\"24ade32f-5c4e-4da5-a449-ea98a6051412\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну скажу так, есть что-то по флоу, стилек главное что присутствует, но вот не хватает начинки можно так сказать в тексте... ",
+        "scoredAt": "2026-10-19T08:28:04.909Z",
+        "userId": "24ade32f-5c4e-4da5-a449-ea98a6051412"
+      }
+    },
+    {
+      "id": "704e1a2309f9dd6a8660ba8e5d731062dc426560d1207a4d26a12558bf8add01",
+      "observedAt": "2026-10-19T08:32:18.591Z",
+      "sourceScoredAt": "2026-10-19T08:31:50.302Z",
+      "key": "[\"e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "Вот провал в треке это исполнение, чувство что ты как то игноришь бит и чисто читаешь свой текст под музыкальный ряд(",
+        "scoredAt": "2026-10-19T08:31:50.302Z",
+        "userId": "e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294"
+      }
+    },
+    {
+      "id": "d24411aa5fba58ee2b432cc50c84a25a58d47bb57d3dad64dc669058eee9a28c",
+      "observedAt": "2026-10-19T08:32:18.591Z",
+      "sourceScoredAt": "2026-10-19T08:23:25.818Z",
+      "key": "[\"73af9d54-e788-4629-97eb-31aaf790012d\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом норм, единственное для меня давай немного разнообразия в манере читке",
+        "scoredAt": "2026-10-19T08:23:25.818Z",
+        "userId": "73af9d54-e788-4629-97eb-31aaf790012d"
+      }
     }
   ],
   "snapshots": [
@@ -165041,6 +165097,26 @@
           "index": 30.96093779269211,
           "favor": 17.85113573273469,
           "attention": 2.3875798377351978,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T08:32:18.591Z",
+      "exportedAt": "2026-10-19T08:32:18.591Z",
+      "scores": 13948,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.506490151387275,
+          "favor": 9.131502168759702,
+          "attention": 6.022947166301044,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.971732652033417,
+          "favor": 17.852176291255418,
+          "attention": 2.397334138555776,
           "respect": 10.722222222222221
         }
       }

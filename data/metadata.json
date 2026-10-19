@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T08:22:15.107Z",
-  "exportedAt": "2026-10-19T08:22:15.107Z",
-  "runId": "2026-10-19T08:22:15.107Z",
-  "forumExportedAt": "2026-10-19T08:22:15.107Z",
+  "lastSuccessfulAt": "2026-10-19T08:32:18.591Z",
+  "exportedAt": "2026-10-19T08:32:18.591Z",
+  "runId": "2026-10-19T08:32:18.591Z",
+  "forumExportedAt": "2026-10-19T08:32:18.591Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13944,
+    "scores": 13948,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 4,
     "changedParticipants": 4,
     "logicalRequests": 6,
-    "durationMs": 6464,
-    "scoresBefore": 13940,
-    "scoresAfter": 13944,
+    "durationMs": 6363,
+    "scoresBefore": 13944,
+    "scoresAfter": 13948,
     "fullBaselineRequests": 3261,
     "requestReductionPercent": 99.81600735970562,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Принц Комы",
+          "comment": "Вот провал в треке это исполнение, чувство что ты как то игноришь бит и чисто читаешь свой текст под музыкальный ряд(",
+          "scoredAt": "2026-10-19T08:31:50.302Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "busquet",
+          "comment": "Вот есть стилек, но по подаче только третья четверка попортила впечатление.",
+          "scoredAt": "2026-10-19T08:29:43.473Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "agap ottawa",
+          "comment": "Ну скажу так, есть что-то по флоу, стилек главное что присутствует, но вот не хватает начинки можно так сказать в тексте... ",
+          "scoredAt": "2026-10-19T08:28:04.909Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "leha_plus",
+          "comment": "В целом норм, единственное для меня давай немного разнообразия в манере читке",
+          "scoredAt": "2026-10-19T08:23:25.818Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -161,34 +189,6 @@
           "artist": "vitello tomato",
           "comment": "",
           "scoredAt": "2026-10-19T07:57:21.864Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "OverSize25uk",
-          "comment": "Скажу так не хватило напора в исполнение и может где-то поиграться с раскладками по флоу. ",
-          "scoredAt": "2026-10-19T07:55:22.827Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Владелец Хлои и Ким Кардашьян",
-          "comment": "Ребёнок ты бешенный! Но пока рановато! ",
-          "scoredAt": "2026-10-19T07:54:40.096Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Psevdonemoy",
-          "comment": "ну, эти паузы тебе в минус пошли.\nЗнаешь как в старом треке \" погодите не меняйте ритм, ща мы продолжим\"\nнельзя делать таких промежутков, когда от тебя ждут игру с битом, а ты часть этой игры отдаёшь паузам. ",
-          "scoredAt": "2026-10-19T07:53:29.102Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "FLEXIN",
-          "comment": "Полет нормальный бро, как стелишь хорошо, но вот по тексту честно простовато, андерок стиль такой требует наполнения текста",
-          "scoredAt": "2026-10-19T07:53:24.185Z"
         }
       ]
     }
