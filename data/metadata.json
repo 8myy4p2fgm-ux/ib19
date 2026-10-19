@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T00:02:03.454Z",
-  "exportedAt": "2026-10-19T00:02:03.454Z",
-  "runId": "2026-10-19T00:02:03.454Z",
-  "forumExportedAt": "2026-10-19T00:02:03.454Z",
+  "lastSuccessfulAt": "2026-10-19T00:12:05.682Z",
+  "exportedAt": "2026-10-19T00:12:05.682Z",
+  "runId": "2026-10-19T00:12:05.682Z",
+  "forumExportedAt": "2026-10-19T00:12:05.682Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13883,
+    "scores": 13886,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3698,
-    "scoresBefore": 13881,
-    "scoresAfter": 13883,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4848,
+    "scoresBefore": 13883,
+    "scoresAfter": 13886,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.87730061349693,
+    "requestReductionPercent": 99.84662576687117,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Сын маминой подруги",
+          "comment": "Есть флоу и энергия, голос прям боевой. Но есть и слёты с ритма и куда расти в рифмах.",
+          "scoredAt": "2026-10-19T00:08:27.572Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "МЦ КТК",
+          "comment": "Почему такое качество? Почему такой дерьмовый бит? Слышно, что ты не двоечник, но за данную работу и подобную запись голоса выше поставить не могу.",
+          "scoredAt": "2026-10-19T00:05:59.192Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Articoola",
+          "comment": "Если бы Максим Вердикт сдал трэк на батол... Округлю до четвёрки за старания, но исполнение какое-то сырое: вроде разнообразно и динамично, но не живёшь вместе с музыкой, интонации порой несуразные, а эти «эй-эй» какие-то дурацкие.",
+          "scoredAt": "2026-10-19T00:03:33.839Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -168,27 +189,6 @@
           "artist": "The Mighty",
           "comment": "Такой ты светлячок, зарядил мотивацией! Спасибо за веру! Но качество записи из 80-х и флоу в формате разговора сбрасывают оценку до четырёх.",
           "scoredAt": "2026-10-18T23:10:48.375Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Андрей Макаров",
-          "comment": "Ритмика особо не заглядывала в этот трэк. Как и связанные мысли.",
-          "scoredAt": "2026-10-18T23:07:36.408Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "BARKHAN",
-          "comment": "Аварнсирую четвёркой: за нестандартное исполнение на батоле, за усердие в рифмовках, за использование всей минуты трэка. Но вокал и читку надо прокачивать.",
-          "scoredAt": "2026-10-18T23:04:39.166Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Юрась",
-          "comment": "Первые две рифмы просто потрясающие. Неоригинальное раскрытие: несколько сотен участников сделали примерно то же самое. Читка – слабовата, качество – шакальное.",
-          "scoredAt": "2026-10-18T23:01:46.255Z"
         }
       ]
     }

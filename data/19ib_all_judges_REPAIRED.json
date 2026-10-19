@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T00:02:03.454Z",
+  "exportedAt": "2026-10-19T00:12:05.682Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -62892,8 +62892,14 @@
     },
     {
       "userId": "73e8175f-6255-4500-9931-da84bb39e5af",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Если бы Максим Вердикт сдал трэк на батол... Округлю до четвёрки за старания, но исполнение какое-то сырое: вроде разнообразно и динамично, но не живёшь вместе с музыкой, интонации порой несуразные, а эти «эй-эй» какие-то дурацкие.",
+          "scoredAt": "2026-10-19T00:03:33.839Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -62907,7 +62913,7 @@
           "scoredAt": "2026-10-16T06:56:06.717Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:22:45.996Z",
+      "fetchedAt": "2026-10-19T00:12:05.682Z",
       "current": true,
       "artistName": "Articoola",
       "artistSlug": "articoola"
@@ -65726,8 +65732,14 @@
     },
     {
       "userId": "da2d997d-c984-480e-a30a-c00e24667962",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Почему такое качество? Почему такой дерьмовый бит? Слышно, что ты не двоечник, но за данную работу и подобную запись голоса выше поставить не могу.",
+          "scoredAt": "2026-10-19T00:05:59.192Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -65747,7 +65759,7 @@
           "scoredAt": "2026-09-24T21:23:12.236Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-19T00:12:05.682Z",
       "current": true,
       "artistName": "МЦ КТК",
       "artistSlug": "mc-ktk"
@@ -114159,8 +114171,14 @@
     },
     {
       "userId": "3f004716-9126-4b22-bdb6-41ddba21fdcf",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Есть флоу и энергия, голос прям боевой. Но есть и слёты с ритма и куда расти в рифмах.",
+          "scoredAt": "2026-10-19T00:08:27.572Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -114180,7 +114198,7 @@
           "scoredAt": "2026-10-15T15:07:23.001Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:21:56.434Z",
+      "fetchedAt": "2026-10-19T00:12:05.682Z",
       "current": true,
       "artistName": "Сын маминой подруги",
       "artistSlug": "syn-maminoy-podrugi"
