@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T07:32:12.020Z",
+  "exportedAt": "2026-10-19T07:41:57.570Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -23001,46 +23001,6 @@
       "current": true,
       "artistName": "Маста Витяй [Why-Fly]",
       "artistSlug": "masta-vityay-why-fly"
-    },
-    {
-      "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "comment": "Опус на тройку. Песня-тревога.",
-          "scoredAt": "2026-10-18T23:51:24.651Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "comment": "мрачно. глубоко. но текст такой че. читать умеет ",
-          "scoredAt": "2026-10-16T15:36:11.468Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "comment": "Ты звучишь как гуф записавшийся в подвале\nно текст лучше намного, если бы это записано хорошо, то мог бы получить спокойно 4. ",
-          "scoredAt": "2026-10-14T13:32:49.828Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "comment": "бит мясной. не оч зашел твой зачитон, а так прэк какой то есть в этом.",
-          "scoredAt": "2026-10-13T16:09:18.943Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "comment": "Метафоры, которые мы заслужили. ",
-          "scoredAt": "2026-10-13T13:19:24.824Z"
-        }
-      ],
-      "fetchedAt": "2026-10-18T23:52:05.015Z",
-      "current": true,
-      "artistName": "OPUS",
-      "artistSlug": "opus"
     },
     {
       "userId": "235f54cd-8616-4268-a1b0-8a3c6a55d3fc",
@@ -108856,6 +108816,46 @@
       "current": true,
       "artistName": "Жирно Нарычал",
       "artistSlug": "zhirno-narychal"
+    },
+    {
+      "userId": "4f8b4112-3810-49f6-934e-ef9e0d5575d6",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Опус на тройку. Песня-тревога.",
+          "scoredAt": "2026-10-18T23:51:24.651Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "мрачно. глубоко. но текст такой че. читать умеет ",
+          "scoredAt": "2026-10-16T15:36:11.468Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Ты звучишь как гуф записавшийся в подвале\nно текст лучше намного, если бы это записано хорошо, то мог бы получить спокойно 4. ",
+          "scoredAt": "2026-10-14T13:32:49.828Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "бит мясной. не оч зашел твой зачитон, а так прэк какой то есть в этом.",
+          "scoredAt": "2026-10-13T16:09:18.943Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Метафоры, которые мы заслужили. ",
+          "scoredAt": "2026-10-13T13:19:24.824Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T23:52:05.015Z",
+      "current": true,
+      "artistName": "OPUS",
+      "artistSlug": "opus"
     },
     {
       "userId": "8c2ad364-8527-4723-8833-c0f5ac633e10",
