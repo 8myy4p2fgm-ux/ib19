@@ -37,9 +37,15 @@ export async function loadData(){
  for(let attempt=0;attempt<3;attempt++){
   try{
    const read=async (url,cache='default')=>{
-    const response=await fetch(url,{cache,priority:'high',signal:AbortSignal.timeout(30000)});
-    if(!response.ok)throw new Error('Не удалось загрузить '+url.pathname.split('/').pop()+': '+response.status);
-    return response.json();
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),30000);
+    try{
+     const response=await fetch(url,{cache,priority:'high',signal:controller.signal});
+     if(!response.ok)throw new Error('Не удалось загрузить '+url.pathname.split('/').pop()+': '+response.status);
+     return await response.json();
+    }finally{
+     clearTimeout(timer);
+    }
    };
    const meta=await read(new URL('../data/metadata.json?check='+Date.now(),import.meta.url),'no-store');
    const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(file=>{
