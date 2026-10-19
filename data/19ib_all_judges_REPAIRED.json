@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T22:17:58.357Z",
+  "exportedAt": "2026-10-19T22:42:17.781Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -119174,6 +119174,23 @@
       "trackId": "503224ca-c452-43ba-80c5-a3011476f266"
     },
     {
+      "userId": "3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 5,
+          "comment": "Охуенно",
+          "scoredAt": "2026-10-10T17:27:01.060Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true,
+      "artistName": "Still_ZhZ",
+      "artistSlug": "still-zhz",
+      "trackId": "26d8c600-6700-40db-b062-01adc77e9865"
+    },
+    {
       "userId": "a69e1ebf-0076-444d-9519-0b923681ed41",
       "scoredCount": 3,
       "scores": [
@@ -119709,23 +119726,6 @@
       "artistName": "Defental",
       "artistSlug": "defental",
       "trackId": "8e6d6e22-4129-4ca1-9851-1f92173a1f76"
-    },
-    {
-      "userId": "3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "Paradise",
-          "score": 5,
-          "comment": "Охуенно",
-          "scoredAt": "2026-10-10T17:27:01.060Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true,
-      "artistName": "Still_ZhZ",
-      "artistSlug": "still-zhz",
-      "trackId": "26d8c600-6700-40db-b062-01adc77e9865"
     },
     {
       "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d",
