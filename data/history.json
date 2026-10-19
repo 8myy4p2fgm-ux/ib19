@@ -153678,6 +153678,34 @@
         "scoredAt": "2026-10-19T08:23:25.818Z",
         "userId": "73af9d54-e788-4629-97eb-31aaf790012d"
       }
+    },
+    {
+      "id": "ba84fafb79d42af6e19d153ac8b6abedbfca79e2000c63f0306b751beac703e0",
+      "observedAt": "2026-10-19T08:42:07.278Z",
+      "sourceScoredAt": "2026-10-19T08:39:02.594Z",
+      "key": "[\"566186cd-1bbc-4820-88a5-2ab3dbf3b744\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом не плохо и по тексту и по флоу, но вокал испортило ов, в некст раз либо просно делай более хуковым его с зачитоном, либо своди объемней.",
+        "scoredAt": "2026-10-19T08:39:02.594Z",
+        "userId": "566186cd-1bbc-4820-88a5-2ab3dbf3b744"
+      }
+    },
+    {
+      "id": "db8380db8fc9cb4d74966e22914c39c6e51eb217831d88e8389e06baf43129af",
+      "observedAt": "2026-10-19T08:42:07.278Z",
+      "sourceScoredAt": "2026-10-19T08:39:36.212Z",
+      "key": "[\"c67a7f48-3c13-48f0-aa7f-ff54e2a2a842\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Стильево наваливаешь. Твой музон надо пушить на площадках. Для баттлов очень просто.",
+        "scoredAt": "2026-10-19T08:39:36.212Z",
+        "userId": "c67a7f48-3c13-48f0-aa7f-ff54e2a2a842"
+      }
     }
   ],
   "snapshots": [
@@ -165117,6 +165145,26 @@
           "index": 30.971732652033417,
           "favor": 17.852176291255418,
           "attention": 2.397334138555776,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T08:42:07.278Z",
+      "exportedAt": "2026-10-19T08:42:07.278Z",
+      "scores": 13950,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.50874655094342,
+          "favor": 9.130926975359566,
+          "attention": 6.025778759257325,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.975309959025683,
+          "favor": 17.851610568222945,
+          "attention": 2.4014771685805165,
           "respect": 10.722222222222221
         }
       }

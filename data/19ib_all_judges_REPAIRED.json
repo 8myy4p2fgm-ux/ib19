@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T08:32:18.591Z",
+  "exportedAt": "2026-10-19T08:42:07.278Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -42939,8 +42939,14 @@
     },
     {
       "userId": "566186cd-1bbc-4820-88a5-2ab3dbf3b744",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "В целом не плохо и по тексту и по флоу, но вокал испортило ов, в некст раз либо просно делай более хуковым его с зачитоном, либо своди объемней.",
+          "scoredAt": "2026-10-19T08:39:02.594Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -42960,7 +42966,7 @@
           "scoredAt": "2026-09-26T19:15:28.940Z"
         }
       ],
-      "fetchedAt": "2026-10-19T05:02:20.356Z",
+      "fetchedAt": "2026-10-19T08:42:07.278Z",
       "current": true,
       "artistName": "Рамз Разный",
       "artistSlug": "ramz-raznyy"
@@ -86379,8 +86385,14 @@
     },
     {
       "userId": "c67a7f48-3c13-48f0-aa7f-ff54e2a2a842",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Стильево наваливаешь. Твой музон надо пушить на площадках. Для баттлов очень просто.",
+          "scoredAt": "2026-10-19T08:39:36.212Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -86388,7 +86400,7 @@
           "scoredAt": "2026-10-17T06:22:54.674Z"
         }
       ],
-      "fetchedAt": "2026-10-17T06:32:07.383Z",
+      "fetchedAt": "2026-10-19T08:42:07.278Z",
       "current": true,
       "artistName": "usual bagg",
       "artistSlug": "usual-bagg"
