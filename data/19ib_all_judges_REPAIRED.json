@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T05:02:20.356Z",
+  "exportedAt": "2026-10-19T05:12:00.997Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -29088,8 +29088,14 @@
     },
     {
       "userId": "3b859366-21fd-4303-8d2d-c7bff71dffde",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "надеюсь я никогда не отвечу тебе в максе родной... ",
+          "scoredAt": "2026-10-19T05:05:54.131Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -29115,7 +29121,7 @@
           "scoredAt": "2026-09-30T17:31:11.951Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:52:06.072Z",
+      "fetchedAt": "2026-10-19T05:12:00.997Z",
       "current": true,
       "artistName": "Белый Бро",
       "artistSlug": "belyy-bro"
@@ -84706,8 +84712,14 @@
     },
     {
       "userId": "fca3ef2b-ba93-47d4-9d1f-49b3c5485d62",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "comment": "",
+          "scoredAt": "2026-10-19T05:04:20.993Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 1,
@@ -84721,7 +84733,7 @@
           "scoredAt": "2026-10-13T19:04:14.605Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:22:24.622Z",
+      "fetchedAt": "2026-10-19T05:12:00.997Z",
       "current": true,
       "artistName": "КАКТУС777",
       "artistSlug": "kaktus777"

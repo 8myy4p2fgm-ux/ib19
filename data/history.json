@@ -153188,6 +153188,34 @@
         "scoredAt": "2026-10-19T04:58:06.569Z",
         "userId": "3aa3b7c9-2694-4ce9-bc4a-0a703b295abe"
       }
+    },
+    {
+      "id": "52672e18513a06bee500937fef653ece626862e6509c33dbac24e78292d6978e",
+      "observedAt": "2026-10-19T05:12:00.997Z",
+      "sourceScoredAt": "2026-10-19T05:05:54.131Z",
+      "key": "[\"3b859366-21fd-4303-8d2d-c7bff71dffde\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "надеюсь я никогда не отвечу тебе в максе родной... ",
+        "scoredAt": "2026-10-19T05:05:54.131Z",
+        "userId": "3b859366-21fd-4303-8d2d-c7bff71dffde"
+      }
+    },
+    {
+      "id": "a96cd46b1e7a4ef3b535e809ce53987ed013506f02edee0ee1a013d3bdf9fedf",
+      "observedAt": "2026-10-19T05:12:00.997Z",
+      "sourceScoredAt": "2026-10-19T05:04:20.993Z",
+      "key": "[\"fca3ef2b-ba93-47d4-9d1f-49b3c5485d62\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-19T05:04:20.993Z",
+        "userId": "fca3ef2b-ba93-47d4-9d1f-49b3c5485d62"
+      }
     }
   ],
   "snapshots": [
@@ -164347,6 +164375,26 @@
           "index": 30.897719655792905,
           "favor": 17.8419622264157,
           "attention": 2.333535207154985,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T05:12:00.997Z",
+      "exportedAt": "2026-10-19T05:12:00.997Z",
+      "scores": 13915,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.442924029599467,
+          "favor": 9.122846774713116,
+          "attention": 5.968036438559819,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.902272228615054,
+          "favor": 17.84357361715852,
+          "attention": 2.3364763892343126,
           "respect": 10.722222222222221
         }
       }

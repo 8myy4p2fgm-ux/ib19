@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T05:02:20.356Z",
-  "exportedAt": "2026-10-19T05:02:20.356Z",
-  "runId": "2026-10-19T05:02:20.356Z",
-  "forumExportedAt": "2026-10-19T05:02:20.356Z",
+  "lastSuccessfulAt": "2026-10-19T05:12:00.997Z",
+  "exportedAt": "2026-10-19T05:12:00.997Z",
+  "runId": "2026-10-19T05:12:00.997Z",
+  "forumExportedAt": "2026-10-19T05:12:00.997Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13913,
+    "scores": 13915,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 12,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 10,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 12,
-    "durationMs": 12415,
-    "scoresBefore": 13903,
-    "scoresAfter": 13913,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 3672,
+    "scoresBefore": 13913,
+    "scoresAfter": 13915,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.6319018404908,
+    "requestReductionPercent": 99.87730061349693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Белый Бро",
+          "comment": "надеюсь я никогда не отвечу тебе в максе родной... ",
+          "scoredAt": "2026-10-19T05:05:54.131Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "КАКТУС777",
+          "comment": "",
+          "scoredAt": "2026-10-19T05:04:20.993Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "Dia'Log",
           "comment": "Вокал требует хорошего сведения. В таком виде слушабельность у него на удовлетворительном уровне.",
           "scoredAt": "2026-10-19T01:11:25.928Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Big63",
-          "comment": "Жирнющий флоу! Рифмы бы чуть апнуть – и будет преотлично.",
-          "scoredAt": "2026-10-19T01:07:56.949Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "1RG",
-          "comment": "Рифмотеррор – громковатое слово для «вайпер» / «снайпер» / «дизайнер». Оскорбления какие-то глупые: вы икра, вы крабы, ты хавал картошку, я вас сделал пам пам пам. ",
-          "scoredAt": "2026-10-19T01:05:04.819Z"
         }
       ]
     }
