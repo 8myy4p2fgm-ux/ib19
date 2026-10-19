@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-19T00:22:07.235Z",
+  "exportedAt": "2026-10-19T00:32:06.266Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3268,6 +3268,12 @@
       "userId": "fde76c39-25c3-4dca-8e8e-a38612bc2e1f",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Бодро и уверенно читаешь. Но рифмы незатейливые, кустарные.",
+          "scoredAt": "2026-10-19T00:26:08.077Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,

@@ -152838,6 +152838,48 @@
         "scoredAt": "2026-10-19T00:18:07.644Z",
         "userId": "a966c6c7-bea9-4f6b-bfb2-71403f993707"
       }
+    },
+    {
+      "id": "919b6637a734f1030b248a42b69b60c8d685d8a2218b28a68897867fd602f238",
+      "observedAt": "2026-10-19T00:32:06.266Z",
+      "sourceScoredAt": "2026-10-19T00:29:22.144Z",
+      "key": "[\"19b71c2b-4cd7-4036-909c-6020f334eee9\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "Ты клёво читаешь, отлично падаешь интонациями в окончаниях строк в ритм. ",
+        "scoredAt": "2026-10-19T00:29:22.144Z",
+        "userId": "19b71c2b-4cd7-4036-909c-6020f334eee9"
+      }
+    },
+    {
+      "id": "647d177717cd3d8ebae99db4c00728ceb5c468f3dd18069314d62a53cccfb52e",
+      "observedAt": "2026-10-19T00:32:06.266Z",
+      "sourceScoredAt": "2026-10-19T00:26:08.077Z",
+      "key": "[\"fde76c39-25c3-4dca-8e8e-a38612bc2e1f\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Бодро и уверенно читаешь. Но рифмы незатейливые, кустарные.",
+        "scoredAt": "2026-10-19T00:26:08.077Z",
+        "userId": "fde76c39-25c3-4dca-8e8e-a38612bc2e1f"
+      }
+    },
+    {
+      "id": "05f663eca3df1a7d71f466cf23505c00a31496977054bbe991c2a5d7b1a5e257",
+      "observedAt": "2026-10-19T00:32:06.266Z",
+      "sourceScoredAt": "2026-10-19T00:22:25.952Z",
+      "key": "[\"baff66c1-e298-4b5e-a2b5-ce37db731ef3\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Очень скучно. Ни в подаче, ни в тексте нет жизни. Ничего не запомнилось, кроме «вака-флака, маза-фака». ",
+        "scoredAt": "2026-10-19T00:22:25.952Z",
+        "userId": "baff66c1-e298-4b5e-a2b5-ce37db731ef3"
+      }
     }
   ],
   "snapshots": [
@@ -163857,6 +163899,26 @@
           "index": 30.861976523111853,
           "favor": 17.843048385402778,
           "attention": 2.296705915486855,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T00:32:06.266Z",
+      "exportedAt": "2026-10-19T00:32:06.266Z",
+      "scores": 13891,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.54788878640674,
+          "favor": 9.16345733437009,
+          "attention": 6.010711315517881,
+          "respect": 6.373720136518771
+        },
+        "veterans": {
+          "index": 30.863916472765933,
+          "favor": 17.840562502019317,
+          "attention": 2.3011317485243947,
           "respect": 10.722222222222221
         }
       }

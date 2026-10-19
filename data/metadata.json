@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T00:22:07.235Z",
-  "exportedAt": "2026-10-19T00:22:07.235Z",
-  "runId": "2026-10-19T00:22:07.235Z",
-  "forumExportedAt": "2026-10-19T00:22:07.235Z",
+  "lastSuccessfulAt": "2026-10-19T00:32:06.266Z",
+  "exportedAt": "2026-10-19T00:32:06.266Z",
+  "runId": "2026-10-19T00:32:06.266Z",
+  "forumExportedAt": "2026-10-19T00:32:06.266Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13888,
+    "scores": 13891,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3691,
-    "scoresBefore": 13886,
-    "scoresAfter": 13888,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 4946,
+    "scoresBefore": 13888,
+    "scoresAfter": 13891,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.87730061349693,
+    "requestReductionPercent": 99.84662576687117,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "Пэнс",
+          "comment": "Ты клёво читаешь, отлично падаешь интонациями в окончаниях строк в ритм. ",
+          "scoredAt": "2026-10-19T00:29:22.144Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Витя Смит",
+          "comment": "Бодро и уверенно читаешь. Но рифмы незатейливые, кустарные.",
+          "scoredAt": "2026-10-19T00:26:08.077Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Spawn",
+          "comment": "Очень скучно. Ни в подаче, ни в тексте нет жизни. Ничего не запомнилось, кроме «вака-флака, маза-фака». ",
+          "scoredAt": "2026-10-19T00:22:25.952Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -168,27 +189,6 @@
           "artist": "TCELYA",
           "comment": "Ай, хорошо! Шикарный панч про каналы. Ещё б качество не всратое. Любишь писаться на диктофон, походу.",
           "scoredAt": "2026-10-18T23:33:46.306Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Di Mo",
-          "comment": "Как развидеть рифмовку «виде» / «видели» / «видели» / «развидеть»? Как ты додумался до «жизнь – не солька»? Вопросов много... Навык читки есть, но пока не «внеземнЫй звук».",
-          "scoredAt": "2026-10-18T23:25:35.923Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Wincent Dapooh",
-          "comment": "Классные рифмы! Но, по-моему, ты поставил рекорд оффбитов за минуту. Это пиздец как неритмично. Буквально каждая строка!!!",
-          "scoredAt": "2026-10-18T23:19:46.559Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "АЗаМат Извиняев",
-          "comment": "Зачитал прикольно и с правильными интонациями. Строчка про ручку сильная! С мыслями про бумагу согласен. Но как же паршиво ты спел...",
-          "scoredAt": "2026-10-18T23:16:10.759Z"
         }
       ]
     }

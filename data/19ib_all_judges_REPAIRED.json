@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T00:22:07.235Z",
+  "exportedAt": "2026-10-19T00:32:06.266Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -46445,8 +46445,14 @@
     },
     {
       "userId": "19b71c2b-4cd7-4036-909c-6020f334eee9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Ты клёво читаешь, отлично падаешь интонациями в окончаниях строк в ритм. ",
+          "scoredAt": "2026-10-19T00:29:22.144Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -46472,7 +46478,7 @@
           "scoredAt": "2026-09-06T17:58:30.420Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:12:11.296Z",
+      "fetchedAt": "2026-10-19T00:32:06.266Z",
       "current": true,
       "artistName": "Пэнс",
       "artistSlug": "pens"
@@ -54400,8 +54406,14 @@
     },
     {
       "userId": "fde76c39-25c3-4dca-8e8e-a38612bc2e1f",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Бодро и уверенно читаешь. Но рифмы незатейливые, кустарные.",
+          "scoredAt": "2026-10-19T00:26:08.077Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,
@@ -54409,7 +54421,7 @@
           "scoredAt": "2026-10-12T16:00:33.374Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T00:32:06.266Z",
       "current": true,
       "artistName": "Витя Смит",
       "artistSlug": "vitya-smit"
@@ -59032,8 +59044,14 @@
     },
     {
       "userId": "baff66c1-e298-4b5e-a2b5-ce37db731ef3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Очень скучно. Ни в подаче, ни в тексте нет жизни. Ничего не запомнилось, кроме «вака-флака, маза-фака». ",
+          "scoredAt": "2026-10-19T00:22:25.952Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -59053,7 +59071,7 @@
           "scoredAt": "2026-10-11T11:29:07.101Z"
         }
       ],
-      "fetchedAt": "2026-10-15T18:23:02.897Z",
+      "fetchedAt": "2026-10-19T00:32:06.266Z",
       "current": true,
       "artistName": "Spawn",
       "artistSlug": "spawn"
