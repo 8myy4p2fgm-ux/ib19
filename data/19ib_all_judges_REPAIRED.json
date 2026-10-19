@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T20:22:17.857Z",
+  "exportedAt": "2026-10-19T20:32:15.435Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -19731,8 +19731,14 @@
     },
     {
       "userId": "e5324571-37de-4084-bac5-3951ed50c15e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "comment": "Ну по подаче совсем уж не хватает уверенности местами, причем, как в общем в напоре, так и в ритмике, и в экспрессии скажем так некоторой, в отыгрышах и эмоциях. У тебя еще бит такой тяжелый, блин, взял бы бумбэп, начитал бы какие-то просто ровные квадраты без глупостей и прошел бы с 3-4 баллами.",
+          "scoredAt": "2026-10-19T20:26:02.943Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -19758,7 +19764,7 @@
           "scoredAt": "2026-09-20T04:38:57.230Z"
         }
       ],
-      "fetchedAt": "2026-10-18T02:32:08.538Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "millourt",
       "artistSlug": "millourt",
@@ -52507,8 +52513,14 @@
     },
     {
       "userId": "20194092-4998-4247-94b9-bac7e5be571f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Есть стиль, есть звук, есть харизма. Всё для прохода присутствует.",
+          "scoredAt": "2026-10-19T20:30:19.671Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -52534,7 +52546,7 @@
           "scoredAt": "2026-09-14T16:16:57.703Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "TriLitsa",
       "artistSlug": "trilitsa",
@@ -66946,9 +66958,16 @@
     },
     {
       "userId": "1940ebb0-1ca7-493b-b1e7-df84e9cac271",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Очень сложный выбор, для мен это больше 2. Но я поставлю 3 большим авансом.",
+          "scoredAt": "2026-10-19T20:23:09.128Z"
+        }
+      ],
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "Джек Пот",
       "artistSlug": "dzhek-pot",
@@ -68242,8 +68261,14 @@
     },
     {
       "userId": "ffabddfd-7dbf-4e9e-82c3-bcc1ea7983cc",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 5,
+          "comment": "такой ты пирожочек, конечно.\n\nПо факту - приятно и без ошибок все сделал, этого в современных реалиях от меня достаточно для 5.\n\nВ некст раундах давай-ка еще и текст помимо своей хорошей подачи и стилька!",
+          "scoredAt": "2026-10-19T20:22:44.377Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -68263,7 +68288,7 @@
           "scoredAt": "2026-10-15T15:30:09.132Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:12:20.123Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "FOLEY D.",
       "artistSlug": "foley-d",
@@ -71029,8 +71054,14 @@
     },
     {
       "userId": "846cefa5-7ace-44e5-9b14-4d9db9ae7f10",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "Я думал 5 ставить, если честно, подача очень даже уверенная и дикция хорошая на всех этих бубубу, но то, как ты на таких серьезных лицах делаешь пунчи про \"Ма мента\" и \"закон кОма\", все же как-то остановило мою руку на цифре 4 :-/\n\nТы то может и скажешь, что да че ты, я же рофлировал просто, но это ты знаешь, а вот в общей атмосфере битка и подачи в треке ничего не предполагало внезапного потока бэдбарсиков. Под такое нужно всегда какое-то объяснение, либо атмосферой бита, либо общим концептом исполнителя, либо сюжетом трека, скажем так.",
+          "scoredAt": "2026-10-19T20:31:07.483Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 5,
@@ -71056,7 +71087,7 @@
           "scoredAt": "2026-10-13T19:38:01.485Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "Rudsan",
       "artistSlug": "rudsan",
@@ -81752,8 +81783,14 @@
     },
     {
       "userId": "fd4e1fac-14a8-4609-9fb8-5c2583ac9466",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "В тебе живёт мистер Хайд?) Нормально для первого раунда.",
+          "scoredAt": "2026-10-19T20:28:38.081Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 4,
@@ -81779,7 +81816,7 @@
           "scoredAt": "2026-10-12T11:22:44.727Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:32:26.602Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "Mar'S",
       "artistSlug": "mar-s",
@@ -82454,8 +82491,14 @@
     },
     {
       "userId": "5d76c949-d898-435b-93e5-e7b1a678d45c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Прикольно звучишь, стиль будто симбиоз: Твой Камрад + Done PTF, мне нравится. Гоу во второй.",
+          "scoredAt": "2026-10-19T20:27:17.355Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -82481,7 +82524,7 @@
           "scoredAt": "2026-10-08T16:54:31.983Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "BANZA!_AK!MBO",
       "artistSlug": "banza-ak-mbo",
@@ -83728,8 +83771,14 @@
     },
     {
       "userId": "93962053-7ab6-44e9-be65-14b45a35bf00",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Ты на верном пути, не хватает лоска песне твоей и тебе опыта. Давай-ка в 20 сезоне приходи на пару ступенек выше",
+          "scoredAt": "2026-10-19T20:29:30.229Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -83749,7 +83798,7 @@
           "scoredAt": "2026-09-30T15:55:45.397Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:02:34.209Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "N.a.y.c.h",
       "artistSlug": "n-a-y-c-h",
@@ -92335,8 +92384,14 @@
     },
     {
       "userId": "5254761f-13e2-4101-83f6-0fb118a1e626",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Ладно, молодой Фараон, перед сУдом так перед сУдом",
+          "scoredAt": "2026-10-19T20:26:55.717Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -92356,7 +92411,7 @@
           "scoredAt": "2026-10-08T18:53:43.045Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "LEGOX",
       "artistSlug": "legox",
@@ -101598,8 +101653,14 @@
     },
     {
       "userId": "94ad261f-f149-444e-b622-3cc176e2ab44",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Сильно не хватает баланса в звуке. Капа сильно громче музыки. Подтягивай сведение.",
+          "scoredAt": "2026-10-19T20:25:39.971Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -101619,7 +101680,7 @@
           "scoredAt": "2026-10-15T16:09:36.187Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "Савва Набоков",
       "artistSlug": "savva-nabokov",
@@ -117634,8 +117695,14 @@
     },
     {
       "userId": "854b38cc-1064-4587-b12f-401d2a0e0608",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Кто-то панчит на первом раунде про число Фибонначи? А как же трахать мамок?) нормальная работа, на 4 с минусом.",
+          "scoredAt": "2026-10-19T20:24:50.183Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -117649,7 +117716,7 @@
           "scoredAt": "2026-10-17T17:29:09.798Z"
         }
       ],
-      "fetchedAt": "2026-10-19T05:52:10.093Z",
+      "fetchedAt": "2026-10-19T20:32:15.435Z",
       "current": true,
       "artistName": "Platinum 900",
       "artistSlug": "platinum-900",
