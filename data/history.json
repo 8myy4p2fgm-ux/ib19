@@ -154392,6 +154392,76 @@
         "scoredAt": "2026-10-19T09:50:18.763Z",
         "userId": "faa54ff5-ef45-4a39-b64f-b62edff3a461"
       }
+    },
+    {
+      "id": "9ea8a585552a74f2a66e76399b15e86c15717718db53f0868a8255e0075aeb95",
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "sourceScoredAt": "2026-10-19T09:55:50.672Z",
+      "key": "[\"a387aca7-03b0-4446-99c4-57644381bc9f\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом напор держишь норм, подача тоже хорошо выстроена, но по тексту есть водица ",
+        "scoredAt": "2026-10-19T09:55:50.672Z",
+        "userId": "a387aca7-03b0-4446-99c4-57644381bc9f"
+      }
+    },
+    {
+      "id": "f5503356646aee4a1242206eea05c07b517f5a049f85685a44cfd46366dcad71",
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "sourceScoredAt": "2026-10-19T10:01:39.815Z",
+      "key": "[\"f8316915-1c66-46f0-bb90-70a80555caac\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Слушай тут звучок пофиксить и будет норм, в целом слышно что и по разнообразию даешь, и техника читки имеется авансом",
+        "scoredAt": "2026-10-19T10:01:39.815Z",
+        "userId": "f8316915-1c66-46f0-bb90-70a80555caac"
+      }
+    },
+    {
+      "id": "88bc365208796dd5439568d67dc7ae7720b58abcc4e93853e8a2fd3573c9d6ab",
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "sourceScoredAt": "2026-10-19T10:00:11.688Z",
+      "key": "[\"c67a7f48-3c13-48f0-aa7f-ff54e2a2a842\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Есть места с упрощенной рифмы, но в целом ритмику держишь норм, но не хватает изюма немного",
+        "scoredAt": "2026-10-19T10:00:11.688Z",
+        "userId": "c67a7f48-3c13-48f0-aa7f-ff54e2a2a842"
+      }
+    },
+    {
+      "id": "ce3fc1be5075d0e2c9911e3ce0459f3808fb51f235308fd6a008122da32c9897",
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "sourceScoredAt": "2026-10-19T09:53:08.010Z",
+      "key": "[\"1c4e801e-4c9b-491a-9542-64acdc442b69\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-19T09:53:08.010Z",
+        "userId": "1c4e801e-4c9b-491a-9542-64acdc442b69"
+      }
+    },
+    {
+      "id": "e0af7a52212704ff0a3440318beb0cc008c3fa4b604b2ed344911023127522b2",
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "sourceScoredAt": "2026-10-19T09:53:21.757Z",
+      "key": "[\"9090270e-3bbc-4e4d-89ce-d4cd1b0d4597\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Самобытный рэпась прикольно, но вот немного по саунду поработать над акцентами в треке, ну и не понравилось перебежку как исполняешь в целом хорошо",
+        "scoredAt": "2026-10-19T09:53:21.757Z",
+        "userId": "9090270e-3bbc-4e4d-89ce-d4cd1b0d4597"
+      }
     }
   ],
   "snapshots": [
@@ -165991,6 +166061,26 @@
           "index": 30.907449912236974,
           "favor": 17.928041103911806,
           "attention": 2.225732337736933,
+          "respect": 10.753676470588236
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T10:02:18.173Z",
+      "exportedAt": "2026-10-19T10:02:18.173Z",
+      "scores": 14004,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.34907373469402,
+          "favor": 9.046452225495807,
+          "attention": 5.997536763435499,
+          "respect": 6.305084745762712
+        },
+        "veterans": {
+          "index": 30.91868288182845,
+          "favor": 17.927168343541624,
+          "attention": 2.237838067698588,
           "respect": 10.753676470588236
         }
       }
