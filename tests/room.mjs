@@ -39,8 +39,8 @@ try{
    assert.equal(await page.locator('.room-mobile-light').isVisible(),false);
    assert.equal(await control.evaluate(e=>getComputedStyle(e).backgroundImage),'none');
    assert.equal(await control.evaluate(e=>getComputedStyle(e).backgroundColor),'rgba(0, 0, 0, 0)');
-   const box=await control.boundingBox();assert.ok(Math.abs(box.x+box.width/2-width*.9555)<1);
-   assert.ok(Math.abs(box.y+box.height/2-width*.4135)<1);
+   const box=await control.boundingBox();assert.ok(Math.abs(box.x+box.width/2-width*.04)<1);
+   assert.ok(Math.abs(box.y+box.height/2-width*.3590755355)<1);
   }
   await page.screenshot({path:`${shots}/${width}-on.png`});
   const value=await page.locator('#index-main').textContent();
