@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T09:32:15.984Z",
+  "exportedAt": "2026-10-19T09:42:07.330Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -1365,8 +1365,14 @@
     },
     {
       "userId": "479ec24c-3b06-42ff-94f0-b0219b75ff2a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: неплохо\nИсполнение: неплохо читаешь, но нужно лучше\nОбщее впечатление: прикольно делаешь, добавь качества во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-19T09:37:04.960Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -1392,7 +1398,7 @@
           "scoredAt": "2026-08-30T19:37:27.904Z"
         }
       ],
-      "fetchedAt": "2026-10-18T18:32:30.943Z",
+      "fetchedAt": "2026-10-19T09:42:07.330Z",
       "current": true,
       "artistName": "doprelizz",
       "artistSlug": "doprelizz"

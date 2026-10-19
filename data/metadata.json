@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T09:32:15.984Z",
-  "exportedAt": "2026-10-19T09:32:15.984Z",
-  "runId": "2026-10-19T09:32:15.984Z",
-  "forumExportedAt": "2026-10-19T09:32:15.984Z",
+  "lastSuccessfulAt": "2026-10-19T09:42:07.330Z",
+  "exportedAt": "2026-10-19T09:42:07.330Z",
+  "runId": "2026-10-19T09:42:07.330Z",
+  "forumExportedAt": "2026-10-19T09:42:07.330Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13996,
+    "scores": 13997,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 8,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 10,
-    "durationMs": 9750,
-    "scoresBefore": 13988,
-    "scoresAfter": 13996,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3291,
+    "scoresBefore": 13996,
+    "scoresAfter": 13997,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.69334559950936,
+    "requestReductionPercent": 99.90800367985281,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "artist": "doprelizz",
+          "comment": "Спасибо за трек! \nТекст: неплохо\nИсполнение: неплохо читаешь, но нужно лучше\nОбщее впечатление: прикольно делаешь, добавь качества во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-19T09:37:04.960Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -182,13 +189,6 @@
           "artist": "Кот Форумчанина",
           "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: скучновато\nОбщее впечатление: пока что рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-19T09:17:26.894Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "artist": "NIRAI",
-          "comment": "Спасибо за трек! \nТекст: срдений трек, но цепляет своей целосностью \nИсполнение: немного Джимбо напомнило\nОбщее впечатление: неплохо делаешь, но чуть разнообразнее нужно и сделать акцентов\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:17:07.494Z"
         }
       ]
     }
