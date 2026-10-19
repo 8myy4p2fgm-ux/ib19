@@ -10,7 +10,7 @@ const rawMain=JSON.parse(await fs.readFile('data/19ib_all_judges_REPAIRED.json')
 for(const dataset of [rawMain,rawForum]){dataset.members.push(...(dataset.quarantinedMembers||[]));delete dataset.quarantinedMembers;}
 rawMain.totalParticipants=rawMain.members.length;
 const at=new Date(Math.max(Date.parse(rawMain.exportedAt),...fixture.scores.map(s=>Date.parse(s.scoredAt)))+60000).toISOString();rawMain.exportedAt=at;rawForum.exportedAt=at;
-for(const dataset of [rawMain,rawForum]){const person=dataset.members.find(p=>p.userId===target);person.scores=structuredClone(fixture.scores);if(person.scoredCount!==undefined)person.scoredCount=fixture.scores.length;}
+for(const dataset of [rawMain,rawForum]){const person=dataset.members.find(p=>p.userId===target);if(!person)continue;person.scores=structuredClone(fixture.scores);if(person.scoredCount!==undefined)person.scoredCount=fixture.scores.length;}
 Object.assign(metadata,{runId:'local-exclusion-browser',exportedAt:at,forumExportedAt:at,lastSuccessfulAt:at});
 const selected=partitionAnalytics(rawMain,rawForum),D=normalizeData(selected.main,selected.forum),good=rawMain.members.find(p=>p.userId===retained),judgeId=D.judgeIdentities.get(good.scores[0].judgeName);
 assert(judgeId,'a known judge has graded the retained Zippy Kid');
@@ -36,7 +36,7 @@ try{
   const actual=await page.evaluate(async()=>{const {loadData}=await import('/js/data.js');const d=await loadData();return{ids:d.people.map(p=>p[0]),eventIds:[...new Set(d.events.map(s=>s.userId))],mapIds:[...d.byId.keys()],archiveIds:[...d.archivedById.keys()]};});
   assert(!actual.ids.includes(target));assert(!actual.eventIds.includes(target));assert(!actual.mapIds.includes(target));assert(!actual.archiveIds.includes(target));assert(actual.ids.includes(retained));
   await page.screenshot({path:`docs/screenshots/temporary-exclusion/${shape}-${width}-overview.png`});
-  await page.goto(base+'/rappers/');await page.waitForSelector('#fl-rows');assert.equal(await page.locator('[data-fl-row="'+target+'"]').count(),0);await page.locator('#fl-search').fill('Zippy');assert.equal(await page.locator('[data-fl-row="'+target+'"]').count(),0);
+  await page.goto(base+'/rappers/');await page.waitForSelector('#fl-rows');assert.equal(await page.locator('[data-fl-row="'+target+'"]').count(),0);await page.locator('#fl-search').fill('Zippy');assert.equal(await page.locator('[data-fl-row="'+target+'"]').count(),0);assert.equal(await page.locator('[data-fl-row="'+retained+'"]').count(),1);assert.equal(await page.locator('[data-fl-row="'+retained+'"] .participant-name').textContent(),'Zippy kid↗');
   await page.goto(base+'/judges/?judge='+judgeId);await page.waitForSelector('#judge-profile:not([hidden])');await page.locator('#jp-search').fill('Zippy');
   assert.equal(await page.locator('[data-jp-user="'+target+'"]').count(),0);assert.equal(await page.locator('[data-jp-user="'+retained+'"]').count(),1);
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));

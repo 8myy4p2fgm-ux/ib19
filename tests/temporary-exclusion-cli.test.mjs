@@ -17,6 +17,11 @@ test('real update CLI: six-grade quarantine publishes a valid local candidate; n
   // Establish the pre-incident fixture regardless of whether the saved production
   // snapshot has already moved this UUID into raw quarantine.
   const directory=JSON.parse(await fs.readFile(path.join(temp,'data/forum_judges_export.json')));
+  // This historical quarantine fixture must not depend on today's corrected roster.
+  const csvPath=path.join(temp,'data/forum.csv');
+  await fs.writeFile(csvPath,(await fs.readFile(csvPath,'utf8')).replace('OG,Zippy kid,'+other,'OG,Zippy kid,'+target));
+  directory.members=directory.members.filter(p=>p.userId!==other);
+  if(![...directory.members,...(directory.quarantinedMembers||[])].some(p=>p.userId===target))directory.members.push({userId:target,forum_name:'Zippy kid',group:'OG',scores:[]});
   for(const dataset of [main,directory]){
    dataset.members.push(...(dataset.quarantinedMembers||[]));delete dataset.quarantinedMembers;
    const person=dataset.members.find(p=>p.userId===target);
