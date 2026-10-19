@@ -1,7 +1,7 @@
 import {unifiedAt} from '../js/calculations.js';
 import {createHash} from 'node:crypto';
 export const key=s=>JSON.stringify([s.userId,s.judgeName]);
-export const records=main=>[...main.members,...(main.archivedMembers||[])].flatMap(p=>p.scores.map(s=>({...s,userId:p.userId})));
+export const records=main=>[...main.members,...(main.archivedMembers||[]),...(main.quarantinedMembers||[])].flatMap(p=>p.scores.map(s=>({...s,userId:p.userId})));
 export function selectionVersion(main,forum){
  const participantIds=main.members.map(p=>p.userId).sort(),directory=forum.members.map(p=>({userId:p.userId,group:p.group,forum_name:p.forum_name})).sort((a,b)=>a.userId.localeCompare(b.userId));
  return {id:createHash('sha256').update(JSON.stringify([participantIds,directory])).digest('hex'),methodology:'V108 unchanged',participantIds,directory};

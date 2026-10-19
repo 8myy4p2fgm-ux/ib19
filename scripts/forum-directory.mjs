@@ -20,8 +20,8 @@ export function parseForumCSV(text){
 }
 
 export function applyForumDirectory(previous,rows){
- const old=new Map(previous.members.map(p=>[p.userId,p]));
+ const old=new Map([...(previous.quarantinedMembers||[]),...previous.members].map(p=>[p.userId,p]));
  const members=rows.map(p=>({...old.get(p.userId),...p,veteran:p.group==='Ветераны',scores:old.get(p.userId)?.scores||[]}));
  const canonical=rows.slice().sort((a,b)=>a.userId.localeCompare(b.userId));
- return {...previous,members,directory:{source:'data/forum.csv',sha256:createHash('sha256').update(JSON.stringify(canonical)).digest('hex'),total:rows.length,og:rows.filter(p=>p.group==='OG').length,veterans:rows.filter(p=>p.group==='Ветераны').length}};
+ return {...previous,members,...(previous.quarantinedMembers?{quarantinedMembers:[]}:{}),directory:{source:'data/forum.csv',sha256:createHash('sha256').update(JSON.stringify(canonical)).digest('hex'),total:rows.length,og:rows.filter(p=>p.group==='OG').length,veterans:rows.filter(p=>p.group==='Ветераны').length}};
 }

@@ -1,3 +1,4 @@
+import {partitionAnalytics} from '../js/analytics-selection.js';
 import {chromium} from 'playwright';
 import http from 'node:http';
 import fs from 'node:fs/promises';
@@ -21,8 +22,7 @@ const server=http.createServer(async(req,res)=>{
 await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 const base=`http://127.0.0.1:${server.address().port}`;
 
-const main=JSON.parse(await fs.readFile('data/19ib_all_judges_REPAIRED.json'));
-const forum=JSON.parse(await fs.readFile('data/forum_judges_export.json'));
+const {main,forum}=partitionAnalytics(JSON.parse(await fs.readFile('data/19ib_all_judges_REPAIRED.json')),JSON.parse(await fs.readFile('data/forum_judges_export.json')));
 const active=new Set(main.members.map(p=>p.userId));
 const classify=p=>{const total=p.scores.reduce((n,s)=>n+s.score,0),remaining=Math.max(0,5-p.scores.length);return total+remaining>=15?'pass':total+remaining*5<15?'fail':'pending';};
 const counts={pass:0,fail:0,pending:0};for(const p of main.members)counts[classify(p)]++;

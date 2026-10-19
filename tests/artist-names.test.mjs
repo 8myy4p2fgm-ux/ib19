@@ -1,3 +1,4 @@
+import {partitionAnalytics} from '../js/analytics-selection.js';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
@@ -100,7 +101,7 @@ test('archiving preserves artist identity and reappearance updates it under the 
 test('saved round has names/slugs for every current UUID and preserves all archived records',()=>{
  const main=JSON.parse(fs.readFileSync('data/19ib_all_judges_REPAIRED.json')),meta=JSON.parse(fs.readFileSync('data/forum_judges_export.json'));
  const D=normalizeData(main,meta);
- assert.equal(D.artists.size,main.members.length+main.archivedMembers.length);
+ const selected=partitionAnalytics(main,meta).main;assert.equal(D.artists.size,selected.members.length+selected.archivedMembers.length);
  assert.ok(main.members.every(p=>p.artistName?.trim()&&p.artistSlug?.trim()));
  assert.equal(new Set(main.members.map(p=>p.userId)).size,main.members.length);
  for(const p of main.archivedMembers)assert.ok(D.archivedById.has(p.userId)&&D.artists.has(p.userId));

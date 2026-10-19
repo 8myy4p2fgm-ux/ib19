@@ -6,7 +6,7 @@ test('CLI no-op leaves all four files byte-identical; pending deployment retries
   await fs.mkdir(path.join(temp,'data'));await fs.mkdir(path.join(temp,'scripts'));
   for(const f of [...stateFiles,'forum.csv'])await fs.copyFile(path.join(root,'data',f),path.join(temp,'data',f));
   const metadata=JSON.parse(await fs.readFile(path.join(temp,'data/metadata.json'))),main=JSON.parse(await fs.readFile(path.join(temp,'data/19ib_all_judges_REPAIRED.json')));
-  const full={...metadata.source.round,id:metadata.source.roundId,entries:main.members.map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length?p.scores.reduce((n,s)=>n+s.score,0):null}))};let changed=false,calls=[];
+  const full={...metadata.source.round,id:metadata.source.roundId,entries:[...main.members,...(main.quarantinedMembers||[])].map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length?p.scores.reduce((n,s)=>n+s.score,0):null}))};let changed=false,calls=[];
   const target=main.members.find(p=>p.scores.some(s=>s.score>1));const details=structuredClone(target.scores);details.find(s=>s.score>1).score--;
   server=http.createServer((req,res)=>{calls.push(req.url);res.setHeader('Content-Type','application/json');const snapshot=structuredClone(full);if(changed)snapshot.entries.find(p=>p.userId===target.userId).score--;
    if(req.url==='/judges')res.end(JSON.stringify(main.judges));else if(req.url.endsWith('/full'))res.end(JSON.stringify(snapshot));else if(req.url.endsWith('/live'))res.end(JSON.stringify({progress:snapshot.entries}));else if(req.url.endsWith('/'+target.userId+'/scores'))res.end(JSON.stringify({scores:details}));else {res.writeHead(404);res.end('{}');}

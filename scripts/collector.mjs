@@ -1,20 +1,21 @@
+import {partitionAnalytics,temporaryExclusionRules} from '../js/analytics-selection.js';
 import {judgeDirectory} from './judge-directory.mjs';
-export function mergeSnapshot(old,forum,full,scoresById,observedAt,{verifiedIds,judges}={}){
+export function mergeSnapshot(old,forum,full,scoresById,observedAt,{verifiedIds,judges,exclusionRules=temporaryExclusionRules}={}){
  if(!Array.isArray(full.entries)||full.entries.length<old.members.length*.9)throw new Error('Incomplete roster');if(full.judgesRequired!==5||full.scoreScale!==5||full.passThreshold!==15)throw new Error('Round rules changed; manual review required');
- const oldById=new Map([...(old.archivedMembers||[]),...old.members].map(p=>[p.userId,p])),ids=new Set(),members=[];
+ const oldById=new Map([...(old.quarantinedMembers||[]),...(old.archivedMembers||[]),...old.members].map(p=>[p.userId,p])),ids=new Set(),members=[];
  for(const entry of full.entries){if(!entry.userId||ids.has(entry.userId))throw new Error('Invalid or duplicate entry ID');ids.add(entry.userId);const scores=scoresById.get(entry.userId);if(!Array.isArray(scores)||scores.length!==entry.scoredCount)throw new Error('Incomplete score response: '+entry.userId);for(const s of scores){if(typeof s.judgeName!=='string'||!s.judgeName.trim()||!Number.isInteger(s.score)||s.score<1||s.score>5||typeof s.comment!=='string'||!Number.isFinite(Date.parse(s.scoredAt)))throw new Error('Invalid source score: '+entry.userId);}const prev=oldById.get(entry.userId),identity={};
   for(const [source,target] of [['name','artistName'],['slug','artistSlug'],['trackId','trackId']])if(typeof entry[source]==='string'&&entry[source].trim())identity[target]=entry[source].trim();
   members.push({...prev,...identity,userId:entry.userId,scores:scores.map(s=>{const previous=prev?.scores.find(x=>x.judgeName===s.judgeName);return {...previous,...s};}),scoredCount:scores.length,fetchedAt:!verifiedIds||verifiedIds.has(entry.userId)?observedAt:prev?.fetchedAt,current:true});}
  // Public API may omit removed participants. Preserve their grades/author identities, clearly mark absence.
  const archivedMembers=[...oldById.values()].filter(p=>!ids.has(p.userId)).map(p=>({...p,current:false,sourceAbsentSince:p.sourceAbsentSince||observedAt}));
- const main={...old,...(judges?judgeDirectory(old,judges):{}),exportedAt:observedAt,totalParticipants:members.length,members,archivedMembers,errors:[]},byId=new Map([...archivedMembers,...members].map(p=>[p.userId,p]));
- const meta={...forum,exportedAt:observedAt,members:forum.members.map(p=>{const actual=byId.get(p.userId);return {...p,current:ids.has(p.userId),scores:structuredClone(actual?.scores||[]),...(p.scoredCount===undefined?{}:{scoredCount:actual?.scores.length||0})};}),errors:[]};const sourceRound=Object.fromEntries(Object.entries(full).filter(([key])=>key!=='entries'));return {main,forum:meta,sourceRound,absent:archivedMembers.map(p=>p.userId)};
+ const main={...old,...(judges?judgeDirectory(old,judges):{}),exportedAt:observedAt,totalParticipants:members.length,members,archivedMembers,...(old.quarantinedMembers?{quarantinedMembers:[]}:{}),errors:[]},byId=new Map([...archivedMembers,...members].map(p=>[p.userId,p]));
+ const meta={...forum,exportedAt:observedAt,members:[...forum.members,...(forum.quarantinedMembers||[]).filter(p=>!forum.members.some(m=>m.userId===p.userId))].map(p=>{const actual=byId.get(p.userId);return {...p,current:ids.has(p.userId),scores:structuredClone(actual?.scores||[]),...(p.scoredCount===undefined?{}:{scoredCount:actual?.scores.length||0})};}),...(forum.quarantinedMembers?{quarantinedMembers:[]}:{}),errors:[]};const sourceRound=Object.fromEntries(Object.entries(full).filter(([key])=>key!=='entries'));const selected=partitionAnalytics(main,meta,{exclusionRules});return {...selected,sourceRound,absent:archivedMembers.map(p=>p.userId)};
 }
 
 export function validateSavedSnapshot(main) {
  if (!main || !Array.isArray(main.members) || !Number.isFinite(Date.parse(main.exportedAt)) || main.errors?.length) throw new Error('Invalid saved snapshot; restore a validated Git revision');
  const ids = new Set();
- for (const p of [...main.members, ...(main.archivedMembers || [])]) {
+ for (const p of [...main.members, ...(main.archivedMembers || []), ...(main.quarantinedMembers || [])]) {
   if (!p.userId || ids.has(p.userId) || !Array.isArray(p.scores) || p.scoredCount !== p.scores.length) throw new Error('Invalid saved participant');
   ids.add(p.userId);const judges=new Set();
   for (const s of p.scores) {
@@ -67,7 +68,7 @@ export function createClient(config,{fetchImpl=fetch,sleep=ms=>new Promise(r=>se
   throw error;
  };
 }
-export async function collect(config,old,forum,{get,now=()=>new Date().toISOString(),onProgress=()=>{},stats={}}={}) {
+export async function collect(config,old,forum,{get,now=()=>new Date().toISOString(),onProgress=()=>{},stats={},exclusionRules=temporaryExclusionRules}={}) {
  validateSavedSnapshot(old);
  const started=Date.now(),transportStats=stats;const client=get||createClient(config,{stats:transportStats,onProgress});let logicalRequests=0;
  const read=async p=>{logicalRequests++;try{return await client(p);}catch(error){Object.assign(stats,{status:'failed',logicalRequests,durationMs:Date.now()-started});throw error;}};
@@ -77,7 +78,7 @@ export async function collect(config,old,forum,{get,now=()=>new Date().toISOStri
  if(full.id!==config.roundId)throw new Error('Wrong round');validateEntries(full.entries);
  if(full.entries.length<old.members.length*.9)throw new Error('Incomplete roster');
  if(full.judgesRequired!==5||full.scoreScale!==5||full.passThreshold!==15)throw new Error('Round rules changed; manual review required');
- const byId=new Map([...(old.archivedMembers||[]),...old.members].map(p=>[p.userId,p]));const scores=new Map(),verifiedIds=new Set();
+ const byId=new Map([...(old.quarantinedMembers||[]),...(old.archivedMembers||[]),...old.members].map(p=>[p.userId,p]));const scores=new Map(),verifiedIds=new Set();
  const changed=full.entries.filter(e=>!byId.has(e.userId)||!matches(byId.get(e.userId).scores,e));
  const pending=full.entries.filter(e=>config.mode==='full'?e.scoredCount>0||byId.get(e.userId)?.scores.length:changed.includes(e));
  for(const e of full.entries)scores.set(e.userId,byId.get(e.userId)?.scores||[]);
@@ -97,10 +98,11 @@ export async function collect(config,old,forum,{get,now=()=>new Date().toISOStri
    const dirty=full.entries.filter(e=>!matches(scores.get(e.userId),progress.get(e.userId)));
    if(!dirty.length){
     for(const e of full.entries)Object.assign(e,{scoredCount:progress.get(e.userId).scoredCount,score:progress.get(e.userId).score});
-    const batch=mergeSnapshot(old,forum,full,scores,now(),{verifiedIds,judges});
+    const batch=mergeSnapshot(old,forum,full,scores,now(),{verifiedIds,judges,exclusionRules});
     validateSavedSnapshot(batch.main);
     const baseline=2+(config.judgeProfiles?1:0)+full.entries.filter(e=>e.scoredCount>0||byId.get(e.userId)?.scores.length).length;
-    Object.assign(stats,{mode:config.mode||'incremental',participants:full.entries.length,participantsWithNewScores:batch.main.members.filter(e=>e.scores.length>(byId.get(e.userId)?.scores.length||0)).length,changedParticipants:changed.length,updatedCards:verifiedIds.size,logicalRequests,httpRequests:get?logicalRequests:transportStats.httpRequests,errors429:transportStats.errors429||0,retries:transportStats.retries||0,durationMs:Date.now()-started,scoresBefore:old.members.reduce((n,p)=>n+p.scores.length,0),scoresAfter:batch.main.members.reduce((n,p)=>n+p.scores.length,0),fullBaselineRequests:baseline,requestReductionPercent:100*(1-(get?logicalRequests:transportStats.httpRequests)/baseline)});
+    Object.assign(stats,{mode:config.mode||'incremental',participants:batch.main.members.length,sourceParticipants:full.entries.length,participantsWithNewScores:batch.main.members.filter(e=>e.scores.length>(byId.get(e.userId)?.scores.length||0)).length,changedParticipants:changed.length,updatedCards:verifiedIds.size,logicalRequests,httpRequests:get?logicalRequests:transportStats.httpRequests,errors429:transportStats.errors429||0,retries:transportStats.retries||0,durationMs:Date.now()-started,scoresBefore:old.members.reduce((n,p)=>n+p.scores.length,0),scoresAfter:batch.main.members.reduce((n,p)=>n+p.scores.length,0),fullBaselineRequests:baseline,requestReductionPercent:100*(1-(get?logicalRequests:transportStats.httpRequests)/baseline)});
+    if(batch.excluded.length){stats.temporaryExclusions=batch.excluded;for(const exclusion of batch.excluded)onProgress({stage:'temporary-exclusion',...exclusion});}
     batch.collection=stats;return batch;
    }
    onProgress({stage:'reconcile',pass:pass+1,changed:dirty.length});

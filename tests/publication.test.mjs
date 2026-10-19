@@ -1,8 +1,9 @@
+import {partitionAnalytics} from '../js/analytics-selection.js';
 import {assertUpdateWorkflowModes} from './helpers/update-workflow.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
 import {loadState,collectionMode} from '../scripts/collection-state.mjs';import {collect} from '../scripts/collector.mjs';import {validateData} from '../scripts/validate-data.mjs';import {publicationChanged,stateFingerprint,compatibleCheck} from '../scripts/publication-plan.mjs';import {restoreCheck} from '../scripts/restore-check-report.mjs';
-const state=await loadState(),source=state.metadata.source;
-const full={...source.round,id:source.roundId,entries:state.main.members.map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length?p.scores.reduce((n,s)=>n+s.score,0):null}))};
+const saved=await loadState(),selection=partitionAnalytics(saved.main,saved.forum),state={...saved,main:selection.main,forum:selection.forum,metadata:{...saved.metadata,counts:validateData(selection.main,selection.forum)}},source=state.metadata.source;
+const full={...source.round,id:source.roundId,entries:[...state.main.members,...(state.main.quarantinedMembers||[])].map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length?p.scores.reduce((n,s)=>n+s.score,0):null}))};
 const batch=await collect({roundId:source.roundId},state.main,state.forum,{now:()=>new Date(Date.parse(state.main.exportedAt)+300000).toISOString(),get:async path=>path.endsWith('/full')?full:{progress:full.entries}});
 const counts=validateData(batch.main,batch.forum);
 test('fresh export time alone must not trigger publication or a historical snapshot',()=>{assert.equal(publicationChanged(state,batch,counts,source),false);assert.equal(publicationChanged(state,{...batch,main:{...batch.main,members:batch.main.members.map(p=>({...p,fetchedAt:batch.main.exportedAt}))}},counts,source),false);});

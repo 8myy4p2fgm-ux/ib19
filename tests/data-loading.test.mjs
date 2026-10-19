@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import {loadData} from '../js/data.js';
+import {loadData,normalizeData} from '../js/data.js';
 const main=JSON.parse(await fs.readFile(new URL('../data/19ib_all_judges_REPAIRED.json',import.meta.url)));
 const forum=JSON.parse(await fs.readFile(new URL('../data/forum_judges_export.json',import.meta.url)));
 const meta={runId:'test',exportedAt:main.exportedAt,forumExportedAt:forum.exportedAt,lastSuccessfulAt:main.exportedAt};
@@ -24,7 +24,7 @@ for(const failure of ['metadata-network','body-network','http-503','mismatch'])t
   }
   return {ok:true,json:async()=>name==='forum_judges_export.json'?forum:main};
  });
- const result=await loadData();assert.equal(attempts,2);assert.equal(result.people.length,main.members.length);assert.equal(result.updated,main.exportedAt);
+ const result=await loadData();assert.equal(attempts,2);assert.equal(result.people.length,normalizeData(main,forum).people.length);assert.equal(result.updated,main.exportedAt);
 });
 test('Persistent failures stop after three attempts',async t=>{
  let attempts=0;t.mock.method(globalThis,'fetch',async()=>{attempts++;throw new TypeError('Failed to fetch')});

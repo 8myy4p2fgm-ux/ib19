@@ -1,3 +1,4 @@
+import {partitionAnalytics} from '../js/analytics-selection.js';
 import {assertUpdateWorkflowModes} from './helpers/update-workflow.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';
 import {collect,createClient,retryAfterMs,validateSavedSnapshot} from '../scripts/collector.mjs';
@@ -45,8 +46,8 @@ test('bounded retries and long Retry-After stop safely without ignoring server w
 });
 test('shared throttle prevents concurrent request bursts',async()=>{let time=0;const starts=[];const get=createClient({apiBase:'https://test',requestIntervalMs:1000,retries:0,maxDurationMs:10000},{clock:()=>time,sleep:async ms=>{time+=ms;},fetchImpl:async()=>{starts.push(time);return response(200);}});await Promise.all([get('/a'),get('/b'),get('/c')]);assert.ok(starts[1]-starts[0]>=1000);assert.ok(starts[2]-starts[1]>=1000);});
 test('production-shaped snapshot: reuse preserves all scores/comments, TUZ and normalized data',async()=>{
- const main=JSON.parse(fs.readFileSync('data/19ib_all_judges_REPAIRED.json')),meta=JSON.parse(fs.readFileSync('data/forum_judges_export.json'));
- validateSavedSnapshot(main);const source={...full,entries:main.members.map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length? p.scores.reduce((n,s)=>n+s.score,0):null}))};
+ const {main,forum:meta}=partitionAnalytics(JSON.parse(fs.readFileSync('data/19ib_all_judges_REPAIRED.json')),JSON.parse(fs.readFileSync('data/forum_judges_export.json')));
+ validateSavedSnapshot(main);const source={...full,entries:[...main.members,...(main.quarantinedMembers||[])].map(p=>({userId:p.userId,scoredCount:p.scores.length,score:p.scores.length? p.scores.reduce((n,s)=>n+s.score,0):null}))};
  const result=await collect({roundId:'r'},main,meta,{now:()=>main.exportedAt,get:async path=>{if(path.endsWith('/full'))return source;if(path.endsWith('/live'))return {progress:source.entries};assert.fail('no card should be requested');}});
  assert.deepEqual(result.main,main);assert.deepEqual(result.forum,meta);const a=normalizeData(main,meta),b=normalizeData(result.main,result.forum);assert.deepEqual(a.events,b.events);
  const calc=d=>unifiedAt(d.events,d.metadata.size,5,Date.parse(main.exportedAt),{otherCount:d.people.length-d.metadata.size,historical:false});assert.deepEqual(calc(a),calc(b));

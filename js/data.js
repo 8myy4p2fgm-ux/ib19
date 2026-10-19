@@ -1,5 +1,7 @@
 import {config} from './config.js';
-export function normalizeData(main,forum){
+import {partitionAnalytics} from './analytics-selection.js';
+export function normalizeData(rawMain,rawForum,options={}){
+ const {main,forum,excluded}=partitionAnalytics(rawMain,rawForum,options);
  const errors=[],warnings=[];
  const fail=(condition,message)=>{if(!condition)errors.push(message)};
  fail(Array.isArray(main.members),'Основная выгрузка: отсутствует members');fail(Array.isArray(forum.members),'Список форума: отсутствует members');
@@ -27,7 +29,7 @@ export function normalizeData(main,forum){
  const metadata=new Map(forum.members.filter(p=>ids.has(p.userId)).map(p=>[p.userId,p]));
  const people=main.members.map(p=>{const f=metadata.get(p.userId);return [p.userId,f?.forum_name||'',f?.group||'',p.scores.map(s=>[s.judgeName,s.score,s.scoredAt])];});
  const events=main.members.flatMap(p=>p.scores.map(s=>({...s,userId:p.userId,forum:metadata.has(p.userId),judge:s.judgeName,t:Date.parse(s.scoredAt)}))).sort((a,b)=>(Number.isFinite(a.t)?a.t:Infinity)-(Number.isFinite(b.t)?b.t:Infinity));
- return {judges,judgeIdentities,updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
+ return {excluded,judges,judgeIdentities,updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
 }
 // Retry a complete snapshot: never combine data from different published versions.
 export async function loadData(){
