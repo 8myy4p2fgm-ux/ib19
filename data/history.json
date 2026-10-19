@@ -154546,6 +154546,62 @@
         "scoredAt": "2026-10-19T10:12:39.187Z",
         "userId": "737ff124-5087-4a9d-862c-80dd699f11d2"
       }
+    },
+    {
+      "id": "f170f6f4ffb8bf1bb71d367d7f095d19efe5a752e8bf1fb40e82ed0d69072a65",
+      "observedAt": "2026-10-19T10:32:10.772Z",
+      "sourceScoredAt": "2026-10-19T10:25:38.822Z",
+      "key": "[\"3d03c030-ad12-4f15-aee4-56660502e96a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Чуть жирка в голосе не хватило и закрались сомнения в плане ИИ или нет",
+        "scoredAt": "2026-10-19T10:25:38.822Z",
+        "userId": "3d03c030-ad12-4f15-aee4-56660502e96a"
+      }
+    },
+    {
+      "id": "71c515792758cf5b3f1b6d09a85e2164bedc7191ddded72182e26109adae9cfc",
+      "observedAt": "2026-10-19T10:32:10.772Z",
+      "sourceScoredAt": "2026-10-19T10:28:54.999Z",
+      "key": "[\"725426d7-b01d-4d50-a0bb-6ef048b7bd92\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Стелишь чётко, понимаю под такой стиль порой надо упрощать рифмы и не критично тут это, но вот местами фишек не хватило, для полного разноса",
+        "scoredAt": "2026-10-19T10:28:54.999Z",
+        "userId": "725426d7-b01d-4d50-a0bb-6ef048b7bd92"
+      }
+    },
+    {
+      "id": "869958d7be05ccf1ce166eaf1082dbf58686a29a415eab1a2ac7549ad52135a9",
+      "observedAt": "2026-10-19T10:32:10.772Z",
+      "sourceScoredAt": "2026-10-19T10:30:34.651Z",
+      "key": "[\"68189d14-d767-40d2-bddd-5364a82b5c47\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну дефолтный трек, под такой стилек в некст раз в терции беки запиши для объема полу вокала, ну и местами рифма простенько",
+        "scoredAt": "2026-10-19T10:30:34.651Z",
+        "userId": "68189d14-d767-40d2-bddd-5364a82b5c47"
+      }
+    },
+    {
+      "id": "ef903e273ef55cf12a2f65545d364e0b471af292cbfd9c8f823812f19351979e",
+      "observedAt": "2026-10-19T10:32:10.772Z",
+      "sourceScoredAt": "2026-10-19T10:27:04.008Z",
+      "key": "[\"5dfc29a2-2241-4a2e-a123-4b96cd0381a7\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Хук пожирнее и было бы вкуснее работа",
+        "scoredAt": "2026-10-19T10:27:04.008Z",
+        "userId": "5dfc29a2-2241-4a2e-a123-4b96cd0381a7"
+      }
     }
   ],
   "snapshots": [
@@ -166205,6 +166261,26 @@
           "index": 30.935109893671182,
           "favor": 17.927635484062442,
           "attention": 2.2537979390205036,
+          "respect": 10.753676470588236
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T10:32:10.772Z",
+      "exportedAt": "2026-10-19T10:32:10.772Z",
+      "scores": 14014,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.366197081650796,
+          "favor": 9.045769753935222,
+          "attention": 6.015342581952862,
+          "respect": 6.305084745762712
+        },
+        "veterans": {
+          "index": 30.94460745269199,
+          "favor": 17.926505556827138,
+          "attention": 2.264425425276616,
           "respect": 10.753676470588236
         }
       }

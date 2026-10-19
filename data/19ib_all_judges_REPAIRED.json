@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T10:22:10.536Z",
+  "exportedAt": "2026-10-19T10:32:10.772Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -42029,8 +42029,14 @@
     },
     {
       "userId": "3d03c030-ad12-4f15-aee4-56660502e96a",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Чуть жирка в голосе не хватило и закрались сомнения в плане ИИ или нет",
+          "scoredAt": "2026-10-19T10:25:38.822Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -42044,7 +42050,7 @@
           "scoredAt": "2026-10-08T17:17:59.846Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:32:11.939Z",
+      "fetchedAt": "2026-10-19T10:32:10.772Z",
       "current": true,
       "artistName": "SUGE GORILL",
       "artistSlug": "suge-gorill"
@@ -70527,8 +70533,14 @@
     },
     {
       "userId": "725426d7-b01d-4d50-a0bb-6ef048b7bd92",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Стелишь чётко, понимаю под такой стиль порой надо упрощать рифмы и не критично тут это, но вот местами фишек не хватило, для полного разноса",
+          "scoredAt": "2026-10-19T10:28:54.999Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -70548,7 +70560,7 @@
           "scoredAt": "2026-09-30T10:06:55.923Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T10:32:10.772Z",
       "current": true,
       "artistName": "Monkey Boy",
       "artistSlug": "monkey-boy"
@@ -96793,8 +96805,14 @@
     },
     {
       "userId": "68189d14-d767-40d2-bddd-5364a82b5c47",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Ну дефолтный трек, под такой стилек в некст раз в терции беки запиши для объема полу вокала, ну и местами рифма простенько",
+          "scoredAt": "2026-10-19T10:30:34.651Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -96814,7 +96832,7 @@
           "scoredAt": "2026-10-14T20:45:34.839Z"
         }
       ],
-      "fetchedAt": "2026-10-18T17:52:19.664Z",
+      "fetchedAt": "2026-10-19T10:32:10.772Z",
       "current": true,
       "artistName": "KMRSZ (Kommers)",
       "artistSlug": "kmrsz-kommers"
@@ -96957,8 +96975,14 @@
     },
     {
       "userId": "5dfc29a2-2241-4a2e-a123-4b96cd0381a7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Хук пожирнее и было бы вкуснее работа",
+          "scoredAt": "2026-10-19T10:27:04.008Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -96978,7 +97002,7 @@
           "scoredAt": "2026-10-16T09:57:50.295Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:42:08.109Z",
+      "fetchedAt": "2026-10-19T10:32:10.772Z",
       "current": true,
       "artistName": "Пуля Патроно",
       "artistSlug": "pulya-patrono"
