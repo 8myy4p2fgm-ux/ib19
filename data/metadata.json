@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T07:22:11.690Z",
-  "exportedAt": "2026-10-19T07:22:11.690Z",
-  "runId": "2026-10-19T07:22:11.690Z",
-  "forumExportedAt": "2026-10-19T07:22:11.690Z",
+  "lastSuccessfulAt": "2026-10-19T07:32:12.020Z",
+  "exportedAt": "2026-10-19T07:32:12.020Z",
+  "runId": "2026-10-19T07:32:12.020Z",
+  "forumExportedAt": "2026-10-19T07:32:12.020Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13925,
+    "scores": 13926,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 3,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4383,
-    "scoresBefore": 13923,
-    "scoresAfter": 13925,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 3,
+    "durationMs": 3473,
+    "scoresBefore": 13925,
+    "scoresAfter": 13926,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.87733823980373,
+    "requestReductionPercent": 99.90800367985281,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "В этом нету радости",
+          "comment": "я дам тебе свободу мой поп фильтр носок (с) очень даже жизненные ситуации описал! Возможно, просела некая цельность и общность всех раскрытий, но все исполнил хорошо, есть панчики, идея ясна. Беги во второй. ",
+          "scoredAt": "2026-10-19T07:25:38.609Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -182,13 +189,6 @@
           "artist": "POSLE TITROV",
           "comment": "",
           "scoredAt": "2026-10-19T04:59:46.239Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "weekds",
-          "comment": "",
-          "scoredAt": "2026-10-19T04:59:29.865Z"
         }
       ]
     }
