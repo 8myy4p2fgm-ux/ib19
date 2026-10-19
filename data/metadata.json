@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T01:22:00.753Z",
-  "exportedAt": "2026-10-19T01:22:00.753Z",
-  "runId": "2026-10-19T01:22:00.753Z",
-  "forumExportedAt": "2026-10-19T01:22:00.753Z",
+  "lastSuccessfulAt": "2026-10-19T05:02:20.356Z",
+  "exportedAt": "2026-10-19T05:02:20.356Z",
+  "runId": "2026-10-19T05:02:20.356Z",
+  "forumExportedAt": "2026-10-19T05:02:20.356Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13903,
+    "scores": 13913,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3748,
-    "scoresBefore": 13901,
-    "scoresAfter": 13903,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 12,
+    "durationMs": 12415,
+    "scoresBefore": 13903,
+    "scoresAfter": 13913,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.87730061349693,
+    "requestReductionPercent": 99.6319018404908,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -86,6 +86,76 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Рамз Разный",
+          "comment": "вокал был лишним, либо надо сводить",
+          "scoredAt": "2026-10-19T05:00:39.588Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "POSLE TITROV",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:59:46.239Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "weekds",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:59:29.865Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "ОСУШИТЕЛЬ КИСОК 2010",
+          "comment": "поменьше грязи в некст раунде, если пройдёшь ",
+          "scoredAt": "2026-10-19T04:59:13.624Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "дауни младший",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:58:47.288Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "three50",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:58:27.399Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "KRO",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:58:06.569Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Heeeybro",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:57:43.743Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "КириллБезМефодия",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:57:27.614Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "herobrine",
+          "comment": "",
+          "scoredAt": "2026-10-19T04:57:07.833Z"
+        },
+        {
           "judgeName": "Illumate",
           "score": 3,
           "artist": "DRUNKROMANTIC",
@@ -119,76 +189,6 @@
           "artist": "1RG",
           "comment": "Рифмотеррор – громковатое слово для «вайпер» / «снайпер» / «дизайнер». Оскорбления какие-то глупые: вы икра, вы крабы, ты хавал картошку, я вас сделал пам пам пам. ",
           "scoredAt": "2026-10-19T01:05:04.819Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "шумнафоне",
-          "comment": "Читка отдаёт каким-то юношеством, наивностью. Пресноватая работа. Знаешь, как зайти в раунд, с моей точки зрения, хорошистом.",
-          "scoredAt": "2026-10-19T00:59:50.594Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "artist": "AntonDevik [ЧБ]",
-          "comment": "Как же ты раздаёшь! Строчка «ведь врать не хорошо, пиздеть надо осознанно» меня покорила. Только на рифмы в последней четвёрке и паре мест прям наплевал. Прощаю на первый раз̶унд.",
-          "scoredAt": "2026-10-19T00:54:49.061Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Мод Дэш",
-          "comment": "Необычно, с особинкой. Но не зацепило. Больше тяготило.",
-          "scoredAt": "2026-10-19T00:48:50.807Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "11underdog11",
-          "comment": "Грузятина. Обращаюсь через данный комментарий ко всем участникам, которые читают log оценок: не выбирайте такие биты, пожалуйста. Если вы сами их пишете, не делайте этого. ",
-          "scoredAt": "2026-10-19T00:45:36.965Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Тримм",
-          "comment": "Голос обладает мощью, но зачитал вразвалочку. Как будто реально было впадлу, именно шо на отъебись сделал.",
-          "scoredAt": "2026-10-19T00:41:26.701Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Миша Тенге",
-          "comment": "Слабо во всех аспектах. ",
-          "scoredAt": "2026-10-19T00:37:58.013Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "artist": "SUMRIP",
-          "comment": "Какие красивые, ёмкие и связанные друг с другом образы! Каждое слово на своём месте. Сначала впечатлил текст, а потом – как ты шикарно оживил его подобным исполнением. Честно говоря, прослушал семь раз подряд – настолько впечатлился. Одна из лучших песен раунда.",
-          "scoredAt": "2026-10-19T00:35:26.247Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "artist": "Пэнс",
-          "comment": "Ты клёво читаешь, отлично падаешь интонациями в окончаниях строк в ритм. ",
-          "scoredAt": "2026-10-19T00:29:22.144Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Витя Смит",
-          "comment": "Бодро и уверенно читаешь. Но рифмы незатейливые, кустарные.",
-          "scoredAt": "2026-10-19T00:26:08.077Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Spawn",
-          "comment": "Очень скучно. Ни в подаче, ни в тексте нет жизни. Ничего не запомнилось, кроме «вака-флака, маза-фака». ",
-          "scoredAt": "2026-10-19T00:22:25.952Z"
         }
       ]
     }

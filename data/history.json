@@ -153048,6 +153048,146 @@
         "scoredAt": "2026-10-19T01:15:13.429Z",
         "userId": "7a6b7739-a024-4e92-aecd-55aac7c5657c"
       }
+    },
+    {
+      "id": "80e6dc1f70bf2d2635cd6c5f4a1f0ba0fe59df847bf8b71702bcfb5c8d61d45e",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:57:07.833Z",
+      "key": "[\"3ed548c1-f5cc-4716-8f00-d8856d76a9ca\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:57:07.833Z",
+        "userId": "3ed548c1-f5cc-4716-8f00-d8856d76a9ca"
+      }
+    },
+    {
+      "id": "64a6122c3e9716c4ad2cd00bb9e8cb870207ac91d608379f024a079d4605f92b",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:58:27.399Z",
+      "key": "[\"12923623-6b1d-4fda-8b82-79fdc436ce24\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:58:27.399Z",
+        "userId": "12923623-6b1d-4fda-8b82-79fdc436ce24"
+      }
+    },
+    {
+      "id": "80f3f857ca12934daa181cba31ee8b2cdc8e15aae4dae8e1d1078b76ff400bc6",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:57:27.614Z",
+      "key": "[\"59960eab-f48d-4789-b90b-572da661186d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:57:27.614Z",
+        "userId": "59960eab-f48d-4789-b90b-572da661186d"
+      }
+    },
+    {
+      "id": "536329291b63533b550774831a356f07a21861ab6581988fdd04110c5722b118",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:57:43.743Z",
+      "key": "[\"0aad7d86-6ba0-4793-9350-26a1bdccd68e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:57:43.743Z",
+        "userId": "0aad7d86-6ba0-4793-9350-26a1bdccd68e"
+      }
+    },
+    {
+      "id": "8032de8410d318acf5976a23102e80fe5c102c625123aa92f89f36a5d8e82be3",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T05:00:39.588Z",
+      "key": "[\"566186cd-1bbc-4820-88a5-2ab3dbf3b744\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "вокал был лишним, либо надо сводить",
+        "scoredAt": "2026-10-19T05:00:39.588Z",
+        "userId": "566186cd-1bbc-4820-88a5-2ab3dbf3b744"
+      }
+    },
+    {
+      "id": "02f9bbdc2a0523ebeb2985cb83f0707bec7fa415cb20f45691f9a6ae300a6fb8",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:58:47.288Z",
+      "key": "[\"b65f36e6-175d-45e6-beac-f5c5272aacd4\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:58:47.288Z",
+        "userId": "b65f36e6-175d-45e6-beac-f5c5272aacd4"
+      }
+    },
+    {
+      "id": "332e32243cce86d5bbf49df126580395e745e4e663b698ab1bb4c8ba2bbedb2a",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:59:46.239Z",
+      "key": "[\"0c80f2e6-7bee-49cb-9b63-4f985beff4b9\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:59:46.239Z",
+        "userId": "0c80f2e6-7bee-49cb-9b63-4f985beff4b9"
+      }
+    },
+    {
+      "id": "3b98e122fb47cf05a9b4a2cd5c15fb08a70ffe9f167d2827177f7350e0d12584",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:59:13.624Z",
+      "key": "[\"797d06c7-d222-42ff-b9ef-b58564c2baaf\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "поменьше грязи в некст раунде, если пройдёшь ",
+        "scoredAt": "2026-10-19T04:59:13.624Z",
+        "userId": "797d06c7-d222-42ff-b9ef-b58564c2baaf"
+      }
+    },
+    {
+      "id": "5fbe554ef9e1c5b02f189aa17db5b50777d2221ebc7b462ae88f16e8a7e9e6da",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:59:29.865Z",
+      "key": "[\"3d8eaf38-f309-4053-abb1-cc2b2f1abf42\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:59:29.865Z",
+        "userId": "3d8eaf38-f309-4053-abb1-cc2b2f1abf42"
+      }
+    },
+    {
+      "id": "bfcb05972d14d4d86a77ae1f52ae8322caf730f31abd99ea369ca05c563c2853",
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "sourceScoredAt": "2026-10-19T04:58:06.569Z",
+      "key": "[\"3aa3b7c9-2694-4ce9-bc4a-0a703b295abe\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-19T04:58:06.569Z",
+        "userId": "3aa3b7c9-2694-4ce9-bc4a-0a703b295abe"
+      }
     }
   ],
   "snapshots": [
@@ -164187,6 +164327,26 @@
           "index": 30.878206759645302,
           "favor": 17.83716669894764,
           "attention": 2.3188178384754403,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T05:02:20.356Z",
+      "exportedAt": "2026-10-19T05:02:20.356Z",
+      "scores": 13913,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.43825790105773,
+          "favor": 9.121219454813282,
+          "attention": 5.96499762991792,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.897719655792905,
+          "favor": 17.8419622264157,
+          "attention": 2.333535207154985,
           "respect": 10.722222222222221
         }
       }
