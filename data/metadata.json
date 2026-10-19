@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T08:12:13.658Z",
-  "exportedAt": "2026-10-19T08:12:13.658Z",
-  "runId": "2026-10-19T08:12:13.658Z",
-  "forumExportedAt": "2026-10-19T08:12:13.658Z",
+  "lastSuccessfulAt": "2026-10-19T08:22:15.107Z",
+  "exportedAt": "2026-10-19T08:22:15.107Z",
+  "runId": "2026-10-19T08:22:15.107Z",
+  "forumExportedAt": "2026-10-19T08:22:15.107Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13940,
+    "scores": 13944,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4225,
-    "scoresBefore": 13938,
-    "scoresAfter": 13940,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 6,
+    "durationMs": 6464,
+    "scoresBefore": 13940,
+    "scoresAfter": 13944,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.87733823980373,
+    "requestReductionPercent": 99.81600735970562,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Trais",
+          "comment": "Очень дефолтно, паузы в исполнение под такой стилек очень странное решение... и ещё когда биток типо разогнался тебе тоже надо было разгонятся, и напора дать",
+          "scoredAt": "2026-10-19T08:21:36.325Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "Жан Робер",
+          "comment": "Очень просто как по тексту, так и по исполнению. Стилек на месте. Тебе надо не на баттлы, а на площадки делать репчик.",
+          "scoredAt": "2026-10-19T08:19:12.410Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "Кэмэл со вкусом гангрены",
+          "comment": "Очень сумбурная работа для меня, во второй части трека вообще чувство что ты начал игнорировать битло и просто флексил от своей читки",
+          "scoredAt": "2026-10-19T08:18:59.791Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "MIIGHTYY",
+          "comment": "Какой кайфовый биток, но... Ты под него не раскрываешься, когда берешь такой саунд надо люто играть с подачей и прям харизмой давить, тут этого увы нет",
+          "scoredAt": "2026-10-19T08:17:34.136Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -161,34 +189,6 @@
           "artist": "FLEXIN",
           "comment": "Полет нормальный бро, как стелишь хорошо, но вот по тексту честно простовато, андерок стиль такой требует наполнения текста",
           "scoredAt": "2026-10-19T07:53:24.185Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Субботник",
-          "comment": "К сожалению ты не вывез такой бит, который требует харизму",
-          "scoredAt": "2026-10-19T07:51:47.850Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Черный",
-          "comment": "",
-          "scoredAt": "2026-10-19T07:50:10.148Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Вова Эйкивоки",
-          "comment": "В целом вполне не плохо и по подаче и по флоу,  единственное пофикси сведос, голос прям на высоких частотах режет ухо",
-          "scoredAt": "2026-10-19T07:50:08.640Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "В этом нету радости",
-          "comment": "я дам тебе свободу мой поп фильтр носок (с) очень даже жизненные ситуации описал! Возможно, просела некая цельность и общность всех раскрытий, но все исполнил хорошо, есть панчики, идея ясна. Беги во второй. ",
-          "scoredAt": "2026-10-19T07:25:38.609Z"
         }
       ]
     }

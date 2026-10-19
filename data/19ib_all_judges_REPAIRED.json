@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T08:12:13.658Z",
+  "exportedAt": "2026-10-19T08:22:15.107Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -47309,8 +47309,14 @@
     },
     {
       "userId": "f44f2e3b-0a0e-4d3d-9491-8ecf850a746c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень сумбурная работа для меня, во второй части трека вообще чувство что ты начал игнорировать битло и просто флексил от своей читки",
+          "scoredAt": "2026-10-19T08:18:59.791Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -47324,7 +47330,7 @@
           "scoredAt": "2026-10-16T18:57:04.495Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:02:26.938Z",
+      "fetchedAt": "2026-10-19T08:22:15.107Z",
       "current": true,
       "artistName": "Кэмэл со вкусом гангрены",
       "artistSlug": "kemel-so-vkusom-gangreny"
@@ -48919,8 +48925,14 @@
     },
     {
       "userId": "62fdc144-96ae-4ed8-a638-81d481b18f98",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Какой кайфовый биток, но... Ты под него не раскрываешься, когда берешь такой саунд надо люто играть с подачей и прям харизмой давить, тут этого увы нет",
+          "scoredAt": "2026-10-19T08:17:34.136Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -48934,7 +48946,7 @@
           "scoredAt": "2026-09-10T19:42:52.225Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T08:22:15.107Z",
       "current": true,
       "artistName": "MIIGHTYY",
       "artistSlug": "miightyy"
@@ -80989,8 +81001,14 @@
     },
     {
       "userId": "47be7e37-9ede-4864-b6fb-d8dd428421bb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень просто как по тексту, так и по исполнению. Стилек на месте. Тебе надо не на баттлы, а на площадки делать репчик.",
+          "scoredAt": "2026-10-19T08:19:12.410Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -81010,7 +81028,7 @@
           "scoredAt": "2026-10-13T20:35:06.527Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:02:27.839Z",
+      "fetchedAt": "2026-10-19T08:22:15.107Z",
       "current": true,
       "artistName": "Жан Робер",
       "artistSlug": "zhan-rober"
@@ -101094,8 +101112,14 @@
     },
     {
       "userId": "211447a5-6415-4b91-85ab-cf26d6bc92e8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Очень дефолтно, паузы в исполнение под такой стилек очень странное решение... и ещё когда биток типо разогнался тебе тоже надо было разгонятся, и напора дать",
+          "scoredAt": "2026-10-19T08:21:36.325Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -101115,7 +101139,7 @@
           "scoredAt": "2026-10-14T15:55:57.235Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:22:13.358Z",
+      "fetchedAt": "2026-10-19T08:22:15.107Z",
       "current": true,
       "artistName": "Trais",
       "artistSlug": "trais"
