@@ -153370,6 +153370,48 @@
         "scoredAt": "2026-10-19T07:25:38.609Z",
         "userId": "1f022d72-f01c-4e36-af12-c4fb563c8aff"
       }
+    },
+    {
+      "id": "4a03302e31112ca4c7f0ca1232003bb96e888622d8cb2a92617130b9b80dfddd",
+      "observedAt": "2026-10-19T07:52:17.674Z",
+      "sourceScoredAt": "2026-10-19T07:51:47.850Z",
+      "key": "[\"511bdaef-535a-4573-aab1-10d3e27378cd\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "К сожалению ты не вывез такой бит, который требует харизму",
+        "scoredAt": "2026-10-19T07:51:47.850Z",
+        "userId": "511bdaef-535a-4573-aab1-10d3e27378cd"
+      }
+    },
+    {
+      "id": "bfe2bef0d45220e4a156324275d952e89ebbbbc11660addcb14bfcbad7b43a9f",
+      "observedAt": "2026-10-19T07:52:17.674Z",
+      "sourceScoredAt": "2026-10-19T07:50:10.148Z",
+      "key": "[\"7d7a4fe3-02b9-485c-9888-3c4b874522a9\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-19T07:50:10.148Z",
+        "userId": "7d7a4fe3-02b9-485c-9888-3c4b874522a9"
+      }
+    },
+    {
+      "id": "26ff99b9a40522694e4a38c4b35077d010173eb3ff204f0a28c2c9bd96faf6ab",
+      "observedAt": "2026-10-19T07:52:17.674Z",
+      "sourceScoredAt": "2026-10-19T07:50:08.640Z",
+      "key": "[\"91b2f14a-9f00-47d1-835c-e336def12b17\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "В целом вполне не плохо и по подаче и по флоу,  единственное пофикси сведос, голос прям на высоких частотах режет ухо",
+        "scoredAt": "2026-10-19T07:50:08.640Z",
+        "userId": "91b2f14a-9f00-47d1-835c-e336def12b17"
+      }
     }
   ],
   "snapshots": [
@@ -164709,6 +164751,26 @@
           "index": 30.913421461832094,
           "favor": 17.84100742029826,
           "attention": 2.350191819311612,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T07:52:17.674Z",
+      "exportedAt": "2026-10-19T07:52:17.674Z",
+      "scores": 13929,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.46405019619626,
+          "favor": 9.121023326822481,
+          "attention": 5.990986053047252,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.920567395376946,
+          "favor": 17.841791116910734,
+          "attention": 2.3565540562439904,
           "respect": 10.722222222222221
         }
       }

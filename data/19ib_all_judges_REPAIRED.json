@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T07:41:57.570Z",
+  "exportedAt": "2026-10-19T07:52:17.674Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -45105,8 +45105,14 @@
     },
     {
       "userId": "511bdaef-535a-4573-aab1-10d3e27378cd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "К сожалению ты не вывез такой бит, который требует харизму",
+          "scoredAt": "2026-10-19T07:51:47.850Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -45126,7 +45132,7 @@
           "scoredAt": "2026-09-09T18:29:52.683Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:12:29.794Z",
+      "fetchedAt": "2026-10-19T07:52:17.674Z",
       "current": true,
       "artistName": "Субботник",
       "artistSlug": "subbotnik"
@@ -85952,8 +85958,14 @@
     },
     {
       "userId": "7d7a4fe3-02b9-485c-9888-3c4b874522a9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-19T07:50:10.148Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -85979,7 +85991,7 @@
           "scoredAt": "2026-10-06T17:06:27.724Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:22:32.250Z",
+      "fetchedAt": "2026-10-19T07:52:17.674Z",
       "current": true,
       "artistName": "Черный",
       "artistSlug": "chernyy"
@@ -93010,8 +93022,14 @@
     },
     {
       "userId": "91b2f14a-9f00-47d1-835c-e336def12b17",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "В целом вполне не плохо и по подаче и по флоу,  единственное пофикси сведос, голос прям на высоких частотах режет ухо",
+          "scoredAt": "2026-10-19T07:50:08.640Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -93019,7 +93037,7 @@
           "scoredAt": "2026-09-30T16:03:45.317Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T07:52:17.674Z",
       "current": true,
       "artistName": "Вова Эйкивоки",
       "artistSlug": "vova-eykivoki"
