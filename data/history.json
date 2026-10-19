@@ -153804,6 +153804,90 @@
         "scoredAt": "2026-10-19T08:44:34.672Z",
         "userId": "d3af192c-721c-4f79-abeb-5d8aa406cdad"
       }
+    },
+    {
+      "id": "91dff5d8082ddf344abb380605438afa41793066d52b22c3a60d77af2076b47d",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T08:56:21.831Z",
+      "key": "[\"c017d4b7-b335-4000-8eb2-9cc6c9cdc9a8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "По исполнению пойдет, но вот текст руинит впечатление такое чувство что на скоряк написал",
+        "scoredAt": "2026-10-19T08:56:21.831Z",
+        "userId": "c017d4b7-b335-4000-8eb2-9cc6c9cdc9a8"
+      }
+    },
+    {
+      "id": "311a3aac1652501785150d888fc12cd4eba544971e5d94e6e91fef08d9ba8b17",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T09:01:15.797Z",
+      "key": "[\"e1bf6844-1fb7-4dd2-b40d-0e3d4afb1314\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "\"В моем обрезе два билета на концерты Нирваны\"  чётко бро, поработай немного на интонациями для подчеркивания некоторых моментов в треке, в целом душить не буду",
+        "scoredAt": "2026-10-19T09:01:15.797Z",
+        "userId": "e1bf6844-1fb7-4dd2-b40d-0e3d4afb1314"
+      }
+    },
+    {
+      "id": "a0bbc4c5261a59b53c8db0c8ca2ffef4ace8738edea9e942300e08c914c6ffbb",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T08:53:06.780Z",
+      "key": "[\"611f803e-78a2-4433-8b25-6bf65357cca3\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "А мне понравилось)  Может конечно ради дополнения атмосферы где нибудь фишок бы вклячил в трек но это не критично",
+        "scoredAt": "2026-10-19T08:53:06.780Z",
+        "userId": "611f803e-78a2-4433-8b25-6bf65357cca3"
+      }
+    },
+    {
+      "id": "e57dcdc90f0942c2cd5c879ba07b7add477adadbb1a73ea8679f7b5082a041ae",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T08:53:57.647Z",
+      "key": "[\"3f823644-41a9-44d6-a146-11e3477a952f\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Бог судья тебе... Если бы я судил, то поставил бы четверку за неплохую рифму и пару интересных моментов в тексте.",
+        "scoredAt": "2026-10-19T08:53:57.647Z",
+        "userId": "3f823644-41a9-44d6-a146-11e3477a952f"
+      }
+    },
+    {
+      "id": "4cb3f70dea1e85f9f05749b589404dc75aadd7fc5a9ba1cb541554cf52a89dbc",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T08:54:29.812Z",
+      "key": "[\"c914269b-1418-47b7-ae3d-a34a0a1bdb4b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом меня раскачало, единственное надо над саундом немного поработать, и голос чуть ярче достать из бита",
+        "scoredAt": "2026-10-19T08:54:29.812Z",
+        "userId": "c914269b-1418-47b7-ae3d-a34a0a1bdb4b"
+      }
+    },
+    {
+      "id": "967d0c3eed58c0c13a38fe440fe301de800a520d6ebf36dfca8321b3f7badbc0",
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "sourceScoredAt": "2026-10-19T08:58:52.794Z",
+      "key": "[\"be10bdb7-cf95-4ec2-8ac7-a45d1690a028\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "Короче авансом поставлю 4 по подачи трека зашло, но вот с текстом поработай где-то усложни рифму, где-то внутри строк сделай рифмовочку слышно что можешь",
+        "scoredAt": "2026-10-19T08:58:52.794Z",
+        "userId": "be10bdb7-cf95-4ec2-8ac7-a45d1690a028"
+      }
     }
   ],
   "snapshots": [
@@ -165284,6 +165368,26 @@
           "favor": 17.85234489300471,
           "attention": 2.4148706896551726,
           "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T09:02:16.767Z",
+      "exportedAt": "2026-10-19T09:02:16.767Z",
+      "scores": 13963,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.52212736396759,
+          "favor": 9.125546260643407,
+          "attention": 6.0445402869976546,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.827622617196585,
+          "favor": 17.911128163567444,
+          "attention": 2.1628179830409047,
+          "respect": 10.753676470588236
         }
       }
     }
