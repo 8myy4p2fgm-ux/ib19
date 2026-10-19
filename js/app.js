@@ -1,3 +1,4 @@
+import {installJudgeProfiles} from './judge-profile-entry.js';
 // Local formatter for the comparison chart; module6 has a private formatter.
 const homeComparisonNumberFormat=new Intl.NumberFormat('ru-RU',{minimumFractionDigits:2,maximumFractionDigits:2,signDisplay:'exceptZero'});
 const formatIndex=value=>homeComparisonNumberFormat.format(value).replace('-', '−');
@@ -195,6 +196,7 @@ const judgeSummary=createJudgeSummary({rows:judgeGroups(tuzScores,veteranIds),ju
 $('coverage').textContent='';
 document.querySelector('.nav.active')?.setAttribute('aria-current','page');
 createForumLink({D,$,fmt,esc});
+installJudgeProfiles(D);
 initializeRoutes({D,P,allScores,daily,now,fmt,esc,$,judgeNames,judgeCurrent,judgeSummary});
 document.getElementById('deadline-countdown').dataset.deadline=config.deadline;window.dispatchEvent(new Event('deadline-data-ready'));$('load-state').hidden=true;document.querySelector('.app').hidden=false;drawPeriod('chart-main',Number($('chart-main').dataset.periodFrom)||0);
 if(D.warnings.length){const note=document.createElement('div');note.className='data-warning';note.textContent=D.warnings.join(' ');document.querySelector('.main').prepend(note);}

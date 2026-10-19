@@ -18,3 +18,10 @@
 - Never expose Cloudflare secret `GH_PRIVATE_KEY`; never enable both Cloudflare and old GitHub native cron simultaneously.
 - For incidents: inspect Cloudflare Cron event -> GitHub workflow_dispatch/run -> collection result -> data commit -> Pages deployment -> site `metadata.json`. See `cloudflare/README.md` and `docs/UPDATE_DIAGNOSTICS.md` (the latter describes an older 13 Oct hourly incident).
 - Operational HTTPS, runtime health and true update cadence **cannot be verified from the ZIP**; check production logs separately.
+
+## Judge profiles (local integration, 19 Oct 2026)
+- Optional `judges` and `judgeIdentities` live inside the existing main JSON; each participant can retain `trackId`. The existing four-file publication workflow is unchanged.
+- `judgeProfiles: true` adds one public `/judges` read to the current collector. Failure retains the last valid directory and does not trigger participant-card reads. No independent scheduler or collector is introduced.
+- UUID/name associations are exact and observed, never fuzzy. Duplicate names across UUIDs are unresolved rather than merged. Historical catalog identities survive removal or observed renaming.
+- `trackId` is copied from `/full`, preserving the last nonempty value. Grades and history records retain their original shape; identity enrichment must not manufacture grade revisions.
+- The profile index includes archived participants; core TUZ calculations and current-roster analytics remain unchanged. See `JUDGE_PROFILES_INTEGRATION.txt` for local validation and limitations.

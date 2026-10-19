@@ -3,6 +3,14 @@ const root=process.cwd(),require=createRequire(import.meta.url);const {PNG}=requ
 import {config} from '../js/config.js';
 const original=await fs.readFile('docs/IB19_V95_WHITE_TUZ_HEADING.html','utf8');
 const overview=await fs.readFile('docs/TUZ_V95_overview_v6.html','utf8');
+// The approved judge-name links are the only new presentation in the directory.
+const profileReference=`<link rel="stylesheet" href="/ib19/css/judge-profile.css"><script type="module">
+import {loadData} from '/ib19/js/data.js';
+import {initializeJudgeProfiles} from '/ib19/js/judge-profile.js';
+const data=await loadData();
+await new Promise(resolve=>{const ready=()=>document.querySelector('#judge-heat-body')?resolve():setTimeout(ready,10);ready();});
+initializeJudgeProfiles(data);
+</script>`;
 const statusSource=(await fs.readFile('js/general.js','utf8')).match(/export function participantStatus\(scores\)\{[\s\S]*?\n\}/)[0].replace('export ','');
 // Apply the approved raster brand to runtime references; historical fixtures stay intact.
 const approvedBrand=(await fs.readFile('index.html','utf8')).match(/<a class="site-brand .*?<\/a>/)[0].replaceAll('="./','="/ib19/');
@@ -13,7 +21,7 @@ function currentDataReference(original){
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");
  // Apply the approved status correction to the runtime reference; keep historical files intact.
  code=code.replace(/function participantStatus\(scores\)\{[^\n]+\}/,()=>statusSource);
- return original.replace(first,code).replace(/<a class="site-brand .*?<\/a>/,()=>approvedBrand).replace('Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками.','Прошли — гарантированно наберут не менее 15 баллов даже с единицами за оставшиеся оценки. Выбыли — не наберут 15 даже с пятёрками.').replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><link rel="stylesheet" href="/ib19/css/logo-classic.css"><script type="module" src="/ib19/js/room.js"></script></head>');
+ return original.replace(first,code).replace('</head>',profileReference+'</head>').replace(/<a class="site-brand .*?<\/a>/,()=>approvedBrand).replace('Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками.','Прошли — гарантированно наберут не менее 15 баллов даже с единицами за оставшиеся оценки. Выбыли — не наберут 15 даже с пятёрками.').replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><link rel="stylesheet" href="/ib19/css/logo-classic.css"><script type="module" src="/ib19/js/room.js"></script></head>');
 }
 // Apply the approved room and stable header to each reference; preserve all original layout,
 // interaction and pixel comparisons.
@@ -40,7 +48,7 @@ async function shotPair(page,ref,width,label,keepPointer=false){
 async function openRoute(page,ref,route){await page.goto(base+'/ib19/#/round/1/'+route);await ref.goto(base+(route==='overview'?'/overview-reference.html':'/reference.html')+'#/round/1/'+route);await page.waitForSelector('.app:not([hidden])');await page.waitForSelector('#carrot-loader',{state:'detached'});await ref.waitForSelector('.app:not([hidden])');
  // Compare both pages after the decorative image has decoded and its fade is complete.
  await Promise.all([page,ref].map(tab=>tab.waitForSelector('.room-wall.room-on-full-ready')));
- await page.waitForTimeout(750);}
+ await page.waitForTimeout(750);if(route==='judges')await Promise.all([page,ref].map(p=>p.waitForSelector('.jp-name-link')));}
 try{for(const width of [1440,1024,768,390,320]){const context=await browser.newContext({viewport:{width,height:1000}});await context.addInitScript(time=>{Date.now=()=>time;window.addEventListener('pointermove',e=>{window.__uiPointer={x:e.clientX,y:e.clientY};});},clock);const page=await context.newPage(),ref=await context.newPage();page.on('pageerror',e=>errors.push({width,side:'project',error:e.message}));ref.on('pageerror',e=>errors.push({width,side:'reference',error:e.message}));
  for(const route of ['overview','dynamics','judges','forum-link']){await openRoute(page,ref,route);assert.equal(await page.locator('.site-header .nav').count(),4);assert.equal(await page.locator('script[data-cf-beacon]').count(),1);for(const id of ['index-main','home-passed','home-failed','home-pending','home-veteran-avg','pace-current','pace-remaining'])assert.equal(await page.locator('#'+id).evaluate(e=>e.firstChild?.textContent),await ref.locator('#'+id).evaluate(e=>e.firstChild?.textContent),id);await shotPair(page,ref,width,route);const overflow=await page.evaluate(()=>document.documentElement.scrollWidth),baseline=await ref.evaluate(()=>document.documentElement.scrollWidth);assert.ok(overflow<=baseline+1,`new page overflow ${width} ${route}`);}
  // Reference collapsible group and insight notes: opening, Escape/outside close, graph tooltip.

@@ -8,5 +8,6 @@
   "maxHistoryBytes": 20971520,
   "retryBaseMs": 2000,
   "maxDurationMs": 720000,
-  "fullMaxDurationMs": 3300000
+  "fullMaxDurationMs": 3300000,
+  "judgeProfiles": true
 }
