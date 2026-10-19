@@ -153020,6 +153020,34 @@
         "scoredAt": "2026-10-19T01:11:25.928Z",
         "userId": "9403729d-6a32-4a5b-8c70-f4b3fdbc822d"
       }
+    },
+    {
+      "id": "3c675e67cfe92bbe040192ebcd39b264f2f7d7f9c94ee5fc5673d6048d25c217",
+      "observedAt": "2026-10-19T01:22:00.753Z",
+      "sourceScoredAt": "2026-10-19T01:18:10.828Z",
+      "key": "[\"be31f62f-6d74-43ef-aa9b-012a9b7ac5a2\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Рифмы депрессивные. Мелизм клёвый. Текста мало. Читка чёткая.",
+        "scoredAt": "2026-10-19T01:18:10.828Z",
+        "userId": "be31f62f-6d74-43ef-aa9b-012a9b7ac5a2"
+      }
+    },
+    {
+      "id": "d2511d6b8cecf2e091c7cef687d0ad8d00765d3e247e7bacf15ae19efeba1146",
+      "observedAt": "2026-10-19T01:22:00.753Z",
+      "sourceScoredAt": "2026-10-19T01:15:13.429Z",
+      "key": "[\"7a6b7739-a024-4e92-aecd-55aac7c5657c\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Хорошее рассуждение. Качественный звук. В подаче есть фирмачество. Собачка была лишней.",
+        "scoredAt": "2026-10-19T01:15:13.429Z",
+        "userId": "7a6b7739-a024-4e92-aecd-55aac7c5657c"
+      }
     }
   ],
   "snapshots": [
@@ -164139,6 +164167,26 @@
           "index": 30.875826548213904,
           "favor": 17.83773225499217,
           "attention": 2.315872070999513,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T01:22:00.753Z",
+      "exportedAt": "2026-10-19T01:22:00.753Z",
+      "scores": 13903,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.418212151351668,
+          "favor": 9.11638231602436,
+          "attention": 5.949789019000774,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.878206759645302,
+          "favor": 17.83716669894764,
+          "attention": 2.3188178384754403,
           "respect": 10.722222222222221
         }
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T01:12:03.095Z",
+  "exportedAt": "2026-10-19T01:22:00.753Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -4417,8 +4417,14 @@
     },
     {
       "userId": "be31f62f-6d74-43ef-aa9b-012a9b7ac5a2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Рифмы депрессивные. Мелизм клёвый. Текста мало. Читка чёткая.",
+          "scoredAt": "2026-10-19T01:18:10.828Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -4444,7 +4450,7 @@
           "scoredAt": "2026-09-06T17:34:41.597Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:32:20.851Z",
+      "fetchedAt": "2026-10-19T01:22:00.753Z",
       "current": true,
       "artistName": "DRUNKROMANTIC",
       "artistSlug": "drunkromantic"
@@ -53136,8 +53142,14 @@
     },
     {
       "userId": "7a6b7739-a024-4e92-aecd-55aac7c5657c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Хорошее рассуждение. Качественный звук. В подаче есть фирмачество. Собачка была лишней.",
+          "scoredAt": "2026-10-19T01:15:13.429Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -53163,7 +53175,7 @@
           "scoredAt": "2026-09-17T16:50:41.277Z"
         }
       ],
-      "fetchedAt": "2026-10-15T17:52:25.005Z",
+      "fetchedAt": "2026-10-19T01:22:00.753Z",
       "current": true,
       "artistName": "SNK",
       "artistSlug": "snk"
