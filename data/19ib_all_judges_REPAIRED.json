@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T00:12:05.682Z",
+  "exportedAt": "2026-10-19T00:22:07.235Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -95183,8 +95183,14 @@
     },
     {
       "userId": "d3d84033-14c8-4b4a-928c-7c351154cab3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "В скороговорках как-то мало смысла, как будто чисто ради аллитерации и ассонанса написаны. В общем и целом – скучно и без толку.",
+          "scoredAt": "2026-10-19T00:16:01.377Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -95198,7 +95204,7 @@
           "scoredAt": "2026-10-07T17:35:03.691Z"
         }
       ],
-      "fetchedAt": "2026-10-18T11:02:32.018Z",
+      "fetchedAt": "2026-10-19T00:22:07.235Z",
       "current": true,
       "artistName": "ВсемYoYo",
       "artistSlug": "vsemyoyo"
@@ -108432,8 +108438,14 @@
     },
     {
       "userId": "a966c6c7-bea9-4f6b-bfb2-71403f993707",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Ты сильный, но топ-лайн не особо рабочий, а ты отдал ему аж половину трэка.",
+          "scoredAt": "2026-10-19T00:18:07.644Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -108459,7 +108471,7 @@
           "scoredAt": "2026-10-09T13:40:52.951Z"
         }
       ],
-      "fetchedAt": "2026-10-16T11:12:41.080Z",
+      "fetchedAt": "2026-10-19T00:22:07.235Z",
       "current": true,
       "artistName": "SY2AI",
       "artistSlug": "sy2ai"
