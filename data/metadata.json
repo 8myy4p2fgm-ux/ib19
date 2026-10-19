@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T10:02:18.173Z",
-  "exportedAt": "2026-10-19T10:02:18.173Z",
-  "runId": "2026-10-19T10:02:18.173Z",
-  "forumExportedAt": "2026-10-19T10:02:18.173Z",
+  "lastSuccessfulAt": "2026-10-19T10:12:11.178Z",
+  "exportedAt": "2026-10-19T10:12:11.178Z",
+  "runId": "2026-10-19T10:12:11.178Z",
+  "forumExportedAt": "2026-10-19T10:12:11.178Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 14004,
+    "scores": 14006,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 5,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 7,
-    "durationMs": 7273,
-    "scoresBefore": 13999,
-    "scoresAfter": 14004,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4029,
+    "scoresBefore": 14004,
+    "scoresAfter": 14006,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.78534191965655,
+    "requestReductionPercent": 99.87733823980373,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "artist": "фанатсонигрезе",
+          "comment": "оке чуть авансом, но раздаешь хорошо, текст нормас, саунд дизайн плотный сделай и гуд будет",
+          "scoredAt": "2026-10-19T10:08:12.716Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "artist": "rusaggressor [ЛЮДСКОЕ]",
+          "comment": "Немного верха трека режут уши, в целом есть свой вайб в треке",
+          "scoredAt": "2026-10-19T10:04:26.422Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -175,20 +189,6 @@
           "artist": "ChameleonChrono",
           "comment": "Спасибо за трек! \nТекст: средний \nИсполнение: монотонно очень\nОбщее впечатление: скучновато, и для меня рано еще во второй такое пропускать\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-19T09:28:54.619Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Лёха 315",
-          "comment": "Хороший уверенный проход",
-          "scoredAt": "2026-10-19T09:24:00.925Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "алмазик",
-          "comment": "Спасибо за трек! \nТекст: ниже среднего\nИсполнение: слабенько\nОбщее впечатление: очень слабо получилось, рано для второго раунда \nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:22:47.351Z"
         }
       ]
     }

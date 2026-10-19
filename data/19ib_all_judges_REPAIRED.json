@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T10:02:18.173Z",
+  "exportedAt": "2026-10-19T10:12:11.178Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -37813,8 +37813,14 @@
     },
     {
       "userId": "7d857316-a546-4c9f-a3d4-028c8ab939c8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Немного верха трека режут уши, в целом есть свой вайб в треке",
+          "scoredAt": "2026-10-19T10:04:26.422Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -37834,7 +37840,7 @@
           "scoredAt": "2026-10-10T18:59:11.440Z"
         }
       ],
-      "fetchedAt": "2026-10-14T23:12:22.932Z",
+      "fetchedAt": "2026-10-19T10:12:11.178Z",
       "current": true,
       "artistName": "rusaggressor [ЛЮДСКОЕ]",
       "artistSlug": "rusaggressor-lyudskoe"
@@ -63587,8 +63593,14 @@
     },
     {
       "userId": "3e9eae43-0127-4e20-87da-27a5ef293dd2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "оке чуть авансом, но раздаешь хорошо, текст нормас, саунд дизайн плотный сделай и гуд будет",
+          "scoredAt": "2026-10-19T10:08:12.716Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -63614,7 +63626,7 @@
           "scoredAt": "2026-09-22T20:44:22.001Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-19T10:12:11.178Z",
       "current": true,
       "artistName": "фанатсонигрезе",
       "artistSlug": "fanatsonigreze"

@@ -154462,6 +154462,34 @@
         "scoredAt": "2026-10-19T09:53:21.757Z",
         "userId": "9090270e-3bbc-4e4d-89ce-d4cd1b0d4597"
       }
+    },
+    {
+      "id": "716fb830bfb703985e3dbdd00980c11b57566fa031c8340440e307a26e00f554",
+      "observedAt": "2026-10-19T10:12:11.178Z",
+      "sourceScoredAt": "2026-10-19T10:04:26.422Z",
+      "key": "[\"7d857316-a546-4c9f-a3d4-028c8ab939c8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Немного верха трека режут уши, в целом есть свой вайб в треке",
+        "scoredAt": "2026-10-19T10:04:26.422Z",
+        "userId": "7d857316-a546-4c9f-a3d4-028c8ab939c8"
+      }
+    },
+    {
+      "id": "06ab9a61577e7caed27d6c192ab43f164b95c7f0efef849afc79a83345cff291",
+      "observedAt": "2026-10-19T10:12:11.178Z",
+      "sourceScoredAt": "2026-10-19T10:08:12.716Z",
+      "key": "[\"3e9eae43-0127-4e20-87da-27a5ef293dd2\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 5,
+        "comment": "оке чуть авансом, но раздаешь хорошо, текст нормас, саунд дизайн плотный сделай и гуд будет",
+        "scoredAt": "2026-10-19T10:08:12.716Z",
+        "userId": "3e9eae43-0127-4e20-87da-27a5ef293dd2"
+      }
     }
   ],
   "snapshots": [
@@ -166081,6 +166109,26 @@
           "index": 30.91868288182845,
           "favor": 17.927168343541624,
           "attention": 2.237838067698588,
+          "respect": 10.753676470588236
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T10:12:11.178Z",
+      "exportedAt": "2026-10-19T10:12:11.178Z",
+      "scores": 14006,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.350969379022196,
+          "favor": 9.044784034593032,
+          "attention": 6.00110059866645,
+          "respect": 6.305084745762712
+        },
+        "veterans": {
+          "index": 30.922358633931946,
+          "favor": 17.92552165062131,
+          "attention": 2.243160512722403,
           "respect": 10.753676470588236
         }
       }
