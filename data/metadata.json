@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T09:42:07.330Z",
-  "exportedAt": "2026-10-19T09:42:07.330Z",
-  "runId": "2026-10-19T09:42:07.330Z",
-  "forumExportedAt": "2026-10-19T09:42:07.330Z",
+  "lastSuccessfulAt": "2026-10-19T09:52:07.859Z",
+  "exportedAt": "2026-10-19T09:52:07.859Z",
+  "runId": "2026-10-19T09:52:07.859Z",
+  "forumExportedAt": "2026-10-19T09:52:07.859Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13997,
+    "scores": 13999,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 3,
-    "durationMs": 3291,
-    "scoresBefore": 13996,
-    "scoresAfter": 13997,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4308,
+    "scoresBefore": 13997,
+    "scoresAfter": 13999,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.90800367985281,
+    "requestReductionPercent": 99.87733823980373,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "TRUMYWHITE",
+          "comment": "Спасибо за трек! \nТекст: чуть поработай над интересностью текста и его разнообразием\nИсполнение: коммерчески сделал, интересно\nОбщее впечатление: интересный подход. очень жду во второй\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-19T09:50:18.763Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "artist": "KarateKid",
+          "comment": "Спасибо за трек! \nТекст: мощный текст, понравился\nИсполнение: неплохо делаешь, но можно лушче\nОбщее впечатление: жду во втором, интересно сделал\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-19T09:46:59.957Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "Стихотворение под бит",
           "comment": "Спасибо за трек! \nТекст: средний текст, но реализации нет\nИсполнение: скучно \nОбщее впечатление: очень рано для второго раунда\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
           "scoredAt": "2026-10-19T09:19:06.662Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 3,
-          "artist": "MC М.О.Г.",
-          "comment": "Спасибо за трек! \nТекст: средний, хотя и панчи есть местами\nИсполнение: бодро читаешь, прям интересно под дрилл сделал\nОбщее впечатление: чуть больше нужно качества для такого стиля исполнения, жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:18:19.793Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 2,
-          "artist": "Кот Форумчанина",
-          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: скучновато\nОбщее впечатление: пока что рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-19T09:17:26.894Z"
         }
       ]
     }
