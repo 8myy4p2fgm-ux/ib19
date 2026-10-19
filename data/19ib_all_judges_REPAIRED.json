@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T00:32:06.266Z",
+  "exportedAt": "2026-10-19T00:41:59.847Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -21584,8 +21584,14 @@
     },
     {
       "userId": "57d173b2-2afa-4845-8ca7-2bbb706ada39",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Слабо во всех аспектах. ",
+          "scoredAt": "2026-10-19T00:37:58.013Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -21599,7 +21605,7 @@
           "scoredAt": "2026-10-13T13:46:21.045Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:12:36.764Z",
+      "fetchedAt": "2026-10-19T00:41:59.847Z",
       "current": true,
       "artistName": "Миша Тенге",
       "artistSlug": "misha-tenge"
@@ -28430,8 +28436,14 @@
     },
     {
       "userId": "88dca1c4-f9f0-42d3-ba4c-a54f8fa46689",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Какие красивые, ёмкие и связанные друг с другом образы! Каждое слово на своём месте. Сначала впечатлил текст, а потом – как ты шикарно оживил его подобным исполнением. Честно говоря, прослушал семь раз подряд – настолько впечатлился. Одна из лучших песен раунда.",
+          "scoredAt": "2026-10-19T00:35:26.247Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -28439,7 +28451,7 @@
           "scoredAt": "2026-09-04T15:37:08.117Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T00:41:59.847Z",
       "current": true,
       "artistName": "SUMRIP",
       "artistSlug": "sumrip"
@@ -77050,8 +77062,14 @@
     },
     {
       "userId": "8746e78a-484e-4661-a982-dfd223e62f87",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Голос обладает мощью, но зачитал вразвалочку. Как будто реально было впадлу, именно шо на отъебись сделал.",
+          "scoredAt": "2026-10-19T00:41:26.701Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -77065,7 +77083,7 @@
           "scoredAt": "2026-10-16T00:11:37.738Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:42:12.394Z",
+      "fetchedAt": "2026-10-19T00:41:59.847Z",
       "current": true,
       "artistName": "Тримм",
       "artistSlug": "trimm"

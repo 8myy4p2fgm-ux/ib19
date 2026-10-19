@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T00:32:06.266Z",
-  "exportedAt": "2026-10-19T00:32:06.266Z",
-  "runId": "2026-10-19T00:32:06.266Z",
-  "forumExportedAt": "2026-10-19T00:32:06.266Z",
+  "lastSuccessfulAt": "2026-10-19T00:41:59.847Z",
+  "exportedAt": "2026-10-19T00:41:59.847Z",
+  "runId": "2026-10-19T00:41:59.847Z",
+  "forumExportedAt": "2026-10-19T00:41:59.847Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13891,
+    "scores": 13894,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -32,9 +32,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 5,
-    "durationMs": 4946,
-    "scoresBefore": 13888,
-    "scoresAfter": 13891,
+    "durationMs": 4650,
+    "scoresBefore": 13891,
+    "scoresAfter": 13894,
     "fullBaselineRequests": 3260,
     "requestReductionPercent": 99.84662576687117,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Тримм",
+          "comment": "Голос обладает мощью, но зачитал вразвалочку. Как будто реально было впадлу, именно шо на отъебись сделал.",
+          "scoredAt": "2026-10-19T00:41:26.701Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Миша Тенге",
+          "comment": "Слабо во всех аспектах. ",
+          "scoredAt": "2026-10-19T00:37:58.013Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "SUMRIP",
+          "comment": "Какие красивые, ёмкие и связанные друг с другом образы! Каждое слово на своём месте. Сначала впечатлил текст, а потом – как ты шикарно оживил его подобным исполнением. Честно говоря, прослушал семь раз подряд – настолько впечатлился. Одна из лучших песен раунда.",
+          "scoredAt": "2026-10-19T00:35:26.247Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 5,
@@ -168,27 +189,6 @@
           "artist": "Axelll",
           "comment": "Не увидел связи между повторяющейся фразой в припеве и остальными строчками. Как будто просто так приплёл. И звук в какую-то кашу-малашу.",
           "scoredAt": "2026-10-18T23:49:40.714Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Юрий Милославский",
-          "comment": "Интересный текст, но читка очень суетливая, с промашками. Авансирую четвёркой, чтобы компенсировать двойку от другого судьи. Хотелось бы, чтобы ты попытал удачу во втором, учтя недочёты данной песни.",
-          "scoredAt": "2026-10-18T23:38:38.604Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "ЧИЛИКЛИНТОН",
-          "comment": "Насытил рифмовками, но читка и качество меня опечалили.",
-          "scoredAt": "2026-10-18T23:35:45.082Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "TCELYA",
-          "comment": "Ай, хорошо! Шикарный панч про каналы. Ещё б качество не всратое. Любишь писаться на диктофон, походу.",
-          "scoredAt": "2026-10-18T23:33:46.306Z"
         }
       ]
     }
