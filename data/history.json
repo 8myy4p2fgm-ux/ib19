@@ -163604,6 +163604,244 @@
         "scoredAt": "2026-10-19T21:48:42.942Z",
         "userId": "7917d414-86c8-4c22-accc-466c364ac2f8"
       }
+    },
+    {
+      "id": "cd0afa3822f36e1eb25e64b0e54d78a56a71323757c1972642c0b6f5365010bf",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T22:00:59.275Z",
+      "key": "[\"4064b766-d70d-4821-b5f1-13a4b2bdf6a0\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Ну не постарался совсем на записи, а так то шаришь.. слушается. Поднял до 3. ",
+        "scoredAt": "2026-10-19T22:00:59.275Z",
+        "userId": "4064b766-d70d-4821-b5f1-13a4b2bdf6a0"
+      }
+    },
+    {
+      "id": "99436e9102f58f7b66f2091dfc4e24feb9d439943e707cb25d47750d5f48b8a1",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:54:50.900Z",
+      "key": "[\"8c729cd9-1e2c-4948-acd9-4b2abee25c4e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Мощно блин!",
+        "scoredAt": "2026-10-19T21:54:50.900Z",
+        "userId": "8c729cd9-1e2c-4948-acd9-4b2abee25c4e"
+      }
+    },
+    {
+      "id": "4b8e073f682f25ecd90569e06d56d98eba5adce18b8cc51b5533f32479f40b9d",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T22:02:29.680Z",
+      "key": "[\"57d173b2-2afa-4845-8ca7-2bbb706ada39\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Очень сложный выбор. Я не знаю за что здесь ставить проход, супер обычно и слабо по подаче. ",
+        "scoredAt": "2026-10-19T22:02:29.680Z",
+        "userId": "57d173b2-2afa-4845-8ca7-2bbb706ada39"
+      }
+    },
+    {
+      "id": "ffae4c8c3d32066ddd1e6dfc65b8fd604dd49ae7a7e955158a95c319b5332449",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:59:18.025Z",
+      "key": "[\"6cd024da-3a10-4d4d-90e8-4d4fa4b767e0\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Больше автотюна богу автотюна! Будто робота послушал. Мне кажется ты сможешь без тюна сделать нормальный трек.",
+        "scoredAt": "2026-10-19T21:59:18.025Z",
+        "userId": "6cd024da-3a10-4d4d-90e8-4d4fa4b767e0"
+      }
+    },
+    {
+      "id": "1358e383c22ed166eec1a945ae43c620299e46b3b34c4163371a5ada5769907c",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T22:01:45.800Z",
+      "key": "[\"982ea6fb-1e8c-467f-84f7-6e6cf271ecc3\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 1,
+        "comment": "Очень плохо по рифмам( работай с этим в первую очередь",
+        "scoredAt": "2026-10-19T22:01:45.800Z",
+        "userId": "982ea6fb-1e8c-467f-84f7-6e6cf271ecc3"
+      }
+    },
+    {
+      "id": "844337380cac108399275cd9409306e09323b0b9de4b20f5ce9aef75bf0a60a6",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:52:46.839Z",
+      "key": "[\"20dd4420-3e55-4901-9653-408d9ff34890\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "Всегда на последнее слово рифмуешь( исправляй это, покрути конструкции разные. Голос то у тебя отличный, хорошо подаёшь. ",
+        "scoredAt": "2026-10-19T21:52:46.839Z",
+        "userId": "20dd4420-3e55-4901-9653-408d9ff34890"
+      }
+    },
+    {
+      "id": "9a533c60c1292e6fce335b929d074525bf51a7989dabf960c907c443168646bd",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:57:16.411Z",
+      "key": "[\"088c9b6a-6c9a-43cc-9d94-65ebf69f7f7c\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "Неплохо подаёшь, но текст усилять нужно однозначно. ",
+        "scoredAt": "2026-10-19T21:57:16.411Z",
+        "userId": "088c9b6a-6c9a-43cc-9d94-65ebf69f7f7c"
+      }
+    },
+    {
+      "id": "1cf5a23807adba42e81c8b4bfa3729a6f7ea3b3f9c25719f2e2c5edf14262031",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:59:43.501Z",
+      "key": "[\"56b67b30-a722-4849-a833-ec904168f488\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 4,
+        "comment": "ого.. при полном отсутствии подачи, мне очень понравилось как плотно начинал... очень круто написал, я авансом хлопну оценочку выше. Ставлю 4  вместо 3",
+        "scoredAt": "2026-10-19T21:59:43.501Z",
+        "userId": "56b67b30-a722-4849-a833-ec904168f488"
+      }
+    },
+    {
+      "id": "aca12d32a1c9113992bef8206987f5ef3df75188c0a58b8a754652a2f27152aa",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:54:14.731Z",
+      "key": "[\"1534be4c-823d-4388-986e-fcd9347460e5\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Средне по всем параметрам. Дальше нужно стараться больше.",
+        "scoredAt": "2026-10-19T21:54:14.731Z",
+        "userId": "1534be4c-823d-4388-986e-fcd9347460e5"
+      }
+    },
+    {
+      "id": "6175df4fb9c4ad9e5ae628cbd0f2e7b3b6a96e27b66edd2972fd014593b7c6b3",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:56:03.104Z",
+      "key": "[\"158e0c8d-3a65-486b-a655-70c36b8a95df\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Одним приёмом весь текст написал.",
+        "scoredAt": "2026-10-19T21:56:03.104Z",
+        "userId": "158e0c8d-3a65-486b-a655-70c36b8a95df"
+      }
+    },
+    {
+      "id": "33ff2c9a6d8d7f6afe178821c9b66253666272bd34f27ed68f65b327d41cfa90",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:56:04.129Z",
+      "key": "[\"0ed9d7e7-fd2a-4b34-b90b-a65d653af217\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 3,
+        "comment": "По тексту всё хорошо, может конечно немного добавить разнообразия, но не хватило работы с голосом..",
+        "scoredAt": "2026-10-19T21:56:04.129Z",
+        "userId": "0ed9d7e7-fd2a-4b34-b90b-a65d653af217"
+      }
+    },
+    {
+      "id": "c6a2f95d1ec442cc8805dcc620ae64b27b712da316721c78ae02e6e5fd35e8e0",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:53:14.907Z",
+      "key": "[\"49351a1a-b478-4c3c-a943-1e9127799468\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Средне, но есть эмоция. Чуть качества бы сюда.",
+        "scoredAt": "2026-10-19T21:53:14.907Z",
+        "userId": "49351a1a-b478-4c3c-a943-1e9127799468"
+      }
+    },
+    {
+      "id": "a58f742fe43efd8be7354942d41c2ffa8d1967e16b95a8df87edaeb0e7356f46",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:57:03.404Z",
+      "key": "[\"08065724-44c8-4c9f-92e7-eb096dbbf47e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошо звучит, в меру социально. Мне нравится когда в треке есть какая-то мысль и позиция.",
+        "scoredAt": "2026-10-19T21:57:03.404Z",
+        "userId": "08065724-44c8-4c9f-92e7-eb096dbbf47e"
+      }
+    },
+    {
+      "id": "95060784c0b1c5a8256b6f81064a5503cbddbed034e27bfee88ead1fdeedf60d",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:53:36.487Z",
+      "key": "[\"46947c66-e90a-44f0-9685-6b69aed29667\",\"Мультифрукт\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Мультифрукт",
+        "score": 3,
+        "comment": "Сложность комментария к данному треку в том, что я вот сижу и не могу придумать комментарий.\n\nПлохо ли подан? Да ну в целом нет.\nКакой-то ужасный текст? Да ну в целом нет.\n\nНо и похвалить тоже не за что как будто бы, какой-то серый непримечательный на фоне таких же пары тысяч участников трек. Реп про реп под неяркий бит.",
+        "scoredAt": "2026-10-19T21:53:36.487Z",
+        "userId": "46947c66-e90a-44f0-9685-6b69aed29667"
+      }
+    },
+    {
+      "id": "9b06e5f88c57f1c8c872856fcc9115429096edccbe0fcaaf2a8990fc1c602481",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T22:00:21.286Z",
+      "key": "[\"67d26ca3-9daf-47b2-a729-df8ddbb3bae4\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормально, с идеей. Давай во второй.",
+        "scoredAt": "2026-10-19T22:00:21.286Z",
+        "userId": "67d26ca3-9daf-47b2-a729-df8ddbb3bae4"
+      }
+    },
+    {
+      "id": "94b3c6850f30ff9fc78f195b79796b3ea85e19c4adc38b1841eff7f67a1bbced",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:58:27.496Z",
+      "key": "[\"f1ff436e-4850-445b-a247-d4698676f089\",\"Игорь Кедо\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Игорь Кедо",
+        "score": 2,
+        "comment": "ну до : попсу - обоссу,   было очень даже) ",
+        "scoredAt": "2026-10-19T21:58:27.496Z",
+        "userId": "f1ff436e-4850-445b-a247-d4698676f089"
+      }
+    },
+    {
+      "id": "60594c8f4976aeab66ad103210a8a57a002f047335d668e22ca0973727322bd1",
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "sourceScoredAt": "2026-10-19T21:58:12.051Z",
+      "key": "[\"f2da9b8a-fe80-47f8-a813-c88aec2ff615\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Везде приколы, даже в нике) Тай он такой, опасный...",
+        "scoredAt": "2026-10-19T21:58:12.051Z",
+        "userId": "f2da9b8a-fe80-47f8-a813-c88aec2ff615"
+      }
     }
   ],
   "snapshots": [
@@ -175463,6 +175701,26 @@
           "index": 31.718942317506176,
           "favor": 18.070695238751465,
           "attention": 2.8873775135373188,
+          "respect": 10.76086956521739
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:02:32.365Z",
+      "exportedAt": "2026-10-19T22:02:32.365Z",
+      "scores": 14668,
+      "selectionVersion": "7970e1c027adab47167f6ebb675c2d8e3756a9719b609b49d0be07fb1c5dfb55",
+      "indices": {
+        "forum": {
+          "index": 21.144389701195323,
+          "favor": 9.049212021793892,
+          "attention": 5.857553917025191,
+          "respect": 6.237623762376238
+        },
+        "veterans": {
+          "index": 31.764450608444022,
+          "favor": 18.078862323827764,
+          "attention": 2.924718719398869,
           "respect": 10.76086956521739
         }
       }
