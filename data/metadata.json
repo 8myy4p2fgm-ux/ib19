@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T01:02:02.824Z",
-  "exportedAt": "2026-10-19T01:02:02.824Z",
-  "runId": "2026-10-19T01:02:02.824Z",
-  "forumExportedAt": "2026-10-19T01:02:02.824Z",
+  "lastSuccessfulAt": "2026-10-19T01:12:03.095Z",
+  "exportedAt": "2026-10-19T01:12:03.095Z",
+  "runId": "2026-10-19T01:12:03.095Z",
+  "forumExportedAt": "2026-10-19T01:12:03.095Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13898,
+    "scores": 13901,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 4143,
-    "scoresBefore": 13896,
-    "scoresAfter": 13898,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 5,
+    "durationMs": 5081,
+    "scoresBefore": 13898,
+    "scoresAfter": 13901,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.87730061349693,
+    "requestReductionPercent": 99.84662576687117,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Dia'Log",
+          "comment": "Вокал требует хорошего сведения. В таком виде слушабельность у него на удовлетворительном уровне.",
+          "scoredAt": "2026-10-19T01:11:25.928Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Big63",
+          "comment": "Жирнющий флоу! Рифмы бы чуть апнуть – и будет преотлично.",
+          "scoredAt": "2026-10-19T01:07:56.949Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "1RG",
+          "comment": "Рифмотеррор – громковатое слово для «вайпер» / «снайпер» / «дизайнер». Оскорбления какие-то глупые: вы икра, вы крабы, ты хавал картошку, я вас сделал пам пам пам. ",
+          "scoredAt": "2026-10-19T01:05:04.819Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -168,27 +189,6 @@
           "artist": "ВсемYoYo",
           "comment": "В скороговорках как-то мало смысла, как будто чисто ради аллитерации и ассонанса написаны. В общем и целом – скучно и без толку.",
           "scoredAt": "2026-10-19T00:16:01.377Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Сын маминой подруги",
-          "comment": "Есть флоу и энергия, голос прям боевой. Но есть и слёты с ритма и куда расти в рифмах.",
-          "scoredAt": "2026-10-19T00:08:27.572Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "МЦ КТК",
-          "comment": "Почему такое качество? Почему такой дерьмовый бит? Слышно, что ты не двоечник, но за данную работу и подобную запись голоса выше поставить не могу.",
-          "scoredAt": "2026-10-19T00:05:59.192Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Articoola",
-          "comment": "Если бы Максим Вердикт сдал трэк на батол... Округлю до четвёрки за старания, но исполнение какое-то сырое: вроде разнообразно и динамично, но не живёшь вместе с музыкой, интонации порой несуразные, а эти «эй-эй» какие-то дурацкие.",
-          "scoredAt": "2026-10-19T00:03:33.839Z"
         }
       ]
     }

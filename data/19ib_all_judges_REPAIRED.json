@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T01:02:02.824Z",
+  "exportedAt": "2026-10-19T01:12:03.095Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -4063,8 +4063,14 @@
     },
     {
       "userId": "eca378aa-a872-4098-8a04-1b83f4b72553",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Рифмотеррор – громковатое слово для «вайпер» / «снайпер» / «дизайнер». Оскорбления какие-то глупые: вы икра, вы крабы, ты хавал картошку, я вас сделал пам пам пам. ",
+          "scoredAt": "2026-10-19T01:05:04.819Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -4084,7 +4090,7 @@
           "scoredAt": "2026-09-16T11:15:31.548Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:42:30.688Z",
+      "fetchedAt": "2026-10-19T01:12:03.095Z",
       "current": true,
       "artistName": "1RG",
       "artistSlug": "1rg"
@@ -76636,8 +76642,14 @@
     },
     {
       "userId": "73203d24-ab62-4c51-86f8-6e8e4c91342c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Жирнющий флоу! Рифмы бы чуть апнуть – и будет преотлично.",
+          "scoredAt": "2026-10-19T01:07:56.949Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -76663,7 +76675,7 @@
           "scoredAt": "2026-10-12T10:06:24.538Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:12:20.288Z",
+      "fetchedAt": "2026-10-19T01:12:03.095Z",
       "current": true,
       "artistName": "Big63",
       "artistSlug": "big63"
@@ -79172,8 +79184,14 @@
     },
     {
       "userId": "9403729d-6a32-4a5b-8c70-f4b3fdbc822d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Вокал требует хорошего сведения. В таком виде слушабельность у него на удовлетворительном уровне.",
+          "scoredAt": "2026-10-19T01:11:25.928Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -79199,7 +79217,7 @@
           "scoredAt": "2026-10-13T05:24:15.421Z"
         }
       ],
-      "fetchedAt": "2026-10-14T16:02:14.357Z",
+      "fetchedAt": "2026-10-19T01:12:03.095Z",
       "current": true,
       "artistName": "Dia'Log",
       "artistSlug": "dia-log"
