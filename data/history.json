@@ -153706,6 +153706,104 @@
         "scoredAt": "2026-10-19T08:39:36.212Z",
         "userId": "c67a7f48-3c13-48f0-aa7f-ff54e2a2a842"
       }
+    },
+    {
+      "id": "f8b472dae37404f53921f660cb6d56433547f2114e5b703cbeb2b656eda3e9e7",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:45:31.786Z",
+      "key": "[\"50a41374-8e77-4255-be5a-ca6cdb15c090\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Независимый стал популярен за счет татищевского) Простой репчик у тебя, братка. Рано для преодоления отбора.",
+        "scoredAt": "2026-10-19T08:45:31.786Z",
+        "userId": "50a41374-8e77-4255-be5a-ca6cdb15c090"
+      }
+    },
+    {
+      "id": "2861e0e7d10e22c7e1447174586e90f021dfde420ae667e7cd18a54204fcfcb8",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:48:05.885Z",
+      "key": "[\"b5ee1190-9953-4ee4-acbe-cfb4da27ea0a\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "В целом по харизме все норм, но вот с текстом надо поработать с внутри строки с  рифмами",
+        "scoredAt": "2026-10-19T08:48:05.885Z",
+        "userId": "b5ee1190-9953-4ee4-acbe-cfb4da27ea0a"
+      }
+    },
+    {
+      "id": "5248e61f70830a56e2a2a6bdf74e9ba7fc08c32678fa5ba61f266a47d95f1d28",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:49:51.269Z",
+      "key": "[\"880b7233-62ab-4732-bcfa-a89838789f08\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 5,
+        "comment": "Есть забавные строчки - молодец. Веселый и забавный рэпчик. ",
+        "scoredAt": "2026-10-19T08:49:51.269Z",
+        "userId": "880b7233-62ab-4732-bcfa-a89838789f08"
+      }
+    },
+    {
+      "id": "1105feda23df5770a2c6921740d6bedd9c6e83e713e66e1e0c4f636b90dccf06",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:51:18.251Z",
+      "key": "[\"131ca5a4-4653-485f-9b5e-84df36905254\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 2,
+        "comment": "По упоминание темы ты пока топ 1 у меня, но вот не хватило смены флоу, и всё таки после одной такой четверки можно было давать материал другой)",
+        "scoredAt": "2026-10-19T08:51:18.251Z",
+        "userId": "131ca5a4-4653-485f-9b5e-84df36905254"
+      }
+    },
+    {
+      "id": "edd78273ac73fd8524c1066e52ab0261f9020cf9caaf658a058dfb32f4c11321",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:51:04.230Z",
+      "key": "[\"b004beb8-c3d0-4fff-9b29-3d1274483a48\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 4,
+        "comment": "Трек работника склада озон. Тараторка сильно попортила впечатление, хотел до нее поставить пятерку.",
+        "scoredAt": "2026-10-19T08:51:04.230Z",
+        "userId": "b004beb8-c3d0-4fff-9b29-3d1274483a48"
+      }
+    },
+    {
+      "id": "3a9f1fbeffaf61e72d88e709d323c3a179b1e2ffcb0167410ef5adbe578fdb3a",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:42:14.973Z",
+      "key": "[\"d5b7ae6a-c772-4b02-8119-275cdee22e50\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 3,
+        "comment": "Простой репачок у тебя братка. Ничего интересного.",
+        "scoredAt": "2026-10-19T08:42:14.973Z",
+        "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50"
+      }
+    },
+    {
+      "id": "b915e5ad32c4bfedb984692b06d0c96b23aae66f59d39c26c08d6ca04dbb2143",
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "sourceScoredAt": "2026-10-19T08:44:34.672Z",
+      "key": "[\"d3af192c-721c-4f79-abeb-5d8aa406cdad\",\"Samarskij\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Samarskij",
+        "score": 2,
+        "comment": "Вывалил фаршмак из мыслей на биток. Андерграундность присутсвует, но хотелось бы каких-то сильных строчек и интересных образов в тексте.",
+        "scoredAt": "2026-10-19T08:44:34.672Z",
+        "userId": "d3af192c-721c-4f79-abeb-5d8aa406cdad"
+      }
     }
   ],
   "snapshots": [
@@ -165165,6 +165263,26 @@
           "index": 30.975309959025683,
           "favor": 17.851610568222945,
           "attention": 2.4014771685805165,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T08:52:14.859Z",
+      "exportedAt": "2026-10-19T08:52:14.859Z",
+      "scores": 13957,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.518251909550937,
+          "favor": 9.131659763371063,
+          "attention": 6.034551329853343,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.9894378048821,
+          "favor": 17.85234489300471,
+          "attention": 2.4148706896551726,
           "respect": 10.722222222222221
         }
       }

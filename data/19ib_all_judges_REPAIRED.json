@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T08:42:07.278Z",
+  "exportedAt": "2026-10-19T08:52:14.859Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -1975,8 +1975,14 @@
     },
     {
       "userId": "50a41374-8e77-4255-be5a-ca6cdb15c090",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Независимый стал популярен за счет татищевского) Простой репчик у тебя, братка. Рано для преодоления отбора.",
+          "scoredAt": "2026-10-19T08:45:31.786Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -1996,7 +2002,7 @@
           "scoredAt": "2026-09-11T15:36:11.151Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:22:20.239Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "ЭКСАЙЗ",
       "artistSlug": "eksayz"
@@ -15707,8 +15713,14 @@
     },
     {
       "userId": "b5ee1190-9953-4ee4-acbe-cfb4da27ea0a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "В целом по харизме все норм, но вот с текстом надо поработать с внутри строки с  рифмами",
+          "scoredAt": "2026-10-19T08:48:05.885Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -15728,7 +15740,7 @@
           "scoredAt": "2026-09-06T11:31:50.311Z"
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:07.304Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "Лукбанов",
       "artistSlug": "lukbanov"
@@ -46543,8 +46555,14 @@
     },
     {
       "userId": "880b7233-62ab-4732-bcfa-a89838789f08",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Есть забавные строчки - молодец. Веселый и забавный рэпчик. ",
+          "scoredAt": "2026-10-19T08:49:51.269Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -46564,7 +46582,7 @@
           "scoredAt": "2026-10-14T23:12:45.332Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:52:10.619Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "Lobo",
       "artistSlug": "lobo"
@@ -53133,8 +53151,14 @@
     },
     {
       "userId": "131ca5a4-4653-485f-9b5e-84df36905254",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "По упоминание темы ты пока топ 1 у меня, но вот не хватило смены флоу, и всё таки после одной такой четверки можно было давать материал другой)",
+          "scoredAt": "2026-10-19T08:51:18.251Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -53154,7 +53178,7 @@
           "scoredAt": "2026-09-24T13:54:32.247Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:12:28.383Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "БЛЕСНА",
       "artistSlug": "blesna"
@@ -63051,8 +63075,14 @@
     },
     {
       "userId": "b004beb8-c3d0-4fff-9b29-3d1274483a48",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Трек работника склада озон. Тараторка сильно попортила впечатление, хотел до нее поставить пятерку.",
+          "scoredAt": "2026-10-19T08:51:04.230Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -63072,7 +63102,7 @@
           "scoredAt": "2026-10-08T14:59:05.181Z"
         }
       ],
-      "fetchedAt": "2026-10-15T17:12:31.088Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "RU",
       "artistSlug": "ru"
@@ -81493,8 +81523,14 @@
     },
     {
       "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Простой репачок у тебя братка. Ничего интересного.",
+          "scoredAt": "2026-10-19T08:42:14.973Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -81508,7 +81544,7 @@
           "scoredAt": "2026-10-16T00:13:02.530Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:22:13.358Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "СТРАННЫЙ",
       "artistSlug": "strannyy"
@@ -110285,8 +110321,14 @@
     },
     {
       "userId": "d3af192c-721c-4f79-abeb-5d8aa406cdad",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Вывалил фаршмак из мыслей на биток. Андерграундность присутсвует, но хотелось бы каких-то сильных строчек и интересных образов в тексте.",
+          "scoredAt": "2026-10-19T08:44:34.672Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -110300,7 +110342,7 @@
           "scoredAt": "2026-10-08T14:14:34.453Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:52:10.619Z",
+      "fetchedAt": "2026-10-19T08:52:14.859Z",
       "current": true,
       "artistName": "ХАСЛА НАГИЛА",
       "artistSlug": "hasla-nagila"

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T08:42:07.278Z",
-  "exportedAt": "2026-10-19T08:42:07.278Z",
-  "runId": "2026-10-19T08:42:07.278Z",
-  "forumExportedAt": "2026-10-19T08:42:07.278Z",
+  "lastSuccessfulAt": "2026-10-19T08:52:14.859Z",
+  "exportedAt": "2026-10-19T08:52:14.859Z",
+  "runId": "2026-10-19T08:52:14.859Z",
+  "forumExportedAt": "2026-10-19T08:52:14.859Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13950,
+    "scores": 13957,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 2,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 4,
-    "durationMs": 3547,
-    "scoresBefore": 13948,
-    "scoresAfter": 13950,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 9,
+    "durationMs": 9251,
+    "scoresBefore": 13950,
+    "scoresAfter": 13957,
     "fullBaselineRequests": 3261,
-    "requestReductionPercent": 99.87733823980373,
+    "requestReductionPercent": 99.72401103955842,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,55 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "artist": "БЛЕСНА",
+          "comment": "По упоминание темы ты пока топ 1 у меня, но вот не хватило смены флоу, и всё таки после одной такой четверки можно было давать материал другой)",
+          "scoredAt": "2026-10-19T08:51:18.251Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "RU",
+          "comment": "Трек работника склада озон. Тараторка сильно попортила впечатление, хотел до нее поставить пятерку.",
+          "scoredAt": "2026-10-19T08:51:04.230Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "artist": "Lobo",
+          "comment": "Есть забавные строчки - молодец. Веселый и забавный рэпчик. ",
+          "scoredAt": "2026-10-19T08:49:51.269Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "artist": "Лукбанов",
+          "comment": "В целом по харизме все норм, но вот с текстом надо поработать с внутри строки с  рифмами",
+          "scoredAt": "2026-10-19T08:48:05.885Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "ЭКСАЙЗ",
+          "comment": "Независимый стал популярен за счет татищевского) Простой репчик у тебя, братка. Рано для преодоления отбора.",
+          "scoredAt": "2026-10-19T08:45:31.786Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "artist": "ХАСЛА НАГИЛА",
+          "comment": "Вывалил фаршмак из мыслей на биток. Андерграундность присутсвует, но хотелось бы каких-то сильных строчек и интересных образов в тексте.",
+          "scoredAt": "2026-10-19T08:44:34.672Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "СТРАННЫЙ",
+          "comment": "Простой репачок у тебя братка. Ничего интересного.",
+          "scoredAt": "2026-10-19T08:42:14.973Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -140,55 +189,6 @@
           "artist": "Жан Робер",
           "comment": "Очень просто как по тексту, так и по исполнению. Стилек на месте. Тебе надо не на баттлы, а на площадки делать репчик.",
           "scoredAt": "2026-10-19T08:19:12.410Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 2,
-          "artist": "Кэмэл со вкусом гангрены",
-          "comment": "Очень сумбурная работа для меня, во второй части трека вообще чувство что ты начал игнорировать битло и просто флексил от своей читки",
-          "scoredAt": "2026-10-19T08:18:59.791Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "MIIGHTYY",
-          "comment": "Какой кайфовый биток, но... Ты под него не раскрываешься, когда берешь такой саунд надо люто играть с подачей и прям харизмой давить, тут этого увы нет",
-          "scoredAt": "2026-10-19T08:17:34.136Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Генацидов",
-          "comment": "Очень дефолтно бро по исполнению, не хватило где-то с ритмикой поиграться, можно было ну хотя бы беки по ярче сделать) по тексту +- норм",
-          "scoredAt": "2026-10-19T08:06:55.849Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Monotonn",
-          "comment": "По флоу не плохо, но не хватило разнообразия какого-то треку, где-то можно было и с рифмой и с ритмикой поиграть, в целом средняк",
-          "scoredAt": "2026-10-19T08:03:44.795Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "artist": "Blackphroaig (Блакфройг)",
-          "comment": "Бро вот вроде есть стилек, и есть нотки настольджи в трексе, но вот в начале есть у тебя одна сбивка странная \"вроде бы гангстер но мамкин\" вот в этом месте звучит не внутри ритмики немного",
-          "scoredAt": "2026-10-19T08:01:44.014Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "ЧП57",
-          "comment": "",
-          "scoredAt": "2026-10-19T07:59:06.089Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "DissConnect",
-          "comment": "потенциально, во 2 будет маловато\nпостарайся ",
-          "scoredAt": "2026-10-19T07:58:37.640Z"
         }
       ]
     }
