@@ -153412,6 +153412,132 @@
         "scoredAt": "2026-10-19T07:50:08.640Z",
         "userId": "91b2f14a-9f00-47d1-835c-e336def12b17"
       }
+    },
+    {
+      "id": "aa5ec42c2ab6d99ca56b5432781469d5d26e5c81243bb93a33ada00defd50cf8",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:53:29.102Z",
+      "key": "[\"4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "ну, эти паузы тебе в минус пошли.\nЗнаешь как в старом треке \" погодите не меняйте ритм, ща мы продолжим\"\nнельзя делать таких промежутков, когда от тебя ждут игру с битом, а ты часть этой игры отдаёшь паузам. ",
+        "scoredAt": "2026-10-19T07:53:29.102Z",
+        "userId": "4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6"
+      }
+    },
+    {
+      "id": "e4ba56cec126be7301843464ca82aa65af3e71e377d32980be2d98bb2ecdfa73",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:58:37.640Z",
+      "key": "[\"fb8f6d22-fa38-4f33-bf57-121b0bb8aeed\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "потенциально, во 2 будет маловато\nпостарайся ",
+        "scoredAt": "2026-10-19T07:58:37.640Z",
+        "userId": "fb8f6d22-fa38-4f33-bf57-121b0bb8aeed"
+      }
+    },
+    {
+      "id": "c63a67a2a007feb7c7adde7ddef619095c5af51ffacc84be86f101f57bfa8672",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:54:40.096Z",
+      "key": "[\"cbf1afe4-cc99-474a-b274-42a219b897ec\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "Ребёнок ты бешенный! Но пока рановато! ",
+        "scoredAt": "2026-10-19T07:54:40.096Z",
+        "userId": "cbf1afe4-cc99-474a-b274-42a219b897ec"
+      }
+    },
+    {
+      "id": "744298fdb53adf862f2fb145445fe3e164ee39012497f758281aa2620deac9ec",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:53:24.185Z",
+      "key": "[\"8354857f-9f17-4dd5-a09b-b2d1115576e4\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Полет нормальный бро, как стелишь хорошо, но вот по тексту честно простовато, андерок стиль такой требует наполнения текста",
+        "scoredAt": "2026-10-19T07:53:24.185Z",
+        "userId": "8354857f-9f17-4dd5-a09b-b2d1115576e4"
+      }
+    },
+    {
+      "id": "28bb775e56dda1f4a5a882d2f8079c4dd5e7c592d2dc6b2f379c336d4b017930",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T08:01:44.014Z",
+      "key": "[\"fa313a90-b693-46bc-b75c-41cd3b133e00\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Бро вот вроде есть стилек, и есть нотки настольджи в трексе, но вот в начале есть у тебя одна сбивка странная \"вроде бы гангстер но мамкин\" вот в этом месте звучит не внутри ритмики немного",
+        "scoredAt": "2026-10-19T08:01:44.014Z",
+        "userId": "fa313a90-b693-46bc-b75c-41cd3b133e00"
+      }
+    },
+    {
+      "id": "6766ceee01c37d0e669dc2c0bbe6c263407d7b05be65fcfea8a6f80b7586c25f",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:55:22.827Z",
+      "key": "[\"e7eaa812-4814-4119-a788-b0437a1a8372\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Скажу так не хватило напора в исполнение и может где-то поиграться с раскладками по флоу. ",
+        "scoredAt": "2026-10-19T07:55:22.827Z",
+        "userId": "e7eaa812-4814-4119-a788-b0437a1a8372"
+      }
+    },
+    {
+      "id": "6f915346ab14eee0cfbf00dc8c545b29568858fb53b54edffae9d7e3147c2e3c",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:59:06.089Z",
+      "key": "[\"5a1c6d4c-2b42-48bd-b5e3-84b0f9a83ecc\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-19T07:59:06.089Z",
+        "userId": "5a1c6d4c-2b42-48bd-b5e3-84b0f9a83ecc"
+      }
+    },
+    {
+      "id": "f46326c5309c870c9826f5e3e804befd83f559f7c75ef762a398a64afe66f0e4",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:57:21.864Z",
+      "key": "[\"3e0c5df4-4701-4efb-a3ba-22b8669fe392\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-19T07:57:21.864Z",
+        "userId": "3e0c5df4-4701-4efb-a3ba-22b8669fe392"
+      }
+    },
+    {
+      "id": "a3e402370569213534a16d44acfe76416fa49d13b4559ff08dea8118bffee9ae",
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "sourceScoredAt": "2026-10-19T07:58:11.870Z",
+      "key": "[\"28f20d21-c843-47e8-8d14-31a9a9bb31c9\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Простенько под такой мрачняк и по тексту и по подаче, по мне не хватает здесь безумия какого-то, можно было разнообразить всякими интонациями трек.",
+        "scoredAt": "2026-10-19T07:58:11.870Z",
+        "userId": "28f20d21-c843-47e8-8d14-31a9a9bb31c9"
+      }
     }
   ],
   "snapshots": [
@@ -164771,6 +164897,26 @@
           "index": 30.920567395376946,
           "favor": 17.841791116910734,
           "attention": 2.3565540562439904,
+          "respect": 10.722222222222221
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-19T08:02:20.242Z",
+      "exportedAt": "2026-10-19T08:02:20.242Z",
+      "scores": 13938,
+      "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
+      "indices": {
+        "forum": {
+          "index": 21.48337711004188,
+          "favor": 9.125585590436703,
+          "attention": 6.005750703278648,
+          "respect": 6.3520408163265305
+        },
+        "veterans": {
+          "index": 30.94220122913576,
+          "favor": 17.84631360332295,
+          "attention": 2.3736654035905906,
           "respect": 10.722222222222221
         }
       }
