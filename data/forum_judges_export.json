@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-19T00:41:59.847Z",
+  "exportedAt": "2026-10-19T00:52:15.405Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3394,6 +3394,12 @@
       "userId": "7927b2c8-ec79-4eff-a144-4f990ca7308e",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Необычно, с особинкой. Но не зацепило. Больше тяготило.",
+          "scoredAt": "2026-10-19T00:48:50.807Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,

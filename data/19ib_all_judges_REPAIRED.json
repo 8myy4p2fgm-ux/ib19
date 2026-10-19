@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-19T00:41:59.847Z",
+  "exportedAt": "2026-10-19T00:52:15.405Z",
   "totalParticipants": 3277,
   "members": [
     {
@@ -49134,8 +49134,14 @@
     },
     {
       "userId": "0fc794f6-a798-43aa-b6d6-0bb35ee2ab2d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Грузятина. Обращаюсь через данный комментарий ко всем участникам, которые читают log оценок: не выбирайте такие биты, пожалуйста. Если вы сами их пишете, не делайте этого. ",
+          "scoredAt": "2026-10-19T00:45:36.965Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -49161,7 +49167,7 @@
           "scoredAt": "2026-10-08T12:18:59.199Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-19T00:52:15.405Z",
       "current": true,
       "artistName": "11underdog11",
       "artistSlug": "11underdog11"
@@ -112337,8 +112343,14 @@
     },
     {
       "userId": "7927b2c8-ec79-4eff-a144-4f990ca7308e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Необычно, с особинкой. Но не зацепило. Больше тяготило.",
+          "scoredAt": "2026-10-19T00:48:50.807Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -112364,7 +112376,7 @@
           "scoredAt": "2026-09-20T04:40:00.660Z"
         }
       ],
-      "fetchedAt": "2026-10-16T10:42:30.688Z",
+      "fetchedAt": "2026-10-19T00:52:15.405Z",
       "current": true,
       "artistName": "Мод Дэш",
       "artistSlug": "mod-desh"

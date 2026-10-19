@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T00:41:59.847Z",
-  "exportedAt": "2026-10-19T00:41:59.847Z",
-  "runId": "2026-10-19T00:41:59.847Z",
-  "forumExportedAt": "2026-10-19T00:41:59.847Z",
+  "lastSuccessfulAt": "2026-10-19T00:52:15.405Z",
+  "exportedAt": "2026-10-19T00:52:15.405Z",
+  "runId": "2026-10-19T00:52:15.405Z",
+  "forumExportedAt": "2026-10-19T00:52:15.405Z",
   "selectionVersion": "8bab897b5b589ce683f98bd8f841a3390aa832814dca26f9d78d7f892ed45d6f",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3277,
     "forum": 94,
-    "scores": 13894,
+    "scores": 13896,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,20 +23,20 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3277,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 5,
-    "durationMs": 4650,
-    "scoresBefore": 13891,
-    "scoresAfter": 13894,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 4,
+    "durationMs": 4187,
+    "scoresBefore": 13894,
+    "scoresAfter": 13896,
     "fullBaselineRequests": 3260,
-    "requestReductionPercent": 99.84662576687117,
+    "requestReductionPercent": 99.87730061349693,
     "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
   },
   "source": {
@@ -85,6 +85,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Мод Дэш",
+          "comment": "Необычно, с особинкой. Но не зацепило. Больше тяготило.",
+          "scoredAt": "2026-10-19T00:48:50.807Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "11underdog11",
+          "comment": "Грузятина. Обращаюсь через данный комментарий ко всем участникам, которые читают log оценок: не выбирайте такие биты, пожалуйста. Если вы сами их пишете, не делайте этого. ",
+          "scoredAt": "2026-10-19T00:45:36.965Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -175,20 +189,6 @@
           "artist": "МцБитцаВздумал",
           "comment": "Есть в этом что-то. Настоящий ты.",
           "scoredAt": "2026-10-18T23:53:17.973Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "OPUS",
-          "comment": "Опус на тройку. Песня-тревога.",
-          "scoredAt": "2026-10-18T23:51:24.651Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Axelll",
-          "comment": "Не увидел связи между повторяющейся фразой в припеве и остальными строчками. Как будто просто так приплёл. И звук в какую-то кашу-малашу.",
-          "scoredAt": "2026-10-18T23:49:40.714Z"
         }
       ]
     }
