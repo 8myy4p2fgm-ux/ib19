@@ -4,14 +4,16 @@ import {config} from '../js/config.js';
 const original=await fs.readFile('docs/IB19_V95_WHITE_TUZ_HEADING.html','utf8');
 const overview=await fs.readFile('docs/TUZ_V95_overview_v6.html','utf8');
 const statusSource=(await fs.readFile('js/general.js','utf8')).match(/export function participantStatus\(scores\)\{[\s\S]*?\n\}/)[0].replace('export ','');
-// Only data is adapted in each reference, keeping their UI and formulas intact.
+// Apply the approved raster brand to runtime references; historical fixtures stay intact.
+const approvedBrand=(await fs.readFile('index.html','utf8')).match(/<a class="site-brand .*?<\/a>/)[0].replaceAll('="./','="/ib19/');
+// Data, status corrections and the approved brand are adapted; analytical UI stays intact.
 function currentDataReference(original){
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
  let code=first.slice(first.indexOf('const module3=')).replaceAll('2026-10-18T23:59:00+03:00',config.deadline);
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");
  // Apply the approved status correction to the runtime reference; keep historical files intact.
  code=code.replace(/function participantStatus\(scores\)\{[^\n]+\}/,()=>statusSource);
- return original.replace(first,code).replace('Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками.','Прошли — гарантированно наберут не менее 15 баллов даже с единицами за оставшиеся оценки. Выбыли — не наберут 15 даже с пятёрками.').replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><script type="module" src="/ib19/js/room.js"></script></head>');
+ return original.replace(first,code).replace(/<a class="site-brand .*?<\/a>/,()=>approvedBrand).replace('Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками.','Прошли — гарантированно наберут не менее 15 баллов даже с единицами за оставшиеся оценки. Выбыли — не наберут 15 даже с пятёрками.').replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><link rel="stylesheet" href="/ib19/css/logo-classic.css"><script type="module" src="/ib19/js/room.js"></script></head>');
 }
 // Apply the approved room and stable header to each reference; preserve all original layout,
 // interaction and pixel comparisons.
