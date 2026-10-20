@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T12:22:19.921Z",
+  "exportedAt": "2026-10-20T12:32:14.883Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -41995,8 +41995,14 @@
     },
     {
       "userId": "0fb155b2-da45-4e02-84ab-fbc9350bb06c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Сначала думал супер просто, но дальше понял, что ты очень плотно рифмуешь и работаешь с подачей.. не хватило содержания и большей работы с битлом",
+          "scoredAt": "2026-10-20T12:26:58.413Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -42022,7 +42028,7 @@
           "scoredAt": "2026-10-16T15:33:01.811Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T12:32:14.883Z",
       "current": true,
       "artistName": "OZLOБLENNЫЙ",
       "artistSlug": "ozloblennyy",
@@ -101397,8 +101403,14 @@
     },
     {
       "userId": "be131ab6-e107-4846-8eac-57dd979e1af2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Авансом, стиль крепок. Нужен текст еще.",
+          "scoredAt": "2026-10-20T12:23:36.429Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 3,
@@ -101424,7 +101436,7 @@
           "scoredAt": "2026-10-09T10:02:33.346Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:32:26.602Z",
+      "fetchedAt": "2026-10-20T12:32:14.883Z",
       "current": true,
       "artistName": "Kozyr",
       "artistSlug": "kozyr",
@@ -116249,8 +116261,14 @@
     },
     {
       "userId": "5559ff91-1ef8-4d2a-8711-12972cd0f647",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Голос прикольный, но он должен работать с битлом.. и по содержанию добавляй, а то пустенько \n",
+          "scoredAt": "2026-10-20T12:27:56.405Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -116270,7 +116288,7 @@
           "scoredAt": "2026-10-16T06:15:47.498Z"
         }
       ],
-      "fetchedAt": "2026-10-18T19:02:08.741Z",
+      "fetchedAt": "2026-10-20T12:32:14.883Z",
       "current": true,
       "artistName": "BIKMET",
       "artistSlug": "bikmet",

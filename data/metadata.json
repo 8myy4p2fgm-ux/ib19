@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T12:22:19.921Z",
-  "exportedAt": "2026-10-20T12:22:19.921Z",
-  "runId": "2026-10-20T12:22:19.921Z",
-  "forumExportedAt": "2026-10-20T12:22:19.921Z",
+  "lastSuccessfulAt": "2026-10-20T12:32:14.883Z",
+  "exportedAt": "2026-10-20T12:32:14.883Z",
+  "runId": "2026-10-20T12:32:14.883Z",
+  "forumExportedAt": "2026-10-20T12:32:14.883Z",
   "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14810,
+    "scores": 14813,
     "judges": 22,
     "forumDirectory": 96,
     "og": 67,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 6,
-    "durationMs": 6121,
-    "scoresBefore": 14807,
-    "scoresAfter": 14810,
+    "durationMs": 5729,
+    "scoresBefore": 14810,
+    "scoresAfter": 14813,
     "fullBaselineRequests": 3273,
     "requestReductionPercent": 99.8166819431714,
     "temporaryExclusions": [
@@ -94,6 +94,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "artist": "BIKMET",
+          "comment": "Голос прикольный, но он должен работать с битлом.. и по содержанию добавляй, а то пустенько \n",
+          "scoredAt": "2026-10-20T12:27:56.405Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "artist": "OZLOБLENNЫЙ",
+          "comment": "Сначала думал супер просто, но дальше понял, что ты очень плотно рифмуешь и работаешь с подачей.. не хватило содержания и большей работы с битлом",
+          "scoredAt": "2026-10-20T12:26:58.413Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "Kozyr",
+          "comment": "Авансом, стиль крепок. Нужен текст еще.",
+          "scoredAt": "2026-10-20T12:23:36.429Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -177,27 +198,6 @@
           "artist": "Тинки Винки",
           "comment": "По содержанию конечно маловато.. за рифмы понимаешь, но при этом делаешь часто очень ожидаемые и простые( ",
           "scoredAt": "2026-10-20T12:00:39.336Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "MC Beast",
-          "comment": "Почаще бы менять конструкции. Голос отлично поставлен и с битлом работает. ",
-          "scoredAt": "2026-10-20T11:59:12.662Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "Влад Цепешъ",
-          "comment": "Супер странное битло) тебе же он для того, что бы работать под него, а не для фона. Были хорошие моменты, но в целом сыровато. ",
-          "scoredAt": "2026-10-20T11:58:08.463Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 4,
-          "artist": "Stepauv",
-          "comment": "Немного Хаски)) по подаче..\n короче есть в этом что-то. Рифмы и конструкции есть интересные",
-          "scoredAt": "2026-10-20T11:57:06.406Z"
         }
       ]
     }
