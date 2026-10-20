@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T03:42:03.630Z",
-  "exportedAt": "2026-10-20T03:42:03.630Z",
-  "runId": "2026-10-20T03:42:03.630Z",
-  "forumExportedAt": "2026-10-20T03:42:03.630Z",
+  "lastSuccessfulAt": "2026-10-20T03:52:16.311Z",
+  "exportedAt": "2026-10-20T03:52:16.311Z",
+  "runId": "2026-10-20T03:52:16.311Z",
+  "forumExportedAt": "2026-10-20T03:52:16.311Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14688,
+    "scores": 14692,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 1,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 4,
-    "durationMs": 4383,
-    "scoresBefore": 14687,
-    "scoresAfter": 14688,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 3,
+    "logicalRequests": 8,
+    "durationMs": 7735,
+    "scoresBefore": 14688,
+    "scoresAfter": 14692,
     "fullBaselineRequests": 3271,
-    "requestReductionPercent": 99.87771323754203,
+    "requestReductionPercent": 99.75542647508408,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "Yudzhin Maze",
+          "comment": "По ритмике есть проблемы. По тексту есть неплохие задумки, но пока все на зачаточном уровне.",
+          "scoredAt": "2026-10-20T03:50:15.202Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "artist": "ГеоПаки",
+          "comment": "Стильно и качёво, по тексту очень просто. Зря рычать начинаешь в конце. Если до ума довести песню, то получится классный трек в тачку. Для баттла - мимо.",
+          "scoredAt": "2026-10-20T03:47:29.305Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "artist": "Называй как хочешь",
+          "comment": "Не критичный перегруз, звучит слушабельно, не парься. Классный текст, хорошо раскрыл тему. Панчуль накидал. Слышно, что опыта мало в исполнении, читай рэпака побольше и станешь крутым. Для первой записи очень хорошо!",
+          "scoredAt": "2026-10-20T03:45:39.740Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -177,27 +198,6 @@
           "artist": "Ноубадиев",
           "comment": "Рифмы совсем слабые( работаем с этим\n",
           "scoredAt": "2026-10-19T22:06:27.232Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "Geroy",
-          "comment": "Баттл это мощь!",
-          "scoredAt": "2026-10-19T22:06:16.835Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 1,
-          "artist": "Ярый",
-          "comment": "Фристайл - это не совсем то, что обычно ждёшь на отбор крупного проекта) ",
-          "scoredAt": "2026-10-19T22:05:48.702Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Ghoume",
-          "comment": "У тебя какой-то свой темп. Но я думаю ты должен пройти.",
-          "scoredAt": "2026-10-19T22:05:39.807Z"
         }
       ]
     }

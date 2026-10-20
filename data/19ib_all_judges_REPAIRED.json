@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T03:42:03.630Z",
+  "exportedAt": "2026-10-20T03:52:16.311Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -18891,8 +18891,14 @@
     },
     {
       "userId": "99999c24-216d-47c7-bbf5-19d0c6f27120",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Простой трек. Посыл хороший, но надо его завернуть в качественную форму. ",
+          "scoredAt": "2026-10-20T03:52:11.692Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 4,
@@ -18900,7 +18906,7 @@
           "scoredAt": "2026-10-17T14:36:40.691Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:42:15.233Z",
+      "fetchedAt": "2026-10-20T03:52:16.311Z",
       "current": true,
       "artistName": "Владислав Разумов",
       "artistSlug": "vladislav-razumov",
@@ -61840,8 +61846,14 @@
     },
     {
       "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "По ритмике есть проблемы. По тексту есть неплохие задумки, но пока все на зачаточном уровне.",
+          "scoredAt": "2026-10-20T03:50:15.202Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -61861,7 +61873,7 @@
           "scoredAt": "2026-10-13T14:08:30.883Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:42:21.154Z",
+      "fetchedAt": "2026-10-20T03:52:16.311Z",
       "current": true,
       "artistName": "Yudzhin Maze",
       "artistSlug": "yudzhin-maze",
@@ -93632,8 +93644,14 @@
     },
     {
       "userId": "96642ff0-6150-41d5-8f6d-e58152c189e9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Не критичный перегруз, звучит слушабельно, не парься. Классный текст, хорошо раскрыл тему. Панчуль накидал. Слышно, что опыта мало в исполнении, читай рэпака побольше и станешь крутым. Для первой записи очень хорошо!",
+          "scoredAt": "2026-10-20T03:45:39.740Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -93653,7 +93671,7 @@
           "scoredAt": "2026-10-13T06:01:32.413Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T03:52:16.311Z",
       "current": true,
       "artistName": "Называй как хочешь",
       "artistSlug": "nazyvay-kak-hochesh",
@@ -99325,8 +99343,14 @@
     },
     {
       "userId": "f86d2f4d-1c9d-4f42-b765-a0998995c444",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Стильно и качёво, по тексту очень просто. Зря рычать начинаешь в конце. Если до ума довести песню, то получится классный трек в тачку. Для баттла - мимо.",
+          "scoredAt": "2026-10-20T03:47:29.305Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 1,
@@ -99346,7 +99370,7 @@
           "scoredAt": "2026-10-09T11:51:05.780Z"
         }
       ],
-      "fetchedAt": "2026-10-15T08:02:23.223Z",
+      "fetchedAt": "2026-10-20T03:52:16.311Z",
       "current": true,
       "artistName": "ГеоПаки",
       "artistSlug": "geopaki",
