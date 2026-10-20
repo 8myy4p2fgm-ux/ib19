@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T01:12:10.616Z",
-  "exportedAt": "2026-10-20T01:12:10.616Z",
-  "runId": "2026-10-20T01:12:10.616Z",
-  "forumExportedAt": "2026-10-20T01:12:10.616Z",
+  "lastSuccessfulAt": "2026-10-20T01:52:10.657Z",
+  "exportedAt": "2026-10-20T01:52:10.657Z",
+  "runId": "2026-10-20T01:52:10.657Z",
+  "forumExportedAt": "2026-10-20T01:52:10.657Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14685,
+    "scores": 14686,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 3817,
-    "scoresBefore": 14684,
-    "scoresAfter": 14685,
+    "durationMs": 3758,
+    "scoresBefore": 14685,
+    "scoresAfter": 14686,
     "fullBaselineRequests": 3271,
     "requestReductionPercent": 99.87771323754203,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "Dima Dz",
+          "comment": "Голос у тебя прикольный и запоминающийся. По треку есть хорошие моменты, а есть очень не очень - и это касается в основном общего звучания и рифмовки. Подтяни данные аспекты. Средне.",
+          "scoredAt": "2026-10-20T01:46:07.084Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -191,13 +198,6 @@
           "artist": "BARKHAN",
           "comment": "Красава и слушается, и текст, и рифмы.. поработал со всем... кроме темы) ",
           "scoredAt": "2026-10-19T22:05:02.356Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "ПаруСтрок",
-          "comment": "Ты меня на  своей волне. Такое на любителя всегда. Не очень уверенно звучит.",
-          "scoredAt": "2026-10-19T22:04:40.081Z"
         }
       ]
     }

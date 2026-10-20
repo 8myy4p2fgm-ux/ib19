@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T01:12:10.616Z",
+  "exportedAt": "2026-10-20T01:52:10.657Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -102272,8 +102272,14 @@
     },
     {
       "userId": "91516f03-e92c-4b9c-b858-e550e8aa1b2d",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Голос у тебя прикольный и запоминающийся. По треку есть хорошие моменты, а есть очень не очень - и это касается в основном общего звучания и рифмовки. Подтяни данные аспекты. Средне.",
+          "scoredAt": "2026-10-20T01:46:07.084Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -102281,7 +102287,7 @@
           "scoredAt": "2026-10-17T11:52:15.023Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:02:11.418Z",
+      "fetchedAt": "2026-10-20T01:52:10.657Z",
       "current": true,
       "artistName": "Dima Dz",
       "artistSlug": "dima-dz",
