@@ -1,0 +1,69 @@
+/* Approved V6 forum section; analytical styles remain unchanged. */
+.site-header .navs:has(.nav-horo){gap:clamp(5px,.85vw,14px)}
+.site-header .nav-horo{display:flex;align-items:center;justify-content:center;padding:0 6px;align-self:stretch;min-height:0}
+.nav-horo img{display:block;width:108px;height:40px;object-fit:contain;flex:none}
+.site-header .nav-horo::after{left:8px;right:8px;bottom:7px}
+.nav-horo:hover img{filter:brightness(1.08)}
+.main:has(#horo.active)>.head{margin-bottom:16px}
+.main:has(#horo.active)>.head #coverage{display:none}
+.main:has(#horo.active)>.head h1{font-size:clamp(32px,3.5vw,48px);line-height:1.12;color:#f1f0e7}
+#horo .horo-panel{isolation:auto}
+#horo a:focus-visible,#horo summary:focus-visible,#horo button:focus-visible{outline:2px solid var(--green);outline-offset:3px}
+.horo-panel{background:rgba(13,20,16,.86);border:1px solid rgba(169,188,174,.24);border-radius:6px;padding:30px 32px;margin:0 0 24px;color:#f0f0e8;box-sizing:border-box}.horo-panel h2{font-size:clamp(20px,2vw,25px);line-height:1.3;margin:0 0 22px;font-weight:650}.horo-notes{border-bottom:1px solid rgba(160,180,160,.16)}.horo-note{border-top:1px solid rgba(160,180,160,.2)}.horo-note summary{padding:18px 2px;cursor:pointer;display:grid;grid-template-columns:102px minmax(0,1fr) 20px;align-items:center;gap:16px;list-style:none}.horo-note summary::-webkit-details-marker{display:none}.horo-issue{color:#c9ad80;font-size:11px;letter-spacing:.04em;white-space:nowrap}.horo-note strong{font-size:16px;font-weight:600;line-height:1.4}.horo-more{font-size:21px;color:#a6b7a9;transition:transform .18s}.horo-note[open] .horo-more{transform:rotate(180deg)}.horo-note summary:hover strong{color:#f5d9a4}.horo-note-body{max-width:900px;color:#d0d8cd;line-height:1.72;font-size:15px;padding:0 0 24px 118px}.horo-note-body p{margin:0 0 13px}.horo-note-body p:last-child{margin-bottom:0}
+.horo-video{aspect-ratio:16/9;max-width:900px;width:100%;margin:0 auto}.horo-video iframe{width:100%;height:100%;border:0;border-radius:5px}.horo-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}.horo-image{display:block;width:100%;padding:8px;background:rgba(22,30,24,.65);border:1px solid rgba(169,188,174,.2);border-radius:5px;cursor:zoom-in}.horo-image:hover{border-color:#b0bdad}.horo-image img{display:block;width:100%;height:auto;object-fit:contain}.horo-lightbox:not([hidden]){position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.94);display:flex;align-items:flex-start;justify-content:center;overflow:auto;padding:56px 12px 20px}.horo-lightbox img{max-width:100%;height:auto;object-fit:contain}.horo-close{position:fixed;top:8px;right:16px;font-size:38px;background:#1d2921;color:white;border:1px solid #647465;border-radius:5px;cursor:pointer;z-index:2}.horo-footer{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:16px 22px;border:1px solid rgba(169,188,174,.18);border-radius:5px;background:rgba(13,20,16,.84);font-size:12px;color:#b5bdb4}.horo-footer-right{display:flex;align-items:center;gap:28px}.horo-footer a{color:#c8d2c5;text-decoration:none}.horo-footer a:hover{text-decoration:underline}
+
+/* V5: compact acknowledgement and gapless, ratio-preserving gallery */
+.horo-credits{margin:-8px 0 24px;padding:0 6px;color:#b6c2b6;font-size:13px;line-height:1.65;max-width:1060px}
+.horo-credits a{color:#dfc69b;text-decoration:none;border-bottom:1px solid rgba(223,198,155,.35)}
+.horo-credits a:hover{color:#fff1d6;border-color:currentColor}
+.horo-gallery{display:block;columns:2;column-gap:16px}
+.horo-image{display:block;break-inside:avoid;page-break-inside:avoid;margin:0 0 16px;width:100%;box-sizing:border-box}
+.horo-image[hidden]{display:none}
+.horo-image img{width:100%;height:auto;display:block}
+.horo-image[data-src*="horizontal"]{column-span:all;max-width:100%;}
+.horo-lightbox img{max-width:100%;max-height:none;cursor:zoom-in}
+.horo-lightbox.is-zoomed img{max-width:none;width:auto;height:auto;cursor:zoom-out}
+@media(max-width:850px){.horo-gallery{columns:1;column-gap:0}.horo-image{margin-bottom:14px}.horo-image[data-src*="horizontal"]{column-span:none}}
+
+
+.horo-credits{box-sizing:border-box;max-width:none;margin:0 0 24px;padding:16px 20px;background:rgba(13,20,16,.85);border:1px solid rgba(169,188,174,.18);border-radius:6px;color:#cbd4c8;font-size:14px;line-height:1.65}
+.horo-credits a{color:#d7c49c;border-bottom-color:rgba(215,196,156,.35)}
+.horo-series{column-span:all}
+.horo-video-link{max-width:900px;margin:10px auto 0;font-size:13px}
+.horo-video-link a{color:var(--muted);text-decoration:underline;text-underline-offset:3px}
+dialog.horo-lightbox{inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:0;border:0;background:rgba(0,0,0,.94);color:var(--text);overflow:hidden}
+dialog.horo-lightbox:not([open]){display:none}
+dialog.horo-lightbox[open]{display:block}
+.horo-lightbox::backdrop{background:rgba(0,0,0,.8)}
+.horo-view-controls{position:absolute;top:8px;right:16px;left:16px;display:flex;justify-content:flex-end;gap:8px;z-index:2}
+.horo-view-controls button{position:static;background:#1d2921;color:var(--text);border:1px solid #647465;border-radius:5px;min-height:42px;cursor:pointer}
+.horo-view-controls button:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.horo-close{font-size:30px;line-height:1;width:44px}
+.horo-zoom{padding:6px 14px;font-size:14px}
+.horo-view-scroll{position:absolute;inset:60px 0 0;overflow:auto;overscroll-behavior:contain;padding:0 12px 20px;touch-action:pan-x pan-y pinch-zoom}
+.horo-view-images{width:100%;min-height:100%;display:flex;align-items:flex-start;justify-content:center}
+.horo-view-images img{display:block;max-width:100%;max-height:none;width:auto;height:auto;cursor:zoom-in;flex:none}
+.horo-view-images.horo-view-series{justify-content:flex-start;gap:8px;min-width:100%;width:max-content}
+.horo-view-series img{width:min(640px,calc(100vw - 32px));max-width:none}
+.is-zoomed .horo-view-images{width:max-content;min-width:100%;justify-content:flex-start}
+.is-zoomed .horo-view-images img{max-width:none;width:auto;cursor:zoom-out}
+@media(max-width:850px){
+ .nav-horo img{width:99px;height:37px}
+ .site-header .nav-horo::after{bottom:3px}
+ .horo-panel{padding:22px}
+ .horo-gallery{columns:1}
+ .horo-note summary{grid-template-columns:88px minmax(0,1fr) 20px;gap:10px}
+ .horo-note-body{padding-left:0}
+ .horo-footer,.horo-footer-right{flex-wrap:wrap;gap:8px 18px}
+ .horo-credits{padding:14px 16px}
+}
+@media(max-width:390px){
+ .nav-horo img{width:92px;height:35px}
+ .horo-panel{padding:17px}
+ .horo-note summary{grid-template-columns:minmax(0,1fr) 20px;gap:4px}
+ .horo-issue{grid-column:1}
+ .horo-note strong{grid-column:1;grid-row:2}
+ .horo-more{grid-column:2;grid-row:1 / span 2}
+ .horo-note-body{font-size:14px}
+ .horo-credits{font-size:13px;padding:13px 14px}
+}

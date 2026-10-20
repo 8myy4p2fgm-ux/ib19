@@ -20,7 +20,7 @@ const server=http.createServer(async(req,res)=>{
 });
 await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 const base=`http://127.0.0.1:${server.address().port}`;
-const cases=[['/','Обзор'],['/dynamics/','Судейские обхваты'],['/judges/','Судьи'],['/rappers/','Реперы'],['/events/','События']];
+const cases=[['/','Обзор'],['/dynamics/','Судейские обхваты'],['/judges/','Судьи'],['/rappers/','Реперы'],['/events/','События'],['/horo/','Хо-ро-шо. По форумному']];
 const browser=await chromium.launch({headless:true});
 const errors=[];
 try{
@@ -40,7 +40,7 @@ try{
   assert.equal(await page.title(),`${title} — TUZ19`);
   assert.equal(await page.locator('#page-title').textContent(),title);
   assert.equal(await page.locator('script[data-cf-beacon]').count(),1);
-  assert.equal(await page.locator('.site-header .nav').count(),4);
+  assert.equal(await page.locator('.site-header .nav').count(),5);
  }
  await page.goto(base+'/');
  await page.waitForSelector('#carrot-loader',{state:'detached'});
@@ -77,5 +77,5 @@ try{
  assert.equal(await page.locator('.nav[data-tab="judges"]').getAttribute('href'),'/ib19/judges/');
  await page.locator('.nav[data-tab="judges"]').click();assert.equal(new URL(page.url()).pathname,'/ib19/judges/');
  assert.deepEqual(errors,[]);
- console.log('Routes passed: five direct paths, SPA menu, history, reload, legacy links, assets, one Beacon.');
+ console.log('Routes passed: six direct paths, SPA menu, history, reload, legacy links, assets, one Beacon.');
 }finally{await browser.close();await new Promise(resolve=>server.close(resolve));}
