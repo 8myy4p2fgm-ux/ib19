@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T05:32:16.279Z",
+  "exportedAt": "2026-10-20T05:52:10.107Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -61269,8 +61269,14 @@
     },
     {
       "userId": "346a8612-40b1-4f3f-bd46-79286faf2623",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Грязный звук очень портит впечатление. Текстуля просто адище бестолковое, сорянчик. Неймдроп на неймдропе и неймдропом погоняет - все в кучу, блинский. Зачитон ровный, харизма присутствует. Ну тройка, но такая себе. В общем не халтурь так, дальше такое точно не прокатит.",
+          "scoredAt": "2026-10-20T05:47:37.100Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -61290,7 +61296,7 @@
           "scoredAt": "2026-09-24T14:32:50.274Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-20T05:52:10.107Z",
       "current": true,
       "artistName": "LE’GATO [KIMURA CLAN]",
       "artistSlug": "le-gato-kimura-clan",
