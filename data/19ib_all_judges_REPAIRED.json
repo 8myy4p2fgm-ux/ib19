@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T01:02:22.929Z",
+  "exportedAt": "2026-10-20T01:12:10.616Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -922,6 +922,35 @@
       "trackId": "099b2d4a-a2e5-4bca-bb7f-c163edd6fb5c"
     },
     {
+      "userId": "a82ee880-67b7-4156-9825-d9d8b270dd68",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "",
+          "scoredAt": "2026-10-18T10:41:39.971Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 1,
+          "comment": "прости, между нами нету связи.",
+          "scoredAt": "2026-10-13T13:21:38.231Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 1,
+          "comment": "сил родителям!",
+          "scoredAt": "2026-09-15T15:06:23.153Z"
+        }
+      ],
+      "fetchedAt": "2026-10-18T10:42:21.154Z",
+      "current": true,
+      "artistName": "Denexis [LTTR]",
+      "artistSlug": "denexis-lttr",
+      "trackId": "aef47ad7-fd41-4da1-8c3e-d30c07cd94db"
+    },
+    {
       "userId": "09ea08f9-1413-4fe7-9247-278d96dabaf1",
       "scoredCount": 5,
       "scores": [
@@ -961,35 +990,6 @@
       "artistName": "SOULmate",
       "artistSlug": "soulmate",
       "trackId": "e3280d2c-05a3-415e-9fe5-cb4c7be72e11"
-    },
-    {
-      "userId": "a82ee880-67b7-4156-9825-d9d8b270dd68",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "Никсон",
-          "score": 1,
-          "comment": "",
-          "scoredAt": "2026-10-18T10:41:39.971Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 1,
-          "comment": "прости, между нами нету связи.",
-          "scoredAt": "2026-10-13T13:21:38.231Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 1,
-          "comment": "сил родителям!",
-          "scoredAt": "2026-09-15T15:06:23.153Z"
-        }
-      ],
-      "fetchedAt": "2026-10-18T10:42:21.154Z",
-      "current": true,
-      "artistName": "Denexis [LTTR]",
-      "artistSlug": "denexis-lttr",
-      "trackId": "aef47ad7-fd41-4da1-8c3e-d30c07cd94db"
     },
     {
       "userId": "fd8274f8-37e9-405d-aca4-d98a530d2dcd",
@@ -70965,8 +70965,14 @@
     },
     {
       "userId": "26556773-4487-48ff-b806-66fa7bf9c48f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "comment": "Была бы моя воля, пять единиц бы уебал. Братанчик, к сожалению рано пока.",
+          "scoredAt": "2026-10-20T01:03:08.499Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -70992,7 +70998,7 @@
           "scoredAt": "2026-10-07T17:05:49.681Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T01:12:10.616Z",
       "current": true,
       "artistName": "JohnnyDice",
       "artistSlug": "johnnydice",
