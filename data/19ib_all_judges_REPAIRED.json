@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T16:02:12.747Z",
+  "exportedAt": "2026-10-20T16:12:25.500Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -15817,8 +15817,14 @@
     },
     {
       "userId": "a5d7350b-533f-4616-afca-c079826d9b19",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Круто подаёшь, но сведение подсрачное. Найди звукаря, блин.",
+          "scoredAt": "2026-10-20T16:05:40.869Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -15844,7 +15850,7 @@
           "scoredAt": "2026-08-31T17:57:36.652Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:21:53.967Z",
+      "fetchedAt": "2026-10-20T16:12:25.500Z",
       "current": true,
       "artistName": "КОЛЯ REYT",
       "artistSlug": "kolya-reyt",
@@ -17684,8 +17690,14 @@
     },
     {
       "userId": "c4f44ef2-f30e-4d5f-9fde-93a4995403d8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Спасибо за декодинг к панчам! Честно и откровенно говоря, трэчок на тройку: от качества до однообразной читки. Тройки хватит для прохода, поэтому получай.",
+          "scoredAt": "2026-10-20T16:04:09.158Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -17711,7 +17723,7 @@
           "scoredAt": "2026-09-17T18:26:51.093Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T16:12:25.500Z",
       "current": true,
       "artistName": "elka_elka",
       "artistSlug": "elka-elka",
@@ -67000,8 +67012,14 @@
     },
     {
       "userId": "73e8175f-6255-4500-9931-da84bb39e5af",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "comment": "Писал комментарий про ритмику, а он сбросился, но он остался на стриме, если пересмотришь.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T16:10:53.495Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -67021,7 +67039,7 @@
           "scoredAt": "2026-10-16T06:56:06.717Z"
         }
       ],
-      "fetchedAt": "2026-10-19T00:12:05.682Z",
+      "fetchedAt": "2026-10-20T16:12:25.500Z",
       "current": true,
       "artistName": "Articoola",
       "artistSlug": "articoola",
