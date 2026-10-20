@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T17:02:31.390Z",
-  "exportedAt": "2026-10-20T17:02:31.390Z",
-  "runId": "2026-10-20T17:02:31.390Z",
-  "forumExportedAt": "2026-10-20T17:02:31.390Z",
+  "lastSuccessfulAt": "2026-10-20T17:12:22.521Z",
+  "exportedAt": "2026-10-20T17:12:22.521Z",
+  "runId": "2026-10-20T17:12:22.521Z",
+  "forumExportedAt": "2026-10-20T17:12:22.521Z",
   "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14882,
+    "scores": 14883,
     "judges": 22,
     "forumDirectory": 96,
     "og": 67,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9630,
-    "scoresBefore": 14876,
-    "scoresAfter": 14882,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4333,
+    "scoresBefore": 14882,
+    "scoresAfter": 14883,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.72519083969466,
+    "requestReductionPercent": 99.87786259541984,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "artist": "Vizital",
+          "comment": "Я почти уверен, что это какой-то трек из загашничков твоих, потому что тут нет темы от слова совсем, еще и текст целиком прикрепил, что дополнительно подтверждает такую теорию.",
+          "scoredAt": "2026-10-20T17:02:52.586Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -191,13 +198,6 @@
           "artist": "demogotcha",
           "comment": "Странная запись, хотя чувствуется уверенность.",
           "scoredAt": "2026-10-20T16:26:34.353Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Helli",
-          "comment": "Неформатно конечно, но качественно.",
-          "scoredAt": "2026-10-20T16:26:01.493Z"
         }
       ]
     }

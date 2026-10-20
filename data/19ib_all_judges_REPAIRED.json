@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T17:02:31.390Z",
+  "exportedAt": "2026-10-20T17:12:22.521Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -3906,35 +3906,6 @@
       "artistName": "Steeh",
       "artistSlug": "steeh",
       "trackId": "db40be59-8a03-4fec-bf08-bc9cec5d8ea7"
-    },
-    {
-      "userId": "814c8951-163d-41cc-bed8-9d784d7eec6a",
-      "scoredCount": 3,
-      "scores": [
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "comment": "Нойзовский вайбец какой-то.  Суммарно средне. Уверенные 3 балла. ",
-          "scoredAt": "2026-10-19T18:16:09.933Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "comment": "лет / совет / нет...  - печаль\nа вот оникса и свой рюкзак - уже круче) \n",
-          "scoredAt": "2026-10-19T10:51:09.721Z"
-        },
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 3,
-          "comment": "средненький тречок. без ярких моментов. голос будто бы не на 30ку xDD",
-          "scoredAt": "2026-10-08T16:18:07.034Z"
-        }
-      ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
-      "current": true,
-      "artistName": "МС из города на букву Ж",
-      "artistSlug": "ms-iz-goroda-na-bukvu-zh",
-      "trackId": "3f4414d3-02b9-4364-a361-3839046d1924"
     },
     {
       "userId": "e60c704c-b393-4ad4-a314-d8c34ac5e592",
@@ -35722,8 +35693,14 @@
     },
     {
       "userId": "c9526b9f-ee1b-4cc6-acf5-fe69f03fa29e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "comment": "Я почти уверен, что это какой-то трек из загашничков твоих, потому что тут нет темы от слова совсем, еще и текст целиком прикрепил, что дополнительно подтверждает такую теорию.",
+          "scoredAt": "2026-10-20T17:02:52.586Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -35743,7 +35720,7 @@
           "scoredAt": "2026-10-08T16:13:24.681Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T17:12:22.521Z",
       "current": true,
       "artistName": "Vizital",
       "artistSlug": "vizital",
@@ -124940,6 +124917,35 @@
       "artistName": "Антон Zabe",
       "artistSlug": "anton-zabe",
       "trackId": "79779edb-93e0-4012-89a1-0a8a22cd828e"
+    },
+    {
+      "userId": "814c8951-163d-41cc-bed8-9d784d7eec6a",
+      "scoredCount": 3,
+      "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "comment": "Нойзовский вайбец какой-то.  Суммарно средне. Уверенные 3 балла. ",
+          "scoredAt": "2026-10-19T18:16:09.933Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "лет / совет / нет...  - печаль\nа вот оникса и свой рюкзак - уже круче) \n",
+          "scoredAt": "2026-10-19T10:51:09.721Z"
+        },
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 3,
+          "comment": "средненький тречок. без ярких моментов. голос будто бы не на 30ку xDD",
+          "scoredAt": "2026-10-08T16:18:07.034Z"
+        }
+      ],
+      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "current": true,
+      "artistName": "МС из города на букву Ж",
+      "artistSlug": "ms-iz-goroda-na-bukvu-zh",
+      "trackId": "3f4414d3-02b9-4364-a361-3839046d1924"
     },
     {
       "userId": "a954fe3a-e7de-4329-a347-1cb01620f9ab",
