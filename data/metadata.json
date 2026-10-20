@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T17:22:16.423Z",
-  "exportedAt": "2026-10-20T17:22:16.423Z",
-  "runId": "2026-10-20T17:22:16.423Z",
-  "forumExportedAt": "2026-10-20T17:22:16.423Z",
+  "lastSuccessfulAt": "2026-10-20T17:32:03.593Z",
+  "exportedAt": "2026-10-20T17:32:03.593Z",
+  "runId": "2026-10-20T17:32:03.593Z",
+  "forumExportedAt": "2026-10-20T17:32:03.593Z",
   "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14884,
+    "scores": 14886,
     "judges": 22,
     "forumDirectory": 96,
     "og": 67,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 4,
-    "durationMs": 4712,
-    "scoresBefore": 14883,
-    "scoresAfter": 14884,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5140,
+    "scoresBefore": 14884,
+    "scoresAfter": 14886,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.87786259541984,
+    "requestReductionPercent": 99.84732824427482,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "krasst",
+          "comment": "Панчики и рифмовки имеешь, технику показал. Немножко дал Svyat'а. Качества тебе не хватает, и с последними строчками набедокурил: пение было лишним.",
+          "scoredAt": "2026-10-20T17:28:27.382Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "artist": "RampThug",
+          "comment": "Ну давай мы попробуем увидеть в этом стиль, но проблема в том, что вот конкретно этот стиль оч трудно подружить с баттл-репом.\n\nЭто скорее треки для ЦА найтивыход и прочих таких вот подземных околорепопоэтов, но на баттле все же вот такие ритмические скольжения по биту ощущаются не оч. Ну и в тексте нет каких-то уж красивых пируэтов литературных.\n\nP.S. хотя я переслушал трек и не увидел в нем тему совсем. Так что упадет еще оценка до двух (\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T17:24:03.340Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -184,20 +198,6 @@
           "artist": "LongShotDay",
           "comment": "Ну это уверенный такой бодряковый репак на оценку \"хор.\" в отборе.\n\nВсего есть хорошего, но понемножку.\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
           "scoredAt": "2026-10-20T16:33:42.636Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Шакир",
-          "comment": "Крепкая работа, заслуженный проход",
-          "scoredAt": "2026-10-20T16:30:28.273Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "WillyWonkka",
-          "comment": "Хорошая работа, но очень долгое и непонятное интро.",
-          "scoredAt": "2026-10-20T16:27:15.237Z"
         }
       ]
     }
