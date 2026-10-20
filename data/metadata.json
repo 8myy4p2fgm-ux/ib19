@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T19:02:03.695Z",
-  "exportedAt": "2026-10-20T19:02:03.695Z",
-  "runId": "2026-10-20T19:02:03.695Z",
-  "forumExportedAt": "2026-10-20T19:02:03.695Z",
+  "lastSuccessfulAt": "2026-10-20T19:12:20.026Z",
+  "exportedAt": "2026-10-20T19:12:20.026Z",
+  "runId": "2026-10-20T19:12:20.026Z",
+  "forumExportedAt": "2026-10-20T19:12:20.026Z",
   "selectionVersion": "9878ae7e48d5488225faa0eaf93835c456c14de007c207b2b9971cc09b7e5d67",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 97,
-    "scores": 14916,
+    "scores": 14917,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 3945,
-    "scoresBefore": 14915,
-    "scoresAfter": 14916,
+    "durationMs": 4335,
+    "scoresBefore": 14916,
+    "scoresAfter": 14917,
     "fullBaselineRequests": 3275,
     "requestReductionPercent": 99.87786259541984,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "Вертушка Газлайтинга",
+          "comment": "Очень знакомый голос. ) Помню тебя на 18IB. Ну, по барсам грязь, но все жеванное-пережеванное по сто раз уж - ХУЙ, ЖОПА, КОНЧА, ЫЫЫ. Хотелось бы, чтобы ты заворчаивал панчики уже по-взрослому.",
+          "scoredAt": "2026-10-20T19:08:19.004Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -191,13 +198,6 @@
           "artist": "сhöpоpаlo",
           "comment": "твой голос отлично подходит под такие битки с таким аналоговым баском.\n\nЭто жирнейший плюс, конечно, я даже задумался над 4-ой.\n\nНо все же после второго прослушивания это 4. Ты можешь сыпать крутыми пунчиками, но тут их не хватает, а для такого стилька такие строчки нужны. Ну и припев вроде бы милый с бэками на заднем дворе, но звучит по итогу не то чтоб как-то оч круто, тут надо было как-то покопаться в капах записанных и что-то из этого вытаскивать не только с даблами девочки, но и с твоими.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
           "scoredAt": "2026-10-20T18:13:53.910Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 2,
-          "artist": "gall black anger",
-          "comment": "Дооопустим, а тема где раскрывается?",
-          "scoredAt": "2026-10-20T18:11:58.284Z"
         }
       ]
     }

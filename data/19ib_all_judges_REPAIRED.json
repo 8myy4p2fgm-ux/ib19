@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T19:02:03.695Z",
+  "exportedAt": "2026-10-20T19:12:20.026Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -56517,8 +56517,14 @@
     },
     {
       "userId": "68d980cd-5718-4c42-9b6d-a22092b19abf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Очень знакомый голос. ) Помню тебя на 18IB. Ну, по барсам грязь, но все жеванное-пережеванное по сто раз уж - ХУЙ, ЖОПА, КОНЧА, ЫЫЫ. Хотелось бы, чтобы ты заворчаивал панчики уже по-взрослому.",
+          "scoredAt": "2026-10-20T19:08:19.004Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -56544,7 +56550,7 @@
           "scoredAt": "2026-09-24T16:50:40.777Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:12:20.123Z",
+      "fetchedAt": "2026-10-20T19:12:20.026Z",
       "current": true,
       "artistName": "Вертушка Газлайтинга",
       "artistSlug": "vertushka-gazlaytinga",
