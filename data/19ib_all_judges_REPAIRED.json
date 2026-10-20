@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T00:22:10.650Z",
+  "exportedAt": "2026-10-20T00:42:03.314Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -56881,8 +56881,14 @@
     },
     {
       "userId": "ed24ab2f-9426-4f5d-9898-9b2ab5b4362c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "comment": "Еее, подавальный звук, косорылые рифмы. Конечно же это должно пройти во второй (нет).",
+          "scoredAt": "2026-10-20T00:33:45.938Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -56896,7 +56902,7 @@
           "scoredAt": "2026-10-13T13:51:52.705Z"
         }
       ],
-      "fetchedAt": "2026-10-18T23:02:44.874Z",
+      "fetchedAt": "2026-10-20T00:42:03.314Z",
       "current": true,
       "artistName": "Юрась",
       "artistSlug": "yuras",

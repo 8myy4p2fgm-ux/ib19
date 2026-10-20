@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T00:22:10.650Z",
-  "exportedAt": "2026-10-20T00:22:10.650Z",
-  "runId": "2026-10-20T00:22:10.650Z",
-  "forumExportedAt": "2026-10-20T00:22:10.650Z",
+  "lastSuccessfulAt": "2026-10-20T00:42:03.314Z",
+  "exportedAt": "2026-10-20T00:42:03.314Z",
+  "runId": "2026-10-20T00:42:03.314Z",
+  "forumExportedAt": "2026-10-20T00:42:03.314Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14682,
+    "scores": 14683,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 3604,
-    "scoresBefore": 14681,
-    "scoresAfter": 14682,
+    "durationMs": 3954,
+    "scoresBefore": 14682,
+    "scoresAfter": 14683,
     "fullBaselineRequests": 3271,
     "requestReductionPercent": 99.87771323754203,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "artist": "Юрась",
+          "comment": "Еее, подавальный звук, косорылые рифмы. Конечно же это должно пройти во второй (нет).",
+          "scoredAt": "2026-10-20T00:33:45.938Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -191,13 +198,6 @@
           "artist": "Два в парадный",
           "comment": "Вот за кучу отсылочек поднял до 2\n",
           "scoredAt": "2026-10-19T22:03:01.605Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "Миша Тенге",
-          "comment": "Очень сложный выбор. Я не знаю за что здесь ставить проход, супер обычно и слабо по подаче. ",
-          "scoredAt": "2026-10-19T22:02:29.680Z"
         }
       ]
     }
