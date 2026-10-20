@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T14:52:21.803Z",
+  "exportedAt": "2026-10-20T15:02:22.470Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -28414,8 +28414,14 @@
     },
     {
       "userId": "91eb4cdf-b4c5-4fcc-b22e-f2581613513e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Пока что не проход. ",
+          "scoredAt": "2026-10-20T14:53:56.940Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -28441,7 +28447,7 @@
           "scoredAt": "2026-08-30T20:39:01.891Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:52:09.322Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "Колдун Стайл",
       "artistSlug": "koldun-stayl",
@@ -34543,8 +34549,14 @@
     },
     {
       "userId": "19b4eae2-ace5-45c7-b734-8034c2000fde",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Стильно звучит, но вот за рифмы хотелось бы снизить. По итогу натянутая тройка.",
+          "scoredAt": "2026-10-20T14:54:52.128Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -34570,7 +34582,7 @@
           "scoredAt": "2026-09-03T19:15:43.829Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:12:25.257Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "КакЕсть",
       "artistSlug": "kakest",
@@ -41744,8 +41756,14 @@
     },
     {
       "userId": "4dc065ee-b030-4486-8063-17cc6729631f",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну если в тексте ещё что-то можно найти, то по исполнению прям плохо пока что.",
+          "scoredAt": "2026-10-20T14:56:35.026Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -41759,7 +41777,7 @@
           "scoredAt": "2026-09-25T19:31:31.948Z"
         }
       ],
-      "fetchedAt": "2026-10-15T11:52:21.634Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "Отклик",
       "artistSlug": "otklik",
@@ -46532,8 +46550,14 @@
     },
     {
       "userId": "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Стильная работа.",
+          "scoredAt": "2026-10-20T14:57:47.201Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -46547,7 +46571,7 @@
           "scoredAt": "2026-10-15T19:42:33.126Z"
         }
       ],
-      "fetchedAt": "2026-10-18T18:32:30.943Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "Grave DillaZ",
       "artistSlug": "grave-dillaz",
@@ -54091,8 +54115,14 @@
     },
     {
       "userId": "b78239e6-3878-4f45-a074-d0df592791ad",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "По раскрытию может и нормально, но по звуку ещё много работы, как мне кажется.",
+          "scoredAt": "2026-10-20T14:53:23.699Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -54118,7 +54148,7 @@
           "scoredAt": "2026-10-10T14:45:12.226Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "so_wet_chick",
       "artistSlug": "so-wet-chick",
@@ -124581,8 +124611,14 @@
     },
     {
       "userId": "a954fe3a-e7de-4329-a347-1cb01620f9ab",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "Какой ужас со сведением. Ничего не понятно. Пока что рановато для прохода",
+          "scoredAt": "2026-10-20T14:52:27.603Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -124596,7 +124632,7 @@
           "scoredAt": "2026-10-19T16:12:20.977Z"
         }
       ],
-      "fetchedAt": "2026-10-19T20:22:17.857Z",
+      "fetchedAt": "2026-10-20T15:02:22.470Z",
       "current": true,
       "artistName": "Метелица",
       "artistSlug": "metelica",
