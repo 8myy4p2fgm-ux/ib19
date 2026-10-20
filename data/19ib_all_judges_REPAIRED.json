@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T12:32:14.883Z",
+  "exportedAt": "2026-10-20T13:02:13.745Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -78611,23 +78611,6 @@
       "trackId": "340f2cd6-c474-4973-bc4b-f7c8529aef27"
     },
     {
-      "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "comment": "норм, искранул в прошляки",
-          "scoredAt": "2026-10-14T21:47:45.019Z"
-        }
-      ],
-      "fetchedAt": "2026-10-14T21:52:19.398Z",
-      "current": true,
-      "artistName": "Бахтияр Сюдаблин",
-      "artistSlug": "bahtiyar-syudablin",
-      "trackId": "5cf596f7-2b65-4518-a82b-8803bd99624b"
-    },
-    {
       "userId": "fca22d57-e7c6-4c51-ada8-fdc692d4d7ae",
       "scoredCount": 5,
       "scores": [
@@ -78702,6 +78685,23 @@
       "artistName": "Mom’s Nigga",
       "artistSlug": "mom-s-nigga",
       "trackId": "a3eaa28f-6bc6-4196-8d62-c6e23d0f9db7"
+    },
+    {
+      "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "норм, искранул в прошляки",
+          "scoredAt": "2026-10-14T21:47:45.019Z"
+        }
+      ],
+      "fetchedAt": "2026-10-14T21:52:19.398Z",
+      "current": true,
+      "artistName": "Бахтияр Сюдаблин",
+      "artistSlug": "bahtiyar-syudablin",
+      "trackId": "5cf596f7-2b65-4518-a82b-8803bd99624b"
     },
     {
       "userId": "ea226567-2d29-4fe8-a74a-43568b857c59",
