@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T23:22:13.642Z",
+  "exportedAt": "2026-10-20T23:32:22.423Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -79370,8 +79370,14 @@
     },
     {
       "userId": "28c849f0-4fa5-4079-a599-a92305974ea3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Какая интересная ритмика у тебя, подкупает это в совокупности с интонациями и дерзкой подачей",
+          "scoredAt": "2026-10-20T23:31:54.070Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -79391,7 +79397,7 @@
           "scoredAt": "2026-10-10T08:01:40.678Z"
         }
       ],
-      "fetchedAt": "2026-10-20T19:02:03.695Z",
+      "fetchedAt": "2026-10-20T23:32:22.423Z",
       "current": true,
       "artistName": "Микра",
       "artistSlug": "mikra",
@@ -90349,8 +90355,14 @@
     },
     {
       "userId": "36347570-d26c-4942-bff9-0f64bfad101a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-20T23:22:12.602Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -90376,7 +90388,7 @@
           "scoredAt": "2026-10-17T09:53:01.758Z"
         }
       ],
-      "fetchedAt": "2026-10-20T17:52:36.317Z",
+      "fetchedAt": "2026-10-20T23:32:22.423Z",
       "current": true,
       "artistName": "MC Schön",
       "artistSlug": "mc-schon",
@@ -94212,8 +94224,14 @@
     },
     {
       "userId": "87fa01d6-a70f-4c62-930e-8b8b7aaceb3c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Рифмы страдают, содержание хаотичное, но получилось очень атмосферно.",
+          "scoredAt": "2026-10-20T23:29:47.193Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -94233,7 +94251,7 @@
           "scoredAt": "2026-09-22T16:20:55.123Z"
         }
       ],
-      "fetchedAt": "2026-10-19T20:52:32.633Z",
+      "fetchedAt": "2026-10-20T23:32:22.423Z",
       "current": true,
       "artistName": "I KRA",
       "artistSlug": "i-kra",
@@ -103099,8 +103117,14 @@
     },
     {
       "userId": "9f6ab954-abca-460f-a54a-6395198625e5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Атмосферно, стильно, очень качает! Разнообразие крутое.  По тексту бы дожать чутка.",
+          "scoredAt": "2026-10-20T23:30:57.533Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -103120,7 +103144,7 @@
           "scoredAt": "2026-10-12T10:01:44.871Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:42:39.249Z",
+      "fetchedAt": "2026-10-20T23:32:22.423Z",
       "current": true,
       "artistName": "Yznk",
       "artistSlug": "yznk",
