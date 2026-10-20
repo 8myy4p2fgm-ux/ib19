@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T22:32:18.767Z",
+  "exportedAt": "2026-10-20T22:52:17.514Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -45728,6 +45728,29 @@
       "trackId": "3b299a29-caff-4a45-a038-a286be6fdb1a"
     },
     {
+      "userId": "d8245dd0-21b6-428c-868b-9ddf501c5079",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 4,
+          "comment": "Есть неплохие ритмики, есть неплохие лексические заходы, но работа не вызывает каких-то вау-эффектов",
+          "scoredAt": "2026-10-16T09:30:38.760Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 5,
+          "comment": "Авансом. Крепко.",
+          "scoredAt": "2026-10-15T14:47:21.539Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T09:32:24.786Z",
+      "current": true,
+      "artistName": "Egor Neiv",
+      "artistSlug": "egor-neiv",
+      "trackId": "639ff62a-6573-49de-801a-27bcfca96e05"
+    },
+    {
       "userId": "47851a75-b279-4e06-9ccb-698e4e2e5777",
       "scoredCount": 3,
       "scores": [
@@ -45889,29 +45912,6 @@
       "artistName": "новокрест",
       "artistSlug": "novokrest",
       "trackId": "f6f7bba8-261d-49ce-86f8-de51e763a699"
-    },
-    {
-      "userId": "d8245dd0-21b6-428c-868b-9ddf501c5079",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "H1GH",
-          "score": 4,
-          "comment": "Есть неплохие ритмики, есть неплохие лексические заходы, но работа не вызывает каких-то вау-эффектов",
-          "scoredAt": "2026-10-16T09:30:38.760Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 5,
-          "comment": "Авансом. Крепко.",
-          "scoredAt": "2026-10-15T14:47:21.539Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T09:32:24.786Z",
-      "current": true,
-      "artistName": "Egor Neiv",
-      "artistSlug": "egor-neiv",
-      "trackId": "639ff62a-6573-49de-801a-27bcfca96e05"
     },
     {
       "userId": "c017e632-169d-4fbd-aacd-7dec2121f8fe",
