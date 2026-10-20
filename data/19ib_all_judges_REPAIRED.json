@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T14:12:25.032Z",
+  "exportedAt": "2026-10-20T14:22:11.850Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -115194,8 +115194,14 @@
     },
     {
       "userId": "1b73e0fc-5a51-428f-ae5e-9b5d0f774da2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом тебе даю проход, если бы не приложил текст поставил бы 2. ",
+          "scoredAt": "2026-10-20T14:19:19.236Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -115221,7 +115227,7 @@
           "scoredAt": "2026-10-08T14:12:52.948Z"
         }
       ],
-      "fetchedAt": "2026-10-14T13:22:03.986Z",
+      "fetchedAt": "2026-10-20T14:22:11.850Z",
       "current": true,
       "artistName": "gggoyard",
       "artistSlug": "gggoyard",
@@ -120524,8 +120530,14 @@
     },
     {
       "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: скучновато, местами мимо вообще\nОбщее впечатление: рановато для второго раунда мне кажется\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-20T14:13:01.316Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -120539,7 +120551,7 @@
           "scoredAt": "2026-10-15T17:02:54.821Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-20T14:22:11.850Z",
       "current": true,
       "artistName": "Лёха Л.",
       "artistSlug": "leha-l",
