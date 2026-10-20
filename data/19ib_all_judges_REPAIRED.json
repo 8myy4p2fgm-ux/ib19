@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T22:22:26.136Z",
+  "exportedAt": "2026-10-20T22:32:18.767Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -14486,8 +14486,14 @@
     },
     {
       "userId": "22087e43-1a03-40ee-90c4-4dde6cf11a54",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "comment": "Бро, ты не поймешь. Но спасибо тебе за маму.\n\nНа самом деле, навалил так крепко, что аж у самого скулы свело от скорости.\n\nТут, к сожалению, выше оценки особо нельзя ставить, по подаче это уж слишком зажеванно и ритмически это не то чтоб речитатив, это просто наваливание во всех смыслах этого слова.\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T22:26:41.362Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 1,
@@ -14513,7 +14519,7 @@
           "scoredAt": "2026-09-06T13:55:32.613Z"
         }
       ],
-      "fetchedAt": "2026-10-18T08:42:10.912Z",
+      "fetchedAt": "2026-10-20T22:32:18.767Z",
       "current": true,
       "artistName": "BIGyMotya",
       "artistSlug": "bigymotya",
@@ -81299,8 +81305,14 @@
     },
     {
       "userId": "430cf458-8ff5-4777-8327-6e039d8389c6",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Ну брад рановато брад и по техту и по рэбу. Вот питч в коце интересный был, всё остальное не оч.",
+          "scoredAt": "2026-10-20T22:23:52.619Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -81314,7 +81326,7 @@
           "scoredAt": "2026-10-14T20:35:08.863Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:02:23.993Z",
+      "fetchedAt": "2026-10-20T22:32:18.767Z",
       "current": true,
       "artistName": "Danila_Kok$",
       "artistSlug": "danila-kok",
@@ -104758,8 +104770,14 @@
     },
     {
       "userId": "a12355f9-45f0-4788-bd5c-2cc494ef1521",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Блин надо было на бит красндеревщика это зачитать внотурь, веселее было бы!",
+          "scoredAt": "2026-10-20T22:22:50.428Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -104785,7 +104803,7 @@
           "scoredAt": "2026-10-12T16:15:43.893Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T22:32:18.767Z",
       "current": true,
       "artistName": "FullJazz",
       "artistSlug": "fulljazz",
