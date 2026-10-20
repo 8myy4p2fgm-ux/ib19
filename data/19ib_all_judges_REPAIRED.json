@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T07:32:13.784Z",
+  "exportedAt": "2026-10-20T08:22:15.815Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -39927,6 +39927,47 @@
       "trackId": "9cd6550b-4d1d-4b6d-b2a4-6d81595921ff"
     },
     {
+      "userId": "d54379a9-1833-4a17-a6d3-3aa7d911aa97",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T12:53:31.862Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Интересный хопчик, иногда так голос сведен необычно, где-то звучит стилево, а где-то как демка. ",
+          "scoredAt": "2026-10-17T07:45:31.730Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "Не нравится, как читаешь. Получается довольно топорно, не хватает вайба, чувства бита и музыкальности.\nТекст простой. Дам шанс, надеюсь во втором раунде удивишь.",
+          "scoredAt": "2026-10-13T19:12:29.595Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "ахахах) своей подруге он сказал что это просто трафик)))) - это хорошо) \nВообще прикольно строишь.. рисп \nЕсть вопросы к подаче, но в целом - оч хочу послушать дальше ",
+          "scoredAt": "2026-10-12T20:27:33.941Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "https://www.twitch.tv/yuarr_mus стрим 10",
+          "scoredAt": "2026-10-09T20:37:19.961Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "current": true,
+      "artistName": "АДАРИ́НА",
+      "artistSlug": "adarina",
+      "trackId": "c211aa1e-8a66-4b81-9603-f9975f9a1902"
+    },
+    {
       "userId": "90477dfa-81ee-4d6a-ac63-ca8b0721c122",
       "scoredCount": 5,
       "scores": [
@@ -40001,47 +40042,6 @@
       "artistName": "DILEMMA",
       "artistSlug": "dilemma",
       "trackId": "2e912956-5052-4d2c-a4d8-424f19a9b4c6"
-    },
-    {
-      "userId": "d54379a9-1833-4a17-a6d3-3aa7d911aa97",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T12:53:31.862Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "comment": "Интересный хопчик, иногда так голос сведен необычно, где-то звучит стилево, а где-то как демка. ",
-          "scoredAt": "2026-10-17T07:45:31.730Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "comment": "Не нравится, как читаешь. Получается довольно топорно, не хватает вайба, чувства бита и музыкальности.\nТекст простой. Дам шанс, надеюсь во втором раунде удивишь.",
-          "scoredAt": "2026-10-13T19:12:29.595Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 4,
-          "comment": "ахахах) своей подруге он сказал что это просто трафик)))) - это хорошо) \nВообще прикольно строишь.. рисп \nЕсть вопросы к подаче, но в целом - оч хочу послушать дальше ",
-          "scoredAt": "2026-10-12T20:27:33.941Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "comment": "https://www.twitch.tv/yuarr_mus стрим 10",
-          "scoredAt": "2026-10-09T20:37:19.961Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
-      "current": true,
-      "artistName": "АДАРИ́НА",
-      "artistSlug": "adarina",
-      "trackId": "c211aa1e-8a66-4b81-9603-f9975f9a1902"
     },
     {
       "userId": "7ab4fbc8-a4f0-47b8-ae36-78d3295cbe17",

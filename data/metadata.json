@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T07:32:13.784Z",
-  "exportedAt": "2026-10-20T07:32:13.784Z",
-  "runId": "2026-10-20T07:32:13.784Z",
-  "forumExportedAt": "2026-10-20T07:32:13.784Z",
+  "lastSuccessfulAt": "2026-10-20T08:22:15.815Z",
+  "exportedAt": "2026-10-20T08:22:15.815Z",
+  "runId": "2026-10-20T08:22:15.815Z",
+  "forumExportedAt": "2026-10-20T08:22:15.815Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -34,7 +34,7 @@
     "changedParticipants": 0,
     "updatedCards": 0,
     "logicalRequests": 3,
-    "durationMs": 3452,
+    "durationMs": 3460,
     "scoresBefore": 14697,
     "scoresAfter": 14697,
     "fullBaselineRequests": 3271,
