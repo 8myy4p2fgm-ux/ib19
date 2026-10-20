@@ -1,52 +1,44 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T08:22:15.815Z",
-  "exportedAt": "2026-10-20T08:22:15.815Z",
-  "runId": "2026-10-20T08:22:15.815Z",
-  "forumExportedAt": "2026-10-20T08:22:15.815Z",
-  "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
+  "lastSuccessfulAt": "2026-10-20T08:28:28.101Z",
+  "exportedAt": "2026-10-20T08:28:28.101Z",
+  "runId": "2026-10-20T08:28:28.101Z",
+  "forumExportedAt": "2026-10-20T08:28:28.101Z",
+  "selectionVersion": "6f74105d2a8414529c1a24220f64e3c811ec639bdfd8d2f0f4dab26c44a7481a",
   "directory": {
     "source": "data/forum.csv",
-    "sha256": "ae258f06401adb6e150561ad01fbf99d55c3fb50873fcbb243d26b4f847c94fa",
-    "total": 95,
-    "og": 66,
+    "sha256": "cd3d4da78b9c1fcf8d65b9cd593138312c6c426fbc641bfa85c66ab2fc6701f2",
+    "total": 96,
+    "og": 67,
     "veterans": 29
   },
   "counts": {
     "participants": 3276,
-    "forum": 94,
+    "forum": 95,
     "scores": 14697,
     "judges": 22,
-    "forumDirectory": 95,
-    "og": 65,
+    "forumDirectory": 96,
+    "og": 66,
     "veterans": 29,
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 3,
-    "errors429": 0,
-    "retries": 0,
-    "judgeDirectory": "updated",
-    "mode": "incremental",
+    "mode": "local-membership-rebuild",
+    "sourceSnapshotAt": "2026-10-20T08:22:15.815Z",
+    "sourceLastSuccessfulAt": "2026-10-20T08:22:15.815Z",
+    "lastFullAuditAt": "2026-10-13T18:20:00.020Z",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 3460,
-    "scoresBefore": 14697,
-    "scoresAfter": 14697,
-    "fullBaselineRequests": 3271,
-    "requestReductionPercent": 99.90828492815653,
+    "httpRequests": 0,
+    "errors429": 0,
+    "retries": 0,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
         "reason": "Temporary exclusion: API 19ib.ru returns six scores while the first round requires five.",
         "scoredCount": 6
       }
-    ],
-    "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
+    ]
   },
   "source": {
     "apiBase": "https://api.19ib.ru",
