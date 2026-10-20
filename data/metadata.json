@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T16:42:22.786Z",
-  "exportedAt": "2026-10-20T16:42:22.786Z",
-  "runId": "2026-10-20T16:42:22.786Z",
-  "forumExportedAt": "2026-10-20T16:42:22.786Z",
+  "lastSuccessfulAt": "2026-10-20T16:52:21.031Z",
+  "exportedAt": "2026-10-20T16:52:21.031Z",
+  "runId": "2026-10-20T16:52:21.031Z",
+  "forumExportedAt": "2026-10-20T16:52:21.031Z",
   "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14875,
+    "scores": 14876,
     "judges": 22,
     "forumDirectory": 96,
     "og": 67,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 7424,
-    "scoresBefore": 14871,
-    "scoresAfter": 14875,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4359,
+    "scoresBefore": 14875,
+    "scoresAfter": 14876,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.78625954198473,
+    "requestReductionPercent": 99.87786259541984,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "artist": "48surd",
+          "comment": "Слушай, ну по подаче оч даже уверенно, будто бы при оценке ее вне текста и встал вопрос между 4 и 5, но все же вот так перечитав текст бегло, понимаю, что в сторону 5 увести это не могу, слишком уж простые конструкции и рифмы местами.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T16:47:28.704Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -191,13 +198,6 @@
           "artist": "Реклама Соц Сетей",
           "comment": "Это что-то из категории \"гениальное искусство\"...",
           "scoredAt": "2026-10-20T16:16:39.487Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "KOST-N",
-          "comment": "Хорошая работа, с напором!",
-          "scoredAt": "2026-10-20T16:15:46.225Z"
         }
       ]
     }
