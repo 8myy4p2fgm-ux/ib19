@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-20T16:12:25.500Z",
+  "exportedAt": "2026-10-20T16:22:22.487Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -1119,6 +1119,12 @@
       "forum_name": "KOST-N",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Хорошая работа, с напором!",
+          "scoredAt": "2026-10-20T16:15:46.225Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,

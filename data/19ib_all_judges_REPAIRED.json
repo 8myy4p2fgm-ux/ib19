@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T16:12:25.500Z",
+  "exportedAt": "2026-10-20T16:22:22.487Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -61785,8 +61785,14 @@
     },
     {
       "userId": "84f35751-2352-40ca-9274-e2955ef31a68",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-20T16:21:17.144Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -61806,7 +61812,7 @@
           "scoredAt": "2026-10-07T07:34:25.761Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-20T16:22:22.487Z",
       "current": true,
       "artistName": "RASON MC",
       "artistSlug": "rason-mc",
@@ -67882,8 +67888,14 @@
     },
     {
       "userId": "aa25743c-9650-44f0-8a09-ee9f00999de5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "Это что-то из категории \"гениальное искусство\"...",
+          "scoredAt": "2026-10-20T16:16:39.487Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -67903,7 +67915,7 @@
           "scoredAt": "2026-10-13T16:30:07.626Z"
         }
       ],
-      "fetchedAt": "2026-10-17T05:52:13.440Z",
+      "fetchedAt": "2026-10-20T16:22:22.487Z",
       "current": true,
       "artistName": "Реклама Соц Сетей",
       "artistSlug": "reklama-soc-setey",
@@ -71010,8 +71022,14 @@
     },
     {
       "userId": "17599f82-3005-4a36-b03f-baf9b77fe111",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Хорошая работа, с напором!",
+          "scoredAt": "2026-10-20T16:15:46.225Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -71031,7 +71049,7 @@
           "scoredAt": "2026-09-30T04:28:24.267Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T16:22:22.487Z",
       "current": true,
       "artistName": "KOST-N",
       "artistSlug": "kost-n",
@@ -77254,8 +77272,14 @@
     },
     {
       "userId": "8fa35d01-51b4-4173-b478-606c4fd298be",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "comment": "Прости, господин ПаруСтрок, я чекнул оценки и я тебя не спасу. Потому что ну по моим критериям, скажем так, которые я выбрал для себя в этом раунде, это все же 3.\n\nУ тебя медленная читка почти что по слогам, у тебя не оч уверенно по интонированию в подаче, есть максимум пережатый слегка голос для попытки создания некого VIBES в треке. Но даже так можно найти во всем этом косячки, где ты неуверенно ритмически сдаешь даже такую в целом простенькую подачку.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T16:19:14.828Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -77281,7 +77305,7 @@
           "scoredAt": "2026-09-24T13:58:21.963Z"
         }
       ],
-      "fetchedAt": "2026-10-20T11:32:34.613Z",
+      "fetchedAt": "2026-10-20T16:22:22.487Z",
       "current": true,
       "artistName": "ПаруСтрок",
       "artistSlug": "parustrok",
