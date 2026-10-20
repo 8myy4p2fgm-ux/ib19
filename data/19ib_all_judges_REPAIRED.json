@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T10:32:22.490Z",
+  "exportedAt": "2026-10-20T10:42:22.075Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -25095,8 +25095,14 @@
     },
     {
       "userId": "0185a735-dc44-4912-8402-6ebf1d3d3fe9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "Рифмы простые совсем( и всегда на последнее слово. Попробуй поработать с конструкцией текста ",
+          "scoredAt": "2026-10-20T10:40:31.947Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -25110,7 +25116,7 @@
           "scoredAt": "2026-09-03T14:14:55.991Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "PRaV",
       "artistSlug": "prav",
@@ -85128,8 +85134,14 @@
     },
     {
       "userId": "f3f58dce-7d07-46cb-9061-0ff5ad1bfee7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Вставки - круто подобрал, текст слушается. А вот подача проигрышно звучит, вообще не работаешь с битлом. Авансом 4",
+          "scoredAt": "2026-10-20T10:34:12.201Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -85155,7 +85167,7 @@
           "scoredAt": "2026-10-09T11:40:55.756Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "Xenobeats",
       "artistSlug": "xenobeats",
@@ -86831,8 +86843,14 @@
     },
     {
       "userId": "7c6b56ab-6fe2-46fe-af80-7dcd31d24ed8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "ого, мог и без долгого вступления..  подал однообразно, хотя по тексту интересно построил",
+          "scoredAt": "2026-10-20T10:39:05.545Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -86852,7 +86870,7 @@
           "scoredAt": "2026-10-05T09:38:25.913Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:02:50.113Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "FUCKT",
       "artistSlug": "fuckt",
@@ -89163,8 +89181,14 @@
     },
     {
       "userId": "c1947238-9d21-472d-a6d2-43951542d697",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Голос оч приятно звучит, но по тексту - мало. Да, звучит музыкально, но тут всё-таки больше хочется в текст ",
+          "scoredAt": "2026-10-20T10:35:34.992Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -89178,7 +89202,7 @@
           "scoredAt": "2026-10-13T23:31:01.670Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:52:11.673Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "ИИР",
       "artistSlug": "iir",
@@ -105611,8 +105635,14 @@
     },
     {
       "userId": "73af9d54-e788-4629-97eb-31aaf790012d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Хотелось бы больше работы в подачу, по тексту - оч слушабельно и плотно ",
+          "scoredAt": "2026-10-20T10:32:58.492Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -105638,7 +105668,7 @@
           "scoredAt": "2026-10-03T15:18:40.182Z"
         }
       ],
-      "fetchedAt": "2026-10-19T08:32:18.591Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "leha_plus",
       "artistSlug": "leha-plus",
@@ -123531,8 +123561,14 @@
     },
     {
       "userId": "af6e9691-4ac5-4f7f-a2b0-265bf4ec7bd9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Слушай.. ну шаришь же. А чего с первых стрик это не показал, странное интро + не сильно, смотрю, парился с подачей",
+          "scoredAt": "2026-10-20T10:37:19.649Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -123552,7 +123588,7 @@
           "scoredAt": "2026-10-15T13:35:12.206Z"
         }
       ],
-      "fetchedAt": "2026-10-18T15:22:05.953Z",
+      "fetchedAt": "2026-10-20T10:42:22.075Z",
       "current": true,
       "artistName": "СЫНЛУНЫ",
       "artistSlug": "synluny",
