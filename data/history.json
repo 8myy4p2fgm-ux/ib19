@@ -166200,6 +166200,48 @@
         "scoredAt": "2026-10-20T15:20:19.964Z",
         "userId": "35dae5d1-6714-4e51-aff5-d67940cdf6b3"
       }
+    },
+    {
+      "id": "401ceed1211bdd5989115da27b8494755909b7a79907412ce78f36869f04b572",
+      "observedAt": "2026-10-20T15:32:20.821Z",
+      "sourceScoredAt": "2026-10-20T15:23:17.870Z",
+      "key": "[\"1ff915ce-442e-43d0-8b78-c391416310f7\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Запинаешься, неуверенно чувствуешь себя на бите. Пока рановато во второй.",
+        "scoredAt": "2026-10-20T15:23:17.870Z",
+        "userId": "1ff915ce-442e-43d0-8b78-c391416310f7"
+      }
+    },
+    {
+      "id": "275790e4b595be347c0a8f1f864b53cff84fe2c23ed16a4825c0737b0fae3bcf",
+      "observedAt": "2026-10-20T15:32:20.821Z",
+      "sourceScoredAt": "2026-10-20T15:26:07.481Z",
+      "key": "[\"59c02789-8fd5-495d-a5ff-b0d12fe79387\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Добротно сделал, на четвёрку потянет.",
+        "scoredAt": "2026-10-20T15:26:07.481Z",
+        "userId": "59c02789-8fd5-495d-a5ff-b0d12fe79387"
+      }
+    },
+    {
+      "id": "4a12a348427610e49b6138facf20981cb26c009bf906918c339d9c5cc469ff10",
+      "observedAt": "2026-10-20T15:32:20.821Z",
+      "sourceScoredAt": "2026-10-20T15:30:24.163Z",
+      "key": "[\"129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Средняя работа: что по рифмам, что по истории, что по ритмике.",
+        "scoredAt": "2026-10-20T15:30:24.163Z",
+        "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b"
+      }
     }
   ],
   "snapshots": [
@@ -178959,6 +179001,26 @@
           "index": 32.16736489360798,
           "favor": 18.156099676480007,
           "attention": 3.240588525398652,
+          "respect": 10.770676691729323
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-20T15:32:20.821Z",
+      "exportedAt": "2026-10-20T15:32:20.821Z",
+      "scores": 14838,
+      "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
+      "indices": {
+        "forum": {
+          "index": 20.166853994398352,
+          "favor": 8.52212303134258,
+          "attention": 5.701334736640674,
+          "respect": 5.943396226415095
+        },
+        "veterans": {
+          "index": 32.172079003951154,
+          "favor": 18.15679030967422,
+          "attention": 3.2446120025476137,
           "respect": 10.770676691729323
         }
       }

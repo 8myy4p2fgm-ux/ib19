@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T15:22:26.953Z",
+  "exportedAt": "2026-10-20T15:32:20.821Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -46182,8 +46182,14 @@
     },
     {
       "userId": "1ff915ce-442e-43d0-8b78-c391416310f7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Запинаешься, неуверенно чувствуешь себя на бите. Пока рановато во второй.",
+          "scoredAt": "2026-10-20T15:23:17.870Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -46203,7 +46209,7 @@
           "scoredAt": "2026-10-15T14:23:41.100Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:02:10.206Z",
+      "fetchedAt": "2026-10-20T15:32:20.821Z",
       "current": true,
       "artistName": "KIPMC",
       "artistSlug": "kipmc",
@@ -58092,8 +58098,14 @@
     },
     {
       "userId": "59c02789-8fd5-495d-a5ff-b0d12fe79387",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Добротно сделал, на четвёрку потянет.",
+          "scoredAt": "2026-10-20T15:26:07.481Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -58119,7 +58131,7 @@
           "scoredAt": "2026-10-13T13:16:12.845Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:52:16.996Z",
+      "fetchedAt": "2026-10-20T15:32:20.821Z",
       "current": true,
       "artistName": "Subereal",
       "artistSlug": "subereal",
@@ -82495,8 +82507,14 @@
     },
     {
       "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Средняя работа: что по рифмам, что по истории, что по ритмике.",
+          "scoredAt": "2026-10-20T15:30:24.163Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -82504,7 +82522,7 @@
           "scoredAt": "2026-10-18T01:54:09.758Z"
         }
       ],
-      "fetchedAt": "2026-10-18T02:02:08.813Z",
+      "fetchedAt": "2026-10-20T15:32:20.821Z",
       "current": true,
       "artistName": "Андеграунд Возле Аквариума",
       "artistSlug": "andegraund-vozle-akvariuma",

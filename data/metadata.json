@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T15:22:26.953Z",
-  "exportedAt": "2026-10-20T15:22:26.953Z",
-  "runId": "2026-10-20T15:22:26.953Z",
-  "forumExportedAt": "2026-10-20T15:22:26.953Z",
+  "lastSuccessfulAt": "2026-10-20T15:32:20.821Z",
+  "exportedAt": "2026-10-20T15:32:20.821Z",
+  "runId": "2026-10-20T15:32:20.821Z",
+  "forumExportedAt": "2026-10-20T15:32:20.821Z",
   "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14835,
+    "scores": 14838,
     "judges": 22,
     "forumDirectory": 96,
     "og": 67,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 3,
     "changedParticipants": 3,
     "logicalRequests": 6,
-    "durationMs": 5913,
-    "scoresBefore": 14832,
-    "scoresAfter": 14835,
+    "durationMs": 6353,
+    "scoresBefore": 14835,
+    "scoresAfter": 14838,
     "fullBaselineRequests": 3273,
     "requestReductionPercent": 99.8166819431714,
     "temporaryExclusions": [
@@ -94,6 +94,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Андеграунд Возле Аквариума",
+          "comment": "Средняя работа: что по рифмам, что по истории, что по ритмике.",
+          "scoredAt": "2026-10-20T15:30:24.163Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Subereal",
+          "comment": "Добротно сделал, на четвёрку потянет.",
+          "scoredAt": "2026-10-20T15:26:07.481Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "KIPMC",
+          "comment": "Запинаешься, неуверенно чувствуешь себя на бите. Пока рановато во второй.",
+          "scoredAt": "2026-10-20T15:23:17.870Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -177,27 +198,6 @@
           "artist": "Колдун Стайл",
           "comment": "Пока что не проход. ",
           "scoredAt": "2026-10-20T14:53:56.940Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "so_wet_chick",
-          "comment": "По раскрытию может и нормально, но по звуку ещё много работы, как мне кажется.",
-          "scoredAt": "2026-10-20T14:53:23.699Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 1,
-          "artist": "Метелица",
-          "comment": "Какой ужас со сведением. Ничего не понятно. Пока что рановато для прохода",
-          "scoredAt": "2026-10-20T14:52:27.603Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Seven7",
-          "comment": "Ну в целом средне исполнено, но когда вникаешь в текст, становится грустно. Рифмы прям на 1...",
-          "scoredAt": "2026-10-20T14:51:44.741Z"
         }
       ]
     }
