@@ -53,6 +53,4 @@ body[data-room-light="off"] .room-off{opacity:1}
 @media(max-width:360px){#home .home-index-header #index-main{font-size:88px}#forum-link .fl-filter-set{min-width:0;max-width:100%}#forum-link .fl-filters{flex-wrap:wrap}}
 @media(prefers-reduced-motion:reduce){.room-layer,.room-layer::before,.room-layer::after{transition:none}}
 
-/* Original switch plate follows the baked position; decorative pixels never intercept clicks. */
-.room-switch::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:4.17136415vw;height:4.90417136vw;pointer-events:none;background:url("./assets/switch-light-on.webp") center/100% 100% no-repeat}
-body[data-room-light="off"] .room-switch::before{background-image:url("./assets/switch-light-off.webp")}
+/* The approved photographs include the switch plate; use only the transparent hit area. */
