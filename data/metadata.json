@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T11:02:19.474Z",
-  "exportedAt": "2026-10-20T11:02:19.474Z",
-  "runId": "2026-10-20T11:02:19.474Z",
-  "forumExportedAt": "2026-10-20T11:02:19.474Z",
-  "selectionVersion": "6f74105d2a8414529c1a24220f64e3c811ec639bdfd8d2f0f4dab26c44a7481a",
+  "lastSuccessfulAt": "2026-10-20T11:09:14.179Z",
+  "exportedAt": "2026-10-20T11:09:14.179Z",
+  "runId": "2026-10-20T11:09:14.179Z",
+  "forumExportedAt": "2026-10-20T11:09:14.179Z",
+  "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
   "directory": {
     "source": "data/forum.csv",
-    "sha256": "cd3d4da78b9c1fcf8d65b9cd593138312c6c426fbc641bfa85c66ab2fc6701f2",
+    "sha256": "623251dbd4ce300c81008972d83d13d43774dab50cbcebc015771b9a4b39b4fb",
     "total": 96,
-    "og": 67,
-    "veterans": 29
+    "og": 68,
+    "veterans": 28
   },
   "counts": {
     "participants": 3276,
@@ -18,35 +18,27 @@
     "scores": 14741,
     "judges": 22,
     "forumDirectory": 96,
-    "og": 66,
-    "veterans": 29,
+    "og": 67,
+    "veterans": 28,
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 4,
-    "errors429": 0,
-    "retries": 0,
-    "judgeDirectory": "updated",
-    "updatedCards": 1,
-    "mode": "incremental",
+    "mode": "local-membership-rebuild",
+    "sourceSnapshotAt": "2026-10-20T11:02:19.474Z",
+    "sourceLastSuccessfulAt": "2026-10-20T11:02:19.474Z",
+    "lastFullAuditAt": "2026-10-13T18:20:00.020Z",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 1,
-    "logicalRequests": 4,
-    "durationMs": 4210,
-    "scoresBefore": 14741,
-    "scoresAfter": 14741,
-    "fullBaselineRequests": 3272,
-    "requestReductionPercent": 99.87775061124694,
+    "httpRequests": 0,
+    "errors429": 0,
+    "retries": 0,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
         "reason": "Temporary exclusion: API 19ib.ru returns six scores while the first round requires five.",
         "scoredCount": 6
       }
-    ],
-    "lastFullAuditAt": "2026-10-13T18:20:00.020Z"
+    ]
   },
   "source": {
     "apiBase": "https://api.19ib.ru",

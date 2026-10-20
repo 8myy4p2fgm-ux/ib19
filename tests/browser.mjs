@@ -15,3 +15,5 @@ await import('./judge-profiles-browser.mjs');
 
 await import('./temporary-exclusion-browser.mjs');
 await import('./vlad-valov-browser.mjs');
+
+await import('./gudvin-browser.mjs');
