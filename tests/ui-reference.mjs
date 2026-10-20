@@ -16,6 +16,8 @@ const statusSource=(await fs.readFile('js/general.js','utf8')).match(/export fun
 const approvedBrand=(await fs.readFile('index.html','utf8')).match(/<a class="site-brand .*?<\/a>/)[0].replaceAll('="./','="/ib19/');
 // Data, status corrections and the approved brand are adapted; analytical UI stays intact.
 function currentDataReference(original){
+ // Match the approved zone-dependent index color without changing historical fixtures.
+ original=original.replace('#home #index-main{color:#68D99A!important}','#home #index-main{--green:#68D99A}');
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
  let code=first.slice(first.indexOf('const module3=')).replaceAll('2026-10-18T23:59:00+03:00',config.deadline);
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");

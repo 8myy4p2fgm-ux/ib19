@@ -303,7 +303,7 @@ body:has(#home.active){background:#111614}
 #home .experiment-judging{grid-template-columns:minmax(0,1fr);gap:14px}
 #home .experiment-placed{white-space:normal}
 }
-#home #index-main{color:#68D99A!important}
+#home #index-main{--green:#68D99A}
 #home .verdict{margin:0;font-size:19px;line-height:1.5;font-weight:500;max-width:28ch}
 #home .home-zone-legend{display:flex;flex-wrap:wrap;gap:12px 24px;padding:16px 0 0}
 #home .home-zone-key{display:flex;align-items:center;gap:8px;margin:0}
