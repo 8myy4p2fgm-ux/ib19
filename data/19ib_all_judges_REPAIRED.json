@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T11:09:14.179Z",
+  "exportedAt": "2026-10-20T11:22:29.376Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -9542,9 +9542,16 @@
     },
     {
       "userId": "723a8e0c-d47d-4431-85a9-90a579f60fe8",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Подаёшь кайфово, хочется слушать... по содержанию очень пусто.. но рифмочек накидал норм",
+          "scoredAt": "2026-10-20T11:08:01.279Z"
+        }
+      ],
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "MERLIN MONRO [6 КАДРОВ]",
       "artistSlug": "merlin-monro-6-kadrov",
@@ -48557,8 +48564,14 @@
     },
     {
       "userId": "6fc1a44f-119a-42bb-b9b0-79fa1fad92c4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Спасибо за трек! \nТекст: хорошо зарифмовал, местами крутые отсылки и строчки\nИсполнение: неплохо читаешь, технично, буду ждать во втором\nОбщее впечатление: чуь-чуть добавить качества и будет вообще гуд\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-20T11:22:07.008Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 5,
@@ -48584,7 +48597,7 @@
           "scoredAt": "2026-10-15T11:03:15.789Z"
         }
       ],
-      "fetchedAt": "2026-10-20T10:32:22.490Z",
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "TCELYA",
       "artistSlug": "tcelya",
@@ -83795,8 +83808,14 @@
     },
     {
       "userId": "c1b4cf12-2660-43d0-841d-093505b8e40c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Хорош.. рифмы, конструкции \n",
+          "scoredAt": "2026-10-20T11:22:07.135Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -83816,7 +83835,7 @@
           "scoredAt": "2026-10-07T17:08:59.088Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "Jean B",
       "artistSlug": "jean-b",
@@ -86686,8 +86705,14 @@
     },
     {
       "userId": "86cd07ae-9edd-4878-a809-d44b3b0ed5a9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом. Скучный сторителлинг.",
+          "scoredAt": "2026-10-20T11:07:13.981Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -86707,7 +86732,7 @@
           "scoredAt": "2026-09-28T18:54:14.380Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:22:27.536Z",
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "Yellowdonut",
       "artistSlug": "yellowdonut",
@@ -107271,8 +107296,14 @@
     },
     {
       "userId": "08065724-44c8-4c9f-92e7-eb096dbbf47e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 5,
+          "comment": "Стартовал с первой секунды - рисп. По содержанию хорошо.",
+          "scoredAt": "2026-10-20T11:16:18.632Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -107298,7 +107329,7 @@
           "scoredAt": "2026-10-14T18:03:33.714Z"
         }
       ],
-      "fetchedAt": "2026-10-19T22:02:32.365Z",
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "Бордо",
       "artistSlug": "bordo",
@@ -115643,8 +115674,14 @@
     },
     {
       "userId": "251b0bcd-dc33-44a3-bf67-769bec7346c0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Через строчку, но надо бы и разнообразить. Рифмы всегда на последнее слово. Но ты двигаешься в верном направлении.",
+          "scoredAt": "2026-10-20T11:20:46.189Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -115670,7 +115707,7 @@
           "scoredAt": "2026-10-09T13:35:37.977Z"
         }
       ],
-      "fetchedAt": "2026-10-18T16:22:05.813Z",
+      "fetchedAt": "2026-10-20T11:22:29.376Z",
       "current": true,
       "artistName": "NoLove",
       "artistSlug": "nolove",
