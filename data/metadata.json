@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T00:42:03.314Z",
-  "exportedAt": "2026-10-20T00:42:03.314Z",
-  "runId": "2026-10-20T00:42:03.314Z",
-  "forumExportedAt": "2026-10-20T00:42:03.314Z",
+  "lastSuccessfulAt": "2026-10-20T01:02:22.929Z",
+  "exportedAt": "2026-10-20T01:02:22.929Z",
+  "runId": "2026-10-20T01:02:22.929Z",
+  "forumExportedAt": "2026-10-20T01:02:22.929Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14683,
+    "scores": 14684,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 3954,
-    "scoresBefore": 14682,
-    "scoresAfter": 14683,
+    "durationMs": 4232,
+    "scoresBefore": 14683,
+    "scoresAfter": 14684,
     "fullBaselineRequests": 3271,
     "requestReductionPercent": 99.87771323754203,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 4,
+          "artist": "Рамз Разный",
+          "comment": "Разнообразно, сигнатурно и с хорошей подачей. Классно играешь с ритмом, что добавляет тебе индивидуальности. Напевная часть не особо нужная и удачная, да и рифмы нужно прокачивать или хотя бы избегать откровенно глагольных.",
+          "scoredAt": "2026-10-20T00:54:07.570Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -191,13 +198,6 @@
           "artist": "Нурлан Кубиев",
           "comment": "По технике не очень. Но ты должен проходить.",
           "scoredAt": "2026-10-19T22:03:22.133Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "Два в парадный",
-          "comment": "Вот за кучу отсылочек поднял до 2\n",
-          "scoredAt": "2026-10-19T22:03:01.605Z"
         }
       ]
     }

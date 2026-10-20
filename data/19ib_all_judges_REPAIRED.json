@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T00:42:03.314Z",
+  "exportedAt": "2026-10-20T01:02:22.929Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -45163,8 +45163,14 @@
     },
     {
       "userId": "566186cd-1bbc-4820-88a5-2ab3dbf3b744",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 4,
+          "comment": "Разнообразно, сигнатурно и с хорошей подачей. Классно играешь с ритмом, что добавляет тебе индивидуальности. Напевная часть не особо нужная и удачная, да и рифмы нужно прокачивать или хотя бы избегать откровенно глагольных.",
+          "scoredAt": "2026-10-20T00:54:07.570Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -45190,7 +45196,7 @@
           "scoredAt": "2026-09-26T19:15:28.940Z"
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:07.278Z",
+      "fetchedAt": "2026-10-20T01:02:22.929Z",
       "current": true,
       "artistName": "Рамз Разный",
       "artistSlug": "ramz-raznyy",
