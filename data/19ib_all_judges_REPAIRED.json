@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T03:52:16.311Z",
+  "exportedAt": "2026-10-20T04:02:04.578Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -53900,8 +53900,14 @@
     },
     {
       "userId": "1c2e6ca8-1fe7-4a9a-9ff9-294af5ba497a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Зачитал уверенно. Задумка интересная, но не докрутил до ума. Поставлю четверку авансом, в надежде, что во втором сможешь сделать лучше.",
+          "scoredAt": "2026-10-20T03:55:56.725Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,
@@ -53927,7 +53933,7 @@
           "scoredAt": "2026-10-15T11:16:20.490Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-20T04:02:04.578Z",
       "current": true,
       "artistName": "IORWETH",
       "artistSlug": "iorweth",
@@ -88399,8 +88405,14 @@
     },
     {
       "userId": "e9910b21-0c11-4054-a7a0-5cf57bbd65f0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Ну это супер охуенный текст на голову выше многих тех, кому ставят по 25 баллов. Прямо сюжет Балабанова. Но ты ебать как вяло исполнил. Чутка бы харизмы добавить.",
+          "scoredAt": "2026-10-20T04:00:05.823Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -88426,7 +88438,7 @@
           "scoredAt": "2026-10-13T18:39:07.946Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:02:28.880Z",
+      "fetchedAt": "2026-10-20T04:02:04.578Z",
       "current": true,
       "artistName": "СТОНИК НА ПРАВОЙ РУКЕ",
       "artistSlug": "stonik-na-pravoy-ruke",
@@ -121899,8 +121911,14 @@
     },
     {
       "userId": "514a8aa1-fece-487c-b0ed-b9b86d7966de",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 2,
+          "comment": "Очень просто. Зачитал неуверенно. Я бы отказался на твоем месте от попыток тянуть окончания.",
+          "scoredAt": "2026-10-20T03:57:27.502Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -121920,7 +121938,7 @@
           "scoredAt": "2026-10-09T11:25:37.683Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:22:11.836Z",
+      "fetchedAt": "2026-10-20T04:02:04.578Z",
       "current": true,
       "artistName": "Resonanse",
       "artistSlug": "resonanse",
