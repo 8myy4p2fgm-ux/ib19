@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T21:02:23.365Z",
+  "exportedAt": "2026-10-20T21:12:06.678Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -62790,8 +62790,14 @@
     },
     {
       "userId": "36181ba5-8711-4f77-897f-812fd16910af",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 1,
+          "comment": "Прости, дорогой, ты оч старательно пытаешься копировать вот эти все раскладки ритмические, разнообразия пытаешься давать, но тем не менее, по подаче слишком уж много брака. Ты на скоростях этих высоких не вывозишь дикционно, жуешь то тут, то там, очень сильно не хватает по эмоциям, слушается это так, как будто бы в соседней комнате кто-то спит и важно человека не разбудить. \n\nНу и на сладкое есть дубли, которые ты решил не перезаписывать, но в них оч четко слышно, как тебе не хватает воздуха в легких и ты еле-еле дочитываешь строку. Надо еще почитать, позвучать, повыдрачивать, пока рановато.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T21:02:53.632Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -62811,7 +62817,7 @@
           "scoredAt": "2026-10-12T16:32:33.258Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:52:10.924Z",
+      "fetchedAt": "2026-10-20T21:12:06.678Z",
       "current": true,
       "artistName": "FOM",
       "artistSlug": "fom",
@@ -87099,6 +87105,23 @@
       "trackId": "bb0176ab-4619-4fd9-b18f-80c6f4538452"
     },
     {
+      "userId": "9cab407c-19cd-46ce-adf6-4fbb2dc36159",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Сильнее оригинала по всем параметрам.",
+          "scoredAt": "2026-10-16T17:26:30.076Z"
+        }
+      ],
+      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "current": true,
+      "artistName": "Dripxxx",
+      "artistSlug": "dripxxx",
+      "trackId": "9348f4ed-7e54-4fc4-a289-3b9628d2b84d"
+    },
+    {
       "userId": "f6960fad-fe4c-4ed3-83dc-31d89dbc30d9",
       "scoredCount": 5,
       "scores": [
@@ -87214,23 +87237,6 @@
       "artistName": "золотаяосень",
       "artistSlug": "zolotayaosen",
       "trackId": "c687736d-5360-4bb1-8ae2-f10dc169eec0"
-    },
-    {
-      "userId": "9cab407c-19cd-46ce-adf6-4fbb2dc36159",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "comment": "Сильнее оригинала по всем параметрам.",
-          "scoredAt": "2026-10-16T17:26:30.076Z"
-        }
-      ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
-      "current": true,
-      "artistName": "Dripxxx",
-      "artistSlug": "dripxxx",
-      "trackId": "9348f4ed-7e54-4fc4-a289-3b9628d2b84d"
     },
     {
       "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50",

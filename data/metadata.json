@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T21:02:23.365Z",
-  "exportedAt": "2026-10-20T21:02:23.365Z",
-  "runId": "2026-10-20T21:02:23.365Z",
-  "forumExportedAt": "2026-10-20T21:02:23.365Z",
+  "lastSuccessfulAt": "2026-10-20T21:12:06.678Z",
+  "exportedAt": "2026-10-20T21:12:06.678Z",
+  "runId": "2026-10-20T21:12:06.678Z",
+  "forumExportedAt": "2026-10-20T21:12:06.678Z",
   "selectionVersion": "9878ae7e48d5488225faa0eaf93835c456c14de007c207b2b9971cc09b7e5d67",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 97,
-    "scores": 14957,
+    "scores": 14958,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 6918,
-    "scoresBefore": 14953,
-    "scoresAfter": 14957,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4054,
+    "scoresBefore": 14957,
+    "scoresAfter": 14958,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.78625954198473,
+    "requestReductionPercent": 99.87786259541984,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 1,
+          "artist": "FOM",
+          "comment": "Прости, дорогой, ты оч старательно пытаешься копировать вот эти все раскладки ритмические, разнообразия пытаешься давать, но тем не менее, по подаче слишком уж много брака. Ты на скоростях этих высоких не вывозишь дикционно, жуешь то тут, то там, очень сильно не хватает по эмоциям, слушается это так, как будто бы в соседней комнате кто-то спит и важно человека не разбудить. \n\nНу и на сладкое есть дубли, которые ты решил не перезаписывать, но в них оч четко слышно, как тебе не хватает воздуха в легких и ты еле-еле дочитываешь строку. Надо еще почитать, позвучать, повыдрачивать, пока рановато.\n\n_____________\nСтрим, ч. 17, найти здесь можно: https://www.twitch.tv/dmktkv",
+          "scoredAt": "2026-10-20T21:02:53.632Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -191,13 +198,6 @@
           "artist": "Евгений",
           "comment": "Рифмы пробуй писать сложнее и текту дай жирка, наполнения.. сейчас пустовато( ",
           "scoredAt": "2026-10-20T20:18:49.341Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "Карман (ДоПэ)",
-          "comment": "По содержанию нужно усложнять, наполнять, отсылки, панчи посильнее.. ",
-          "scoredAt": "2026-10-20T20:17:48.719Z"
         }
       ]
     }
