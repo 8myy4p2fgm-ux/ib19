@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T09:52:14.990Z",
+  "exportedAt": "2026-10-20T10:22:17.645Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -9920,8 +9920,14 @@
     },
     {
       "userId": "ee7edff6-65fc-4185-9684-4b170499633a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "Ну ты и сам всё знаешь) ",
+          "scoredAt": "2026-10-20T10:21:07.098Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 1,
@@ -9947,7 +9953,7 @@
           "scoredAt": "2026-10-09T18:47:13.305Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T10:22:17.645Z",
       "current": true,
       "artistName": "Василий Петрович",
       "artistSlug": "vasiliy-petrovich",
@@ -20449,9 +20455,16 @@
     },
     {
       "userId": "908b1571-e2cc-4d98-9ed8-dd951504f24f",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "Всех похуесосил, но рифм бы собрал для этого хотя бы нормальных)) короч... слабо",
+          "scoredAt": "2026-10-20T10:19:37.697Z"
+        }
+      ],
+      "fetchedAt": "2026-10-20T10:22:17.645Z",
       "current": true,
       "artistName": "МС Не молодой",
       "artistSlug": "ms-ne-molodoy",
@@ -30809,8 +30822,14 @@
     },
     {
       "userId": "2ff5fb55-48a0-4b58-98a9-d0c42c49a6ea",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "Рифмы простейшие, пробуй прорабатывать текст сильнее, это же основа. ",
+          "scoredAt": "2026-10-20T10:21:51.741Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -30830,7 +30849,7 @@
           "scoredAt": "2026-09-17T14:40:19.993Z"
         }
       ],
-      "fetchedAt": "2026-10-15T07:02:25.886Z",
+      "fetchedAt": "2026-10-20T10:22:17.645Z",
       "current": true,
       "artistName": "Novidel",
       "artistSlug": "novidel",
@@ -92075,8 +92094,14 @@
     },
     {
       "userId": "18202d7b-616f-40eb-9b4e-7abdcf6799cf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Стараемся именно в подачу, крутим, экспериментируем.. \nбитло необычное. ",
+          "scoredAt": "2026-10-20T10:20:39.805Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -92102,7 +92127,7 @@
           "scoredAt": "2026-10-17T06:07:43.535Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T10:22:17.645Z",
       "current": true,
       "artistName": "tayg",
       "artistSlug": "tayg",
@@ -109716,8 +109741,14 @@
     },
     {
       "userId": "1ff29fd6-661e-44dc-b7e5-d42d16d80562",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Слушай, ну такой.. дерзкий чел) конструкция нормик, голосом тож работаешь.. шуточки были)",
+          "scoredAt": "2026-10-20T10:17:49.619Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -109743,7 +109774,7 @@
           "scoredAt": "2026-10-13T17:27:37.830Z"
         }
       ],
-      "fetchedAt": "2026-10-17T00:22:00.991Z",
+      "fetchedAt": "2026-10-20T10:22:17.645Z",
       "current": true,
       "artistName": "BAYANIX [LZN]",
       "artistSlug": "bayanix-lzn",
