@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-20T16:22:22.487Z",
+  "exportedAt": "2026-10-20T16:32:25.836Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3502,6 +3502,12 @@
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
       "veteran": true,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Странная запись, хотя чувствуется уверенность.",
+          "scoredAt": "2026-10-20T16:26:34.353Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,

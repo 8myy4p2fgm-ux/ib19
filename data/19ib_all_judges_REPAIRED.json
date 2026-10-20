@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T16:22:22.487Z",
+  "exportedAt": "2026-10-20T16:32:25.836Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -11923,8 +11923,14 @@
     },
     {
       "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Неформатно конечно, но качественно.",
+          "scoredAt": "2026-10-20T16:26:01.493Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -11938,7 +11944,7 @@
           "scoredAt": "2026-09-28T13:27:55.100Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "Helli",
       "artistSlug": "helli",
@@ -38848,8 +38854,14 @@
     },
     {
       "userId": "0e9bd4ce-c93d-412a-8407-c20b693efce2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Крепкая работа, заслуженный проход",
+          "scoredAt": "2026-10-20T16:30:28.273Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -38875,7 +38887,7 @@
           "scoredAt": "2026-10-12T11:38:40.255Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "Шакир",
       "artistSlug": "shakir",
@@ -55158,8 +55170,14 @@
     },
     {
       "userId": "9fd37409-da07-4208-98fd-ff9d315fef09",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-20T16:22:24.629Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -55173,7 +55191,7 @@
           "scoredAt": "2026-09-27T13:37:53.202Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "Хоббит Нурмагогэндальф",
       "artistSlug": "hobbit-nurmagogendalf",
@@ -87219,8 +87237,14 @@
     },
     {
       "userId": "804e327c-8b4c-411e-a3ba-c0deddfa4816",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну вот сильно натянутая 3 авансом. Как будто есть потенциал в работе. Но звучит сыро",
+          "scoredAt": "2026-10-20T16:23:59.726Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -87246,7 +87270,7 @@
           "scoredAt": "2026-10-06T11:24:06.678Z"
         }
       ],
-      "fetchedAt": "2026-10-20T11:42:24.472Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "skeza",
       "artistSlug": "skeza",
@@ -89143,8 +89167,14 @@
     },
     {
       "userId": "6d97438e-30b3-4d9a-81c0-59b329a5f96b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Хорошая работа, но очень долгое и непонятное интро.",
+          "scoredAt": "2026-10-20T16:27:15.237Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -89164,7 +89194,7 @@
           "scoredAt": "2026-10-13T21:51:13.742Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "WillyWonkka",
       "artistSlug": "willywonkka",
@@ -98831,9 +98861,16 @@
     },
     {
       "userId": "dc4db665-1a88-4db1-bc56-ed4379a9ae31",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Авансом, но эффект на голосе грузит уже через 10 секунд.",
+          "scoredAt": "2026-10-20T16:25:48.807Z"
+        }
+      ],
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "FHEJIE3O6ETOHHbIN MC",
       "artistSlug": "fhejie3o6etohhbin-mc",
@@ -101374,8 +101411,14 @@
     },
     {
       "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Странная запись, хотя чувствуется уверенность.",
+          "scoredAt": "2026-10-20T16:26:34.353Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -101401,7 +101444,7 @@
           "scoredAt": "2026-10-16T00:04:52.475Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:52:26.085Z",
+      "fetchedAt": "2026-10-20T16:32:25.836Z",
       "current": true,
       "artistName": "demogotcha",
       "artistSlug": "demogotcha",

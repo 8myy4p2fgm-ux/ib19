@@ -166606,6 +166606,104 @@
         "scoredAt": "2026-10-20T16:19:14.828Z",
         "userId": "8fa35d01-51b4-4173-b478-606c4fd298be"
       }
+    },
+    {
+      "id": "d8c725789a414df2ebdaa42699f3f9993af177af800fe32c726945a63b09c526",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:26:01.493Z",
+      "key": "[\"a8f20957-8df0-488e-8dba-a365199cf9cd\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Неформатно конечно, но качественно.",
+        "scoredAt": "2026-10-20T16:26:01.493Z",
+        "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd"
+      }
+    },
+    {
+      "id": "57debca5e029513ebff0501f332a2a8a518ad67623b64e1050cc22852fb88561",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:30:28.273Z",
+      "key": "[\"0e9bd4ce-c93d-412a-8407-c20b693efce2\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Крепкая работа, заслуженный проход",
+        "scoredAt": "2026-10-20T16:30:28.273Z",
+        "userId": "0e9bd4ce-c93d-412a-8407-c20b693efce2"
+      }
+    },
+    {
+      "id": "f6641079a800f0c01c4f240462aa2a7efa9c7eb10729178928c1951f9e244ce3",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:22:24.629Z",
+      "key": "[\"9fd37409-da07-4208-98fd-ff9d315fef09\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-20T16:22:24.629Z",
+        "userId": "9fd37409-da07-4208-98fd-ff9d315fef09"
+      }
+    },
+    {
+      "id": "3f5044684365ec6eea6a5b533537eb9b954ebfb83c867d6658ec28082cd38b83",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:23:59.726Z",
+      "key": "[\"804e327c-8b4c-411e-a3ba-c0deddfa4816\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну вот сильно натянутая 3 авансом. Как будто есть потенциал в работе. Но звучит сыро",
+        "scoredAt": "2026-10-20T16:23:59.726Z",
+        "userId": "804e327c-8b4c-411e-a3ba-c0deddfa4816"
+      }
+    },
+    {
+      "id": "9e502e774522dcc2debe2540758dcebb94b4d7a0c9cd27c6321c9de7953b7175",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:27:15.237Z",
+      "key": "[\"6d97438e-30b3-4d9a-81c0-59b329a5f96b\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Хорошая работа, но очень долгое и непонятное интро.",
+        "scoredAt": "2026-10-20T16:27:15.237Z",
+        "userId": "6d97438e-30b3-4d9a-81c0-59b329a5f96b"
+      }
+    },
+    {
+      "id": "313fc51efe47d0759e8ebd65ef8c5ef4da768ecdf4a46edce1d9fccd19d77ec3",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:25:48.807Z",
+      "key": "[\"dc4db665-1a88-4db1-bc56-ed4379a9ae31\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Авансом, но эффект на голосе грузит уже через 10 секунд.",
+        "scoredAt": "2026-10-20T16:25:48.807Z",
+        "userId": "dc4db665-1a88-4db1-bc56-ed4379a9ae31"
+      }
+    },
+    {
+      "id": "ce5dbe8bb7dc63e75f0b7758787a8333a6bccdfda45757108099b6159590e124",
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "sourceScoredAt": "2026-10-20T16:26:34.353Z",
+      "key": "[\"83d8f01d-7dcf-41cf-a48a-4fa468070460\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Странная запись, хотя чувствуется уверенность.",
+        "scoredAt": "2026-10-20T16:26:34.353Z",
+        "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460"
+      }
     }
   ],
   "snapshots": [
@@ -179486,6 +179584,26 @@
           "favor": 18.15359966680669,
           "attention": 3.281647386988268,
           "respect": 10.770676691729323
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-20T16:32:25.836Z",
+      "exportedAt": "2026-10-20T16:32:25.836Z",
+      "scores": 14871,
+      "selectionVersion": "9acff9c19d87b7ca5b7201cd7f56c76d71da574d3da7363d17c4c84b5b91a7a3",
+      "indices": {
+        "forum": {
+          "index": 20.141101146427303,
+          "favor": 8.528973384390817,
+          "attention": 5.663851899967522,
+          "respect": 5.948275862068965
+        },
+        "veterans": {
+          "index": 31.81570187498557,
+          "favor": 17.992186890748126,
+          "attention": 3.133216476774759,
+          "respect": 10.690298507462687
         }
       }
     }
