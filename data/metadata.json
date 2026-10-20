@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-19T23:52:07.123Z",
-  "exportedAt": "2026-10-19T23:52:07.123Z",
-  "runId": "2026-10-19T23:52:07.123Z",
-  "forumExportedAt": "2026-10-19T23:52:07.123Z",
+  "lastSuccessfulAt": "2026-10-20T00:22:10.650Z",
+  "exportedAt": "2026-10-20T00:22:10.650Z",
+  "runId": "2026-10-20T00:22:10.650Z",
+  "forumExportedAt": "2026-10-20T00:22:10.650Z",
   "selectionVersion": "7064ea3c96e3227e68d2c5c261ab347d8290cb06a1ae3fa4999e506332b2dc2e",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 94,
-    "scores": 14681,
+    "scores": 14682,
     "judges": 22,
     "forumDirectory": 95,
     "og": 65,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 4105,
-    "scoresBefore": 14680,
-    "scoresAfter": 14681,
+    "durationMs": 3604,
+    "scoresBefore": 14681,
+    "scoresAfter": 14682,
     "fullBaselineRequests": 3271,
     "requestReductionPercent": 99.87771323754203,
     "temporaryExclusions": [
@@ -94,6 +94,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "BELOUSOVA",
+          "comment": "Girl мы тут бэттл поем, музыку черных мазафака негров. Ну не знаю что посоветовать, попробуй добавить баян и дудочку, наверное будет пизже звучать. Заунывная манера, разница исполнения куплета и припева огромна, резкий переход по эмоциональности выбивает, у айр бэков много компрессии, режет ухо. Получилось базовое русское полюшко и играй гармонь, попробуй взять свой стиль и смешать с чем-то более хулиганским и характерным. С округлением вверх за потенциал.",
+          "scoredAt": "2026-10-20T00:20:53.729Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -191,13 +198,6 @@
           "artist": "Миша Тенге",
           "comment": "Очень сложный выбор. Я не знаю за что здесь ставить проход, супер обычно и слабо по подаче. ",
           "scoredAt": "2026-10-19T22:02:29.680Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 1,
-          "artist": "LittleKri",
-          "comment": "Очень плохо по рифмам( работай с этим в первую очередь",
-          "scoredAt": "2026-10-19T22:01:45.800Z"
         }
       ]
     }
