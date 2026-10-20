@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T08:28:28.101Z",
+  "exportedAt": "2026-10-20T09:02:18.542Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -59696,8 +59696,14 @@
     },
     {
       "userId": "896cd11e-ada5-4fcf-8afc-2e1da6a32562",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "comment": "Дикционные косячки, есть прям неприятные. Пока не смотришь в текст, а слушаешь не вникая, просто фоном, можно даже немного качнуться - бит и напор хорошие тут. Но комплексно такое высоко никак не оценить, жутко проседаешь по рифмам и ударным строчкам. Качай skillz.",
+          "scoredAt": "2026-10-20T08:58:39.024Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -59723,7 +59729,7 @@
           "scoredAt": "2026-10-16T11:10:24.367Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T09:02:18.542Z",
       "current": true,
       "artistName": "Hovvvsiden",
       "artistSlug": "hovvvsiden",
