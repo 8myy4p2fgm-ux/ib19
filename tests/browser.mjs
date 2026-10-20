@@ -19,3 +19,5 @@ await import('./vlad-valov-browser.mjs');
 await import('./gudvin-browser.mjs');
 
 await import('./horo-browser.mjs');
+
+await import('./lt-forum-browser.mjs');
