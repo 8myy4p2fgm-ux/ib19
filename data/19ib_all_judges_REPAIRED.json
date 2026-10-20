@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T05:52:10.107Z",
+  "exportedAt": "2026-10-20T06:12:12.642Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -96308,6 +96308,23 @@
       "trackId": "e63cfe0b-a5b9-4615-af73-e547023a854a"
     },
     {
+      "userId": "d91e558a-9412-4ceb-bdb2-8b571d375c1e",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Мне нравится твой стиль. Провалы в минусе прикольно звучат. Ну это 100% второй раунд. ",
+          "scoredAt": "2026-10-17T17:15:11.370Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T17:22:27.536Z",
+      "current": true,
+      "artistName": "BartlBee (JS)",
+      "artistSlug": "bartlbee-js",
+      "trackId": "25d38ee8-6b29-4676-96d3-0837b84c4c77"
+    },
+    {
       "userId": "bc608693-6cb9-487e-8551-e0171ed4b038",
       "scoredCount": 5,
       "scores": [
@@ -96382,23 +96399,6 @@
       "artistName": "clownkai",
       "artistSlug": "clownkai",
       "trackId": "edcff223-f458-46b3-a850-b73253adf3b9"
-    },
-    {
-      "userId": "d91e558a-9412-4ceb-bdb2-8b571d375c1e",
-      "scoredCount": 1,
-      "scores": [
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "comment": "Мне нравится твой стиль. Провалы в минусе прикольно звучат. Ну это 100% второй раунд. ",
-          "scoredAt": "2026-10-17T17:15:11.370Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T17:22:27.536Z",
-      "current": true,
-      "artistName": "BartlBee (JS)",
-      "artistSlug": "bartlbee-js",
-      "trackId": "25d38ee8-6b29-4676-96d3-0837b84c4c77"
     },
     {
       "userId": "f1579853-4f77-40d6-9926-c84da5a4bee0",
