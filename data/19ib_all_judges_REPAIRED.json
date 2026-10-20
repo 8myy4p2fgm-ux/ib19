@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T12:12:32.505Z",
+  "exportedAt": "2026-10-20T12:22:19.921Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -38648,8 +38648,14 @@
     },
     {
       "userId": "dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Рифмы местами хороши.. а вот голоса тут сильно не хватает( ",
+          "scoredAt": "2026-10-20T12:13:11.947Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 2,
@@ -38669,7 +38675,7 @@
           "scoredAt": "2026-10-14T09:08:58.925Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "fetchedAt": "2026-10-20T12:22:19.921Z",
       "current": true,
       "artistName": "ЭФИРР",
       "artistSlug": "efirr",
@@ -51328,8 +51334,14 @@
     },
     {
       "userId": "ad305998-989b-4ef4-9cd5-2c46b23ac813",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "ебаа.. иногда рифмы оч хороши. Кайф \nпоследняя только не понравилась))))))) \nв целом: по подаче покрутить варианты, разнообразить. ",
+          "scoredAt": "2026-10-20T12:14:38.812Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -51355,7 +51367,7 @@
           "scoredAt": "2026-10-12T11:54:26.289Z"
         }
       ],
-      "fetchedAt": "2026-10-17T20:02:07.557Z",
+      "fetchedAt": "2026-10-20T12:22:19.921Z",
       "current": true,
       "artistName": "МС ЛОБОК [#КБС]",
       "artistSlug": "ms-lobok-kbs",
@@ -86816,8 +86828,14 @@
     },
     {
       "userId": "6c8bab70-ca80-477d-adba-9854c6d485d7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Рифмы слишком ожидаемые( для фристайла норм, но не для трека. А вот подача у тебя крутая, правда (по подаче прям 5).. тебе просто в тексте начать прорабатывать. ",
+          "scoredAt": "2026-10-20T12:12:35.260Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -86843,7 +86861,7 @@
           "scoredAt": "2026-09-22T17:45:35.084Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-20T12:22:19.921Z",
       "current": true,
       "artistName": "Володя Ящик [SKUF NATION]",
       "artistSlug": "volodya-yaschik-skuf-nation",
