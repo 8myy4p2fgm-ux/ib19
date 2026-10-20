@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T10:42:22.075Z",
-  "exportedAt": "2026-10-20T10:42:22.075Z",
-  "runId": "2026-10-20T10:42:22.075Z",
-  "forumExportedAt": "2026-10-20T10:42:22.075Z",
+  "lastSuccessfulAt": "2026-10-20T10:52:20.988Z",
+  "exportedAt": "2026-10-20T10:52:20.988Z",
+  "runId": "2026-10-20T10:52:20.988Z",
+  "forumExportedAt": "2026-10-20T10:52:20.988Z",
   "selectionVersion": "6f74105d2a8414529c1a24220f64e3c811ec639bdfd8d2f0f4dab26c44a7481a",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3276,
     "forum": 95,
-    "scores": 14737,
+    "scores": 14741,
     "judges": 22,
     "forumDirectory": 96,
     "og": 66,
@@ -23,22 +23,22 @@
     "archivedParticipants": 11
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3276,
     "sourceParticipants": 3277,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9531,
-    "scoresBefore": 14731,
-    "scoresAfter": 14737,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 7103,
+    "scoresBefore": 14737,
+    "scoresAfter": 14741,
     "fullBaselineRequests": 3272,
-    "requestReductionPercent": 99.72493887530563,
+    "requestReductionPercent": 99.78606356968214,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -94,6 +94,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "artist": "ХАСЛА НАГИЛА",
+          "comment": "Всегда рифма на последнее слово, в этом случае может вывести содержание, но тут оно не справилось, слишком пресно(",
+          "scoredAt": "2026-10-20T10:47:07.094Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "artist": "Vasabi",
+          "comment": "Неплохо пишешь в целом.. слушабельно. А вот с подаченй нужно работать, с битлом особенно. ",
+          "scoredAt": "2026-10-20T10:45:30.331Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "artist": "Денис",
+          "comment": "Рифмы оч простые и конструкции( ",
+          "scoredAt": "2026-10-20T10:44:27.663Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "artist": "мс либидо",
+          "comment": "Ну слушай, у тебя есть содержание... осталось научиться подавать это.",
+          "scoredAt": "2026-10-20T10:43:26.488Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -170,34 +198,6 @@
           "artist": "weekds",
           "comment": "Концепция прикольная, слушается хорошо\nа вот конструкции и подача - оч простые",
           "scoredAt": "2026-10-20T10:27:29.249Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 5,
-          "artist": "TCELYA",
-          "comment": "уууууу... полегче) конструкции вышка, рифмы двойнушечки, да и по тексту интересно слушается.. а бит тебе на.уй и не нужен, ты и без него справляешься как я погляжу))",
-          "scoredAt": "2026-10-20T10:26:02.207Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "МЦ Хост",
-          "comment": "Слишком много на последнее слово( старайся менять конструкцию текста ",
-          "scoredAt": "2026-10-20T10:24:00.118Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "CryLove",
-          "comment": "Ну..  и битло чувствуешь и по тексту поднакинул норм. На следующий постарайся, будет ещё круче",
-          "scoredAt": "2026-10-20T10:22:59.404Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 1,
-          "artist": "Novidel",
-          "comment": "Рифмы простейшие, пробуй прорабатывать текст сильнее, это же основа. ",
-          "scoredAt": "2026-10-20T10:21:51.741Z"
         }
       ]
     }

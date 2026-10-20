@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T10:42:22.075Z",
+  "exportedAt": "2026-10-20T10:52:20.988Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -9716,8 +9716,14 @@
     },
     {
       "userId": "4d0b6de2-b2b0-4ba8-918c-40d55489eddf",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Ну слушай, у тебя есть содержание... осталось научиться подавать это.",
+          "scoredAt": "2026-10-20T10:43:26.488Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -9731,7 +9737,7 @@
           "scoredAt": "2026-09-03T13:54:31.354Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-20T10:52:20.988Z",
       "current": true,
       "artistName": "мс либидо",
       "artistSlug": "ms-libido",
@@ -25165,8 +25171,14 @@
     },
     {
       "userId": "061851e6-d851-4648-b6d8-49ddbe42b1e9",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "Рифмы оч простые и конструкции( ",
+          "scoredAt": "2026-10-20T10:44:27.663Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -25180,7 +25192,7 @@
           "scoredAt": "2026-10-14T21:44:57.698Z"
         }
       ],
-      "fetchedAt": "2026-10-17T06:42:04.117Z",
+      "fetchedAt": "2026-10-20T10:52:20.988Z",
       "current": true,
       "artistName": "Денис",
       "artistSlug": "denis-2",
@@ -25750,8 +25762,14 @@
     },
     {
       "userId": "7325963b-8af0-4443-a11f-db5e7ffc8b47",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Неплохо пишешь в целом.. слушабельно. А вот с подаченй нужно работать, с битлом особенно. ",
+          "scoredAt": "2026-10-20T10:45:30.331Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -25765,7 +25783,7 @@
           "scoredAt": "2026-10-06T22:07:46.208Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-20T10:52:20.988Z",
       "current": true,
       "artistName": "Vasabi",
       "artistSlug": "vasabi",
@@ -117744,8 +117762,14 @@
     },
     {
       "userId": "d3af192c-721c-4f79-abeb-5d8aa406cdad",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Всегда рифма на последнее слово, в этом случае может вывести содержание, но тут оно не справилось, слишком пресно(",
+          "scoredAt": "2026-10-20T10:47:07.094Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -117765,7 +117789,7 @@
           "scoredAt": "2026-10-08T14:14:34.453Z"
         }
       ],
-      "fetchedAt": "2026-10-19T08:52:14.859Z",
+      "fetchedAt": "2026-10-20T10:52:20.988Z",
       "current": true,
       "artistName": "ХАСЛА НАГИЛА",
       "artistSlug": "hasla-nagila",
