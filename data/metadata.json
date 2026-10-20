@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-20T23:02:24.872Z",
-  "exportedAt": "2026-10-20T23:02:24.872Z",
-  "runId": "2026-10-20T23:02:24.872Z",
-  "forumExportedAt": "2026-10-20T23:02:24.872Z",
+  "lastSuccessfulAt": "2026-10-20T23:22:13.642Z",
+  "exportedAt": "2026-10-20T23:22:13.642Z",
+  "runId": "2026-10-20T23:22:13.642Z",
+  "forumExportedAt": "2026-10-20T23:22:13.642Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 14992,
+    "scores": 14994,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 3147,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5011,
     "scoresBefore": 14992,
-    "scoresAfter": 14992,
+    "scoresAfter": 14994,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.90839694656488,
+    "requestReductionPercent": 99.84732824427482,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Бабки_Будут",
+          "comment": "Бэки только сбивают. Ритмика нормальная, качество сведения и звука хромает",
+          "scoredAt": "2026-10-20T23:21:39.307Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Base-T",
+          "comment": "Слышно, что опыта не хватает, но злободневно и искренне.",
+          "scoredAt": "2026-10-20T23:20:54.293Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -185,20 +199,6 @@
           "artist": "KAIAND",
           "comment": "Тебе определнно нужн научиться сводить свой реп. такой пост панк. звучит так как будто ты слушал постпанковые песни жоры лучника, но не понял как это работает.",
           "scoredAt": "2026-10-20T22:12:10.497Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "МЦ Хост",
-          "comment": "люблю афротрэп но ты как то на него очень дефолтно репово начитал.",
-          "scoredAt": "2026-10-20T22:10:47.411Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "AZVRT",
-          "comment": "Лоскильнный песняк. но лоуки чето в тебе есть.",
-          "scoredAt": "2026-10-20T22:09:38.264Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T23:02:24.872Z",
+  "exportedAt": "2026-10-20T23:22:13.642Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -55622,8 +55622,14 @@
     },
     {
       "userId": "82c96826-6a66-4ab1-a0f2-47aae002289f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Бэки только сбивают. Ритмика нормальная, качество сведения и звука хромает",
+          "scoredAt": "2026-10-20T23:21:39.307Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -55643,7 +55649,7 @@
           "scoredAt": "2026-10-14T12:36:26.720Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-20T23:22:13.642Z",
       "current": true,
       "artistName": "Бабки_Будут",
       "artistSlug": "babki-budut",
@@ -66548,8 +66554,14 @@
     },
     {
       "userId": "607914ef-5710-4a06-ab20-a2863186e9d1",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Слышно, что опыта не хватает, но злободневно и искренне.",
+          "scoredAt": "2026-10-20T23:20:54.293Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 3,
@@ -66563,7 +66575,7 @@
           "scoredAt": "2026-10-13T13:10:15.930Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:12:25.257Z",
+      "fetchedAt": "2026-10-20T23:22:13.642Z",
       "current": true,
       "artistName": "Base-T",
       "artistSlug": "base-t",
