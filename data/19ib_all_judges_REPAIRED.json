@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-20T02:12:12.670Z",
+  "exportedAt": "2026-10-20T03:42:03.630Z",
   "totalParticipants": 3276,
   "members": [
     {
@@ -87077,8 +87077,14 @@
     },
     {
       "userId": "e93b6b16-932d-494b-a39b-afcff5d39f6d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Samarskij",
+          "score": 3,
+          "comment": "Круто работаешь с ритмикой, но по тексту ничего интересного. Еще подводит запись. Много каши из-за чего портится впечатление.",
+          "scoredAt": "2026-10-20T03:39:31.974Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -87104,7 +87110,7 @@
           "scoredAt": "2026-10-12T15:56:20.745Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:52:19.201Z",
+      "fetchedAt": "2026-10-20T03:42:03.630Z",
       "current": true,
       "artistName": "Грегор Наземный",
       "artistSlug": "gregor-nazemnyy",
