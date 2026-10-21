@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T22:51:51.160Z",
+  "exportedAt": "2026-10-21T23:04:01.981Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -965,8 +965,14 @@
     },
     {
       "userId": "a82ee880-67b7-4156-9825-d9d8b270dd68",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "В первую очередь - голос тренируем, чтобы звучало. ",
+          "scoredAt": "2026-10-21T22:55:57.648Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -992,7 +998,7 @@
           "scoredAt": "2026-09-15T15:06:23.153Z"
         }
       ],
-      "fetchedAt": "2026-10-21T09:42:09.642Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Denexis [LTTR]",
       "artistSlug": "denexis-lttr",
@@ -6316,8 +6322,14 @@
     },
     {
       "userId": "32f00509-38af-470f-8538-9083323a09f5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Я считаю, если научился шутить, уже пол пути...  остальное подтянешь\nПогоди, в конце - это что??? разошёлся... оценку поднял. ",
+          "scoredAt": "2026-10-21T23:02:19.290Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -6331,7 +6343,7 @@
           "scoredAt": "2026-10-10T13:12:23.611Z"
         }
       ],
-      "fetchedAt": "2026-10-17T19:22:07.394Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Alex Cheef",
       "artistSlug": "alex-cheef",
@@ -19230,8 +19242,14 @@
     },
     {
       "userId": "854bd5d0-e312-42e8-a563-f6f4ae64867a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "По подаче уверенно, базара зиро, голос еще так \"по-казахски\" хорошо поджимаешь, но текстово даже для такого стилька как-то простоватенько, такое ток четверка вместе с текстом.",
+          "scoredAt": "2026-10-21T22:56:18.621Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -19257,7 +19275,7 @@
           "scoredAt": "2026-09-29T17:54:06.943Z"
         }
       ],
-      "fetchedAt": "2026-10-21T21:42:18.284Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "JuudzO",
       "artistSlug": "juudzo",
@@ -24299,8 +24317,14 @@
     },
     {
       "userId": "791fa449-e694-469a-bb19-e06050c5cb1b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Начал за здравие.. это плюс) всё было ровно.. к завершению подсъехал, но ты и сам знаешь) ",
+          "scoredAt": "2026-10-21T22:55:14.325Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -24320,7 +24344,7 @@
           "scoredAt": "2026-10-08T16:06:35.539Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "The Oneenclave [ de sound ]",
       "artistSlug": "the-oneenclave-de-sound",
@@ -77035,8 +77059,14 @@
     },
     {
       "userId": "823d37bd-82fb-419d-bd11-f298fcf9c5e6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Понимаешь как строить, но мало по содержанию совсем.. ",
+          "scoredAt": "2026-10-21T23:01:08.904Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -77062,7 +77092,7 @@
           "scoredAt": "2026-10-15T13:23:37.887Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "mc trebuha",
       "artistSlug": "mc-trebuha",
@@ -102538,8 +102568,14 @@
     },
     {
       "userId": "e6a9889b-0042-4e94-b2fb-a2be4c3c7559",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Гуф чувствуется в этом всём))) Но что-то в этом есть ",
+          "scoredAt": "2026-10-21T22:56:54.853Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -102559,7 +102595,7 @@
           "scoredAt": "2026-09-24T20:33:48.062Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:12:16.903Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Kryss",
       "artistSlug": "kryss",
@@ -113308,8 +113344,14 @@
     },
     {
       "userId": "7120bd84-2d18-43b9-8cf7-cf6678cf6bda",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "В этом есть стилёк, но если уж работать с созвучиями, то эти часто, особенно во второй части, на уровне фристайла.. да, хорошего, но всё-таки. За стиль и первую часть оценку поднял. ",
+          "scoredAt": "2026-10-21T22:53:49.181Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -113329,7 +113371,7 @@
           "scoredAt": "2026-10-13T15:53:47.362Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:02:10.206Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Егор Георгиев",
       "artistSlug": "egor-georgiev",
@@ -115775,8 +115817,14 @@
     },
     {
       "userId": "0b67b0ea-3570-4be7-912a-7646f1d6ced4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "Достойная работа с созвучиями. ",
+          "scoredAt": "2026-10-21T23:03:09.458Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -115802,7 +115850,7 @@
           "scoredAt": "2026-10-11T13:51:48.351Z"
         }
       ],
-      "fetchedAt": "2026-10-20T20:52:16.562Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Ствол Кро",
       "artistSlug": "stvol-kro",
@@ -117560,8 +117608,14 @@
     },
     {
       "userId": "1f97636f-5de3-47c1-b334-26b3480145b5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "необычный переход.. хоть и разолил меня странный тюн.. даже ужасный, не странный.. но в целом такой констраст - это круто. Голос, сам по себе, красивый ",
+          "scoredAt": "2026-10-21T23:00:12.770Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -117587,7 +117641,7 @@
           "scoredAt": "2026-10-16T09:56:50.673Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Артур Пинхасов",
       "artistSlug": "artur-pinhasov",
@@ -118431,8 +118485,14 @@
     },
     {
       "userId": "becc3c45-8f86-406c-9d29-5d28598b11db",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 1,
+          "comment": "за ТРП и Дагни - рисп.. полезная книга) \nНо в остальном - пока минус",
+          "scoredAt": "2026-10-21T22:58:14.044Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 1,
@@ -118452,7 +118512,7 @@
           "scoredAt": "2026-10-13T19:18:40.120Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:12:10.989Z",
+      "fetchedAt": "2026-10-21T23:04:01.981Z",
       "current": true,
       "artistName": "Never Tr7",
       "artistSlug": "never-tr7",
