@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T10:22:06.632Z",
+  "exportedAt": "2026-10-21T10:32:04.274Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -38478,8 +38478,14 @@
     },
     {
       "userId": "bf384e63-f04b-4181-b64b-a610f36ec3a1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Это плохо, это неорганично. Текст ужас.",
+          "scoredAt": "2026-10-21T10:29:27.381Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -38505,7 +38511,7 @@
           "scoredAt": "2026-10-16T09:27:11.956Z"
         }
       ],
-      "fetchedAt": "2026-10-21T08:51:51.014Z",
+      "fetchedAt": "2026-10-21T10:32:04.274Z",
       "current": true,
       "artistName": "пивной принц",
       "artistSlug": "pivnoy-princ",
@@ -88086,8 +88092,14 @@
     },
     {
       "userId": "f72a72f5-ec13-4ad0-9bf7-f0b755dcba0d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Панчи есть, но средненького качества. Много квадратных и слабосозвучных рифм. Какого-то разъеба не хватает в плане исполнениятирезвука. Вроде всё ровно, но и не взорвал явно. Какой-то мощной перебежки или вкусных айров можно было добавить в подобного рода трек. Но в целом трек на проход. Три с плюсом.",
+          "scoredAt": "2026-10-21T10:30:43.421Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -88113,7 +88125,7 @@
           "scoredAt": "2026-10-13T17:31:54.204Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T10:32:04.274Z",
       "current": true,
       "artistName": "Bodjee",
       "artistSlug": "bodjee",
@@ -117041,8 +117053,14 @@
     },
     {
       "userId": "72a9e110-7739-4f6e-ad9e-278275771eb4",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Лайтовая, приятная работа. Здесь автотюн уместен, не так как у многих.",
+          "scoredAt": "2026-10-21T10:30:43.876Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -117050,7 +117068,7 @@
           "scoredAt": "2026-10-19T22:51:51.842Z"
         }
       ],
-      "fetchedAt": "2026-10-19T22:52:12.693Z",
+      "fetchedAt": "2026-10-21T10:32:04.274Z",
       "current": true,
       "artistName": "AXIYAMI",
       "artistSlug": "axiyami",

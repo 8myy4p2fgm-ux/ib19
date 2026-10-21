@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T10:22:06.632Z",
-  "exportedAt": "2026-10-21T10:22:06.632Z",
-  "runId": "2026-10-21T10:22:06.632Z",
-  "forumExportedAt": "2026-10-21T10:22:06.632Z",
+  "lastSuccessfulAt": "2026-10-21T10:32:04.274Z",
+  "exportedAt": "2026-10-21T10:32:04.274Z",
+  "runId": "2026-10-21T10:32:04.274Z",
+  "forumExportedAt": "2026-10-21T10:32:04.274Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15133,
+    "scores": 15136,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 5093,
-    "scoresBefore": 15131,
-    "scoresAfter": 15133,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 6,
+    "durationMs": 5880,
+    "scoresBefore": 15133,
+    "scoresAfter": 15136,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.84732824427482,
+    "requestReductionPercent": 99.81679389312977,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "AXIYAMI",
+          "comment": "Лайтовая, приятная работа. Здесь автотюн уместен, не так как у многих.",
+          "scoredAt": "2026-10-21T10:30:43.876Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "artist": "Bodjee",
+          "comment": "Панчи есть, но средненького качества. Много квадратных и слабосозвучных рифм. Какого-то разъеба не хватает в плане исполнениятирезвука. Вроде всё ровно, но и не взорвал явно. Какой-то мощной перебежки или вкусных айров можно было добавить в подобного рода трек. Но в целом трек на проход. Три с плюсом.",
+          "scoredAt": "2026-10-21T10:30:43.421Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "пивной принц",
+          "comment": "Это плохо, это неорганично. Текст ужас.",
+          "scoredAt": "2026-10-21T10:29:27.381Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -178,27 +199,6 @@
           "artist": "KASLI",
           "comment": "",
           "scoredAt": "2026-10-21T10:06:00.623Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Купэт",
-          "comment": "Зачем так грустно. И почему звучит как будто ты кусок какой то старой песни спел?",
-          "scoredAt": "2026-10-21T10:05:05.678Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "МС Батыр",
-          "comment": "Не прекольно братан. Не смешно.",
-          "scoredAt": "2026-10-21T10:03:48.641Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Окрай",
-          "comment": "Нормально завайбил брад. Интересно что покажешь дальше.",
-          "scoredAt": "2026-10-21T10:03:01.036Z"
         }
       ]
     }
