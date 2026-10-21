@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T02:32:04.474Z",
-  "exportedAt": "2026-10-21T02:32:04.474Z",
-  "runId": "2026-10-21T02:32:04.474Z",
-  "forumExportedAt": "2026-10-21T02:32:04.474Z",
+  "lastSuccessfulAt": "2026-10-21T02:41:58.443Z",
+  "exportedAt": "2026-10-21T02:41:58.443Z",
+  "runId": "2026-10-21T02:41:58.443Z",
+  "forumExportedAt": "2026-10-21T02:41:58.443Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15040,
+    "scores": 15041,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 4598,
-    "scoresBefore": 15038,
-    "scoresAfter": 15040,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4054,
+    "scoresBefore": 15040,
+    "scoresAfter": 15041,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.84732824427482,
+    "requestReductionPercent": 99.87786259541984,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "aSmilez",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:40:45.615Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -192,13 +199,6 @@
           "artist": "AMK FU",
           "comment": "",
           "scoredAt": "2026-10-21T01:55:00.417Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Joseph_Prince",
-          "comment": "нууу дла баланса поставлю 3+1 \nчтобы была возможность пройти, читаешь неплохо, но демка демкой. \nво 2 постарайся ",
-          "scoredAt": "2026-10-21T01:54:42.779Z"
         }
       ]
     }

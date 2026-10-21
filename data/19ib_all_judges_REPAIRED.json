@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T02:32:04.474Z",
+  "exportedAt": "2026-10-21T02:41:58.443Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -101374,8 +101374,14 @@
     },
     {
       "userId": "673c3975-c5ad-4a7f-9420-08b91ecd0543",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:40:45.615Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -101401,7 +101407,7 @@
           "scoredAt": "2026-10-14T09:19:44.251Z"
         }
       ],
-      "fetchedAt": "2026-10-18T18:02:20.653Z",
+      "fetchedAt": "2026-10-21T02:41:58.443Z",
       "current": true,
       "artistName": "aSmilez",
       "artistSlug": "asmilez",
