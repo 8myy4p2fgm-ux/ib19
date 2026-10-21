@@ -170932,6 +170932,146 @@
         "scoredAt": "2026-10-21T11:03:14.190Z",
         "userId": "560c6b99-1f25-4118-95f3-956425fe62e4"
       }
+    },
+    {
+      "id": "ecff3918e29dc871acd1816c1353e990d4f0f8102c57c1dc206a30b90951d47a",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:16:30.867Z",
+      "key": "[\"efe449d8-3b13-4b68-8100-92e385e6f83c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "\"Смотри как же просто он рифмует \" - по фактам)) ",
+        "scoredAt": "2026-10-21T11:16:30.867Z",
+        "userId": "efe449d8-3b13-4b68-8100-92e385e6f83c"
+      }
+    },
+    {
+      "id": "cabcb42ca6de3c5ed01dfd903404852128f4d8f749f3327022da1e950f3143ee",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:15:52.414Z",
+      "key": "[\"51a6430f-0c64-4e8d-8429-a6b37f64b4ab\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Какой же басс)))) Если у тебя другой темб голоса, ну нужно так напрягаться, используй сильные стороны своего голоса а не слабые. Как бы тебе не хотелось быть грозным и хриплым, твой голос этого не позволяет делать. Ну и качество очень плохое. ",
+        "scoredAt": "2026-10-21T11:15:52.414Z",
+        "userId": "51a6430f-0c64-4e8d-8429-a6b37f64b4ab"
+      }
+    },
+    {
+      "id": "40f1fa08c1c416a16079243d5fc1300a9eb5b541fe514413fd9b061754b1e76f",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:12:18.439Z",
+      "key": "[\"49da9cae-791c-4cc7-80ea-03e718c300b1\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Я говно, и я не воняю  ))))))))))))))))))))))\nКак же ты повеселил! Ещё и в микрофон дунул, вообще разрыв)))",
+        "scoredAt": "2026-10-21T11:12:18.439Z",
+        "userId": "49da9cae-791c-4cc7-80ea-03e718c300b1"
+      }
+    },
+    {
+      "id": "139f1bb5bddcd0c5e6160eda3ca2bf6f05e225db938930d0e14c2427bd465ea1",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:19:03.915Z",
+      "key": "[\"56c84d91-5606-4b8f-86a4-b5aabf107dba\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Тебе не идёт такой стиль. ",
+        "scoredAt": "2026-10-21T11:19:03.915Z",
+        "userId": "56c84d91-5606-4b8f-86a4-b5aabf107dba"
+      }
+    },
+    {
+      "id": "a19d0406031c2842660d942ae5c0da4254d58e468e0794841d4be8cc84948f77",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:17:26.806Z",
+      "key": "[\"0437d93e-1025-461a-8bc5-80413899906d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Хорошее качество записи, но этот минус не вывез. Мне кажется, что ты перспективный парень. ",
+        "scoredAt": "2026-10-21T11:17:26.806Z",
+        "userId": "0437d93e-1025-461a-8bc5-80413899906d"
+      }
+    },
+    {
+      "id": "4795479932c2472096eb7a8808d011a48c54e4143d52cd41dcec14b49b206b37",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:21:16.579Z",
+      "key": "[\"e730afa4-421a-461c-a8ac-5064f94716e9\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Скажи_мне - забавный ник) Харизма прям вываливается из этой песни. Очень уверенно делаешь. \n",
+        "scoredAt": "2026-10-21T11:21:16.579Z",
+        "userId": "e730afa4-421a-461c-a8ac-5064f94716e9"
+      }
+    },
+    {
+      "id": "0bc5df9c42311bd255499382bca701e513cdf99ac6cacb78c06cd55514c70647",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:14:13.081Z",
+      "key": "[\"17599f82-3005-4a36-b03f-baf9b77fe111\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Какой же ты злой))) У тебя всё хорошо с читкой, мне нравится этот баттловый напор. ",
+        "scoredAt": "2026-10-21T11:14:13.081Z",
+        "userId": "17599f82-3005-4a36-b03f-baf9b77fe111"
+      }
+    },
+    {
+      "id": "924b8d7ef5374e7100f1804569d91bb7720e8084c506b62df62ffba4838a76c4",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:13:23.375Z",
+      "key": "[\"7e2066d7-1499-4e73-9880-d476d66df5f9\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Мне не нравится звук, который ты делаешь, но в тексте есть определённый прикол. ",
+        "scoredAt": "2026-10-21T11:13:23.375Z",
+        "userId": "7e2066d7-1499-4e73-9880-d476d66df5f9"
+      }
+    },
+    {
+      "id": "aaf8a61024a817f3053f35e479dfdb03e3de261172522ddfa15027a3d6cf1ad7",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:20:10.234Z",
+      "key": "[\"1723b3bc-4573-4cef-ad37-9ece7602b34f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Какая же неоднозначная работа. Оченб шумный трек) Про такие песни хочется сказать - Это что-то между 1 и 5 баллами) Давай серединку. ",
+        "scoredAt": "2026-10-21T11:20:10.234Z",
+        "userId": "1723b3bc-4573-4cef-ad37-9ece7602b34f"
+      }
+    },
+    {
+      "id": "937d5b7bb8fa455dee8e0db199253cb302864a1388a5ff1e88dbee94930c60f1",
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "sourceScoredAt": "2026-10-21T11:18:37.973Z",
+      "key": "[\"5d3f59e6-c560-4dca-8403-fc5f600af5af\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Панчи очень весёлые. По звучанию такое себе, но за текст натяну оценку до 4. ",
+        "scoredAt": "2026-10-21T11:18:37.973Z",
+        "userId": "5d3f59e6-c560-4dca-8403-fc5f600af5af"
+      }
     }
   ],
   "snapshots": [
@@ -185251,6 +185391,26 @@
           "index": 31.999584200817978,
           "favor": 17.98669593560833,
           "attention": 3.346221598542979,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:22:05.075Z",
+      "exportedAt": "2026-10-21T11:22:05.075Z",
+      "scores": 15178,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.17870936762956,
+          "favor": 8.64154066291865,
+          "attention": 5.559556764412399,
+          "respect": 5.977611940298507
+        },
+        "veterans": {
+          "index": 32.034086556141546,
+          "favor": 17.988920649693107,
+          "attention": 3.378499239781773,
           "respect": 10.666666666666666
         }
       }
