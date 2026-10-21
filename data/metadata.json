@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T12:52:09.088Z",
-  "exportedAt": "2026-10-21T12:52:09.088Z",
-  "runId": "2026-10-21T12:52:09.088Z",
-  "forumExportedAt": "2026-10-21T12:52:09.088Z",
+  "lastSuccessfulAt": "2026-10-21T13:52:11.809Z",
+  "exportedAt": "2026-10-21T13:52:11.809Z",
+  "runId": "2026-10-21T13:52:11.809Z",
+  "forumExportedAt": "2026-10-21T13:52:11.809Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15230,
+    "scores": 15233,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 3179,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 6,
+    "durationMs": 5878,
     "scoresBefore": 15230,
-    "scoresAfter": 15230,
+    "scoresAfter": 15233,
     "fullBaselineRequests": 3276,
-    "requestReductionPercent": 99.9084249084249,
+    "requestReductionPercent": 99.81684981684981,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Emilien",
+          "comment": "брАвада??? чет вообще не понял че хотел сказать. ",
+          "scoredAt": "2026-10-21T13:51:20.253Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "Rest",
+          "comment": "текст слабый рэп читать умеет ",
+          "scoredAt": "2026-10-21T13:50:24.490Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "1teg",
+          "comment": "текст мега слабый. и рифмы тож! 3 с минусом ",
+          "scoredAt": "2026-10-21T13:49:27.298Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -178,27 +199,6 @@
           "artist": "Viskarik",
           "comment": "Слушай. Вот ты рассказываешь 8 строчек свою грустный опыт связанный видимо с прошлым сезоном. Но кому это интересно? Ты же мог написать панчлайнов, угаров, круто нарифмовать. Но ты выебываешься тем что не прошел, но там то я крутой, оставлю гематомы оппонентам, а йо! А что интересно то расскажешь мб? Самое грустное, что лучшая строчка твоего техта это баян про бит попадающий в грейкета, который ещё лет 5 назад в каждой конфе, каждого баттла обшутили.",
           "scoredAt": "2026-10-21T12:04:59.013Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "connector",
-          "comment": "Ну такое братух. Надо как будто ещё подрасти чуть чуть по скиллам.",
-          "scoredAt": "2026-10-21T12:02:08.552Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "ПЕРЕКУР",
-          "comment": "не смешно братуха.",
-          "scoredAt": "2026-10-21T12:01:22.198Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Игорёк Saint",
-          "comment": "Шахматист?",
-          "scoredAt": "2026-10-21T12:00:41.565Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T12:52:09.088Z",
+  "exportedAt": "2026-10-21T13:52:11.809Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -63801,8 +63801,14 @@
     },
     {
       "userId": "9b8406ec-6976-4703-a28a-734e2398a23c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "брАвада??? чет вообще не понял че хотел сказать. ",
+          "scoredAt": "2026-10-21T13:51:20.253Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
@@ -63828,7 +63834,7 @@
           "scoredAt": "2026-10-15T18:42:07.533Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T13:52:11.809Z",
       "current": true,
       "artistName": "Emilien",
       "artistSlug": "emilien",
@@ -80910,8 +80916,14 @@
     },
     {
       "userId": "b96e4a18-4213-4c62-9c16-b052890d02a8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "текст мега слабый. и рифмы тож! 3 с минусом ",
+          "scoredAt": "2026-10-21T13:49:27.298Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -80931,7 +80943,7 @@
           "scoredAt": "2026-10-16T18:50:07.530Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:52:16.127Z",
+      "fetchedAt": "2026-10-21T13:52:11.809Z",
       "current": true,
       "artistName": "1teg",
       "artistSlug": "1teg",
@@ -101637,8 +101649,14 @@
     },
     {
       "userId": "33d50fd8-2372-4cfa-b5a9-2bed2a16c57f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "текст слабый рэп читать умеет ",
+          "scoredAt": "2026-10-21T13:50:24.490Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -101664,7 +101682,7 @@
           "scoredAt": "2026-10-12T11:37:45.333Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:22:29.407Z",
+      "fetchedAt": "2026-10-21T13:52:11.809Z",
       "current": true,
       "artistName": "Rest",
       "artistSlug": "rest",

@@ -171800,6 +171800,48 @@
         "scoredAt": "2026-10-21T12:17:51.146Z",
         "userId": "aab7c038-6fa4-4d44-8253-01a77f3df526"
       }
+    },
+    {
+      "id": "a9922b71b98dd0a34b52288a77592a3c6503b1610ddf0a9eb9c017148a8d180b",
+      "observedAt": "2026-10-21T13:52:11.809Z",
+      "sourceScoredAt": "2026-10-21T13:51:20.253Z",
+      "key": "[\"9b8406ec-6976-4703-a28a-734e2398a23c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "брАвада??? чет вообще не понял че хотел сказать. ",
+        "scoredAt": "2026-10-21T13:51:20.253Z",
+        "userId": "9b8406ec-6976-4703-a28a-734e2398a23c"
+      }
+    },
+    {
+      "id": "b8b5bb7d85f3149f76b5bdeeea8467ad5bee3463891ab4319c8a3d7240c9a9a5",
+      "observedAt": "2026-10-21T13:52:11.809Z",
+      "sourceScoredAt": "2026-10-21T13:49:27.298Z",
+      "key": "[\"b96e4a18-4213-4c62-9c16-b052890d02a8\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст мега слабый. и рифмы тож! 3 с минусом ",
+        "scoredAt": "2026-10-21T13:49:27.298Z",
+        "userId": "b96e4a18-4213-4c62-9c16-b052890d02a8"
+      }
+    },
+    {
+      "id": "9be3e24ce1b6d272ba798cd9677b38a01c6fc9874e1cf75f950ae7cc86752aa7",
+      "observedAt": "2026-10-21T13:52:11.809Z",
+      "sourceScoredAt": "2026-10-21T13:50:24.490Z",
+      "key": "[\"33d50fd8-2372-4cfa-b5a9-2bed2a16c57f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст слабый рэп читать умеет ",
+        "scoredAt": "2026-10-21T13:50:24.490Z",
+        "userId": "33d50fd8-2372-4cfa-b5a9-2bed2a16c57f"
+      }
     }
   ],
   "snapshots": [
@@ -186279,6 +186321,26 @@
           "index": 31.85579666829838,
           "favor": 17.95663352793085,
           "attention": 3.255780787426357,
+          "respect": 10.643382352941176
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T13:52:11.809Z",
+      "exportedAt": "2026-10-21T13:52:11.809Z",
+      "scores": 15233,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.23625247810792,
+          "favor": 8.666641893382172,
+          "attention": 5.587467727582891,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.85937659794503,
+          "favor": 17.95828884975199,
+          "attention": 3.2577053952518638,
           "respect": 10.643382352941176
         }
       }
