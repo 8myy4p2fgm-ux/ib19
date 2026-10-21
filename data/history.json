@@ -173354,6 +173354,160 @@
         "scoredAt": "2026-10-21T16:31:25.154Z",
         "userId": "d1cad89f-b56e-4f28-8d8d-8524bad82619"
       }
+    },
+    {
+      "id": "d3f89e431578d3b518442710425026de3da72b5a0cadc8000b73ac019d25a0c2",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:46:11.373Z",
+      "key": "[\"a8f20957-8df0-488e-8dba-a365199cf9cd\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "прикольно. прехук классный. но текст такое ",
+        "scoredAt": "2026-10-21T16:46:11.373Z",
+        "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd"
+      }
+    },
+    {
+      "id": "2515e052a7213296f22d12ad77836dc98c3a641f67b0e6566fa5eacebe56180f",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:47:41.951Z",
+      "key": "[\"1c31296e-9b54-4c85-9250-2887f1d87fc3\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "многоточие уже не те ",
+        "scoredAt": "2026-10-21T16:47:41.951Z",
+        "userId": "1c31296e-9b54-4c85-9250-2887f1d87fc3"
+      }
+    },
+    {
+      "id": "6b071ac45ea0b3f0922a67173d27e5ec6d2769b703657e0a906ca427712f221e",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:44:16.791Z",
+      "key": "[\"9466c85d-f60e-4eaa-968d-2a00f7de67c6\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "душновато. но чё то есть в этом. ",
+        "scoredAt": "2026-10-21T16:44:16.791Z",
+        "userId": "9466c85d-f60e-4eaa-968d-2a00f7de67c6"
+      }
+    },
+    {
+      "id": "81c70b3156f32806be875c85beb44c9dcfd14e661467dd6e67171e56e44bb9c1",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:47:10.311Z",
+      "key": "[\"5828f619-1789-42d7-9c90-22547b7d624c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "панчей бы добавить. читает хорошо ",
+        "scoredAt": "2026-10-21T16:47:10.311Z",
+        "userId": "5828f619-1789-42d7-9c90-22547b7d624c"
+      }
+    },
+    {
+      "id": "7df825e52e9c4fb06dbe20c19dcbd3d278d1e2ee1f8ac9d8fd35d82db68f2555",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:50:28.649Z",
+      "key": "[\"d5ca310a-1a20-427e-8a46-1e5e286b2521\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "зачем брать дрилл когда читаешь обычный рэп. читаешь норм ",
+        "scoredAt": "2026-10-21T16:50:28.649Z",
+        "userId": "d5ca310a-1a20-427e-8a46-1e5e286b2521"
+      }
+    },
+    {
+      "id": "904566dd6049fadf174fe682165ccfb5ce26f5fe05f9b76acaacaf0dde4189ed",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:48:43.078Z",
+      "key": "[\"e509edb3-e372-41d1-9aa6-012d4b9e2204\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "оч слабый текст. читает обычно ",
+        "scoredAt": "2026-10-21T16:48:43.078Z",
+        "userId": "e509edb3-e372-41d1-9aa6-012d4b9e2204"
+      }
+    },
+    {
+      "id": "22eb65e6741c0288082ddf162d00215d24c1d17ef770382e871ebde7a6da571f",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:51:14.752Z",
+      "key": "[\"96642ff0-6150-41d5-8f6d-e58152c189e9\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "слабый тексток. но рифмы норм ",
+        "scoredAt": "2026-10-21T16:51:14.752Z",
+        "userId": "96642ff0-6150-41d5-8f6d-e58152c189e9"
+      }
+    },
+    {
+      "id": "2f3fb4d8ae2dbc355b5c628f92db0b83a23a17df4475ec97b240d6611a1b5b32",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:44:56.676Z",
+      "key": "[\"dcd5aad5-898e-49b2-9675-7e2d8e936019\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "тривиальное раскрытие. текст не цепанул. читает скучно",
+        "scoredAt": "2026-10-21T16:44:56.676Z",
+        "userId": "dcd5aad5-898e-49b2-9675-7e2d8e936019"
+      }
+    },
+    {
+      "id": "362e919a8cd918757efea11cfdc9757551319a872d42d7d04e11d0a95a29d22d",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:49:43.174Z",
+      "key": "[\"d3af192c-721c-4f79-abeb-5d8aa406cdad\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "че то есть в этом но звук канеш ужас",
+        "scoredAt": "2026-10-21T16:49:43.174Z",
+        "userId": "d3af192c-721c-4f79-abeb-5d8aa406cdad"
+      }
+    },
+    {
+      "id": "8cf5ed2a9ba4172fdcc8eb64940cf7114e64e39e40d674d586f9f2955488170c",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:47:25.024Z",
+      "key": "[\"c26a6185-5aaf-4754-9982-f51c13fd1dc0\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 1,
+        "comment": "ниче не слышу ",
+        "scoredAt": "2026-10-21T16:47:25.024Z",
+        "userId": "c26a6185-5aaf-4754-9982-f51c13fd1dc0"
+      }
+    },
+    {
+      "id": "c769614c6d3f057ce6437ae43e92b049eae2ea803eab018915e8100c41b2ba88",
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "sourceScoredAt": "2026-10-21T16:51:48.733Z",
+      "key": "[\"af6e9691-4ac5-4f7f-a2b0-265bf4ec7bd9\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "оч слабо",
+        "scoredAt": "2026-10-21T16:51:48.733Z",
+        "userId": "af6e9691-4ac5-4f7f-a2b0-265bf4ec7bd9"
+      }
     }
   ],
   "snapshots": [
@@ -188114,6 +188268,26 @@
           "favor": 17.919052707988865,
           "attention": 3.1686103012633624,
           "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T16:52:17.170Z",
+      "exportedAt": "2026-10-21T16:52:17.170Z",
+      "scores": 15352,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.404457112680028,
+          "favor": 8.67779130831874,
+          "attention": 5.744522947218429,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.482300918105814,
+          "favor": 17.879956104503286,
+          "attention": 3.0045187266460043,
+          "respect": 10.597826086956522
         }
       }
     }
