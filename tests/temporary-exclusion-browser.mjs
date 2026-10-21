@@ -38,7 +38,7 @@ try{
   assert.equal(await asNumber('home-ratings-total'),D.people.length+1);
   const ratingRows=page.locator('#home-ratings-list .home-rating-item');
   assert.equal(await ratingRows.count(),7);
-  assert.equal(await ratingRows.nth(6).locator('.home-rating-label').textContent(),'6 оценок');
+  assert.equal(await ratingRows.nth(6).locator('.home-rating-label').textContent(),'6 оценок (Шкала Никсона)');
   assert.equal(await ratingRows.nth(6).locator('strong').textContent(),'1 (0,0%)');
   assert.equal(await ratingRows.nth(5).locator('i').evaluate(e=>getComputedStyle(e).backgroundColor),'rgb(104, 217, 154)');
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));

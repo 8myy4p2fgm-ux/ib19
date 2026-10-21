@@ -161,7 +161,7 @@ const maxBucket=Math.max(1,...ratingBuckets);
 $('home-ratings-total').textContent=fmt(ratingsTotal,0)+' участников';
 $('home-ratings-list').replaceChildren(...ratingBuckets.map((count,i)=>{
  const row=document.createElement('div');row.className='home-rating-item'+(i===config.scoresPerParticipant?' home-rating-complete':'');
- const label=document.createElement('span');label.className='home-rating-label';label.textContent=i+' '+(i===1?'оценка':i>=2&&i<=4?'оценки':'оценок');
+ const label=document.createElement('span');label.className='home-rating-label';label.textContent=i===6?'6 оценок (Шкала Никсона)':i+' '+(i===1?'оценка':i>=2&&i<=4?'оценки':'оценок');if(i===6)label.title='6 оценок';
  const track=document.createElement('div');track.className='home-rating-track';
  const fill=document.createElement('i');fill.style.width=(count/maxBucket*100)+'%';track.append(fill);
  const value=document.createElement('strong');value.textContent=fmt(count,0)+' ('+fmt(ratingsTotal?100*count/ratingsTotal:0,1)+'%)';
