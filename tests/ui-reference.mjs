@@ -11,6 +11,8 @@ const data=await loadData();
 await new Promise(resolve=>{const ready=()=>document.querySelector('#judge-heat-body')?resolve():setTimeout(ready,10);ready();});
 initializeJudgeProfiles(data);
 </script>`;
+// Apply the approved report-only quarantine inclusion to the runtime reference.
+const ratingsSource=(await fs.readFile('js/app.js','utf8')).match(/const \{buckets:ratingBuckets[\s\S]*?\n\}\)\);/)[0];
 const statusSource=(await fs.readFile('js/general.js','utf8')).match(/export function participantStatus\(scores\)\{[\s\S]*?\n\}/)[0].replace('export ','');
 // Apply the approved raster brand to runtime references; historical fixtures stay intact.
 const approvedHoro=(await fs.readFile('index.html','utf8')).match(/<a class="nav nav-horo".*?<\/a>/)[0].replaceAll('="./','="/ib19/');
@@ -18,11 +20,12 @@ const approvedBrand=(await fs.readFile('index.html','utf8')).match(/<a class="si
 // Data, status corrections and the approved brand are adapted; analytical UI stays intact.
 function currentDataReference(original){
  // Match the approved zone-dependent index color without changing historical fixtures.
- original=original.replace('#home #index-main{color:#68D99A!important}','#home #index-main{--green:#68D99A}');
+ original=original.replace('#home #index-main{color:#68D99A!important}','#home #index-main{--green:#68D99A}').replace('.home-rating-item:last-child .home-rating-track i','.home-rating-item.home-rating-complete .home-rating-track i');
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
  let code=first.slice(first.indexOf('const module3=')).replaceAll('2026-10-18T23:59:00+03:00',config.deadline);
  code=code.replace(/const module18=\(\(\)=>\{[\s\S]*?\nreturn \{[^\n]*?\};\}\)\(\);/,"const module18={loadData:()=>import('/ib19/js/data.js').then(m=>m.loadData())};");
  // Apply the approved status correction to the runtime reference; keep historical files intact.
+ code=code.replace(/const ratingBuckets=Array.from\([\s\S]*?\n\}\)\);/,()=>ratingsSource);
  code=code.replace(/function participantStatus\(scores\)\{[^\n]+\}/,()=>statusSource);
  return original.replace(first,code).replace('</nav>',approvedHoro+'</nav>').replace('</head>','<link rel="stylesheet" href="/ib19/css/horo.css"></head>').replace('</head>',profileReference+'</head>').replace(/<a class="site-brand .*?<\/a>/,()=>approvedBrand).replace('Прошли — набрали 15 баллов. Выбыли — уже не смогут набрать 15 с оставшимися оценками.','Прошли — гарантированно наберут не менее 15 баллов даже с единицами за оставшиеся оценки. Выбыли — не наберут 15 даже с пятёрками.').replace('</head>','<link rel="stylesheet" href="/ib19/css/site-wallpaper.css"><link rel="stylesheet" href="/ib19/css/logo-classic.css"><script type="module" src="/ib19/js/room.js"></script></head>');
 }
