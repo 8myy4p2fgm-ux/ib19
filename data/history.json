@@ -172948,6 +172948,90 @@
         "scoredAt": "2026-10-21T15:00:35.446Z",
         "userId": "959f775a-aa2e-45fd-b366-20807a6e08d4"
       }
+    },
+    {
+      "id": "f1ed608dfcb0528326444f9ff9265661f3a039d0122fe3e394ce936e5120ec0e",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:21:12.218Z",
+      "key": "[\"13e9b8a9-588e-44d8-b6bf-8812614f0104\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Некачественно звучит. Рановато пока.",
+        "scoredAt": "2026-10-21T15:21:12.218Z",
+        "userId": "13e9b8a9-588e-44d8-b6bf-8812614f0104"
+      }
+    },
+    {
+      "id": "dd6b60042b323154ab3427140654d6b8344082ea7d534743faf7236ca95905f0",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:15:18.421Z",
+      "key": "[\"1d2b6585-374c-43e7-acb8-e23195227888\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Четвёрки не хватает, иди дальше. Благодари.",
+        "scoredAt": "2026-10-21T15:15:18.421Z",
+        "userId": "1d2b6585-374c-43e7-acb8-e23195227888"
+      }
+    },
+    {
+      "id": "f17f809f210b9d2c46d33cf87d820b5bde7d387a1b462ea97a89ce76893502d3",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:14:16.738Z",
+      "key": "[\"df00ad5b-10c6-432a-88ce-35595fc027eb\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "Уверенный игрок.",
+        "scoredAt": "2026-10-21T15:14:16.738Z",
+        "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb"
+      }
+    },
+    {
+      "id": "4bc3131291630f75ebfae74b4dc0a0d3b2c8814367703a6ee274a3e0c4a22ec2",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:17:56.228Z",
+      "key": "[\"47ba0f0e-adf2-4de3-a65e-67bcb874a9db\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Слишком манерно читаешь. И оффбитишь.",
+        "scoredAt": "2026-10-21T15:17:56.228Z",
+        "userId": "47ba0f0e-adf2-4de3-a65e-67bcb874a9db"
+      }
+    },
+    {
+      "id": "bc302b30be3258a24d1ea9fb04a73315d84d6b70114bcbf64fd5c9d13026b7f7",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:19:53.836Z",
+      "key": "[\"f62780a3-b06d-4c6f-bb7d-66cbf4baa3ce\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Мужицкое такое. Прям песня получилась.",
+        "scoredAt": "2026-10-21T15:19:53.836Z",
+        "userId": "f62780a3-b06d-4c6f-bb7d-66cbf4baa3ce"
+      }
+    },
+    {
+      "id": "6c621d750e25e6595cf5eff91341ee19cf3796040e842d1e43a9ba6c119e7c7a",
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "sourceScoredAt": "2026-10-21T15:17:00.026Z",
+      "key": "[\"854b38cc-1064-4587-b12f-401d2a0e0608\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Хорошо сделал, но исполнение не на пять. Надо ещё потренироваться.",
+        "scoredAt": "2026-10-21T15:17:00.026Z",
+        "userId": "854b38cc-1064-4587-b12f-401d2a0e0608"
+      }
     }
   ],
   "snapshots": [
@@ -187567,6 +187651,26 @@
           "index": 31.67590536400123,
           "favor": 17.928520063973828,
           "attention": 3.1269473438230255,
+          "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T15:22:09.570Z",
+      "exportedAt": "2026-10-21T15:22:09.570Z",
+      "scores": 15318,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.359859383349196,
+          "favor": 8.678342582527602,
+          "attention": 5.699373943678736,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.681215281230727,
+          "favor": 17.924888823284192,
+          "attention": 3.1358885017421603,
           "respect": 10.620437956204379
         }
       }

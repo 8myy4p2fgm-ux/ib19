@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T15:02:24.504Z",
+  "exportedAt": "2026-10-21T15:22:09.570Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -26801,8 +26801,14 @@
     },
     {
       "userId": "13e9b8a9-588e-44d8-b6bf-8812614f0104",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Некачественно звучит. Рановато пока.",
+          "scoredAt": "2026-10-21T15:21:12.218Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -26828,7 +26834,7 @@
           "scoredAt": "2026-10-07T18:59:36.450Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:42:15.233Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "P11vV",
       "artistSlug": "p11vv",
@@ -36800,8 +36806,14 @@
     },
     {
       "userId": "1d2b6585-374c-43e7-acb8-e23195227888",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Четвёрки не хватает, иди дальше. Благодари.",
+          "scoredAt": "2026-10-21T15:15:18.421Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -36827,7 +36839,7 @@
           "scoredAt": "2026-10-16T19:08:16.505Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "Роберт Хелениус",
       "artistSlug": "robert-helenius",
@@ -57561,8 +57573,14 @@
     },
     {
       "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Уверенный игрок.",
+          "scoredAt": "2026-10-21T15:14:16.738Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -57582,7 +57600,7 @@
           "scoredAt": "2026-09-29T11:10:33.938Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:42:12.394Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "ЗачитЗо",
       "artistSlug": "zachitzo",
@@ -78973,8 +78991,14 @@
     },
     {
       "userId": "47ba0f0e-adf2-4de3-a65e-67bcb874a9db",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Слишком манерно читаешь. И оффбитишь.",
+          "scoredAt": "2026-10-21T15:17:56.228Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -79000,7 +79024,7 @@
           "scoredAt": "2026-10-02T11:57:18.929Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "litt.",
       "artistSlug": "litt",
@@ -94020,8 +94044,14 @@
     },
     {
       "userId": "f62780a3-b06d-4c6f-bb7d-66cbf4baa3ce",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Мужицкое такое. Прям песня получилась.",
+          "scoredAt": "2026-10-21T15:19:53.836Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -94047,7 +94077,7 @@
           "scoredAt": "2026-09-29T12:12:16.319Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:12:32.505Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "Георгий Римэйк",
       "artistSlug": "georgiy-rimeyk",
@@ -121954,8 +121984,14 @@
     },
     {
       "userId": "854b38cc-1064-4587-b12f-401d2a0e0608",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Хорошо сделал, но исполнение не на пять. Надо ещё потренироваться.",
+          "scoredAt": "2026-10-21T15:17:00.026Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -121981,7 +122017,7 @@
           "scoredAt": "2026-10-17T17:29:09.798Z"
         }
       ],
-      "fetchedAt": "2026-10-20T17:52:36.317Z",
+      "fetchedAt": "2026-10-21T15:22:09.570Z",
       "current": true,
       "artistName": "Platinum 900",
       "artistSlug": "platinum-900",
