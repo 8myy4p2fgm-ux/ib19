@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T11:52:16.127Z",
-  "exportedAt": "2026-10-21T11:52:16.127Z",
-  "runId": "2026-10-21T11:52:16.127Z",
-  "forumExportedAt": "2026-10-21T11:52:16.127Z",
+  "lastSuccessfulAt": "2026-10-21T12:01:59.243Z",
+  "exportedAt": "2026-10-21T12:01:59.243Z",
+  "runId": "2026-10-21T12:01:59.243Z",
+  "forumExportedAt": "2026-10-21T12:01:59.243Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15209,
+    "scores": 15217,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 17,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 14,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 14,
-    "changedParticipants": 14,
-    "logicalRequests": 17,
-    "durationMs": 16822,
-    "scoresBefore": 15195,
-    "scoresAfter": 15209,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 11,
+    "durationMs": 11383,
+    "scoresBefore": 15209,
+    "scoresAfter": 15217,
     "fullBaselineRequests": 3276,
-    "requestReductionPercent": 99.48107448107449,
+    "requestReductionPercent": 99.66422466422466,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -96,6 +96,62 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "ПЕРЕКУР",
+          "comment": "не смешно братуха.",
+          "scoredAt": "2026-10-21T12:01:22.198Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Игорёк Saint",
+          "comment": "Шахматист?",
+          "scoredAt": "2026-10-21T12:00:41.565Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "MR.Рогалик",
+          "comment": "Дай больше крутых строк во втором раунде, если хочешь быть конкуретным и пройти в 3й.",
+          "scoredAt": "2026-10-21T11:59:57.669Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "artist": "Метроном",
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-21T11:57:20.585Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "съешь мой сон",
+          "comment": "Слушай. Тебе надо найти человека который подшарен за звук и разобраться тем как рифмовать. Если ты решишь вопрос со звуком, может быть у тебя будет чето типа возможности найти какого то слушателя. Но что бы проходить на ботлах нужно рифмовать, писать интеренсный техт и забирать внимание судьи и слушателя своим скиллом.",
+          "scoredAt": "2026-10-21T11:54:04.785Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "artist": "ШЕЙD",
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-21T11:53:35.198Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "RuL",
+          "comment": "Вот читаешь как будто не впервый раз. Но рифмуешь сильно плохо.",
+          "scoredAt": "2026-10-21T11:52:19.790Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "artist": "Arhetype",
+          "comment": "Средний рэп - средний балл. Норм - 3. ",
+          "scoredAt": "2026-10-21T11:52:16.929Z"
+        },
+        {
           "judgeName": "r1fmabes",
           "score": 2,
           "artist": "Лёха Л.",
@@ -143,62 +199,6 @@
           "artist": "1teg",
           "comment": "Из плюсов - плотно нрафимофано. Из минусов - сами рифмы немного плохие очень сильно, прямо таки хуевые. Ну и ваще техт такой белостишный, просто как акын хуяришь, не за что зацепиться.",
           "scoredAt": "2026-10-21T11:49:29.297Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Мастер Спирта",
-          "comment": "Бля слушай прикольный стайлак и техт. Но со звуком хуевасто, буквально не понятно что ты начитываешь. А так интересно. ",
-          "scoredAt": "2026-10-21T11:48:04.259Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Helli",
-          "comment": "Нормально! саундтрек к бойцовскому клубу.",
-          "scoredAt": "2026-10-21T11:47:05.351Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "TRNKVLZTR",
-          "comment": "очень авангардно бротан.",
-          "scoredAt": "2026-10-21T11:46:01.174Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Amet-Han",
-          "comment": "Уверенно.",
-          "scoredAt": "2026-10-21T11:45:19.359Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Мишарик",
-          "comment": "Уверенно. Все на месте,  не хватило ток какого то СОКА МЯСА прям, что бы прям 5ть.",
-          "scoredAt": "2026-10-21T11:44:25.024Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "DOPOZDNA",
-          "comment": "ждать, мешать, точка, оболочка. Почему такие рэфмы допускаешь брад? Хотя исполнил со знанием дела. Почему у звука такой дисонанс то с техтом. ",
-          "scoredAt": "2026-10-21T11:43:24.049Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Броуновские Движения",
-          "comment": "Брад очень лоскильно рифмуешь. Просто лигалайз 2000 год.",
-          "scoredAt": "2026-10-21T11:41:57.224Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Лукбанов",
-          "comment": "Простоватая песня. Но явно достойная прохода! Смоки мо любишь слушать да?",
-          "scoredAt": "2026-10-21T11:39:24.587Z"
         }
       ]
     }

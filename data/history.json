@@ -171506,6 +171506,118 @@
         "scoredAt": "2026-10-21T11:51:08.486Z",
         "userId": "f7906dea-6431-411f-9d8e-e445665d495b"
       }
+    },
+    {
+      "id": "62b286f325cbef36237b1ff68654232515530a682b635e4bad7291c7ce7215d0",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:53:35.198Z",
+      "key": "[\"987b479d-819b-422c-9b0d-07714f8ae432\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 4,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-21T11:53:35.198Z",
+        "userId": "987b479d-819b-422c-9b0d-07714f8ae432"
+      }
+    },
+    {
+      "id": "354239b4720bff58e89e8b7b928eccec5dca2dec60501649b42e3b8ef0a83598",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:57:20.585Z",
+      "key": "[\"1c31296e-9b54-4c85-9250-2887f1d87fc3\",\"AL Hammer\"]",
+      "before": null,
+      "after": {
+        "judgeName": "AL Hammer",
+        "score": 3,
+        "comment": "Золотая середина",
+        "scoredAt": "2026-10-21T11:57:20.585Z",
+        "userId": "1c31296e-9b54-4c85-9250-2887f1d87fc3"
+      }
+    },
+    {
+      "id": "4a3534618b307c479beb31b80d174288954cdc302253a6354dfc79883ae12c33",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:52:16.929Z",
+      "key": "[\"df9c04c9-2e6f-452b-a80b-31aed512d45d\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Средний рэп - средний балл. Норм - 3. ",
+        "scoredAt": "2026-10-21T11:52:16.929Z",
+        "userId": "df9c04c9-2e6f-452b-a80b-31aed512d45d"
+      }
+    },
+    {
+      "id": "816044cdf69992f420d4fa43c57f4a49c606f5d3d4c1dbffe70fd37cc67d3de8",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T12:01:22.198Z",
+      "key": "[\"0268bae1-7b50-4b59-a4f9-6eebc7992144\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "не смешно братуха.",
+        "scoredAt": "2026-10-21T12:01:22.198Z",
+        "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144"
+      }
+    },
+    {
+      "id": "1be24fecfd7e684058a27d4664733098c0d48781bf525177552d36dbfbb955a3",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:59:57.669Z",
+      "key": "[\"114db8f4-e440-4219-bb76-62af7a7097e2\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Дай больше крутых строк во втором раунде, если хочешь быть конкуретным и пройти в 3й.",
+        "scoredAt": "2026-10-21T11:59:57.669Z",
+        "userId": "114db8f4-e440-4219-bb76-62af7a7097e2"
+      }
+    },
+    {
+      "id": "26140ec1b9cc01a3ab39c393dac67d9c44fe493668477db91a8bf60133ab8eaf",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T12:00:41.565Z",
+      "key": "[\"2a0c45b8-588e-49fb-b8d9-c6392f6bf42b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Шахматист?",
+        "scoredAt": "2026-10-21T12:00:41.565Z",
+        "userId": "2a0c45b8-588e-49fb-b8d9-c6392f6bf42b"
+      }
+    },
+    {
+      "id": "f0cab884ce5d8cbb12488ff53c02ad3cf767d69ce5299a4aa2c74f30a5b980dd",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:54:04.785Z",
+      "key": "[\"1c9db8d0-3b3c-41e1-81f4-9b5e975fe864\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "Слушай. Тебе надо найти человека который подшарен за звук и разобраться тем как рифмовать. Если ты решишь вопрос со звуком, может быть у тебя будет чето типа возможности найти какого то слушателя. Но что бы проходить на ботлах нужно рифмовать, писать интеренсный техт и забирать внимание судьи и слушателя своим скиллом.",
+        "scoredAt": "2026-10-21T11:54:04.785Z",
+        "userId": "1c9db8d0-3b3c-41e1-81f4-9b5e975fe864"
+      }
+    },
+    {
+      "id": "831e01fd6738b3f659d99dcfdcd41692e64273ac0871b70cae9cef8c24abd07c",
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "sourceScoredAt": "2026-10-21T11:52:19.790Z",
+      "key": "[\"5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Вот читаешь как будто не впервый раз. Но рифмуешь сильно плохо.",
+        "scoredAt": "2026-10-21T11:52:19.790Z",
+        "userId": "5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed"
+      }
     }
   ],
   "snapshots": [
@@ -185905,6 +186017,26 @@
           "index": 32.10707614010131,
           "favor": 17.999778868692232,
           "attention": 3.440630604742417,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:01:59.243Z",
+      "exportedAt": "2026-10-21T12:01:59.243Z",
+      "scores": 15217,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.201980328913955,
+          "favor": 8.66410427486632,
+          "attention": 5.555733196904777,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 32.11375674983323,
+          "favor": 18.001547098086025,
+          "attention": 3.4455429850805412,
           "respect": 10.666666666666666
         }
       }

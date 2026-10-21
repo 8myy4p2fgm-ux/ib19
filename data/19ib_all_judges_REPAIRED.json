@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T11:52:16.127Z",
+  "exportedAt": "2026-10-21T12:01:59.243Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -75,8 +75,14 @@
     },
     {
       "userId": "987b479d-819b-422c-9b0d-07714f8ae432",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 4,
+          "comment": "Хорошо",
+          "scoredAt": "2026-10-21T11:53:35.198Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -102,7 +108,7 @@
           "scoredAt": "2026-09-24T21:04:15.272Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "ШЕЙD",
       "artistSlug": "sheyd",
@@ -42843,8 +42849,14 @@
     },
     {
       "userId": "1c31296e-9b54-4c85-9250-2887f1d87fc3",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-21T11:57:20.585Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -42864,7 +42876,7 @@
           "scoredAt": "2026-09-30T17:44:40.916Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "Метроном",
       "artistSlug": "metronom",
@@ -79341,8 +79353,14 @@
     },
     {
       "userId": "df9c04c9-2e6f-452b-a80b-31aed512d45d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "comment": "Средний рэп - средний балл. Норм - 3. ",
+          "scoredAt": "2026-10-21T11:52:16.929Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -79362,7 +79380,7 @@
           "scoredAt": "2026-10-15T11:27:52.684Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:02:24.160Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "Arhetype",
       "artistSlug": "arhetype",
@@ -100765,8 +100783,14 @@
     },
     {
       "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "не смешно братуха.",
+          "scoredAt": "2026-10-21T12:01:22.198Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 2,
@@ -100786,7 +100810,7 @@
           "scoredAt": "2026-10-17T09:11:47.578Z"
         }
       ],
-      "fetchedAt": "2026-10-18T19:12:08.202Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "ПЕРЕКУР",
       "artistSlug": "perekur",
@@ -103896,8 +103920,14 @@
     },
     {
       "userId": "114db8f4-e440-4219-bb76-62af7a7097e2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Дай больше крутых строк во втором раунде, если хочешь быть конкуретным и пройти в 3й.",
+          "scoredAt": "2026-10-21T11:59:57.669Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -103923,7 +103953,7 @@
           "scoredAt": "2026-10-10T16:16:18.466Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:02:10.395Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "MR.Рогалик",
       "artistSlug": "mr-rogalik",
@@ -110797,8 +110827,14 @@
     },
     {
       "userId": "2a0c45b8-588e-49fb-b8d9-c6392f6bf42b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Шахматист?",
+          "scoredAt": "2026-10-21T12:00:41.565Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -110824,7 +110860,7 @@
           "scoredAt": "2026-10-05T20:40:06.266Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:02:21.159Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "Игорёк Saint",
       "artistSlug": "igorek-saint",
@@ -116053,8 +116089,14 @@
     },
     {
       "userId": "1c9db8d0-3b3c-41e1-81f4-9b5e975fe864",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Слушай. Тебе надо найти человека который подшарен за звук и разобраться тем как рифмовать. Если ты решишь вопрос со звуком, может быть у тебя будет чето типа возможности найти какого то слушателя. Но что бы проходить на ботлах нужно рифмовать, писать интеренсный техт и забирать внимание судьи и слушателя своим скиллом.",
+          "scoredAt": "2026-10-21T11:54:04.785Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -116074,7 +116116,7 @@
           "scoredAt": "2026-10-14T21:32:08.924Z"
         }
       ],
-      "fetchedAt": "2026-10-20T10:32:22.490Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "съешь мой сон",
       "artistSlug": "sesh-moy-son",
@@ -123030,8 +123072,14 @@
     },
     {
       "userId": "5d3bfecb-cda3-4a5a-bb62-96a8bc5663ed",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Вот читаешь как будто не впервый раз. Но рифмуешь сильно плохо.",
+          "scoredAt": "2026-10-21T11:52:19.790Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -123057,7 +123105,7 @@
           "scoredAt": "2026-09-25T17:44:29.684Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T12:01:59.243Z",
       "current": true,
       "artistName": "RuL",
       "artistSlug": "rul",
