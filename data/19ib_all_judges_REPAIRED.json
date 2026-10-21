@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T18:52:05.446Z",
+  "exportedAt": "2026-10-21T19:42:04.871Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -118124,29 +118124,6 @@
       "trackId": "2b426f53-8730-4e5a-9ea3-a6083d843f89"
     },
     {
-      "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "comment": "Неплохо друг. Даже местами прикольно. Но все таки не хватило какой то идейности, или сильного техта. Чего то содержательно, пон?",
-          "scoredAt": "2026-10-21T14:23:35.538Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "золотая серединка",
-          "scoredAt": "2026-10-13T22:16:46.518Z"
-        }
-      ],
-      "fetchedAt": "2026-10-21T14:28:07.421Z",
-      "current": true,
-      "artistName": "YURRRA NECHAY",
-      "artistSlug": "yurrra-nechay",
-      "trackId": "fc32b5e0-7160-4100-ae9e-6e1ef8989c67"
-    },
-    {
       "userId": "3149bef2-0292-4909-aeb9-140c4ba40df1",
       "scoredCount": 5,
       "scores": [
@@ -118297,6 +118274,29 @@
       "artistName": "AsiZulu",
       "artistSlug": "asizulu",
       "trackId": "4a3cf82d-342f-4c8b-b0f5-eefc49ade359"
+    },
+    {
+      "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Неплохо друг. Даже местами прикольно. Но все таки не хватило какой то идейности, или сильного техта. Чего то содержательно, пон?",
+          "scoredAt": "2026-10-21T14:23:35.538Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "золотая серединка",
+          "scoredAt": "2026-10-13T22:16:46.518Z"
+        }
+      ],
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
+      "current": true,
+      "artistName": "YURRRA NECHAY",
+      "artistSlug": "yurrra-nechay",
+      "trackId": "fc32b5e0-7160-4100-ae9e-6e1ef8989c67"
     },
     {
       "userId": "2f30b339-770f-4197-acd5-e3fbd901ed9f",

@@ -189040,6 +189040,26 @@
           "respect": 10.597826086956522
         }
       }
+    },
+    {
+      "observedAt": "2026-10-21T19:42:04.871Z",
+      "exportedAt": "2026-10-21T19:42:04.871Z",
+      "scores": 15397,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.479528372644346,
+          "favor": 8.70155415595625,
+          "attention": 5.7958313595452395,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.544002741071594,
+          "favor": 17.90349672466997,
+          "attention": 3.0426799294451032,
+          "respect": 10.597826086956522
+        }
+      }
     }
   ],
   "selectionVersions": [
