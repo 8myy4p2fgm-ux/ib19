@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T00:02:25.514Z",
-  "exportedAt": "2026-10-21T00:02:25.514Z",
-  "runId": "2026-10-21T00:02:25.514Z",
-  "forumExportedAt": "2026-10-21T00:02:25.514Z",
+  "lastSuccessfulAt": "2026-10-21T00:12:06.015Z",
+  "exportedAt": "2026-10-21T00:12:06.015Z",
+  "runId": "2026-10-21T00:12:06.015Z",
+  "forumExportedAt": "2026-10-21T00:12:06.015Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15021,
+    "scores": 15024,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 8,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 11,
-    "durationMs": 10590,
-    "scoresBefore": 15013,
-    "scoresAfter": 15021,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 6,
+    "durationMs": 5854,
+    "scoresBefore": 15021,
+    "scoresAfter": 15024,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.66412213740458,
+    "requestReductionPercent": 99.81679389312977,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Tidem Rhymer",
+          "comment": "Авансом 4, ибо некоторые моменты ритмически понравились и тембо голоса крутой.",
+          "scoredAt": "2026-10-21T00:04:46.532Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Парень из села",
+          "comment": "Вот вроде и голос поставленный, и слышно, что можешь, ой как можешьб, но видимо не размялся, где-то слетел, где-то странно интонировал, текст пустоват",
+          "scoredAt": "2026-10-21T00:03:58.987Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "ПеньИсТрущоб",
+          "comment": "Мрачно. Текст хороший. Стиль присутствует. \nНужны ударные строки и их выделения интонациями, чтобы прям цепляли. В твоем случае, увы, надо напрягаться и прям целенаправленно вслушиваться в текст, это не есть хорошо.",
+          "scoredAt": "2026-10-21T00:02:46.062Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -178,27 +199,6 @@
           "artist": "AstroNatrick",
           "comment": "Хорошо! Начал очнеь бодро, даже 5 хотелось, но больше 30 сек не продержался. Не хватает крутых строк, которые хотелось бы выделить и запомнить. Тембр голоса крутой, подача тоже. Рифмуешь тоже хорошо",
           "scoredAt": "2026-10-20T23:45:12.332Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Проблема",
-          "comment": "Экспрессивно!\nНо словно торопишься чутка куда-то. № чисто за подачу, ибо весьма сочно. Все остальное мимо как-то пролетело",
-          "scoredAt": "2026-10-20T23:43:29.605Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "RAP DEAD",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-20T23:42:40.802Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "первобытный суп",
-          "comment": "Такому стилю нужен очень острый текст, у тебя хаос пока что.",
-          "scoredAt": "2026-10-20T23:42:14.892Z"
         }
       ]
     }
