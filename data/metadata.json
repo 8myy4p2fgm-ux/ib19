@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T21:32:08.576Z",
-  "exportedAt": "2026-10-21T21:32:08.576Z",
-  "runId": "2026-10-21T21:32:08.576Z",
-  "forumExportedAt": "2026-10-21T21:32:08.576Z",
+  "lastSuccessfulAt": "2026-10-21T21:42:18.284Z",
+  "exportedAt": "2026-10-21T21:42:18.284Z",
+  "runId": "2026-10-21T21:42:18.284Z",
+  "forumExportedAt": "2026-10-21T21:42:18.284Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15401,
+    "scores": 15410,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 6879,
-    "scoresBefore": 15397,
-    "scoresAfter": 15401,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 12,
+    "durationMs": 12311,
+    "scoresBefore": 15401,
+    "scoresAfter": 15410,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.78645515558267,
+    "requestReductionPercent": 99.63392312385601,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,69 @@
       "feed": [
         {
           "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Скаймартиника",
+          "comment": "Ну хорошо звучит прям, но при чем тут отборочный на 19ку? Спорная работа, я бы такое не пропускал. Концовка добавляет сомнений, что это трек для баттла.",
+          "scoredAt": "2026-10-21T21:41:37.434Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Ваня Епты",
+          "comment": "Ну трек ни о чем. Ни тема не раскрыта, ни чего-то другое. Исполнение базовое. Слабовато для прохода",
+          "scoredAt": "2026-10-21T21:39:12.142Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Аксель Бруно",
+          "comment": "Ну звучок местами режет уши. Но что-то в этом точно есть. Проход для меня!",
+          "scoredAt": "2026-10-21T21:37:24.445Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "23mad",
+          "comment": "Исполнение нормальное, но с текстом надо поработать, чтобы ещё дальше проходить.",
+          "scoredAt": "2026-10-21T21:36:42.585Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "ТАКАШИ",
+          "comment": "Нормальная работа. Про три буквы можно было поинтереснее закрутить.",
+          "scoredAt": "2026-10-21T21:35:43.289Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "anticore",
+          "comment": "Вот вроде обычный проходной трек, но обратил внимание на рифмы и понял: тут прям мало для прохода. Да и по читке ничего особенного.",
+          "scoredAt": "2026-10-21T21:34:40.095Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Monst4r",
+          "comment": "Хорошо, но маловато. Можно было интруху поменьше сделать",
+          "scoredAt": "2026-10-21T21:33:35.082Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "JuudzO",
+          "comment": "Хороший трек для прохода. ",
+          "scoredAt": "2026-10-21T21:32:47.455Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "artist": "Prince Noir",
+          "comment": "Пока слабовато для прохода. Даже очень...",
+          "scoredAt": "2026-10-21T21:32:17.292Z"
+        },
+        {
+          "judgeName": "Никсон",
           "score": 3,
           "artist": "Egor Neiv",
           "comment": "Ну нет сочетания голоса с битом. Возможно тебе не идут такие биты, возможно нужно поработать над сведением. Но потенциал в этом есть.",
@@ -136,69 +199,6 @@
           "artist": "кукиш с хаслом",
           "comment": "ну это топ рэп просто. 5 с минусом бро за сведение ",
           "scoredAt": "2026-10-21T17:30:24.633Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Отец Павел",
-          "comment": "СПАСИБО ЗА ПОЗИЦИЮ ",
-          "scoredAt": "2026-10-21T17:28:45.280Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Хоббит Нурмагогэндальф",
-          "comment": "прикольно вроде по мысли. но не оч по рэпу ",
-          "scoredAt": "2026-10-21T17:28:18.072Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "ЭмоГотка2007",
-          "comment": "ниче не понял ",
-          "scoredAt": "2026-10-21T17:26:47.828Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "IgoRacks",
-          "comment": "баяны строчки и никакого флоу ",
-          "scoredAt": "2026-10-21T17:26:36.718Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "иссиня",
-          "comment": "слабый рэпчик. ",
-          "scoredAt": "2026-10-21T17:26:10.775Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Elpako",
-          "comment": "мысль понял. рэп скучноватый ",
-          "scoredAt": "2026-10-21T17:23:07.070Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "ВсемYoYo",
-          "comment": "слабый рэп",
-          "scoredAt": "2026-10-21T17:22:32.656Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "Саша Нгуен",
-          "comment": "текст слабый. рифмы классные. читает хорошо ",
-          "scoredAt": "2026-10-21T17:22:05.396Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "߬߹  SeYTi   ߬߹",
-          "comment": "АХУЕННО",
-          "scoredAt": "2026-10-21T17:21:34.375Z"
         }
       ]
     }

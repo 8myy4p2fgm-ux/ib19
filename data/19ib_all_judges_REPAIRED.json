@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T21:32:08.576Z",
+  "exportedAt": "2026-10-21T21:42:18.284Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -19200,8 +19200,14 @@
     },
     {
       "userId": "854bd5d0-e312-42e8-a563-f6f4ae64867a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Хороший трек для прохода. ",
+          "scoredAt": "2026-10-21T21:32:47.455Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -19221,7 +19227,7 @@
           "scoredAt": "2026-09-29T17:54:06.943Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "JuudzO",
       "artistSlug": "juudzo",
@@ -32570,8 +32576,14 @@
     },
     {
       "userId": "55345797-da07-4852-9542-e7e19bdae370",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну звучок местами режет уши. Но что-то в этом точно есть. Проход для меня!",
+          "scoredAt": "2026-10-21T21:37:24.445Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -32591,7 +32603,7 @@
           "scoredAt": "2026-09-27T11:47:38.357Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "Аксель Бруно",
       "artistSlug": "aksel-bruno",
@@ -36815,8 +36827,14 @@
     },
     {
       "userId": "d55f3681-4c11-4ce5-8ee3-10a4aa0a6ea4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Исполнение нормальное, но с текстом надо поработать, чтобы ещё дальше проходить.",
+          "scoredAt": "2026-10-21T21:36:42.585Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -36842,7 +36860,7 @@
           "scoredAt": "2026-10-02T15:44:29.396Z"
         }
       ],
-      "fetchedAt": "2026-10-20T09:42:33.744Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "23mad",
       "artistSlug": "23mad",
@@ -39804,8 +39822,14 @@
     },
     {
       "userId": "ee787c95-17a2-4d42-ac3b-c3ee6f63eda1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Нормальная работа. Про три буквы можно было поинтереснее закрутить.",
+          "scoredAt": "2026-10-21T21:35:43.289Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -39831,7 +39855,7 @@
           "scoredAt": "2026-09-09T16:35:29.756Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:32:07.259Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "ТАКАШИ",
       "artistSlug": "takashi",
@@ -60727,8 +60751,14 @@
     },
     {
       "userId": "07893cca-1296-4ddc-b51b-5b9b3328cecd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну трек ни о чем. Ни тема не раскрыта, ни чего-то другое. Исполнение базовое. Слабовато для прохода",
+          "scoredAt": "2026-10-21T21:39:12.142Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -60748,7 +60778,7 @@
           "scoredAt": "2026-10-08T17:16:41.604Z"
         }
       ],
-      "fetchedAt": "2026-10-19T20:52:32.633Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "Ваня Епты",
       "artistSlug": "vanya-epty",
@@ -60961,8 +60991,14 @@
     },
     {
       "userId": "f2c95365-3d40-4fb3-885b-608e65fdb446",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Вот вроде обычный проходной трек, но обратил внимание на рифмы и понял: тут прям мало для прохода. Да и по читке ничего особенного.",
+          "scoredAt": "2026-10-21T21:34:40.095Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -60976,7 +61012,7 @@
           "scoredAt": "2026-10-07T16:53:48.549Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:02:21.405Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "anticore",
       "artistSlug": "anticore",
@@ -100903,8 +100939,14 @@
     },
     {
       "userId": "86f85e1a-df57-4904-9b5f-0fcd73010e6f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Хорошо, но маловато. Можно было интруху поменьше сделать",
+          "scoredAt": "2026-10-21T21:33:35.082Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -100930,7 +100972,7 @@
           "scoredAt": "2026-10-07T11:38:29.688Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "Monst4r",
       "artistSlug": "monst4r",
@@ -110132,8 +110174,14 @@
     },
     {
       "userId": "601f74a7-3b79-4dec-bfad-b03dca3b8341",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "Пока слабовато для прохода. Даже очень...",
+          "scoredAt": "2026-10-21T21:32:17.292Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -110147,7 +110195,7 @@
           "scoredAt": "2026-10-13T15:11:28.820Z"
         }
       ],
-      "fetchedAt": "2026-10-18T03:12:04.652Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "Prince Noir",
       "artistSlug": "prince-noir",
@@ -121038,8 +121086,14 @@
     },
     {
       "userId": "5c4deb77-6eeb-4982-90c0-63789f4e8f44",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну хорошо звучит прям, но при чем тут отборочный на 19ку? Спорная работа, я бы такое не пропускал. Концовка добавляет сомнений, что это трек для баттла.",
+          "scoredAt": "2026-10-21T21:41:37.434Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -121053,7 +121107,7 @@
           "scoredAt": "2026-10-17T16:06:53.410Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:42:34.897Z",
+      "fetchedAt": "2026-10-21T21:42:18.284Z",
       "current": true,
       "artistName": "Скаймартиника",
       "artistSlug": "skaymartinika",
