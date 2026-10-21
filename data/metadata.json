@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T12:12:09.335Z",
-  "exportedAt": "2026-10-21T12:12:09.335Z",
-  "runId": "2026-10-21T12:12:09.335Z",
-  "forumExportedAt": "2026-10-21T12:12:09.335Z",
+  "lastSuccessfulAt": "2026-10-21T12:22:09.973Z",
+  "exportedAt": "2026-10-21T12:22:09.973Z",
+  "runId": "2026-10-21T12:22:09.973Z",
+  "forumExportedAt": "2026-10-21T12:22:09.973Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15223,
+    "scores": 15230,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9032,
-    "scoresBefore": 15217,
-    "scoresAfter": 15223,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 10,
+    "durationMs": 9681,
+    "scoresBefore": 15223,
+    "scoresAfter": 15230,
     "fullBaselineRequests": 3276,
-    "requestReductionPercent": 99.72527472527473,
+    "requestReductionPercent": 99.6947496947497,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,55 @@
       "feed": [
         {
           "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "led sgorel",
+          "comment": "",
+          "scoredAt": "2026-10-21T12:20:52.726Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "DUS2GUN",
+          "comment": "Нормально!",
+          "scoredAt": "2026-10-21T12:17:51.146Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "LittleKri",
+          "comment": "Ну слабовато по рифмам, читаешь тоже очень просто и я не о технике, а о отсутвии изюминки какой то. Я думаю ещё чуть чуть потренируешься и можно будет попробовать ещё раз.",
+          "scoredAt": "2026-10-21T12:17:09.167Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Oracool",
+          "comment": "Слушай достойно прохода. Но как будто в техт нужно сильнее уопроться, плотно панчей написать, рифм крутых..",
+          "scoredAt": "2026-10-21T12:15:49.432Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "эмцэ цээм",
+          "comment": "Ну нормально, вайбит.",
+          "scoredAt": "2026-10-21T12:14:18.500Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "нуартур",
+          "comment": "Прикольно. Бит классный.",
+          "scoredAt": "2026-10-21T12:13:25.961Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "неронимэ[нибэнимэ]",
+          "comment": "Тему раскрыл, банально? - Да. Но целостно и лаконично, хотя раскрытие это наверное у процентов 40% раунда. В целом крепко и хорошо! Удачи дальше.",
+          "scoredAt": "2026-10-21T12:12:36.459Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
           "score": 3,
           "artist": "Prosty_Esli_Traxnul",
           "comment": "бля забавно. но по моему нихуя не понятно че ты читаешь? мб как то почище сведешь? я не о СТУДИЙНОМ качестве, а промто что бы разборчевей был твой рэб.",
@@ -150,55 +199,6 @@
           "artist": "Игорёк Saint",
           "comment": "Шахматист?",
           "scoredAt": "2026-10-21T12:00:41.565Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "MR.Рогалик",
-          "comment": "Дай больше крутых строк во втором раунде, если хочешь быть конкуретным и пройти в 3й.",
-          "scoredAt": "2026-10-21T11:59:57.669Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "artist": "Метроном",
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-21T11:57:20.585Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "съешь мой сон",
-          "comment": "Слушай. Тебе надо найти человека который подшарен за звук и разобраться тем как рифмовать. Если ты решишь вопрос со звуком, может быть у тебя будет чето типа возможности найти какого то слушателя. Но что бы проходить на ботлах нужно рифмовать, писать интеренсный техт и забирать внимание судьи и слушателя своим скиллом.",
-          "scoredAt": "2026-10-21T11:54:04.785Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 4,
-          "artist": "ШЕЙD",
-          "comment": "Хорошо",
-          "scoredAt": "2026-10-21T11:53:35.198Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "RuL",
-          "comment": "Вот читаешь как будто не впервый раз. Но рифмуешь сильно плохо.",
-          "scoredAt": "2026-10-21T11:52:19.790Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "artist": "Arhetype",
-          "comment": "Средний рэп - средний балл. Норм - 3. ",
-          "scoredAt": "2026-10-21T11:52:16.929Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 2,
-          "artist": "Лёха Л.",
-          "comment": "Пока рано в турнир уровня хх ру. Необходимо расти по всем параметрам! ",
-          "scoredAt": "2026-10-21T11:51:10.487Z"
         }
       ]
     }
