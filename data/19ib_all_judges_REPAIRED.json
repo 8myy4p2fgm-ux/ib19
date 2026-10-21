@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T23:11:56.118Z",
+  "exportedAt": "2026-10-21T23:21:57.671Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -64632,8 +64632,14 @@
     },
     {
       "userId": "e7b26c7e-bc29-47e6-92ab-f4158ea16a6c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "есть в этом что-то... если бы чутка понятнее, но в целом имеет место. Сильный упор на созвучия",
+          "scoredAt": "2026-10-21T23:11:57.730Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -64653,7 +64659,7 @@
           "scoredAt": "2026-10-11T13:38:43.787Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T23:21:57.671Z",
       "current": true,
       "artistName": "Чикмарь",
       "artistSlug": "chikmar",
@@ -67406,8 +67412,14 @@
     },
     {
       "userId": "a1ae8c34-fdc5-40c4-83e1-8ffb325a658e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Если бы сменил конструкцию пару раз, была бы выше оценка. Подаёшь хорошо, рифмы усиляй ",
+          "scoredAt": "2026-10-21T23:14:24.694Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -67427,7 +67439,7 @@
           "scoredAt": "2026-10-11T17:08:07.452Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T23:21:57.671Z",
       "current": true,
       "artistName": "SAVA",
       "artistSlug": "sava",
@@ -121269,8 +121281,14 @@
     },
     {
       "userId": "fc4654dd-c0f6-44ae-b6e5-258ea6fbaaf7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 2,
+          "comment": "Зря потратила начало на лалала))  дальше - рифмы слабое место, как и конструкция квадратом( ",
+          "scoredAt": "2026-10-21T23:13:00.654Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -121296,7 +121314,7 @@
           "scoredAt": "2026-10-14T18:29:07.550Z"
         }
       ],
-      "fetchedAt": "2026-10-19T20:22:17.857Z",
+      "fetchedAt": "2026-10-21T23:21:57.671Z",
       "current": true,
       "artistName": "BlueTit",
       "artistSlug": "bluetit",
