@@ -169112,6 +169112,34 @@
         "scoredAt": "2026-10-21T02:21:46.417Z",
         "userId": "275667e0-5707-4232-b3a3-57a162edde20"
       }
+    },
+    {
+      "id": "0a34636f0781c2ec37060f8786a8d96076675ec61d0eec757bc8a4cc079138bc",
+      "observedAt": "2026-10-21T02:32:04.474Z",
+      "sourceScoredAt": "2026-10-21T02:26:29.892Z",
+      "key": "[\"b2f8b760-fb3c-4686-a1d7-2d808ba2a1f2\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:26:29.892Z",
+        "userId": "b2f8b760-fb3c-4686-a1d7-2d808ba2a1f2"
+      }
+    },
+    {
+      "id": "5020ea3a91c300f13d7ef3c36d29952e60f786e294391a4d530c808e25ef8ab7",
+      "observedAt": "2026-10-21T02:32:04.474Z",
+      "sourceScoredAt": "2026-10-21T02:22:33.347Z",
+      "key": "[\"742dc5f7-6d39-4e8a-beb0-8d80129e1a2c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Рифмы пожалуйста подтяни и не перегружай по количеству слогов в строчке ",
+        "scoredAt": "2026-10-21T02:22:33.347Z",
+        "userId": "742dc5f7-6d39-4e8a-beb0-8d80129e1a2c"
+      }
     }
   ],
   "snapshots": [
@@ -182911,6 +182939,26 @@
           "index": 31.795219868611284,
           "favor": 17.98769822630791,
           "attention": 3.1408549756367106,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T02:32:04.474Z",
+      "exportedAt": "2026-10-21T02:32:04.474Z",
+      "scores": 15040,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.328818434753057,
+          "favor": 8.590939991347879,
+          "attention": 5.783332988859724,
+          "respect": 5.954545454545454
+        },
+        "veterans": {
+          "index": 31.79786470237636,
+          "favor": 17.988147154198817,
+          "attention": 3.1430508815108746,
           "respect": 10.666666666666666
         }
       }

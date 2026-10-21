@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T02:22:01.102Z",
-  "exportedAt": "2026-10-21T02:22:01.102Z",
-  "runId": "2026-10-21T02:22:01.102Z",
-  "forumExportedAt": "2026-10-21T02:22:01.102Z",
+  "lastSuccessfulAt": "2026-10-21T02:32:04.474Z",
+  "exportedAt": "2026-10-21T02:32:04.474Z",
+  "runId": "2026-10-21T02:32:04.474Z",
+  "forumExportedAt": "2026-10-21T02:32:04.474Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15038,
+    "scores": 15040,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 4,
-    "durationMs": 3614,
-    "scoresBefore": 15037,
-    "scoresAfter": 15038,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 4598,
+    "scoresBefore": 15038,
+    "scoresAfter": 15040,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.87786259541984,
+    "requestReductionPercent": 99.84732824427482,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Kost Manhattan",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:26:29.892Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "VXALATE",
+          "comment": "Рифмы пожалуйста подтяни и не перегружай по количеству слогов в строчке ",
+          "scoredAt": "2026-10-21T02:22:33.347Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -185,20 +199,6 @@
           "artist": "Joseph_Prince",
           "comment": "нууу дла баланса поставлю 3+1 \nчтобы была возможность пройти, читаешь неплохо, но демка демкой. \nво 2 постарайся ",
           "scoredAt": "2026-10-21T01:54:42.779Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "Т. Малый",
-          "comment": "",
-          "scoredAt": "2026-10-21T01:53:01.151Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Tidem Rhymer",
-          "comment": "Авансом 4, ибо некоторые моменты ритмически понравились и тембо голоса крутой.",
-          "scoredAt": "2026-10-21T00:04:46.532Z"
         }
       ]
     }

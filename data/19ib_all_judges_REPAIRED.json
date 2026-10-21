@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T02:22:01.102Z",
+  "exportedAt": "2026-10-21T02:32:04.474Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -46267,8 +46267,14 @@
     },
     {
       "userId": "b2f8b760-fb3c-4686-a1d7-2d808ba2a1f2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:26:29.892Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -46294,7 +46300,7 @@
           "scoredAt": "2026-09-03T15:32:21.136Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T02:32:04.474Z",
       "current": true,
       "artistName": "Kost Manhattan",
       "artistSlug": "kost-manhattan",
@@ -108898,8 +108904,14 @@
     },
     {
       "userId": "742dc5f7-6d39-4e8a-beb0-8d80129e1a2c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Рифмы пожалуйста подтяни и не перегружай по количеству слогов в строчке ",
+          "scoredAt": "2026-10-21T02:22:33.347Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -108925,7 +108937,7 @@
           "scoredAt": "2026-10-12T13:31:02.612Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T02:32:04.474Z",
       "current": true,
       "artistName": "VXALATE",
       "artistSlug": "vxalate",
