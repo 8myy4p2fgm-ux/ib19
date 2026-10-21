@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T09:32:10.046Z",
-  "exportedAt": "2026-10-21T09:32:10.046Z",
-  "runId": "2026-10-21T09:32:10.046Z",
-  "forumExportedAt": "2026-10-21T09:32:10.046Z",
+  "lastSuccessfulAt": "2026-10-21T09:42:09.642Z",
+  "exportedAt": "2026-10-21T09:42:09.642Z",
+  "runId": "2026-10-21T09:42:09.642Z",
+  "forumExportedAt": "2026-10-21T09:42:09.642Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15094,
+    "scores": 15102,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 7462,
-    "scoresBefore": 15090,
-    "scoresAfter": 15094,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 11,
+    "durationMs": 11308,
+    "scoresBefore": 15094,
+    "scoresAfter": 15102,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.78625954198473,
+    "requestReductionPercent": 99.66412213740458,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,62 @@
       "feed": [
         {
           "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "Denexis [LTTR]",
+          "comment": "бит угарный братан, рэб не оч.",
+          "scoredAt": "2026-10-21T09:41:53.450Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "viktos",
+          "comment": "интересная подача слушай. Но ты жу буквально пол минуты из минутного трека молчал.",
+          "scoredAt": "2026-10-21T09:41:12.736Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "INCLUS",
+          "comment": "блин слушай с одной стороны и очевидности и вместо панчей флэксишь всякой хуетой) и песняк твой откровенно очень средний и на 3 с ооооочень маленьким минусом. Но вот если ты добавишь норм панчей, чуть чуть позадротишь рифмы - это будет работать гораздо лучше.",
+          "scoredAt": "2026-10-21T09:40:10.856Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Mackendzi",
+          "comment": "Ну умело рэб читаешь, да.",
+          "scoredAt": "2026-10-21T09:37:39.214Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "вокинъяле",
+          "comment": "Хмм. Есть как будто косяки по твоей ритмической задумке. ну и в целом простовато песня построена, хочется больше угаров, больше находок в рифмах. оке?",
+          "scoredAt": "2026-10-21T09:36:31.344Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Mahina Obscura",
+          "comment": "Интересно. Хотя рифмуешь простовато и местами бары выучрно звучат. Но в целом как будто круто завайбил ты, это тоже уметь надо.",
+          "scoredAt": "2026-10-21T09:34:45.981Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "сталинские депрессии",
+          "comment": "неплохо, аутентично рэп валишь. мб голос твой такое ощущение сощдал, но было интересно.",
+          "scoredAt": "2026-10-21T09:33:32.902Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Звуки вагины",
+          "comment": "слушай ну читаешь живу, по человечески вроде грувит как то и не по задростки при этом. но техт братуха жирнее хотелось бы и меньше очевидных рифм тупых.",
+          "scoredAt": "2026-10-21T09:32:26.892Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
           "score": 3,
           "artist": "LiviLiv",
           "comment": "Жоско завафлил фастфлеу братуха. Зачем ты его сделал? Без него лучше было бы.",
@@ -140,65 +196,9 @@
         {
           "judgeName": "Illumate",
           "score": 4,
-          "artist": "КРИПОКРИНЖ",
+          "artist": "10111010000",
           "comment": "В лучших традициях русского ундергроунда.",
           "scoredAt": "2026-10-21T09:12:01.216Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "ядеркола",
-          "comment": "Мамбл рэп. ",
-          "scoredAt": "2026-10-21T09:10:05.332Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "WhoDie",
-          "comment": "Рифмуешь солидно. Читаешь тоже добротно. Отнесись посерьёзнее к трэку на второй раунд.",
-          "scoredAt": "2026-10-21T09:07:58.633Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Trais",
-          "comment": "Всё-таки я не прозрел. Лютые паузы и глупые панчи.",
-          "scoredAt": "2026-10-21T09:06:32.190Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "MAJESTIC VI",
-          "comment": "Навалил добра, приятно слушать.\n\nКак показывает время, складывается так: \nТы ребёнок: «Скайлер истеричка»\nТы повзрослел: «Скайлер жертва»\nТы помудрел: «Скайлер в большинстве случаев была права»",
-          "scoredAt": "2026-10-21T09:03:33.328Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "PONEDELNIK",
-          "comment": "Квинт эссенция? Грошь? С такими ошибками иногда задумываешься, понимает ли сам автор вкладываемый в слова смысл.",
-          "scoredAt": "2026-10-21T08:57:46.923Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "the Niddle Drop",
-          "comment": "Очень хорошо пишешь, но флоу слишком рассказывающий. Надо доработать подачу.",
-          "scoredAt": "2026-10-21T08:53:45.981Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 3,
-          "artist": "LIL SH!",
-          "comment": "Нига, не могу всерьез воспринимать такой ужасный звук, перегруз лишний - он не добавляет никакого стиля, а просто забивает тебя к чертям. Исполнение-текст чуть ниже среднего, но такого тут мало слышал, по всем канонам я бы поставил двойку, но за попытки и старания, хочется чтобы показал что-то еще и попробовал подготовиться лучше. С большим авансом.",
-          "scoredAt": "2026-10-21T08:51:30.309Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "artist": "Monkey Boy",
-          "comment": "Технично. На пятёрку даже. ",
-          "scoredAt": "2026-10-21T08:50:01.506Z"
         }
       ]
     }
