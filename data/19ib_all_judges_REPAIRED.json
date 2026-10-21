@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T17:02:00.968Z",
+  "exportedAt": "2026-10-21T17:12:04.875Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -5139,8 +5139,14 @@
     },
     {
       "userId": "57c2d957-ad6b-4097-b3cc-d83cb404b8c8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "такой бит прикольный но рэп такое себе",
+          "scoredAt": "2026-10-21T17:06:45.008Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -5160,7 +5166,7 @@
           "scoredAt": "2026-09-30T17:37:19.918Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:22:04.182Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "anDrake",
       "artistSlug": "andrake",
@@ -11103,8 +11109,14 @@
     },
     {
       "userId": "02ed1596-c8ac-4ae0-95f1-b7d488622797",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "читает что ниче не понятно без текста. но звучит прикольно ",
+          "scoredAt": "2026-10-21T17:08:36.311Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -11130,7 +11142,7 @@
           "scoredAt": "2026-10-04T07:19:31.154Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:51:59.377Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "Макс Каст",
       "artistSlug": "maks-kast",
@@ -14158,8 +14170,14 @@
     },
     {
       "userId": "c4b2976a-a164-4278-af23-c6cb84997ca2",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "оч тривиально от читки до текста ",
+          "scoredAt": "2026-10-21T17:09:04.251Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -14179,7 +14197,7 @@
           "scoredAt": "2026-10-16T14:17:48.801Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "Barsel",
       "artistSlug": "barsel",
@@ -46287,8 +46305,14 @@
     },
     {
       "userId": "572831d2-4919-4cdb-b453-2b8a5420c629",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "слабо оч",
+          "scoredAt": "2026-10-21T17:06:05.569Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -46314,7 +46338,7 @@
           "scoredAt": "2026-09-28T08:57:58.104Z"
         }
       ],
-      "fetchedAt": "2026-10-16T15:22:38.428Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "CHICHICHONG",
       "artistSlug": "chichichong",
@@ -51822,8 +51846,14 @@
     },
     {
       "userId": "025615ab-d041-4df5-99b8-ed349d8cf64d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "андер ничем не выделяющейся ни текстом ни флоу",
+          "scoredAt": "2026-10-21T17:07:21.900Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -51849,7 +51879,7 @@
           "scoredAt": "2026-10-15T10:28:09.926Z"
         }
       ],
-      "fetchedAt": "2026-10-18T18:02:20.653Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "КИТ",
       "artistSlug": "kit",
@@ -59349,8 +59379,14 @@
     },
     {
       "userId": "007a32a3-3094-43bf-8ee3-79f6094dd3e6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "ни одной норм строчки. читает обычно",
+          "scoredAt": "2026-10-21T17:07:53.541Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -59370,7 +59406,7 @@
           "scoredAt": "2026-09-30T18:12:40.778Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:32:35.533Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "Убийца mp3",
       "artistSlug": "ubiyca-mp3",
@@ -84704,8 +84740,14 @@
     },
     {
       "userId": "bf80c5bd-a264-4c5f-8a53-dd23181432f7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "весело задорно",
+          "scoredAt": "2026-10-21T17:04:35.669Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -84725,7 +84767,7 @@
           "scoredAt": "2026-10-03T16:26:51.082Z"
         }
       ],
-      "fetchedAt": "2026-10-15T05:22:13.108Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "МЦ Лягушкин",
       "artistSlug": "mc-lyagushkin",
@@ -103539,8 +103581,14 @@
     },
     {
       "userId": "ff87e2be-ad77-4de0-9de2-8fc547fc5e1f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 5,
+          "comment": "ахаенный звук. 5 с минусом за первые четверки по рифмам и текст слабоват ",
+          "scoredAt": "2026-10-21T17:11:37.118Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 5,
@@ -103560,7 +103608,7 @@
           "scoredAt": "2026-10-16T15:03:45.603Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "Твой Спутник",
       "artistSlug": "tvoy-sputnik",
@@ -110811,8 +110859,14 @@
     },
     {
       "userId": "1991f7f1-b58a-4429-813b-e80fbe4c64fd",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "смешно. мне понравилось ",
+          "scoredAt": "2026-10-21T17:05:44.235Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -110838,7 +110892,7 @@
           "scoredAt": "2026-10-17T11:50:31.764Z"
         }
       ],
-      "fetchedAt": "2026-10-20T05:32:16.279Z",
+      "fetchedAt": "2026-10-21T17:12:04.875Z",
       "current": true,
       "artistName": "Кунимёт",
       "artistSlug": "kunimet",

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T17:02:00.968Z",
-  "exportedAt": "2026-10-21T17:02:00.968Z",
-  "runId": "2026-10-21T17:02:00.968Z",
-  "forumExportedAt": "2026-10-21T17:02:00.968Z",
+  "lastSuccessfulAt": "2026-10-21T17:12:04.875Z",
+  "exportedAt": "2026-10-21T17:12:04.875Z",
+  "runId": "2026-10-21T17:12:04.875Z",
+  "forumExportedAt": "2026-10-21T17:12:04.875Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15362,
+    "scores": 15371,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 12,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 10,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 13,
-    "durationMs": 13408,
-    "scoresBefore": 15352,
-    "scoresAfter": 15362,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 9,
+    "logicalRequests": 12,
+    "durationMs": 11903,
+    "scoresBefore": 15362,
+    "scoresAfter": 15371,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.6032956972841,
+    "requestReductionPercent": 99.63381141287763,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,69 @@
       "feed": [
         {
           "judgeName": "OttO",
+          "score": 5,
+          "artist": "Твой Спутник",
+          "comment": "ахаенный звук. 5 с минусом за первые четверки по рифмам и текст слабоват ",
+          "scoredAt": "2026-10-21T17:11:37.118Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Barsel",
+          "comment": "оч тривиально от читки до текста ",
+          "scoredAt": "2026-10-21T17:09:04.251Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "Макс Каст",
+          "comment": "читает что ниче не понятно без текста. но звучит прикольно ",
+          "scoredAt": "2026-10-21T17:08:36.311Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Убийца mp3",
+          "comment": "ни одной норм строчки. читает обычно",
+          "scoredAt": "2026-10-21T17:07:53.541Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "КИТ",
+          "comment": "андер ничем не выделяющейся ни текстом ни флоу",
+          "scoredAt": "2026-10-21T17:07:21.900Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "anDrake",
+          "comment": "такой бит прикольный но рэп такое себе",
+          "scoredAt": "2026-10-21T17:06:45.008Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "CHICHICHONG",
+          "comment": "слабо оч",
+          "scoredAt": "2026-10-21T17:06:05.569Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "Кунимёт",
+          "comment": "смешно. мне понравилось ",
+          "scoredAt": "2026-10-21T17:05:44.235Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "МЦ Лягушкин",
+          "comment": "весело задорно",
+          "scoredAt": "2026-10-21T17:04:35.669Z"
+        },
+        {
+          "judgeName": "OttO",
           "score": 3,
           "artist": "Молоко",
           "comment": "норм читает. но текст такое ",
@@ -136,69 +199,6 @@
           "artist": "FM17|FROZ",
           "comment": "пойдёт. ничем не выделяется ",
           "scoredAt": "2026-10-21T16:57:43.257Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "ig.ez",
-          "comment": "просто рассказал под бит чё то. нет ударок ",
-          "scoredAt": "2026-10-21T16:57:04.098Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "Egor Neiv",
-          "comment": "читает норм текст пойдёт но ХВАТИТ БРАТЬ ДРИЛЛ ЕСЛИ НЕ УМЕЕТЕ ЕГО ДЕЛАТЬ ",
-          "scoredAt": "2026-10-21T16:56:24.922Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "SUMRIP",
-          "comment": "ахуенно. но хочется разнообразия чутка ",
-          "scoredAt": "2026-10-21T16:53:48.057Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "kvantovaya",
-          "comment": "мдэээ. ну читать умеет ",
-          "scoredAt": "2026-10-21T16:52:57.406Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "СЫНЛУНЫ",
-          "comment": "оч слабо",
-          "scoredAt": "2026-10-21T16:51:48.733Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Называй как хочешь",
-          "comment": "слабый тексток. но рифмы норм ",
-          "scoredAt": "2026-10-21T16:51:14.752Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Частый Лодырь",
-          "comment": "зачем брать дрилл когда читаешь обычный рэп. читаешь норм ",
-          "scoredAt": "2026-10-21T16:50:28.649Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "ХАСЛА НАГИЛА",
-          "comment": "че то есть в этом но звук канеш ужас",
-          "scoredAt": "2026-10-21T16:49:43.174Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "AndreyDuh",
-          "comment": "оч слабый текст. читает обычно ",
-          "scoredAt": "2026-10-21T16:48:43.078Z"
         }
       ]
     }
