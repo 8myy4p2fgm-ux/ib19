@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T09:12:08.578Z",
+  "exportedAt": "2026-10-21T09:22:06.569Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -57708,8 +57708,14 @@
     },
     {
       "userId": "ed24ab2f-9426-4f5d-9898-9b2ab5b4362c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Ну просто средней трецк братуха.",
+          "scoredAt": "2026-10-21T09:21:40.533Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -57729,7 +57735,7 @@
           "scoredAt": "2026-10-13T13:51:52.705Z"
         }
       ],
-      "fetchedAt": "2026-10-20T00:42:03.314Z",
+      "fetchedAt": "2026-10-21T09:22:06.569Z",
       "current": true,
       "artistName": "Юрась",
       "artistSlug": "yuras",
@@ -63798,8 +63804,14 @@
     },
     {
       "userId": "1a617b40-b8ba-4c5d-84e7-63a54fd5648e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Харизматичный текст. ) Не знаю, меня прикололо. Для бэттла hhru, недостаточно уверенно все это, но тут редкий случай красоты в простоте. Если проход, то только по красной границе и с барского плеча.",
+          "scoredAt": "2026-10-21T09:15:05.113Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -63819,7 +63831,7 @@
           "scoredAt": "2026-09-25T18:23:13.665Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-21T09:22:06.569Z",
       "current": true,
       "artistName": "Илья Вайт",
       "artistSlug": "ilya-vayt",
