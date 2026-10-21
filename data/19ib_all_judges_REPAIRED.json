@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T08:31:55.586Z",
+  "exportedAt": "2026-10-21T08:51:51.014Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -25046,8 +25046,14 @@
     },
     {
       "userId": "ea1844f1-38c9-4731-b94f-eac671cf6903",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Нига, не могу всерьез воспринимать такой ужасный звук, перегруз лишний - он не добавляет никакого стиля, а просто забивает тебя к чертям. Исполнение-текст чуть ниже среднего, но такого тут мало слышал, по всем канонам я бы поставил двойку, но за попытки и старания, хочется чтобы показал что-то еще и попробовал подготовиться лучше. С большим авансом.",
+          "scoredAt": "2026-10-21T08:51:30.309Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -25073,7 +25079,7 @@
           "scoredAt": "2026-08-31T17:36:49.044Z"
         }
       ],
-      "fetchedAt": "2026-10-20T20:12:28.292Z",
+      "fetchedAt": "2026-10-21T08:51:51.014Z",
       "current": true,
       "artistName": "LIL SH!",
       "artistSlug": "lil-sh",
@@ -38447,8 +38453,14 @@
     },
     {
       "userId": "bf384e63-f04b-4181-b64b-a610f36ec3a1",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Не хватило качества и стиля, чтобы оммаж вышел достойным.",
+          "scoredAt": "2026-10-21T08:43:48.438Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -38468,7 +38480,7 @@
           "scoredAt": "2026-10-16T09:27:11.956Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T08:51:51.014Z",
       "current": true,
       "artistName": "пивной принц",
       "artistSlug": "pivnoy-princ",
@@ -75401,8 +75413,14 @@
     },
     {
       "userId": "725426d7-b01d-4d50-a0bb-6ef048b7bd92",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Технично. На пятёрку даже. ",
+          "scoredAt": "2026-10-21T08:50:01.506Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -75428,7 +75446,7 @@
           "scoredAt": "2026-09-30T10:06:55.923Z"
         }
       ],
-      "fetchedAt": "2026-10-19T10:32:10.772Z",
+      "fetchedAt": "2026-10-21T08:51:51.014Z",
       "current": true,
       "artistName": "Monkey Boy",
       "artistSlug": "monkey-boy",
@@ -114151,8 +114169,14 @@
     },
     {
       "userId": "8be1735e-5094-4339-acf7-4e386ad5ea21",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Читка топорная. Раскрытие тоже простое. С прогнозом ты ошибся. Но ладно, лови четвертак.",
+          "scoredAt": "2026-10-21T08:46:48.493Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -114178,7 +114202,7 @@
           "scoredAt": "2026-10-18T11:04:37.678Z"
         }
       ],
-      "fetchedAt": "2026-10-20T14:12:25.032Z",
+      "fetchedAt": "2026-10-21T08:51:51.014Z",
       "current": true,
       "artistName": "Danya Sley",
       "artistSlug": "danya-sley",

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T08:31:55.586Z",
-  "exportedAt": "2026-10-21T08:31:55.586Z",
-  "runId": "2026-10-21T08:31:55.586Z",
-  "forumExportedAt": "2026-10-21T08:31:55.586Z",
+  "lastSuccessfulAt": "2026-10-21T08:51:51.014Z",
+  "exportedAt": "2026-10-21T08:51:51.014Z",
+  "runId": "2026-10-21T08:51:51.014Z",
+  "forumExportedAt": "2026-10-21T08:51:51.014Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15077,
+    "scores": 15081,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 5403,
-    "scoresBefore": 15075,
-    "scoresAfter": 15077,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 6937,
+    "scoresBefore": 15077,
+    "scoresAfter": 15081,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.84732824427482,
+    "requestReductionPercent": 99.78625954198473,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "LIL SH!",
+          "comment": "Нига, не могу всерьез воспринимать такой ужасный звук, перегруз лишний - он не добавляет никакого стиля, а просто забивает тебя к чертям. Исполнение-текст чуть ниже среднего, но такого тут мало слышал, по всем канонам я бы поставил двойку, но за попытки и старания, хочется чтобы показал что-то еще и попробовал подготовиться лучше. С большим авансом.",
+          "scoredAt": "2026-10-21T08:51:30.309Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "Monkey Boy",
+          "comment": "Технично. На пятёрку даже. ",
+          "scoredAt": "2026-10-21T08:50:01.506Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Danya Sley",
+          "comment": "Читка топорная. Раскрытие тоже простое. С прогнозом ты ошибся. Но ладно, лови четвертак.",
+          "scoredAt": "2026-10-21T08:46:48.493Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "пивной принц",
+          "comment": "Не хватило качества и стиля, чтобы оммаж вышел достойным.",
+          "scoredAt": "2026-10-21T08:43:48.438Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -171,34 +199,6 @@
           "artist": "WhoDie",
           "comment": "Вторая часть затащила. Первая вообще не понравилась",
           "scoredAt": "2026-10-21T07:58:13.998Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "ARTUREZ",
-          "comment": "Много чего умеешь. На четвёрку нарычал точно. Но рифмы надо поднимать.",
-          "scoredAt": "2026-10-21T07:57:42.194Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Freezyvoice",
-          "comment": "Главное, что ты не ссышь Мизулину. Пока что)",
-          "scoredAt": "2026-10-21T07:57:25.911Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "RASON MC",
-          "comment": "Хороший стилёк, но по качеству исполнения есть куда расти.",
-          "scoredAt": "2026-10-21T07:56:14.786Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Саша Винстон",
-          "comment": "",
-          "scoredAt": "2026-10-21T07:55:33.113Z"
         }
       ]
     }
