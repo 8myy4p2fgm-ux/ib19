@@ -169742,6 +169742,76 @@
         "scoredAt": "2026-10-21T08:53:45.981Z",
         "userId": "43a85297-d94d-4036-886c-4f5d2d9169e2"
       }
+    },
+    {
+      "id": "803d56abf5801a093466e7babe3a37f6082f00529b1d3363a15b309362f4279a",
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "sourceScoredAt": "2026-10-21T09:10:05.332Z",
+      "key": "[\"4064b766-d70d-4821-b5f1-13a4b2bdf6a0\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Мамбл рэп. ",
+        "scoredAt": "2026-10-21T09:10:05.332Z",
+        "userId": "4064b766-d70d-4821-b5f1-13a4b2bdf6a0"
+      }
+    },
+    {
+      "id": "3198caeb25b01451f4922def6c0ac8dd7e6d62cfc14529ee67a278220f983de7",
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "sourceScoredAt": "2026-10-21T09:07:58.633Z",
+      "key": "[\"d3806a20-e471-452b-904f-3d9811eb0fd1\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Рифмуешь солидно. Читаешь тоже добротно. Отнесись посерьёзнее к трэку на второй раунд.",
+        "scoredAt": "2026-10-21T09:07:58.633Z",
+        "userId": "d3806a20-e471-452b-904f-3d9811eb0fd1"
+      }
+    },
+    {
+      "id": "cf606693a90c0dcd3ec00b5ec2ab6f4ea39d857670f2802068e0b5406cfc210e",
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "sourceScoredAt": "2026-10-21T09:03:33.328Z",
+      "key": "[\"275667e0-5707-4232-b3a3-57a162edde20\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Навалил добра, приятно слушать.\n\nКак показывает время, складывается так: \nТы ребёнок: «Скайлер истеричка»\nТы повзрослел: «Скайлер жертва»\nТы помудрел: «Скайлер в большинстве случаев была права»",
+        "scoredAt": "2026-10-21T09:03:33.328Z",
+        "userId": "275667e0-5707-4232-b3a3-57a162edde20"
+      }
+    },
+    {
+      "id": "11a73fa1aa7bf808db3a3963465e631e24440c356afa6f5b948d2a1104ca76f8",
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "sourceScoredAt": "2026-10-21T09:06:32.190Z",
+      "key": "[\"211447a5-6415-4b91-85ab-cf26d6bc92e8\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Всё-таки я не прозрел. Лютые паузы и глупые панчи.",
+        "scoredAt": "2026-10-21T09:06:32.190Z",
+        "userId": "211447a5-6415-4b91-85ab-cf26d6bc92e8"
+      }
+    },
+    {
+      "id": "65397ed635201641681e387c62b5133c16099c66e1fb74a1d2cac83c32ff7d98",
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "sourceScoredAt": "2026-10-21T09:12:01.216Z",
+      "key": "[\"f2701d67-064c-4ce8-adf7-767233ab0f6e\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "В лучших традициях русского ундергроунда.",
+        "scoredAt": "2026-10-21T09:12:01.216Z",
+        "userId": "f2701d67-064c-4ce8-adf7-767233ab0f6e"
+      }
     }
   ],
   "snapshots": [
@@ -183801,6 +183871,26 @@
           "index": 31.86085466915378,
           "favor": 17.988738738738746,
           "attention": 3.2054492637483722,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T09:12:08.578Z",
+      "exportedAt": "2026-10-21T09:12:08.578Z",
+      "scores": 15088,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.102246798310773,
+          "favor": 8.630735681950455,
+          "attention": 5.498457224144748,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.86760515648175,
+          "favor": 17.987850821462807,
+          "attention": 3.2130876683522755,
           "respect": 10.666666666666666
         }
       }
