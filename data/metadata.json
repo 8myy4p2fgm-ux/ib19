@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T09:22:06.569Z",
-  "exportedAt": "2026-10-21T09:22:06.569Z",
-  "runId": "2026-10-21T09:22:06.569Z",
-  "forumExportedAt": "2026-10-21T09:22:06.569Z",
+  "lastSuccessfulAt": "2026-10-21T09:32:10.046Z",
+  "exportedAt": "2026-10-21T09:32:10.046Z",
+  "runId": "2026-10-21T09:32:10.046Z",
+  "forumExportedAt": "2026-10-21T09:32:10.046Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15090,
+    "scores": 15094,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 4914,
-    "scoresBefore": 15088,
-    "scoresAfter": 15090,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 7462,
+    "scoresBefore": 15090,
+    "scoresAfter": 15094,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.84732824427482,
+    "requestReductionPercent": 99.78625954198473,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "LiviLiv",
+          "comment": "Жоско завафлил фастфлеу братуха. Зачем ты его сделал? Без него лучше было бы.",
+          "scoredAt": "2026-10-21T09:30:47.808Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "48Ронин",
+          "comment": "плэйзеэнжел типа? Ну неплохо. Глянем что дальше будет.",
+          "scoredAt": "2026-10-21T09:29:33.013Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "SHVRTVRAP",
+          "comment": "Ну бро, это одно из наиболее часто встречающихся раскрытий и не самое креативное из них. Хотя читаешь рэб наверное технично, хотя щас больше хочется живой эмцоии какой то, чем механического начитывания.",
+          "scoredAt": "2026-10-21T09:28:45.443Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Психотеатр",
+          "comment": "Есть прикольные тычке по тексту, про седину например.",
+          "scoredAt": "2026-10-21T09:23:21.848Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -171,34 +199,6 @@
           "artist": "Monkey Boy",
           "comment": "Технично. На пятёрку даже. ",
           "scoredAt": "2026-10-21T08:50:01.506Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Danya Sley",
-          "comment": "Читка топорная. Раскрытие тоже простое. С прогнозом ты ошибся. Но ладно, лови четвертак.",
-          "scoredAt": "2026-10-21T08:46:48.493Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "пивной принц",
-          "comment": "Не хватило качества и стиля, чтобы оммаж вышел достойным.",
-          "scoredAt": "2026-10-21T08:43:48.438Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "ivan supreme",
-          "comment": "Сведение отстойное, но рифмуешь и читаешь хорошо.",
-          "scoredAt": "2026-10-21T08:26:08.517Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "LuSan",
-          "comment": "Над текстом вроде постарался, но читаешь пока сыровато. За эмоциональность и проживание того, что читаешь, авансирую четвёркой, но вообще это тройка.",
-          "scoredAt": "2026-10-21T08:23:15.928Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T09:22:06.569Z",
+  "exportedAt": "2026-10-21T09:32:10.046Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -4079,8 +4079,14 @@
     },
     {
       "userId": "f4a50b5d-cee8-404c-a5c0-e8327a7a9e39",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Есть прикольные тычке по тексту, про седину например.",
+          "scoredAt": "2026-10-21T09:23:21.848Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -4100,7 +4106,7 @@
           "scoredAt": "2026-09-28T14:29:06.328Z"
         }
       ],
-      "fetchedAt": "2026-10-20T02:12:12.670Z",
+      "fetchedAt": "2026-10-21T09:32:10.046Z",
       "current": true,
       "artistName": "Психотеатр",
       "artistSlug": "psihoteatr",
@@ -65758,8 +65764,14 @@
     },
     {
       "userId": "aebee981-2f43-4f7a-b485-b6a343e33140",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "плэйзеэнжел типа? Ну неплохо. Глянем что дальше будет.",
+          "scoredAt": "2026-10-21T09:29:33.013Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -65785,7 +65797,7 @@
           "scoredAt": "2026-09-24T14:09:23.278Z"
         }
       ],
-      "fetchedAt": "2026-10-17T10:02:28.111Z",
+      "fetchedAt": "2026-10-21T09:32:10.046Z",
       "current": true,
       "artistName": "48Ронин",
       "artistSlug": "48ronin",
@@ -100242,8 +100254,14 @@
     },
     {
       "userId": "de8ee8ad-a82e-401f-8ca6-5de039dad04b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Жоско завафлил фастфлеу братуха. Зачем ты его сделал? Без него лучше было бы.",
+          "scoredAt": "2026-10-21T09:30:47.808Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -100269,7 +100287,7 @@
           "scoredAt": "2026-10-08T15:25:19.666Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T09:32:10.046Z",
       "current": true,
       "artistName": "LiviLiv",
       "artistSlug": "liviliv",
@@ -114779,8 +114797,14 @@
     },
     {
       "userId": "074260c8-7d3a-4989-af36-ded5a45a2698",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Ну бро, это одно из наиболее часто встречающихся раскрытий и не самое креативное из них. Хотя читаешь рэб наверное технично, хотя щас больше хочется живой эмцоии какой то, чем механического начитывания.",
+          "scoredAt": "2026-10-21T09:28:45.443Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -114794,7 +114818,7 @@
           "scoredAt": "2026-10-08T13:20:59.428Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T09:32:10.046Z",
       "current": true,
       "artistName": "SHVRTVRAP",
       "artistSlug": "shvrtvrap",
