@@ -173508,6 +173508,146 @@
         "scoredAt": "2026-10-21T16:51:48.733Z",
         "userId": "af6e9691-4ac5-4f7f-a2b0-265bf4ec7bd9"
       }
+    },
+    {
+      "id": "053f22505c841ac2ae0a96620685e9b0c92bf1bd2e6922e5df5e25064ca793e8",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:53:48.057Z",
+      "key": "[\"88dca1c4-f9f0-42d3-ba4c-a54f8fa46689\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "ахуенно. но хочется разнообразия чутка ",
+        "scoredAt": "2026-10-21T16:53:48.057Z",
+        "userId": "88dca1c4-f9f0-42d3-ba4c-a54f8fa46689"
+      }
+    },
+    {
+      "id": "707c18c3b4850eaa96b364c891e5c34e3b686f3ece766be00de2e4996e94b2e3",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:56:24.922Z",
+      "key": "[\"d8245dd0-21b6-428c-868b-9ddf501c5079\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "читает норм текст пойдёт но ХВАТИТ БРАТЬ ДРИЛЛ ЕСЛИ НЕ УМЕЕТЕ ЕГО ДЕЛАТЬ ",
+        "scoredAt": "2026-10-21T16:56:24.922Z",
+        "userId": "d8245dd0-21b6-428c-868b-9ddf501c5079"
+      }
+    },
+    {
+      "id": "aeb2acc2d27a47cb7b6329967240079049e230712dd2d230f21b46b0ecbaede6",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:59:08.523Z",
+      "key": "[\"a5f64a24-262b-40b2-880d-32296721428c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "легенда ",
+        "scoredAt": "2026-10-21T16:59:08.523Z",
+        "userId": "a5f64a24-262b-40b2-880d-32296721428c"
+      }
+    },
+    {
+      "id": "68d22b461ff8eb193aead76f66eb16cc125c2b3f32be7ec8101cd5da9c1ec67c",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:57:43.257Z",
+      "key": "[\"ee4267ba-1cd3-414d-b80b-6a7aa1ddf832\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "пойдёт. ничем не выделяется ",
+        "scoredAt": "2026-10-21T16:57:43.257Z",
+        "userId": "ee4267ba-1cd3-414d-b80b-6a7aa1ddf832"
+      }
+    },
+    {
+      "id": "c5eff284e1a3b15f836f31d9344c65b12fb24a5ffb6877fdd2e4be544261d847",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:59:35.557Z",
+      "key": "[\"45f93a54-c481-4286-b576-5e8d5715f743\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "начало думал будет куча панчей но увы",
+        "scoredAt": "2026-10-21T16:59:35.557Z",
+        "userId": "45f93a54-c481-4286-b576-5e8d5715f743"
+      }
+    },
+    {
+      "id": "f8f83ddafb0e47e1ad678fe1fe45f9857903f2cdc86c6b185548b7c93b722a4b",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:57:04.098Z",
+      "key": "[\"acb7209a-ef5f-497c-98e0-238cffbb08f8\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "просто рассказал под бит чё то. нет ударок ",
+        "scoredAt": "2026-10-21T16:57:04.098Z",
+        "userId": "acb7209a-ef5f-497c-98e0-238cffbb08f8"
+      }
+    },
+    {
+      "id": "c484e6e291ab762c8d6810a4812bfd5058baf06c5dee5739ed725dae1fc7204d",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T17:01:26.612Z",
+      "key": "[\"ab16f1d2-0227-4f03-930d-822784130d91\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "норм читает. но текст такое ",
+        "scoredAt": "2026-10-21T17:01:26.612Z",
+        "userId": "ab16f1d2-0227-4f03-930d-822784130d91"
+      }
+    },
+    {
+      "id": "983f26be4bb753f89a58833f0286384045271adabb3472a8af84217b74930137",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:52:57.406Z",
+      "key": "[\"c3db191d-deae-426f-89d8-ead83af1a0d1\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "мдэээ. ну читать умеет ",
+        "scoredAt": "2026-10-21T16:52:57.406Z",
+        "userId": "c3db191d-deae-426f-89d8-ead83af1a0d1"
+      }
+    },
+    {
+      "id": "a84202efc035f628b81d93ba9e62b67b6540a128da422006553dd777ddce17b2",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T17:00:14.532Z",
+      "key": "[\"7629c690-4433-4aff-b26e-1face8e3cec5\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "нормально читает. ",
+        "scoredAt": "2026-10-21T17:00:14.532Z",
+        "userId": "7629c690-4433-4aff-b26e-1face8e3cec5"
+      }
+    },
+    {
+      "id": "8ec647445fb4e947c657f9fd21252568c20b625393bf1db66f37a216052072b0",
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "sourceScoredAt": "2026-10-21T16:58:43.219Z",
+      "key": "[\"c5393707-362e-4b06-adb8-216c361eff1d\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "джиган красава) просто какие то канаты бермудские квадраты оч странно ",
+        "scoredAt": "2026-10-21T16:58:43.219Z",
+        "userId": "c5393707-362e-4b06-adb8-216c361eff1d"
+      }
     }
   ],
   "snapshots": [
@@ -188287,6 +188427,26 @@
           "index": 31.482300918105814,
           "favor": 17.879956104503286,
           "attention": 3.0045187266460043,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T17:02:00.968Z",
+      "exportedAt": "2026-10-21T17:02:00.968Z",
+      "scores": 15362,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.420066405725304,
+          "favor": 8.681975052765678,
+          "attention": 5.755948495816768,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.494941157139706,
+          "favor": 17.884104617423286,
+          "attention": 3.0130104527598953,
           "respect": 10.597826086956522
         }
       }

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T16:52:17.170Z",
-  "exportedAt": "2026-10-21T16:52:17.170Z",
-  "runId": "2026-10-21T16:52:17.170Z",
-  "forumExportedAt": "2026-10-21T16:52:17.170Z",
+  "lastSuccessfulAt": "2026-10-21T17:02:00.968Z",
+  "exportedAt": "2026-10-21T17:02:00.968Z",
+  "runId": "2026-10-21T17:02:00.968Z",
+  "forumExportedAt": "2026-10-21T17:02:00.968Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15352,
+    "scores": 15362,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 14,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 11,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 11,
-    "changedParticipants": 11,
-    "logicalRequests": 14,
-    "durationMs": 13939,
-    "scoresBefore": 15341,
-    "scoresAfter": 15352,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 13,
+    "durationMs": 13408,
+    "scoresBefore": 15352,
+    "scoresAfter": 15362,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.57277998169057,
+    "requestReductionPercent": 99.6032956972841,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,76 @@
       "feed": [
         {
           "judgeName": "OttO",
+          "score": 3,
+          "artist": "Молоко",
+          "comment": "норм читает. но текст такое ",
+          "scoredAt": "2026-10-21T17:01:26.612Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "Чайка Ленина",
+          "comment": "нормально читает. ",
+          "scoredAt": "2026-10-21T17:00:14.532Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "обналон",
+          "comment": "начало думал будет куча панчей но увы",
+          "scoredAt": "2026-10-21T16:59:35.557Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "новокрест",
+          "comment": "легенда ",
+          "scoredAt": "2026-10-21T16:59:08.523Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Христофор Бонифатьевич",
+          "comment": "джиган красава) просто какие то канаты бермудские квадраты оч странно ",
+          "scoredAt": "2026-10-21T16:58:43.219Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "FM17|FROZ",
+          "comment": "пойдёт. ничем не выделяется ",
+          "scoredAt": "2026-10-21T16:57:43.257Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "ig.ez",
+          "comment": "просто рассказал под бит чё то. нет ударок ",
+          "scoredAt": "2026-10-21T16:57:04.098Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "Egor Neiv",
+          "comment": "читает норм текст пойдёт но ХВАТИТ БРАТЬ ДРИЛЛ ЕСЛИ НЕ УМЕЕТЕ ЕГО ДЕЛАТЬ ",
+          "scoredAt": "2026-10-21T16:56:24.922Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "SUMRIP",
+          "comment": "ахуенно. но хочется разнообразия чутка ",
+          "scoredAt": "2026-10-21T16:53:48.057Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "kvantovaya",
+          "comment": "мдэээ. ну читать умеет ",
+          "scoredAt": "2026-10-21T16:52:57.406Z"
+        },
+        {
+          "judgeName": "OttO",
           "score": 2,
           "artist": "СЫНЛУНЫ",
           "comment": "оч слабо",
@@ -129,76 +199,6 @@
           "artist": "AndreyDuh",
           "comment": "оч слабый текст. читает обычно ",
           "scoredAt": "2026-10-21T16:48:43.078Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Метроном",
-          "comment": "многоточие уже не те ",
-          "scoredAt": "2026-10-21T16:47:41.951Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 1,
-          "artist": "Том Сойер",
-          "comment": "ниче не слышу ",
-          "scoredAt": "2026-10-21T16:47:25.024Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "неронимэ[нибэнимэ]",
-          "comment": "панчей бы добавить. читает хорошо ",
-          "scoredAt": "2026-10-21T16:47:10.311Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "Helli",
-          "comment": "прикольно. прехук классный. но текст такое ",
-          "scoredAt": "2026-10-21T16:46:11.373Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Дима Грязный [ЧБ]",
-          "comment": "тривиальное раскрытие. текст не цепанул. читает скучно",
-          "scoredAt": "2026-10-21T16:44:56.676Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "unlimru",
-          "comment": "душновато. но чё то есть в этом. ",
-          "scoredAt": "2026-10-21T16:44:16.791Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "цамма",
-          "comment": "Речь грамотна, лексикон богатый – видно, что текст интеллектуален, но вместе с тем по рифмовке часто некачественные штуки (квадраты, ассонансы), то есть, впечатление от текста не строго положительное. Но главный просед в исполнении, это очень неуверенно, невыразительно, тихо читаешь, да и скорее даже не читаешь, а зачастую проговариваешь.",
-          "scoredAt": "2026-10-21T16:31:25.154Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "АРОМАМАСЛАВ",
-          "comment": "Местами Лучника напомнил, в целом прикольно, звучишь уверенно. Есть бородатые панчи, есть гуд, рифмы тоже разного качества. Текстово неровная работа, короче.",
-          "scoredAt": "2026-10-21T16:27:30.633Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "PANIKA!",
-          "comment": "Очень сухой голос, без обработки будто. Повторения строки в конце лишние, минуту нужно использовать эффективнее.",
-          "scoredAt": "2026-10-21T15:56:59.069Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Максим Прометазин",
-          "comment": "Так что там было у акулиста-то?",
-          "scoredAt": "2026-10-21T15:55:17.764Z"
         }
       ]
     }
