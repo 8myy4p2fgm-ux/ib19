@@ -18,8 +18,8 @@ const server=http.createServer(async(req,res)=>{
 await new Promise(r=>server.listen(0,'127.0.0.1',r));
 const base='http://127.0.0.1:'+server.address().port;
 const D=normalizeData(JSON.parse(await fs.readFile('data/19ib_all_judges_REPAIRED.json')),JSON.parse(await fs.readFile('data/forum_judges_export.json')));
-const stats={pass:0,fail:0,pending:0},buckets=Array(6).fill(0);
-for(const p of D.people){stats[participantStatus(p[3]).status]++;buckets[Math.min(5,p[3].length)]++;}
+const stats={pass:0,fail:0,pending:0},buckets=D.ratingsReport.buckets;
+for(const p of D.people){stats[participantStatus(p[3]).status]++;}
 const number=t=>Number(t.replace(/[^\d,−-]/g,'').replace(',','.').replace('−','-'));
 const browser=await chromium.launch({headless:true});
 const errors=[];
@@ -100,9 +100,9 @@ try{
   assert.ok(await page.locator('.app').isVisible());
   assert.equal(number(await page.locator('#home-total-size').textContent()),D.people.length);
   for(const [key,id] of [['pass','passed'],['fail','failed'],['pending','pending']])assert.equal(number(await page.locator('#home-total-'+id).evaluate(e=>e.firstChild.textContent)),stats[key]);
-  const values=await page.locator('#home-ratings-list strong').allTextContents();assert.equal(values.length,6);
-  values.forEach((v,i)=>{assert.equal(number(v.split('(')[0]),buckets[i]);assert.equal(number(v.split('(')[1]),Number((100*buckets[i]/D.people.length).toFixed(1)));});
-  assert.equal(buckets.reduce((a,b)=>a+b,0),D.people.length);
+  const values=await page.locator('#home-ratings-list strong').allTextContents();assert.equal(values.length,buckets.length);
+  values.forEach((v,i)=>{assert.equal(number(v.split('(')[0]),buckets[i]);assert.equal(number(v.split('(')[1]),Number((100*buckets[i]/D.ratingsReport.total).toFixed(1)));});
+  assert.equal(buckets.reduce((a,b)=>a+b,0),D.ratingsReport.total);
   const decided=stats.pass+stats.fail;
   assert.equal(number(await page.locator('#home-position-pass-label').textContent()),Number((100*stats.pass/decided).toFixed(1)));
   assert.equal(number(await page.locator('#home-position-fail-label').textContent()),Number((100*stats.fail/decided).toFixed(1)));
