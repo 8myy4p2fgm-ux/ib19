@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T02:12:01.181Z",
+  "exportedAt": "2026-10-21T02:22:01.102Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -103547,8 +103547,14 @@
     },
     {
       "userId": "275667e0-5707-4232-b3a3-57a162edde20",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Сори родной, но прям не по мне ритмика и этот вайб антитехничный\nПроход должен быть, но не хватило твоих скилов ",
+          "scoredAt": "2026-10-21T02:21:46.417Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -103568,7 +103574,7 @@
           "scoredAt": "2026-10-09T23:31:38.831Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:12:32.505Z",
+      "fetchedAt": "2026-10-21T02:22:01.102Z",
       "current": true,
       "artistName": "MAJESTIC VI",
       "artistSlug": "majestic-vi",
