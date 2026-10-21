@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T17:22:20.230Z",
-  "exportedAt": "2026-10-21T17:22:20.230Z",
-  "runId": "2026-10-21T17:22:20.230Z",
-  "forumExportedAt": "2026-10-21T17:22:20.230Z",
+  "lastSuccessfulAt": "2026-10-21T17:32:11.520Z",
+  "exportedAt": "2026-10-21T17:32:11.520Z",
+  "runId": "2026-10-21T17:32:11.520Z",
+  "forumExportedAt": "2026-10-21T17:32:11.520Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15388,
+    "scores": 15396,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 21,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 17,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 17,
-    "changedParticipants": 16,
-    "logicalRequests": 21,
-    "durationMs": 21314,
-    "scoresBefore": 15371,
-    "scoresAfter": 15388,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 11,
+    "durationMs": 10674,
+    "scoresBefore": 15388,
+    "scoresAfter": 15396,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.35916997253585,
+    "requestReductionPercent": 99.66432712847116,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,69 @@
       "feed": [
         {
           "judgeName": "OttO",
+          "score": 5,
+          "artist": "кукиш с хаслом",
+          "comment": "ну это топ рэп просто. 5 с минусом бро за сведение ",
+          "scoredAt": "2026-10-21T17:30:24.633Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "Отец Павел",
+          "comment": "СПАСИБО ЗА ПОЗИЦИЮ ",
+          "scoredAt": "2026-10-21T17:28:45.280Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "Хоббит Нурмагогэндальф",
+          "comment": "прикольно вроде по мысли. но не оч по рэпу ",
+          "scoredAt": "2026-10-21T17:28:18.072Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "ЭмоГотка2007",
+          "comment": "ниче не понял ",
+          "scoredAt": "2026-10-21T17:26:47.828Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "IgoRacks",
+          "comment": "баяны строчки и никакого флоу ",
+          "scoredAt": "2026-10-21T17:26:36.718Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "иссиня",
+          "comment": "слабый рэпчик. ",
+          "scoredAt": "2026-10-21T17:26:10.775Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "Elpako",
+          "comment": "мысль понял. рэп скучноватый ",
+          "scoredAt": "2026-10-21T17:23:07.070Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "ВсемYoYo",
+          "comment": "слабый рэп",
+          "scoredAt": "2026-10-21T17:22:32.656Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "Саша Нгуен",
+          "comment": "текст слабый. рифмы классные. читает хорошо ",
+          "scoredAt": "2026-10-21T17:22:05.396Z"
+        },
+        {
+          "judgeName": "OttO",
           "score": 2,
           "artist": "߬߹  SeYTi   ߬߹",
           "comment": "АХУЕННО",
@@ -136,69 +199,6 @@
           "artist": "HexeKill",
           "comment": "легенда",
           "scoredAt": "2026-10-21T17:19:11.646Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "BOOMzhick",
-          "comment": "тренируемся писать текст",
-          "scoredAt": "2026-10-21T17:18:56.781Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Финти",
-          "comment": "страшно ",
-          "scoredAt": "2026-10-21T17:18:21.708Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "mwooo.",
-          "comment": "прикольно. рифмы классные. ударок не хватает ",
-          "scoredAt": "2026-10-21T17:17:55.171Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "EZ Vibe",
-          "comment": "прикольно но панчей бы ",
-          "scoredAt": "2026-10-21T17:17:01.782Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "YNG SULLA",
-          "comment": "грязный луи разлогинься. слабо ",
-          "scoredAt": "2026-10-21T17:16:06.189Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Cringenaringe",
-          "comment": "слабо ",
-          "scoredAt": "2026-10-21T17:15:37.375Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "artist": "polneba",
-          "comment": "звучит прикольно но идти ко дну и маршрут парашют за это ругать буду. халтурно ",
-          "scoredAt": "2026-10-21T17:14:55.714Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "PИNKMЭN",
-          "comment": "легенда ",
-          "scoredAt": "2026-10-21T17:13:42.318Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Могавк",
-          "comment": "оч слабо ",
-          "scoredAt": "2026-10-21T17:13:18.116Z"
         }
       ]
     }

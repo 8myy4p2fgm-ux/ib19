@@ -174012,6 +174012,118 @@
         "scoredAt": "2026-10-21T17:20:20.391Z",
         "userId": "2de3f36b-a9e9-4d46-b636-18d76fb78eb3"
       }
+    },
+    {
+      "id": "5bf7262d9bfed907b4167ffecfbe53347d19f9b7e82804f3eeba4c1526b6dc3b",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:28:45.280Z",
+      "key": "[\"b5c42720-7852-4cba-b198-fa65a31b4025\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "СПАСИБО ЗА ПОЗИЦИЮ ",
+        "scoredAt": "2026-10-21T17:28:45.280Z",
+        "userId": "b5c42720-7852-4cba-b198-fa65a31b4025"
+      }
+    },
+    {
+      "id": "c4f30cce328aeba37db0970e68cbf4c0dc2ba877955236c58388dd13b81d7f9d",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:26:47.828Z",
+      "key": "[\"6b460f9b-3f31-472a-8a0f-0cbd2c2b5826\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "ниче не понял ",
+        "scoredAt": "2026-10-21T17:26:47.828Z",
+        "userId": "6b460f9b-3f31-472a-8a0f-0cbd2c2b5826"
+      }
+    },
+    {
+      "id": "bba3283b9a1a75327416f48f55bad57a8e228a0e21ff787bac34946baad0d34a",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:26:10.775Z",
+      "key": "[\"47851a75-b279-4e06-9ccb-698e4e2e5777\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабый рэпчик. ",
+        "scoredAt": "2026-10-21T17:26:10.775Z",
+        "userId": "47851a75-b279-4e06-9ccb-698e4e2e5777"
+      }
+    },
+    {
+      "id": "bd41a5e04b0b0cb562ea9fe1b6b9dfdfbeded1ad04858a663d8851d32240fb8e",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:28:18.072Z",
+      "key": "[\"9fd37409-da07-4208-98fd-ff9d315fef09\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "прикольно вроде по мысли. но не оч по рэпу ",
+        "scoredAt": "2026-10-21T17:28:18.072Z",
+        "userId": "9fd37409-da07-4208-98fd-ff9d315fef09"
+      }
+    },
+    {
+      "id": "a6025776d5c34da432e50f9b9309698c61f29ee7b46de8b0b7e47126dc3e6ae3",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:26:36.718Z",
+      "key": "[\"573b69ed-38ad-4557-a44b-34e3dd90fa42\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "баяны строчки и никакого флоу ",
+        "scoredAt": "2026-10-21T17:26:36.718Z",
+        "userId": "573b69ed-38ad-4557-a44b-34e3dd90fa42"
+      }
+    },
+    {
+      "id": "927f3cc6f1d0c3a4542fe10a2188fe13b0cabb0aeb0d264d18f96730d40a9577",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:22:32.656Z",
+      "key": "[\"d3d84033-14c8-4b4a-928c-7c351154cab3\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабый рэп",
+        "scoredAt": "2026-10-21T17:22:32.656Z",
+        "userId": "d3d84033-14c8-4b4a-928c-7c351154cab3"
+      }
+    },
+    {
+      "id": "63d03102b2cbd3d9b57b5191359062a1bb9c018df131c6ded22b589d03a1f6ec",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:30:24.633Z",
+      "key": "[\"2fb193b6-423c-48fb-8212-826d2f1b2225\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 5,
+        "comment": "ну это топ рэп просто. 5 с минусом бро за сведение ",
+        "scoredAt": "2026-10-21T17:30:24.633Z",
+        "userId": "2fb193b6-423c-48fb-8212-826d2f1b2225"
+      }
+    },
+    {
+      "id": "9895ff465c114d00e786adf4c6e66b7d815db3a60877eb5d483e40fcafe154ef",
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "sourceScoredAt": "2026-10-21T17:23:07.070Z",
+      "key": "[\"ba248149-aee3-42ca-a231-594093b4bc37\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "мысль понял. рэп скучноватый ",
+        "scoredAt": "2026-10-21T17:23:07.070Z",
+        "userId": "ba248149-aee3-42ca-a231-594093b4bc37"
+      }
     }
   ],
   "snapshots": [
@@ -188851,6 +188963,26 @@
           "index": 31.53247097294559,
           "favor": 17.89958660014255,
           "attention": 3.0350582858465187,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T17:32:11.520Z",
+      "exportedAt": "2026-10-21T17:32:11.520Z",
+      "scores": 15396,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.479170523617444,
+          "favor": 8.702333523050651,
+          "attention": 5.794694143423936,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.543923477972726,
+          "favor": 17.904264049650358,
+          "attention": 3.041833341365849,
           "respect": 10.597826086956522
         }
       }
