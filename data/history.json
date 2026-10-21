@@ -172038,6 +172038,258 @@
         "scoredAt": "2026-10-21T14:04:58.204Z",
         "userId": "4e38b98a-0947-4ab4-b90f-d8434b3ba873"
       }
+    },
+    {
+      "id": "b2d6ff854e66aac2018bd84c3265f8b0885489f2c1ab251b013093f21169bec1",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:27:22.600Z",
+      "key": "[\"67f88826-3890-467d-91e1-3f90f039e3a8\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Я крайне удивлён столь слабой заявке от тебя, треки на Бриз-6 в начале года был гораздо менее тривиальными. Тут и спето плохо, и обилие квадратов, и содержание примитивнее. Просыпайся во втором)",
+        "scoredAt": "2026-10-21T14:27:22.600Z",
+        "userId": "67f88826-3890-467d-91e1-3f90f039e3a8"
+      }
+    },
+    {
+      "id": "9f3944bc20d489672f98b06ab87bbe885b26ae91d8a7f6ec63bdc72e543b29fa",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:27:31.750Z",
+      "key": "[\"874ae8a4-6e45-455c-a037-16dcee1ca6c5\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "текст слабый. исполнено норм",
+        "scoredAt": "2026-10-21T14:27:31.750Z",
+        "userId": "874ae8a4-6e45-455c-a037-16dcee1ca6c5"
+      }
+    },
+    {
+      "id": "a1ccd0f852cedbece25e45aac7acb738f03bbd6376d01030350ae5e55b0af686",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:25:57.177Z",
+      "key": "[\"65a2df13-a200-48ca-bd26-9c3017d85964\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Уверенный среднячковый трек. Местами такую хуйню на райминг навалил жесь)",
+        "scoredAt": "2026-10-21T14:25:57.177Z",
+        "userId": "65a2df13-a200-48ca-bd26-9c3017d85964"
+      }
+    },
+    {
+      "id": "dfc8835b5bbbdb2123b0d5a01765d675f150dedf03ed2027bd1d2bc9917ace68",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:25:47.281Z",
+      "key": "[\"a401b9bd-4a8c-4b12-830b-26e6e6e80b00\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "4 с минусом. текста не хватило исполнено хорошо ",
+        "scoredAt": "2026-10-21T14:25:47.281Z",
+        "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00"
+      }
+    },
+    {
+      "id": "107e1e789699d8c3886e27a857f4fa776956182bfdad57d78f38210a7aeeafad",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:21:10.278Z",
+      "key": "[\"41f8b03c-7546-404c-94b0-6688e2b69f77\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "это че за ломанная ритмика ахахах.",
+        "scoredAt": "2026-10-21T14:21:10.278Z",
+        "userId": "41f8b03c-7546-404c-94b0-6688e2b69f77"
+      }
+    },
+    {
+      "id": "e54a7ddb4e8a9c15a60b1dad85ebe55fc45ac023f758cbe799ae7a20ebab0e3a",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:16:10.752Z",
+      "key": "[\"26e51249-b25c-45d8-abf2-5fc18330d4b9\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо",
+        "scoredAt": "2026-10-21T14:16:10.752Z",
+        "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9"
+      }
+    },
+    {
+      "id": "5e355991da57f5fbb7af3fd24f836c82568c3096b135566bde08cbe68a47d6fb",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:13:58.741Z",
+      "key": "[\"9b5dc727-291a-4df7-a7dd-080cef034e04\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "все слабо оч ",
+        "scoredAt": "2026-10-21T14:13:58.741Z",
+        "userId": "9b5dc727-291a-4df7-a7dd-080cef034e04"
+      }
+    },
+    {
+      "id": "7863e95c6186ae5faec394d9b4c44d8c85971d345aaab0f32a363c1405f5fb6a",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:15:13.383Z",
+      "key": "[\"7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 1,
+        "comment": "топ",
+        "scoredAt": "2026-10-21T14:15:13.383Z",
+        "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec"
+      }
+    },
+    {
+      "id": "8d8374df3fccfc2d1968c8a526014cc50240dcf883b675076fb9e8605af64f8b",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:12:51.082Z",
+      "key": "[\"d5b7ae6a-c772-4b02-8119-275cdee22e50\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "текст и рифмы слабо все ",
+        "scoredAt": "2026-10-21T14:12:51.082Z",
+        "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50"
+      }
+    },
+    {
+      "id": "7ee20e88e3dcfc874db5410fba40e1905a7cd77f2eabb85a022cf2264685d83b",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:13:25.053Z",
+      "key": "[\"4d50a36a-d60b-468d-9c36-115e0aea67f2\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "звук текст не оч. за рифмы 3 с минусом ",
+        "scoredAt": "2026-10-21T14:13:25.053Z",
+        "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2"
+      }
+    },
+    {
+      "id": "7162f4a437e4c33aa9d07aff014f8dfee7091645c51f40f0b7c869032059cc60",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:24:04.173Z",
+      "key": "[\"e7749219-6f4d-43ed-bb57-a71cd6dd0cda\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "хорош. на бамбла в куплете немного похож. сведения не хватило ",
+        "scoredAt": "2026-10-21T14:24:04.173Z",
+        "userId": "e7749219-6f4d-43ed-bb57-a71cd6dd0cda"
+      }
+    },
+    {
+      "id": "f9690a82f63075a2bd385ee392a6a98cfea6dfd8e8ca3cb0e9521ef7435a2e38",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:12:16.601Z",
+      "key": "[\"3a3e009f-1093-4205-807a-4ee217164fe4\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "рифмы ужас иногда но строчки норм есть",
+        "scoredAt": "2026-10-21T14:12:16.601Z",
+        "userId": "3a3e009f-1093-4205-807a-4ee217164fe4"
+      }
+    },
+    {
+      "id": "63cb549b7b7383f06e17651e83dcbcf717bc9f6b277025df9620ca33c1083009",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:28:00.196Z",
+      "key": "[\"af5cac5d-fc1a-4202-a7d0-55f1f36921e8\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Слушай испонено норм, звучек такой лоуки домино что ли.. Не хватает в техте якоря какого-то, нарратива, или панчлайнов. Ну короче работы с техтом не хватает. Нужно уплотнять свою работу либо нарративностью песни, сюжетом, либо качеством и колличеством панчлайнов. Как то так.",
+        "scoredAt": "2026-10-21T14:28:00.196Z",
+        "userId": "af5cac5d-fc1a-4202-a7d0-55f1f36921e8"
+      }
+    },
+    {
+      "id": "c92a9ade9a368f7ee1598b84b1cdc4179afc149d83547895431765fd9c45d9f0",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:17:13.430Z",
+      "key": "[\"af2de241-f261-4fd1-be8a-d1267386e712\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "оооооч плохо ",
+        "scoredAt": "2026-10-21T14:17:13.430Z",
+        "userId": "af2de241-f261-4fd1-be8a-d1267386e712"
+      }
+    },
+    {
+      "id": "a28c8dc4d33f90b7b3e193c5e721e58cc4852f1b52eb43f0c2c297980c7e2f25",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:24:49.372Z",
+      "key": "[\"35dae5d1-6714-4e51-aff5-d67940cdf6b3\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T14:24:49.372Z",
+        "userId": "35dae5d1-6714-4e51-aff5-d67940cdf6b3"
+      }
+    },
+    {
+      "id": "74ce6bb118b235a8778a39321147850036d9f6c30e86d09b202d356bacdf380a",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:23:35.538Z",
+      "key": "[\"89a637bb-c415-45f6-94af-86f1c0f8526e\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Неплохо друг. Даже местами прикольно. Но все таки не хватило какой то идейности, или сильного техта. Чего то содержательно, пон?",
+        "scoredAt": "2026-10-21T14:23:35.538Z",
+        "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e"
+      }
+    },
+    {
+      "id": "345d70f566feef3b2c9886d4a92fdae7e1f142d702c376b1f74a056cdac5549b",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:14:56.761Z",
+      "key": "[\"d9ab04e6-7fd3-47cc-9468-26e66d9c02e0\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "легенда  смешно ",
+        "scoredAt": "2026-10-21T14:14:56.761Z",
+        "userId": "d9ab04e6-7fd3-47cc-9468-26e66d9c02e0"
+      }
+    },
+    {
+      "id": "8aa0dfd57fa9680b69291b565ababb73f19156d52cdfda52c472f10d261d6558",
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "sourceScoredAt": "2026-10-21T14:22:09.017Z",
+      "key": "[\"71e20d8b-fef8-4bef-a689-f958935095cb\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Слушай, хорошо!",
+        "scoredAt": "2026-10-21T14:22:09.017Z",
+        "userId": "71e20d8b-fef8-4bef-a689-f958935095cb"
+      }
     }
   ],
   "snapshots": [
@@ -186577,6 +186829,26 @@
           "index": 31.873422664569276,
           "favor": 17.963357916126544,
           "attention": 3.266682395501553,
+          "respect": 10.643382352941176
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T14:28:07.421Z",
+      "exportedAt": "2026-10-21T14:28:07.421Z",
+      "scores": 15265,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.290008122371763,
+          "favor": 8.678734103327177,
+          "attention": 5.629131161901728,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.892308976451794,
+          "favor": 17.970286419148266,
+          "attention": 3.2786402043623504,
           "respect": 10.643382352941176
         }
       }

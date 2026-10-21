@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T14:12:12.538Z",
+  "exportedAt": "2026-10-21T14:28:07.421Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -795,8 +795,14 @@
     },
     {
       "userId": "67f88826-3890-467d-91e1-3f90f039e3a8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Я крайне удивлён столь слабой заявке от тебя, треки на Бриз-6 в начале года был гораздо менее тривиальными. Тут и спето плохо, и обилие квадратов, и содержание примитивнее. Просыпайся во втором)",
+          "scoredAt": "2026-10-21T14:27:22.600Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -822,7 +828,7 @@
           "scoredAt": "2026-10-03T09:23:34.982Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:12:14.197Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "PiJack MC",
       "artistSlug": "pijack-mc",
@@ -11044,8 +11050,14 @@
     },
     {
       "userId": "874ae8a4-6e45-455c-a037-16dcee1ca6c5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "текст слабый. исполнено норм",
+          "scoredAt": "2026-10-21T14:27:31.750Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -11071,7 +11083,7 @@
           "scoredAt": "2026-09-29T07:36:58.497Z"
         }
       ],
-      "fetchedAt": "2026-10-20T16:02:12.747Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "IVAN WATS",
       "artistSlug": "ivan-wats",
@@ -22680,8 +22692,14 @@
     },
     {
       "userId": "65a2df13-a200-48ca-bd26-9c3017d85964",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Уверенный среднячковый трек. Местами такую хуйню на райминг навалил жесь)",
+          "scoredAt": "2026-10-21T14:25:57.177Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -22701,7 +22719,7 @@
           "scoredAt": "2026-10-15T14:05:22.365Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:21:58.091Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "ixoma",
       "artistSlug": "ixoma",
@@ -46277,8 +46295,14 @@
     },
     {
       "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "4 с минусом. текста не хватило исполнено хорошо ",
+          "scoredAt": "2026-10-21T14:25:47.281Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -46298,7 +46322,7 @@
           "scoredAt": "2026-10-06T17:00:36.594Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:52:16.127Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "DOPOZDNA",
       "artistSlug": "dopozdna",
@@ -48160,8 +48184,14 @@
     },
     {
       "userId": "41f8b03c-7546-404c-94b0-6688e2b69f77",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "это че за ломанная ритмика ахахах.",
+          "scoredAt": "2026-10-21T14:21:10.278Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -48187,7 +48217,7 @@
           "scoredAt": "2026-10-01T16:53:34.739Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:22:27.536Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Иван Силва",
       "artistSlug": "ivan-silva",
@@ -63029,8 +63059,14 @@
     },
     {
       "userId": "26e51249-b25c-45d8-abf2-5fc18330d4b9",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "слабо",
+          "scoredAt": "2026-10-21T14:16:10.752Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -63056,7 +63092,7 @@
           "scoredAt": "2026-10-13T14:08:30.883Z"
         }
       ],
-      "fetchedAt": "2026-10-20T03:52:16.311Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Yudzhin Maze",
       "artistSlug": "yudzhin-maze",
@@ -80935,8 +80971,14 @@
     },
     {
       "userId": "9b5dc727-291a-4df7-a7dd-080cef034e04",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "все слабо оч ",
+          "scoredAt": "2026-10-21T14:13:58.741Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -80950,7 +80992,7 @@
           "scoredAt": "2026-10-16T16:33:33.053Z"
         }
       ],
-      "fetchedAt": "2026-10-17T05:42:02.065Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "ДаНахапан",
       "artistSlug": "danahapan",
@@ -87543,8 +87585,14 @@
     },
     {
       "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 1,
+          "comment": "топ",
+          "scoredAt": "2026-10-21T14:15:13.383Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -87558,7 +87606,7 @@
           "scoredAt": "2026-10-16T17:59:55.303Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:02:12.306Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Сергей Драколов",
       "artistSlug": "sergey-drakolov",
@@ -88115,8 +88163,14 @@
     },
     {
       "userId": "d5b7ae6a-c772-4b02-8119-275cdee22e50",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "текст и рифмы слабо все ",
+          "scoredAt": "2026-10-21T14:12:51.082Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -88142,7 +88196,7 @@
           "scoredAt": "2026-10-16T00:13:02.530Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "СТРАННЫЙ",
       "artistSlug": "strannyy",
@@ -103322,8 +103376,14 @@
     },
     {
       "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "звук текст не оч. за рифмы 3 с минусом ",
+          "scoredAt": "2026-10-21T14:13:25.053Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -103349,7 +103409,7 @@
           "scoredAt": "2026-10-16T16:49:23.620Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:12:17.280Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Купэт",
       "artistSlug": "kupet",
@@ -105438,8 +105498,14 @@
     },
     {
       "userId": "e7749219-6f4d-43ed-bb57-a71cd6dd0cda",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "хорош. на бамбла в куплете немного похож. сведения не хватило ",
+          "scoredAt": "2026-10-21T14:24:04.173Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -105459,7 +105525,7 @@
           "scoredAt": "2026-10-18T23:04:39.166Z"
         }
       ],
-      "fetchedAt": "2026-10-19T22:12:23.402Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "BARKHAN",
       "artistSlug": "barkhan",
@@ -108118,8 +108184,14 @@
     },
     {
       "userId": "3a3e009f-1093-4205-807a-4ee217164fe4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "рифмы ужас иногда но строчки норм есть",
+          "scoredAt": "2026-10-21T14:12:16.601Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -108145,7 +108217,7 @@
           "scoredAt": "2026-10-14T20:27:55.479Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Franklin_Keyn",
       "artistSlug": "franklin-keyn",
@@ -110668,8 +110740,14 @@
     },
     {
       "userId": "af5cac5d-fc1a-4202-a7d0-55f1f36921e8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Слушай испонено норм, звучек такой лоуки домино что ли.. Не хватает в техте якоря какого-то, нарратива, или панчлайнов. Ну короче работы с техтом не хватает. Нужно уплотнять свою работу либо нарративностью песни, сюжетом, либо качеством и колличеством панчлайнов. Как то так.",
+          "scoredAt": "2026-10-21T14:28:00.196Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -110695,7 +110773,7 @@
           "scoredAt": "2026-09-30T11:09:41.133Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:32:21.025Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "ЧЕШИР",
       "artistSlug": "cheshir",
@@ -110826,8 +110904,14 @@
     },
     {
       "userId": "af2de241-f261-4fd1-be8a-d1267386e712",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "оооооч плохо ",
+          "scoredAt": "2026-10-21T14:17:13.430Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -110841,7 +110925,7 @@
           "scoredAt": "2026-10-10T12:42:37.846Z"
         }
       ],
-      "fetchedAt": "2026-10-18T09:02:10.456Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "Арц",
       "artistSlug": "arc",
@@ -111030,8 +111114,14 @@
     },
     {
       "userId": "35dae5d1-6714-4e51-aff5-d67940cdf6b3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T14:24:49.372Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -111057,7 +111147,7 @@
           "scoredAt": "2026-10-12T16:37:25.317Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:22:26.953Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "sailor_zee",
       "artistSlug": "sailor-zee",
@@ -117403,8 +117493,14 @@
     },
     {
       "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Неплохо друг. Даже местами прикольно. Но все таки не хватило какой то идейности, или сильного техта. Чего то содержательно, пон?",
+          "scoredAt": "2026-10-21T14:23:35.538Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -117412,7 +117508,7 @@
           "scoredAt": "2026-10-13T22:16:46.518Z"
         }
       ],
-      "fetchedAt": "2026-10-14T01:51:33.247Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "YURRRA NECHAY",
       "artistSlug": "yurrra-nechay",
@@ -124229,8 +124325,14 @@
     },
     {
       "userId": "d9ab04e6-7fd3-47cc-9468-26e66d9c02e0",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "легенда  смешно ",
+          "scoredAt": "2026-10-21T14:14:56.761Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -124250,7 +124352,7 @@
           "scoredAt": "2026-10-08T18:13:16.328Z"
         }
       ],
-      "fetchedAt": "2026-10-21T07:12:01.061Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "ДОРЕНКО",
       "artistSlug": "dorenko",
@@ -125000,8 +125102,14 @@
     },
     {
       "userId": "71e20d8b-fef8-4bef-a689-f958935095cb",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Слушай, хорошо!",
+          "scoredAt": "2026-10-21T14:22:09.017Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -125027,7 +125135,7 @@
           "scoredAt": "2026-10-06T16:22:01.254Z"
         }
       ],
-      "fetchedAt": "2026-10-14T20:12:15.049Z",
+      "fetchedAt": "2026-10-21T14:28:07.421Z",
       "current": true,
       "artistName": "SHKODIN",
       "artistSlug": "shkodin",
