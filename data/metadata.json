@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T09:52:17.251Z",
-  "exportedAt": "2026-10-21T09:52:17.251Z",
-  "runId": "2026-10-21T09:52:17.251Z",
-  "forumExportedAt": "2026-10-21T09:52:17.251Z",
+  "lastSuccessfulAt": "2026-10-21T10:02:14.486Z",
+  "exportedAt": "2026-10-21T10:02:14.486Z",
+  "runId": "2026-10-21T10:02:14.486Z",
+  "forumExportedAt": "2026-10-21T10:02:14.486Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15108,
+    "scores": 15118,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 10,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9389,
-    "scoresBefore": 15102,
-    "scoresAfter": 15108,
+    "participantsWithNewScores": 10,
+    "changedParticipants": 10,
+    "logicalRequests": 13,
+    "durationMs": 12935,
+    "scoresBefore": 15108,
+    "scoresAfter": 15118,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.72519083969466,
+    "requestReductionPercent": 99.6030534351145,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -96,6 +96,76 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "dimamaev",
+          "comment": "",
+          "scoredAt": "2026-10-21T10:01:15.543Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "ЭВИЛ БЕРТИ",
+          "comment": "Уверенно!",
+          "scoredAt": "2026-10-21T10:00:53.981Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "JeKa",
+          "comment": "Брад мне кажется с твоей подачкой и с такой лоуки брутальной харизмой надо смешные панчлинии писать. Авансом 4",
+          "scoredAt": "2026-10-21T09:59:50.926Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "LuSan",
+          "comment": "",
+          "scoredAt": "2026-10-21T09:59:06.411Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "МЦ КИРИЕШКИН",
+          "comment": "должен будешь \nА так вроде ничо, только меньше акцента на кваратную читку, больше легкости и техники ",
+          "scoredAt": "2026-10-21T09:58:51.381Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "Н. СМОГ",
+          "comment": "Волки есть, я быз в зоопарке братан. Ну уверенно. На самом деле среднеково, но в целом оукей.",
+          "scoredAt": "2026-10-21T09:58:15.797Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "BOGOMOL",
+          "comment": "что то в тебе явно есть!",
+          "scoredAt": "2026-10-21T09:57:13.707Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Leonadrio",
+          "comment": "Ты псих!!!",
+          "scoredAt": "2026-10-21T09:56:07.138Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Бахтияр Сюдаблин",
+          "comment": "Слушай наbahteeл рэба так сказать. Ну раскрытие такое, очевидненькое. Хотя сделано с душой как по мне. Рифмуешь не оч.",
+          "scoredAt": "2026-10-21T09:54:59.966Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Джеффри Дин Морган",
+          "comment": "Блин слушай хук то рофляный прям. В куплетосе надо было лаконичнее что ли твои бары оформить. Видно что ты пытаешься что то интересно сказать, но получается как то вычурно что ли...",
+          "scoredAt": "2026-10-21T09:53:24.700Z"
+        },
+        {
           "judgeName": "Гукер Капюшон",
           "score": 2,
           "artist": "обычный",
@@ -129,76 +199,6 @@
           "artist": "TIHN",
           "comment": "Интересно!",
           "scoredAt": "2026-10-21T09:44:18.210Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "kodmiro",
-          "comment": "Слушай, а вайбит.",
-          "scoredAt": "2026-10-21T09:43:10.912Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "Denexis [LTTR]",
-          "comment": "бит угарный братан, рэб не оч.",
-          "scoredAt": "2026-10-21T09:41:53.450Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "viktos",
-          "comment": "интересная подача слушай. Но ты жу буквально пол минуты из минутного трека молчал.",
-          "scoredAt": "2026-10-21T09:41:12.736Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "INCLUS",
-          "comment": "блин слушай с одной стороны и очевидности и вместо панчей флэксишь всякой хуетой) и песняк твой откровенно очень средний и на 3 с ооооочень маленьким минусом. Но вот если ты добавишь норм панчей, чуть чуть позадротишь рифмы - это будет работать гораздо лучше.",
-          "scoredAt": "2026-10-21T09:40:10.856Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Mackendzi",
-          "comment": "Ну умело рэб читаешь, да.",
-          "scoredAt": "2026-10-21T09:37:39.214Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "вокинъяле",
-          "comment": "Хмм. Есть как будто косяки по твоей ритмической задумке. ну и в целом простовато песня построена, хочется больше угаров, больше находок в рифмах. оке?",
-          "scoredAt": "2026-10-21T09:36:31.344Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Mahina Obscura",
-          "comment": "Интересно. Хотя рифмуешь простовато и местами бары выучрно звучат. Но в целом как будто круто завайбил ты, это тоже уметь надо.",
-          "scoredAt": "2026-10-21T09:34:45.981Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "сталинские депрессии",
-          "comment": "неплохо, аутентично рэп валишь. мб голос твой такое ощущение сощдал, но было интересно.",
-          "scoredAt": "2026-10-21T09:33:32.902Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Звуки вагины",
-          "comment": "слушай ну читаешь живу, по человечески вроде грувит как то и не по задростки при этом. но техт братуха жирнее хотелось бы и меньше очевидных рифм тупых.",
-          "scoredAt": "2026-10-21T09:32:26.892Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "LiviLiv",
-          "comment": "Жоско завафлил фастфлеу братуха. Зачем ты его сделал? Без него лучше было бы.",
-          "scoredAt": "2026-10-21T09:30:47.808Z"
         }
       ]
     }

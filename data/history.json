@@ -170092,6 +170092,146 @@
         "scoredAt": "2026-10-21T09:47:48.912Z",
         "userId": "f44cb045-87d4-4285-99f2-e02ba6913455"
       }
+    },
+    {
+      "id": "864f9c1f7b742518aa57fcce03fe898486117428ba8597e5c55c45c70eb83899",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:59:06.411Z",
+      "key": "[\"e4462939-bc97-4a35-a197-7906d6696b7c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T09:59:06.411Z",
+        "userId": "e4462939-bc97-4a35-a197-7906d6696b7c"
+      }
+    },
+    {
+      "id": "8daba1aee037502bd8e66776ae7cbc3b4b91ef3c3787498fc80d6baed54fa6ef",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:57:13.707Z",
+      "key": "[\"d786f5fb-000d-48e4-b271-c7427dbbd728\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "что то в тебе явно есть!",
+        "scoredAt": "2026-10-21T09:57:13.707Z",
+        "userId": "d786f5fb-000d-48e4-b271-c7427dbbd728"
+      }
+    },
+    {
+      "id": "0ef3e8380fe1e9f5013a00523fe5dffed550ae280060332d841fc0018b78dbc9",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:58:51.381Z",
+      "key": "[\"7151e172-f511-4b87-865a-7a7ddc15b228\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "должен будешь \nА так вроде ничо, только меньше акцента на кваратную читку, больше легкости и техники ",
+        "scoredAt": "2026-10-21T09:58:51.381Z",
+        "userId": "7151e172-f511-4b87-865a-7a7ddc15b228"
+      }
+    },
+    {
+      "id": "33ac461ef574410dcbf10857183f5e9f3b1da38f18ece380b7cab1fde359fbc3",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:58:15.797Z",
+      "key": "[\"83cd23d9-74d6-4ecb-a0bc-b934f4770d6f\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Волки есть, я быз в зоопарке братан. Ну уверенно. На самом деле среднеково, но в целом оукей.",
+        "scoredAt": "2026-10-21T09:58:15.797Z",
+        "userId": "83cd23d9-74d6-4ecb-a0bc-b934f4770d6f"
+      }
+    },
+    {
+      "id": "0020ec7f04f827fccdc2303cdcc15bb8de0a0bcfea292e2fad81972b004f890d",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:56:07.138Z",
+      "key": "[\"a216bd1c-6da0-4d4a-addf-0c833efb5c50\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Ты псих!!!",
+        "scoredAt": "2026-10-21T09:56:07.138Z",
+        "userId": "a216bd1c-6da0-4d4a-addf-0c833efb5c50"
+      }
+    },
+    {
+      "id": "3e96909804f1f831eb49e7c9729d37e1f00612009d8991beb89d91fc3cc01de5",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:54:59.966Z",
+      "key": "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Слушай наbahteeл рэба так сказать. Ну раскрытие такое, очевидненькое. Хотя сделано с душой как по мне. Рифмуешь не оч.",
+        "scoredAt": "2026-10-21T09:54:59.966Z",
+        "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1"
+      }
+    },
+    {
+      "id": "0c4c51aa235308a12ff3ed9a4c7453d2e4dce0751abfba6c3b6dcdd390804f4c",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T10:00:53.981Z",
+      "key": "[\"a6256fb3-6dfe-4a52-a694-35f7b5940834\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Уверенно!",
+        "scoredAt": "2026-10-21T10:00:53.981Z",
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834"
+      }
+    },
+    {
+      "id": "611212077e4ed7d0af7827cece57a2b15b535fce25c07e378ff2d6f417fee2ec",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T10:01:15.543Z",
+      "key": "[\"565b3621-3741-487a-8603-ce025d35a2b6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:01:15.543Z",
+        "userId": "565b3621-3741-487a-8603-ce025d35a2b6"
+      }
+    },
+    {
+      "id": "bf366ca660a1f5562e498106e20f662a469d238c882b9f9862fd493e051a4d94",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:53:24.700Z",
+      "key": "[\"732d4e7d-6ab8-43ac-92e7-4adaf8b43203\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Блин слушай хук то рофляный прям. В куплетосе надо было лаконичнее что ли твои бары оформить. Видно что ты пытаешься что то интересно сказать, но получается как то вычурно что ли...",
+        "scoredAt": "2026-10-21T09:53:24.700Z",
+        "userId": "732d4e7d-6ab8-43ac-92e7-4adaf8b43203"
+      }
+    },
+    {
+      "id": "b073df2f77158fb74b6538fbd893107cc34bcf7e2336d5f58445cd79c957e1cb",
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "sourceScoredAt": "2026-10-21T09:59:50.926Z",
+      "key": "[\"476584de-afdd-4848-95f3-fe3c5cd0050b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Брад мне кажется с твоей подачкой и с такой лоуки брутальной харизмой надо смешные панчлинии писать. Авансом 4",
+        "scoredAt": "2026-10-21T09:59:50.926Z",
+        "userId": "476584de-afdd-4848-95f3-fe3c5cd0050b"
+      }
     }
   ],
   "snapshots": [
@@ -184251,6 +184391,26 @@
           "index": 31.87500406262472,
           "favor": 17.986308688973487,
           "attention": 3.2220287069845654,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T10:02:14.486Z",
+      "exportedAt": "2026-10-21T10:02:14.486Z",
+      "scores": 15118,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.158354616753606,
+          "favor": 8.626302589625945,
+          "attention": 5.5589981349120885,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.878551990516463,
+          "favor": 17.983536897372584,
+          "attention": 3.22834842647721,
           "respect": 10.666666666666666
         }
       }
