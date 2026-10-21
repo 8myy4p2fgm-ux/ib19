@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T08:02:22.904Z",
-  "exportedAt": "2026-10-21T08:02:22.904Z",
-  "runId": "2026-10-21T08:02:22.904Z",
-  "forumExportedAt": "2026-10-21T08:02:22.904Z",
+  "lastSuccessfulAt": "2026-10-21T08:11:59.233Z",
+  "exportedAt": "2026-10-21T08:11:59.233Z",
+  "runId": "2026-10-21T08:11:59.233Z",
+  "forumExportedAt": "2026-10-21T08:11:59.233Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15069,
+    "scores": 15072,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 19,
+    "httpRequests": 6,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 16,
+    "updatedCards": 3,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 16,
-    "changedParticipants": 16,
-    "logicalRequests": 19,
-    "durationMs": 19109,
-    "scoresBefore": 15053,
-    "scoresAfter": 15069,
+    "participantsWithNewScores": 3,
+    "changedParticipants": 3,
+    "logicalRequests": 6,
+    "durationMs": 6017,
+    "scoresBefore": 15069,
+    "scoresAfter": 15072,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.41984732824427,
+    "requestReductionPercent": 99.81679389312977,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,27 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Lekrick",
+          "comment": "Присоединяюсь с двойкой к остальным судьям.",
+          "scoredAt": "2026-10-21T08:10:33.953Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Febins",
+          "comment": "Это пока пробы пера. Пробуй ещё. Пишешь уже неплохо.",
+          "scoredAt": "2026-10-21T08:07:44.773Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "WR10",
+          "comment": "Не нравится такая суетливая манера исполнения. Как будто переигрываешь с визгливостью. Это с трудом можно назвать флоу.",
+          "scoredAt": "2026-10-21T08:06:08.845Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -178,27 +199,6 @@
           "artist": "ДМИ-III",
           "comment": "опять решающего дали =О \nа я тут как \"свободная касса\" xD \n\nНу тут копец дядька, ты такой релаксовый\nРифмы лжи-миражи\n\nчитаешь слишком квадратно + то торопишься, то медлишь, запишись пожалуйста нормально в следующем раунде, надеюсь я не пожалею ",
           "scoredAt": "2026-10-21T07:45:52.491Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 3,
-          "artist": "добройночи.",
-          "comment": "Капа зашакаленая, прям практически \"полифоническая\", я что-то даже и не знаю как это правильно называется. ) Но голос абсолютно лишен объема, понятно что скорее всего так было задумано, но переборщили. Сам песняк драйвовый и с историей, ниче так, но текст очень слабоват.",
-          "scoredAt": "2026-10-21T07:42:27.530Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Inice",
-          "comment": "",
-          "scoredAt": "2026-10-21T07:39:06.206Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "OGLAVNOM",
-          "comment": "блин... а меня прикольнуло, но хз, у тебя шансов на проход мало. ",
-          "scoredAt": "2026-10-21T07:38:31.197Z"
         }
       ]
     }

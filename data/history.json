@@ -169546,6 +169546,48 @@
         "scoredAt": "2026-10-21T07:45:52.491Z",
         "userId": "673c7d2b-06e8-4f88-b41e-9c3a264c8dfe"
       }
+    },
+    {
+      "id": "15e72f93a697f33c29924565fda5f3208ea3c3906d3753c29f5c8c0c175d7000",
+      "observedAt": "2026-10-21T08:11:59.233Z",
+      "sourceScoredAt": "2026-10-21T08:10:33.953Z",
+      "key": "[\"870824da-4e7d-462a-876d-dded817ccf81\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Присоединяюсь с двойкой к остальным судьям.",
+        "scoredAt": "2026-10-21T08:10:33.953Z",
+        "userId": "870824da-4e7d-462a-876d-dded817ccf81"
+      }
+    },
+    {
+      "id": "081eab5636c21de928758f74fbd49c3245b61811242fcf7a7f3f813cf83db288",
+      "observedAt": "2026-10-21T08:11:59.233Z",
+      "sourceScoredAt": "2026-10-21T08:06:08.845Z",
+      "key": "[\"d29bec3c-8796-48ef-b523-d99a1f93731d\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Не нравится такая суетливая манера исполнения. Как будто переигрываешь с визгливостью. Это с трудом можно назвать флоу.",
+        "scoredAt": "2026-10-21T08:06:08.845Z",
+        "userId": "d29bec3c-8796-48ef-b523-d99a1f93731d"
+      }
+    },
+    {
+      "id": "f5ad7cd38de61f10a43685e64cd528405e7af9fec61191aa2e3c2cc3d7d223c2",
+      "observedAt": "2026-10-21T08:11:59.233Z",
+      "sourceScoredAt": "2026-10-21T08:07:44.773Z",
+      "key": "[\"4204c562-17c2-4613-b7cc-4b440bf15a0a\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Это пока пробы пера. Пробуй ещё. Пишешь уже неплохо.",
+        "scoredAt": "2026-10-21T08:07:44.773Z",
+        "userId": "4204c562-17c2-4613-b7cc-4b440bf15a0a"
+      }
     }
   ],
   "snapshots": [
@@ -183505,6 +183547,26 @@
           "index": 31.843204662156225,
           "favor": 17.991629837953667,
           "attention": 3.1849081575358946,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T08:11:59.233Z",
+      "exportedAt": "2026-10-21T08:11:59.233Z",
+      "scores": 15072,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.281070508995082,
+          "favor": 8.607256083951881,
+          "attention": 5.714599923532628,
+          "respect": 5.959214501510574
+        },
+        "veterans": {
+          "index": 31.850476585799818,
+          "favor": 17.99430943295173,
+          "attention": 3.1895004861814207,
           "respect": 10.666666666666666
         }
       }

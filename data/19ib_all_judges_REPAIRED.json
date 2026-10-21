@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T08:02:22.904Z",
+  "exportedAt": "2026-10-21T08:11:59.233Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -9006,8 +9006,14 @@
     },
     {
       "userId": "870824da-4e7d-462a-876d-dded817ccf81",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Присоединяюсь с двойкой к остальным судьям.",
+          "scoredAt": "2026-10-21T08:10:33.953Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -9033,7 +9039,7 @@
           "scoredAt": "2026-09-08T15:47:24.930Z"
         }
       ],
-      "fetchedAt": "2026-10-15T14:12:22.305Z",
+      "fetchedAt": "2026-10-21T08:11:59.233Z",
       "current": true,
       "artistName": "Lekrick",
       "artistSlug": "lekrick",
@@ -116582,8 +116588,14 @@
     },
     {
       "userId": "d29bec3c-8796-48ef-b523-d99a1f93731d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Не нравится такая суетливая манера исполнения. Как будто переигрываешь с визгливостью. Это с трудом можно назвать флоу.",
+          "scoredAt": "2026-10-21T08:06:08.845Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -116609,7 +116621,7 @@
           "scoredAt": "2026-10-03T13:24:48.111Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-21T08:11:59.233Z",
       "current": true,
       "artistName": "WR10",
       "artistSlug": "wr10",
@@ -123126,8 +123138,14 @@
     },
     {
       "userId": "4204c562-17c2-4613-b7cc-4b440bf15a0a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Это пока пробы пера. Пробуй ещё. Пишешь уже неплохо.",
+          "scoredAt": "2026-10-21T08:07:44.773Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 2,
@@ -123153,7 +123171,7 @@
           "scoredAt": "2026-10-10T15:22:37.385Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:52:43.460Z",
+      "fetchedAt": "2026-10-21T08:11:59.233Z",
       "current": true,
       "artistName": "Febins",
       "artistSlug": "febins",
