@@ -171940,6 +171940,104 @@
         "scoredAt": "2026-10-21T13:53:50.024Z",
         "userId": "0d0890c6-8f75-42b5-a2f1-d9a9eb2ee097"
       }
+    },
+    {
+      "id": "bb62c9ced39881d309f19adf6671c4e6876418e564f945e941cbc161fbc05aff",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:11:16.405Z",
+      "key": "[\"7e2066d7-1499-4e73-9880-d476d66df5f9\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "сразу с первых строк засмеялся но потом понял что оч слабо ",
+        "scoredAt": "2026-10-21T14:11:16.405Z",
+        "userId": "7e2066d7-1499-4e73-9880-d476d66df5f9"
+      }
+    },
+    {
+      "id": "2d70f66a822f2c91a1adde104925590a3d9f3a0d507e50c53e3f19b8fbd4b087",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:03:22.499Z",
+      "key": "[\"b6e4d09c-851a-4809-b397-15783e1841b5\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "поэт типа. но мысли тривиальные довольно таки ",
+        "scoredAt": "2026-10-21T14:03:22.499Z",
+        "userId": "b6e4d09c-851a-4809-b397-15783e1841b5"
+      }
+    },
+    {
+      "id": "c1bcf62444e60d008865bcbb865ac98a55090e934e320d29ec5e13495029514c",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:08:45.586Z",
+      "key": "[\"aea77b65-a0fd-420c-8241-9f43d09bb6f8\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "такое ",
+        "scoredAt": "2026-10-21T14:08:45.586Z",
+        "userId": "aea77b65-a0fd-420c-8241-9f43d09bb6f8"
+      }
+    },
+    {
+      "id": "3c9f2c47df024ac9af159319623c68c95564e41b4eefe19b2606887e83314a0e",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:08:02.113Z",
+      "key": "[\"2f7f898c-19d8-4a42-8f28-6ab86b76f026\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо ",
+        "scoredAt": "2026-10-21T14:08:02.113Z",
+        "userId": "2f7f898c-19d8-4a42-8f28-6ab86b76f026"
+      }
+    },
+    {
+      "id": "2945c0fdddb0079037d0cf3113b39b7f942a6f7e7771ae50efbc45cfde5fda84",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:02:28.934Z",
+      "key": "[\"60d120b4-3959-4e71-8392-1f07078370a4\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": " ставлю 3 только за настю4)) лучше б она сдала сольно.",
+        "scoredAt": "2026-10-21T14:02:28.934Z",
+        "userId": "60d120b4-3959-4e71-8392-1f07078370a4"
+      }
+    },
+    {
+      "id": "8d8252ccab35e7bb4c8f17338b7d44378165c5d3e3bd2efeefa0008bbbc73ed0",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:10:28.214Z",
+      "key": "[\"302cd802-98ab-4916-9fd8-17fcecd02220\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "звук ужас. ни одной строчки нормальной",
+        "scoredAt": "2026-10-21T14:10:28.214Z",
+        "userId": "302cd802-98ab-4916-9fd8-17fcecd02220"
+      }
+    },
+    {
+      "id": "43dc504c82d264cbc37f95344064375becbb9daed8849aa5658ec62f6fddaae6",
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "sourceScoredAt": "2026-10-21T14:04:58.204Z",
+      "key": "[\"4e38b98a-0947-4ab4-b90f-d8434b3ba873\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "норм. но скучновато",
+        "scoredAt": "2026-10-21T14:04:58.204Z",
+        "userId": "4e38b98a-0947-4ab4-b90f-d8434b3ba873"
+      }
     }
   ],
   "snapshots": [
@@ -186459,6 +186557,26 @@
           "index": 31.864415503883187,
           "favor": 17.958838328763708,
           "attention": 3.2621948221783037,
+          "respect": 10.643382352941176
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T14:12:12.538Z",
+      "exportedAt": "2026-10-21T14:12:12.538Z",
+      "scores": 15247,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.257614386903246,
+          "favor": 8.67175000239516,
+          "attention": 5.603721527365227,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.873422664569276,
+          "favor": 17.963357916126544,
+          "attention": 3.266682395501553,
           "respect": 10.643382352941176
         }
       }

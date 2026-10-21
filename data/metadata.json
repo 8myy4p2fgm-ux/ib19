@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T14:02:05.180Z",
-  "exportedAt": "2026-10-21T14:02:05.180Z",
-  "runId": "2026-10-21T14:02:05.180Z",
-  "forumExportedAt": "2026-10-21T14:02:05.180Z",
+  "lastSuccessfulAt": "2026-10-21T14:12:12.538Z",
+  "exportedAt": "2026-10-21T14:12:12.538Z",
+  "runId": "2026-10-21T14:12:12.538Z",
+  "forumExportedAt": "2026-10-21T14:12:12.538Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15240,
+    "scores": 15247,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 7,
     "changedParticipants": 7,
     "logicalRequests": 10,
-    "durationMs": 10053,
-    "scoresBefore": 15233,
-    "scoresAfter": 15240,
+    "durationMs": 9910,
+    "scoresBefore": 15240,
+    "scoresAfter": 15247,
     "fullBaselineRequests": 3276,
     "requestReductionPercent": 99.6947496947497,
     "temporaryExclusions": [
@@ -98,6 +98,55 @@
         {
           "judgeName": "OttO",
           "score": 2,
+          "artist": "baradoz",
+          "comment": "сразу с первых строк засмеялся но потом понял что оч слабо ",
+          "scoredAt": "2026-10-21T14:11:16.405Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "LÁ #НОВАЯВОЛНА",
+          "comment": "звук ужас. ни одной строчки нормальной",
+          "scoredAt": "2026-10-21T14:10:28.214Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "!хачухачапури",
+          "comment": "такое ",
+          "scoredAt": "2026-10-21T14:08:45.586Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "artist": "homie outskirts",
+          "comment": "слабо ",
+          "scoredAt": "2026-10-21T14:08:02.113Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "MAKHAVIRA",
+          "comment": "норм. но скучновато",
+          "scoredAt": "2026-10-21T14:04:58.204Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "kodmiro",
+          "comment": "поэт типа. но мысли тривиальные довольно таки ",
+          "scoredAt": "2026-10-21T14:03:22.499Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "artist": "kriv",
+          "comment": " ставлю 3 только за настю4)) лучше б она сдала сольно.",
+          "scoredAt": "2026-10-21T14:02:28.934Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 2,
           "artist": "Def Joint",
           "comment": "никнейм канеш топ))) слабовато ",
           "scoredAt": "2026-10-21T14:00:14.544Z"
@@ -150,55 +199,6 @@
           "artist": "Emilien",
           "comment": "брАвада??? чет вообще не понял че хотел сказать. ",
           "scoredAt": "2026-10-21T13:51:20.253Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "Rest",
-          "comment": "текст слабый рэп читать умеет ",
-          "scoredAt": "2026-10-21T13:50:24.490Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "1teg",
-          "comment": "текст мега слабый. и рифмы тож! 3 с минусом ",
-          "scoredAt": "2026-10-21T13:49:27.298Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "led sgorel",
-          "comment": "",
-          "scoredAt": "2026-10-21T12:20:52.726Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "DUS2GUN",
-          "comment": "Нормально!",
-          "scoredAt": "2026-10-21T12:17:51.146Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 2,
-          "artist": "LittleKri",
-          "comment": "Ну слабовато по рифмам, читаешь тоже очень просто и я не о технике, а о отсутвии изюминки какой то. Я думаю ещё чуть чуть потренируешься и можно будет попробовать ещё раз.",
-          "scoredAt": "2026-10-21T12:17:09.167Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Oracool",
-          "comment": "Слушай достойно прохода. Но как будто в техт нужно сильнее уопроться, плотно панчей написать, рифм крутых..",
-          "scoredAt": "2026-10-21T12:15:49.432Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "эмцэ цээм",
-          "comment": "Ну нормально, вайбит.",
-          "scoredAt": "2026-10-21T12:14:18.500Z"
         }
       ]
     }
