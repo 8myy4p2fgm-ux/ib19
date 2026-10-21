@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T11:32:14.454Z",
+  "exportedAt": "2026-10-21T11:41:58.320Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -16094,8 +16094,14 @@
     },
     {
       "userId": "d1d16c28-fa69-4e43-b208-093c562896c5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Текст зажал, да? Звучит нормально. Для меня это между \"нормально\" и \"хорошо\". Округляю в сторону участника. ",
+          "scoredAt": "2026-10-21T11:33:52.047Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -16121,7 +16127,7 @@
           "scoredAt": "2026-08-31T17:55:16.005Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T11:41:58.320Z",
       "current": true,
       "artistName": "Zlodei",
       "artistSlug": "zlodei",
@@ -16773,8 +16779,14 @@
     },
     {
       "userId": "b5ee1190-9953-4ee4-acbe-cfb4da27ea0a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "Простоватая песня. Но явно достойная прохода! Смоки мо любишь слушать да?",
+          "scoredAt": "2026-10-21T11:39:24.587Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -16800,7 +16812,7 @@
           "scoredAt": "2026-09-06T11:31:50.311Z"
         }
       ],
-      "fetchedAt": "2026-10-19T08:52:14.859Z",
+      "fetchedAt": "2026-10-21T11:41:58.320Z",
       "current": true,
       "artistName": "Лукбанов",
       "artistSlug": "lukbanov",
@@ -37312,8 +37324,14 @@
     },
     {
       "userId": "9453029d-501c-44ae-84b4-b687f5034adf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Бэки настолько выпирают, что портят впечатление. Ты сам кайфуешь?",
+          "scoredAt": "2026-10-21T11:34:48.346Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -37339,7 +37357,7 @@
           "scoredAt": "2026-10-10T16:08:32.791Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T11:41:58.320Z",
       "current": true,
       "artistName": "Владислав Рафиков",
       "artistSlug": "vladislav-rafikov",
@@ -69409,8 +69427,14 @@
     },
     {
       "userId": "b946ce73-4f0f-4e9b-bdd3-457af72a4076",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Номально, на минимальный проход точно начитал. ",
+          "scoredAt": "2026-10-21T11:32:33.596Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -69424,7 +69448,7 @@
           "scoredAt": "2026-10-09T20:18:26.071Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T11:41:58.320Z",
       "current": true,
       "artistName": "Primer",
       "artistSlug": "primer",

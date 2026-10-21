@@ -171254,6 +171254,62 @@
         "scoredAt": "2026-10-21T11:27:54.355Z",
         "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d"
       }
+    },
+    {
+      "id": "fb1738c8733498afd409553baddd746ae16a7c96ad225857fa2c45eb42506b07",
+      "observedAt": "2026-10-21T11:41:58.320Z",
+      "sourceScoredAt": "2026-10-21T11:33:52.047Z",
+      "key": "[\"d1d16c28-fa69-4e43-b208-093c562896c5\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Текст зажал, да? Звучит нормально. Для меня это между \"нормально\" и \"хорошо\". Округляю в сторону участника. ",
+        "scoredAt": "2026-10-21T11:33:52.047Z",
+        "userId": "d1d16c28-fa69-4e43-b208-093c562896c5"
+      }
+    },
+    {
+      "id": "e4d9edbb7b30d453931b33503d41f68b9a3cdef28d2f29cbecbe8386858c17db",
+      "observedAt": "2026-10-21T11:41:58.320Z",
+      "sourceScoredAt": "2026-10-21T11:39:24.587Z",
+      "key": "[\"b5ee1190-9953-4ee4-acbe-cfb4da27ea0a\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "Простоватая песня. Но явно достойная прохода! Смоки мо любишь слушать да?",
+        "scoredAt": "2026-10-21T11:39:24.587Z",
+        "userId": "b5ee1190-9953-4ee4-acbe-cfb4da27ea0a"
+      }
+    },
+    {
+      "id": "1eb2061fcdba89134fbb26a9440f01b9b354dc9f45ca6d75aa0d079f8619a704",
+      "observedAt": "2026-10-21T11:41:58.320Z",
+      "sourceScoredAt": "2026-10-21T11:34:48.346Z",
+      "key": "[\"9453029d-501c-44ae-84b4-b687f5034adf\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Бэки настолько выпирают, что портят впечатление. Ты сам кайфуешь?",
+        "scoredAt": "2026-10-21T11:34:48.346Z",
+        "userId": "9453029d-501c-44ae-84b4-b687f5034adf"
+      }
+    },
+    {
+      "id": "5b12ce52b1fb7b6a9f889b05f625ab2c9401674d0f1aca7f0943fc0186fcc141",
+      "observedAt": "2026-10-21T11:41:58.320Z",
+      "sourceScoredAt": "2026-10-21T11:32:33.596Z",
+      "key": "[\"b946ce73-4f0f-4e9b-bdd3-457af72a4076\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Номально, на минимальный проход точно начитал. ",
+        "scoredAt": "2026-10-21T11:32:33.596Z",
+        "userId": "b946ce73-4f0f-4e9b-bdd3-457af72a4076"
+      }
     }
   ],
   "snapshots": [
@@ -185613,6 +185669,26 @@
           "index": 32.083773020618295,
           "favor": 17.996789762663838,
           "attention": 3.4203165912877886,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:41:58.320Z",
+      "exportedAt": "2026-10-21T11:41:58.320Z",
+      "scores": 15195,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.225877574933868,
+          "favor": 8.650378658524335,
+          "attention": 5.597886976111024,
+          "respect": 5.977611940298507
+        },
+        "veterans": {
+          "index": 32.0947140940259,
+          "favor": 17.99767596281541,
+          "attention": 3.4303714645438235,
           "respect": 10.666666666666666
         }
       }
