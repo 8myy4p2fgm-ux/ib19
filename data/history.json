@@ -169154,6 +169154,62 @@
         "scoredAt": "2026-10-21T02:40:45.615Z",
         "userId": "673c3975-c5ad-4a7f-9420-08b91ecd0543"
       }
+    },
+    {
+      "id": "2edc07d85f8702b1921bcbef0c81c775f0b36263e65b8c5b373658d5e167c890",
+      "observedAt": "2026-10-21T06:31:59.867Z",
+      "sourceScoredAt": "2026-10-21T06:29:09.762Z",
+      "key": "[\"ecb126a6-b29b-4a2a-812a-2321c54ae67a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "моментами торопишься и твой ускорения из-за этого кривые, в остальном неплохо, но звук УГ. ",
+        "scoredAt": "2026-10-21T06:29:09.762Z",
+        "userId": "ecb126a6-b29b-4a2a-812a-2321c54ae67a"
+      }
+    },
+    {
+      "id": "c7a3160f95c0dd9f6f9de61eeeedd86b6281162265764758f55c4d0119bf0040",
+      "observedAt": "2026-10-21T06:31:59.867Z",
+      "sourceScoredAt": "2026-10-21T06:29:40.974Z",
+      "key": "[\"c41df27a-7231-474b-9f94-cfda7f7e82f3\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:29:40.974Z",
+        "userId": "c41df27a-7231-474b-9f94-cfda7f7e82f3"
+      }
+    },
+    {
+      "id": "33ab3d88b36bbd48834d04f69e990d2a58a9ad92c631aa57f159f2696f0c2d5d",
+      "observedAt": "2026-10-21T06:31:59.867Z",
+      "sourceScoredAt": "2026-10-21T06:31:09.808Z",
+      "key": "[\"959f775a-aa2e-45fd-b366-20807a6e08d4\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Что-то очень странное, я больше был бы против прохода если честно.\n\nКаша, а текста одна четвёрка\n\n",
+        "scoredAt": "2026-10-21T06:31:09.808Z",
+        "userId": "959f775a-aa2e-45fd-b366-20807a6e08d4"
+      }
+    },
+    {
+      "id": "443653aa3b82e58d3f95b444dce0edf4fc8fd6708cb72642565afad8f84ab445",
+      "observedAt": "2026-10-21T06:31:59.867Z",
+      "sourceScoredAt": "2026-10-21T06:31:31.729Z",
+      "key": "[\"74e954ad-83ce-4be7-8220-d853ae21c097\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:31:31.729Z",
+        "userId": "74e954ad-83ce-4be7-8220-d853ae21c097"
+      }
     }
   ],
   "snapshots": [
@@ -183033,6 +183089,26 @@
           "index": 31.799186908645595,
           "favor": 17.988371572968383,
           "attention": 3.1441486690105473,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T06:31:59.867Z",
+      "exportedAt": "2026-10-21T06:31:59.867Z",
+      "scores": 15045,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.335053717735644,
+          "favor": 8.590028727643404,
+          "attention": 5.790479535546786,
+          "respect": 5.954545454545454
+        },
+        "veterans": {
+          "index": 31.802462257728358,
+          "favor": 17.987256874580822,
+          "attention": 3.148538716480868,
           "respect": 10.666666666666666
         }
       }

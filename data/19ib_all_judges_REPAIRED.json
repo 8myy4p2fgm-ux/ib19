@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T05:41:56.378Z",
+  "exportedAt": "2026-10-21T06:31:59.867Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -72491,8 +72491,14 @@
     },
     {
       "userId": "ecb126a6-b29b-4a2a-812a-2321c54ae67a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "моментами торопишься и твой ускорения из-за этого кривые, в остальном неплохо, но звук УГ. ",
+          "scoredAt": "2026-10-21T06:29:09.762Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 4,
@@ -72518,7 +72524,7 @@
           "scoredAt": "2026-10-05T20:49:37.764Z"
         }
       ],
-      "fetchedAt": "2026-10-16T21:41:52.510Z",
+      "fetchedAt": "2026-10-21T06:31:59.867Z",
       "current": true,
       "artistName": "Thought killer",
       "artistSlug": "thought-killer",
@@ -107396,8 +107402,14 @@
     },
     {
       "userId": "c41df27a-7231-474b-9f94-cfda7f7e82f3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T06:29:40.974Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -107423,7 +107435,7 @@
           "scoredAt": "2026-10-12T13:18:00.725Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:52:20.199Z",
+      "fetchedAt": "2026-10-21T06:31:59.867Z",
       "current": true,
       "artistName": "stiga2mc",
       "artistSlug": "stiga2mc",
@@ -117338,8 +117350,14 @@
     },
     {
       "userId": "959f775a-aa2e-45fd-b366-20807a6e08d4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Что-то очень странное, я больше был бы против прохода если честно.\n\nКаша, а текста одна четвёрка\n\n",
+          "scoredAt": "2026-10-21T06:31:09.808Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -117353,7 +117371,7 @@
           "scoredAt": "2026-10-06T22:14:36.723Z"
         }
       ],
-      "fetchedAt": "2026-10-19T20:22:17.857Z",
+      "fetchedAt": "2026-10-21T06:31:59.867Z",
       "current": true,
       "artistName": "TEN & ONE",
       "artistSlug": "ten-one",
@@ -119576,8 +119594,14 @@
     },
     {
       "userId": "74e954ad-83ce-4be7-8220-d853ae21c097",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-21T06:31:31.729Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -119603,7 +119627,7 @@
           "scoredAt": "2026-10-14T08:28:08.479Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:12:32.505Z",
+      "fetchedAt": "2026-10-21T06:31:59.867Z",
       "current": true,
       "artistName": "Виталий Чуприков",
       "artistSlug": "vitaliy-chuprikov",
