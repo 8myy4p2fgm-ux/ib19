@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T02:02:08.689Z",
-  "exportedAt": "2026-10-21T02:02:08.689Z",
-  "runId": "2026-10-21T02:02:08.689Z",
-  "forumExportedAt": "2026-10-21T02:02:08.689Z",
+  "lastSuccessfulAt": "2026-10-21T02:12:01.181Z",
+  "exportedAt": "2026-10-21T02:12:01.181Z",
+  "runId": "2026-10-21T02:12:01.181Z",
+  "forumExportedAt": "2026-10-21T02:12:01.181Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15032,
+    "scores": 15037,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 8,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 11,
-    "durationMs": 10974,
-    "scoresBefore": 15024,
-    "scoresAfter": 15032,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 8145,
+    "scoresBefore": 15032,
+    "scoresAfter": 15037,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.66412213740458,
+    "requestReductionPercent": 99.7557251908397,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Чистый Спил",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:08:14.310Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "СЭТИДЖЭЙ",
+          "comment": "технично, но почище бы, в остальном достойно. ",
+          "scoredAt": "2026-10-21T02:07:05.981Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "HighTower",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:05:04.964Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "Па<пуля",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:03:04.226Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Grave DillaZ",
+          "comment": "",
+          "scoredAt": "2026-10-21T02:02:39.896Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -164,41 +199,6 @@
           "artist": "Парень из села",
           "comment": "Вот вроде и голос поставленный, и слышно, что можешь, ой как можешьб, но видимо не размялся, где-то слетел, где-то странно интонировал, текст пустоват",
           "scoredAt": "2026-10-21T00:03:58.987Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "ПеньИсТрущоб",
-          "comment": "Мрачно. Текст хороший. Стиль присутствует. \nНужны ударные строки и их выделения интонациями, чтобы прям цепляли. В твоем случае, увы, надо напрягаться и прям целенаправленно вслушиваться в текст, это не есть хорошо.",
-          "scoredAt": "2026-10-21T00:02:46.062Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "tnf alex",
-          "comment": "",
-          "scoredAt": "2026-10-21T00:00:41.093Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Смоук Ди",
-          "comment": "Рифмы((\nВот вроде и слышно, что еще рано, где-то слетаешь, где-то неуверенно, а с другой стороны, есть какая-то харизмочка",
-          "scoredAt": "2026-10-21T00:00:01.923Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "alex cranky",
-          "comment": "Однообразные интонации. Вскрики на бэках (даблах) хорошие. В целом, ритмически очень скучно, ка ки по тексту. Середняк",
-          "scoredAt": "2026-10-20T23:58:59.392Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "Метелица",
-          "comment": "Смотри, качество плохое, это раз.\nЖуешь слова, это два.\nТекст неинтересныйф, это три.\n\nПоэтому тисходя из этих фактов ставлю 2, ибо общее впечатление отрицательное, хотя слышно, что если бы постарался, то мог бы легко пройти дальше.\nУвы, халтуру не прощаем.",
-          "scoredAt": "2026-10-20T23:57:52.602Z"
         }
       ]
     }

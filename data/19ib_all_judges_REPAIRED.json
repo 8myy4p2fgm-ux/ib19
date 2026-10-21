@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T02:02:08.689Z",
+  "exportedAt": "2026-10-21T02:12:01.181Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -8672,8 +8672,14 @@
     },
     {
       "userId": "dd157b13-6380-4b2d-bdf6-a358998e3724",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:05:04.964Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -8699,7 +8705,7 @@
           "scoredAt": "2026-10-15T08:31:13.373Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:12:32.505Z",
+      "fetchedAt": "2026-10-21T02:12:01.181Z",
       "current": true,
       "artistName": "HighTower",
       "artistSlug": "hightower",
@@ -46840,8 +46846,14 @@
     },
     {
       "userId": "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:02:39.896Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -46861,7 +46873,7 @@
           "scoredAt": "2026-10-15T19:42:33.126Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:02:22.470Z",
+      "fetchedAt": "2026-10-21T02:12:01.181Z",
       "current": true,
       "artistName": "Grave DillaZ",
       "artistSlug": "grave-dillaz",
@@ -111697,8 +111709,14 @@
     },
     {
       "userId": "26208db3-ea7a-487f-b26c-d8f3e49d8b0d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:03:04.226Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -111718,7 +111736,7 @@
           "scoredAt": "2026-10-09T19:23:09.398Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T02:12:01.181Z",
       "current": true,
       "artistName": "Па<пуля",
       "artistSlug": "pa-pulya",
@@ -119230,8 +119248,14 @@
     },
     {
       "userId": "903970c9-babb-465c-bb98-e2b8efe62631",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T02:08:14.310Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -119257,7 +119281,7 @@
           "scoredAt": "2026-10-12T20:47:51.522Z"
         }
       ],
-      "fetchedAt": "2026-10-15T07:52:17.587Z",
+      "fetchedAt": "2026-10-21T02:12:01.181Z",
       "current": true,
       "artistName": "Чистый Спил",
       "artistSlug": "chistyy-spil",
@@ -123558,8 +123582,14 @@
     },
     {
       "userId": "b48e1d0e-9582-40cb-964c-c1ca058aef91",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "технично, но почище бы, в остальном достойно. ",
+          "scoredAt": "2026-10-21T02:07:05.981Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -123573,7 +123603,7 @@
           "scoredAt": "2026-10-18T18:09:43.254Z"
         }
       ],
-      "fetchedAt": "2026-10-19T09:32:15.984Z",
+      "fetchedAt": "2026-10-21T02:12:01.181Z",
       "current": true,
       "artistName": "СЭТИДЖЭЙ",
       "artistSlug": "setidzhey",

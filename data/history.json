@@ -169028,6 +169028,76 @@
         "scoredAt": "2026-10-21T01:56:39.169Z",
         "userId": "7ac9edb7-d11f-4216-a312-aee2fee75f28"
       }
+    },
+    {
+      "id": "8f5721720d3b050faabe601040527dda02f67e82bb6df4f38bc55c54b7a64219",
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "sourceScoredAt": "2026-10-21T02:05:04.964Z",
+      "key": "[\"dd157b13-6380-4b2d-bdf6-a358998e3724\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:05:04.964Z",
+        "userId": "dd157b13-6380-4b2d-bdf6-a358998e3724"
+      }
+    },
+    {
+      "id": "b8a02dfc0b29abcb20632a2f04cb6b5c09c3dda2c08518e036f8eacb2de692d7",
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "sourceScoredAt": "2026-10-21T02:02:39.896Z",
+      "key": "[\"96b7e5e0-dea2-4d70-90b0-4a6e5be401c2\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:02:39.896Z",
+        "userId": "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2"
+      }
+    },
+    {
+      "id": "c5b4778a6b33f954674c4d70f309f85b039339696b575f4d97065cb2f17d4c3a",
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "sourceScoredAt": "2026-10-21T02:03:04.226Z",
+      "key": "[\"26208db3-ea7a-487f-b26c-d8f3e49d8b0d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:03:04.226Z",
+        "userId": "26208db3-ea7a-487f-b26c-d8f3e49d8b0d"
+      }
+    },
+    {
+      "id": "51e261b8795641ba3937adf4f76d5f37ac17dc72bafa854eb105b66331cd3aa0",
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "sourceScoredAt": "2026-10-21T02:08:14.310Z",
+      "key": "[\"903970c9-babb-465c-bb98-e2b8efe62631\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:08:14.310Z",
+        "userId": "903970c9-babb-465c-bb98-e2b8efe62631"
+      }
+    },
+    {
+      "id": "ee3442fc0975dfddba4c5dc2a8c97a230945b0f72fe1ffbbc651d1412a250a82",
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "sourceScoredAt": "2026-10-21T02:07:05.981Z",
+      "key": "[\"b48e1d0e-9582-40cb-964c-c1ca058aef91\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "технично, но почище бы, в остальном достойно. ",
+        "scoredAt": "2026-10-21T02:07:05.981Z",
+        "userId": "b48e1d0e-9582-40cb-964c-c1ca058aef91"
+      }
     }
   ],
   "snapshots": [
@@ -182787,6 +182857,26 @@
           "index": 31.78828891001328,
           "favor": 17.98735763352801,
           "attention": 3.134264609818602,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T02:12:01.181Z",
+      "exportedAt": "2026-10-21T02:12:01.181Z",
+      "scores": 15037,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.323851102433576,
+          "favor": 8.590263140001362,
+          "attention": 5.7790425078867615,
+          "respect": 5.954545454545454
+        },
+        "veterans": {
+          "index": 31.79389724107007,
+          "favor": 17.98747371717443,
+          "attention": 3.139756857228976,
           "respect": 10.666666666666666
         }
       }
