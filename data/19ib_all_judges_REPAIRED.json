@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T08:11:59.233Z",
+  "exportedAt": "2026-10-21T08:22:08.111Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -23746,8 +23746,14 @@
     },
     {
       "userId": "78110385-8c95-4c42-af3e-6392f0d0d689",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Не хватает 4 балла для прохода. Спасу. Ты вроде бы не плохой человек.",
+          "scoredAt": "2026-10-21T08:13:14.743Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -23773,7 +23779,7 @@
           "scoredAt": "2026-09-04T19:59:54.247Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:42:29.532Z",
+      "fetchedAt": "2026-10-21T08:22:08.111Z",
       "current": true,
       "artistName": "твой дорогой сх",
       "artistSlug": "tvoy-dorogoy-sh",
@@ -70417,8 +70423,14 @@
     },
     {
       "userId": "2aba733f-d78e-439a-9e68-6077a8d5f522",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Хорошо порифмовал.",
+          "scoredAt": "2026-10-21T08:15:31.963Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -70444,7 +70456,7 @@
           "scoredAt": "2026-09-28T20:07:42.865Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:42:26.185Z",
+      "fetchedAt": "2026-10-21T08:22:08.111Z",
       "current": true,
       "artistName": "Tha_Cool",
       "artistSlug": "tha-cool",
@@ -77259,8 +77271,14 @@
     },
     {
       "userId": "ad4cbb9a-848e-459d-b2ff-117c2f059afc",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Подачу пока не доработал, нужно больше давления, слишком слабо обрабатываешь бит. По тексту справляешься. Суммарно – тройка.",
+          "scoredAt": "2026-10-21T08:19:15.287Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -77286,7 +77304,7 @@
           "scoredAt": "2026-10-09T11:07:42.216Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:22:13.358Z",
+      "fetchedAt": "2026-10-21T08:22:08.111Z",
       "current": true,
       "artistName": "phlegmvtix",
       "artistSlug": "phlegmvtix",

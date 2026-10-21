@@ -169588,6 +169588,48 @@
         "scoredAt": "2026-10-21T08:07:44.773Z",
         "userId": "4204c562-17c2-4613-b7cc-4b440bf15a0a"
       }
+    },
+    {
+      "id": "a65d5890387d94038b30287dcd663b4e2a33f237a3bdf2e117a78266d0f75cab",
+      "observedAt": "2026-10-21T08:22:08.111Z",
+      "sourceScoredAt": "2026-10-21T08:13:14.743Z",
+      "key": "[\"78110385-8c95-4c42-af3e-6392f0d0d689\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Не хватает 4 балла для прохода. Спасу. Ты вроде бы не плохой человек.",
+        "scoredAt": "2026-10-21T08:13:14.743Z",
+        "userId": "78110385-8c95-4c42-af3e-6392f0d0d689"
+      }
+    },
+    {
+      "id": "f6dc63c94782306c013d783a25647cf24ee956f87d25f9916f679f390171e103",
+      "observedAt": "2026-10-21T08:22:08.111Z",
+      "sourceScoredAt": "2026-10-21T08:15:31.963Z",
+      "key": "[\"2aba733f-d78e-439a-9e68-6077a8d5f522\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Хорошо порифмовал.",
+        "scoredAt": "2026-10-21T08:15:31.963Z",
+        "userId": "2aba733f-d78e-439a-9e68-6077a8d5f522"
+      }
+    },
+    {
+      "id": "e3141bcaee4b7787429eb4a208d3b7fa678854f18ea106a214f5b22dfb1ebfa0",
+      "observedAt": "2026-10-21T08:22:08.111Z",
+      "sourceScoredAt": "2026-10-21T08:19:15.287Z",
+      "key": "[\"ad4cbb9a-848e-459d-b2ff-117c2f059afc\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Подачу пока не доработал, нужно больше давления, слишком слабо обрабатываешь бит. По тексту справляешься. Суммарно – тройка.",
+        "scoredAt": "2026-10-21T08:19:15.287Z",
+        "userId": "ad4cbb9a-848e-459d-b2ff-117c2f059afc"
+      }
     }
   ],
   "snapshots": [
@@ -183567,6 +183609,26 @@
           "index": 31.850476585799818,
           "favor": 17.99430943295173,
           "attention": 3.1895004861814207,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T08:22:08.111Z",
+      "exportedAt": "2026-10-21T08:22:08.111Z",
+      "scores": 15075,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.15445480407792,
+          "favor": 8.62598862598863,
+          "attention": 5.55999770962082,
+          "respect": 5.968468468468468
+        },
+        "veterans": {
+          "index": 31.853729435974365,
+          "favor": 17.9929718875502,
+          "attention": 3.1940908817575018,
           "respect": 10.666666666666666
         }
       }
