@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T23:21:57.671Z",
+  "exportedAt": "2026-10-21T23:52:07.872Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -30441,8 +30441,14 @@
     },
     {
       "userId": "692031d6-aad6-465e-84dd-69de7475c9f1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T23:51:31.555Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -30468,7 +30474,7 @@
           "scoredAt": "2026-08-30T20:29:21.700Z"
         }
       ],
-      "fetchedAt": "2026-10-18T15:32:07.786Z",
+      "fetchedAt": "2026-10-21T23:52:07.872Z",
       "current": true,
       "artistName": "ШизоФРениЯ.ВерКБунД",
       "artistSlug": "shizofreniya-verkbund",
@@ -77715,8 +77721,14 @@
     },
     {
       "userId": "d5ca310a-1a20-427e-8a46-1e5e286b2521",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T23:50:12.408Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -77736,7 +77748,7 @@
           "scoredAt": "2026-10-17T09:36:05.298Z"
         }
       ],
-      "fetchedAt": "2026-10-21T16:52:17.170Z",
+      "fetchedAt": "2026-10-21T23:52:07.872Z",
       "current": true,
       "artistName": "Частый Лодырь",
       "artistSlug": "chastyy-lodyr",
@@ -101085,8 +101097,14 @@
     },
     {
       "userId": "dc4db665-1a88-4db1-bc56-ed4379a9ae31",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-21T23:51:09.758Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -101094,7 +101112,7 @@
           "scoredAt": "2026-10-20T16:25:48.807Z"
         }
       ],
-      "fetchedAt": "2026-10-20T16:32:25.836Z",
+      "fetchedAt": "2026-10-21T23:52:07.872Z",
       "current": true,
       "artistName": "FHEJIE3O6ETOHHbIN MC",
       "artistSlug": "fhejie3o6etohhbin-mc",
@@ -110110,8 +110128,14 @@
     },
     {
       "userId": "45734e3d-5755-447c-8c27-450d04a2d199",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "сведос бы сюда",
+          "scoredAt": "2026-10-21T23:51:56.096Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -110137,7 +110161,7 @@
           "scoredAt": "2026-10-17T06:19:30.822Z"
         }
       ],
-      "fetchedAt": "2026-10-21T12:12:09.335Z",
+      "fetchedAt": "2026-10-21T23:52:07.872Z",
       "current": true,
       "artistName": "Никита Лазарев",
       "artistSlug": "nikita-lazarev-2",
@@ -118650,8 +118674,14 @@
     },
     {
       "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "Рифмы конеш такие себе, нужен - ужин",
+          "scoredAt": "2026-10-21T23:50:52.942Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -118665,7 +118695,7 @@
           "scoredAt": "2026-10-13T22:16:46.518Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:28:07.421Z",
+      "fetchedAt": "2026-10-21T23:52:07.872Z",
       "current": true,
       "artistName": "YURRRA NECHAY",
       "artistSlug": "yurrra-nechay",

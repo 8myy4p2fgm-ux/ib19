@@ -175048,6 +175048,76 @@
         "scoredAt": "2026-10-21T23:13:00.654Z",
         "userId": "fc4654dd-c0f6-44ae-b6e5-258ea6fbaaf7"
       }
+    },
+    {
+      "id": "51ad79417b7d0f7b022610bc721ed70417ca9e1387f5b32b7266cf6b038d1dd5",
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "sourceScoredAt": "2026-10-21T23:51:31.555Z",
+      "key": "[\"692031d6-aad6-465e-84dd-69de7475c9f1\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:51:31.555Z",
+        "userId": "692031d6-aad6-465e-84dd-69de7475c9f1"
+      }
+    },
+    {
+      "id": "d6bf0bff693c89c3ccec8704e882a7ee6d4988085cb2f14a9803c0adaf3d2600",
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "sourceScoredAt": "2026-10-21T23:50:12.408Z",
+      "key": "[\"d5ca310a-1a20-427e-8a46-1e5e286b2521\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:50:12.408Z",
+        "userId": "d5ca310a-1a20-427e-8a46-1e5e286b2521"
+      }
+    },
+    {
+      "id": "8be8cf587ecc2fbefc3966622b9d3634f8e5b995b6cab5e19a7d882d4f877b0f",
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "sourceScoredAt": "2026-10-21T23:51:09.758Z",
+      "key": "[\"dc4db665-1a88-4db1-bc56-ed4379a9ae31\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:51:09.758Z",
+        "userId": "dc4db665-1a88-4db1-bc56-ed4379a9ae31"
+      }
+    },
+    {
+      "id": "c0d848f5896d34c987c086c0418b87fcfb6b7040099f064fdaff8e3b91e57b79",
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "sourceScoredAt": "2026-10-21T23:51:56.096Z",
+      "key": "[\"45734e3d-5755-447c-8c27-450d04a2d199\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "сведос бы сюда",
+        "scoredAt": "2026-10-21T23:51:56.096Z",
+        "userId": "45734e3d-5755-447c-8c27-450d04a2d199"
+      }
+    },
+    {
+      "id": "d9c2eb3143dc58ff3696c5876f75315f57b67c77fd0de9cc5b6e20aa21c95fc4",
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "sourceScoredAt": "2026-10-21T23:50:52.942Z",
+      "key": "[\"89a637bb-c415-45f6-94af-86f1c0f8526e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Рифмы конеш такие себе, нужен - ужин",
+        "scoredAt": "2026-10-21T23:50:52.942Z",
+        "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e"
+      }
     }
   ],
   "snapshots": [
@@ -190167,6 +190237,26 @@
           "index": 31.7104697899439,
           "favor": 17.931165094821417,
           "attention": 3.1814786081659627,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T23:52:07.872Z",
+      "exportedAt": "2026-10-21T23:52:07.872Z",
+      "scores": 15467,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.37742489505656,
+          "favor": 8.649309348651942,
+          "attention": 5.785979047888297,
+          "respect": 5.94213649851632
+        },
+        "veterans": {
+          "index": 31.716757638246342,
+          "favor": 17.932229902401527,
+          "attention": 3.186701648888293,
           "respect": 10.597826086956522
         }
       }

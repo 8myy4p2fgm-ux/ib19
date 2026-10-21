@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T23:21:57.671Z",
-  "exportedAt": "2026-10-21T23:21:57.671Z",
-  "runId": "2026-10-21T23:21:57.671Z",
-  "forumExportedAt": "2026-10-21T23:21:57.671Z",
+  "lastSuccessfulAt": "2026-10-21T23:52:07.872Z",
+  "exportedAt": "2026-10-21T23:52:07.872Z",
+  "runId": "2026-10-21T23:52:07.872Z",
+  "forumExportedAt": "2026-10-21T23:52:07.872Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15462,
+    "scores": 15467,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 3,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 6,
-    "durationMs": 5955,
-    "scoresBefore": 15459,
-    "scoresAfter": 15462,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 8205,
+    "scoresBefore": 15462,
+    "scoresAfter": 15467,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.81696156192801,
+    "requestReductionPercent": 99.75594874923735,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Никита Лазарев",
+          "comment": "сведос бы сюда",
+          "scoredAt": "2026-10-21T23:51:56.096Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "ШизоФРениЯ.ВерКБунД",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:51:31.555Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 2,
+          "artist": "FHEJIE3O6ETOHHbIN MC",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:51:09.758Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "YURRRA NECHAY",
+          "comment": "Рифмы конеш такие себе, нужен - ужин",
+          "scoredAt": "2026-10-21T23:50:52.942Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Частый Лодырь",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:50:12.408Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -164,41 +199,6 @@
           "artist": "Ствол Кро",
           "comment": "Достойная работа с созвучиями. ",
           "scoredAt": "2026-10-21T23:03:09.458Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "Alex Cheef",
-          "comment": "Я считаю, если научился шутить, уже пол пути...  остальное подтянешь\nПогоди, в конце - это что??? разошёлся... оценку поднял. ",
-          "scoredAt": "2026-10-21T23:02:19.290Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "mc trebuha",
-          "comment": "Понимаешь как строить, но мало по содержанию совсем.. ",
-          "scoredAt": "2026-10-21T23:01:08.904Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "Артур Пинхасов",
-          "comment": "необычный переход.. хоть и разолил меня странный тюн.. даже ужасный, не странный.. но в целом такой констраст - это круто. Голос, сам по себе, красивый ",
-          "scoredAt": "2026-10-21T23:00:12.770Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 1,
-          "artist": "Never Tr7",
-          "comment": "за ТРП и Дагни - рисп.. полезная книга) \nНо в остальном - пока минус",
-          "scoredAt": "2026-10-21T22:58:14.044Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "Kryss",
-          "comment": "Гуф чувствуется в этом всём))) Но что-то в этом есть ",
-          "scoredAt": "2026-10-21T22:56:54.853Z"
         }
       ]
     }
