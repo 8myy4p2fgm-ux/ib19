@@ -171310,6 +171310,202 @@
         "scoredAt": "2026-10-21T11:32:33.596Z",
         "userId": "b946ce73-4f0f-4e9b-bdd3-457af72a4076"
       }
+    },
+    {
+      "id": "88c090daecf3d6d8ad575704b53983e5686c3b61b1363f3daaebefd2d255a6d1",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:50:18.424Z",
+      "key": "[\"17b6e093-56fc-47e9-9098-9dc78a336744\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Необходимо расти по всем параметрам. ",
+        "scoredAt": "2026-10-21T11:50:18.424Z",
+        "userId": "17b6e093-56fc-47e9-9098-9dc78a336744"
+      }
+    },
+    {
+      "id": "48b26b5bf916d8e93560820edd527b5c141c02fb31f826456d6f5bf258e63082",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:47:05.351Z",
+      "key": "[\"a8f20957-8df0-488e-8dba-a365199cf9cd\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Нормально! саундтрек к бойцовскому клубу.",
+        "scoredAt": "2026-10-21T11:47:05.351Z",
+        "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd"
+      }
+    },
+    {
+      "id": "37a5a2321d503754931c711634486c7491489b4dda0f78f416c3cfb58da05d93",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:50:41.962Z",
+      "key": "[\"8c729cd9-1e2c-4948-acd9-4b2abee25c4e\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 1,
+        "comment": "Искусство.",
+        "scoredAt": "2026-10-21T11:50:41.962Z",
+        "userId": "8c729cd9-1e2c-4948-acd9-4b2abee25c4e"
+      }
+    },
+    {
+      "id": "b34f80fd4ddc7a8973ef61784ab273239ca51124b12544cff5d1df94015ceaa0",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:48:04.259Z",
+      "key": "[\"a643ed99-8659-4bcf-8292-673ceb53addb\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Бля слушай прикольный стайлак и техт. Но со звуком хуевасто, буквально не понятно что ты начитываешь. А так интересно. ",
+        "scoredAt": "2026-10-21T11:48:04.259Z",
+        "userId": "a643ed99-8659-4bcf-8292-673ceb53addb"
+      }
+    },
+    {
+      "id": "69bcade72050989ed67f055f1521f50fe4009a332c9f7f4b436b9975be10184c",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:43:24.049Z",
+      "key": "[\"a401b9bd-4a8c-4b12-830b-26e6e6e80b00\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "ждать, мешать, точка, оболочка. Почему такие рэфмы допускаешь брад? Хотя исполнил со знанием дела. Почему у звука такой дисонанс то с техтом. ",
+        "scoredAt": "2026-10-21T11:43:24.049Z",
+        "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00"
+      }
+    },
+    {
+      "id": "4bb596874fa0a02d6c10eaa25c17db6af39449b3d5639262c5dae9a2ff0950f0",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:50:12.790Z",
+      "key": "[\"e5adc7c0-1e5c-49f1-bde7-dee42d7e6722\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Прикольно!",
+        "scoredAt": "2026-10-21T11:50:12.790Z",
+        "userId": "e5adc7c0-1e5c-49f1-bde7-dee42d7e6722"
+      }
+    },
+    {
+      "id": "e03c3dc2a259bc4054ac221f7becfa71ac8f7f44234fd7f44b5cbad76501fe85",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:44:25.024Z",
+      "key": "[\"060eeb25-6e0c-4f2f-843e-954e659adb89\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Уверенно. Все на месте,  не хватило ток какого то СОКА МЯСА прям, что бы прям 5ть.",
+        "scoredAt": "2026-10-21T11:44:25.024Z",
+        "userId": "060eeb25-6e0c-4f2f-843e-954e659adb89"
+      }
+    },
+    {
+      "id": "51ea12ba2fcb4236c8805a6da1057caed2b38a73dd715b20d6498c9752e9cc55",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:49:50.356Z",
+      "key": "[\"1940ebb0-1ca7-493b-b1e7-df84e9cac271\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 3,
+        "comment": "Средний скилл - средний балл. Уверенные 3 балла.",
+        "scoredAt": "2026-10-21T11:49:50.356Z",
+        "userId": "1940ebb0-1ca7-493b-b1e7-df84e9cac271"
+      }
+    },
+    {
+      "id": "849f633a8c5acdd94cc57b72fb695ebbfac31eee44401658745395b1e7b8ca72",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:46:01.174Z",
+      "key": "[\"5ada4a22-2bc5-4409-97f3-6e5ae638513d\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "очень авангардно бротан.",
+        "scoredAt": "2026-10-21T11:46:01.174Z",
+        "userId": "5ada4a22-2bc5-4409-97f3-6e5ae638513d"
+      }
+    },
+    {
+      "id": "83a908375c1d4e63c6f186d6d11810f95b95d85031edf820bf19b2668e189b23",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:49:29.297Z",
+      "key": "[\"b96e4a18-4213-4c62-9c16-b052890d02a8\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Из плюсов - плотно нрафимофано. Из минусов - сами рифмы немного плохие очень сильно, прямо таки хуевые. Ну и ваще техт такой белостишный, просто как акын хуяришь, не за что зацепиться.",
+        "scoredAt": "2026-10-21T11:49:29.297Z",
+        "userId": "b96e4a18-4213-4c62-9c16-b052890d02a8"
+      }
+    },
+    {
+      "id": "207ac8ed9809e817fbc02ef2889a6e4ed65d7400e2c445f048a01a055e8e792a",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:41:57.224Z",
+      "key": "[\"5d8f6f42-359e-4001-a7cd-0c7b9159926b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Брад очень лоскильно рифмуешь. Просто лигалайз 2000 год.",
+        "scoredAt": "2026-10-21T11:41:57.224Z",
+        "userId": "5d8f6f42-359e-4001-a7cd-0c7b9159926b"
+      }
+    },
+    {
+      "id": "5bcc90fffc8fbeef9a05d396db951a198aa2f6a691cea8b0cc1ccff9197e52c0",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:45:19.359Z",
+      "key": "[\"fa0fe4d1-fbf2-4088-8781-5593083c9974\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Уверенно.",
+        "scoredAt": "2026-10-21T11:45:19.359Z",
+        "userId": "fa0fe4d1-fbf2-4088-8781-5593083c9974"
+      }
+    },
+    {
+      "id": "39c256b890d1370def9bfb86c64fe0599b8cd488200edf1eb91cbfafb4a72efc",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:51:10.487Z",
+      "key": "[\"9eca1d50-0346-4ab9-a21b-eb3e477b232d\",\"r1fmabes\"]",
+      "before": null,
+      "after": {
+        "judgeName": "r1fmabes",
+        "score": 2,
+        "comment": "Пока рано в турнир уровня хх ру. Необходимо расти по всем параметрам! ",
+        "scoredAt": "2026-10-21T11:51:10.487Z",
+        "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d"
+      }
+    },
+    {
+      "id": "2ddafa062ba4eb37095f9dbe651574d7162de343e98c314f2de30b5a0598b458",
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "sourceScoredAt": "2026-10-21T11:51:08.486Z",
+      "key": "[\"f7906dea-6431-411f-9d8e-e445665d495b\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "пазнякс такой. ну слушай вайбишь, есть мысли прикольные.",
+        "scoredAt": "2026-10-21T11:51:08.486Z",
+        "userId": "f7906dea-6431-411f-9d8e-e445665d495b"
+      }
     }
   ],
   "snapshots": [
@@ -185689,6 +185885,26 @@
           "index": 32.0947140940259,
           "favor": 17.99767596281541,
           "attention": 3.4303714645438235,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:52:16.127Z",
+      "exportedAt": "2026-10-21T11:52:16.127Z",
+      "scores": 15209,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.18573901543169,
+          "favor": 8.662329148697063,
+          "attention": 5.5412670095917695,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 32.10707614010131,
+          "favor": 17.999778868692232,
+          "attention": 3.440630604742417,
           "respect": 10.666666666666666
         }
       }

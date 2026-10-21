@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T11:41:58.320Z",
+  "exportedAt": "2026-10-21T11:52:16.127Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -6157,8 +6157,14 @@
     },
     {
       "userId": "17b6e093-56fc-47e9-9098-9dc78a336744",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 2,
+          "comment": "Пока рано в турнир уровня хх ру. Необходимо расти по всем параметрам. ",
+          "scoredAt": "2026-10-21T11:50:18.424Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -6178,7 +6184,7 @@
           "scoredAt": "2026-09-07T19:00:26.968Z"
         }
       ],
-      "fetchedAt": "2026-10-17T08:31:55.209Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Илья Игнатов",
       "artistSlug": "ilya-ignatov",
@@ -12015,8 +12021,14 @@
     },
     {
       "userId": "a8f20957-8df0-488e-8dba-a365199cf9cd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Нормально! саундтрек к бойцовскому клубу.",
+          "scoredAt": "2026-10-21T11:47:05.351Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -12036,7 +12048,7 @@
           "scoredAt": "2026-09-28T13:27:55.100Z"
         }
       ],
-      "fetchedAt": "2026-10-20T16:32:25.836Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Helli",
       "artistSlug": "helli",
@@ -15210,8 +15222,14 @@
     },
     {
       "userId": "8c729cd9-1e2c-4948-acd9-4b2abee25c4e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 1,
+          "comment": "Искусство.",
+          "scoredAt": "2026-10-21T11:50:41.962Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 1,
@@ -15237,7 +15255,7 @@
           "scoredAt": "2026-08-31T11:48:06.018Z"
         }
       ],
-      "fetchedAt": "2026-10-19T22:02:32.365Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Рифмастер",
       "artistSlug": "rifmaster",
@@ -37149,8 +37167,14 @@
     },
     {
       "userId": "a643ed99-8659-4bcf-8292-673ceb53addb",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Бля слушай прикольный стайлак и техт. Но со звуком хуевасто, буквально не понятно что ты начитываешь. А так интересно. ",
+          "scoredAt": "2026-10-21T11:48:04.259Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 2,
@@ -37176,7 +37200,7 @@
           "scoredAt": "2026-09-29T19:50:08.594Z"
         }
       ],
-      "fetchedAt": "2026-10-15T16:52:43.460Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Мастер Спирта",
       "artistSlug": "master-spirta",
@@ -46223,8 +46247,14 @@
     },
     {
       "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "ждать, мешать, точка, оболочка. Почему такие рэфмы допускаешь брад? Хотя исполнил со знанием дела. Почему у звука такой дисонанс то с техтом. ",
+          "scoredAt": "2026-10-21T11:43:24.049Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -46238,7 +46268,7 @@
           "scoredAt": "2026-10-06T17:00:36.594Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "DOPOZDNA",
       "artistSlug": "dopozdna",
@@ -56902,8 +56932,14 @@
     },
     {
       "userId": "e5adc7c0-1e5c-49f1-bde7-dee42d7e6722",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Прикольно!",
+          "scoredAt": "2026-10-21T11:50:12.790Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -56923,7 +56959,7 @@
           "scoredAt": "2026-10-13T13:43:47.205Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:52:08.668Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "2theexit",
       "artistSlug": "2theexit",
@@ -58095,8 +58131,14 @@
     },
     {
       "userId": "060eeb25-6e0c-4f2f-843e-954e659adb89",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Уверенно. Все на месте,  не хватило ток какого то СОКА МЯСА прям, что бы прям 5ть.",
+          "scoredAt": "2026-10-21T11:44:25.024Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -58116,7 +58158,7 @@
           "scoredAt": "2026-10-14T11:16:56.563Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:52:26.085Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Мишарик",
       "artistSlug": "misharik",
@@ -68567,8 +68609,14 @@
     },
     {
       "userId": "1940ebb0-1ca7-493b-b1e7-df84e9cac271",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "comment": "Средний скилл - средний балл. Уверенные 3 балла.",
+          "scoredAt": "2026-10-21T11:49:50.356Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -68582,7 +68630,7 @@
           "scoredAt": "2026-10-19T20:23:09.128Z"
         }
       ],
-      "fetchedAt": "2026-10-20T20:32:17.626Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Джек Пот",
       "artistSlug": "dzhek-pot",
@@ -78492,8 +78540,14 @@
     },
     {
       "userId": "5ada4a22-2bc5-4409-97f3-6e5ae638513d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "comment": "очень авангардно бротан.",
+          "scoredAt": "2026-10-21T11:46:01.174Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -78513,7 +78567,7 @@
           "scoredAt": "2026-10-13T15:11:20.151Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "TRNKVLZTR",
       "artistSlug": "trnkvlztr",
@@ -80796,8 +80850,14 @@
     },
     {
       "userId": "b96e4a18-4213-4c62-9c16-b052890d02a8",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Из плюсов - плотно нрафимофано. Из минусов - сами рифмы немного плохие очень сильно, прямо таки хуевые. Ну и ваще техт такой белостишный, просто как акын хуяришь, не за что зацепиться.",
+          "scoredAt": "2026-10-21T11:49:29.297Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -80811,7 +80871,7 @@
           "scoredAt": "2026-10-16T18:50:07.530Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:32:20.851Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "1teg",
       "artistSlug": "1teg",
@@ -83077,8 +83137,14 @@
     },
     {
       "userId": "5d8f6f42-359e-4001-a7cd-0c7b9159926b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Брад очень лоскильно рифмуешь. Просто лигалайз 2000 год.",
+          "scoredAt": "2026-10-21T11:41:57.224Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -83104,7 +83170,7 @@
           "scoredAt": "2026-10-06T18:00:49.609Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:52:42.433Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Броуновские Движения",
       "artistSlug": "brounovskie-dvizheniya",
@@ -90462,8 +90528,14 @@
     },
     {
       "userId": "fa0fe4d1-fbf2-4088-8781-5593083c9974",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Уверенно.",
+          "scoredAt": "2026-10-21T11:45:19.359Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -90489,7 +90561,7 @@
           "scoredAt": "2026-10-09T20:26:02.495Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:02:27.839Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Amet-Han",
       "artistSlug": "amet-han",
@@ -122648,8 +122720,14 @@
     },
     {
       "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 2,
+          "comment": "Пока рано в турнир уровня хх ру. Необходимо расти по всем параметрам! ",
+          "scoredAt": "2026-10-21T11:51:10.487Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -122675,7 +122753,7 @@
           "scoredAt": "2026-10-15T17:02:54.821Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:32:14.454Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Лёха Л.",
       "artistSlug": "leha-l",
@@ -124244,8 +124322,14 @@
     },
     {
       "userId": "f7906dea-6431-411f-9d8e-e445665d495b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "пазнякс такой. ну слушай вайбишь, есть мысли прикольные.",
+          "scoredAt": "2026-10-21T11:51:08.486Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 4,
@@ -124265,7 +124349,7 @@
           "scoredAt": "2026-09-14T18:44:24.164Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T11:52:16.127Z",
       "current": true,
       "artistName": "Костя Котляров",
       "artistSlug": "kostya-kotlyarov",

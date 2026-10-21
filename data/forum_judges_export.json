@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-21T11:41:58.320Z",
+  "exportedAt": "2026-10-21T11:52:16.127Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2304,6 +2304,12 @@
       "forum_name": "типатрик",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "comment": "Прикольно!",
+          "scoredAt": "2026-10-21T11:50:12.790Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
