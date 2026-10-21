@@ -104,3 +104,14 @@ test('raw quarantine quality checks retain strict timestamps, scores and cross-s
  const invalid=merged();invalid.main.quarantinedMembers[0].scores[0].score=0;assert.throws(()=>validateData(invalid.main,invalid.forum),/invalid raw score/);
  const mismatch=merged();mismatch.forum.quarantinedMembers[0].scores[0].score=1;assert.throws(()=>validateData(mismatch.main,mismatch.forum),/Несогласованные оценки/);
 });
+
+test('only the ratings report includes six-score quarantine, once, from raw or partitioned data',()=>{
+ const batch=merged(),rawMain={...main,exportedAt:later,members:[...batch.main.members,...batch.main.quarantinedMembers]},rawForum={...forum,exportedAt:later,members:[...batch.forum.members,...batch.forum.quarantinedMembers]};
+ const expected={total:3,buckets:[0,0,1,0,0,1,1]};
+ for(const D of [normalizeData(batch.main,batch.forum),normalizeData(rawMain,rawForum)]){
+  assert.deepEqual(D.ratingsReport,expected);
+  assert.equal(D.people.length,2);assert.equal(D.events.length,7);assert(!D.byId.has(excluded));
+ }
+ const gone=structuredClone(batch);gone.main.quarantinedMembers[0].current=false;
+ assert.deepEqual(normalizeData(gone.main,gone.forum).ratingsReport,{total:2,buckets:[0,0,1,0,0,1]});
+});

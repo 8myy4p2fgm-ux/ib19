@@ -156,16 +156,15 @@ for(const [id,n,percent] of [['home-total-passed',totalPassed,true],['home-total
  const cell=$(id);cell.textContent=fmt(n,0);
  if(percent){const small=document.createElement('small');small.className='home-group-share';small.textContent=totalDecided?fmt(100*n/totalDecided,1)+'%':'—';cell.append(small);}
 }
-const ratingBuckets=Array.from({length:6},()=>0);
-for(const participant of P){ratingBuckets[Math.min(5,participant[3].length)]++;}
+const {buckets:ratingBuckets,total:ratingsTotal}=D.ratingsReport;
 const maxBucket=Math.max(1,...ratingBuckets);
-$('home-ratings-total').textContent=fmt(P.length,0)+' участников';
+$('home-ratings-total').textContent=fmt(ratingsTotal,0)+' участников';
 $('home-ratings-list').replaceChildren(...ratingBuckets.map((count,i)=>{
- const row=document.createElement('div');row.className='home-rating-item';
+ const row=document.createElement('div');row.className='home-rating-item'+(i===config.scoresPerParticipant?' home-rating-complete':'');
  const label=document.createElement('span');label.className='home-rating-label';label.textContent=i+' '+(i===1?'оценка':i>=2&&i<=4?'оценки':'оценок');
  const track=document.createElement('div');track.className='home-rating-track';
  const fill=document.createElement('i');fill.style.width=(count/maxBucket*100)+'%';track.append(fill);
- const value=document.createElement('strong');value.textContent=fmt(count,0)+' ('+fmt(P.length?100*count/P.length:0,1)+'%)';
+ const value=document.createElement('strong');value.textContent=fmt(count,0)+' ('+fmt(ratingsTotal?100*count/ratingsTotal:0,1)+'%)';
  row.append(label,track,value);return row;
 }));
 

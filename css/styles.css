@@ -1330,7 +1330,7 @@ h2{font-weight:550}
 #home .home-rating-label{font-size:13px;color:var(--muted)}
 #home .home-rating-track{height:9px;background:var(--border);overflow:hidden}
 #home .home-rating-track i{display:block;height:100%;background:#93AA9C}
-#home .home-rating-item:last-child .home-rating-track i{background:#68D99A}
+#home .home-rating-item.home-rating-complete .home-rating-track i{background:#68D99A}
 #home .home-rating-item strong{text-align:right;font-size:16px;font-weight:550;font-variant-numeric:tabular-nums}
 @media(max-width:760px){#home .home-ratings-head{flex-wrap:wrap;gap:5px}#home .home-ratings-head h2{font-size:24px}#home .home-rating-item{grid-template-columns:70px minmax(0,1fr) 44px;gap:9px}#home .home-rating-label{font-size:12px}#home .home-rating-item strong{font-size:14px}#home .home-group-table .home-group-share{font-size:10px}}
 

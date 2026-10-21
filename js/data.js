@@ -29,7 +29,13 @@ export function normalizeData(rawMain,rawForum,options={}){
  const metadata=new Map(forum.members.filter(p=>ids.has(p.userId)).map(p=>[p.userId,p]));
  const people=main.members.map(p=>{const f=metadata.get(p.userId);return [p.userId,f?.forum_name||'',f?.group||'',p.scores.map(s=>[s.judgeName,s.score,s.scoredAt])];});
  const events=main.members.flatMap(p=>p.scores.map(s=>({...s,userId:p.userId,forum:metadata.has(p.userId),judge:s.judgeName,t:Date.parse(s.scoredAt)}))).sort((a,b)=>(Number.isFinite(a.t)?a.t:Infinity)-(Number.isFinite(b.t)?b.t:Infinity));
- return {excluded,judges,judgeIdentities,updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
+ // Only this overview report includes current quarantined participants.
+ // Keep their raw scores out of people, events and every analytics map.
+ const ratingCounts=[...main.members,...(main.quarantinedMembers||[]).filter(p=>p.current!==false)].map(p=>p.scores.length);
+ const ratingBuckets=Array.from({length:Math.max(config.scoresPerParticipant,...ratingCounts)+1},()=>0);
+ for(const count of ratingCounts)ratingBuckets[count]++;
+ const ratingsReport={total:ratingCounts.length,buckets:ratingBuckets};
+ return {ratingsReport,excluded,judges,judgeIdentities,updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
 }
 // Retry a complete snapshot: never combine data from different published versions.
 export async function loadData(){
