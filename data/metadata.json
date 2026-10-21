@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T22:02:19.804Z",
-  "exportedAt": "2026-10-21T22:02:19.804Z",
-  "runId": "2026-10-21T22:02:19.804Z",
-  "forumExportedAt": "2026-10-21T22:02:19.804Z",
+  "lastSuccessfulAt": "2026-10-21T22:11:56.203Z",
+  "exportedAt": "2026-10-21T22:11:56.203Z",
+  "runId": "2026-10-21T22:11:56.203Z",
+  "forumExportedAt": "2026-10-21T22:11:56.203Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15429,
+    "scores": 15436,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 10,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 13,
-    "durationMs": 12712,
-    "scoresBefore": 15419,
-    "scoresAfter": 15429,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 10,
+    "durationMs": 9769,
+    "scoresBefore": 15429,
+    "scoresAfter": 15436,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.60341671751067,
+    "requestReductionPercent": 99.69493593654668,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,55 @@
       "feed": [
         {
           "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Скрэпер",
+          "comment": "Хорошая, цельная работа с уверенным исполнением и собственным стилем. До пятёрки не хватает какого-то действительно яркого момента, но проход вообще без вопросов.",
+          "scoredAt": "2026-10-21T22:11:09.636Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Какбынибыло",
+          "comment": "Хорошее исполнение, есть свой стиль",
+          "scoredAt": "2026-10-21T22:10:16.124Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Уиллем Дефолт",
+          "comment": "",
+          "scoredAt": "2026-10-21T22:09:49.164Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "TIHN",
+          "comment": "Нормальная работа, концовка понравилась.",
+          "scoredAt": "2026-10-21T22:09:32.650Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Solaris",
+          "comment": "Ну стиль чувствуется и в тексте, и в подаче.",
+          "scoredAt": "2026-10-21T22:08:33.191Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "MR.POPULARITY",
+          "comment": "Ну 3 - идеальный баланс между хорошим звуком и так себе текстом.",
+          "scoredAt": "2026-10-21T22:07:27.460Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Base-T",
+          "comment": "Ну пока очень слабо и рано для прохода.",
+          "scoredAt": "2026-10-21T22:05:46.643Z"
+        },
+        {
+          "judgeName": "Никсон",
           "score": 3,
           "artist": "VCPR",
           "comment": "Самый дефолтный трек на отбор. Хорошо по звуку, не очень по тексту.",
@@ -150,55 +199,6 @@
           "artist": "rapHinha",
           "comment": "Стилёк есть, но что-то придумай со сведением, если пройдешь. Потенциал есть.",
           "scoredAt": "2026-10-21T21:53:29.157Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "Клюква",
-          "comment": "Ну хороший косплей на Рэма!",
-          "scoredAt": "2026-10-21T21:52:47.801Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Никита СЕрафиим",
-          "comment": "Круто прописал в тексте эдлибы. На этом плюсы кончились.",
-          "scoredAt": "2026-10-21T21:52:17.685Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Джеффри Дин Морган",
-          "comment": "Ну очень дефолтный рэп, хотя местами смешной текст.",
-          "scoredAt": "2026-10-21T21:51:26.657Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Languid",
-          "comment": "Ну текст, конечно, очень слабый. А исполнение не такое и хорошее, чтобы закрыть глаза, например, на супер простые рифмы.",
-          "scoredAt": "2026-10-21T21:50:31.608Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "Psevdonemoy",
-          "comment": "Очень странный ритмический рисунок. Как будто сильно хочешь попасть в бит, но иногда прям мажешь. Увы,  перемудрил и не показал скилла для прохода",
-          "scoredAt": "2026-10-21T21:49:24.571Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "artist": "ТЕТРАПАК",
-          "comment": "Хорошая работа. Уверенный проход",
-          "scoredAt": "2026-10-21T21:47:54.882Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "FUCKT",
-          "comment": "Вот умеешь читать рэп, но такие клишированные рифмы. Да текст в целом очень базовый, поэтому не могу больше тройки поставить",
-          "scoredAt": "2026-10-21T21:47:16.259Z"
         }
       ]
     }
