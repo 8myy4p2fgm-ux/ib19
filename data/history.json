@@ -170568,6 +170568,132 @@
         "scoredAt": "2026-10-21T10:35:15.755Z",
         "userId": "514a8aa1-fece-487c-b0ed-b9b86d7966de"
       }
+    },
+    {
+      "id": "ac6fd964e1086755d964a03c7c9451959a0507d5e967db42ed1e07148f3c2572",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:45:46.379Z",
+      "key": "[\"ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Очень глухо твоя капа звучит. Читка норм. 4 с минусом. ",
+        "scoredAt": "2026-10-21T10:45:46.379Z",
+        "userId": "ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17"
+      }
+    },
+    {
+      "id": "a4ff9dc957ae6eb301fbee254ee9671ce4d284a36c1093935644249e9e7184cc",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:42:51.757Z",
+      "key": "[\"02ed1596-c8ac-4ae0-95f1-b7d488622797\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Сильно абстрактный текст, мысль плавает. По исполнению - что-то есть в этом. ",
+        "scoredAt": "2026-10-21T10:42:51.757Z",
+        "userId": "02ed1596-c8ac-4ae0-95f1-b7d488622797"
+      }
+    },
+    {
+      "id": "5d9f7e8ddc6686064199a667ee8d4361c2110c0eadfc25f670193e3f4144bfc3",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:46:40.540Z",
+      "key": "[\"95cc0ebe-8340-4097-b155-7a700b73e655\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошая, плотная работа. Давай во второй с общей оценкой \"хорошо\". ",
+        "scoredAt": "2026-10-21T10:46:40.540Z",
+        "userId": "95cc0ebe-8340-4097-b155-7a700b73e655"
+      }
+    },
+    {
+      "id": "65b149ae100a171aa11911fe9fa98918e30beeccbb174f2467105811ad7e1cab",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:48:20.022Z",
+      "key": "[\"061851e6-d851-4648-b6d8-49ddbe42b1e9\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "По исполнению плохо пока. Возможно чуть потренироваться и сможешь сделать проходной трек. ",
+        "scoredAt": "2026-10-21T10:48:20.022Z",
+        "userId": "061851e6-d851-4648-b6d8-49ddbe42b1e9"
+      }
+    },
+    {
+      "id": "fce0254cc9d944224e55be3d5ca57b58686a0595c76ce198f14822b1d8df5bff",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:47:30.458Z",
+      "key": "[\"f5bc2e06-3446-4281-a53c-0586edc7cd8c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Простенько, обычно, но это проход. ",
+        "scoredAt": "2026-10-21T10:47:30.458Z",
+        "userId": "f5bc2e06-3446-4281-a53c-0586edc7cd8c"
+      }
+    },
+    {
+      "id": "ed24f2464590dd813d261c4cba823233ca6177b9f0c09528d9ab4a54596b0120",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:44:00.456Z",
+      "key": "[\"3ad90c38-ffb0-4f0f-b098-c251490f353e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Стильненько. Но почему столько людей не выговаривает Р? Это сейчас такая зумерскаяпроблема? ",
+        "scoredAt": "2026-10-21T10:44:00.456Z",
+        "userId": "3ad90c38-ffb0-4f0f-b098-c251490f353e"
+      }
+    },
+    {
+      "id": "227b5771d73d8a2c9fa40fb6f134e0965649d79c98504e0cc65bc13976e3b78d",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:44:56.142Z",
+      "key": "[\"6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Текст сильно лучше чем его подача. За текст 4. ",
+        "scoredAt": "2026-10-21T10:44:56.142Z",
+        "userId": "6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c"
+      }
+    },
+    {
+      "id": "323b5fbbc3ff68c69bd9715adbbb8bb08b25d30669911739794819abf705f7f9",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:49:35.876Z",
+      "key": "[\"6be8c258-f067-480f-972a-cfef91d6b2e0\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошо читаешь, есть стилёк в этом. Ускорение круто звучит, здесь не у всех получается ускоряться. Твёрдая 4. Не хватило пару крутых строк, чтобы поставить 5. А так удачи! ",
+        "scoredAt": "2026-10-21T10:49:35.876Z",
+        "userId": "6be8c258-f067-480f-972a-cfef91d6b2e0"
+      }
+    },
+    {
+      "id": "6b4972b265ad20b0a32943cce1392f2654fcc3ec1b4daba2b5fa29288330fc6b",
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "sourceScoredAt": "2026-10-21T10:51:51.952Z",
+      "key": "[\"6f581193-4f8d-4e45-9788-571173a67eac\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Очень плохо читаешь, и скрип микрофона просте терзает уши. За исполнение можно ставить твёрдую 2, или даже 1. В тексте есть прикол, но в третий не пройти с таким убогим качеством. И да, сам ты хуесос! ",
+        "scoredAt": "2026-10-21T10:51:51.952Z",
+        "userId": "6f581193-4f8d-4e45-9788-571173a67eac"
+      }
     }
   ],
   "snapshots": [
@@ -184827,6 +184953,26 @@
           "index": 31.918620828324727,
           "favor": 17.984895937451412,
           "attention": 3.2670582242066466,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T10:51:59.377Z",
+      "exportedAt": "2026-10-21T10:51:59.377Z",
+      "scores": 15151,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.21930730647623,
+          "favor": 8.625597559689286,
+          "attention": 5.620655854571377,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.945898901677495,
+          "favor": 17.982907121292847,
+          "attention": 3.2963251137179794,
           "respect": 10.666666666666666
         }
       }

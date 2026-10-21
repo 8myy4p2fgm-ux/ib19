@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T10:42:08.468Z",
-  "exportedAt": "2026-10-21T10:42:08.468Z",
-  "runId": "2026-10-21T10:42:08.468Z",
-  "forumExportedAt": "2026-10-21T10:42:08.468Z",
+  "lastSuccessfulAt": "2026-10-21T10:51:59.377Z",
+  "exportedAt": "2026-10-21T10:51:59.377Z",
+  "runId": "2026-10-21T10:51:59.377Z",
+  "forumExportedAt": "2026-10-21T10:51:59.377Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15142,
+    "scores": 15151,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 13,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 9,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9018,
-    "scoresBefore": 15136,
-    "scoresAfter": 15142,
+    "participantsWithNewScores": 9,
+    "changedParticipants": 8,
+    "logicalRequests": 13,
+    "durationMs": 13144,
+    "scoresBefore": 15142,
+    "scoresAfter": 15151,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.72519083969466,
+    "requestReductionPercent": 99.6030534351145,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -98,6 +98,62 @@
         {
           "judgeName": "CraftySound",
           "score": 4,
+          "artist": "Ispavlonave",
+          "comment": "Хорошо читаешь, есть стилёк в этом. Ускорение круто звучит, здесь не у всех получается ускоряться. Твёрдая 4. Не хватило пару крутых строк, чтобы поставить 5. А так удачи! ",
+          "scoredAt": "2026-10-21T10:49:35.876Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "Денис",
+          "comment": "По исполнению плохо пока. Возможно чуть потренироваться и сможешь сделать проходной трек. ",
+          "scoredAt": "2026-10-21T10:48:20.022Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Джига",
+          "comment": "Простенько, обычно, но это проход. ",
+          "scoredAt": "2026-10-21T10:47:30.458Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "Alonza",
+          "comment": "Хорошая, плотная работа. Давай во второй с общей оценкой \"хорошо\". ",
+          "scoredAt": "2026-10-21T10:46:40.540Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "Prosty_Esli_Traxnul",
+          "comment": "Очень глухо твоя капа звучит. Читка норм. 4 с минусом. ",
+          "scoredAt": "2026-10-21T10:45:46.379Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "LongShotDay",
+          "comment": "Текст сильно лучше чем его подача. За текст 4. ",
+          "scoredAt": "2026-10-21T10:44:56.142Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "ISTINA",
+          "comment": "Стильненько. Но почему столько людей не выговаривает Р? Это сейчас такая зумерскаяпроблема? ",
+          "scoredAt": "2026-10-21T10:44:00.456Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Макс Каст",
+          "comment": "Сильно абстрактный текст, мысль плавает. По исполнению - что-то есть в этом. ",
+          "scoredAt": "2026-10-21T10:42:51.757Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
           "artist": "Вова Эйкивоки",
           "comment": "Нормальная работа, но неоднозначная. Что-то между нормально и хорошо. Поставлю хорошо. ",
           "scoredAt": "2026-10-21T10:41:44.359Z"
@@ -143,62 +199,6 @@
           "artist": "AXIYAMI",
           "comment": "Лайтовая, приятная работа. Здесь автотюн уместен, не так как у многих.",
           "scoredAt": "2026-10-21T10:30:43.876Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Bodjee",
-          "comment": "Панчи есть, но средненького качества. Много квадратных и слабосозвучных рифм. Какого-то разъеба не хватает в плане исполнениятирезвука. Вроде всё ровно, но и не взорвал явно. Какой-то мощной перебежки или вкусных айров можно было добавить в подобного рода трек. Но в целом трек на проход. Три с плюсом.",
-          "scoredAt": "2026-10-21T10:30:43.421Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "пивной принц",
-          "comment": "Это плохо, это неорганично. Текст ужас.",
-          "scoredAt": "2026-10-21T10:29:27.381Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Рэ Тррай",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:17:46.940Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "PALMA46",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:17:15.025Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "perezvonyu",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:10:33.325Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "N.a.y.c.h",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:10:15.532Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Dima Dz",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:09:45.917Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "bалуев Ю.",
-          "comment": "",
-          "scoredAt": "2026-10-21T10:09:20.596Z"
         }
       ]
     }
