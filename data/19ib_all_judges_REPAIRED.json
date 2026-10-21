@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T17:41:51.658Z",
+  "exportedAt": "2026-10-21T18:52:05.446Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -67788,6 +67788,29 @@
       "trackId": "64de6e7f-dfaf-4f12-a5ce-4ab04cb6e3ca"
     },
     {
+      "userId": "6a5c208d-1cf7-44a0-939f-7be84314bdd3",
+      "scoredCount": 2,
+      "scores": [
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-17T12:08:25.801Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 3,
+          "comment": "\"но ща житуха тебя нагнёт\" - в этом месте прям жестко ритмику поломал, не понравилось..\nЕще были слова, которые кривовато легли на бит.\nТекст средний такой, без какой-либо претензии на глубокий смысл.\nЕще почему-то капа смещена в левый канал. Видимо на сведосе чуток крутанул не туда.",
+          "scoredAt": "2026-10-10T08:07:58.442Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T12:12:16.903Z",
+      "current": true,
+      "artistName": "МЦ BRUTAL KILLER",
+      "artistSlug": "mc-brutal-killer",
+      "trackId": "2813c3e5-3501-4fc8-bc2f-f280b3f9c6ae"
+    },
+    {
       "userId": "ac8726ac-eda6-4d47-91e3-ed7055e3d3a7",
       "scoredCount": 5,
       "scores": [
@@ -68149,29 +68172,6 @@
       "artistName": "Articoola",
       "artistSlug": "articoola",
       "trackId": "1fc4f3ae-a311-42d4-8a1e-e0a01dc44da6"
-    },
-    {
-      "userId": "6a5c208d-1cf7-44a0-939f-7be84314bdd3",
-      "scoredCount": 2,
-      "scores": [
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "",
-          "scoredAt": "2026-10-17T12:08:25.801Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 3,
-          "comment": "\"но ща житуха тебя нагнёт\" - в этом месте прям жестко ритмику поломал, не понравилось..\nЕще были слова, которые кривовато легли на бит.\nТекст средний такой, без какой-либо претензии на глубокий смысл.\nЕще почему-то капа смещена в левый канал. Видимо на сведосе чуток крутанул не туда.",
-          "scoredAt": "2026-10-10T08:07:58.442Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T12:12:16.903Z",
-      "current": true,
-      "artistName": "МЦ BRUTAL KILLER",
-      "artistSlug": "mc-brutal-killer",
-      "trackId": "2813c3e5-3501-4fc8-bc2f-f280b3f9c6ae"
     },
     {
       "userId": "415b758f-2dee-47df-9d1b-28896648b93b",
