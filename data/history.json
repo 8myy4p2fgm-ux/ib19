@@ -169322,6 +169322,230 @@
         "scoredAt": "2026-10-21T06:37:45.077Z",
         "userId": "d9ab04e6-7fd3-47cc-9468-26e66d9c02e0"
       }
+    },
+    {
+      "id": "0ef8adbcf8131478e6c804f59a0597d4a5292c60c30984cc398e5ce6165d126d",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:42:27.530Z",
+      "key": "[\"741bfcab-504b-4f5f-bd56-fb4f01985d77\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 3,
+        "comment": "Капа зашакаленая, прям практически \"полифоническая\", я что-то даже и не знаю как это правильно называется. ) Но голос абсолютно лишен объема, понятно что скорее всего так было задумано, но переборщили. Сам песняк драйвовый и с историей, ниче так, но текст очень слабоват.",
+        "scoredAt": "2026-10-21T07:42:27.530Z",
+        "userId": "741bfcab-504b-4f5f-bd56-fb4f01985d77"
+      }
+    },
+    {
+      "id": "3c540c0eb8f04279f50ba3a1aa838ba7a685ee5c4d9633d0d5d1d19208398cfa",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:47:03.075Z",
+      "key": "[\"02ed1596-c8ac-4ae0-95f1-b7d488622797\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Попробовал послушать без текста – как будто на вымышленном языке читаешь. Ничего не разобрать.",
+        "scoredAt": "2026-10-21T07:47:03.075Z",
+        "userId": "02ed1596-c8ac-4ae0-95f1-b7d488622797"
+      }
+    },
+    {
+      "id": "4d9015b1d6c6a92e768daaa6ea41b1c4fe16ebfd4c4f835b6fa25b891649af1a",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:39:06.206Z",
+      "key": "[\"c07c7ab1-b00b-4d00-ac3d-e1edb735953e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T07:39:06.206Z",
+        "userId": "c07c7ab1-b00b-4d00-ac3d-e1edb735953e"
+      }
+    },
+    {
+      "id": "98821d1e031c684d1fc2e20b3a37a574ca4d0e3e2d073c1eeae9b993086fd0ff",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:35:45.692Z",
+      "key": "[\"7325963b-8af0-4443-a11f-db5e7ffc8b47\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T07:35:45.692Z",
+        "userId": "7325963b-8af0-4443-a11f-db5e7ffc8b47"
+      }
+    },
+    {
+      "id": "05a1cc02369e6c73e3d44c59be584f3059cbb6d70db0ec9b41d2eb04ce2edcaa",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:38:31.197Z",
+      "key": "[\"58ded3ea-74d8-4543-bb9f-8a2af7ef7009\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "блин... а меня прикольнуло, но хз, у тебя шансов на проход мало. ",
+        "scoredAt": "2026-10-21T07:38:31.197Z",
+        "userId": "58ded3ea-74d8-4543-bb9f-8a2af7ef7009"
+      }
+    },
+    {
+      "id": "916847ca77c69d258de5894e2fd13de42c446a8e95d0535cd1fa9660fe7ddbbc",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:56:14.786Z",
+      "key": "[\"84f35751-2352-40ca-9274-e2955ef31a68\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Хороший стилёк, но по качеству исполнения есть куда расти.",
+        "scoredAt": "2026-10-21T07:56:14.786Z",
+        "userId": "84f35751-2352-40ca-9274-e2955ef31a68"
+      }
+    },
+    {
+      "id": "ebe9bf21161439fc9d42b10a972334923666700cb4990f226902b57dd64df9e6",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:57:42.194Z",
+      "key": "[\"426e92f5-a2c4-459c-ab32-fd475ca3547f\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Много чего умеешь. На четвёрку нарычал точно. Но рифмы надо поднимать.",
+        "scoredAt": "2026-10-21T07:57:42.194Z",
+        "userId": "426e92f5-a2c4-459c-ab32-fd475ca3547f"
+      }
+    },
+    {
+      "id": "5f5f10db58afbfcd45b84cd4419382cf490865092f04adf7843bfb70ebf42d3c",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:49:14.969Z",
+      "key": "[\"ea226567-2d29-4fe8-a74a-43568b857c59\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Стиль очень похож на Magu.",
+        "scoredAt": "2026-10-21T07:49:14.969Z",
+        "userId": "ea226567-2d29-4fe8-a74a-43568b857c59"
+      }
+    },
+    {
+      "id": "ab2a09c44454d9916f4d4da45d47daae6ca5bad944327626152043e03bfdbbc8",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:49:44.712Z",
+      "key": "[\"acb7209a-ef5f-497c-98e0-238cffbb08f8\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 2,
+        "comment": "Раскрытие для галочки, да как и весь трек впринципе. Рановато пока.",
+        "scoredAt": "2026-10-21T07:49:44.712Z",
+        "userId": "acb7209a-ef5f-497c-98e0-238cffbb08f8"
+      }
+    },
+    {
+      "id": "a52321fe279548c962b68b2c435cc5edb3bc251f3e123c5e323c04c56f0ac303",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:57:25.911Z",
+      "key": "[\"ca15aa3d-2172-4730-9ae5-7634df92a04c\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Главное, что ты не ссышь Мизулину. Пока что)",
+        "scoredAt": "2026-10-21T07:57:25.911Z",
+        "userId": "ca15aa3d-2172-4730-9ae5-7634df92a04c"
+      }
+    },
+    {
+      "id": "3bbfc26c0b7f269b7800d846690a8ee0e5ded405071df518bfaff90237913675",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:59:24.233Z",
+      "key": "[\"c1947238-9d21-472d-a6d2-43951542d697\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Какая-то вообще неполноценная работа. Ни темы, ни раскрытия. Как будто отрывок трека сдал.",
+        "scoredAt": "2026-10-21T07:59:24.233Z",
+        "userId": "c1947238-9d21-472d-a6d2-43951542d697"
+      }
+    },
+    {
+      "id": "b7b49b75a7663cfa45cfb3db41bfe40f6ed7d3e99d8f86f6e61b8e99a12ff860",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:51:18.432Z",
+      "key": "[\"cc7dde8b-cf49-4633-845a-8f67cc795bb3\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Откровенная среднина. Двойки от других судей мне понятны.",
+        "scoredAt": "2026-10-21T07:51:18.432Z",
+        "userId": "cc7dde8b-cf49-4633-845a-8f67cc795bb3"
+      }
+    },
+    {
+      "id": "34a6fe3ac60a3c6e4e6d8eaa705e2a1012ac890f32ef8591f8333bfbcf2244c3",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:58:13.998Z",
+      "key": "[\"d3806a20-e471-452b-904f-3d9811eb0fd1\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Вторая часть затащила. Первая вообще не понравилась",
+        "scoredAt": "2026-10-21T07:58:13.998Z",
+        "userId": "d3806a20-e471-452b-904f-3d9811eb0fd1"
+      }
+    },
+    {
+      "id": "2f48a71429d18d246ff70ec39ad88c4ecbcec218553d1b6f61930a6ae838ae82",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T08:01:48.213Z",
+      "key": "[\"7cf3edc8-5e1c-466d-8484-784d4adca9dd\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Накринжевал в интонациях знатно. Ускорения зафаршмачил. Авансом ставлю тройку, ибо суммарно у тебя 12 баллов от четырёх судей – не буду зарезать. Но не сдавай на второй подобную шляпу.",
+        "scoredAt": "2026-10-21T08:01:48.213Z",
+        "userId": "7cf3edc8-5e1c-466d-8484-784d4adca9dd"
+      }
+    },
+    {
+      "id": "c44d976ee35a17e33eb650803303a02cccd61d951bd4f57854ffab261c51b396",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:55:33.113Z",
+      "key": "[\"98c0bbc5-76c2-4d7f-b83f-1725703eb3cc\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T07:55:33.113Z",
+        "userId": "98c0bbc5-76c2-4d7f-b83f-1725703eb3cc"
+      }
+    },
+    {
+      "id": "f87b5e63cf84d4561d52c7d22a785ff8cbe7f8b1927446813f9501e731ad2cfc",
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "sourceScoredAt": "2026-10-21T07:45:52.491Z",
+      "key": "[\"673c7d2b-06e8-4f88-b41e-9c3a264c8dfe\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "опять решающего дали =О \nа я тут как \"свободная касса\" xD \n\nНу тут копец дядька, ты такой релаксовый\nРифмы лжи-миражи\n\nчитаешь слишком квадратно + то торопишься, то медлишь, запишись пожалуйста нормально в следующем раунде, надеюсь я не пожалею ",
+        "scoredAt": "2026-10-21T07:45:52.491Z",
+        "userId": "673c7d2b-06e8-4f88-b41e-9c3a264c8dfe"
+      }
     }
   ],
   "snapshots": [
@@ -183261,6 +183485,26 @@
           "index": 31.814036944108842,
           "favor": 17.990056754703495,
           "attention": 3.157313522738681,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T08:02:22.904Z",
+      "exportedAt": "2026-10-21T08:02:22.904Z",
+      "scores": 15069,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.274554508879334,
+          "favor": 8.604546522358913,
+          "attention": 5.710793485009848,
+          "respect": 5.959214501510574
+        },
+        "veterans": {
+          "index": 31.843204662156225,
+          "favor": 17.991629837953667,
+          "attention": 3.1849081575358946,
           "respect": 10.666666666666666
         }
       }

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T07:32:02.844Z",
-  "exportedAt": "2026-10-21T07:32:02.844Z",
-  "runId": "2026-10-21T07:32:02.844Z",
-  "forumExportedAt": "2026-10-21T07:32:02.844Z",
+  "lastSuccessfulAt": "2026-10-21T08:02:22.904Z",
+  "exportedAt": "2026-10-21T08:02:22.904Z",
+  "runId": "2026-10-21T08:02:22.904Z",
+  "forumExportedAt": "2026-10-21T08:02:22.904Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15053,
+    "scores": 15069,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 19,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 16,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 4186,
+    "participantsWithNewScores": 16,
+    "changedParticipants": 16,
+    "logicalRequests": 19,
+    "durationMs": 19109,
     "scoresBefore": 15053,
-    "scoresAfter": 15053,
+    "scoresAfter": 15069,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.90839694656488,
+    "requestReductionPercent": 99.41984732824427,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -96,109 +96,109 @@
       "rubrics": [],
       "feed": [
         {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Отец",
+          "comment": "Накринжевал в интонациях знатно. Ускорения зафаршмачил. Авансом ставлю тройку, ибо суммарно у тебя 12 баллов от четырёх судей – не буду зарезать. Но не сдавай на второй подобную шляпу.",
+          "scoredAt": "2026-10-21T08:01:48.213Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "ИИР",
+          "comment": "Какая-то вообще неполноценная работа. Ни темы, ни раскрытия. Как будто отрывок трека сдал.",
+          "scoredAt": "2026-10-21T07:59:24.233Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "WhoDie",
+          "comment": "Вторая часть затащила. Первая вообще не понравилась",
+          "scoredAt": "2026-10-21T07:58:13.998Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "ARTUREZ",
+          "comment": "Много чего умеешь. На четвёрку нарычал точно. Но рифмы надо поднимать.",
+          "scoredAt": "2026-10-21T07:57:42.194Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Freezyvoice",
+          "comment": "Главное, что ты не ссышь Мизулину. Пока что)",
+          "scoredAt": "2026-10-21T07:57:25.911Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "RASON MC",
+          "comment": "Хороший стилёк, но по качеству исполнения есть куда расти.",
+          "scoredAt": "2026-10-21T07:56:14.786Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "artist": "Саша Винстон",
+          "comment": "",
+          "scoredAt": "2026-10-21T07:55:33.113Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "ДЕВЯНОСТОЧЕТВЕРТЫЙ",
+          "comment": "Откровенная среднина. Двойки от других судей мне понятны.",
+          "scoredAt": "2026-10-21T07:51:18.432Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "artist": "ig.ez",
+          "comment": "Раскрытие для галочки, да как и весь трек впринципе. Рановато пока.",
+          "scoredAt": "2026-10-21T07:49:44.712Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Piligrim",
+          "comment": "Стиль очень похож на Magu.",
+          "scoredAt": "2026-10-21T07:49:14.969Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "Макс Каст",
+          "comment": "Попробовал послушать без текста – как будто на вымышленном языке читаешь. Ничего не разобрать.",
+          "scoredAt": "2026-10-21T07:47:03.075Z"
+        },
+        {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "СНЭЛ",
-          "comment": "+- неплохо, во втором надо больше показать твоих способностей, получше по рифмам постараться и показать зубы\n",
-          "scoredAt": "2026-10-21T06:39:12.489Z"
+          "artist": "ДМИ-III",
+          "comment": "опять решающего дали =О \nа я тут как \"свободная касса\" xD \n\nНу тут копец дядька, ты такой релаксовый\nРифмы лжи-миражи\n\nчитаешь слишком квадратно + то торопишься, то медлишь, запишись пожалуйста нормально в следующем раунде, надеюсь я не пожалею ",
+          "scoredAt": "2026-10-21T07:45:52.491Z"
         },
         {
-          "judgeName": "KseroN",
+          "judgeName": "XSive MC",
           "score": 3,
-          "artist": "ДОРЕНКО",
-          "comment": "",
-          "scoredAt": "2026-10-21T06:37:45.077Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 1,
-          "artist": "ЭмоГотка2007",
-          "comment": "больно",
-          "scoredAt": "2026-10-21T06:37:15.403Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Bug Dan",
-          "comment": "",
-          "scoredAt": "2026-10-21T06:36:26.757Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Принц Комы",
-          "comment": "",
-          "scoredAt": "2026-10-21T06:35:24.500Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "yurisneg",
-          "comment": "",
-          "scoredAt": "2026-10-21T06:34:53.033Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "иссиня",
-          "comment": "хз, не выкупил.\nотсутствует уверенность, читка слишком пассивная \nпо ОВ проход, но прям на грани ",
-          "scoredAt": "2026-10-21T06:34:08.473Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "САНЯ ДВУЛИКИЙ",
-          "comment": "бубубубубубубубуубуб \n\nболее членораздельно в следующем раунде и свести это всё, но во втором раунде с тобой точно ЗАЙЦЕВ +1",
-          "scoredAt": "2026-10-21T06:32:43.713Z"
+          "artist": "добройночи.",
+          "comment": "Капа зашакаленая, прям практически \"полифоническая\", я что-то даже и не знаю как это правильно называется. ) Но голос абсолютно лишен объема, понятно что скорее всего так было задумано, но переборщили. Сам песняк драйвовый и с историей, ниче так, но текст очень слабоват.",
+          "scoredAt": "2026-10-21T07:42:27.530Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "Виталий Чуприков",
+          "artist": "Inice",
           "comment": "",
-          "scoredAt": "2026-10-21T06:31:31.729Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "TEN & ONE",
-          "comment": "Что-то очень странное, я больше был бы против прохода если честно.\n\nКаша, а текста одна четвёрка\n\n",
-          "scoredAt": "2026-10-21T06:31:09.808Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "stiga2mc",
-          "comment": "",
-          "scoredAt": "2026-10-21T06:29:40.974Z"
+          "scoredAt": "2026-10-21T07:39:06.206Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "Thought killer",
-          "comment": "моментами торопишься и твой ускорения из-за этого кривые, в остальном неплохо, но звук УГ. ",
-          "scoredAt": "2026-10-21T06:29:09.762Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "aSmilez",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:40:45.615Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Kost Manhattan",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:26:29.892Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "VXALATE",
-          "comment": "Рифмы пожалуйста подтяни и не перегружай по количеству слогов в строчке ",
-          "scoredAt": "2026-10-21T02:22:33.347Z"
+          "artist": "OGLAVNOM",
+          "comment": "блин... а меня прикольнуло, но хз, у тебя шансов на проход мало. ",
+          "scoredAt": "2026-10-21T07:38:31.197Z"
         }
       ]
     }
