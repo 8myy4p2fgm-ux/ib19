@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-21T08:51:51.014Z",
+  "exportedAt": "2026-10-21T09:02:09.853Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -2070,6 +2070,12 @@
       "forum_name": "OliverTvist",
       "group": "OG",
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Очень хорошо пишешь, но флоу слишком рассказывающий. Надо доработать подачу.",
+          "scoredAt": "2026-10-21T08:53:45.981Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,

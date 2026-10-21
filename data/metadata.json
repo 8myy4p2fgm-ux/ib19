@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T08:51:51.014Z",
-  "exportedAt": "2026-10-21T08:51:51.014Z",
-  "runId": "2026-10-21T08:51:51.014Z",
-  "forumExportedAt": "2026-10-21T08:51:51.014Z",
+  "lastSuccessfulAt": "2026-10-21T09:02:09.853Z",
+  "exportedAt": "2026-10-21T09:02:09.853Z",
+  "runId": "2026-10-21T09:02:09.853Z",
+  "forumExportedAt": "2026-10-21T09:02:09.853Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15081,
+    "scores": 15083,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 6937,
-    "scoresBefore": 15077,
-    "scoresAfter": 15081,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5373,
+    "scoresBefore": 15081,
+    "scoresAfter": 15083,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.78625954198473,
+    "requestReductionPercent": 99.84732824427482,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "PONEDELNIK",
+          "comment": "Квинт эссенция? Грошь? С такими ошибками иногда задумываешься, понимает ли сам автор вкладываемый в слова смысл.",
+          "scoredAt": "2026-10-21T08:57:46.923Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "the Niddle Drop",
+          "comment": "Очень хорошо пишешь, но флоу слишком рассказывающий. Надо доработать подачу.",
+          "scoredAt": "2026-10-21T08:53:45.981Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -185,20 +199,6 @@
           "artist": "Отец",
           "comment": "Накринжевал в интонациях знатно. Ускорения зафаршмачил. Авансом ставлю тройку, ибо суммарно у тебя 12 баллов от четырёх судей – не буду зарезать. Но не сдавай на второй подобную шляпу.",
           "scoredAt": "2026-10-21T08:01:48.213Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "ИИР",
-          "comment": "Какая-то вообще неполноценная работа. Ни темы, ни раскрытия. Как будто отрывок трека сдал.",
-          "scoredAt": "2026-10-21T07:59:24.233Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "WhoDie",
-          "comment": "Вторая часть затащила. Первая вообще не понравилась",
-          "scoredAt": "2026-10-21T07:58:13.998Z"
         }
       ]
     }

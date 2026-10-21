@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T08:51:51.014Z",
+  "exportedAt": "2026-10-21T09:02:09.853Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -76833,8 +76833,14 @@
     },
     {
       "userId": "8b41015e-c4bb-4943-8444-654f359d332a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Квинт эссенция? Грошь? С такими ошибками иногда задумываешься, понимает ли сам автор вкладываемый в слова смысл.",
+          "scoredAt": "2026-10-21T08:57:46.923Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -76854,7 +76860,7 @@
           "scoredAt": "2026-10-02T12:46:11.372Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:42:23.878Z",
+      "fetchedAt": "2026-10-21T09:02:09.853Z",
       "current": true,
       "artistName": "PONEDELNIK",
       "artistSlug": "ponedelnik",
@@ -86662,8 +86668,14 @@
     },
     {
       "userId": "43a85297-d94d-4036-886c-4f5d2d9169e2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Очень хорошо пишешь, но флоу слишком рассказывающий. Надо доработать подачу.",
+          "scoredAt": "2026-10-21T08:53:45.981Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -86689,7 +86701,7 @@
           "scoredAt": "2026-10-10T18:22:26.574Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:52:42.433Z",
+      "fetchedAt": "2026-10-21T09:02:09.853Z",
       "current": true,
       "artistName": "the Niddle Drop",
       "artistSlug": "the-niddle-drop",
