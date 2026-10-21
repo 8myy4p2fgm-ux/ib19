@@ -171842,6 +171842,104 @@
         "scoredAt": "2026-10-21T13:50:24.490Z",
         "userId": "33d50fd8-2372-4cfa-b5a9-2bed2a16c57f"
       }
+    },
+    {
+      "id": "b6e21f7c7a7ae1e178a2313c215644bcd44a71cb8e0fdb0c02e2da7ede517897",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T14:00:14.544Z",
+      "key": "[\"5233f52b-17e4-4285-921a-85ae17cd2031\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "никнейм канеш топ))) слабовато ",
+        "scoredAt": "2026-10-21T14:00:14.544Z",
+        "userId": "5233f52b-17e4-4285-921a-85ae17cd2031"
+      }
+    },
+    {
+      "id": "400ba3288881871a3ec78f7944b0a79ea8c2aac975edf3881ef9aa6b1145ce78",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:57:52.851Z",
+      "key": "[\"b411dd4c-ab16-4eaf-8a1b-a262e7c54c78\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "вокал вообще зря был. дэмка короч. текст слабый",
+        "scoredAt": "2026-10-21T13:57:52.851Z",
+        "userId": "b411dd4c-ab16-4eaf-8a1b-a262e7c54c78"
+      }
+    },
+    {
+      "id": "d79fd2d13dfbff4b82b2bf07857cfb87666ff76c73cc511a509ef9f76b0968ec",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:58:58.797Z",
+      "key": "[\"d9898e00-b5d1-43a2-8f65-53c7ade092c7\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "почему ж вы никто не можете пресет нормальный наложить чтоб хотя бы демка норм звучала) текст такое се. но вроде читать умеет ",
+        "scoredAt": "2026-10-21T13:58:58.797Z",
+        "userId": "d9898e00-b5d1-43a2-8f65-53c7ade092c7"
+      }
+    },
+    {
+      "id": "e50f15e9dc8a0b56a9e4eee2a92c7a6686c7ab82af62828d6654e44bd136971e",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:52:27.884Z",
+      "key": "[\"af53e214-2887-4ef8-907e-a53f58505577\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "тривиально от текста до исполнения. но исполнено хорошо ",
+        "scoredAt": "2026-10-21T13:52:27.884Z",
+        "userId": "af53e214-2887-4ef8-907e-a53f58505577"
+      }
+    },
+    {
+      "id": "b90fb6384d1d963371f6c36d9866670dbfc88237faf069f1b706a047a97b00a0",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:56:44.222Z",
+      "key": "[\"c91b36b5-4432-45ff-933f-70ec9edd9d3f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "мысли есть но они почему не завернуты в норм строчки. звук ужас вообще на диктофон. но 3 с минусом ",
+        "scoredAt": "2026-10-21T13:56:44.222Z",
+        "userId": "c91b36b5-4432-45ff-933f-70ec9edd9d3f"
+      }
+    },
+    {
+      "id": "932daa08b7a22ff45892d2ac8da16b7252610880ee31997f0871371bc1404eae",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:55:05.725Z",
+      "key": "[\"7f908852-aa3e-41d3-85e0-56eab0bd8116\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "за звук и исполнение 4 но с минусом. ни одной норм строчки ",
+        "scoredAt": "2026-10-21T13:55:05.725Z",
+        "userId": "7f908852-aa3e-41d3-85e0-56eab0bd8116"
+      }
+    },
+    {
+      "id": "cf78df59416426762af293524397052296b94c9b3f9f8d77ad62f8f6e9af10f3",
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "sourceScoredAt": "2026-10-21T13:53:50.024Z",
+      "key": "[\"0d0890c6-8f75-42b5-a2f1-d9a9eb2ee097\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "4 с минусом. исполнено хорошо. припев прикольно. но текст мдэээ",
+        "scoredAt": "2026-10-21T13:53:50.024Z",
+        "userId": "0d0890c6-8f75-42b5-a2f1-d9a9eb2ee097"
+      }
     }
   ],
   "snapshots": [
@@ -186341,6 +186439,26 @@
           "index": 31.85937659794503,
           "favor": 17.95828884975199,
           "attention": 3.2577053952518638,
+          "respect": 10.643382352941176
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T14:02:05.180Z",
+      "exportedAt": "2026-10-21T14:02:05.180Z",
+      "scores": 15240,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.24492515331321,
+          "favor": 8.667184265010349,
+          "attention": 5.595598031160004,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.864415503883187,
+          "favor": 17.958838328763708,
+          "attention": 3.2621948221783037,
           "respect": 10.643382352941176
         }
       }
