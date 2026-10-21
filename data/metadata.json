@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T15:42:18.033Z",
-  "exportedAt": "2026-10-21T15:42:18.033Z",
-  "runId": "2026-10-21T15:42:18.033Z",
-  "forumExportedAt": "2026-10-21T15:42:18.033Z",
+  "lastSuccessfulAt": "2026-10-21T15:52:12.017Z",
+  "exportedAt": "2026-10-21T15:52:12.017Z",
+  "runId": "2026-10-21T15:52:12.017Z",
+  "forumExportedAt": "2026-10-21T15:52:12.017Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15330,
+    "scores": 15335,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,7 +23,7 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
@@ -32,13 +32,13 @@
     "participants": 3275,
     "sourceParticipants": 3276,
     "participantsWithNewScores": 5,
-    "changedParticipants": 4,
-    "logicalRequests": 9,
-    "durationMs": 9104,
-    "scoresBefore": 15325,
-    "scoresAfter": 15330,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 8367,
+    "scoresBefore": 15330,
+    "scoresAfter": 15335,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.72535855965823,
+    "requestReductionPercent": 99.75587427525176,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "ПИБ",
+          "comment": "Чуть меньше истеричности – и будет хорошо.",
+          "scoredAt": "2026-10-21T15:51:37.504Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Leonadrio",
+          "comment": "Вскрикиваешь странно. Качество голоса скоблящее. Ускорение читки было криповое.",
+          "scoredAt": "2026-10-21T15:48:06.959Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "TSS",
+          "comment": "Шо-то не то.",
+          "scoredAt": "2026-10-21T15:46:22.550Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "два дня моросит",
+          "comment": "Не то.",
+          "scoredAt": "2026-10-21T15:45:41.781Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Jean B",
+          "comment": "С рифмой умело обращаешься. И голос рэповый.",
+          "scoredAt": "2026-10-21T15:44:58.560Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "бензобак",
+          "comment": "Увесисто читаешь. Только каталóг, конечно же.",
+          "scoredAt": "2026-10-21T15:42:11.009Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -157,48 +199,6 @@
           "artist": ".SN",
           "comment": "У такого трэка должно быть заебатое качество! Тебе негде его взять?",
           "scoredAt": "2026-10-21T15:24:41.829Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Yellowdonut",
-          "comment": "Не понравилось. Лови пятую тройку.",
-          "scoredAt": "2026-10-21T15:23:25.555Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "artist": "qurie",
-          "comment": "Это трогает. Понимаю тебя.",
-          "scoredAt": "2026-10-21T15:22:27.150Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "P11vV",
-          "comment": "Некачественно звучит. Рановато пока.",
-          "scoredAt": "2026-10-21T15:21:12.218Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Георгий Римэйк",
-          "comment": "Мужицкое такое. Прям песня получилась.",
-          "scoredAt": "2026-10-21T15:19:53.836Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "litt.",
-          "comment": "Слишком манерно читаешь. И оффбитишь.",
-          "scoredAt": "2026-10-21T15:17:56.228Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Platinum 900",
-          "comment": "Хорошо сделал, но исполнение не на пять. Надо ещё потренироваться.",
-          "scoredAt": "2026-10-21T15:17:00.026Z"
         }
       ]
     }

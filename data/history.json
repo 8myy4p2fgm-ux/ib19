@@ -173200,6 +173200,76 @@
         "scoredAt": "2026-10-21T15:42:11.009Z",
         "userId": "487283cc-0837-4d18-922b-f9437e645faa"
       }
+    },
+    {
+      "id": "b10197e81a1a63314e048f1490b993b9f320e3042b0496fc799b1aeb80a57759",
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "sourceScoredAt": "2026-10-21T15:46:22.550Z",
+      "key": "[\"5e9930a5-6c3b-4649-80b3-a8f292acd60f\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Шо-то не то.",
+        "scoredAt": "2026-10-21T15:46:22.550Z",
+        "userId": "5e9930a5-6c3b-4649-80b3-a8f292acd60f"
+      }
+    },
+    {
+      "id": "1e6a718131155793c11c0a47d3f5ef8e99da3ab2224954c29c90c97442cf33ee",
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "sourceScoredAt": "2026-10-21T15:45:41.781Z",
+      "key": "[\"aca34a63-8cf4-46be-a25f-6576913a74e4\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Не то.",
+        "scoredAt": "2026-10-21T15:45:41.781Z",
+        "userId": "aca34a63-8cf4-46be-a25f-6576913a74e4"
+      }
+    },
+    {
+      "id": "c2221b1f19543cc9b4347e42ddf6826d04916d7389ecda02114ac303eb130243",
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "sourceScoredAt": "2026-10-21T15:48:06.959Z",
+      "key": "[\"a216bd1c-6da0-4d4a-addf-0c833efb5c50\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Вскрикиваешь странно. Качество голоса скоблящее. Ускорение читки было криповое.",
+        "scoredAt": "2026-10-21T15:48:06.959Z",
+        "userId": "a216bd1c-6da0-4d4a-addf-0c833efb5c50"
+      }
+    },
+    {
+      "id": "fd4b5d3bae981042927ee4cce760e214941d69d79051c56ecfee7a14d2deca5e",
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "sourceScoredAt": "2026-10-21T15:51:37.504Z",
+      "key": "[\"ad6006f2-9c84-42a5-9652-741d29b3de8a\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Чуть меньше истеричности – и будет хорошо.",
+        "scoredAt": "2026-10-21T15:51:37.504Z",
+        "userId": "ad6006f2-9c84-42a5-9652-741d29b3de8a"
+      }
+    },
+    {
+      "id": "37dfc51ac6298acb2f4daad6dba32e56a0b93460d9d8b99330bd7daff740553a",
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "sourceScoredAt": "2026-10-21T15:44:58.560Z",
+      "key": "[\"c1b4cf12-2660-43d0-841d-093505b8e40c\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "С рифмой умело обращаешься. И голос рэповый.",
+        "scoredAt": "2026-10-21T15:44:58.560Z",
+        "userId": "c1b4cf12-2660-43d0-841d-093505b8e40c"
+      }
     }
   ],
   "snapshots": [
@@ -187879,6 +187949,26 @@
           "index": 31.692171736013258,
           "favor": 17.91862224295572,
           "attention": 3.153111536853161,
+          "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T15:52:12.017Z",
+      "exportedAt": "2026-10-21T15:52:12.017Z",
+      "scores": 15335,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.379972020034227,
+          "favor": 8.673066299658068,
+          "attention": 5.724762863233301,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.700698386053247,
+          "favor": 17.919715233372038,
+          "attention": 3.160545196476833,
           "respect": 10.620437956204379
         }
       }
