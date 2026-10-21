@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T11:02:12.306Z",
+  "exportedAt": "2026-10-21T11:12:10.989Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -5004,8 +5004,14 @@
     },
     {
       "userId": "b7b0f8fe-811e-499f-90e8-f66de8402677",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "comment": "Ну тебя же вообще не слышно... У тебя нет наушников? ",
+          "scoredAt": "2026-10-21T11:07:35.747Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 1,
@@ -5025,7 +5031,7 @@
           "scoredAt": "2026-09-09T16:36:04.520Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:52:22.726Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Deni Marr [SaUnd]",
       "artistSlug": "deni-marr-saund",
@@ -12506,9 +12512,16 @@
     },
     {
       "userId": "b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "По исполнению плохо пока, нужно тренироваться. ",
+          "scoredAt": "2026-10-21T11:11:33.964Z"
+        }
+      ],
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "YMALOY",
       "artistSlug": "ymaloy",
@@ -25001,8 +25014,14 @@
     },
     {
       "userId": "b3000ba5-c250-4477-9c3d-64c4773f3c3c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Есть атмосфера в этой песне. Тему раскрыл. ",
+          "scoredAt": "2026-10-21T11:06:03.725Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -25028,7 +25047,7 @@
           "scoredAt": "2026-09-03T15:19:28.820Z"
         }
       ],
-      "fetchedAt": "2026-10-16T20:41:58.598Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "LANI LOUD",
       "artistSlug": "lani-loud",
@@ -35953,8 +35972,14 @@
     },
     {
       "userId": "c9526b9f-ee1b-4cc6-acf5-fe69f03fa29e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Ты просто взял и сдал отрывок из какой-то своей песни? Где баттл, где тема раунда? Хотя бы просто упоминание. Я думаю, что я легко поставил 4, если бы ты отдельно написал трек а не сдал готовый. А так, ты просто захотел всех перехитрить. Так ведь? ;)",
+          "scoredAt": "2026-10-21T11:02:22.447Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -35980,7 +36005,7 @@
           "scoredAt": "2026-10-08T16:13:24.681Z"
         }
       ],
-      "fetchedAt": "2026-10-20T17:12:22.521Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Vizital",
       "artistSlug": "vizital",
@@ -59116,8 +59141,14 @@
     },
     {
       "userId": "4eddc605-ab9c-442c-bbf4-f2661aa606fe",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Ну есть нормальные приколы, а по исполнению сильно на любителя. ",
+          "scoredAt": "2026-10-21T11:05:06.180Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -59137,7 +59168,7 @@
           "scoredAt": "2026-10-06T11:31:36.382Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:02:11.042Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Muddy M",
       "artistSlug": "muddy-m",
@@ -67353,8 +67384,14 @@
     },
     {
       "userId": "71a48f32-0277-4226-9506-74c1c3b9b8af",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Жирный звук, крутой минус! Гармония музыки и музыки отличная. На одном дыхании слушается, круто! ",
+          "scoredAt": "2026-10-21T11:07:02.941Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 5,
@@ -67380,7 +67417,7 @@
           "scoredAt": "2026-10-07T19:28:23.346Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:12:17.280Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "ReckTER",
       "artistSlug": "reckter",
@@ -71048,8 +71085,14 @@
     },
     {
       "userId": "f4f5ed59-733d-4125-9eaa-0e57232c4a0e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Хороший напор. Работра на проход, что-то между нормально и хорошо. Лично для меня это больше - нормально. ",
+          "scoredAt": "2026-10-21T11:04:01.439Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -71057,7 +71100,7 @@
           "scoredAt": "2026-10-17T14:47:34.130Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:52:22.726Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "crusifier",
       "artistSlug": "crusifier",
@@ -87597,8 +87640,14 @@
     },
     {
       "userId": "dde03ebf-574b-4689-8611-9822c018e067",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Для меня - это проход, я хотел поставить оценку \"нормально\", но тебе поставили одну \"плохо\", поэтому выровню, чтобы средняя получилась \"нормально\". У тебя трек точно на проход, тут тройки получали треки сильно хуже этого. ",
+          "scoredAt": "2026-10-21T11:10:21.988Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -87618,7 +87667,7 @@
           "scoredAt": "2026-10-16T16:29:29.972Z"
         }
       ],
-      "fetchedAt": "2026-10-20T18:02:09.932Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Рома Кросс",
       "artistSlug": "roma-kross",
@@ -116974,8 +117023,14 @@
     },
     {
       "userId": "becc3c45-8f86-406c-9d29-5d28598b11db",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "comment": "Это великолепно. ",
+          "scoredAt": "2026-10-21T11:02:54.279Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 1,
@@ -116989,7 +117044,7 @@
           "scoredAt": "2026-10-13T19:18:40.120Z"
         }
       ],
-      "fetchedAt": "2026-10-14T15:12:11.022Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Never Tr7",
       "artistSlug": "never-tr7",
@@ -119359,8 +119414,14 @@
     },
     {
       "userId": "560c6b99-1f25-4118-95f3-956425fe62e4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Ты сам признался, что наделал на бите. Никто за язык не тянул. Пускаю тебя во второй без доната. Надеюсь, что ты оценишь моё благородство и сдашь на второй не шляпу.",
+          "scoredAt": "2026-10-21T11:03:14.190Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -119386,7 +119447,7 @@
           "scoredAt": "2026-08-31T17:09:31.132Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:22:35.845Z",
+      "fetchedAt": "2026-10-21T11:12:10.989Z",
       "current": true,
       "artistName": "Alex64",
       "artistSlug": "alex64",

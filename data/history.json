@@ -170792,6 +170792,146 @@
         "scoredAt": "2026-10-21T10:59:12.908Z",
         "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c"
       }
+    },
+    {
+      "id": "9760c259b8cac356ee1b3c4b75284353243bd9af2b5a8b5fcb3bcc3513777e1f",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:07:35.747Z",
+      "key": "[\"b7b0f8fe-811e-499f-90e8-f66de8402677\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Ну тебя же вообще не слышно... У тебя нет наушников? ",
+        "scoredAt": "2026-10-21T11:07:35.747Z",
+        "userId": "b7b0f8fe-811e-499f-90e8-f66de8402677"
+      }
+    },
+    {
+      "id": "ed3edfae9ed384cd4525d4b3e1a7576c6482f928f284657e540a331cb0c8da84",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:11:33.964Z",
+      "key": "[\"b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "По исполнению плохо пока, нужно тренироваться. ",
+        "scoredAt": "2026-10-21T11:11:33.964Z",
+        "userId": "b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675"
+      }
+    },
+    {
+      "id": "c4bc895ecb94e306d388a690f4f966d07a1c27a028e30f4a754267a7154c49f7",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:06:03.725Z",
+      "key": "[\"b3000ba5-c250-4477-9c3d-64c4773f3c3c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Есть атмосфера в этой песне. Тему раскрыл. ",
+        "scoredAt": "2026-10-21T11:06:03.725Z",
+        "userId": "b3000ba5-c250-4477-9c3d-64c4773f3c3c"
+      }
+    },
+    {
+      "id": "95562e6bda5ede75f6e5490edcebdd6cefdc18372690e64344ad3620bb9f4a8e",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:02:22.447Z",
+      "key": "[\"c9526b9f-ee1b-4cc6-acf5-fe69f03fa29e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Ты просто взял и сдал отрывок из какой-то своей песни? Где баттл, где тема раунда? Хотя бы просто упоминание. Я думаю, что я легко поставил 4, если бы ты отдельно написал трек а не сдал готовый. А так, ты просто захотел всех перехитрить. Так ведь? ;)",
+        "scoredAt": "2026-10-21T11:02:22.447Z",
+        "userId": "c9526b9f-ee1b-4cc6-acf5-fe69f03fa29e"
+      }
+    },
+    {
+      "id": "0695dde88fbc061eee0ca6310fe6afe5c17df6bd4e69e66119beda8e0290d8c8",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:05:06.180Z",
+      "key": "[\"4eddc605-ab9c-442c-bbf4-f2661aa606fe\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ну есть нормальные приколы, а по исполнению сильно на любителя. ",
+        "scoredAt": "2026-10-21T11:05:06.180Z",
+        "userId": "4eddc605-ab9c-442c-bbf4-f2661aa606fe"
+      }
+    },
+    {
+      "id": "d04033124626663b0ee41e0cb669617a1265ce88e7aeabc106a641b0a1b7117e",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:07:02.941Z",
+      "key": "[\"71a48f32-0277-4226-9506-74c1c3b9b8af\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Жирный звук, крутой минус! Гармония музыки и музыки отличная. На одном дыхании слушается, круто! ",
+        "scoredAt": "2026-10-21T11:07:02.941Z",
+        "userId": "71a48f32-0277-4226-9506-74c1c3b9b8af"
+      }
+    },
+    {
+      "id": "9d331575dbda9ffc6667d7ff570438c88bd2c6e37ee614b64ece5a96b2e79aad",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:04:01.439Z",
+      "key": "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Хороший напор. Работра на проход, что-то между нормально и хорошо. Лично для меня это больше - нормально. ",
+        "scoredAt": "2026-10-21T11:04:01.439Z",
+        "userId": "f4f5ed59-733d-4125-9eaa-0e57232c4a0e"
+      }
+    },
+    {
+      "id": "1b857ab6cd4135b9bb3cbab116f6fb29ec31faf7a7f8a89a5a24f67a67de4c11",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:10:21.988Z",
+      "key": "[\"dde03ebf-574b-4689-8611-9822c018e067\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Для меня - это проход, я хотел поставить оценку \"нормально\", но тебе поставили одну \"плохо\", поэтому выровню, чтобы средняя получилась \"нормально\". У тебя трек точно на проход, тут тройки получали треки сильно хуже этого. ",
+        "scoredAt": "2026-10-21T11:10:21.988Z",
+        "userId": "dde03ebf-574b-4689-8611-9822c018e067"
+      }
+    },
+    {
+      "id": "defafc0cf807c14297cf7673176a831e52579617b7312c1cec7ff194c5afaeda",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:02:54.279Z",
+      "key": "[\"becc3c45-8f86-406c-9d29-5d28598b11db\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Это великолепно. ",
+        "scoredAt": "2026-10-21T11:02:54.279Z",
+        "userId": "becc3c45-8f86-406c-9d29-5d28598b11db"
+      }
+    },
+    {
+      "id": "d2a340207e111fd39f0c9b1d862b66703c345a5c6de2ec08e4c9f0d945d0f8e1",
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "sourceScoredAt": "2026-10-21T11:03:14.190Z",
+      "key": "[\"560c6b99-1f25-4118-95f3-956425fe62e4\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Ты сам признался, что наделал на бите. Никто за язык не тянул. Пускаю тебя во второй без доната. Надеюсь, что ты оценишь моё благородство и сдашь на второй не шляпу.",
+        "scoredAt": "2026-10-21T11:03:14.190Z",
+        "userId": "560c6b99-1f25-4118-95f3-956425fe62e4"
+      }
     }
   ],
   "snapshots": [
@@ -185091,6 +185231,26 @@
           "index": 31.965712964602773,
           "favor": 17.983469790765273,
           "attention": 3.3155765071708343,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:12:10.989Z",
+      "exportedAt": "2026-10-21T11:12:10.989Z",
+      "scores": 15168,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.258293272841186,
+          "favor": 8.62940291723416,
+          "attention": 5.65583646339146,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.999584200817978,
+          "favor": 17.98669593560833,
+          "attention": 3.346221598542979,
           "respect": 10.666666666666666
         }
       }
