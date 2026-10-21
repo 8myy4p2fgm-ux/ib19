@@ -174446,6 +174446,146 @@
         "scoredAt": "2026-10-21T21:42:44.034Z",
         "userId": "b989984e-09f5-45e6-9d83-da0e0d2f9cbe"
       }
+    },
+    {
+      "id": "68637361e6b7aa79bae51e3facdb6d687e900d05a742df0193cf733372f495d4",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:55:17.641Z",
+      "key": "[\"eca378aa-a872-4098-8a04-1b83f4b72553\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Про кинг-конга сильно смеялся. Проход!",
+        "scoredAt": "2026-10-21T21:55:17.641Z",
+        "userId": "eca378aa-a872-4098-8a04-1b83f4b72553"
+      }
+    },
+    {
+      "id": "88cf6b4132ce484861e3249a50d38f378c8fc3e1165a18effcdae9ea3f4b8d1f",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:58:55.993Z",
+      "key": "[\"6771ec60-9245-4d4e-a160-9ca3cd1388b3\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "В попытке быть уникальным сейчас десятки участников, которые просто разговаривают под бит, типа дофига смысла, так же бабан делал. Нет, это скучно и неконкурентно.",
+        "scoredAt": "2026-10-21T21:58:55.993Z",
+        "userId": "6771ec60-9245-4d4e-a160-9ca3cd1388b3"
+      }
+    },
+    {
+      "id": "1b77e61106614cb5410e3b0d051bd8e55b7df9355ca69bcbe304da7faf0bca1c",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:52:17.685Z",
+      "key": "[\"448dfdd9-0292-479f-a16a-c67e41b63c2a\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Круто прописал в тексте эдлибы. На этом плюсы кончились.",
+        "scoredAt": "2026-10-21T21:52:17.685Z",
+        "userId": "448dfdd9-0292-479f-a16a-c67e41b63c2a"
+      }
+    },
+    {
+      "id": "ae4c773c1b287429d1e3a06f9ac82651e8ded1bfc739e3ea63d7d88a248fb1cc",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:56:29.807Z",
+      "key": "[\"7bfb601f-4ab4-43a7-98e9-13522301c982\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T21:56:29.807Z",
+        "userId": "7bfb601f-4ab4-43a7-98e9-13522301c982"
+      }
+    },
+    {
+      "id": "1af34252c287f96f081d3faf2964c7d8b8d73a5225cde1454362480ab2f0e57e",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:54:34.838Z",
+      "key": "[\"bad65d48-c704-426d-b75b-ff702a38f8eb\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": " Стильно читаешь, но поработай над рифмой. Прям базовые заезженные рифмы",
+        "scoredAt": "2026-10-21T21:54:34.838Z",
+        "userId": "bad65d48-c704-426d-b75b-ff702a38f8eb"
+      }
+    },
+    {
+      "id": "0f1483f81111b903dc6c0efd2ef05c50abc52e7243378c9c11cdc45aad035601",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:53:50.468Z",
+      "key": "[\"91b2f14a-9f00-47d1-835c-e336def12b17\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Хорошая работа для прохода",
+        "scoredAt": "2026-10-21T21:53:50.468Z",
+        "userId": "91b2f14a-9f00-47d1-835c-e336def12b17"
+      }
+    },
+    {
+      "id": "c1d8df785c4a2fc80b57522a238e7bdfd811dbbc39fe14055794ca54d4f93438",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:55:58.106Z",
+      "key": "[\"0ddcceb3-40a7-4a4b-985b-91fa8f840e6f\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Задумка хорошая, но исполнение - нет",
+        "scoredAt": "2026-10-21T21:55:58.106Z",
+        "userId": "0ddcceb3-40a7-4a4b-985b-91fa8f840e6f"
+      }
+    },
+    {
+      "id": "a74bd97130620b64ce4656bf7de92b6eb58b1828b1339d3a5f1e50aeb9e37e50",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:52:47.801Z",
+      "key": "[\"e4d60b79-6c81-4c8f-8a02-11fbfdebda2a\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Ну хороший косплей на Рэма!",
+        "scoredAt": "2026-10-21T21:52:47.801Z",
+        "userId": "e4d60b79-6c81-4c8f-8a02-11fbfdebda2a"
+      }
+    },
+    {
+      "id": "9ac540d3e0b838ca0f7e0b922be43ab8f42be1a2c680d1a2d8195e2aac40c6a4",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T22:01:41.231Z",
+      "key": "[\"177166bb-b66f-41ec-96ce-68d6a146888e\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Самый дефолтный трек на отбор. Хорошо по звуку, не очень по тексту.",
+        "scoredAt": "2026-10-21T22:01:41.231Z",
+        "userId": "177166bb-b66f-41ec-96ce-68d6a146888e"
+      }
+    },
+    {
+      "id": "0edfb67d389da8793d22a1fde3942775cefc4304f063b8d18cb98e4f4c07fdf4",
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "sourceScoredAt": "2026-10-21T21:53:29.157Z",
+      "key": "[\"6b9c1871-50e7-4c98-964c-982cf3c7a6a1\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Стилёк есть, но что-то придумай со сведением, если пройдешь. Потенциал есть.",
+        "scoredAt": "2026-10-21T21:53:29.157Z",
+        "userId": "6b9c1871-50e7-4c98-964c-982cf3c7a6a1"
+      }
     }
   ],
   "snapshots": [
@@ -189425,6 +189565,26 @@
           "index": 31.6189208727359,
           "favor": 17.918052540381197,
           "attention": 3.1030422453981834,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T22:02:19.804Z",
+      "exportedAt": "2026-10-21T22:02:19.804Z",
+      "scores": 15429,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.33508851912675,
+          "favor": 8.638182352982815,
+          "attention": 5.754769667627614,
+          "respect": 5.94213649851632
+        },
+        "veterans": {
+          "index": 31.64937316531163,
+          "favor": 17.921176992433733,
+          "attention": 3.1303700859213746,
           "respect": 10.597826086956522
         }
       }
