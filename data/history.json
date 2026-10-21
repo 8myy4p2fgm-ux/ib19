@@ -172682,6 +172682,202 @@
         "scoredAt": "2026-10-21T14:42:11.511Z",
         "userId": "4bbfb788-f528-46a6-8e6a-38cd5300aa9b"
       }
+    },
+    {
+      "id": "431108cd85af5fada8b718bf7d38d5e40c5d18888db81065dfc4c54db26f3668",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:45:11.892Z",
+      "key": "[\"fa66cfb1-9fef-486d-9d85-59a8c562d98d\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Прикольный припев, звучит гимново. Тут есть что-то по вайбам монеточко-нойзовское, но вот как раз приколдесности в такого рода треке не хватает. Есть квадраты, есть слабосозвучные рифмы. В середине трека рифма вообще теряется. Ну то, что не хватает чего-то цепкого я уже сказал, по сути. Юморка бы добавить к этим вайбам, именно конкретных острых шутеек. А так работа в целом проходная, во много тащит исполнение.",
+        "scoredAt": "2026-10-21T14:45:11.892Z",
+        "userId": "fa66cfb1-9fef-486d-9d85-59a8c562d98d"
+      }
+    },
+    {
+      "id": "abd13808000050de90c8734d242b2602e8f15f28aecc642e9b7c052ec736a9ab",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:50:49.277Z",
+      "key": "[\"6771ec60-9245-4d4e-a160-9ca3cd1388b3\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 4,
+        "comment": "Ну угарненько, слушай, трек прям отличается от многих. Прикольно подвёл сторителл к реакции девушки, вышло неожиданно, но тем и лучше мб. Видел коммент коллеги про потенциальный левак со вставленными строчками. Ну бог тебе судья, если что ахах Дам шанс, если пройдёшь, не подведи!",
+        "scoredAt": "2026-10-21T14:50:49.277Z",
+        "userId": "6771ec60-9245-4d4e-a160-9ca3cd1388b3"
+      }
+    },
+    {
+      "id": "727dd8ef3482679652a95fd256528541b506abe0bad49cc0efab0b538a8a1091",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:48:07.148Z",
+      "key": "[\"52b51577-a9d5-4aa0-bd00-59170c2b0c69\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 5,
+        "comment": "оч искренне звучит. верю тебе. 5 с минусом. хочет ударных строчек ",
+        "scoredAt": "2026-10-21T14:48:07.148Z",
+        "userId": "52b51577-a9d5-4aa0-bd00-59170c2b0c69"
+      }
+    },
+    {
+      "id": "ce5753641ce5bc3e488bbf8a58917eae80fa252d54d6f9837ba9fe2cfb1c352c",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:42:53.852Z",
+      "key": "[\"d6a8b5af-0990-4b02-a59a-00eb58e32cdb\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "ПОЧЕМУ НЕЛЬЗЯ ЭТО СВЕСТИ НОРМАЛЬНО???? 3 с минусом ",
+        "scoredAt": "2026-10-21T14:42:53.852Z",
+        "userId": "d6a8b5af-0990-4b02-a59a-00eb58e32cdb"
+      }
+    },
+    {
+      "id": "66723b21ebfe37027ad53282b624377479746506f53bd9a83901db09a49732d8",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:46:45.855Z",
+      "key": "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "текст слабый оч но читает топ. 4 с минусом ",
+        "scoredAt": "2026-10-21T14:46:45.855Z",
+        "userId": "f4f5ed59-733d-4125-9eaa-0e57232c4a0e"
+      }
+    },
+    {
+      "id": "bd083094371098a71482f53c2b9c4a0d56309ba29d5c663443f8ed188f9b84d3",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:49:23.347Z",
+      "key": "[\"f00cffd8-8c59-43c8-8a49-febf3841fa52\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "ТОП",
+        "scoredAt": "2026-10-21T14:49:23.347Z",
+        "userId": "f00cffd8-8c59-43c8-8a49-febf3841fa52"
+      }
+    },
+    {
+      "id": "1e9da580fbd88a48a20f00d5291e122140bee83339c318b69feea48903d7f347",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:44:21.220Z",
+      "key": "[\"f778e2a6-345a-4436-935f-f30a5aca0042\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "ой философы все. слабовато по тексту но читает норм ",
+        "scoredAt": "2026-10-21T14:44:21.220Z",
+        "userId": "f778e2a6-345a-4436-935f-f30a5aca0042"
+      }
+    },
+    {
+      "id": "463421cd7286a6475ab9e4e963f0a0d6b7ce3a239ed5666b92d5f7ec06f66825",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:50:14.325Z",
+      "key": "[\"448dfdd9-0292-479f-a16a-c67e41b63c2a\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Либо ты плохо ищешь бит, либо он хорошо от тебя прячется.",
+        "scoredAt": "2026-10-21T14:50:14.325Z",
+        "userId": "448dfdd9-0292-479f-a16a-c67e41b63c2a"
+      }
+    },
+    {
+      "id": "c1f8699cdd54615958e8145056e6d483233537945d5a7039550fbf44bec48522",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:49:41.697Z",
+      "key": "[\"65cdc902-ef7e-42fe-9fba-7d72ce7ec20e\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "ЛЕГЕНДА ",
+        "scoredAt": "2026-10-21T14:49:41.697Z",
+        "userId": "65cdc902-ef7e-42fe-9fba-7d72ce7ec20e"
+      }
+    },
+    {
+      "id": "9e6c011f429c1660c81f62860092b9db17cb3c6beb48991b69f6d1b995ce7452",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:45:42.501Z",
+      "key": "[\"f1f6c6f2-0596-47ab-a74b-0b200d061ce2\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "очень смешно! ",
+        "scoredAt": "2026-10-21T14:45:42.501Z",
+        "userId": "f1f6c6f2-0596-47ab-a74b-0b200d061ce2"
+      }
+    },
+    {
+      "id": "e84a547a67ecf9b93d943959be603d1a48dd2cc74f38512bc5e1929f5aa67855",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:48:25.598Z",
+      "key": "[\"e509edb3-e372-41d1-9aa6-012d4b9e2204\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Голос слушабельный, но ритмический рисунок не слишком развивается. Особенно квадратно звучит аутро. ",
+        "scoredAt": "2026-10-21T14:48:25.598Z",
+        "userId": "e509edb3-e372-41d1-9aa6-012d4b9e2204"
+      }
+    },
+    {
+      "id": "0789a8d19470bc5e9f9bfcbaa7e42ec49c530f31b5cdc7388efafcc166199a05",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:43:36.801Z",
+      "key": "[\"d41bbe51-a6a9-4c67-bfb8-2abe8da209cb\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо но сэмпл крутой ",
+        "scoredAt": "2026-10-21T14:43:36.801Z",
+        "userId": "d41bbe51-a6a9-4c67-bfb8-2abe8da209cb"
+      }
+    },
+    {
+      "id": "45bb04d2394edfc5cdc4e38df1aa7076728f8cc7709a73e5063873959985abf9",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:51:50.327Z",
+      "key": "[\"1b006662-3f91-43f9-b9b5-49f3aa9d26a2\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Это изнасилование ушек.",
+        "scoredAt": "2026-10-21T14:51:50.327Z",
+        "userId": "1b006662-3f91-43f9-b9b5-49f3aa9d26a2"
+      }
+    },
+    {
+      "id": "cb3c8625dc51345f95434b89fcf9c9da33663c1cadd4e1deeab3d55d85e469a5",
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "sourceScoredAt": "2026-10-21T14:50:22.960Z",
+      "key": "[\"074260c8-7d3a-4989-af36-ded5a45a2698\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "читает классно. текст мимо",
+        "scoredAt": "2026-10-21T14:50:22.960Z",
+        "userId": "074260c8-7d3a-4989-af36-ded5a45a2698"
+      }
     }
   ],
   "snapshots": [
@@ -187261,6 +187457,26 @@
           "index": 31.655324401882375,
           "favor": 17.927336720009706,
           "attention": 3.107549725668288,
+          "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T14:52:34.238Z",
+      "exportedAt": "2026-10-21T14:52:34.238Z",
+      "scores": 15307,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.349208441221133,
+          "favor": 8.682941782684615,
+          "attention": 5.6841238013936595,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.669760878510736,
+          "favor": 17.929405905816797,
+          "attention": 3.1199170164895635,
           "respect": 10.620437956204379
         }
       }
