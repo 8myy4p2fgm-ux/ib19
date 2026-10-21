@@ -173032,6 +173032,104 @@
         "scoredAt": "2026-10-21T15:17:00.026Z",
         "userId": "854b38cc-1064-4587-b12f-401d2a0e0608"
       }
+    },
+    {
+      "id": "8de9b9fb181525c20222b41f2ac36a0548920473987599b94d8d61381d16d365",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:28:56.955Z",
+      "key": "[\"8dae29a8-63a8-4a76-bfdd-de7545c39ce6\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Средняк средняковый.",
+        "scoredAt": "2026-10-21T15:28:56.955Z",
+        "userId": "8dae29a8-63a8-4a76-bfdd-de7545c39ce6"
+      }
+    },
+    {
+      "id": "3242a9e8516b8b9ddc135f4775dcd693e255d2d8fb99a801213efd9a8f8f9294",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:24:41.829Z",
+      "key": "[\"c4b7bcc5-99a9-48ba-8016-2993c7925bc1\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "У такого трэка должно быть заебатое качество! Тебе негде его взять?",
+        "scoredAt": "2026-10-21T15:24:41.829Z",
+        "userId": "c4b7bcc5-99a9-48ba-8016-2993c7925bc1"
+      }
+    },
+    {
+      "id": "2d1823b9f3bd67ea3d16cefdd6efb810b7a0d54a9990530d9331942d9a521200",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:22:27.150Z",
+      "key": "[\"52b51577-a9d5-4aa0-bd00-59170c2b0c69\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "Это трогает. Понимаю тебя.",
+        "scoredAt": "2026-10-21T15:22:27.150Z",
+        "userId": "52b51577-a9d5-4aa0-bd00-59170c2b0c69"
+      }
+    },
+    {
+      "id": "53972a6e8c116862368e4a3c1bee4ae79e0c0df015b75cb42c7be147e8d7db4a",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:31:09.464Z",
+      "key": "[\"66f1fcfa-73ec-4186-9b1e-988c1336aa7e\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Хорошо начетвертовал, но стиль не особо запоминающийся.",
+        "scoredAt": "2026-10-21T15:31:09.464Z",
+        "userId": "66f1fcfa-73ec-4186-9b1e-988c1336aa7e"
+      }
+    },
+    {
+      "id": "1a85bd7be8d4247211f9d5d1511868c24af17ff5e7140b97282ea2ae2ae2d5aa",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:26:39.802Z",
+      "key": "[\"c62b31db-fa1f-461b-9428-beb125c86754\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "Панчи и техника – что ещё нужно?",
+        "scoredAt": "2026-10-21T15:26:39.802Z",
+        "userId": "c62b31db-fa1f-461b-9428-beb125c86754"
+      }
+    },
+    {
+      "id": "43aba4cc82e57aa3320eefc8b9ccc988a7fece07f7f30a1aabfcf115c0884080",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:23:25.555Z",
+      "key": "[\"86cd07ae-9edd-4878-a809-d44b3b0ed5a9\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Не понравилось. Лови пятую тройку.",
+        "scoredAt": "2026-10-21T15:23:25.555Z",
+        "userId": "86cd07ae-9edd-4878-a809-d44b3b0ed5a9"
+      }
+    },
+    {
+      "id": "1d16aac0857f0557b1f6d9646af0f2a76e4e0de624457001a900e89cc871a5d6",
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "sourceScoredAt": "2026-10-21T15:28:00.675Z",
+      "key": "[\"0268bae1-7b50-4b59-a4f9-6eebc7992144\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Пусть у тебя и будет всё прекрасно!",
+        "scoredAt": "2026-10-21T15:28:00.675Z",
+        "userId": "0268bae1-7b50-4b59-a4f9-6eebc7992144"
+      }
     }
   ],
   "snapshots": [
@@ -187671,6 +187769,26 @@
           "index": 31.681215281230727,
           "favor": 17.924888823284192,
           "attention": 3.1358885017421603,
+          "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T15:32:06.117Z",
+      "exportedAt": "2026-10-21T15:32:06.117Z",
+      "scores": 15325,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.365568433744773,
+          "favor": 8.67387274477474,
+          "attention": 5.7095528318271755,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.687239972743797,
+          "favor": 17.92049139831869,
+          "attention": 3.1463106182207308,
           "respect": 10.620437956204379
         }
       }

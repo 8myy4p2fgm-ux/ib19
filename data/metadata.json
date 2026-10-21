@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T15:22:09.570Z",
-  "exportedAt": "2026-10-21T15:22:09.570Z",
-  "runId": "2026-10-21T15:22:09.570Z",
-  "forumExportedAt": "2026-10-21T15:22:09.570Z",
+  "lastSuccessfulAt": "2026-10-21T15:32:06.117Z",
+  "exportedAt": "2026-10-21T15:32:06.117Z",
+  "runId": "2026-10-21T15:32:06.117Z",
+  "forumExportedAt": "2026-10-21T15:32:06.117Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15318,
+    "scores": 15325,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 8746,
-    "scoresBefore": 15312,
-    "scoresAfter": 15318,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 10,
+    "durationMs": 10372,
+    "scoresBefore": 15318,
+    "scoresAfter": 15325,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.72535855965823,
+    "requestReductionPercent": 99.6948428440647,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,55 @@
       "feed": [
         {
           "judgeName": "Illumate",
+          "score": 4,
+          "artist": "Алчевский",
+          "comment": "Хорошо начетвертовал, но стиль не особо запоминающийся.",
+          "scoredAt": "2026-10-21T15:31:09.464Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Рома Chelsea",
+          "comment": "Средняк средняковый.",
+          "scoredAt": "2026-10-21T15:28:56.955Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "artist": "ПЕРЕКУР",
+          "comment": "Пусть у тебя и будет всё прекрасно!",
+          "scoredAt": "2026-10-21T15:28:00.675Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "PINTLE",
+          "comment": "Панчи и техника – что ещё нужно?",
+          "scoredAt": "2026-10-21T15:26:39.802Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": ".SN",
+          "comment": "У такого трэка должно быть заебатое качество! Тебе негде его взять?",
+          "scoredAt": "2026-10-21T15:24:41.829Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "Yellowdonut",
+          "comment": "Не понравилось. Лови пятую тройку.",
+          "scoredAt": "2026-10-21T15:23:25.555Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "artist": "qurie",
+          "comment": "Это трогает. Понимаю тебя.",
+          "scoredAt": "2026-10-21T15:22:27.150Z"
+        },
+        {
+          "judgeName": "Illumate",
           "score": 3,
           "artist": "P11vV",
           "comment": "Некачественно звучит. Рановато пока.",
@@ -150,55 +199,6 @@
           "artist": "OMAR",
           "comment": "Не хватает четырёх баллов для прохода. Даю шанс. Пишешь неплохо, но читаешь сонно.",
           "scoredAt": "2026-10-21T14:58:35.416Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "CryLove",
-          "comment": "Этот бит… Было больно. По трэку: серебряная середина.",
-          "scoredAt": "2026-10-21T14:56:50.846Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 3,
-          "artist": "Freezyvoice",
-          "comment": "Зачитал уверенно. Первая строчка хорошая, про спаржу, про Мизулину. Рифмовка весьма плотная, но как же много избитых связок, есть квадраты, есть глаголы даже. Трек воспринимается весьма разово, не хватает ему чего-то мощного прям, но чисто в плане уровня это проходка. Три с плюсом, я бы сказал.",
-          "scoredAt": "2026-10-21T14:55:29.232Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "VASHDAN",
-          "comment": "Раскрытие интереснее читки. Накину лишний балл, чтобы послушать твою смекалку во втором. Но поработай над исполнением.",
-          "scoredAt": "2026-10-21T14:53:51.281Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 2,
-          "artist": "Влад Шевченко SomeOneMe",
-          "comment": "Это изнасилование ушек.",
-          "scoredAt": "2026-10-21T14:51:50.327Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "artist": "MAT3X",
-          "comment": "Ну угарненько, слушай, трек прям отличается от многих. Прикольно подвёл сторителл к реакции девушки, вышло неожиданно, но тем и лучше мб. Видел коммент коллеги про потенциальный левак со вставленными строчками. Ну бог тебе судья, если что ахах Дам шанс, если пройдёшь, не подведи!",
-          "scoredAt": "2026-10-21T14:50:49.277Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "SHVRTVRAP",
-          "comment": "читает классно. текст мимо",
-          "scoredAt": "2026-10-21T14:50:22.960Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "Никита СЕрафиим",
-          "comment": "Либо ты плохо ищешь бит, либо он хорошо от тебя прячется.",
-          "scoredAt": "2026-10-21T14:50:14.325Z"
         }
       ]
     }
