@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T22:11:56.203Z",
+  "exportedAt": "2026-10-21T22:22:12.897Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -14452,8 +14452,14 @@
     },
     {
       "userId": "463ac09d-95aa-477b-9315-9be5b380dbf8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 5,
+          "comment": "После огромного количества одинаковых отборочных треков это звучит просто как глоток свежего воздуха.",
+          "scoredAt": "2026-10-21T22:12:56.399Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 5,
@@ -14473,7 +14479,7 @@
           "scoredAt": "2026-09-30T15:24:23.169Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:12:13.190Z",
+      "fetchedAt": "2026-10-21T22:22:12.897Z",
       "current": true,
       "artistName": "UNFEAR",
       "artistSlug": "unfear",
@@ -49907,8 +49913,14 @@
     },
     {
       "userId": "fc40fa1c-5022-4a3f-8716-9670d1fc17c3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну такая себе пародия на Сида и Рэма: грязный текст с грубым хрипящим голосом. Но в этом нет харизмы вообще.",
+          "scoredAt": "2026-10-21T22:15:50.138Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -49934,7 +49946,7 @@
           "scoredAt": "2026-10-07T07:31:01.837Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:22:24.346Z",
+      "fetchedAt": "2026-10-21T22:22:12.897Z",
       "current": true,
       "artistName": "РАЗЛОМ",
       "artistSlug": "razlom",
@@ -67873,8 +67885,14 @@
     },
     {
       "userId": "6a5c208d-1cf7-44a0-939f-7be84314bdd3",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Есть ощущение, что при нормальной доработке из этого могло получиться что-то достойное. Но пока и читка, и сведение звучат слишком сыро для прохода.",
+          "scoredAt": "2026-10-21T22:11:56.388Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -67888,7 +67906,7 @@
           "scoredAt": "2026-10-10T08:07:58.442Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:12:16.903Z",
+      "fetchedAt": "2026-10-21T22:22:12.897Z",
       "current": true,
       "artistName": "МЦ BRUTAL KILLER",
       "artistSlug": "mc-brutal-killer",
@@ -73067,8 +73085,14 @@
     },
     {
       "userId": "6159783a-38b5-4e81-a270-6baf2fec1529",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "По звуку местами даже неплохо, но текст совершенно не выдерживает того же уровня. Панчлайны либо банальные, либо просто не работают, поэтому выше двойки не поднимусь.",
+          "scoredAt": "2026-10-21T22:14:25.728Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 2,
@@ -73088,7 +73112,7 @@
           "scoredAt": "2026-10-15T14:53:52.467Z"
         }
       ],
-      "fetchedAt": "2026-10-18T03:42:01.359Z",
+      "fetchedAt": "2026-10-21T22:22:12.897Z",
       "current": true,
       "artistName": "Nik0lsky",
       "artistSlug": "nik0lsky",
@@ -88348,8 +88372,14 @@
     },
     {
       "userId": "65cdc902-ef7e-42fe-9fba-7d72ce7ec20e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Бит живёт своей жизнью, голос своей, и никакой нормальной синергии между ними я не услышал. Текст тоже не даёт ни одной причины закрыть глаза на эти проблемы.",
+          "scoredAt": "2026-10-21T22:13:50.160Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -88375,7 +88405,7 @@
           "scoredAt": "2026-10-14T16:02:50.282Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:34.238Z",
+      "fetchedAt": "2026-10-21T22:22:12.897Z",
       "current": true,
       "artistName": "TSVX",
       "artistSlug": "tsvx",

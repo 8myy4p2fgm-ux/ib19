@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T22:11:56.203Z",
-  "exportedAt": "2026-10-21T22:11:56.203Z",
-  "runId": "2026-10-21T22:11:56.203Z",
-  "forumExportedAt": "2026-10-21T22:11:56.203Z",
+  "lastSuccessfulAt": "2026-10-21T22:22:12.897Z",
+  "exportedAt": "2026-10-21T22:22:12.897Z",
+  "runId": "2026-10-21T22:22:12.897Z",
+  "forumExportedAt": "2026-10-21T22:22:12.897Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15436,
+    "scores": 15441,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 10,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 7,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 7,
-    "changedParticipants": 7,
-    "logicalRequests": 10,
-    "durationMs": 9769,
-    "scoresBefore": 15429,
-    "scoresAfter": 15436,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 10073,
+    "scoresBefore": 15436,
+    "scoresAfter": 15441,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.69493593654668,
+    "requestReductionPercent": 99.75594874923735,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "РАЗЛОМ",
+          "comment": "Ну такая себе пародия на Сида и Рэма: грязный текст с грубым хрипящим голосом. Но в этом нет харизмы вообще.",
+          "scoredAt": "2026-10-21T22:15:50.138Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Nik0lsky",
+          "comment": "По звуку местами даже неплохо, но текст совершенно не выдерживает того же уровня. Панчлайны либо банальные, либо просто не работают, поэтому выше двойки не поднимусь.",
+          "scoredAt": "2026-10-21T22:14:25.728Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "TSVX",
+          "comment": "Бит живёт своей жизнью, голос своей, и никакой нормальной синергии между ними я не услышал. Текст тоже не даёт ни одной причины закрыть глаза на эти проблемы.",
+          "scoredAt": "2026-10-21T22:13:50.160Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 5,
+          "artist": "UNFEAR",
+          "comment": "После огромного количества одинаковых отборочных треков это звучит просто как глоток свежего воздуха.",
+          "scoredAt": "2026-10-21T22:12:56.399Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "МЦ BRUTAL KILLER",
+          "comment": "Есть ощущение, что при нормальной доработке из этого могло получиться что-то достойное. Но пока и читка, и сведение звучат слишком сыро для прохода.",
+          "scoredAt": "2026-10-21T22:11:56.388Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 4,
@@ -164,41 +199,6 @@
           "artist": "AXEL Lezvie",
           "comment": "",
           "scoredAt": "2026-10-21T21:56:29.807Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "artist": "ꙮКАЗИЯ",
-          "comment": "Задумка хорошая, но исполнение - нет",
-          "scoredAt": "2026-10-21T21:55:58.106Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "1RG",
-          "comment": "Про кинг-конга сильно смеялся. Проход!",
-          "scoredAt": "2026-10-21T21:55:17.641Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "What's up?",
-          "comment": " Стильно читаешь, но поработай над рифмой. Прям базовые заезженные рифмы",
-          "scoredAt": "2026-10-21T21:54:34.838Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "Вова Эйкивоки",
-          "comment": "Хорошая работа для прохода",
-          "scoredAt": "2026-10-21T21:53:50.468Z"
-        },
-        {
-          "judgeName": "Никсон",
-          "score": 3,
-          "artist": "rapHinha",
-          "comment": "Стилёк есть, но что-то придумай со сведением, если пройдешь. Потенциал есть.",
-          "scoredAt": "2026-10-21T21:53:29.157Z"
         }
       ]
     }
