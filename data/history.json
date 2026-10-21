@@ -170694,6 +170694,104 @@
         "scoredAt": "2026-10-21T10:51:51.952Z",
         "userId": "6f581193-4f8d-4e45-9788-571173a67eac"
       }
+    },
+    {
+      "id": "6a3f5426b32790e94257f204f42d832dde77080ab7c025bf4e4589034ef0f5a1",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:57:51.194Z",
+      "key": "[\"0185a735-dc44-4912-8402-6ebf1d3d3fe9\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Круто, что назвался в честь темы баттла. Но рифмы слишком просты и ритм периодически убегает. Средне.",
+        "scoredAt": "2026-10-21T10:57:51.194Z",
+        "userId": "0185a735-dc44-4912-8402-6ebf1d3d3fe9"
+      }
+    },
+    {
+      "id": "53241fc4f8b22cbc41d1788ecf37b5ad478d6f7d09ceb0f65cc8f5b9c218d7a4",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:58:47.800Z",
+      "key": "[\"8670bcdd-b61b-4ac1-a350-3c87f0570e0e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Постарайся поработать с качеством. ",
+        "scoredAt": "2026-10-21T10:58:47.800Z",
+        "userId": "8670bcdd-b61b-4ac1-a350-3c87f0570e0e"
+      }
+    },
+    {
+      "id": "d5faa59a372cc1b3fc90b6bb22a4c3a3116a4c3224542bcc27372f28d00b84da",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:53:07.095Z",
+      "key": "[\"7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Удачи. ",
+        "scoredAt": "2026-10-21T10:53:07.095Z",
+        "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec"
+      }
+    },
+    {
+      "id": "a5222787f599e2816827c576b976f3176b851598296fedad667548d3d866e1e7",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:56:33.441Z",
+      "key": "[\"a6256fb3-6dfe-4a52-a694-35f7b5940834\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Видно, что старался. Я это уважаю в первом раунде. ",
+        "scoredAt": "2026-10-21T10:56:33.441Z",
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834"
+      }
+    },
+    {
+      "id": "dd8948b1ac0c9246318ea5844f4bb7628bb2b56993625850cb3c088a784ee56a",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:57:26.668Z",
+      "key": "[\"b6a4869c-10fd-4391-9253-0a42d2585b2f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Нормальный трек, чистейшай середина. ",
+        "scoredAt": "2026-10-21T10:57:26.668Z",
+        "userId": "b6a4869c-10fd-4391-9253-0a42d2585b2f"
+      }
+    },
+    {
+      "id": "ff7fe601229b1faba4b680025b62478512a6a44dfc0ec39c170e959e62b3efac",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T11:00:30.507Z",
+      "key": "[\"7629c690-4433-4aff-b26e-1face8e3cec5\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Мне понравилось, как ты сделал текст. По качеству плохо, если сделаешь трек на второй на студийке, у тебя все шансы пободаться и в парных. Голова на плечах есть - это хорошо, осталось сделать так, чтобы круто звучало. Удачи во втором. ",
+        "scoredAt": "2026-10-21T11:00:30.507Z",
+        "userId": "7629c690-4433-4aff-b26e-1face8e3cec5"
+      }
+    },
+    {
+      "id": "c2c0dcae9dfce97132acd374a614a99fb9198de24398694f543b4771206541dd",
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "sourceScoredAt": "2026-10-21T10:59:12.908Z",
+      "key": "[\"e4acb27d-baa3-48b0-bc98-881ab4b2521c\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Плохое качество. Читать могёшь, но общее впечатление испорчено записью / сведением. До четвёрки тут не дотянуть.",
+        "scoredAt": "2026-10-21T10:59:12.908Z",
+        "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c"
+      }
     }
   ],
   "snapshots": [
@@ -184973,6 +185071,26 @@
           "index": 31.945898901677495,
           "favor": 17.982907121292847,
           "attention": 3.2963251137179794,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:02:12.306Z",
+      "exportedAt": "2026-10-21T11:02:12.306Z",
+      "scores": 15158,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.23382557930784,
+          "favor": 8.626153655990766,
+          "attention": 5.634618031101505,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.965712964602773,
+          "favor": 17.983469790765273,
+          "attention": 3.3155765071708343,
           "respect": 10.666666666666666
         }
       }

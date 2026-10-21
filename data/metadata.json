@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T10:51:59.377Z",
-  "exportedAt": "2026-10-21T10:51:59.377Z",
-  "runId": "2026-10-21T10:51:59.377Z",
-  "forumExportedAt": "2026-10-21T10:51:59.377Z",
+  "lastSuccessfulAt": "2026-10-21T11:02:12.306Z",
+  "exportedAt": "2026-10-21T11:02:12.306Z",
+  "runId": "2026-10-21T11:02:12.306Z",
+  "forumExportedAt": "2026-10-21T11:02:12.306Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15151,
+    "scores": 15158,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 10,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 9,
+    "updatedCards": 7,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 9,
-    "changedParticipants": 8,
-    "logicalRequests": 13,
-    "durationMs": 13144,
-    "scoresBefore": 15142,
-    "scoresAfter": 15151,
+    "participantsWithNewScores": 7,
+    "changedParticipants": 7,
+    "logicalRequests": 10,
+    "durationMs": 10191,
+    "scoresBefore": 15151,
+    "scoresAfter": 15158,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.6030534351145,
+    "requestReductionPercent": 99.69465648854961,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -98,6 +98,62 @@
         {
           "judgeName": "CraftySound",
           "score": 4,
+          "artist": "Чайка Ленина",
+          "comment": "Мне понравилось, как ты сделал текст. По качеству плохо, если сделаешь трек на второй на студийке, у тебя все шансы пободаться и в парных. Голова на плечах есть - это хорошо, осталось сделать так, чтобы круто звучало. Удачи во втором. ",
+          "scoredAt": "2026-10-21T11:00:30.507Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "LeshatelZ",
+          "comment": "Плохое качество. Читать могёшь, но общее впечатление испорчено записью / сведением. До четвёрки тут не дотянуть.",
+          "scoredAt": "2026-10-21T10:59:12.908Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "МАЛЮТА",
+          "comment": "Постарайся поработать с качеством. ",
+          "scoredAt": "2026-10-21T10:58:47.800Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "artist": "PRaV",
+          "comment": "Круто, что назвался в честь темы баттла. Но рифмы слишком просты и ритм периодически убегает. Средне.",
+          "scoredAt": "2026-10-21T10:57:51.194Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "эмцэ цээм",
+          "comment": "Нормальный трек, чистейшай середина. ",
+          "scoredAt": "2026-10-21T10:57:26.668Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "ЭВИЛ БЕРТИ",
+          "comment": "Видно, что старался. Я это уважаю в первом раунде. ",
+          "scoredAt": "2026-10-21T10:56:33.441Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "Сергей Драколов",
+          "comment": "Удачи. ",
+          "scoredAt": "2026-10-21T10:53:07.095Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Генацидов",
+          "comment": "Очень плохо читаешь, и скрип микрофона просте терзает уши. За исполнение можно ставить твёрдую 2, или даже 1. В тексте есть прикол, но в третий не пройти с таким убогим качеством. И да, сам ты хуесос! ",
+          "scoredAt": "2026-10-21T10:51:51.952Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
           "artist": "Ispavlonave",
           "comment": "Хорошо читаешь, есть стилёк в этом. Ускорение круто звучит, здесь не у всех получается ускоряться. Твёрдая 4. Не хватило пару крутых строк, чтобы поставить 5. А так удачи! ",
           "scoredAt": "2026-10-21T10:49:35.876Z"
@@ -143,62 +199,6 @@
           "artist": "ISTINA",
           "comment": "Стильненько. Но почему столько людей не выговаривает Р? Это сейчас такая зумерскаяпроблема? ",
           "scoredAt": "2026-10-21T10:44:00.456Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Макс Каст",
-          "comment": "Сильно абстрактный текст, мысль плавает. По исполнению - что-то есть в этом. ",
-          "scoredAt": "2026-10-21T10:42:51.757Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Вова Эйкивоки",
-          "comment": "Нормальная работа, но неоднозначная. Что-то между нормально и хорошо. Поставлю хорошо. ",
-          "scoredAt": "2026-10-21T10:41:44.359Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "Tales",
-          "comment": "Качество немного подкачало, а так, трек на проход. ",
-          "scoredAt": "2026-10-21T10:40:26.842Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Дграф",
-          "comment": "Вокал в конце испортил впечатление, но я сделаю вид, что его не было и поставлю 4. ",
-          "scoredAt": "2026-10-21T10:39:35.937Z"
-        },
-        {
-          "judgeName": "Роженов",
-          "score": 2,
-          "artist": "Resonanse",
-          "comment": "Попытка в пение, увы, очень нелепая, какие-то кринжовые протяжки вышли, манерные. Исполняешь и в целом не оч, не хватает ритмичности и чувства бита. Квадратные и слабосозвучные рифмы по тексту, содержательно ничего не запоминается. Есть зачатки неплохой образности в \"припеве\". ",
-          "scoredAt": "2026-10-21T10:35:15.755Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Cringenaringe",
-          "comment": "Напевы звучат не очень, читка гораздо лучше.",
-          "scoredAt": "2026-10-21T10:33:10.354Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 5,
-          "artist": "AmigoДруг",
-          "comment": "Уверенная, крутая работа. Свой голос, крутая читка, хороший текст. Да тут всё есть, чтобы поставить 5.",
-          "scoredAt": "2026-10-21T10:32:08.273Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "AXIYAMI",
-          "comment": "Лайтовая, приятная работа. Здесь автотюн уместен, не так как у многих.",
-          "scoredAt": "2026-10-21T10:30:43.876Z"
         }
       ]
     }

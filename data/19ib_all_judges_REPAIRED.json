@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T10:51:59.377Z",
+  "exportedAt": "2026-10-21T11:02:12.306Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -25405,8 +25405,14 @@
     },
     {
       "userId": "0185a735-dc44-4912-8402-6ebf1d3d3fe9",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Круто, что назвался в честь темы баттла. Но рифмы слишком просты и ритм периодически убегает. Средне.",
+          "scoredAt": "2026-10-21T10:57:51.194Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -25426,7 +25432,7 @@
           "scoredAt": "2026-09-03T14:14:55.991Z"
         }
       ],
-      "fetchedAt": "2026-10-20T10:42:22.075Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "PRaV",
       "artistSlug": "prav",
@@ -54920,41 +54926,6 @@
       "trackId": "21f809df-b78d-4086-a9d2-b127e136ee45"
     },
     {
-      "userId": "5c457f2d-bc11-4da0-abf2-639e9b5c7390",
-      "scoredCount": 4,
-      "scores": [
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "comment": "Не хватило пауз, слишком бурный поток словес. Не даёшь продышаться и задуматься над твоими словами, ещё и сам воздуха не добираешь и задыхаешься местами.",
-          "scoredAt": "2026-10-19T18:25:43.902Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 4,
-          "comment": "Олдово так, меня цепануло. 4 с минусом, потенциал чувствуется, хотя моментами будто с ритма слетаешь чутка. ",
-          "scoredAt": "2026-10-19T16:34:18.368Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "comment": "Старая школа, вроде даже и 4 достойна работа, но местами рваненько. ",
-          "scoredAt": "2026-10-17T15:46:24.874Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "Золотая середина",
-          "scoredAt": "2026-10-17T14:01:29.340Z"
-        }
-      ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
-      "current": true,
-      "artistName": "NS",
-      "artistSlug": "ns",
-      "trackId": "e06d85b3-b9f3-4ecd-9f06-1a1312150bc2"
-    },
-    {
       "userId": "274f8932-cfa7-4155-87f1-d1117aaf3c98",
       "scoredCount": 5,
       "scores": [
@@ -55076,6 +55047,41 @@
       "artistName": "The Dudnik",
       "artistSlug": "the-dudnik",
       "trackId": "d0f8ae6a-68a1-49d8-befb-d67ab3b22af8"
+    },
+    {
+      "userId": "5c457f2d-bc11-4da0-abf2-639e9b5c7390",
+      "scoredCount": 4,
+      "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Не хватило пауз, слишком бурный поток словес. Не даёшь продышаться и задуматься над твоими словами, ещё и сам воздуха не добираешь и задыхаешься местами.",
+          "scoredAt": "2026-10-19T18:25:43.902Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 4,
+          "comment": "Олдово так, меня цепануло. 4 с минусом, потенциал чувствуется, хотя моментами будто с ритма слетаешь чутка. ",
+          "scoredAt": "2026-10-19T16:34:18.368Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Старая школа, вроде даже и 4 достойна работа, но местами рваненько. ",
+          "scoredAt": "2026-10-17T15:46:24.874Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "Золотая середина",
+          "scoredAt": "2026-10-17T14:01:29.340Z"
+        }
+      ],
+      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "current": true,
+      "artistName": "NS",
+      "artistSlug": "ns",
+      "trackId": "e06d85b3-b9f3-4ecd-9f06-1a1312150bc2"
     },
     {
       "userId": "720bdc77-a776-4744-925b-6cafac034e7b",
@@ -68259,8 +68265,14 @@
     },
     {
       "userId": "8670bcdd-b61b-4ac1-a350-3c87f0570e0e",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Постарайся поработать с качеством. ",
+          "scoredAt": "2026-10-21T10:58:47.800Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -68274,7 +68286,7 @@
           "scoredAt": "2026-10-17T10:32:51.776Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:12:27.630Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "МАЛЮТА",
       "artistSlug": "malyuta",
@@ -87182,8 +87194,14 @@
     },
     {
       "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Удачи. ",
+          "scoredAt": "2026-10-21T10:53:07.095Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -87191,7 +87209,7 @@
           "scoredAt": "2026-10-16T17:59:55.303Z"
         }
       ],
-      "fetchedAt": "2026-10-16T18:02:36.807Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "Сергей Драколов",
       "artistSlug": "sergey-drakolov",
@@ -95086,8 +95104,14 @@
     },
     {
       "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Видно, что старался. Я это уважаю в первом раунде. ",
+          "scoredAt": "2026-10-21T10:56:33.441Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -95107,7 +95131,7 @@
           "scoredAt": "2026-10-17T09:02:35.180Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:02:14.486Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "ЭВИЛ БЕРТИ",
       "artistSlug": "evil-berti",
@@ -98506,8 +98530,14 @@
     },
     {
       "userId": "b6a4869c-10fd-4391-9253-0a42d2585b2f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Нормальный трек, чистейшай середина. ",
+          "scoredAt": "2026-10-21T10:57:26.668Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -98527,7 +98557,7 @@
           "scoredAt": "2026-10-13T13:07:46.567Z"
         }
       ],
-      "fetchedAt": "2026-10-18T17:32:01.560Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "эмцэ цээм",
       "artistSlug": "emce-ceem",
@@ -105709,8 +105739,14 @@
     },
     {
       "userId": "7629c690-4433-4aff-b26e-1face8e3cec5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Мне понравилось, как ты сделал текст. По качеству плохо, если сделаешь трек на второй на студийке, у тебя все шансы пободаться и в парных. Голова на плечах есть - это хорошо, осталось сделать так, чтобы круто звучало. Удачи во втором. ",
+          "scoredAt": "2026-10-21T11:00:30.507Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -105730,7 +105766,7 @@
           "scoredAt": "2026-10-05T09:17:25.483Z"
         }
       ],
-      "fetchedAt": "2026-10-18T14:52:10.619Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "Чайка Ленина",
       "artistSlug": "chayka-lenina",
@@ -122658,8 +122694,14 @@
     },
     {
       "userId": "e4acb27d-baa3-48b0-bc98-881ab4b2521c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Плохое качество. Читать могёшь, но общее впечатление испорчено записью / сведением. До четвёрки тут не дотянуть.",
+          "scoredAt": "2026-10-21T10:59:12.908Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -122679,7 +122721,7 @@
           "scoredAt": "2026-10-07T17:35:14.876Z"
         }
       ],
-      "fetchedAt": "2026-10-17T16:52:09.380Z",
+      "fetchedAt": "2026-10-21T11:02:12.306Z",
       "current": true,
       "artistName": "LeshatelZ",
       "artistSlug": "leshatelz",
