@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T09:42:09.642Z",
-  "exportedAt": "2026-10-21T09:42:09.642Z",
-  "runId": "2026-10-21T09:42:09.642Z",
-  "forumExportedAt": "2026-10-21T09:42:09.642Z",
+  "lastSuccessfulAt": "2026-10-21T09:52:17.251Z",
+  "exportedAt": "2026-10-21T09:52:17.251Z",
+  "runId": "2026-10-21T09:52:17.251Z",
+  "forumExportedAt": "2026-10-21T09:52:17.251Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15102,
+    "scores": 15108,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 9,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 8,
+    "updatedCards": 6,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 11,
-    "durationMs": 11308,
-    "scoresBefore": 15094,
-    "scoresAfter": 15102,
+    "participantsWithNewScores": 6,
+    "changedParticipants": 6,
+    "logicalRequests": 9,
+    "durationMs": 9389,
+    "scoresBefore": 15102,
+    "scoresAfter": 15108,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.66412213740458,
+    "requestReductionPercent": 99.72519083969466,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,48 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "обычный",
+          "comment": "не очень бро.",
+          "scoredAt": "2026-10-21T09:51:34.090Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "стилезавр",
+          "comment": "слушай почему у тебя в барах есть слова которые явно не влезли в твой трек? это было бы окей, если бы это были какие то слова не меняющие повествование. ну и ваще техт самбурный, хотя первая четверка зарядила прикольно вот до этого бара было хорошо - \"Не слышал строк сильней хоть броски белый какакакака как кокаин\"",
+          "scoredAt": "2026-10-21T09:50:30.934Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "artist": "Корнишон11",
+          "comment": "правды - не правда. Нуты прям ультанул сходу ебать) Определенно ты прикольно подаешь, весело. Но такие кринжовые панчи, типо МАМА МАМА МАМА. Пашок в чате веселее про мам панчит братуха, ты либо докручивая панч веселее, либо хз че) СЛОВО МАМА не добавляет очков изнчаально хуево панчлайну, как то так.",
+          "scoredAt": "2026-10-21T09:47:48.912Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 2,
+          "artist": "߬߹  SeYTi   ߬߹",
+          "comment": "Хаха, ну это забавно бро, ты определнно веселый парень.",
+          "scoredAt": "2026-10-21T09:45:33.399Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "TIHN",
+          "comment": "Интересно!",
+          "scoredAt": "2026-10-21T09:44:18.210Z"
+        },
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 4,
+          "artist": "kodmiro",
+          "comment": "Слушай, а вайбит.",
+          "scoredAt": "2026-10-21T09:43:10.912Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -157,48 +199,6 @@
           "artist": "LiviLiv",
           "comment": "Жоско завафлил фастфлеу братуха. Зачем ты его сделал? Без него лучше было бы.",
           "scoredAt": "2026-10-21T09:30:47.808Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "48Ронин",
-          "comment": "плэйзеэнжел типа? Ну неплохо. Глянем что дальше будет.",
-          "scoredAt": "2026-10-21T09:29:33.013Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "SHVRTVRAP",
-          "comment": "Ну бро, это одно из наиболее часто встречающихся раскрытий и не самое креативное из них. Хотя читаешь рэб наверное технично, хотя щас больше хочется живой эмцоии какой то, чем механического начитывания.",
-          "scoredAt": "2026-10-21T09:28:45.443Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 4,
-          "artist": "Психотеатр",
-          "comment": "Есть прикольные тычке по тексту, про седину например.",
-          "scoredAt": "2026-10-21T09:23:21.848Z"
-        },
-        {
-          "judgeName": "Гукер Капюшон",
-          "score": 3,
-          "artist": "Юрась",
-          "comment": "Ну просто средней трецк братуха.",
-          "scoredAt": "2026-10-21T09:21:40.533Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 3,
-          "artist": "Илья Вайт",
-          "comment": "Харизматичный текст. ) Не знаю, меня прикололо. Для бэттла hhru, недостаточно уверенно все это, но тут редкий случай красоты в простоте. Если проход, то только по красной границе и с барского плеча.",
-          "scoredAt": "2026-10-21T09:15:05.113Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "10111010000",
-          "comment": "В лучших традициях русского ундергроунда.",
-          "scoredAt": "2026-10-21T09:12:01.216Z"
         }
       ]
     }
