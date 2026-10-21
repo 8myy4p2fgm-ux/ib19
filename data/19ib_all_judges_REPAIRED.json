@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T15:32:06.117Z",
+  "exportedAt": "2026-10-21T15:42:18.033Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -11981,8 +11981,14 @@
     },
     {
       "userId": "3a2860bb-f66e-4b69-9f36-850bc9deff0c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Гукер Капюшон",
+          "score": 3,
+          "comment": "Простенько братан. И раскрытие достаточно папулярное и техт простоват, и рифмы слабоваты. Давай если пройдешь, во втором посерьезнее дай.",
+          "scoredAt": "2026-10-21T15:35:20.349Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -12008,7 +12014,7 @@
           "scoredAt": "2026-10-12T11:56:19.875Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T15:42:18.033Z",
       "current": true,
       "artistName": "Артем Попов",
       "artistSlug": "artem-popov",
@@ -22219,8 +22225,14 @@
     },
     {
       "userId": "a58dcf77-20e6-4221-9af2-3c0a9bce023e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Выше основной массы средних трэков. Приятный вайбик создаёшь.",
+          "scoredAt": "2026-10-21T15:32:55.725Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -22240,7 +22252,7 @@
           "scoredAt": "2026-10-13T16:09:30.857Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:12:25.963Z",
+      "fetchedAt": "2026-10-21T15:42:18.033Z",
       "current": true,
       "artistName": "vsecelo",
       "artistSlug": "vsecelo",
@@ -22617,8 +22629,14 @@
     },
     {
       "userId": "56474f9f-0e30-4b34-b755-b459c68d856a",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Грузанул так грузанул. Последней строчкой до четвёрки дотянул.",
+          "scoredAt": "2026-10-21T15:39:36.949Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -22638,7 +22656,7 @@
           "scoredAt": "2026-10-10T17:36:44.564Z"
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:12.343Z",
+      "fetchedAt": "2026-10-21T15:42:18.033Z",
       "current": true,
       "artistName": "CYBER$LOVE",
       "artistSlug": "cyber-love",
@@ -63062,8 +63080,14 @@
     },
     {
       "userId": "e52866fb-ff4c-4898-9302-00f0cd5c1e15",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Пятая тройка для прохода. ",
+          "scoredAt": "2026-10-21T15:36:11.016Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -63089,7 +63113,7 @@
           "scoredAt": "2026-10-13T13:18:56.633Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T15:42:18.033Z",
       "current": true,
       "artistName": "papasha",
       "artistSlug": "papasha",
@@ -107403,8 +107427,14 @@
     },
     {
       "userId": "487283cc-0837-4d18-922b-f9437e645faa",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Увесисто читаешь. Только каталóг, конечно же.",
+          "scoredAt": "2026-10-21T15:42:11.009Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -107430,7 +107460,7 @@
           "scoredAt": "2026-10-09T08:49:17.111Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:52:23.240Z",
+      "fetchedAt": "2026-10-21T15:42:18.033Z",
       "current": true,
       "artistName": "бензобак",
       "artistSlug": "benzobak",
