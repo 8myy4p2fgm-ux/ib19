@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T19:42:04.871Z",
-  "exportedAt": "2026-10-21T19:42:04.871Z",
-  "runId": "2026-10-21T19:42:04.871Z",
-  "forumExportedAt": "2026-10-21T19:42:04.871Z",
+  "lastSuccessfulAt": "2026-10-21T21:32:08.576Z",
+  "exportedAt": "2026-10-21T21:32:08.576Z",
+  "runId": "2026-10-21T21:32:08.576Z",
+  "forumExportedAt": "2026-10-21T21:32:08.576Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15397,
+    "scores": 15401,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 3154,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 6879,
     "scoresBefore": 15397,
-    "scoresAfter": 15397,
-    "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.90845285321942,
+    "scoresAfter": 15401,
+    "fullBaselineRequests": 3278,
+    "requestReductionPercent": 99.78645515558267,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "Egor Neiv",
+          "comment": "Ну нет сочетания голоса с битом. Возможно тебе не идут такие биты, возможно нужно поработать над сведением. Но потенциал в этом есть.",
+          "scoredAt": "2026-10-21T21:31:46.988Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Рома Кросс",
+          "comment": "Ну тут слабовато для прохода дальше: и по тексту не понравились рифмы, и по звуку дикционно где-то не вывез, и читка монотонная. Увы, 2 балла.",
+          "scoredAt": "2026-10-21T21:30:23.664Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "crestrash",
+          "comment": "Ну по тексту нормально, интересно. Но со сведением надо что-то делать",
+          "scoredAt": "2026-10-21T21:27:42.306Z"
+        },
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "artist": "Джиджиэс",
+          "comment": "Ну прикол, конечно. Но слабо даже для отбора",
+          "scoredAt": "2026-10-21T21:26:23.315Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -171,34 +199,6 @@
           "artist": "߬߹  SeYTi   ߬߹",
           "comment": "АХУЕННО",
           "scoredAt": "2026-10-21T17:21:34.375Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "Base-T",
-          "comment": "легенда ",
-          "scoredAt": "2026-10-21T17:21:20.045Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "OGLAVNOM",
-          "comment": "оч мимо вообще текст",
-          "scoredAt": "2026-10-21T17:20:53.218Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "NIRAI",
-          "comment": "слабо",
-          "scoredAt": "2026-10-21T17:20:20.391Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "artist": "chapai",
-          "comment": "сказочник. читает слабо но вроде шарит ",
-          "scoredAt": "2026-10-21T17:19:50.311Z"
         }
       ]
     }

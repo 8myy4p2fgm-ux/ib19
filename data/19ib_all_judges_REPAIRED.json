@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T19:42:04.871Z",
+  "exportedAt": "2026-10-21T21:32:08.576Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -46207,8 +46207,14 @@
     },
     {
       "userId": "d8245dd0-21b6-428c-868b-9ddf501c5079",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну нет сочетания голоса с битом. Возможно тебе не идут такие биты, возможно нужно поработать над сведением. Но потенциал в этом есть.",
+          "scoredAt": "2026-10-21T21:31:46.988Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -46228,7 +46234,7 @@
           "scoredAt": "2026-10-15T14:47:21.539Z"
         }
       ],
-      "fetchedAt": "2026-10-21T17:02:00.968Z",
+      "fetchedAt": "2026-10-21T21:32:08.576Z",
       "current": true,
       "artistName": "Egor Neiv",
       "artistSlug": "egor-neiv",
@@ -75705,8 +75711,14 @@
     },
     {
       "userId": "c7d504ea-6909-4a54-ac4f-fbd1f40b9f27",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну прикол, конечно. Но слабо даже для отбора",
+          "scoredAt": "2026-10-21T21:26:23.315Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -75732,7 +75744,7 @@
           "scoredAt": "2026-10-03T11:10:41.132Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T21:32:08.576Z",
       "current": true,
       "artistName": "Джиджиэс",
       "artistSlug": "dzhidzhies",
@@ -88380,8 +88392,14 @@
     },
     {
       "userId": "dde03ebf-574b-4689-8611-9822c018e067",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну тут слабовато для прохода дальше: и по тексту не понравились рифмы, и по звуку дикционно где-то не вывез, и читка монотонная. Увы, 2 балла.",
+          "scoredAt": "2026-10-21T21:30:23.664Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -88407,7 +88425,7 @@
           "scoredAt": "2026-10-16T16:29:29.972Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:12:10.989Z",
+      "fetchedAt": "2026-10-21T21:32:08.576Z",
       "current": true,
       "artistName": "Рома Кросс",
       "artistSlug": "roma-kross",
@@ -93329,9 +93347,16 @@
     },
     {
       "userId": "1253a70c-33a0-49e1-b233-a3f3847ff558",
-      "scoredCount": 0,
-      "scores": [],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "scoredCount": 1,
+      "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну по тексту нормально, интересно. Но со сведением надо что-то делать",
+          "scoredAt": "2026-10-21T21:27:42.306Z"
+        }
+      ],
+      "fetchedAt": "2026-10-21T21:32:08.576Z",
       "current": true,
       "artistName": "crestrash",
       "artistSlug": "crestrash",
