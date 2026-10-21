@@ -173270,6 +173270,62 @@
         "scoredAt": "2026-10-21T15:44:58.560Z",
         "userId": "c1b4cf12-2660-43d0-841d-093505b8e40c"
       }
+    },
+    {
+      "id": "e92dad5fc08e2358f289709028694b22f0a018880a759ee83b1e0784de49d011",
+      "observedAt": "2026-10-21T16:02:06.039Z",
+      "sourceScoredAt": "2026-10-21T15:52:56.041Z",
+      "key": "[\"b43b2839-a46d-4005-b14b-0c232d752931\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 5,
+        "comment": "Панчи хороши. Техника тоже.",
+        "scoredAt": "2026-10-21T15:52:56.041Z",
+        "userId": "b43b2839-a46d-4005-b14b-0c232d752931"
+      }
+    },
+    {
+      "id": "00408474a490a2a3a534866e92b6a41d15d61b140cc3a285b2fd0768a9c5f211",
+      "observedAt": "2026-10-21T16:02:06.039Z",
+      "sourceScoredAt": "2026-10-21T15:56:59.069Z",
+      "key": "[\"c3ca48a8-7596-4e6f-8cb4-806f1b165c34\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 3,
+        "comment": "Очень сухой голос, без обработки будто. Повторения строки в конце лишние, минуту нужно использовать эффективнее.",
+        "scoredAt": "2026-10-21T15:56:59.069Z",
+        "userId": "c3ca48a8-7596-4e6f-8cb4-806f1b165c34"
+      }
+    },
+    {
+      "id": "445cf81908f1bb9952b060066b916918fd138060daa5e4e83351127d20425ce4",
+      "observedAt": "2026-10-21T16:02:06.039Z",
+      "sourceScoredAt": "2026-10-21T15:55:17.764Z",
+      "key": "[\"7ed2adcb-f700-4e62-9308-081b078ab9ff\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 2,
+        "comment": "Так что там было у акулиста-то?",
+        "scoredAt": "2026-10-21T15:55:17.764Z",
+        "userId": "7ed2adcb-f700-4e62-9308-081b078ab9ff"
+      }
+    },
+    {
+      "id": "94aae585d2f1591978e1cefad1f5751d87d171bf0b206f708bf0eea47bfea221",
+      "observedAt": "2026-10-21T16:02:06.039Z",
+      "sourceScoredAt": "2026-10-21T15:54:35.873Z",
+      "key": "[\"b119a602-8f24-4c36-9d61-834ffd3b09ed\",\"Illumate\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Illumate",
+        "score": 4,
+        "comment": "Нарифмовал жирненько. ",
+        "scoredAt": "2026-10-21T15:54:35.873Z",
+        "userId": "b119a602-8f24-4c36-9d61-834ffd3b09ed"
+      }
     }
   ],
   "snapshots": [
@@ -187969,6 +188025,26 @@
           "index": 31.700698386053247,
           "favor": 17.919715233372038,
           "attention": 3.160545196476833,
+          "respect": 10.620437956204379
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T16:02:06.039Z",
+      "exportedAt": "2026-10-21T16:02:06.039Z",
+      "scores": 15339,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.384652431754297,
+          "favor": 8.671944182592048,
+          "attention": 5.730565392019393,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.705542122541644,
+          "favor": 17.91861568349151,
+          "attention": 3.166488482845758,
           "respect": 10.620437956204379
         }
       }

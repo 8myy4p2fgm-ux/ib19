@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T15:52:12.017Z",
+  "exportedAt": "2026-10-21T16:02:06.039Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -26118,8 +26118,14 @@
     },
     {
       "userId": "b43b2839-a46d-4005-b14b-0c232d752931",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Панчи хороши. Техника тоже.",
+          "scoredAt": "2026-10-21T15:52:56.041Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -26145,7 +26151,7 @@
           "scoredAt": "2026-09-01T19:26:12.381Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-21T16:02:06.039Z",
       "current": true,
       "artistName": "envyboi69",
       "artistSlug": "envyboi69",
@@ -87177,8 +87183,14 @@
     },
     {
       "userId": "c3ca48a8-7596-4e6f-8cb4-806f1b165c34",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Очень сухой голос, без обработки будто. Повторения строки в конце лишние, минуту нужно использовать эффективнее.",
+          "scoredAt": "2026-10-21T15:56:59.069Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -87192,7 +87204,7 @@
           "scoredAt": "2026-10-12T17:32:02.015Z"
         }
       ],
-      "fetchedAt": "2026-10-15T13:12:20.164Z",
+      "fetchedAt": "2026-10-21T16:02:06.039Z",
       "current": true,
       "artistName": "PANIKA!",
       "artistSlug": "panika",
@@ -106878,8 +106890,14 @@
     },
     {
       "userId": "7ed2adcb-f700-4e62-9308-081b078ab9ff",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 2,
+          "comment": "Так что там было у акулиста-то?",
+          "scoredAt": "2026-10-21T15:55:17.764Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 2,
@@ -106905,7 +106923,7 @@
           "scoredAt": "2026-10-08T12:28:34.779Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T16:02:06.039Z",
       "current": true,
       "artistName": "Максим Прометазин",
       "artistSlug": "maksim-prometazin",
@@ -109725,8 +109743,14 @@
     },
     {
       "userId": "b119a602-8f24-4c36-9d61-834ffd3b09ed",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Нарифмовал жирненько. ",
+          "scoredAt": "2026-10-21T15:54:35.873Z"
+        },
         {
           "judgeName": "Гарикъ Истерин",
           "score": 3,
@@ -109752,7 +109776,7 @@
           "scoredAt": "2026-10-12T21:08:17.633Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:42:23.878Z",
+      "fetchedAt": "2026-10-21T16:02:06.039Z",
       "current": true,
       "artistName": "медноголовый щитомордник",
       "artistSlug": "mednogolovyy-schitomordnik",
