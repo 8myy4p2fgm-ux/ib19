@@ -171072,6 +171072,188 @@
         "scoredAt": "2026-10-21T11:18:37.973Z",
         "userId": "5d3f59e6-c560-4dca-8403-fc5f600af5af"
       }
+    },
+    {
+      "id": "fbd0ed77afe5d2b1fe164ee9080a24a652ac603dcc5c995f2e0dc8af589f98be",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:25:11.098Z",
+      "key": "[\"2e42d8d7-aa06-4810-a8a8-00885df238f3\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Над ушами и правда поиздевался...",
+        "scoredAt": "2026-10-21T11:25:11.098Z",
+        "userId": "2e42d8d7-aa06-4810-a8a8-00885df238f3"
+      }
+    },
+    {
+      "id": "94f527e876039e38d9ea16ebeac89fd9b9de4294377f652e8388133b357d3a23",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:27:10.445Z",
+      "key": "[\"e6f2c1ac-80eb-40bf-9394-266f8be16b6b\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Средне, но этого достаточно, чтобы пройти. Во втором будет тяжело. ",
+        "scoredAt": "2026-10-21T11:27:10.445Z",
+        "userId": "e6f2c1ac-80eb-40bf-9394-266f8be16b6b"
+      }
+    },
+    {
+      "id": "bb84d9e7b720f59d2bf335320b2fb8ca8f405299ea45a77e3754a45cba6ad95c",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:29:36.096Z",
+      "key": "[\"cf149729-76fa-45c3-ac48-de98f42c1e28\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "бесплатно бесплатно бесплатно платно  платно  платно.... Рифмы божественные) \n",
+        "scoredAt": "2026-10-21T11:29:36.096Z",
+        "userId": "cf149729-76fa-45c3-ac48-de98f42c1e28"
+      }
+    },
+    {
+      "id": "77017d0735d371e51b3b053b01d22cf98cc33b0ea0cfabe20693cdd48d199bf5",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:28:45.837Z",
+      "key": "[\"55e2b0a6-5b72-40a8-a1ef-9855a5981f41\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Видно, что карпел над текстом, по исполнению средне. За текст натягиваю до 4. ",
+        "scoredAt": "2026-10-21T11:28:45.837Z",
+        "userId": "55e2b0a6-5b72-40a8-a1ef-9855a5981f41"
+      }
+    },
+    {
+      "id": "87692c8e1d44bfacab5de88b8c61a179868a54397e1afa2e9ace54e2d2aaf6af",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:24:41.690Z",
+      "key": "[\"df663ce9-b6e5-48c3-896d-39403d50a445\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Бескрайняя Плоть))))))) В архив крутых ников))))",
+        "scoredAt": "2026-10-21T11:24:41.690Z",
+        "userId": "df663ce9-b6e5-48c3-896d-39403d50a445"
+      }
+    },
+    {
+      "id": "f103d042e1a61f256fbc752941e875f55570304341687e7764af66abd66baacc",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:23:19.035Z",
+      "key": "[\"52562e5e-e3f8-4575-8527-789a3966d840\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Натараторил. Нужно что-то делать с дикцией. ",
+        "scoredAt": "2026-10-21T11:23:19.035Z",
+        "userId": "52562e5e-e3f8-4575-8527-789a3966d840"
+      }
+    },
+    {
+      "id": "03657ecac72105400d2fba1b1697ded03f7816ae34728398eee63bde89c7684f",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:22:41.060Z",
+      "key": "[\"6fe24f7e-d5f3-4f34-afcc-24e58d67e276\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Тебе бы качества, бро. Запиши на студийке и охренешь какая будет разница. ",
+        "scoredAt": "2026-10-21T11:22:41.060Z",
+        "userId": "6fe24f7e-d5f3-4f34-afcc-24e58d67e276"
+      }
+    },
+    {
+      "id": "6d61be482571f741ca5c20920ad4123867a88c58401ff997ef655bce1a4acbf8",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:31:04.447Z",
+      "key": "[\"cc7dde8b-cf49-4633-845a-8f67cc795bb3\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Не могу за такое исполнение поставить проход. ",
+        "scoredAt": "2026-10-21T11:31:04.447Z",
+        "userId": "cc7dde8b-cf49-4633-845a-8f67cc795bb3"
+      }
+    },
+    {
+      "id": "bcc9c5d922710c0ecf88344b3c94128619a3c9893a2dfe880b8e0f0196de3a78",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:30:23.854Z",
+      "key": "[\"5254761f-13e2-4101-83f6-0fb118a1e626\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Нормальная работа на минимальный проход. Удачи. ",
+        "scoredAt": "2026-10-21T11:30:23.854Z",
+        "userId": "5254761f-13e2-4101-83f6-0fb118a1e626"
+      }
+    },
+    {
+      "id": "e522ba31fcc058c13d8d1ba43538a581811a443c466457d2b391464369d86e1e",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:31:41.657Z",
+      "key": "[\"c3edd29e-213a-45a1-9e13-f0dc37b5ea58\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Начало пути в новой школе? Пока звучит сыровато. ",
+        "scoredAt": "2026-10-21T11:31:41.657Z",
+        "userId": "c3edd29e-213a-45a1-9e13-f0dc37b5ea58"
+      }
+    },
+    {
+      "id": "c0406f42def9f72328cf39cc616461e3e44e7c06a8882fa2e6c5c712f36a09ac",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:24:04.272Z",
+      "key": "[\"be068bcc-fab1-4036-ba34-6ed3792c9d2d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Стильно, уверенно. Гоу во второй. ",
+        "scoredAt": "2026-10-21T11:24:04.272Z",
+        "userId": "be068bcc-fab1-4036-ba34-6ed3792c9d2d"
+      }
+    },
+    {
+      "id": "94550eb4c135c9439c511c68c1f45a369fda9c22c6614a16404b6390a01924a9",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:26:04.437Z",
+      "key": "[\"8d7388ea-9ddb-4dff-bc69-a1203446fa04\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ощущение такое, что ты читаешь и одновременно ублажаешь себя, так тебе нравится свой стиль))",
+        "scoredAt": "2026-10-21T11:26:04.437Z",
+        "userId": "8d7388ea-9ddb-4dff-bc69-a1203446fa04"
+      }
+    },
+    {
+      "id": "e7c71dae49f96f5a6230fcb43f98f085cff223e039bba6af6e5e8971735d3cd2",
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "sourceScoredAt": "2026-10-21T11:27:54.355Z",
+      "key": "[\"9eca1d50-0346-4ab9-a21b-eb3e477b232d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Это между 2 и 3. Округляю в сторону участника. ",
+        "scoredAt": "2026-10-21T11:27:54.355Z",
+        "userId": "9eca1d50-0346-4ab9-a21b-eb3e477b232d"
+      }
     }
   ],
   "snapshots": [
@@ -185411,6 +185593,26 @@
           "index": 32.034086556141546,
           "favor": 17.988920649693107,
           "attention": 3.378499239781773,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T11:32:14.454Z",
+      "exportedAt": "2026-10-21T11:32:14.454Z",
+      "scores": 15191,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.216101740597427,
+          "favor": 8.649488824054208,
+          "attention": 5.589000976244712,
+          "respect": 5.977611940298507
+        },
+        "veterans": {
+          "index": 32.083773020618295,
+          "favor": 17.996789762663838,
+          "attention": 3.4203165912877886,
           "respect": 10.666666666666666
         }
       }

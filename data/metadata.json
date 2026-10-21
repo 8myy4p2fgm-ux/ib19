@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T11:22:05.075Z",
-  "exportedAt": "2026-10-21T11:22:05.075Z",
-  "runId": "2026-10-21T11:22:05.075Z",
-  "forumExportedAt": "2026-10-21T11:22:05.075Z",
+  "lastSuccessfulAt": "2026-10-21T11:32:14.454Z",
+  "exportedAt": "2026-10-21T11:32:14.454Z",
+  "runId": "2026-10-21T11:32:14.454Z",
+  "forumExportedAt": "2026-10-21T11:32:14.454Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15178,
+    "scores": 15191,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 13,
+    "httpRequests": 16,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 10,
+    "updatedCards": 13,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 10,
-    "changedParticipants": 10,
-    "logicalRequests": 13,
-    "durationMs": 12642,
-    "scoresBefore": 15168,
-    "scoresAfter": 15178,
+    "participantsWithNewScores": 13,
+    "changedParticipants": 13,
+    "logicalRequests": 16,
+    "durationMs": 15953,
+    "scoresBefore": 15178,
+    "scoresAfter": 15191,
     "fullBaselineRequests": 3276,
-    "requestReductionPercent": 99.60317460317461,
+    "requestReductionPercent": 99.51159951159951,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,97 @@
       "feed": [
         {
           "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "вини гретту",
+          "comment": "Начало пути в новой школе? Пока звучит сыровато. ",
+          "scoredAt": "2026-10-21T11:31:41.657Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "ДЕВЯНОСТОЧЕТВЕРТЫЙ",
+          "comment": "Не могу за такое исполнение поставить проход. ",
+          "scoredAt": "2026-10-21T11:31:04.447Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "LEGOX",
+          "comment": "Нормальная работа на минимальный проход. Удачи. ",
+          "scoredAt": "2026-10-21T11:30:23.854Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "PИNKMЭN",
+          "comment": "бесплатно бесплатно бесплатно платно  платно  платно.... Рифмы божественные) \n",
+          "scoredAt": "2026-10-21T11:29:36.096Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "ARES",
+          "comment": "Видно, что карпел над текстом, по исполнению средне. За текст натягиваю до 4. ",
+          "scoredAt": "2026-10-21T11:28:45.837Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Лёха Л.",
+          "comment": "Это между 2 и 3. Округляю в сторону участника. ",
+          "scoredAt": "2026-10-21T11:27:54.355Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "WHYCOLD",
+          "comment": "Средне, но этого достаточно, чтобы пройти. Во втором будет тяжело. ",
+          "scoredAt": "2026-10-21T11:27:10.445Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Exxistential",
+          "comment": "Ощущение такое, что ты читаешь и одновременно ублажаешь себя, так тебе нравится свой стиль))",
+          "scoredAt": "2026-10-21T11:26:04.437Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "artist": "The_k_o_t_",
+          "comment": "Над ушами и правда поиздевался...",
+          "scoredAt": "2026-10-21T11:25:11.098Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "artist": "Бескрайняя Плоть",
+          "comment": "Бескрайняя Плоть))))))) В архив крутых ников))))",
+          "scoredAt": "2026-10-21T11:24:41.690Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "Skinny Buster",
+          "comment": "Стильно, уверенно. Гоу во второй. ",
+          "scoredAt": "2026-10-21T11:24:04.272Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "artist": "Almaz",
+          "comment": "Натараторил. Нужно что-то делать с дикцией. ",
+          "scoredAt": "2026-10-21T11:23:19.035Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "artist": "Алексей Василич",
+          "comment": "Тебе бы качества, бро. Запиши на студийке и охренешь какая будет разница. ",
+          "scoredAt": "2026-10-21T11:22:41.060Z"
+        },
+        {
+          "judgeName": "CraftySound",
           "score": 5,
           "artist": "Скажи_мне",
           "comment": "Скажи_мне - забавный ник) Харизма прям вываливается из этой песни. Очень уверенно делаешь. \n",
@@ -108,97 +199,6 @@
           "artist": "+1",
           "comment": "Какая же неоднозначная работа. Оченб шумный трек) Про такие песни хочется сказать - Это что-то между 1 и 5 баллами) Давай серединку. ",
           "scoredAt": "2026-10-21T11:20:10.234Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "zakat",
-          "comment": "Тебе не идёт такой стиль. ",
-          "scoredAt": "2026-10-21T11:19:03.915Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "EZ Vibe",
-          "comment": "Панчи очень весёлые. По звучанию такое себе, но за текст натяну оценку до 4. ",
-          "scoredAt": "2026-10-21T11:18:37.973Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "PadreMoralez",
-          "comment": "Хорошее качество записи, но этот минус не вывез. Мне кажется, что ты перспективный парень. ",
-          "scoredAt": "2026-10-21T11:17:26.806Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "zlnk93",
-          "comment": "\"Смотри как же просто он рифмует \" - по фактам)) ",
-          "scoredAt": "2026-10-21T11:16:30.867Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "MaxWall",
-          "comment": "Какой же басс)))) Если у тебя другой темб голоса, ну нужно так напрягаться, используй сильные стороны своего голоса а не слабые. Как бы тебе не хотелось быть грозным и хриплым, твой голос этого не позволяет делать. Ну и качество очень плохое. ",
-          "scoredAt": "2026-10-21T11:15:52.414Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "KOST-N",
-          "comment": "Какой же ты злой))) У тебя всё хорошо с читкой, мне нравится этот баттловый напор. ",
-          "scoredAt": "2026-10-21T11:14:13.081Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "artist": "baradoz",
-          "comment": "Мне не нравится звук, который ты делаешь, но в тексте есть определённый прикол. ",
-          "scoredAt": "2026-10-21T11:13:23.375Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 1,
-          "artist": "Ансамбль \"Предметы\"",
-          "comment": "Я говно, и я не воняю  ))))))))))))))))))))))\nКак же ты повеселил! Ещё и в микрофон дунул, вообще разрыв)))",
-          "scoredAt": "2026-10-21T11:12:18.439Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 2,
-          "artist": "YMALOY",
-          "comment": "По исполнению плохо пока, нужно тренироваться. ",
-          "scoredAt": "2026-10-21T11:11:33.964Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Рома Кросс",
-          "comment": "Для меня - это проход, я хотел поставить оценку \"нормально\", но тебе поставили одну \"плохо\", поэтому выровню, чтобы средняя получилась \"нормально\". У тебя трек точно на проход, тут тройки получали треки сильно хуже этого. ",
-          "scoredAt": "2026-10-21T11:10:21.988Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 1,
-          "artist": "Deni Marr [SaUnd]",
-          "comment": "Ну тебя же вообще не слышно... У тебя нет наушников? ",
-          "scoredAt": "2026-10-21T11:07:35.747Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 5,
-          "artist": "ReckTER",
-          "comment": "Жирный звук, крутой минус! Гармония музыки и музыки отличная. На одном дыхании слушается, круто! ",
-          "scoredAt": "2026-10-21T11:07:02.941Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "LANI LOUD",
-          "comment": "Есть атмосфера в этой песне. Тему раскрыл. ",
-          "scoredAt": "2026-10-21T11:06:03.725Z"
         }
       ]
     }
