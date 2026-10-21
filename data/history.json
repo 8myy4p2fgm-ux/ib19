@@ -168916,6 +168916,118 @@
         "scoredAt": "2026-10-21T00:02:46.062Z",
         "userId": "8d765fb8-76f3-4bc1-8fbf-9f77c065701f"
       }
+    },
+    {
+      "id": "256cba383553f146c0523a362e027adf604a43db125d9ab87df8e59ae6ae5ee6",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:59:53.049Z",
+      "key": "[\"2eb7a412-4d3c-42b9-87b0-fdb06de643e5\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "сори, тут надо въебать 5, чтобы ты прошел\nДля меня это 3 или 4, чтобы решить могу ли я поставить 5 кинул монетку, выпало не в твою пользу. \nУдачи ",
+        "scoredAt": "2026-10-21T01:59:53.049Z",
+        "userId": "2eb7a412-4d3c-42b9-87b0-fdb06de643e5"
+      }
+    },
+    {
+      "id": "d9f3fb1ef835fc88a32f70e5430be62f652f24ccce6e04c7d27c1123003e92d2",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:53:01.151Z",
+      "key": "[\"7f500d90-b074-4bcf-b3b4-1e2591957406\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-21T01:53:01.151Z",
+        "userId": "7f500d90-b074-4bcf-b3b4-1e2591957406"
+      }
+    },
+    {
+      "id": "65e391e54ba02ee963998f555e5d015076cb0341945aa3d862920e866f2c778c",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T02:00:07.510Z",
+      "key": "[\"feeaef8f-8c11-4d31-9382-cfe4a7a0f52d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T02:00:07.510Z",
+        "userId": "feeaef8f-8c11-4d31-9382-cfe4a7a0f52d"
+      }
+    },
+    {
+      "id": "3fc401a781d7f52bc8fff564ee4a8293998f64f51e8d452a0099e28a9355c9c6",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T02:00:55.908Z",
+      "key": "[\"6be8c258-f067-480f-972a-cfef91d6b2e0\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "неплохо вроде, но прям расхлябано и не серьёзно ",
+        "scoredAt": "2026-10-21T02:00:55.908Z",
+        "userId": "6be8c258-f067-480f-972a-cfef91d6b2e0"
+      }
+    },
+    {
+      "id": "64d3c47ab13ba463e577cdb17ccbc14d16a621407dc0b7c39aab53a427a848b5",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:55:00.417Z",
+      "key": "[\"ca59a495-1bcd-40a6-8c1a-609094cbad93\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T01:55:00.417Z",
+        "userId": "ca59a495-1bcd-40a6-8c1a-609094cbad93"
+      }
+    },
+    {
+      "id": "f01e7b45c75530eb5aa4e6c15febbbab7176a4ce282336aadcd61b513881f054",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:57:02.858Z",
+      "key": "[\"fc2c7432-9438-4cae-97f8-6014aa2e6df5\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T01:57:02.858Z",
+        "userId": "fc2c7432-9438-4cae-97f8-6014aa2e6df5"
+      }
+    },
+    {
+      "id": "6e178ed0028ee8320f0f1aef81d1af9ea463ff9534bac87f4876ea30aeb83b5c",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:54:42.779Z",
+      "key": "[\"c228a5fb-13ba-4d33-bd45-ebf93a772569\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "нууу дла баланса поставлю 3+1 \nчтобы была возможность пройти, читаешь неплохо, но демка демкой. \nво 2 постарайся ",
+        "scoredAt": "2026-10-21T01:54:42.779Z",
+        "userId": "c228a5fb-13ba-4d33-bd45-ebf93a772569"
+      }
+    },
+    {
+      "id": "0b60b0865a5ab3946fdfdc54d3e732da7bb0f80090d0345748c3067da16eee52",
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "sourceScoredAt": "2026-10-21T01:56:39.169Z",
+      "key": "[\"7ac9edb7-d11f-4216-a312-aee2fee75f28\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-21T01:56:39.169Z",
+        "userId": "7ac9edb7-d11f-4216-a312-aee2fee75f28"
+      }
     }
   ],
   "snapshots": [
@@ -182655,6 +182767,26 @@
           "index": 31.777697747223286,
           "favor": 17.985559809255157,
           "attention": 3.1254712713014627,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T02:02:08.689Z",
+      "exportedAt": "2026-10-21T02:02:08.689Z",
+      "scores": 15032,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.316587611692228,
+          "favor": 8.59015470993433,
+          "attention": 5.771887447212444,
+          "respect": 5.954545454545454
+        },
+        "veterans": {
+          "index": 31.78828891001328,
+          "favor": 17.98735763352801,
+          "attention": 3.134264609818602,
           "respect": 10.666666666666666
         }
       }
