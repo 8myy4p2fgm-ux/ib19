@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T03:32:01.913Z",
+  "exportedAt": "2026-10-21T05:41:56.378Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -4415,47 +4415,6 @@
       "artistName": "ALTA",
       "artistSlug": "alta",
       "trackId": "a9495a80-c621-4301-acc4-9e6e64f2416e"
-    },
-    {
-      "userId": "f5507953-1e02-4e40-9270-8cf591a15105",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Гарикъ Истерин",
-          "score": 5,
-          "comment": "Это что за жирнюший соус ??!? Спасибо за строчки хорошие, закончил красиво ! Скорей бы тебя послушать дальше, где больше минуты! ",
-          "scoredAt": "2026-10-15T07:25:46.207Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "comment": "О Х У Е Н Н О!\nКак же это дерзко, стильно, доходчиво!\nРаскачивает безумно.\nНа текст глаза закрывал))",
-          "scoredAt": "2026-10-14T23:11:56.515Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 5,
-          "comment": "Ну ты блин накричал знатненько! Могёшь! АЛГА! ",
-          "scoredAt": "2026-09-29T19:17:19.701Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "comment": "https://www.twitch.tv/yuarr_mus cтрим 7",
-          "scoredAt": "2026-09-28T16:23:42.966Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 5,
-          "comment": "Не кричи на меня. Рифмы есть, панчи есть. Не идеально, но пять можно поставить.",
-          "scoredAt": "2026-09-18T20:03:38.104Z"
-        }
-      ],
-      "fetchedAt": "2026-10-15T07:32:11.334Z",
-      "current": true,
-      "artistName": "IVENTON [Не ТоТ Формат]",
-      "artistSlug": "iventon-ne-tot-format",
-      "trackId": "b0bedbb9-389e-4741-a865-121d810ec116"
     },
     {
       "userId": "799247a4-cc54-43b8-8d1d-5e1ad0ec5437",
@@ -118609,6 +118568,47 @@
       "artistName": "Состояние Отрицания",
       "artistSlug": "sostoyanie-otricaniya",
       "trackId": "5d1894f1-eb08-4ec3-9f42-8a54e2b20313"
+    },
+    {
+      "userId": "f5507953-1e02-4e40-9270-8cf591a15105",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Это что за жирнюший соус ??!? Спасибо за строчки хорошие, закончил красиво ! Скорей бы тебя послушать дальше, где больше минуты! ",
+          "scoredAt": "2026-10-15T07:25:46.207Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "О Х У Е Н Н О!\nКак же это дерзко, стильно, доходчиво!\nРаскачивает безумно.\nНа текст глаза закрывал))",
+          "scoredAt": "2026-10-14T23:11:56.515Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Ну ты блин накричал знатненько! Могёшь! АЛГА! ",
+          "scoredAt": "2026-09-29T19:17:19.701Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "https://www.twitch.tv/yuarr_mus cтрим 7",
+          "scoredAt": "2026-09-28T16:23:42.966Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 5,
+          "comment": "Не кричи на меня. Рифмы есть, панчи есть. Не идеально, но пять можно поставить.",
+          "scoredAt": "2026-09-18T20:03:38.104Z"
+        }
+      ],
+      "fetchedAt": "2026-10-15T07:32:11.334Z",
+      "current": true,
+      "artistName": "IVENTON [Не ТоТ Формат]",
+      "artistSlug": "iventon-ne-tot-format",
+      "trackId": "b0bedbb9-389e-4741-a865-121d810ec116"
     },
     {
       "userId": "255eead8-cd39-4fc6-b065-e617da833829",
