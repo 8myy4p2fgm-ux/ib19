@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T08:22:08.111Z",
-  "exportedAt": "2026-10-21T08:22:08.111Z",
-  "runId": "2026-10-21T08:22:08.111Z",
-  "forumExportedAt": "2026-10-21T08:22:08.111Z",
+  "lastSuccessfulAt": "2026-10-21T08:31:55.586Z",
+  "exportedAt": "2026-10-21T08:31:55.586Z",
+  "runId": "2026-10-21T08:31:55.586Z",
+  "forumExportedAt": "2026-10-21T08:31:55.586Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15075,
+    "scores": 15077,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 6,
-    "durationMs": 5915,
-    "scoresBefore": 15072,
-    "scoresAfter": 15075,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5403,
+    "scoresBefore": 15075,
+    "scoresAfter": 15077,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.81679389312977,
+    "requestReductionPercent": 99.84732824427482,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "ivan supreme",
+          "comment": "Сведение отстойное, но рифмуешь и читаешь хорошо.",
+          "scoredAt": "2026-10-21T08:26:08.517Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "artist": "LuSan",
+          "comment": "Над текстом вроде постарался, но читаешь пока сыровато. За эмоциональность и проживание того, что читаешь, авансирую четвёркой, но вообще это тройка.",
+          "scoredAt": "2026-10-21T08:23:15.928Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -185,20 +199,6 @@
           "artist": "Саша Винстон",
           "comment": "",
           "scoredAt": "2026-10-21T07:55:33.113Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "artist": "ДЕВЯНОСТОЧЕТВЕРТЫЙ",
-          "comment": "Откровенная среднина. Двойки от других судей мне понятны.",
-          "scoredAt": "2026-10-21T07:51:18.432Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 2,
-          "artist": "ig.ez",
-          "comment": "Раскрытие для галочки, да как и весь трек впринципе. Рановато пока.",
-          "scoredAt": "2026-10-21T07:49:44.712Z"
         }
       ]
     }

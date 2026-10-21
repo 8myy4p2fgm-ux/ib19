@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T08:22:08.111Z",
+  "exportedAt": "2026-10-21T08:31:55.586Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -4705,8 +4705,14 @@
     },
     {
       "userId": "e4462939-bc97-4a35-a197-7906d6696b7c",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Над текстом вроде постарался, но читаешь пока сыровато. За эмоциональность и проживание того, что читаешь, авансирую четвёркой, но вообще это тройка.",
+          "scoredAt": "2026-10-21T08:23:15.928Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -4726,7 +4732,7 @@
           "scoredAt": "2026-10-07T12:28:19.657Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:12:29.794Z",
+      "fetchedAt": "2026-10-21T08:31:55.586Z",
       "current": true,
       "artistName": "LuSan",
       "artistSlug": "lusan",
@@ -52951,8 +52957,14 @@
     },
     {
       "userId": "8a48f35a-0058-46a3-92b6-860a07e83733",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Сведение отстойное, но рифмуешь и читаешь хорошо.",
+          "scoredAt": "2026-10-21T08:26:08.517Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -52978,7 +52990,7 @@
           "scoredAt": "2026-10-11T11:36:28.557Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:33:06.010Z",
+      "fetchedAt": "2026-10-21T08:31:55.586Z",
       "current": true,
       "artistName": "ivan supreme",
       "artistSlug": "ivan-supreme",
