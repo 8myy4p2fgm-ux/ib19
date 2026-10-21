@@ -170232,6 +170232,188 @@
         "scoredAt": "2026-10-21T09:59:50.926Z",
         "userId": "476584de-afdd-4848-95f3-fe3c5cd0050b"
       }
+    },
+    {
+      "id": "a0454102d3b86d983c12bb2efa55ad8714b2932ba0650f6e5e4b35835f41f557",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:03:01.036Z",
+      "key": "[\"e2faf716-4cc2-4a11-9ddc-360b94c773ab\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 4,
+        "comment": "Нормально завайбил брад. Интересно что покажешь дальше.",
+        "scoredAt": "2026-10-21T10:03:01.036Z",
+        "userId": "e2faf716-4cc2-4a11-9ddc-360b94c773ab"
+      }
+    },
+    {
+      "id": "34202d3ec2769b6b219fda083804211a5642142b1308f0a17ea15d9874463e11",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:06:00.623Z",
+      "key": "[\"d0ef86f7-4878-4521-afed-ae40359993df\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:06:00.623Z",
+        "userId": "d0ef86f7-4878-4521-afed-ae40359993df"
+      }
+    },
+    {
+      "id": "0d19bb58772e8e9f21582baf12160d0d2cad93fe715c553acf9868cb2accc7c3",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:10:33.325Z",
+      "key": "[\"e8d99829-37ba-4136-8e88-4b6e772444c3\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:10:33.325Z",
+        "userId": "e8d99829-37ba-4136-8e88-4b6e772444c3"
+      }
+    },
+    {
+      "id": "a7969c236069be2144df633783ef8933eb742ec677ed20095d9b2dd05e4d8ef4",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:07:33.896Z",
+      "key": "[\"71a48f32-0277-4226-9506-74c1c3b9b8af\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 5,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:07:33.896Z",
+        "userId": "71a48f32-0277-4226-9506-74c1c3b9b8af"
+      }
+    },
+    {
+      "id": "d894030658bc207a78ca3b105f810281d365ed6e18864cc0490fb0dedca7a0f2",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:08:12.360Z",
+      "key": "[\"c18ea1ac-7cf8-4de9-813d-a83a18a965ab\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "ритмика очень странная, сделай далее ровнее ",
+        "scoredAt": "2026-10-21T10:08:12.360Z",
+        "userId": "c18ea1ac-7cf8-4de9-813d-a83a18a965ab"
+      }
+    },
+    {
+      "id": "a6c63a357ee55e1f79f372d9c1946596653041410eb78b7146ae85313df3036d",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:10:15.532Z",
+      "key": "[\"93962053-7ab6-44e9-be65-14b45a35bf00\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:10:15.532Z",
+        "userId": "93962053-7ab6-44e9-be65-14b45a35bf00"
+      }
+    },
+    {
+      "id": "080067905aaaec2ffdd36b70fad30924f0c7845e22d1e10f0d8b55ef4434f972",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:09:20.596Z",
+      "key": "[\"b5c0b6d5-825f-4595-9289-3d22c679599d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:09:20.596Z",
+        "userId": "b5c0b6d5-825f-4595-9289-3d22c679599d"
+      }
+    },
+    {
+      "id": "03d6947b105c0d9fdbe76507405fbf274fcfbf55bdd6daf07384b18f56bf8bf8",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:06:47.285Z",
+      "key": "[\"f6acdbc0-c38d-4673-b72d-45790c4ff198\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:06:47.285Z",
+        "userId": "f6acdbc0-c38d-4673-b72d-45790c4ff198"
+      }
+    },
+    {
+      "id": "3801a1c70c61d5aca6c852cac12b1a77a446cf7200e1857c5d85ba43c1818a17",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:05:05.678Z",
+      "key": "[\"4d50a36a-d60b-468d-9c36-115e0aea67f2\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 3,
+        "comment": "Зачем так грустно. И почему звучит как будто ты кусок какой то старой песни спел?",
+        "scoredAt": "2026-10-21T10:05:05.678Z",
+        "userId": "4d50a36a-d60b-468d-9c36-115e0aea67f2"
+      }
+    },
+    {
+      "id": "20f9cbb972c3314c0e0143fe1b49502c215eb515d0a969a364ad33048258dd13",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:09:45.917Z",
+      "key": "[\"91516f03-e92c-4b9c-b858-e550e8aa1b2d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:09:45.917Z",
+        "userId": "91516f03-e92c-4b9c-b858-e550e8aa1b2d"
+      }
+    },
+    {
+      "id": "bb31c85754ea07ea6acf4f3ea943dbfde8f8005c82b971cb57225438c54b48ba",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:06:57.804Z",
+      "key": "[\"5e87701e-757d-4466-a495-a4c608a0460f\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "слушай бро, чуть чуть не хватило до 3йки, нормальных рифм и какой то харизмы в подаче что ли.",
+        "scoredAt": "2026-10-21T10:06:57.804Z",
+        "userId": "5e87701e-757d-4466-a495-a4c608a0460f"
+      }
+    },
+    {
+      "id": "5410e3b0a62337597ba317df69848dc6b7003131915fc01f0ff9a143dd9a952f",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:03:48.641Z",
+      "key": "[\"5e6c797d-0267-491a-8837-357a803fc1a0\",\"Гукер Капюшон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Гукер Капюшон",
+        "score": 2,
+        "comment": "Не прекольно братан. Не смешно.",
+        "scoredAt": "2026-10-21T10:03:48.641Z",
+        "userId": "5e6c797d-0267-491a-8837-357a803fc1a0"
+      }
+    },
+    {
+      "id": "47ae6f2a7131c2c9ea62d47df2424d9a25fc57b1a87d6e951c713d412ece4d76",
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "sourceScoredAt": "2026-10-21T10:06:33.022Z",
+      "key": "[\"6f581193-4f8d-4e45-9788-571173a67eac\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T10:06:33.022Z",
+        "userId": "6f581193-4f8d-4e45-9788-571173a67eac"
+      }
     }
   ],
   "snapshots": [
@@ -184411,6 +184593,26 @@
           "index": 31.878551990516463,
           "favor": 17.983536897372584,
           "attention": 3.22834842647721,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T10:12:17.280Z",
+      "exportedAt": "2026-10-21T10:12:17.280Z",
+      "scores": 15131,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.18125874940356,
+          "favor": 8.62719178794536,
+          "attention": 5.581013069242633,
+          "respect": 5.973053892215569
+        },
+        "veterans": {
+          "index": 31.890995748510896,
+          "favor": 17.98444029518983,
+          "attention": 3.2398887866543986,
           "respect": 10.666666666666666
         }
       }
