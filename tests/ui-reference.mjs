@@ -20,6 +20,7 @@ const approvedBrand=(await fs.readFile('index.html','utf8')).match(/<a class="si
 // Data, status corrections and the approved brand are adapted; analytical UI stays intact.
 function currentDataReference(original){
  // Match the approved zone-dependent index color without changing historical fixtures.
+ original=original.replace('Сколько оценок получили участники','Шкала Никсона');
  original=original.replace('#home #index-main{color:#68D99A!important}','#home #index-main{--green:#68D99A}').replace('.home-rating-item:last-child .home-rating-track i','.home-rating-item.home-rating-complete .home-rating-track i');
  const first=original.match(/<script>([\s\S]*?)<\/script>/)[1];
  let code=first.slice(first.indexOf('const module3=')).replaceAll('2026-10-18T23:59:00+03:00',config.deadline);
