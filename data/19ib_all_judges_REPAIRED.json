@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T10:12:17.280Z",
+  "exportedAt": "2026-10-21T10:22:06.632Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -43751,8 +43751,14 @@
     },
     {
       "userId": "f46cf861-0fea-4e9d-89a7-9d5630bd4105",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-21T10:17:46.940Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -43772,7 +43778,7 @@
           "scoredAt": "2026-10-06T14:56:58.289Z"
         }
       ],
-      "fetchedAt": "2026-10-16T07:42:39.249Z",
+      "fetchedAt": "2026-10-21T10:22:06.632Z",
       "current": true,
       "artistName": "Рэ Тррай",
       "artistSlug": "re-trray",
@@ -54633,8 +54639,14 @@
     },
     {
       "userId": "4adcd30e-7352-4dfb-93b2-8fc2d5288332",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "comment": "",
+          "scoredAt": "2026-10-21T10:17:15.025Z"
+        },
         {
           "judgeName": "Бен Арфа",
           "score": 1,
@@ -54660,7 +54672,7 @@
           "scoredAt": "2026-09-29T14:25:24.541Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T10:22:06.632Z",
       "current": true,
       "artistName": "PALMA46",
       "artistSlug": "palma46",
