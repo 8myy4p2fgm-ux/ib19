@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T17:32:11.520Z",
+  "exportedAt": "2026-10-21T17:41:51.658Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -125363,8 +125363,14 @@
     },
     {
       "userId": "f0b19012-2bd5-4d7e-959f-db710d562a59",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "звучит прикольно. текст слабый ",
+          "scoredAt": "2026-10-21T17:34:30.320Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -125378,7 +125384,7 @@
           "scoredAt": "2026-10-11T07:49:45.812Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-21T17:41:51.658Z",
       "current": true,
       "artistName": "lual",
       "artistSlug": "lual",

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T17:32:11.520Z",
-  "exportedAt": "2026-10-21T17:32:11.520Z",
-  "runId": "2026-10-21T17:32:11.520Z",
-  "forumExportedAt": "2026-10-21T17:32:11.520Z",
+  "lastSuccessfulAt": "2026-10-21T17:41:51.658Z",
+  "exportedAt": "2026-10-21T17:41:51.658Z",
+  "runId": "2026-10-21T17:41:51.658Z",
+  "forumExportedAt": "2026-10-21T17:41:51.658Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15396,
+    "scores": 15397,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 11,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 8,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 8,
-    "changedParticipants": 8,
-    "logicalRequests": 11,
-    "durationMs": 10674,
-    "scoresBefore": 15388,
-    "scoresAfter": 15396,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4066,
+    "scoresBefore": 15396,
+    "scoresAfter": 15397,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.66432712847116,
+    "requestReductionPercent": 99.87793713762588,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "artist": "lual",
+          "comment": "звучит прикольно. текст слабый ",
+          "scoredAt": "2026-10-21T17:34:30.320Z"
+        },
         {
           "judgeName": "OttO",
           "score": 5,
@@ -192,13 +199,6 @@
           "artist": "chapai",
           "comment": "сказочник. читает слабо но вроде шарит ",
           "scoredAt": "2026-10-21T17:19:50.311Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 2,
-          "artist": "HexeKill",
-          "comment": "легенда",
-          "scoredAt": "2026-10-21T17:19:11.646Z"
         }
       ]
     }

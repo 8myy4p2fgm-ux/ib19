@@ -174124,6 +174124,20 @@
         "scoredAt": "2026-10-21T17:23:07.070Z",
         "userId": "ba248149-aee3-42ca-a231-594093b4bc37"
       }
+    },
+    {
+      "id": "b890910fa8c4121e6d44516c088c9eacce235d4e9f20fbec4ef7174e30a32a57",
+      "observedAt": "2026-10-21T17:41:51.658Z",
+      "sourceScoredAt": "2026-10-21T17:34:30.320Z",
+      "key": "[\"f0b19012-2bd5-4d7e-959f-db710d562a59\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "звучит прикольно. текст слабый ",
+        "scoredAt": "2026-10-21T17:34:30.320Z",
+        "userId": "f0b19012-2bd5-4d7e-959f-db710d562a59"
+      }
     }
   ],
   "snapshots": [
@@ -188983,6 +188997,26 @@
           "index": 31.543923477972726,
           "favor": 17.904264049650358,
           "attention": 3.041833341365849,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T17:41:51.658Z",
+      "exportedAt": "2026-10-21T17:41:51.658Z",
+      "scores": 15397,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.479528372644346,
+          "favor": 8.70155415595625,
+          "attention": 5.7958313595452395,
+          "respect": 5.982142857142857
+        },
+        "veterans": {
+          "index": 31.544002741071594,
+          "favor": 17.90349672466997,
+          "attention": 3.0426799294451032,
           "respect": 10.597826086956522
         }
       }
