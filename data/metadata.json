@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T16:22:08.112Z",
-  "exportedAt": "2026-10-21T16:22:08.112Z",
-  "runId": "2026-10-21T16:22:08.112Z",
-  "forumExportedAt": "2026-10-21T16:22:08.112Z",
+  "lastSuccessfulAt": "2026-10-21T16:32:05.122Z",
+  "exportedAt": "2026-10-21T16:32:05.122Z",
+  "runId": "2026-10-21T16:32:05.122Z",
+  "forumExportedAt": "2026-10-21T16:32:05.122Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15339,
+    "scores": 15341,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 4382,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5097,
     "scoresBefore": 15339,
-    "scoresAfter": 15339,
+    "scoresAfter": 15341,
     "fullBaselineRequests": 3277,
-    "requestReductionPercent": 99.90845285321942,
+    "requestReductionPercent": 99.84742142203234,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "artist": "цамма",
+          "comment": "Речь грамотна, лексикон богатый – видно, что текст интеллектуален, но вместе с тем по рифмовке часто некачественные штуки (квадраты, ассонансы), то есть, впечатление от текста не строго положительное. Но главный просед в исполнении, это очень неуверенно, невыразительно, тихо читаешь, да и скорее даже не читаешь, а зачастую проговариваешь.",
+          "scoredAt": "2026-10-21T16:31:25.154Z"
+        },
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "artist": "АРОМАМАСЛАВ",
+          "comment": "Местами Лучника напомнил, в целом прикольно, звучишь уверенно. Есть бородатые панчи, есть гуд, рифмы тоже разного качества. Текстово неровная работа, короче.",
+          "scoredAt": "2026-10-21T16:27:30.633Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -185,20 +199,6 @@
           "artist": "Артем Попов",
           "comment": "Простенько братан. И раскрытие достаточно папулярное и техт простоват, и рифмы слабоваты. Давай если пройдешь, во втором посерьезнее дай.",
           "scoredAt": "2026-10-21T15:35:20.349Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "vsecelo",
-          "comment": "Выше основной массы средних трэков. Приятный вайбик создаёшь.",
-          "scoredAt": "2026-10-21T15:32:55.725Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "artist": "Алчевский",
-          "comment": "Хорошо начетвертовал, но стиль не особо запоминающийся.",
-          "scoredAt": "2026-10-21T15:31:09.464Z"
         }
       ]
     }
