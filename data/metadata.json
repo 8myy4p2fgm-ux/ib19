@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T06:31:59.867Z",
-  "exportedAt": "2026-10-21T06:31:59.867Z",
-  "runId": "2026-10-21T06:31:59.867Z",
-  "forumExportedAt": "2026-10-21T06:31:59.867Z",
+  "lastSuccessfulAt": "2026-10-21T07:12:01.061Z",
+  "exportedAt": "2026-10-21T07:12:01.061Z",
+  "runId": "2026-10-21T07:12:01.061Z",
+  "forumExportedAt": "2026-10-21T07:12:01.061Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15045,
+    "scores": 15053,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 7,
+    "httpRequests": 11,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 4,
+    "updatedCards": 8,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 4,
-    "changedParticipants": 4,
-    "logicalRequests": 7,
-    "durationMs": 7159,
-    "scoresBefore": 15041,
-    "scoresAfter": 15045,
+    "participantsWithNewScores": 8,
+    "changedParticipants": 8,
+    "logicalRequests": 11,
+    "durationMs": 12010,
+    "scoresBefore": 15045,
+    "scoresAfter": 15053,
     "fullBaselineRequests": 3275,
-    "requestReductionPercent": 99.78625954198473,
+    "requestReductionPercent": 99.66412213740458,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -98,6 +98,62 @@
         {
           "judgeName": "KseroN",
           "score": 4,
+          "artist": "СНЭЛ",
+          "comment": "+- неплохо, во втором надо больше показать твоих способностей, получше по рифмам постараться и показать зубы\n",
+          "scoredAt": "2026-10-21T06:39:12.489Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "ДОРЕНКО",
+          "comment": "",
+          "scoredAt": "2026-10-21T06:37:45.077Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "ЭмоГотка2007",
+          "comment": "больно",
+          "scoredAt": "2026-10-21T06:37:15.403Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Bug Dan",
+          "comment": "",
+          "scoredAt": "2026-10-21T06:36:26.757Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Принц Комы",
+          "comment": "",
+          "scoredAt": "2026-10-21T06:35:24.500Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "yurisneg",
+          "comment": "",
+          "scoredAt": "2026-10-21T06:34:53.033Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "иссиня",
+          "comment": "хз, не выкупил.\nотсутствует уверенность, читка слишком пассивная \nпо ОВ проход, но прям на грани ",
+          "scoredAt": "2026-10-21T06:34:08.473Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "САНЯ ДВУЛИКИЙ",
+          "comment": "бубубубубубубубуубуб \n\nболее членораздельно в следующем раунде и свести это всё, но во втором раунде с тобой точно ЗАЙЦЕВ +1",
+          "scoredAt": "2026-10-21T06:32:43.713Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
           "artist": "Виталий Чуприков",
           "comment": "",
           "scoredAt": "2026-10-21T06:31:31.729Z"
@@ -143,62 +199,6 @@
           "artist": "VXALATE",
           "comment": "Рифмы пожалуйста подтяни и не перегружай по количеству слогов в строчке ",
           "scoredAt": "2026-10-21T02:22:33.347Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "MAJESTIC VI",
-          "comment": "Сори родной, но прям не по мне ритмика и этот вайб антитехничный\nПроход должен быть, но не хватило твоих скилов ",
-          "scoredAt": "2026-10-21T02:21:46.417Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Чистый Спил",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:08:14.310Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "СЭТИДЖЭЙ",
-          "comment": "технично, но почище бы, в остальном достойно. ",
-          "scoredAt": "2026-10-21T02:07:05.981Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "HighTower",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:05:04.964Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Па<пуля",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:03:04.226Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Grave DillaZ",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:02:39.896Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Ispavlonave",
-          "comment": "неплохо вроде, но прям расхлябано и не серьёзно ",
-          "scoredAt": "2026-10-21T02:00:55.908Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "AssOrTea",
-          "comment": "",
-          "scoredAt": "2026-10-21T02:00:07.510Z"
         }
       ]
     }

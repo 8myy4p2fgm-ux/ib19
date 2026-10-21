@@ -169210,6 +169210,118 @@
         "scoredAt": "2026-10-21T06:31:31.729Z",
         "userId": "74e954ad-83ce-4be7-8220-d853ae21c097"
       }
+    },
+    {
+      "id": "2ef896133e305ecfe1f8a683323b0c1761a608bf1bbe121aeb89450556b78842",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:37:15.403Z",
+      "key": "[\"6b460f9b-3f31-472a-8a0f-0cbd2c2b5826\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "больно",
+        "scoredAt": "2026-10-21T06:37:15.403Z",
+        "userId": "6b460f9b-3f31-472a-8a0f-0cbd2c2b5826"
+      }
+    },
+    {
+      "id": "05713e767b38300921efd2fcd0a2343674ad4a037a48c054607467991502cd0b",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:36:26.757Z",
+      "key": "[\"5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:36:26.757Z",
+        "userId": "5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0"
+      }
+    },
+    {
+      "id": "53e8a9792087ee2bef838ece35e3618c2a146d7b4099143f299ee4e3de393f9a",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:34:08.473Z",
+      "key": "[\"47851a75-b279-4e06-9ccb-698e4e2e5777\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "хз, не выкупил.\nотсутствует уверенность, читка слишком пассивная \nпо ОВ проход, но прям на грани ",
+        "scoredAt": "2026-10-21T06:34:08.473Z",
+        "userId": "47851a75-b279-4e06-9ccb-698e4e2e5777"
+      }
+    },
+    {
+      "id": "28d4de31b3ebe48f83ba91f2c8ca96b1e66e24ab15bfab8cf6c4a85c33b32756",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:32:43.713Z",
+      "key": "[\"d5c459b1-888a-47f5-9cab-4e6edfca3a6a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "бубубубубубубубуубуб \n\nболее членораздельно в следующем раунде и свести это всё, но во втором раунде с тобой точно ЗАЙЦЕВ +1",
+        "scoredAt": "2026-10-21T06:32:43.713Z",
+        "userId": "d5c459b1-888a-47f5-9cab-4e6edfca3a6a"
+      }
+    },
+    {
+      "id": "9ce814cfe89d06fbf6dd2c28328547874304e076fa2d8ded7f0105c554d92c32",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:34:53.033Z",
+      "key": "[\"fd0fd982-a108-4772-96bd-3c6fd3bd1667\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:34:53.033Z",
+        "userId": "fd0fd982-a108-4772-96bd-3c6fd3bd1667"
+      }
+    },
+    {
+      "id": "7fc4e33dc63ebdb43d94ad4b2d0df05e3a824fb96ac4ba4735daa01a36a6d20b",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:35:24.500Z",
+      "key": "[\"e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:35:24.500Z",
+        "userId": "e9d2f541-4fe2-4bb8-a1e6-6aeb03ee2294"
+      }
+    },
+    {
+      "id": "d3d302b5c39892e33c95d7e8160715b0b3548629177ead6a4643d3fb3a002dcd",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:39:12.489Z",
+      "key": "[\"fc5fc7b7-c5e4-42bc-aa52-de365d253d6a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "+- неплохо, во втором надо больше показать твоих способностей, получше по рифмам постараться и показать зубы\n",
+        "scoredAt": "2026-10-21T06:39:12.489Z",
+        "userId": "fc5fc7b7-c5e4-42bc-aa52-de365d253d6a"
+      }
+    },
+    {
+      "id": "1f61581fdaa44288f3f8a96db11b4351c12e2b30a4dca875c77cf09840fbb8aa",
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "sourceScoredAt": "2026-10-21T06:37:45.077Z",
+      "key": "[\"d9ab04e6-7fd3-47cc-9468-26e66d9c02e0\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T06:37:45.077Z",
+        "userId": "d9ab04e6-7fd3-47cc-9468-26e66d9c02e0"
+      }
     }
   ],
   "snapshots": [
@@ -183109,6 +183221,26 @@
           "index": 31.802462257728358,
           "favor": 17.987256874580822,
           "attention": 3.148538716480868,
+          "respect": 10.666666666666666
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-21T07:12:01.061Z",
+      "exportedAt": "2026-10-21T07:12:01.061Z",
+      "scores": 15053,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.349299427450052,
+          "favor": 8.592851012330737,
+          "attention": 5.8019029605738615,
+          "respect": 5.954545454545454
+        },
+        "veterans": {
+          "index": 31.814036944108842,
+          "favor": 17.990056754703495,
+          "attention": 3.157313522738681,
           "respect": 10.666666666666666
         }
       }
