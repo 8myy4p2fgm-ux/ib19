@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T17:22:10.197Z",
-  "exportedAt": "2026-10-22T17:22:10.197Z",
-  "runId": "2026-10-22T17:22:10.197Z",
-  "forumExportedAt": "2026-10-22T17:22:10.197Z",
+  "lastSuccessfulAt": "2026-10-22T17:52:06.230Z",
+  "exportedAt": "2026-10-22T17:52:06.230Z",
+  "runId": "2026-10-22T17:52:06.230Z",
+  "forumExportedAt": "2026-10-22T17:52:06.230Z",
   "selectionVersion": "234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 98,
-    "scores": 16374,
+    "scores": 16375,
     "judges": 22,
     "forumDirectory": 99,
     "og": 70,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 3,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 0,
-    "changedParticipants": 0,
-    "updatedCards": 0,
-    "logicalRequests": 3,
-    "durationMs": 3261,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4301,
     "scoresBefore": 16374,
-    "scoresAfter": 16374,
+    "scoresAfter": 16375,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.90850869167429,
+    "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "artist": "ЛИЛЯ СТАЧ",
+          "comment": "В этом определённо что-то есть, поэтому тройку с большой натяжкой поставить готов. В концовке странное ускорение.",
+          "scoredAt": "2026-10-22T17:48:17.569Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -192,13 +199,6 @@
           "artist": "d1ma.c4actbE",
           "comment": "Слушай живая песня определенно. Но о чем она бро? Звучит как сборник настольгических мыслей.",
           "scoredAt": "2026-10-22T16:29:05.446Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 3,
-          "artist": "Necrogenius",
-          "comment": "В голосе категорически не хватает напора, сейчас оч плотный вайбик, что ты что-то скорее просто проговариваешь, нежели отчитываешь. Капельку эмоций, докрутить ритмичку, убрать вот этот вайбик \"я счас быстро у кента запишусь чтобы потом в дотку катнуть\" (может оно так и было, но исполнение ощущается \"ленивым\" в этом плане) и будет вполне себе четвертоган. А пока тройбуллет!",
-          "scoredAt": "2026-10-22T16:29:04.743Z"
         }
       ]
     }

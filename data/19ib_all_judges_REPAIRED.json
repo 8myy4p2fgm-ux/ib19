@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T17:22:10.197Z",
+  "exportedAt": "2026-10-22T17:52:06.230Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -23621,8 +23621,14 @@
     },
     {
       "userId": "8ef76d22-aa29-4ce3-9b2e-ffbc0aa9b626",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "В этом определённо что-то есть, поэтому тройку с большой натяжкой поставить готов. В концовке странное ускорение.",
+          "scoredAt": "2026-10-22T17:48:17.569Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -23648,7 +23654,7 @@
           "scoredAt": "2026-08-30T12:35:25.758Z"
         }
       ],
-      "fetchedAt": "2026-10-22T16:41:56.029Z",
+      "fetchedAt": "2026-10-22T17:52:06.230Z",
       "current": true,
       "artistName": "ЛИЛЯ СТАЧ",
       "artistSlug": "lilya-stach",
