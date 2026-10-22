@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T06:22:10.150Z",
-  "exportedAt": "2026-10-22T06:22:10.150Z",
-  "runId": "2026-10-22T06:22:10.150Z",
-  "forumExportedAt": "2026-10-22T06:22:10.150Z",
+  "lastSuccessfulAt": "2026-10-22T06:42:05.115Z",
+  "exportedAt": "2026-10-22T06:42:05.115Z",
+  "runId": "2026-10-22T06:42:05.115Z",
+  "forumExportedAt": "2026-10-22T06:42:05.115Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15808,
+    "scores": 15809,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 5301,
-    "scoresBefore": 15806,
-    "scoresAfter": 15808,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 5615,
+    "scoresBefore": 15808,
+    "scoresAfter": 15809,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.84751448612383,
+    "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "VAIT",
+          "comment": "Оч плотное ощущение того, что у тебя микрофон в настройках на 40-80 мс отстает где-то как-то. Вроде бы и вайбик какой-то есть, но при этом, текстово по структуре это все же оч просто с рифмулями этими к тому же.\n\nНаверно, с учетом всех таких косяков, это все же крепкая рабочая тройка, уверенная, с претензией на оценку выше. Ну или хотя бы капы влево подвинуть и узнать, что будет!",
+          "scoredAt": "2026-10-22T06:36:30.734Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -192,13 +199,6 @@
           "artist": "Илья Вайт",
           "comment": "На проход сделал, но ужасно скучно смотрится в 2026. И рифмы калом-ебало, нассу-росу такое себе, конечно",
           "scoredAt": "2026-10-22T05:42:59.566Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "OverSize25uk",
-          "comment": "Я поставлю проходной балл, но очень однообразно, не хватает изюминки. К концу трека немного разошелся",
-          "scoredAt": "2026-10-22T05:41:09.070Z"
         }
       ]
     }
