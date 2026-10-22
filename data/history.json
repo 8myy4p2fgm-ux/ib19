@@ -175874,6 +175874,426 @@
         "scoredAt": "2026-10-22T00:14:11.775Z",
         "userId": "ac1c8078-044c-4aec-9d58-498b3643255f"
       }
+    },
+    {
+      "id": "c36593bf1375c5caf4a5bb1b7aa3e1a0f4a5da769f630777328c472c0a00435e",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:23:02.975Z",
+      "key": "[\"ef6f595d-a353-47af-9e21-46480b27ba05\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "хайпуешь ",
+        "scoredAt": "2026-10-22T00:23:02.975Z",
+        "userId": "ef6f595d-a353-47af-9e21-46480b27ba05"
+      }
+    },
+    {
+      "id": "9d5715b51600746c3af67843e29f22b11d74600a88ceb70c341ad6af59a6a177",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:29:33.567Z",
+      "key": "[\"efe449d8-3b13-4b68-8100-92e385e6f83c\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Норм!",
+        "scoredAt": "2026-10-22T00:29:33.567Z",
+        "userId": "efe449d8-3b13-4b68-8100-92e385e6f83c"
+      }
+    },
+    {
+      "id": "02460212f5e728b82482c7857e8ae29a563e5d8481c89e92744646d24713ceb1",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:27:04.530Z",
+      "key": "[\"efe449d8-3b13-4b68-8100-92e385e6f83c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:27:04.530Z",
+        "userId": "efe449d8-3b13-4b68-8100-92e385e6f83c"
+      }
+    },
+    {
+      "id": "d0dc2970cd1a490ab24d62c779f26a71498d5b6036e64cc7fe7e2eee2d1cf9f3",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:30:50.140Z",
+      "key": "[\"639ae4c9-d900-4003-9174-d3bf043970d9\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:30:50.140Z",
+        "userId": "639ae4c9-d900-4003-9174-d3bf043970d9"
+      }
+    },
+    {
+      "id": "2f1185bde73daa5304f5e05de29547dc1d925676088ffab3689f24be0c4b12c1",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:22:39.848Z",
+      "key": "[\"c0772bc9-f94f-484a-9f10-97e480a7ca77\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:22:39.848Z",
+        "userId": "c0772bc9-f94f-484a-9f10-97e480a7ca77"
+      }
+    },
+    {
+      "id": "421b070bb7c09233d8303ab9fc386a6e1304de9fd5825e42ba8841f592254d7c",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:25:59.653Z",
+      "key": "[\"3a8594a2-7e3d-4bcd-9753-e9b19bbdaff8\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:25:59.653Z",
+        "userId": "3a8594a2-7e3d-4bcd-9753-e9b19bbdaff8"
+      }
+    },
+    {
+      "id": "f0f459bedb44c1d26b388b961cc371171f338d884f4b20cf3410a5eb6b1a658e",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:30:08.525Z",
+      "key": "[\"44aaa7dc-9fa0-46a1-bbed-01100cb58322\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:30:08.525Z",
+        "userId": "44aaa7dc-9fa0-46a1-bbed-01100cb58322"
+      }
+    },
+    {
+      "id": "da5d70934162bd46da6a3eb0afc80418084acfc1e6809819d421c0205b6cbf2d",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:29:55.456Z",
+      "key": "[\"0c0a0df2-1e42-46f8-b3bd-10013be236dd\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Подача заебись!",
+        "scoredAt": "2026-10-22T00:29:55.456Z",
+        "userId": "0c0a0df2-1e42-46f8-b3bd-10013be236dd"
+      }
+    },
+    {
+      "id": "6bebf8e7fd552d2e2800c69a01e57c6957b3d33d693520c9837e78907c9e88be",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:26:26.497Z",
+      "key": "[\"6f35b4f0-5e5f-47d0-bea9-1be90dafa010\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:26:26.497Z",
+        "userId": "6f35b4f0-5e5f-47d0-bea9-1be90dafa010"
+      }
+    },
+    {
+      "id": "16ab3a358e0f1ce9bd10393fe170b2c65fe13b012ba3b3b517170f43aa6662c1",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:30:32.187Z",
+      "key": "[\"a66264ed-514c-4c81-9a3e-9d439ea83a77\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "ок!",
+        "scoredAt": "2026-10-22T00:30:32.187Z",
+        "userId": "a66264ed-514c-4c81-9a3e-9d439ea83a77"
+      }
+    },
+    {
+      "id": "c5b1be44a51406df9d2baf112e1066565d6ebbcdfb48d658553616835fae25ae",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:27:41.970Z",
+      "key": "[\"1cfe4ba9-c9a8-4093-8cad-28bbd7990d78\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:27:41.970Z",
+        "userId": "1cfe4ba9-c9a8-4093-8cad-28bbd7990d78"
+      }
+    },
+    {
+      "id": "1e5ddbb750daaf50bf9a1e6088135c00d89f7b4eb8d652b453af037aa00746a8",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:29:03.224Z",
+      "key": "[\"45a1a3bd-4453-4ff2-aa4e-634005c3d424\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 2,
+        "comment": "Это типа про селфхарм или че? Отыгрыш в мини сценках очень карикатурный и хаотурный. В плане содержания не живо и надуманно. Одна огромная прелюдия, без сюжета как такового, в чем мотивация персонажа - ничего не понятно. Непосредственно звучит, но больше выделить нечего, с реализацией не очень справился.",
+        "scoredAt": "2026-10-22T00:29:03.224Z",
+        "userId": "45a1a3bd-4453-4ff2-aa4e-634005c3d424"
+      }
+    },
+    {
+      "id": "05214c3be2666655e4e06153677f0117e417d08bdea0ac190f10ad4630197180",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:43.933Z",
+      "key": "[\"6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:31:43.933Z",
+        "userId": "6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e"
+      }
+    },
+    {
+      "id": "f309f52ebcb59d08bd9d5fdfc8492bc1438691c57b28e515fdb59223cf28332d",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:28.853Z",
+      "key": "[\"f4267044-e8a7-4daf-a661-e340e0af543c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:31:28.853Z",
+        "userId": "f4267044-e8a7-4daf-a661-e340e0af543c"
+      }
+    },
+    {
+      "id": "0c56cbf4b1c0cb43b698b6f8ed55923ae274226267665d4ddb7d18cce602650d",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:50.650Z",
+      "key": "[\"676ce3bc-9b1e-42fd-af20-47b1303fa98b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошая ритмика",
+        "scoredAt": "2026-10-22T00:31:50.650Z",
+        "userId": "676ce3bc-9b1e-42fd-af20-47b1303fa98b"
+      }
+    },
+    {
+      "id": "c75a70b1bb7b2e7bc6201304bcb119b2a373203923e99817972179f99453f07a",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:27:17.859Z",
+      "key": "[\"95db4b45-3f56-4e1b-9f37-bfb720db1d85\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:27:17.859Z",
+        "userId": "95db4b45-3f56-4e1b-9f37-bfb720db1d85"
+      }
+    },
+    {
+      "id": "7cba3b348d7f35d63d5bd797a89fe72aee3f0fd4feccc5020f4702c62e7a450c",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:25:44.802Z",
+      "key": "[\"5ada4a22-2bc5-4409-97f3-6e5ae638513d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:25:44.802Z",
+        "userId": "5ada4a22-2bc5-4409-97f3-6e5ae638513d"
+      }
+    },
+    {
+      "id": "c6f4906b55da7430a5ff00a220c560ec64c0453807d86de89f55c5f6417a5aa2",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:16.887Z",
+      "key": "[\"c91b36b5-4432-45ff-933f-70ec9edd9d3f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Хорошо",
+        "scoredAt": "2026-10-22T00:31:16.887Z",
+        "userId": "c91b36b5-4432-45ff-933f-70ec9edd9d3f"
+      }
+    },
+    {
+      "id": "3eeead1115c7e3e2c97ec31309b3be2f1e7228a820721de2fc2b63456a74f478",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:32:02.545Z",
+      "key": "[\"5f0c9d57-6fbc-4cf8-a982-2945d2893735\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:32:02.545Z",
+        "userId": "5f0c9d57-6fbc-4cf8-a982-2945d2893735"
+      }
+    },
+    {
+      "id": "9a10369c7d796b442551c6e929fe28e3eab39e35f86c1acab7908d0aca0fc864",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:23:46.134Z",
+      "key": "[\"1a597a1e-44a7-4a36-9619-70bb26e9a1a7\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:23:46.134Z",
+        "userId": "1a597a1e-44a7-4a36-9619-70bb26e9a1a7"
+      }
+    },
+    {
+      "id": "cca5ece01d7b5c59a93cc41661e9d1ac7d2d39e563aefa8f3ce64978743f4093",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:22:23.752Z",
+      "key": "[\"c67a7f48-3c13-48f0-aa7f-ff54e2a2a842\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "балансирую на канате ",
+        "scoredAt": "2026-10-22T00:22:23.752Z",
+        "userId": "c67a7f48-3c13-48f0-aa7f-ff54e2a2a842"
+      }
+    },
+    {
+      "id": "7edc5b8e81454daded13a9e648b7cf00a1788204ec21694b71453a7437b28e61",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:26:47.089Z",
+      "key": "[\"78ef7623-f999-40d0-a4a1-16d93f8c2279\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "АХАХАХА ОХУЕННО ",
+        "scoredAt": "2026-10-22T00:26:47.089Z",
+        "userId": "78ef7623-f999-40d0-a4a1-16d93f8c2279"
+      }
+    },
+    {
+      "id": "c39aa9b8c610cb5fbb9383bd6fb9815e7f81d84da004b7868f77057c11090b7c",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:17.027Z",
+      "key": "[\"dd186eef-55e0-43b5-8c88-9cba27a653af\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:31:17.027Z",
+        "userId": "dd186eef-55e0-43b5-8c88-9cba27a653af"
+      }
+    },
+    {
+      "id": "2558103206376b4d87aec459e21a7163f49e0946df109f324a52530a3976e2d8",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:24:31.030Z",
+      "key": "[\"b8b33163-af90-4c0a-aaa5-a1b7ae8b8e69\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:24:31.030Z",
+        "userId": "b8b33163-af90-4c0a-aaa5-a1b7ae8b8e69"
+      }
+    },
+    {
+      "id": "015323a94815525dc228b532bd2f0500a7308f63224ad8e34b5c73d55d723a6e",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:31:03.220Z",
+      "key": "[\"c121d7c7-54ce-41fc-8fa1-65793382d453\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:31:03.220Z",
+        "userId": "c121d7c7-54ce-41fc-8fa1-65793382d453"
+      }
+    },
+    {
+      "id": "2119604f502602de5313b8f791fe66bdf958e0483327971388d383a77f1dcd75",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:32:06.485Z",
+      "key": "[\"4d374379-e1e8-4713-ba3d-7e5e7b307b9f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:32:06.485Z",
+        "userId": "4d374379-e1e8-4713-ba3d-7e5e7b307b9f"
+      }
+    },
+    {
+      "id": "a114b465dfda096a66eabbd5f921b12849b02288a609d394aaf825a89317b751",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:23:20.927Z",
+      "key": "[\"5aea44e0-9530-4ee6-930b-9aae54b8b134\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:23:20.927Z",
+        "userId": "5aea44e0-9530-4ee6-930b-9aae54b8b134"
+      }
+    },
+    {
+      "id": "7436b161d854edcadcb23d6974d2dfb174a73cdde83a61ee873fc80b33b5a5f5",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:26:57.513Z",
+      "key": "[\"becc3c45-8f86-406c-9d29-5d28598b11db\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:26:57.513Z",
+        "userId": "becc3c45-8f86-406c-9d29-5d28598b11db"
+      }
+    },
+    {
+      "id": "cb816e240cc0725186e5376accce438b4a294c4019fd625e39c4d8f1ab04b4c0",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:28:10.462Z",
+      "key": "[\"0aa9313d-5349-4fd7-92f7-78879a2da680\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "ШЛИ ВСЕХ В ПИЗДУ, НОРМ РЭП!",
+        "scoredAt": "2026-10-22T00:28:10.462Z",
+        "userId": "0aa9313d-5349-4fd7-92f7-78879a2da680"
+      }
+    },
+    {
+      "id": "c06d26ce5e9dccb4b3cc5cdbd5a34963660dbc0ee81c897ae0bf0f6e57d5d80a",
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "sourceScoredAt": "2026-10-22T00:26:26.857Z",
+      "key": "[\"bb5be048-bc7a-41d3-b65b-1cd1a8879fbd\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "В ЛУЧШИХ ТРАДИЦИЯХ БАТЕЛ РЕПА, ГО ДАЛЬШЕ!\nСЫН СВЯТА И ОКСИМИРОНА, КАЙФАНУЛ",
+        "scoredAt": "2026-10-22T00:26:26.857Z",
+        "userId": "bb5be048-bc7a-41d3-b65b-1cd1a8879fbd"
+      }
     }
   ],
   "snapshots": [
@@ -191073,6 +191493,26 @@
           "index": 31.773737236828076,
           "favor": 17.93295959119185,
           "attention": 3.2429515586797066,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T00:32:20.221Z",
+      "exportedAt": "2026-10-22T00:32:20.221Z",
+      "scores": 15551,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.08457294735029,
+          "favor": 8.596917091733147,
+          "attention": 5.575891149734789,
+          "respect": 5.911764705882353
+        },
+        "veterans": {
+          "index": 31.811771339860712,
+          "favor": 17.940283329431107,
+          "attention": 3.2736619234730857,
           "respect": 10.597826086956522
         }
       }
