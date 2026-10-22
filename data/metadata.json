@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T06:42:05.115Z",
-  "exportedAt": "2026-10-22T06:42:05.115Z",
-  "runId": "2026-10-22T06:42:05.115Z",
-  "forumExportedAt": "2026-10-22T06:42:05.115Z",
+  "lastSuccessfulAt": "2026-10-22T07:12:09.177Z",
+  "exportedAt": "2026-10-22T07:12:09.177Z",
+  "runId": "2026-10-22T07:12:09.177Z",
+  "forumExportedAt": "2026-10-22T07:12:09.177Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15809,
+    "scores": 15810,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 5615,
-    "scoresBefore": 15808,
-    "scoresAfter": 15809,
+    "durationMs": 3888,
+    "scoresBefore": 15809,
+    "scoresAfter": 15810,
     "fullBaselineRequests": 3279,
     "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "artist": "лирик",
+          "comment": "Эка какой стих интересный! И голос оч приятный даже, приятно напеваешь под конец. Это могло бы получать проходные в целом оценки, пусть и не самые высокие, но подвел текст - он написан уж слишком простецки :-/ К сожалению, таким можно порадовать даму, но сложно порадовать судей на онлайн баттлах, где каждый упражняется в текстовых изысканностях. ",
+          "scoredAt": "2026-10-22T07:08:55.579Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -192,13 +199,6 @@
           "artist": "ixoma",
           "comment": "Во втором раунде разнообразь исполнение и прими во внимание что рэп про рэп тут сделало 50% участников (большинство вылетит)",
           "scoredAt": "2026-10-22T05:45:08.100Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Илья Вайт",
-          "comment": "На проход сделал, но ужасно скучно смотрится в 2026. И рифмы калом-ебало, нассу-росу такое себе, конечно",
-          "scoredAt": "2026-10-22T05:42:59.566Z"
         }
       ]
     }
