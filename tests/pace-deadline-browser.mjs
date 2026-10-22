@@ -27,21 +27,32 @@ const dir='docs/screenshots/pace-deadline';await fs.mkdir(dir,{recursive:true});
 const errors=[];
 try{
  for(const width of [1440,1024,768,390,320]){
-  const page=await browser.newPage({viewport:{width,height:1000}});
+  const page=await browser.newPage({viewport:{width,height:1000},timezoneId:width===320?'Asia/Tokyo':'America/Los_Angeles'});
   page.on('pageerror',e=>{errors.push(e.message);console.log('pageerror',e.message);});
   await page.addInitScript(t=>{window.testNow=t;Date.now=()=>window.testNow;},limit-500);
   await page.goto(base+'/dynamics/');
   await page.waitForSelector('#carrot-loader',{state:'detached'});
   await page.waitForSelector('#pace-finish-chart');
-  assert.equal(await page.locator('#pace-needed-label').textContent(),'Нужно в день');
+  assert.equal(await page.locator('#pace-needed-label').textContent(),'До дедлайна');
+  assert.equal(await page.locator('#pace-needed').textContent(),'Сегодня');
+  assert.equal(await page.locator('#pace-needed-detail').textContent(),'23:59 МСК');
   const remaining=Number((await page.locator('#pace-remaining').textContent()).replace(/\s/g,''));
-  assert.equal(Number((await page.locator('#pace-needed').textContent()).replace(/\s/g,'')),Math.ceil(remaining/(500/86400000)));
+  assert.ok(remaining>0);
+  for(const time of ['2026-10-22T00:00:00+03:00','2026-10-22T23:58:00+03:00']){
+   await page.evaluate(t=>{window.testNow=t;},Date.parse(time));
+   await page.waitForTimeout(1100);
+   assert.equal(await page.locator('#pace-needed').textContent(),'Сегодня');
+   assert.equal(await page.locator('#pace-needed-detail').isVisible(),true);
+   assert.equal(await page.locator('#pace-needed').evaluate(e=>e.scrollWidth<=e.clientWidth),true,'Today fits the card');
+   await page.locator('#dynamics').screenshot({path:dir+'/'+width+'-today.png'});
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+  }
   assert.notEqual(await page.locator('#deadline-countdown-value').textContent(),'Дедлайн прошёл');
   // Passing the historical deadline must not expire the current countdown or card.
-  await page.evaluate(t=>{window.testNow=t;},Date.parse('2026-10-18T23:59:00+03:00'));
+  await page.evaluate(t=>{window.testNow=t;},Date.parse('2026-10-21T23:59:00+03:00'));
   await page.waitForTimeout(1100);
   assert.equal(await page.locator('#pace-needed-label').textContent(),'Нужно в день');
-  assert.equal(await page.locator('#deadline-countdown-value').textContent(),'4д 0ч 0м');
+  assert.equal(await page.locator('#deadline-countdown-value').textContent(),'1д 0ч 0м');
   assert.match(await page.locator('#pace-extension-note').textContent(),/Дедлайн продлён до 22 октября · \+4 дня/);
   assert.equal(await page.locator('.pace-original-deadline-line').count(),1);
   assert.equal(await page.locator('.pace-deadline-line').count(),1);
@@ -51,9 +62,10 @@ try{
   for(const offset of [0,86400000,7*86400000]){
    await page.evaluate(t=>{window.testNow=t;},limit+offset);
    await page.waitForTimeout(1100);
-   assert.equal(await page.locator('#pace-needed-label').textContent(),'Прогноз завершения');
+   assert.equal(await page.locator('#pace-needed-label').textContent(),'До дедлайна');
    assert.equal(await page.locator('#deadline-countdown-value').textContent(),'Дедлайн прошёл');
-   assert.doesNotMatch(await page.locator('#pace-needed').textContent(),/NaN|Infinity|Invalid/);
+   assert.equal(await page.locator('#pace-needed').textContent(),'Дедлайн прошёл');
+   assert.equal(await page.locator('#pace-needed-detail').isVisible(),false);
   }
   const labels=await page.locator('#pace-finish-chart').evaluate(svg=>[...svg.querySelectorAll('.pace-original-deadline-label,.pace-deadline-bottom,.pace-finish-date-tick')].map(n=>{const b=n.getBBox();return {x:b.x,y:b.y,w:b.width,h:b.height};}));
   assert.equal(labels.length,3);
@@ -88,7 +100,7 @@ try{
    if(['zero','missing'].includes(result.kind))assert.equal(result.status,'Недостаточно данных');
    assert.doesNotMatch(result.svg,/NaN|Infinity/);
    if(result.kind==='complete')assert.equal(result.value,'Завершено');
-   else if(['zero','missing'].includes(result.kind))assert.equal(result.value,'Недостаточно данных');
+   else if(['zero','missing'].includes(result.kind))assert.equal(result.value,'Дедлайн прошёл');
    else{assert.equal(result.labels.length,3);for(let i=0;i<result.labels.length;i++)for(const b of result.labels.slice(i+1)){const a=result.labels[i];assert.ok(a.y>=b.y+b.h||b.y>=a.y+a.h,result.kind+' labels');}}
   }
   await page.close();

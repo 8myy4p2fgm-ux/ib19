@@ -2,6 +2,8 @@
 #dynamics .pace-metrics>div{min-width:0}
 #dynamics .pace-metrics>div:has(#pace-needed) dt{white-space:normal}
 #dynamics #pace-needed{white-space:normal;overflow-wrap:anywhere}
+#dynamics #pace-needed.is-today{font-size:clamp(16px,3.4vw,48px);white-space:nowrap;overflow-wrap:normal}
+#dynamics #pace-needed-detail{margin:4px 0 0;font-size:13px;line-height:1.5;color:var(--muted);letter-spacing:0}
 /* Deadline extension is a compact annotation inside the existing forecast heading. */
 #dynamics .pace-extension-note{margin:10px 0 0;font-size:13px;line-height:1.5;color:var(--muted)}
 #dynamics .pace-extension-note strong{display:block;color:#C7A66E;font-weight:600}

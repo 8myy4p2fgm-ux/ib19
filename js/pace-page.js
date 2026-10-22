@@ -1,4 +1,5 @@
 import {paceStatus} from './pace-status.js';
+import {paceNeeded} from './pace-needed.js';
 import {scoreEconomy} from './score-economy.js';
 import {DAY} from './config.js';
 import {paceModel,pacePlotRange,moscowDay} from './pace-model.js';
@@ -20,16 +21,15 @@ export function createPacePage({D,config,$,fmt,attachChartTip}){
  const statusCaption=$('pace-status-caption');if(statusCaption){statusCaption.hidden=!presentation.caption;statusCaption.textContent=presentation.caption||'';}
  const captionNode=$('pace-caption');if(captionNode)captionNode.textContent='';
  $('pace-remaining').textContent=fmt(m.remaining,0);$('pace-current').textContent=m.rate>0&&m.rate<1?'<1':fmt(m.rate,0);
- const snapshotAsOf=m.asOf;
  function refreshNeeded(){
-  const now=Date.now(),expired=m.deadline!==null&&now>=m.deadline;
-  const daysLeft=m.deadline===null?null:Math.max(0,(m.deadline-now)/DAY);
-  const needRate=daysLeft>0?m.remaining/daysLeft:null;
-  $('pace-needed-label').textContent=expired?'Прогноз завершения':'Нужно в день';
-  $('pace-needed').classList.toggle('is-forecast',expired);
-  $('pace-needed').classList.remove('is-caption');
-  $('pace-needed').textContent=expired?(m.remaining===0?'Завершено':m.projected!==null?date(m.projected):'Недостаточно данных'):needRate!==null?fmt(Math.ceil(needRate),0):'—';
-  const help=$('pace-needed-help');if(help)help.textContent=expired?'Прогноз по последним 7 полным дням на дату выгрузки '+date(snapshotAsOf)+'.':needRate!==null?'Осталось '+fmt(m.remaining,0)+' оценок на '+fmt(daysLeft,1)+' дня до дедлайна 22 октября, 23:59 МСК. Нужно в среднем '+fmt(Math.ceil(needRate),0)+' оценок в день.':'Нельзя рассчитать без актуального дедлайна.';
+  const metric=paceNeeded(m,Date.now(),fmt);
+  $('pace-needed-label').textContent=metric.label;
+  $('pace-needed').classList.toggle('is-caption',metric.caption);
+  $('pace-needed').classList.toggle('is-today',Boolean(metric.detail));
+  $('pace-needed').textContent=metric.value;
+  $('pace-needed-detail').textContent=metric.detail;
+  $('pace-needed-detail').hidden=!metric.detail;
+  const help=$('pace-needed-help');if(help)help.textContent=metric.help;
  }
  refreshNeeded();
  setInterval(refreshNeeded,1000);
