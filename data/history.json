@@ -180326,6 +180326,76 @@
         "scoredAt": "2026-10-22T08:23:01.098Z",
         "userId": "689966f7-8f95-4ba6-8e0f-8398b29639dd"
       }
+    },
+    {
+      "id": "8a0ffdd26f81494779fd66d890d065864677c60af090dc31d35aac8569185be9",
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "sourceScoredAt": "2026-10-22T08:37:47.660Z",
+      "key": "[\"f1149473-7f5b-432a-b969-8d30fd0d9324\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "А ты на лютом приколе) Но просай, иначе можно в рехаб попасть...",
+        "scoredAt": "2026-10-22T08:37:47.660Z",
+        "userId": "f1149473-7f5b-432a-b969-8d30fd0d9324"
+      }
+    },
+    {
+      "id": "dfb2de229c53bd1316a31be1db26a84626f5b4d11b65f8e263ecbf2d250f784c",
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "sourceScoredAt": "2026-10-22T08:31:54.572Z",
+      "key": "[\"58ded3ea-74d8-4543-bb9f-8a2af7ef7009\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Для меня это 3. Но я смотрю, что тебе не хватает 4 баллов для прохода. Дарю сейчас, но это тебе на день рождения ;) ",
+        "scoredAt": "2026-10-22T08:31:54.572Z",
+        "userId": "58ded3ea-74d8-4543-bb9f-8a2af7ef7009"
+      }
+    },
+    {
+      "id": "c2c8728d9017323350c76f9138f9bc73c48e4cdb4a318ce26dbe6ae8f4374d95",
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "sourceScoredAt": "2026-10-22T08:32:28.297Z",
+      "key": "[\"4c6982f7-2406-4fc4-9406-943510377ef4\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Lil Xyu ахахахаахахах))) Стиль конечно уникальный))) ",
+        "scoredAt": "2026-10-22T08:32:28.297Z",
+        "userId": "4c6982f7-2406-4fc4-9406-943510377ef4"
+      }
+    },
+    {
+      "id": "7837891a8b4ce46f6bba7d610cb16466911136eb6b35dfccd540ac5450ecd6d1",
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "sourceScoredAt": "2026-10-22T08:41:44.195Z",
+      "key": "[\"83036f74-eb1b-4a4f-8358-e9fe1c4eab57\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Хорошая работа! ",
+        "scoredAt": "2026-10-22T08:41:44.195Z",
+        "userId": "83036f74-eb1b-4a4f-8358-e9fe1c4eab57"
+      }
+    },
+    {
+      "id": "f705ea8be5c8a24affffe7e28217a944b14fc88734a3e91ecf00993144ca7001",
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "sourceScoredAt": "2026-10-22T08:32:49.235Z",
+      "key": "[\"bce81d3a-b3bf-4fce-8061-2a671e2af729\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Пока нечего оценивать. ",
+        "scoredAt": "2026-10-22T08:32:49.235Z",
+        "userId": "bce81d3a-b3bf-4fce-8061-2a671e2af729"
+      }
     }
   ],
   "snapshots": [
@@ -196065,6 +196135,26 @@
           "index": 31.890708321402926,
           "favor": 17.88451862713651,
           "attention": 3.4306501259210895,
+          "respect": 10.575539568345324
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T08:42:17.970Z",
+      "exportedAt": "2026-10-22T08:42:17.970Z",
+      "scores": 15844,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 19.92255890471804,
+          "favor": 8.494489872468113,
+          "attention": 5.56324345085458,
+          "respect": 5.8648255813953485
+        },
+        "veterans": {
+          "index": 31.90969216632295,
+          "favor": 17.888423931342032,
+          "attention": 3.445728666635597,
           "respect": 10.575539568345324
         }
       }
