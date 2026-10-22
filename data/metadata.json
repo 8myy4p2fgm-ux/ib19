@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T01:42:20.579Z",
-  "exportedAt": "2026-10-22T01:42:20.579Z",
-  "runId": "2026-10-22T01:42:20.579Z",
-  "forumExportedAt": "2026-10-22T01:42:20.579Z",
+  "lastSuccessfulAt": "2026-10-22T01:52:25.486Z",
+  "exportedAt": "2026-10-22T01:52:25.486Z",
+  "runId": "2026-10-22T01:52:25.486Z",
+  "forumExportedAt": "2026-10-22T01:52:25.486Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15668,
+    "scores": 15703,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 28,
+    "httpRequests": 40,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 23,
+    "updatedCards": 35,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 23,
-    "changedParticipants": 20,
-    "logicalRequests": 28,
-    "durationMs": 27619,
-    "scoresBefore": 15645,
-    "scoresAfter": 15668,
-    "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.14582062233069,
+    "participantsWithNewScores": 35,
+    "changedParticipants": 32,
+    "logicalRequests": 40,
+    "durationMs": 39969,
+    "scoresBefore": 15668,
+    "scoresAfter": 15703,
+    "fullBaselineRequests": 3279,
+    "requestReductionPercent": 98.78011588899055,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,108 +97,108 @@
       "feed": [
         {
           "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "DJOUL killa",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:51:41.473Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "МС из города на букву Ж",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:51:29.619Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Идущий в библиотеку",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:51:20.620Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 3,
-          "artist": "Банкет Спинозы",
+          "artist": "MR.POPULARITY",
           "comment": "",
-          "scoredAt": "2026-10-22T01:41:46.208Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "NS",
-          "comment": "Хорошо!",
-          "scoredAt": "2026-10-22T01:41:38.157Z"
+          "scoredAt": "2026-10-22T01:51:07.047Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "Юрась",
-          "comment": "\nОбычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.\n",
-          "scoredAt": "2026-10-22T01:41:19.989Z"
+          "artist": "Скаузер",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:50:56.950Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 4,
-          "artist": "Arhetype",
+          "artist": "VSD",
           "comment": "",
-          "scoredAt": "2026-10-22T01:41:10.140Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Egor Neiv",
-          "comment": "",
-          "scoredAt": "2026-10-22T01:41:03.728Z"
+          "scoredAt": "2026-10-22T01:50:42.849Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 5,
-          "artist": "SlavDem",
-          "comment": "💥💥💥",
-          "scoredAt": "2026-10-22T01:40:50.059Z"
+          "artist": "АРЧБД",
+          "comment": "КАКАО?\nочень стильго, текст - говно ",
+          "scoredAt": "2026-10-22T01:50:12.717Z"
         },
         {
           "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "lual",
+          "score": 3,
+          "artist": "TAG1L [Осторожно BGD]",
           "comment": "",
-          "scoredAt": "2026-10-22T01:40:29.597Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "FOLEY D.",
-          "comment": "Хорошо!",
-          "scoredAt": "2026-10-22T01:40:15.798Z"
+          "scoredAt": "2026-10-22T01:49:04.267Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "DAMAGE",
+          "artist": "МАЛЮТА",
           "comment": "",
-          "scoredAt": "2026-10-22T01:39:59.529Z"
+          "scoredAt": "2026-10-22T01:48:46.539Z"
         },
         {
           "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Nevsima",
-          "comment": "Хорошо!",
-          "scoredAt": "2026-10-22T01:39:44.508Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Deni Marr [SaUnd]",
-          "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
-          "scoredAt": "2026-10-22T01:39:26.119Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Defental",
+          "score": 5,
+          "artist": "ПУСТЫЕ",
           "comment": "",
-          "scoredAt": "2026-10-22T01:39:14.011Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "МЦ Хост",
-          "comment": "Хорошо!",
-          "scoredAt": "2026-10-22T01:38:56.878Z"
+          "scoredAt": "2026-10-22T01:48:40.628Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "deli hell",
-          "comment": "Обычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.",
-          "scoredAt": "2026-10-22T01:38:45.568Z"
+          "artist": "Slavonicx",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:48:17.756Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "artist": "Бебиволк",
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T01:48:04.237Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Леверкюн",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:47:49.619Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Рубашка по Процкий",
+          "comment": "",
+          "scoredAt": "2026-10-22T01:47:39.808Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 1,
-          "artist": "Джек Пот",
+          "artist": "Egash45",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-22T01:38:32.919Z"
+          "scoredAt": "2026-10-22T01:47:32.488Z"
         }
       ]
     }
