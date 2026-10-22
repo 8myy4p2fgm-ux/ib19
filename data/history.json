@@ -175636,6 +175636,244 @@
         "scoredAt": "2026-10-22T00:06:25.358Z",
         "userId": "ae9ed124-5ef1-4002-992b-43f66d0300a4"
       }
+    },
+    {
+      "id": "2bc0def76a8ca39806db8eb367cd4623f4cfe3be4e048f9b5b88626c2396d253",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:17:45.468Z",
+      "key": "[\"e5f793e8-3472-452c-8196-58d43be449dd\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:17:45.468Z",
+        "userId": "e5f793e8-3472-452c-8196-58d43be449dd"
+      }
+    },
+    {
+      "id": "505f4e33d4737e1d9bad6185ee2a8cd0eabc48801de64344d434b3f644ccdf2b",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:21:52.902Z",
+      "key": "[\"b1a00d6e-1387-4ba0-8236-73edbfbc2500\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "голос красивый, рэп где блин ",
+        "scoredAt": "2026-10-22T00:21:52.902Z",
+        "userId": "b1a00d6e-1387-4ba0-8236-73edbfbc2500"
+      }
+    },
+    {
+      "id": "f33497eee32030deef5ac92a615a79fe199ff4e6028e4cda3df1fc296359da77",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:16:58.801Z",
+      "key": "[\"55345797-da07-4852-9542-e7e19bdae370\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:16:58.801Z",
+        "userId": "55345797-da07-4852-9542-e7e19bdae370"
+      }
+    },
+    {
+      "id": "8153edd903f76ea6f4890075f2aec4b962c9737bc21044c240d6296a900b6203",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:13:18.000Z",
+      "key": "[\"ca59d645-4e5c-4e7e-a892-16fcffe9e642\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "слишком РАААААААААААААААСТЯЯЯЯЯЯЯЯЯЯЯНУТО исполняешь, так то может и 4 ",
+        "scoredAt": "2026-10-22T00:13:18.000Z",
+        "userId": "ca59d645-4e5c-4e7e-a892-16fcffe9e642"
+      }
+    },
+    {
+      "id": "84ed1dd77888080ad7f34ae609378d63a40d7739ccfc30cb59764d6c46bbd2c4",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:18:30.404Z",
+      "key": "[\"511bdaef-535a-4573-aab1-10d3e27378cd\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "АХАХА кайфово) ",
+        "scoredAt": "2026-10-22T00:18:30.404Z",
+        "userId": "511bdaef-535a-4573-aab1-10d3e27378cd"
+      }
+    },
+    {
+      "id": "f3db4e665f1dcdc1fad416ca1772c662a3d667b1b37c3b297a6cf628074cffc3",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:15:32.155Z",
+      "key": "[\"c8829fb8-9806-4077-acf5-a76f1c629b71\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "ахаха)) очень странно)) ",
+        "scoredAt": "2026-10-22T00:15:32.155Z",
+        "userId": "c8829fb8-9806-4077-acf5-a76f1c629b71"
+      }
+    },
+    {
+      "id": "58f65b6c771f6715af13f7ceca386d6b69db61e2867c2742e45b477263c8f7d8",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:16:27.657Z",
+      "key": "[\"d8fbc50e-db2a-4ba4-8134-c4b17b227c9d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:16:27.657Z",
+        "userId": "d8fbc50e-db2a-4ba4-8134-c4b17b227c9d"
+      }
+    },
+    {
+      "id": "f5f238f3610f537946b918356c8c2a10d4faf2e478b6c051ad2c7189bd7e4caa",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:18:04.373Z",
+      "key": "[\"cc40cac9-04fd-4914-9400-2739f352efa9\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:18:04.373Z",
+        "userId": "cc40cac9-04fd-4914-9400-2739f352efa9"
+      }
+    },
+    {
+      "id": "a798c66e2f39056f7e6356f2d93198a56431aab11cf1c3aa204177b13101ba2b",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:21:06.369Z",
+      "key": "[\"34ceaab9-1eee-4047-af54-8adddf907a1a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "по мне рано, но губить не буду",
+        "scoredAt": "2026-10-22T00:21:06.369Z",
+        "userId": "34ceaab9-1eee-4047-af54-8adddf907a1a"
+      }
+    },
+    {
+      "id": "825a61f4282eea074eae22d0120375c4aa38f021377dc2f17903541de9d4fce9",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:13:31.481Z",
+      "key": "[\"78267266-5d6d-4f2c-a7cd-bb5d2f70c102\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:13:31.481Z",
+        "userId": "78267266-5d6d-4f2c-a7cd-bb5d2f70c102"
+      }
+    },
+    {
+      "id": "70fd05e457e17cc884435e3d2816f59043195e3d23d73f4779b881a137a76efa",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:14:01.679Z",
+      "key": "[\"36512489-58dc-403e-9ba6-fd0606854b8f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:14:01.679Z",
+        "userId": "36512489-58dc-403e-9ba6-fd0606854b8f"
+      }
+    },
+    {
+      "id": "20dfba85a4a1be50da325dc8728d6141333a52c186c8a80ac1bda6101dc69571",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:15:42.745Z",
+      "key": "[\"ca15aa3d-2172-4730-9ae5-7634df92a04c\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:15:42.745Z",
+        "userId": "ca15aa3d-2172-4730-9ae5-7634df92a04c"
+      }
+    },
+    {
+      "id": "d500191d3844e9fec2e1abf6a7e1ad9e92b74c7fbc0d52c981bc9705a2f22045",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:17:11.690Z",
+      "key": "[\"50c23b2f-337f-4de5-8ad6-0ce014329383\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:17:11.690Z",
+        "userId": "50c23b2f-337f-4de5-8ad6-0ce014329383"
+      }
+    },
+    {
+      "id": "bc468d4148caca36f18c8cc74625379f2d276f451f2d3637d0ddd81d4a48b8ef",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:14:44.026Z",
+      "key": "[\"819bf872-7424-44c2-86fd-d184519c05ba\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:14:44.026Z",
+        "userId": "819bf872-7424-44c2-86fd-d184519c05ba"
+      }
+    },
+    {
+      "id": "c8c286aa820d7b29297efece833b98c011c790a085a9c63945dff6d397e3bdbd",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:19:40.040Z",
+      "key": "[\"ff87e2be-ad77-4de0-9de2-8fc547fc5e1f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Неплохо, но больше рэпа дай далее и более технично по рифмам\\технике",
+        "scoredAt": "2026-10-22T00:19:40.040Z",
+        "userId": "ff87e2be-ad77-4de0-9de2-8fc547fc5e1f"
+      }
+    },
+    {
+      "id": "1be8726d0cafc250374dba5cf3e651d9da571fc3b26365afa8d5c7b4941c0004",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:14:26.903Z",
+      "key": "[\"54863aa9-c37a-46a8-bc5c-5dd429eb383a\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:14:26.903Z",
+        "userId": "54863aa9-c37a-46a8-bc5c-5dd429eb383a"
+      }
+    },
+    {
+      "id": "4a092b6ca058852cb85c42bef4ec39fb9b660f21e8b790d799e51f29949e8176",
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "sourceScoredAt": "2026-10-22T00:14:11.775Z",
+      "key": "[\"ac1c8078-044c-4aec-9d58-498b3643255f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:14:11.775Z",
+        "userId": "ac1c8078-044c-4aec-9d58-498b3643255f"
+      }
     }
   ],
   "snapshots": [
@@ -190815,6 +191053,26 @@
           "index": 31.755379146431302,
           "favor": 17.932278491757632,
           "attention": 3.225274567717145,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T00:22:19.132Z",
+      "exportedAt": "2026-10-22T00:22:19.132Z",
+      "scores": 15521,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.207721186907612,
+          "favor": 8.624643412145032,
+          "attention": 5.653874234939572,
+          "respect": 5.929203539823009
+        },
+        "veterans": {
+          "index": 31.773737236828076,
+          "favor": 17.93295959119185,
+          "attention": 3.2429515586797066,
           "respect": 10.597826086956522
         }
       }

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T00:12:28.148Z",
-  "exportedAt": "2026-10-22T00:12:28.148Z",
-  "runId": "2026-10-22T00:12:28.148Z",
-  "forumExportedAt": "2026-10-22T00:12:28.148Z",
+  "lastSuccessfulAt": "2026-10-22T00:22:19.132Z",
+  "exportedAt": "2026-10-22T00:22:19.132Z",
+  "runId": "2026-10-22T00:22:19.132Z",
+  "forumExportedAt": "2026-10-22T00:22:19.132Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15504,
+    "scores": 15521,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 26,
+    "httpRequests": 20,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 22,
+    "updatedCards": 17,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 22,
-    "changedParticipants": 21,
-    "logicalRequests": 26,
-    "durationMs": 26183,
-    "scoresBefore": 15482,
-    "scoresAfter": 15504,
+    "participantsWithNewScores": 17,
+    "changedParticipants": 17,
+    "logicalRequests": 20,
+    "durationMs": 19745,
+    "scoresBefore": 15504,
+    "scoresAfter": 15521,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.20683343502135,
+    "requestReductionPercent": 99.38987187309336,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,108 +97,108 @@
       "feed": [
         {
           "judgeName": "KseroN",
+          "score": 4,
+          "artist": "INTAET",
+          "comment": "голос красивый, рэп где блин ",
+          "scoredAt": "2026-10-22T00:21:52.902Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "OrpheuSS",
+          "comment": "по мне рано, но губить не буду",
+          "scoredAt": "2026-10-22T00:21:06.369Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Твой Спутник",
+          "comment": "Неплохо, но больше рэпа дай далее и более технично по рифмам\\технике",
+          "scoredAt": "2026-10-22T00:19:40.040Z"
+        },
+        {
+          "judgeName": "KseroN",
           "score": 2,
-          "artist": "ХУЙ В СТАКАНЕ",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:11:36.823Z"
+          "artist": "Субботник",
+          "comment": "АХАХА кайфово) ",
+          "scoredAt": "2026-10-22T00:18:30.404Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Prosty_Esli_Traxnul",
+          "artist": "MR.POPULARITY",
           "comment": "",
-          "scoredAt": "2026-10-22T00:10:35.414Z"
+          "scoredAt": "2026-10-22T00:18:04.373Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Никита Полосин",
+          "artist": "And Whiskey",
           "comment": "",
-          "scoredAt": "2026-10-22T00:10:01.966Z"
+          "scoredAt": "2026-10-22T00:17:45.468Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Lil Paper",
+          "artist": "Пруча",
           "comment": "",
-          "scoredAt": "2026-10-22T00:09:46.518Z"
+          "scoredAt": "2026-10-22T00:17:11.690Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Wiollado",
+          "artist": "Аксель Бруно",
           "comment": "",
-          "scoredAt": "2026-10-22T00:09:26.445Z"
+          "scoredAt": "2026-10-22T00:16:58.801Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "coolsem",
+          "artist": "Крутой Эмси Глеб",
           "comment": "",
-          "scoredAt": "2026-10-22T00:09:11.822Z"
+          "scoredAt": "2026-10-22T00:16:27.657Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Freezyvoice",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:15:42.745Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "RaiN",
-          "comment": "не плакай дядька! ",
-          "scoredAt": "2026-10-22T00:08:48.765Z"
+          "artist": "хонисаклер",
+          "comment": "ахаха)) очень странно)) ",
+          "scoredAt": "2026-10-22T00:15:32.155Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "VLASTEN",
+          "artist": "Двигаюсь иначе",
           "comment": "",
-          "scoredAt": "2026-10-22T00:08:22.841Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Ворон МЦ",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:07:53.669Z"
+          "scoredAt": "2026-10-22T00:14:44.026Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "Звуки вагины",
+          "artist": "typee",
           "comment": "",
-          "scoredAt": "2026-10-22T00:07:40.452Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Бэд43",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:07:02.189Z"
+          "scoredAt": "2026-10-22T00:14:26.903Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Hasse",
+          "artist": "Старая Камуна",
           "comment": "",
-          "scoredAt": "2026-10-22T00:06:25.358Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Дядя Кэш",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:06:15.293Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "artist": "PINTLE",
-          "comment": "о, крутой ! ",
-          "scoredAt": "2026-10-22T00:05:40.029Z"
+          "scoredAt": "2026-10-22T00:14:11.775Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "Madrugar",
+          "artist": "JOLLY ROGER",
           "comment": "",
-          "scoredAt": "2026-10-22T00:05:10.567Z"
+          "scoredAt": "2026-10-22T00:14:01.679Z"
         }
       ]
     }
