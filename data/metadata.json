@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T07:37:08.045Z",
-  "exportedAt": "2026-10-22T07:37:08.045Z",
-  "runId": "2026-10-22T07:37:08.045Z",
-  "forumExportedAt": "2026-10-22T07:37:08.045Z",
+  "lastSuccessfulAt": "2026-10-22T07:52:03.598Z",
+  "exportedAt": "2026-10-22T07:52:03.598Z",
+  "runId": "2026-10-22T07:52:03.598Z",
+  "forumExportedAt": "2026-10-22T07:52:03.598Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15813,
+    "scores": 15814,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 6122,
-    "scoresBefore": 15812,
-    "scoresAfter": 15813,
+    "durationMs": 3740,
+    "scoresBefore": 15813,
+    "scoresAfter": 15814,
     "fullBaselineRequests": 3279,
     "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 2,
+          "artist": "Банлезар",
+          "comment": "Звучание в духе Алексея Турчински, соскучился по таким вайбам. Бит слишком атмосферный, настолько, что выдавил к хуям тебя с твоей ахинеей из твоего же трека, нига. Сюда бы хоррор какой-то или криминально-бандитскую рэп-балладу. Хоть чуть-чуть старайся как-то коррелировать с выбранным минусом, а не брать первое попавшееся, чтобы просто было.",
+          "scoredAt": "2026-10-22T07:44:41.752Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 4,
@@ -192,13 +199,6 @@
           "artist": "Менетил",
           "comment": "Тяну лайком руку, но весь трек не отпускает ощущение, что минус и ты - друг от друга отдельно. По тексту - интересно. Стиль ощущается. ",
           "scoredAt": "2026-10-22T05:50:55.512Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Костя Котляров",
-          "comment": "Все по кайфу тут в плане вайба, такое ощущение, что слушаешь трек о любви и релаксе на островах, а не о рухнувшем еблане (с)",
-          "scoredAt": "2026-10-22T05:49:01.584Z"
         }
       ]
     }
