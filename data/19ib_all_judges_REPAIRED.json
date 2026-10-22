@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T15:22:35.984Z",
+  "exportedAt": "2026-10-22T15:32:40.361Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -4105,8 +4105,14 @@
     },
     {
       "userId": "9855b230-00e7-4724-baef-c4fe4a52c580",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "\"Никому ничего никогда \" полностью согласен, в целом по флоу хорошо, и ритмике",
+          "scoredAt": "2026-10-22T15:25:58.184Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -4132,7 +4138,7 @@
           "scoredAt": "2026-10-18T10:41:28.436Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:22:35.984Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "maby king",
       "artistSlug": "maby-king",
@@ -11678,8 +11684,14 @@
     },
     {
       "userId": "0aa0714e-b3a9-42f1-a2c2-0b69557c50ff",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: вода водой\nИсполнение: скучно\nОбщее впечатление: не понравился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:30:24.929Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -11705,7 +11717,7 @@
           "scoredAt": "2026-09-04T19:23:58.140Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "PNPT",
       "artistSlug": "pnpt",
@@ -12890,8 +12902,14 @@
     },
     {
       "userId": "b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "голос люто странный. текст такое себе ",
+          "scoredAt": "2026-10-22T15:23:21.203Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -12917,7 +12935,7 @@
           "scoredAt": "2026-10-21T11:11:33.964Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "YMALOY",
       "artistSlug": "ymaloy",
@@ -26987,8 +27005,14 @@
     },
     {
       "userId": "f0c40935-c712-48fb-b135-32fffe9ad1b6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T15:23:20.935Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -27014,7 +27038,7 @@
           "scoredAt": "2026-10-06T11:14:48.759Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "oddect",
       "artistSlug": "oddect",
@@ -28621,8 +28645,14 @@
     },
     {
       "userId": "8c0ec389-ce55-4400-bf78-1abbe6a0471c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Вполне нормальный отборочный трек с уверенной читкой и без каких-то серьёзных провалов.",
+          "scoredAt": "2026-10-22T15:30:41.013Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -28648,7 +28678,7 @@
           "scoredAt": "2026-10-15T19:44:30.112Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Kruchh",
       "artistSlug": "kruchh",
@@ -39713,8 +39743,14 @@
     },
     {
       "userId": "2f249481-749d-4a0a-8dae-4817b5dbc3af",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Скилл чувствуется, но ноги убежали вперёд головы) ускорения не вывез. Рифмабельно, но радирифменно, не хватает цепких строчек. Потенциал велик, если подойти с умом и не гнаться за высокой планкой.",
+          "scoredAt": "2026-10-22T15:25:58.806Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -39740,7 +39776,7 @@
           "scoredAt": "2026-09-04T10:30:20.742Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Hermit",
       "artistSlug": "hermit",
@@ -48322,8 +48358,14 @@
     },
     {
       "userId": "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: прикольно сделано\nИсполнение: неплохо сделал, чувствуется опыт и хороший флоу\nОбщее впечатление: улучши качество\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:27:51.228Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -48349,7 +48391,7 @@
           "scoredAt": "2026-10-15T19:42:33.126Z"
         }
       ],
-      "fetchedAt": "2026-10-21T02:12:01.181Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Grave DillaZ",
       "artistSlug": "grave-dillaz",
@@ -63186,8 +63228,14 @@
     },
     {
       "userId": "6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ощущение, что ты просто решил почитать рэп под бит, не особо задумываясь о том, что именно хочешь сказать. Ни интересных мыслей, ни панчлайнов, ни собственного стиля я здесь не услышал.",
+          "scoredAt": "2026-10-22T15:26:10.123Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 4,
@@ -63213,7 +63261,7 @@
           "scoredAt": "2026-10-14T15:53:53.431Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:02:15.571Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "tnf alex",
       "artistSlug": "tnf-alex",
@@ -64246,8 +64294,14 @@
     },
     {
       "userId": "1f8a0a86-516f-4c61-b679-31f2c5d40de4",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Спасибо за трек! \nТекст: неплохо, но можешь лучше\nИсполнение: неплохо и технично сделал\nОбщее впечатление: отлично звучшиь, жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:25:58.277Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -64273,7 +64327,7 @@
           "scoredAt": "2026-09-20T22:01:49.592Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "LES33",
       "artistSlug": "les33",
@@ -71672,8 +71726,14 @@
     },
     {
       "userId": "7332d302-013e-4690-a813-850c313700e8",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Честно текст по мне порой сильно облегчил по рифмам, по исполнению ритмику держишь, но вот не хватило смены флоу",
+          "scoredAt": "2026-10-22T15:27:58.904Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -71693,7 +71753,7 @@
           "scoredAt": "2026-09-07T16:12:48.166Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:52:19.201Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Come on",
       "artistSlug": "come-on",
@@ -73095,8 +73155,14 @@
     },
     {
       "userId": "c41e3561-9e15-44c2-94d8-9da082777065",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Есть посыл и эмоция, тексту не хватает цепкости, рифм покруче, мог бы квадраты прибрать. Читка тоже среднячок, вот прям очень среднячково.",
+          "scoredAt": "2026-10-22T15:30:26.242Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -73116,7 +73182,7 @@
           "scoredAt": "2026-09-17T14:42:11.288Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:12:27.630Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Memphis Black",
       "artistSlug": "memphis-black",
@@ -78026,8 +78092,14 @@
     },
     {
       "userId": "fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 3,
+          "comment": "Ну, просто нормальный рэп, даже особо нечего добавить. Каких-то ярких находок не услышал, но и причин не пропускать дальше тоже нет.",
+          "scoredAt": "2026-10-22T15:27:20.140Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -78047,7 +78119,7 @@
           "scoredAt": "2026-09-23T11:42:55.860Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:22:17.884Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Каспер2000",
       "artistSlug": "kasper2000",
@@ -90124,8 +90196,14 @@
     },
     {
       "userId": "e66e00e1-3670-4359-a455-c48fc03bc758",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Странная работа, и по подачи не хватило и какие то сбивки ритмические не вайбовые",
+          "scoredAt": "2026-10-22T15:23:05.358Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -90151,7 +90229,7 @@
           "scoredAt": "2026-10-05T05:16:46.769Z"
         }
       ],
-      "fetchedAt": "2026-10-22T08:52:19.139Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "ТУЧ",
       "artistSlug": "tuch",
@@ -90938,8 +91016,14 @@
     },
     {
       "userId": "9cab407c-19cd-46ce-adf6-4fbb2dc36159",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 1,
+          "comment": "Прикол понятен. Удачи в дальнейшем.",
+          "scoredAt": "2026-10-22T15:31:26.658Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -90953,7 +91037,7 @@
           "scoredAt": "2026-10-16T17:26:30.076Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:14:33.737Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Dripxxx",
       "artistSlug": "dripxxx",
@@ -92466,8 +92550,14 @@
     },
     {
       "userId": "797d06c7-d222-42ff-b9ef-b58564c2baaf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Ну это минус уши. Не понимаю, зачем так уродовать звук, чтобы ничего не было понятно.",
+          "scoredAt": "2026-10-22T15:29:34.550Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -92493,7 +92583,7 @@
           "scoredAt": "2026-10-06T14:35:13.742Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "ОСУШИТЕЛЬ КИСОК 2010",
       "artistSlug": "osushitel-kisok-2010",
@@ -92624,8 +92714,14 @@
     },
     {
       "userId": "07b99e4e-70f1-4215-bbb3-d7d95cba112e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Странная подача, но пусть будет, есть в этом что-то но вот посыл бы усилить в треке",
+          "scoredAt": "2026-10-22T15:24:42.854Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -92651,7 +92747,7 @@
           "scoredAt": "2026-10-09T11:38:20.962Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Big Moorchik",
       "artistSlug": "big-moorchik",
@@ -96009,8 +96105,14 @@
     },
     {
       "userId": "1253a70c-33a0-49e1-b233-a3f3847ff558",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: технично, но мало\nОбщее впечатление: не особо понравился, но попробуй во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:32:23.009Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -96030,7 +96132,7 @@
           "scoredAt": "2026-10-21T21:27:42.306Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "crestrash",
       "artistSlug": "crestrash",
@@ -99458,8 +99560,14 @@
     },
     {
       "userId": "c73f0721-2062-4627-835b-610debc3c90f",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Я слушаю только русский рэп в спортзале (с) а я готова цитировать классика: мне пох, я так чувствую. Поэтому 4 балла за нетривиальность раскрытия и всего. ",
+          "scoredAt": "2026-10-22T15:29:19.563Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -99479,7 +99587,7 @@
           "scoredAt": "2026-10-17T14:24:27.220Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:12:28.148Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "ХУЙ В СТАКАНЕ",
       "artistSlug": "huy-v-stakane",
@@ -101689,8 +101797,14 @@
     },
     {
       "userId": "e3494462-ac89-4dfd-a497-0daa42bea559",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: неплохо читаешь, мне понравилось\nОбщее впечатление: добавь чуть больше фишек, жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:30:06.651Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -101716,7 +101830,7 @@
           "scoredAt": "2026-10-15T12:44:01.670Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Bogdan (DYNAMIT)",
       "artistSlug": "bogdan-dynamit",
@@ -101847,8 +101961,14 @@
     },
     {
       "userId": "573b69ed-38ad-4557-a44b-34e3dd90fa42",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: средний, местами прикольно\nИсполнение: не впечатлил, мало эмоций\nОбщее впечатление: качества не хватило, както слабенько для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:24:12.653Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -101862,7 +101982,7 @@
           "scoredAt": "2026-10-09T17:05:16.725Z"
         }
       ],
-      "fetchedAt": "2026-10-21T17:32:11.520Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "IgoRacks",
       "artistSlug": "igoracks",
@@ -101911,8 +102031,14 @@
     },
     {
       "userId": "d91e558a-9412-4ceb-bdb2-8b571d375c1e",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Не хватило смены ритмики чисто в треке, а в целом не плохо",
+          "scoredAt": "2026-10-22T15:29:51.823Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -101920,7 +102046,7 @@
           "scoredAt": "2026-10-17T17:15:11.370Z"
         }
       ],
-      "fetchedAt": "2026-10-17T17:22:27.536Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "BartlBee (JS)",
       "artistSlug": "bartlbee-js",
@@ -102900,8 +103026,14 @@
     },
     {
       "userId": "febcb6ac-4039-4a16-b291-579b3445dd89",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Попытка в серьёзную социальную лирику понятна, но одних актуальных тем недостаточно, чтобы получился хороший текст. Ни интересных образов, ни убедительной подачи я здесь не услышал.",
+          "scoredAt": "2026-10-22T15:28:40.341Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -102921,7 +103053,7 @@
           "scoredAt": "2026-10-17T12:43:13.924Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "K.O.BVCK",
       "artistSlug": "k-o-bvck",
@@ -104305,8 +104437,14 @@
     },
     {
       "userId": "ba5ab4de-ee2e-4bb9-972a-1eb86de22968",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 1,
+          "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: скучно\nОбщее впечатление: не понравился трек вообще\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:27:12.597Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 1,
@@ -104332,7 +104470,7 @@
           "scoredAt": "2026-10-20T22:07:05.963Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "METPO",
       "artistSlug": "metpo",
@@ -104738,8 +104876,14 @@
     },
     {
       "userId": "37bece09-e42c-4616-bfea-40015ce6a403",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Очень неуверенное исполнение, постоянные проблемы с ритмикой и странно расставленные ударения.",
+          "scoredAt": "2026-10-22T15:23:03.657Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 1,
@@ -104765,7 +104909,7 @@
           "scoredAt": "2026-10-15T12:56:54.191Z"
         }
       ],
-      "fetchedAt": "2026-10-22T01:52:25.486Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Zet Nelson",
       "artistSlug": "zet-nelson",
@@ -105745,8 +105889,14 @@
     },
     {
       "userId": "5b60840c-5ece-4e04-b7c2-7635e9a77c1d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "претензия на баттл рэп. типа что пришел всех выносить, но ни одного панчлайна нет. еще нравится как говорит что ломает ритм, а ни одного ломаного ритма нет ",
+          "scoredAt": "2026-10-22T15:29:09.622Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -105772,7 +105922,7 @@
           "scoredAt": "2026-10-16T19:36:50.641Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Viskarik",
       "artistSlug": "viskarik",
@@ -106395,8 +106545,14 @@
     },
     {
       "userId": "e71b1a65-4f24-4675-a41d-2b815596faba",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 3,
+          "comment": "Спасибо за трек! \nТекст: хорошо зарифмовал\nИсполнение: бодро читаешь\nОбщее впечатление: прикольно звучишь\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:25:05.693Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -106410,7 +106566,7 @@
           "scoredAt": "2026-10-17T19:08:02.229Z"
         }
       ],
-      "fetchedAt": "2026-10-19T23:52:07.123Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Vasya Sumirai",
       "artistSlug": "vasya-sumirai",
@@ -106746,8 +106902,14 @@
     },
     {
       "userId": "e40e4261-bf65-4bce-b289-7a504302ad9b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "легенда ",
+          "scoredAt": "2026-10-22T15:30:45.684Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -106767,7 +106929,7 @@
           "scoredAt": "2026-10-17T18:49:44.118Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Lil’в’УшИ",
       "artistSlug": "lil-v-ushi",
@@ -110066,8 +110228,14 @@
     },
     {
       "userId": "82a80afc-23c7-4b54-acf9-0662684ea922",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: технично зарифмовано, но на этом все\nИсполнение: старнный ломанный флоу\nОбщее впечатление: звук вообще не понравился\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:26:44.843Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -110087,7 +110255,7 @@
           "scoredAt": "2026-10-22T01:50:12.717Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "АРЧБД",
       "artistSlug": "archbd",
@@ -112215,8 +112383,14 @@
     },
     {
       "userId": "0428e5b6-5d31-42c6-b477-a69f85c06749",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "текст слабый. рифмы для рэпа оч скучные. ",
+          "scoredAt": "2026-10-22T15:27:53.398Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -112230,7 +112404,7 @@
           "scoredAt": "2026-10-09T09:03:48.692Z"
         }
       ],
-      "fetchedAt": "2026-10-17T11:22:20.239Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Руслан Ситдыков",
       "artistSlug": "ruslan-sitdykov",
@@ -112882,8 +113056,14 @@
     },
     {
       "userId": "b8b33163-af90-4c0a-aaa5-a1b7ae8b8e69",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Спасибо за трек! \nТекст: неплохо\nИсполнение: добавь чуть больше эмоций\nОбщее впечатление: стиль КГ, прикольно, давай дальше\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:30:57.310Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -112909,7 +113089,7 @@
           "scoredAt": "2026-10-17T14:21:28.630Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:32:20.221Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Benny Baxx",
       "artistSlug": "benny-baxx",
@@ -122469,8 +122649,14 @@
     },
     {
       "userId": "72a9e110-7739-4f6e-ad9e-278275771eb4",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Слушай хорошая работа, немного жирка именно атмосферного и было бы кайф",
+          "scoredAt": "2026-10-22T15:31:52.273Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 4,
@@ -122484,7 +122670,7 @@
           "scoredAt": "2026-10-19T22:51:51.842Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:32:04.274Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "AXIYAMI",
       "artistSlug": "axiyami",
@@ -127223,8 +127409,14 @@
     },
     {
       "userId": "4fc26d5a-7e4a-4ec1-8003-4fc073f69a65",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "норм читает. ударных строк только нет вообще",
+          "scoredAt": "2026-10-22T15:32:09.103Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 4,
@@ -127244,7 +127436,7 @@
           "scoredAt": "2026-10-16T00:25:58.299Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:22:35.984Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "fagundoss",
       "artistSlug": "fagundoss",
@@ -127498,8 +127690,14 @@
     },
     {
       "userId": "3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T15:26:34.889Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -127525,7 +127723,7 @@
           "scoredAt": "2026-10-10T17:27:01.060Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:22:35.984Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Still_ZhZ",
       "artistSlug": "still-zhz",
@@ -127650,8 +127848,14 @@
     },
     {
       "userId": "d234061a-b9c8-4bd9-a12c-bae53bdc1380",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: по тексту какойто харасмент получился\nИсполнение: ну такое себе, мимо бита местами\nОбщее впечатление: не понарвился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:23:04.949Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -127677,7 +127881,7 @@
           "scoredAt": "2026-10-13T18:45:31.123Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Kissloyd",
       "artistSlug": "kissloyd",
@@ -129963,8 +130167,14 @@
     },
     {
       "userId": "8e3fc1ea-7fe0-4e70-9c89-78170f355b40",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: странный текст\nИсполнение: слабенько пока что, неуверенно\nОбщее впечатление: не понарвился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:31:34.689Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -129990,7 +130200,7 @@
           "scoredAt": "2026-10-14T16:44:10.841Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "mwttm",
       "artistSlug": "mwttm",
@@ -131017,8 +131227,14 @@
     },
     {
       "userId": "3f004716-9126-4b22-bdb6-41ddba21fdcf",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "читать умеет. текст оч слабый",
+          "scoredAt": "2026-10-22T15:30:28.413Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -131044,7 +131260,7 @@
           "scoredAt": "2026-10-15T15:07:23.001Z"
         }
       ],
-      "fetchedAt": "2026-10-19T00:12:05.682Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "Сын маминой подруги",
       "artistSlug": "syn-maminoy-podrugi",
@@ -131380,8 +131596,14 @@
     },
     {
       "userId": "526fbc7e-a5d4-4405-897c-21d4ffa5b1a7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "OttO",
+          "score": 2,
+          "comment": "обрадовался сначала думал девушка будет петь. а это сэмпл просто. короч подъездный рэп который плохо сведен. ",
+          "scoredAt": "2026-10-22T15:24:07.577Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -131407,7 +131629,7 @@
           "scoredAt": "2026-10-14T06:52:03.412Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:32:40.361Z",
       "current": true,
       "artistName": "ЖИВИ",
       "artistSlug": "zhivi",
