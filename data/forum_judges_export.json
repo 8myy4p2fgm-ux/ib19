@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-22T00:42:41.966Z",
+  "exportedAt": "2026-10-22T00:52:47.529Z",
   "members": [
     {
       "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
@@ -3559,6 +3559,12 @@
       "userId": "fde76c39-25c3-4dca-8e8e-a38612bc2e1f",
       "veteran": false,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:20.999Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 4,
