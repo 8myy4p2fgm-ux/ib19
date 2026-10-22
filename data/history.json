@@ -175118,6 +175118,216 @@
         "scoredAt": "2026-10-21T23:50:52.942Z",
         "userId": "89a637bb-c415-45f6-94af-86f1c0f8526e"
       }
+    },
+    {
+      "id": "4c7eea8139deb6b9653d710ad37927e224b9568e3aafc277edb1e5cd19a12e8d",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:52:33.068Z",
+      "key": "[\"824cec17-0e59-4df1-9b39-6fe72a3f727e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:52:33.068Z",
+        "userId": "824cec17-0e59-4df1-9b39-6fe72a3f727e"
+      }
+    },
+    {
+      "id": "91eefb8f8c362df705913456ce3c8c8c125bd7b99aca29c800a1896c57cbfc43",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:57:33.938Z",
+      "key": "[\"b4ffb856-e1e4-4dbf-81e4-43a5602d50bb\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "прикольно, но рэпа маловато дядька, давай во 2 побольше аутентичности жанра ",
+        "scoredAt": "2026-10-21T23:57:33.938Z",
+        "userId": "b4ffb856-e1e4-4dbf-81e4-43a5602d50bb"
+      }
+    },
+    {
+      "id": "efc99347681bd6988db9af290160550fe2bd198330ff5995ef118c42739b3330",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:58:03.026Z",
+      "key": "[\"a081d3ee-0931-420d-a1bd-70f0e4d86ec9\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "Дядька ты же прошлый сезон выиграл, зачем тебе в этом участвовать ? ",
+        "scoredAt": "2026-10-21T23:58:03.026Z",
+        "userId": "a081d3ee-0931-420d-a1bd-70f0e4d86ec9"
+      }
+    },
+    {
+      "id": "2119b28e2844a88bfbb32fde1f0003c899fbf293e98d868431d23a9e01c2eb3e",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:56:24.835Z",
+      "key": "[\"880b7233-62ab-4732-bcfa-a89838789f08\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:56:24.835Z",
+        "userId": "880b7233-62ab-4732-bcfa-a89838789f08"
+      }
+    },
+    {
+      "id": "8a3d0c38548249dbbf826327352b8a47c6807c6f76ad49db28f6d0e19b9cf750",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:55:53.546Z",
+      "key": "[\"e5adc7c0-1e5c-49f1-bde7-dee42d7e6722\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "прикольно, правда кажется, что я судил твой виртуал =О ",
+        "scoredAt": "2026-10-21T23:55:53.546Z",
+        "userId": "e5adc7c0-1e5c-49f1-bde7-dee42d7e6722"
+      }
+    },
+    {
+      "id": "806187db500558454b639fe32ba9be13e652944be289f90aedae74d2863e33a7",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:53:27.705Z",
+      "key": "[\"007a32a3-3094-43bf-8ee3-79f6094dd3e6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "НУЖНО СВЕДЕНИЕ, эх ",
+        "scoredAt": "2026-10-21T23:53:27.705Z",
+        "userId": "007a32a3-3094-43bf-8ee3-79f6094dd3e6"
+      }
+    },
+    {
+      "id": "22906db46439bc67d04f948c2fd622622ed38480b04f470f2375339b6a1d712b",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:59:22.197Z",
+      "key": "[\"42500dba-c38f-4ae1-a4bc-0b488c488c31\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "неплохо",
+        "scoredAt": "2026-10-21T23:59:22.197Z",
+        "userId": "42500dba-c38f-4ae1-a4bc-0b488c488c31"
+      }
+    },
+    {
+      "id": "6ba5faacc60c8a937750d9b03aeeebdd76aa5ee4fb934ca34a896e9750c42d56",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:58:26.572Z",
+      "key": "[\"0f071284-eea0-4941-9246-8830746af1ff\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:58:26.572Z",
+        "userId": "0f071284-eea0-4941-9246-8830746af1ff"
+      }
+    },
+    {
+      "id": "5c91deb1c6e83a17a793cb89a3b72cacc9ac5c67ea02bfadef3f8e0f54666b61",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:53:43.265Z",
+      "key": "[\"e35b710b-88e8-43eb-84a5-aeff168eb7c3\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:53:43.265Z",
+        "userId": "e35b710b-88e8-43eb-84a5-aeff168eb7c3"
+      }
+    },
+    {
+      "id": "4c24749db34ddd4f2ef6456e61c40c5f516487ced1c24ee85ad81205bf6ae8f4",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:56:50.020Z",
+      "key": "[\"f87d0662-a837-4185-a4a8-84b1ec2cba99\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:56:50.020Z",
+        "userId": "f87d0662-a837-4185-a4a8-84b1ec2cba99"
+      }
+    },
+    {
+      "id": "72cd6b80deb865fcc08d5a4b204d60aa9e740a3589890d2378470113861889ad",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:55:04.593Z",
+      "key": "[\"6badf78c-45fb-47d0-a741-726c70a68e5f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:55:04.593Z",
+        "userId": "6badf78c-45fb-47d0-a741-726c70a68e5f"
+      }
+    },
+    {
+      "id": "396b21d8f44af2e04d30a9860fa0292da501bb2e09211a42b8396a3529b23b8b",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:54:45.362Z",
+      "key": "[\"5dfc29a2-2241-4a2e-a123-4b96cd0381a7\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:54:45.362Z",
+        "userId": "5dfc29a2-2241-4a2e-a123-4b96cd0381a7"
+      }
+    },
+    {
+      "id": "15722069037be016fc704a42771ea8ae73d72055d702920d35118792ab3ca896",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:54:34.258Z",
+      "key": "[\"cc3c332d-709c-4c18-8d0a-2a362bc2149b\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-21T23:54:34.258Z",
+        "userId": "cc3c332d-709c-4c18-8d0a-2a362bc2149b"
+      }
+    },
+    {
+      "id": "789da7094672b1ccb56e54205eb462ef4ad57d9a64534d4fb5ecf809f0e46ed0",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-21T23:54:12.738Z",
+      "key": "[\"95ddef68-cec2-480e-b24d-df7393648639\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "хз, с натяжкой в надежде на норм звук",
+        "scoredAt": "2026-10-21T23:54:12.738Z",
+        "userId": "95ddef68-cec2-480e-b24d-df7393648639"
+      }
+    },
+    {
+      "id": "8985ba9c2966e86c86144375f7ccf0100c9c5917db9fdf6e1d241b955950769b",
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "sourceScoredAt": "2026-10-22T00:01:08.869Z",
+      "key": "[\"4736435a-3790-4870-8078-35b1015c4a94\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "не, ну а нахуя мне достается решающая роль, когда я досуживаю за остальными ? Правильно ? \n\nДавай во 2 более на технику, без сторитела и размеренной читки, чтобы показать всего себя. \nи рифмы чтоб ебали всех и вся))) ",
+        "scoredAt": "2026-10-22T00:01:08.869Z",
+        "userId": "4736435a-3790-4870-8078-35b1015c4a94"
+      }
     }
   ],
   "snapshots": [
@@ -190257,6 +190467,26 @@
           "index": 31.716757638246342,
           "favor": 17.932229902401527,
           "attention": 3.186701648888293,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T00:02:22.145Z",
+      "exportedAt": "2026-10-22T00:02:22.145Z",
+      "scores": 15482,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.306957387269634,
+          "favor": 8.658546591772243,
+          "attention": 5.701665233367211,
+          "respect": 5.946745562130178
+        },
+        "veterans": {
+          "index": 31.73169170307441,
+          "favor": 17.931509838146617,
+          "attention": 3.2023557779712752,
           "respect": 10.597826086956522
         }
       }

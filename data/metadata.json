@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-21T23:52:07.872Z",
-  "exportedAt": "2026-10-21T23:52:07.872Z",
-  "runId": "2026-10-21T23:52:07.872Z",
-  "forumExportedAt": "2026-10-21T23:52:07.872Z",
+  "lastSuccessfulAt": "2026-10-22T00:02:22.145Z",
+  "exportedAt": "2026-10-22T00:02:22.145Z",
+  "runId": "2026-10-22T00:02:22.145Z",
+  "forumExportedAt": "2026-10-22T00:02:22.145Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15467,
+    "scores": 15482,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 18,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 5,
+    "updatedCards": 15,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 8,
-    "durationMs": 8205,
-    "scoresBefore": 15462,
-    "scoresAfter": 15467,
+    "participantsWithNewScores": 15,
+    "changedParticipants": 15,
+    "logicalRequests": 18,
+    "durationMs": 18072,
+    "scoresBefore": 15467,
+    "scoresAfter": 15482,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.75594874923735,
+    "requestReductionPercent": 99.45088468578402,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,108 +97,108 @@
       "feed": [
         {
           "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Никита Лазарев",
-          "comment": "сведос бы сюда",
-          "scoredAt": "2026-10-21T23:51:56.096Z"
+          "score": 4,
+          "artist": "Cringenaringe",
+          "comment": "не, ну а нахуя мне достается решающая роль, когда я досуживаю за остальными ? Правильно ? \n\nДавай во 2 более на технику, без сторитела и размеренной читки, чтобы показать всего себя. \nи рифмы чтоб ебали всех и вся))) ",
+          "scoredAt": "2026-10-22T00:01:08.869Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Неон [Категория_Состояния]",
+          "comment": "неплохо",
+          "scoredAt": "2026-10-21T23:59:22.197Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "ШизоФРениЯ.ВерКБунД",
+          "artist": "Сергей(МС ТИХО)",
           "comment": "",
-          "scoredAt": "2026-10-21T23:51:31.555Z"
+          "scoredAt": "2026-10-21T23:58:26.572Z"
         },
         {
           "judgeName": "KseroN",
-          "score": 2,
-          "artist": "FHEJIE3O6ETOHHbIN MC",
+          "score": 3,
+          "artist": "KARABYN",
+          "comment": "Дядька ты же прошлый сезон выиграл, зачем тебе в этом участвовать ? ",
+          "scoredAt": "2026-10-21T23:58:03.026Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "DKReggy",
+          "comment": "прикольно, но рэпа маловато дядька, давай во 2 побольше аутентичности жанра ",
+          "scoredAt": "2026-10-21T23:57:33.938Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Не выговорил",
           "comment": "",
-          "scoredAt": "2026-10-21T23:51:09.758Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "YURRRA NECHAY",
-          "comment": "Рифмы конеш такие себе, нужен - ужин",
-          "scoredAt": "2026-10-21T23:50:52.942Z"
+          "scoredAt": "2026-10-21T23:56:50.020Z"
         },
         {
           "judgeName": "KseroN",
           "score": 3,
-          "artist": "Частый Лодырь",
+          "artist": "Lobo",
           "comment": "",
-          "scoredAt": "2026-10-21T23:50:12.408Z"
+          "scoredAt": "2026-10-21T23:56:24.835Z"
         },
         {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "SAVA",
-          "comment": "Если бы сменил конструкцию пару раз, была бы выше оценка. Подаёшь хорошо, рифмы усиляй ",
-          "scoredAt": "2026-10-21T23:14:24.694Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "BlueTit",
-          "comment": "Зря потратила начало на лалала))  дальше - рифмы слабое место, как и конструкция квадратом( ",
-          "scoredAt": "2026-10-21T23:13:00.654Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "artist": "Чикмарь",
-          "comment": "есть в этом что-то... если бы чутка понятнее, но в целом имеет место. Сильный упор на созвучия",
-          "scoredAt": "2026-10-21T23:11:57.730Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
+          "judgeName": "KseroN",
           "score": 4,
-          "artist": "Витя Шихан",
-          "comment": "Красава, концепция хорошая... он слушается за счёт этого, при относительной работе с подачей и рифмами. Подниму до 4",
-          "scoredAt": "2026-10-21T23:09:45.017Z"
+          "artist": "2theexit",
+          "comment": "прикольно, правда кажется, что я судил твой виртуал =О ",
+          "scoredAt": "2026-10-21T23:55:53.546Z"
         },
         {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "Zet Nelson",
-          "comment": "Опять же, есть понимание как писать.. просто научить это заворачивать в приятную оболочку ",
-          "scoredAt": "2026-10-21T23:08:16.819Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
+          "judgeName": "KseroN",
           "score": 3,
-          "artist": "illilith",
-          "comment": "Есть в тексте достаточно, по наполнению, даже, в моменте, конструкцию поменял... но подача не даёт поставить высокую оценку. Правда дослушав я поднял до 3",
-          "scoredAt": "2026-10-21T23:07:28.401Z"
+          "artist": "Медоед",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:55:04.593Z"
         },
         {
-          "judgeName": "Мультифрукт",
+          "judgeName": "KseroN",
+          "score": 4,
+          "artist": "Пуля Патроно",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:54:45.362Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 1,
+          "artist": "IWNBTTW",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:54:34.258Z"
+        },
+        {
+          "judgeName": "KseroN",
           "score": 3,
-          "artist": "СТАЛИНА ЦЕЛЛОФАН",
-          "comment": "Ну текстуль угарный, базара зиро, думал даже над 4-ой, но в подаче все же надо хоть какой-то напор иметь, тут уж слишком это говорилки получилось.",
-          "scoredAt": "2026-10-21T23:06:25.060Z"
+          "artist": "Tales",
+          "comment": "хз, с натяжкой в надежде на норм звук",
+          "scoredAt": "2026-10-21T23:54:12.738Z"
         },
         {
-          "judgeName": "Игорь Кедо",
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "chapai",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:53:43.265Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Убийца mp3",
+          "comment": "НУЖНО СВЕДЕНИЕ, эх ",
+          "scoredAt": "2026-10-21T23:53:27.705Z"
+        },
+        {
+          "judgeName": "KseroN",
           "score": 4,
-          "artist": "Икс Сайв",
-          "comment": "юмор - всегда риспик \nсделал налегке, но слушается круто ",
-          "scoredAt": "2026-10-21T23:05:52.167Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 2,
-          "artist": "JSON B",
-          "comment": "По наполнению - норм, но дальше начинаю смотреть через призму исполнения, а там слабо ( тренируем ",
-          "scoredAt": "2026-10-21T23:04:09.040Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 4,
-          "artist": "Ствол Кро",
-          "comment": "Достойная работа с созвучиями. ",
-          "scoredAt": "2026-10-21T23:03:09.458Z"
+          "artist": "Черный котэ",
+          "comment": "",
+          "scoredAt": "2026-10-21T23:52:33.068Z"
         }
       ]
     }
