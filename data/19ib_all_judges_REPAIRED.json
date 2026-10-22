@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T01:02:03.289Z",
+  "exportedAt": "2026-10-22T01:12:04.641Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -29643,8 +29643,14 @@
     },
     {
       "userId": "f9e9d5ec-447b-42e3-84d0-843d84e34f50",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "comment": "Тречик не дальше отбора. Биомасса протоплазма.",
+          "scoredAt": "2026-10-22T01:10:28.563Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -29664,7 +29670,7 @@
           "scoredAt": "2026-09-30T15:58:40.604Z"
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:19.160Z",
+      "fetchedAt": "2026-10-22T01:12:04.641Z",
       "current": true,
       "artistName": "Паша Мисакович",
       "artistSlug": "pasha-misakovich",

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T01:02:03.289Z",
-  "exportedAt": "2026-10-22T01:02:03.289Z",
-  "runId": "2026-10-22T01:02:03.289Z",
-  "forumExportedAt": "2026-10-22T01:02:03.289Z",
+  "lastSuccessfulAt": "2026-10-22T01:12:04.641Z",
+  "exportedAt": "2026-10-22T01:12:04.641Z",
+  "runId": "2026-10-22T01:12:04.641Z",
+  "forumExportedAt": "2026-10-22T01:12:04.641Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15643,
+    "scores": 15644,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 8,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 5,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 5,
-    "changedParticipants": 5,
-    "logicalRequests": 8,
-    "durationMs": 8221,
-    "scoresBefore": 15638,
-    "scoresAfter": 15643,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4014,
+    "scoresBefore": 15643,
+    "scoresAfter": 15644,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 99.75594874923735,
+    "requestReductionPercent": 99.87797437461867,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "artist": "Паша Мисакович",
+          "comment": "Тречик не дальше отбора. Биомасса протоплазма.",
+          "scoredAt": "2026-10-22T01:10:28.563Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 5,
@@ -192,13 +199,6 @@
           "artist": "КАКТУС777",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
           "scoredAt": "2026-10-22T00:49:30.362Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "KARABYN",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:49:18.219Z"
         }
       ]
     }
