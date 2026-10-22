@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T01:52:25.486Z",
+  "exportedAt": "2026-10-22T02:02:50.609Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -14362,8 +14362,14 @@
     },
     {
       "userId": "c4b2976a-a164-4278-af23-c6cb84997ca2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:59:02.919Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -14389,7 +14395,7 @@
           "scoredAt": "2026-10-16T14:17:48.801Z"
         }
       ],
-      "fetchedAt": "2026-10-21T17:12:04.875Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Barsel",
       "artistSlug": "barsel",
@@ -17401,8 +17407,14 @@
     },
     {
       "userId": "71b0a43e-8a13-40de-aad4-958548ad07f5",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Хорошо!",
+          "scoredAt": "2026-10-22T01:55:00.857Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -17428,7 +17440,7 @@
           "scoredAt": "2026-10-16T09:51:09.144Z"
         }
       ],
-      "fetchedAt": "2026-10-21T21:52:16.199Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Languid",
       "artistSlug": "languid",
@@ -21137,8 +21149,14 @@
     },
     {
       "userId": "908b1571-e2cc-4d98-9ed8-dd951504f24f",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "ну ок",
+          "scoredAt": "2026-10-22T01:53:36.407Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -21146,7 +21164,7 @@
           "scoredAt": "2026-10-20T10:19:37.697Z"
         }
       ],
-      "fetchedAt": "2026-10-20T10:22:17.645Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "МС Не молодой",
       "artistSlug": "ms-ne-molodoy",
@@ -23209,8 +23227,14 @@
     },
     {
       "userId": "69cb1e17-d234-494e-8766-30aeae8f6e63",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:52:50.158Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -23236,7 +23260,7 @@
           "scoredAt": "2026-08-30T22:49:09.939Z"
         }
       ],
-      "fetchedAt": "2026-10-21T23:11:56.118Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "JSON B",
       "artistSlug": "json-b",
@@ -31740,8 +31764,14 @@
     },
     {
       "userId": "2ff5fb55-48a0-4b58-98a9-d0c42c49a6ea",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:55:28.718Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -31767,7 +31797,7 @@
           "scoredAt": "2026-09-17T14:40:19.993Z"
         }
       ],
-      "fetchedAt": "2026-10-20T10:22:17.645Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Novidel",
       "artistSlug": "novidel",
@@ -39510,8 +39540,14 @@
     },
     {
       "userId": "3bf3a2bc-ed42-4dc3-96b7-8284bc7a8fbe",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:54:32.038Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -39531,7 +39567,7 @@
           "scoredAt": "2026-09-24T11:38:44.525Z"
         }
       ],
-      "fetchedAt": "2026-10-17T00:12:01.113Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "YAGJI",
       "artistSlug": "yagji",
@@ -39691,8 +39727,14 @@
     },
     {
       "userId": "dc53e2fe-6f44-4265-a4d5-f25ee3a3b94b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T01:57:27.207Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -39718,7 +39760,7 @@
           "scoredAt": "2026-10-14T09:08:58.925Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:22:19.921Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "ЭФИРР",
       "artistSlug": "efirr",
@@ -54327,8 +54369,14 @@
     },
     {
       "userId": "b9669e36-5842-4069-b53e-25d39d6719d3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:02:46.886Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -54354,7 +54402,7 @@
           "scoredAt": "2026-09-24T15:13:55.693Z"
         }
       ],
-      "fetchedAt": "2026-10-17T13:12:25.963Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Винчи",
       "artistSlug": "vinchi",
@@ -57079,8 +57127,14 @@
     },
     {
       "userId": "f34953f5-04ae-4826-b2a1-cc65d261bac7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Ловлю диссонанс, когда слышу такую типа \"понтовую\" и хулиганскую подачу, а мне рассказывают какой-то полу-сторителлинг с ужасными рифмами. Мб, это только у меня такое восприятие? Зачитал обычно-базово, но без \"вау-эффектов\". Возможно, если бы ты поиграл с интонациями и лучше вошел в роль, история воспринималась бы намного органичнее.",
+          "scoredAt": "2026-10-22T01:53:54.501Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -57106,7 +57160,7 @@
           "scoredAt": "2026-10-12T05:17:59.684Z"
         }
       ],
-      "fetchedAt": "2026-10-22T01:52:25.486Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "DJOUL killa",
       "artistSlug": "djoul-killa",
@@ -58343,8 +58397,14 @@
     },
     {
       "userId": "c0088173-abe0-4e33-be7d-b435b7228cc0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "заебись",
+          "scoredAt": "2026-10-22T02:00:25.840Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 5,
@@ -58370,7 +58430,7 @@
           "scoredAt": "2026-09-30T09:47:22.835Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:52:26.085Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "nickpwr",
       "artistSlug": "nickpwr",
@@ -61306,8 +61366,14 @@
     },
     {
       "userId": "a6d2d308-cb09-4187-aa0f-5ef4c75ed352",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:01:08.968Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -61327,7 +61393,7 @@
           "scoredAt": "2026-10-15T11:47:57.798Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:12:33.688Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Moon Ami",
       "artistSlug": "moon-ami",
@@ -63992,8 +64058,14 @@
     },
     {
       "userId": "ad7db469-9214-4d59-831c-c48eae2affa5",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:54:23.810Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -64013,7 +64085,7 @@
           "scoredAt": "2026-10-13T19:29:33.421Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:42:34.897Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "mc Nefa",
       "artistSlug": "mc-nefa",
@@ -67861,8 +67933,14 @@
     },
     {
       "userId": "a216bd1c-6da0-4d4a-addf-0c833efb5c50",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Хорошо!",
+          "scoredAt": "2026-10-22T02:01:37.828Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -67882,7 +67960,7 @@
           "scoredAt": "2026-10-06T14:11:10.173Z"
         }
       ],
-      "fetchedAt": "2026-10-21T15:52:12.017Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Leonadrio",
       "artistSlug": "leonadrio",
@@ -71700,8 +71778,14 @@
     },
     {
       "userId": "af53e214-2887-4ef8-907e-a53f58505577",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:59:23.707Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -71727,7 +71811,7 @@
           "scoredAt": "2026-09-27T22:05:28.705Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:02:05.180Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "песок",
       "artistSlug": "pesok",
@@ -72127,8 +72211,14 @@
     },
     {
       "userId": "da2d997d-c984-480e-a30a-c00e24667962",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:55:08.600Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 2,
@@ -72154,7 +72244,7 @@
           "scoredAt": "2026-09-24T21:23:12.236Z"
         }
       ],
-      "fetchedAt": "2026-10-19T00:12:05.682Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "МЦ КТК",
       "artistSlug": "mc-ktk",
@@ -73485,8 +73575,14 @@
     },
     {
       "userId": "09179686-5b41-4998-9564-50ccff202172",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "клево",
+          "scoredAt": "2026-10-22T02:00:07.039Z"
+        },
         {
           "judgeName": "OttO",
           "score": 4,
@@ -73500,7 +73596,7 @@
           "scoredAt": "2026-10-17T14:33:05.328Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:42:34.897Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Stazy",
       "artistSlug": "stazy",
@@ -74058,8 +74154,14 @@
     },
     {
       "userId": "996feee0-429f-42e5-a11d-baa19b285d34",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:02:31.638Z"
+        },
         {
           "judgeName": "H1GH",
           "score": 4,
@@ -74085,7 +74187,7 @@
           "scoredAt": "2026-09-24T14:42:40.099Z"
         }
       ],
-      "fetchedAt": "2026-10-16T06:42:54.489Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "MONOGROME",
       "artistSlug": "monogrome",
@@ -84956,8 +85058,14 @@
     },
     {
       "userId": "52562e5e-e3f8-4575-8527-789a3966d840",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:01:00.618Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 2,
@@ -84977,7 +85085,7 @@
           "scoredAt": "2026-09-24T17:42:49.748Z"
         }
       ],
-      "fetchedAt": "2026-10-21T11:32:14.454Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Almaz",
       "artistSlug": "almaz",
@@ -87888,8 +87996,14 @@
     },
     {
       "userId": "ccf3f66b-d2da-4d47-ae11-9ef724fe3361",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:02:21.367Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 2,
@@ -87915,7 +88029,7 @@
           "scoredAt": "2026-10-02T06:27:41.127Z"
         }
       ],
-      "fetchedAt": "2026-10-16T19:32:26.602Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "WAX",
       "artistSlug": "wax",
@@ -88122,8 +88236,14 @@
     },
     {
       "userId": "06451a74-2794-4802-bd8c-7c87885d5eb2",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:58:34.277Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -88149,7 +88269,7 @@
           "scoredAt": "2026-09-28T16:57:57.912Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Тони Рэд",
       "artistSlug": "toni-red",
@@ -92247,8 +92367,14 @@
     },
     {
       "userId": "a0ae1538-9b55-46bf-b656-60a4724eb1da",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:53:54.237Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -92274,7 +92400,7 @@
           "scoredAt": "2026-10-09T15:55:47.908Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Джазу",
       "artistSlug": "dzhazu",
@@ -96120,8 +96246,14 @@
     },
     {
       "userId": "60ed8d85-f155-4ebe-aa1a-23a74340b53a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:02:08.667Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -96147,7 +96279,7 @@
           "scoredAt": "2026-10-17T11:40:24.603Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:12:32.505Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Stepauv",
       "artistSlug": "stepauv",
@@ -97683,8 +97815,14 @@
     },
     {
       "userId": "6156c9c2-2471-4f9a-a8ad-50c9b7857fe1",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "Хорошо!",
+          "scoredAt": "2026-10-22T01:54:53.556Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -97710,7 +97848,7 @@
           "scoredAt": "2026-09-24T15:09:56.038Z"
         }
       ],
-      "fetchedAt": "2026-10-20T21:02:23.365Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "s.a.c.s.p.",
       "artistSlug": "s-a-c-s-p",
@@ -97952,8 +98090,14 @@
     },
     {
       "userId": "94a56fcb-020b-477c-9973-b97aa7fe79cd",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:56:41.027Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -97979,7 +98123,7 @@
           "scoredAt": "2026-10-03T17:11:06.395Z"
         }
       ],
-      "fetchedAt": "2026-10-18T10:52:42.433Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "karrat",
       "artistSlug": "karrat",
@@ -100117,8 +100261,14 @@
     },
     {
       "userId": "86b6e317-c979-4e42-85cc-c4a05e2368ad",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:00:49.197Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -100144,7 +100294,7 @@
           "scoredAt": "2026-09-30T17:37:05.604Z"
         }
       ],
-      "fetchedAt": "2026-10-19T21:52:26.085Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Destroy MC",
       "artistSlug": "destroy-mc",
@@ -106732,8 +106882,14 @@
     },
     {
       "userId": "91516f03-e92c-4b9c-b858-e550e8aa1b2d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:01:58.046Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -106753,7 +106909,7 @@
           "scoredAt": "2026-10-17T11:52:15.023Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:12:17.280Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Dima Dz",
       "artistSlug": "dima-dz",
@@ -108171,8 +108327,14 @@
     },
     {
       "userId": "5ab336de-4472-4311-80b7-ac5d61a40b7c",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:57:53.217Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -108186,7 +108348,7 @@
           "scoredAt": "2026-10-16T06:45:47.913Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:02:15.893Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "brooxwood",
       "artistSlug": "brooxwood",
@@ -109586,8 +109748,14 @@
     },
     {
       "userId": "2cc67e6c-e005-45ba-90f3-c72b0d991ac0",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T01:55:41.325Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 1,
@@ -109613,7 +109781,7 @@
           "scoredAt": "2026-10-14T15:20:51.178Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "На ваш батл шляпу хуевый трек",
       "artistSlug": "na-vash-batl-shlyapu-huevyy-trek",
@@ -109662,8 +109830,14 @@
     },
     {
       "userId": "5d3f59e6-c560-4dca-8403-fc5f600af5af",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "😍😍😍",
+          "scoredAt": "2026-10-22T01:57:12.905Z"
+        },
         {
           "judgeName": "OttO",
           "score": 3,
@@ -109689,7 +109863,7 @@
           "scoredAt": "2026-10-09T11:54:31.828Z"
         }
       ],
-      "fetchedAt": "2026-10-21T17:22:20.230Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "EZ Vibe",
       "artistSlug": "ez-vibe",
@@ -109896,8 +110070,14 @@
     },
     {
       "userId": "41f7b9e6-909b-4171-84de-ec18f943e0ae",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "Обычный, стабильный, нормальный андер без явных колкостей и интересностей в тексте.",
+          "scoredAt": "2026-10-22T02:01:23.226Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 4,
@@ -109923,7 +110103,7 @@
           "scoredAt": "2026-10-12T10:04:53.762Z"
         }
       ],
-      "fetchedAt": "2026-10-20T22:02:21.605Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Antony Atom",
       "artistSlug": "antony-atom",
@@ -115688,8 +115868,14 @@
     },
     {
       "userId": "c914269b-1418-47b7-ae3d-a34a0a1bdb4b",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:57:46.349Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -115709,7 +115895,7 @@
           "scoredAt": "2026-10-09T14:54:04.482Z"
         }
       ],
-      "fetchedAt": "2026-10-20T15:12:27.630Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "локомотив",
       "artistSlug": "lokomotiv",
@@ -116319,8 +116505,14 @@
     },
     {
       "userId": "9800d35a-8e95-4dd9-9436-455e4c0f3389",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:58:06.867Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 5,
@@ -116346,7 +116538,7 @@
           "scoredAt": "2026-10-12T15:38:08.925Z"
         }
       ],
-      "fetchedAt": "2026-10-18T20:21:54.714Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "КРЭНГ",
       "artistSlug": "kreng",
@@ -120789,8 +120981,14 @@
     },
     {
       "userId": "c228a5fb-13ba-4d33-bd45-ebf93a772569",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:53:04.137Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -120816,7 +121014,7 @@
           "scoredAt": "2026-10-07T16:58:48.120Z"
         }
       ],
-      "fetchedAt": "2026-10-21T02:02:08.689Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Joseph_Prince",
       "artistSlug": "joseph-prince",
@@ -120900,8 +121098,14 @@
     },
     {
       "userId": "5559ff91-1ef8-4d2a-8711-12972cd0f647",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:56:06.956Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 2,
@@ -120927,7 +121131,7 @@
           "scoredAt": "2026-10-16T06:15:47.498Z"
         }
       ],
-      "fetchedAt": "2026-10-20T12:32:14.883Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "BIKMET",
       "artistSlug": "bikmet",
@@ -121099,8 +121303,14 @@
     },
     {
       "userId": "8a12729d-9778-4014-bd00-ad591aef5151",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:56:14.779Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 4,
@@ -121114,7 +121324,7 @@
           "scoredAt": "2026-10-06T16:53:00.463Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "M∑gabyte",
       "artistSlug": "m-gabyte",
@@ -121356,8 +121566,14 @@
     },
     {
       "userId": "cf687b28-8dbf-43af-86d6-d1ef1dba823b",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T01:53:42.696Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 4,
@@ -121365,7 +121581,7 @@
           "scoredAt": "2026-10-16T16:12:02.251Z"
         }
       ],
-      "fetchedAt": "2026-10-16T16:12:28.383Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Жирно Нарычал",
       "artistSlug": "zhirno-narychal",
@@ -122731,8 +122947,14 @@
     },
     {
       "userId": "5c4deb77-6eeb-4982-90c0-63789f4e8f44",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:54:00.787Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -122752,7 +122974,7 @@
           "scoredAt": "2026-10-17T16:06:53.410Z"
         }
       ],
-      "fetchedAt": "2026-10-21T21:42:18.284Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Скаймартиника",
       "artistSlug": "skaymartinika",
@@ -122918,8 +123140,14 @@
     },
     {
       "userId": "9dad8f9b-4b51-4989-b6b6-532c470e160a",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:55:49.466Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -122945,7 +123173,7 @@
           "scoredAt": "2026-10-14T20:18:01.618Z"
         }
       ],
-      "fetchedAt": "2026-10-21T14:42:34.897Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Big Ballz Boy",
       "artistSlug": "big-ballz-boy",
@@ -123544,8 +123772,14 @@
     },
     {
       "userId": "10daf843-62ec-4507-b6ef-d8499f4fb89d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:56:20.287Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -123559,7 +123793,7 @@
           "scoredAt": "2026-10-12T21:02:47.886Z"
         }
       ],
-      "fetchedAt": "2026-10-14T12:22:03.028Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "whitespar",
       "artistSlug": "whitespar",
@@ -124211,8 +124445,14 @@
     },
     {
       "userId": "689966f7-8f95-4ba6-8e0f-8398b29639dd",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:01:50.301Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 5,
@@ -124232,7 +124472,7 @@
           "scoredAt": "2026-10-13T18:47:30.784Z"
         }
       ],
-      "fetchedAt": "2026-10-16T13:22:32.827Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Скрэт",
       "artistSlug": "skret",
@@ -125912,8 +126152,14 @@
     },
     {
       "userId": "ea7e9a04-576e-4444-9bdb-2bc32ad8bdbe",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T02:00:40.531Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -125939,7 +126185,7 @@
           "scoredAt": "2026-10-02T18:09:39.593Z"
         }
       ],
-      "fetchedAt": "2026-10-17T15:22:24.346Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "Каталонец",
       "artistSlug": "katalonec",
@@ -129950,8 +130196,14 @@
     },
     {
       "userId": "8f7847e1-87e9-4f91-8875-b3ae0d992921",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 2,
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T01:57:39.706Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -129965,7 +130217,7 @@
           "scoredAt": "2026-10-12T18:05:19.968Z"
         }
       ],
-      "fetchedAt": "2026-10-16T17:32:25.658Z",
+      "fetchedAt": "2026-10-22T02:02:50.609Z",
       "current": true,
       "artistName": "СтанциЯ_RiP",
       "artistSlug": "stanciya-rip",
