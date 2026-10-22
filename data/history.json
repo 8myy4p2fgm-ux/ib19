@@ -175328,6 +175328,314 @@
         "scoredAt": "2026-10-22T00:01:08.869Z",
         "userId": "4736435a-3790-4870-8078-35b1015c4a94"
       }
+    },
+    {
+      "id": "dca58ab568c17b8c432dc3f83fdff186f63c96f6e28095dc7231560d00c856b9",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:10:35.414Z",
+      "key": "[\"ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:10:35.414Z",
+        "userId": "ba5f4c2f-ef75-4cc4-b0c9-9934ff0b4e17"
+      }
+    },
+    {
+      "id": "67b4ef66a0dc6631c776b3cae6541763cb992a79110a1e303df77efdb2e92c0f",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:07:53.669Z",
+      "key": "[\"b3db6542-bbf9-47df-b297-b1b3f8f44266\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:07:53.669Z",
+        "userId": "b3db6542-bbf9-47df-b297-b1b3f8f44266"
+      }
+    },
+    {
+      "id": "986956030ef8ea8acdada8e6d672f640ac2903850cad13b6d64d0b1162d24b93",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:02:58.078Z",
+      "key": "[\"f0c40935-c712-48fb-b135-32fffe9ad1b6\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:02:58.078Z",
+        "userId": "f0c40935-c712-48fb-b135-32fffe9ad1b6"
+      }
+    },
+    {
+      "id": "6a6cdf8acda5f931a08fece92b196523d7b52cb555122e2996b3bce3375c809f",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:09:11.822Z",
+      "key": "[\"82e316f7-4a9b-4e45-ab28-9237e5affea7\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:09:11.822Z",
+        "userId": "82e316f7-4a9b-4e45-ab28-9237e5affea7"
+      }
+    },
+    {
+      "id": "ab9af80ab4799a59a3480e27f5b47013245f95e0d3ed3462743f7f749cfd4803",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:10:01.966Z",
+      "key": "[\"0c0a0df2-1e42-46f8-b3bd-10013be236dd\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:10:01.966Z",
+        "userId": "0c0a0df2-1e42-46f8-b3bd-10013be236dd"
+      }
+    },
+    {
+      "id": "19955db936270a3af45c5ba3c0e60b884d2c22ae07ca7afaf0090d4a330bd73b",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:06:15.293Z",
+      "key": "[\"66596771-9420-42a8-8329-21c5e2231a5e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:06:15.293Z",
+        "userId": "66596771-9420-42a8-8329-21c5e2231a5e"
+      }
+    },
+    {
+      "id": "dbe132cb51b818d1120239fd8b4e244ec8e5297d82c92d348df753a8f1b836b5",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:03:18.272Z",
+      "key": "[\"63829435-9c3b-4bbb-a97f-1137c5ed5652\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:03:18.272Z",
+        "userId": "63829435-9c3b-4bbb-a97f-1137c5ed5652"
+      }
+    },
+    {
+      "id": "afed8fb71d8ed348d5fc77088f190bee3570d0a79ca8117a3efd93172e6a004f",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:07:02.189Z",
+      "key": "[\"a7beab4b-8d4c-42a5-b45a-827dc8fbc035\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:07:02.189Z",
+        "userId": "a7beab4b-8d4c-42a5-b45a-827dc8fbc035"
+      }
+    },
+    {
+      "id": "ee877dc7dd3d303d0434cb3cb559a5783f3939e6eeb296f39f06e2fdb2328354",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:09:26.445Z",
+      "key": "[\"70d31563-9c37-427c-9c9b-fc5a3614ab5d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:09:26.445Z",
+        "userId": "70d31563-9c37-427c-9c9b-fc5a3614ab5d"
+      }
+    },
+    {
+      "id": "984ece1b48196aabcbc299980e2acc66d52fc50cee94ae0c491b0035cd8441d2",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:04:00.745Z",
+      "key": "[\"4efd7732-7d91-4520-869e-5fb16549a509\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:04:00.745Z",
+        "userId": "4efd7732-7d91-4520-869e-5fb16549a509"
+      }
+    },
+    {
+      "id": "d9b023cf5283d357152ef91c8a5e466afd52f1337b82050c83bb7c941355cd83",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:08:48.765Z",
+      "key": "[\"d3eb2b38-317d-4efc-9220-4d4514ad4284\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "не плакай дядька! ",
+        "scoredAt": "2026-10-22T00:08:48.765Z",
+        "userId": "d3eb2b38-317d-4efc-9220-4d4514ad4284"
+      }
+    },
+    {
+      "id": "dacc5ac96974dad5f2d9509613886ad53e45718220a95195a852c64443b53cff",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:09:46.518Z",
+      "key": "[\"ca11c7fe-5971-473a-976e-de4f34d236ae\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:09:46.518Z",
+        "userId": "ca11c7fe-5971-473a-976e-de4f34d236ae"
+      }
+    },
+    {
+      "id": "f44841f6924b9faca39ee38cc44f98800804ff618d5d85c7d73b01ce52345f89",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:02:22.093Z",
+      "key": "[\"33aa2457-386a-4e8d-8e09-1dc20aec5039\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "Ещё один решающий, приветики\n\n\nТебе бы с норм звукарем поработать да бит получше, будто демку сдал.\nво 2 отнесись серьёзнее к работе, если не сделаешь, то точно полетишь к херам ",
+        "scoredAt": "2026-10-22T00:02:22.093Z",
+        "userId": "33aa2457-386a-4e8d-8e09-1dc20aec5039"
+      }
+    },
+    {
+      "id": "cc47f92e4c7f05aa1f418e3c11bf3da37639a236398bee011c2e8f84da0b285a",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:03:38.888Z",
+      "key": "[\"1540565e-cb42-44b4-ae50-67533ba1331d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 1,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:03:38.888Z",
+        "userId": "1540565e-cb42-44b4-ae50-67533ba1331d"
+      }
+    },
+    {
+      "id": "e112862494408015668f2c96787ab9e618234c741bbc5b505e51f3f9feb852e0",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:05:40.029Z",
+      "key": "[\"c62b31db-fa1f-461b-9428-beb125c86754\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 5,
+        "comment": "о, крутой ! ",
+        "scoredAt": "2026-10-22T00:05:40.029Z",
+        "userId": "c62b31db-fa1f-461b-9428-beb125c86754"
+      }
+    },
+    {
+      "id": "9f8c86644768a6b93988f75e333cd4bede8abdaa0b444908c7aafbf14b1f2256",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:12:15.127Z",
+      "key": "[\"fe75ef81-53b3-4f41-91b0-c56b25e96eb1\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "хз, странно, что ты слетаешь... но 5 не могу поставить. ",
+        "scoredAt": "2026-10-22T00:12:15.127Z",
+        "userId": "fe75ef81-53b3-4f41-91b0-c56b25e96eb1"
+      }
+    },
+    {
+      "id": "39f89a3cd6b50d9b52b8e2be9e9048519e899e338782ef2ba4cf3fe55cbaf5f6",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:07:40.452Z",
+      "key": "[\"09eafb85-76a0-42d0-a691-2094134d1749\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:07:40.452Z",
+        "userId": "09eafb85-76a0-42d0-a691-2094134d1749"
+      }
+    },
+    {
+      "id": "eac600fb3109b573718a14fc70e74efbb7a28526444518ac46c39ded84402900",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:11:36.823Z",
+      "key": "[\"c73f0721-2062-4627-835b-610debc3c90f\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:11:36.823Z",
+        "userId": "c73f0721-2062-4627-835b-610debc3c90f"
+      }
+    },
+    {
+      "id": "33a38c6a42209431d59c86d3a7d057efb52367cfa3e55f8219a46ff61b4e8fa1",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:08:22.841Z",
+      "key": "[\"a0fdd2df-c9c0-4ab2-b5e8-0114a3d555ae\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:08:22.841Z",
+        "userId": "a0fdd2df-c9c0-4ab2-b5e8-0114a3d555ae"
+      }
+    },
+    {
+      "id": "743662c2414ef14ae354156b1a8b106b7d740e16b20d0e6bbd91f98b7efb8ab1",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:05:10.567Z",
+      "key": "[\"7f908852-aa3e-41d3-85e0-56eab0bd8116\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:05:10.567Z",
+        "userId": "7f908852-aa3e-41d3-85e0-56eab0bd8116"
+      }
+    },
+    {
+      "id": "02c8d9f5130b2e25bd8db5a2880c15db81501ffc422e2262d5c9793059470f81",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:04:51.282Z",
+      "key": "[\"94ad261f-f149-444e-b622-3cc176e2ab44\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "СВЕДОС",
+        "scoredAt": "2026-10-22T00:04:51.282Z",
+        "userId": "94ad261f-f149-444e-b622-3cc176e2ab44"
+      }
+    },
+    {
+      "id": "c04f3092170c501cedae52cc1fa2d2a77fd2a27f215dbe8f8c75ce89147b94e5",
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "sourceScoredAt": "2026-10-22T00:06:25.358Z",
+      "key": "[\"ae9ed124-5ef1-4002-992b-43f66d0300a4\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:06:25.358Z",
+        "userId": "ae9ed124-5ef1-4002-992b-43f66d0300a4"
+      }
     }
   ],
   "snapshots": [
@@ -190487,6 +190795,26 @@
           "index": 31.73169170307441,
           "favor": 17.931509838146617,
           "attention": 3.2023557779712752,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T00:12:28.148Z",
+      "exportedAt": "2026-10-22T00:12:28.148Z",
+      "scores": 15504,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.180204215263835,
+          "favor": 8.623985714660858,
+          "attention": 5.6270149607799675,
+          "respect": 5.929203539823009
+        },
+        "veterans": {
+          "index": 31.755379146431302,
+          "favor": 17.932278491757632,
+          "attention": 3.225274567717145,
           "respect": 10.597826086956522
         }
       }
