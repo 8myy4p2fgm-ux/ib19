@@ -185954,6 +185954,552 @@
         "scoredAt": "2026-10-22T15:24:07.577Z",
         "userId": "526fbc7e-a5d4-4405-897c-21d4ffa5b1a7"
       }
+    },
+    {
+      "id": "521a85d0da70ba01370295515fd9bbdfdfd763bfe0eb234bbe83d870b3df1d79",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:09.564Z",
+      "key": "[\"99999c24-216d-47c7-bbf5-19d0c6f27120\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Спасибо за трек! \nТекст: средний, хотя задумка инткресная\nИсполнение: разнообразия не хватает\nОбщее впечатление: средняя работа\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:35:09.564Z",
+        "userId": "99999c24-216d-47c7-bbf5-19d0c6f27120"
+      }
+    },
+    {
+      "id": "1d19f2b76c2a51ed55b62871afb17e0e19c567aa9d2c2d11e6b0d66483b6abba",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:36:26.625Z",
+      "key": "[\"908b1571-e2cc-4d98-9ed8-dd951504f24f\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Возможно, в голове у автора это звучало интереснее, но на записи получилась очень сырая работа. Особенно когда это дисс, нужно звучать увереннее.",
+        "scoredAt": "2026-10-22T15:36:26.625Z",
+        "userId": "908b1571-e2cc-4d98-9ed8-dd951504f24f"
+      }
+    },
+    {
+      "id": "e2719506d9b1605a4dd781058efd7d94379b0ba0dfd01256ad425fbae6cd3326",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:14.001Z",
+      "key": "[\"7325963b-8af0-4443-a11f-db5e7ffc8b47\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Есть какие-то попытки поиграть с флоу, но пока они больше мешают восприятию, чем делают трек интереснее. Лучше бы сначала довести до ума обычную уверенную читку.",
+        "scoredAt": "2026-10-22T15:35:14.001Z",
+        "userId": "7325963b-8af0-4443-a11f-db5e7ffc8b47"
+      }
+    },
+    {
+      "id": "86cd56c35bcaebe4651251e48a60dc15facb73bc83d88aff7b396b7db6f24d24",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:53.138Z",
+      "key": "[\"63e65b95-cbac-4c9f-8d5e-a077f828b848\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T15:39:53.138Z",
+        "userId": "63e65b95-cbac-4c9f-8d5e-a077f828b848"
+      }
+    },
+    {
+      "id": "f68cf31bbe37628b0182cf8bd0a63af233e6690df396411858a3428b1b4e92f6",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:41.339Z",
+      "key": "[\"f490fcbe-7a0c-4d72-a862-8fe4bdc3d871\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Голос хороший, стиль есть. Не хватает только именно панчлайнов",
+        "scoredAt": "2026-10-22T15:39:41.339Z",
+        "userId": "f490fcbe-7a0c-4d72-a862-8fe4bdc3d871"
+      }
+    },
+    {
+      "id": "e63f600efe841f49f50b1a94446ad5a1f2c3744d6bc8be3ec9e3a4d00e12f65f",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:33:44.062Z",
+      "key": "[\"a66264ed-514c-4c81-9a3e-9d439ea83a77\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "тараторка банальная. но читать умеет слышно ",
+        "scoredAt": "2026-10-22T15:33:44.062Z",
+        "userId": "a66264ed-514c-4c81-9a3e-9d439ea83a77"
+      }
+    },
+    {
+      "id": "eeae9ef5ba949f082af2203d55805dff5d01281818e8b42f4a99072cb8e17607",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:36:33.058Z",
+      "key": "[\"b3d864d4-0325-4679-8fc9-fd624d60dd86\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "пришел баттлить слышно. хорошо читает. ударных строк добавь ",
+        "scoredAt": "2026-10-22T15:36:33.058Z",
+        "userId": "b3d864d4-0325-4679-8fc9-fd624d60dd86"
+      }
+    },
+    {
+      "id": "895805d832f0d315f4eba17d613c8e0adf77b71fb8c95b3d34d3b7d2ce04dc71",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:40:43.812Z",
+      "key": "[\"fc7980d4-ff3f-4aee-8714-e01b15d46a3c\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 4,
+        "comment": "Хороший трек. Хоть и раскрытие банальное уже в рамках отборочного",
+        "scoredAt": "2026-10-22T15:40:43.812Z",
+        "userId": "fc7980d4-ff3f-4aee-8714-e01b15d46a3c"
+      }
+    },
+    {
+      "id": "dd97a4a2128678582476022ba0c07b959b4f1c26925053a49c7dfbbfa3835f51",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:42:10.283Z",
+      "key": "[\"f44f2e3b-0a0e-4d3d-9491-8ecf850a746c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "легенда ",
+        "scoredAt": "2026-10-22T15:42:10.283Z",
+        "userId": "f44f2e3b-0a0e-4d3d-9491-8ecf850a746c"
+      }
+    },
+    {
+      "id": "0290b5fc10149496789458dd0304b05ee31e873cd734fa7e7dfcdab2c45ce5b6",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:38:27.418Z",
+      "key": "[\"82c96826-6a66-4ab1-a0f2-47aae002289f\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: както не очень впечатлило\nОбщее впечатление: не понравился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:38:27.418Z",
+        "userId": "82c96826-6a66-4ab1-a0f2-47aae002289f"
+      }
+    },
+    {
+      "id": "23db7ea94a04925bc66aa4f3cd7014e0f9d789a94f510500951e37b324052351",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:20.867Z",
+      "key": "[\"b37d326e-963f-4e8a-9b89-3231c7e6946e\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 3,
+        "comment": "Спасибо за трек! \nТекст: сторител прикольный\nИсполнение: интересно едалешь, разноообразие меня подкупило\nОбщее впечатление: интересно, чуть качества добавь, жду во втором, понравился\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:39:20.867Z",
+        "userId": "b37d326e-963f-4e8a-9b89-3231c7e6946e"
+      }
+    },
+    {
+      "id": "3140665e852ae75d7bd9d6450f77a5216589ecdf0c056cb3f52b9304235ae80d",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:33:11.223Z",
+      "key": "[\"73e8175f-6255-4500-9931-da84bb39e5af\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "ниче не понял. слабый рэп просто ",
+        "scoredAt": "2026-10-22T15:33:11.223Z",
+        "userId": "73e8175f-6255-4500-9931-da84bb39e5af"
+      }
+    },
+    {
+      "id": "ac46552bb0a09c946f681b6edc38ac666f590381741a8289d8a8bb63b815e5e9",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:38:24.018Z",
+      "key": "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Ушкам больно от такого сведоса, хз как понять чисто вывез или дело в сведении. Не хватает цепких строк, квадраты, ассонансы, избитые рифмы.",
+        "scoredAt": "2026-10-22T15:38:24.018Z",
+        "userId": "f4f5ed59-733d-4125-9eaa-0e57232c4a0e"
+      }
+    },
+    {
+      "id": "0a13970a327f075c79dd456a66caaf58f1a8932e1b98996e50c4862ac932dceb",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:37:59.151Z",
+      "key": "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 4,
+        "comment": "По флоу хорошо, вот не хватило текста каких нибудь мясистых строк",
+        "scoredAt": "2026-10-22T15:37:59.151Z",
+        "userId": "f4f5ed59-733d-4125-9eaa-0e57232c4a0e"
+      }
+    },
+    {
+      "id": "e1755bec7f8e165c46628ffe6e935a6b72f8ab522a986ff2ab9ede7cb5ffd13a",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:36:47.310Z",
+      "key": "[\"09179686-5b41-4998-9564-50ccff202172\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Спасибо за трек! \nТекст: текст забавный\nИсполнение: както мутно очень\nОбщее впечатление: не понравился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:36:47.310Z",
+        "userId": "09179686-5b41-4998-9564-50ccff202172"
+      }
+    },
+    {
+      "id": "6619adfc574e9d1e37fb7dec867be87209554e20f6116b50a8e8694541ca1da5",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:42:26.977Z",
+      "key": "[\"fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень дефолтно, по тексту норм, по подачи пойдет, но вот не хватило интонаций",
+        "scoredAt": "2026-10-22T15:42:26.977Z",
+        "userId": "fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee"
+      }
+    },
+    {
+      "id": "6693c2be34efacbf089887d243fa7809cbd75522fcf7c828f8b10573c3b7abfb",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:54.370Z",
+      "key": "[\"9c757dc3-1b21-479c-b10c-aa72df2bb89e\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: мимо бита, не прикольно\nОбщее впечатление: не понарвился трек\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:35:54.370Z",
+        "userId": "9c757dc3-1b21-479c-b10c-aa72df2bb89e"
+      }
+    },
+    {
+      "id": "4c07d952c1867607bee3130ed08be297164b27925fafc76a6a5f19f11a994c4f",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:33:00.078Z",
+      "key": "[\"7416270b-a0ae-40e5-9fe8-68f161ff4d4a\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Спасибо за трек! \nТекст: слабенький\nИсполнение: местами мимо бита, скучно\nОбщее впечатление: не понравился трек \nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:33:00.078Z",
+        "userId": "7416270b-a0ae-40e5-9fe8-68f161ff4d4a"
+      }
+    },
+    {
+      "id": "516ba97ffed21ab5104651712796485e4bba69659e25856ade27334af8423a43",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:38:36.734Z",
+      "key": "[\"4c6982f7-2406-4fc4-9406-943510377ef4\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 2,
+        "comment": "Ну попытка смешная, но звучит прям плохо",
+        "scoredAt": "2026-10-22T15:38:36.734Z",
+        "userId": "4c6982f7-2406-4fc4-9406-943510377ef4"
+      }
+    },
+    {
+      "id": "03adc9158013da4ef810438a16779ab97e2fc59379f10c14a8ab95a4b21e947b",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:41:23.711Z",
+      "key": "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Ну за вставки с Кридом отдельный респект!",
+        "scoredAt": "2026-10-22T15:41:23.711Z",
+        "userId": "2013f4d4-b0cc-4bb1-9c07-2248edff35a1"
+      }
+    },
+    {
+      "id": "0e3454aaee27028384d0fb312a10b59f6c785fa8044f915eb8ab2cdd5cb4d113",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:40:08.239Z",
+      "key": "[\"0bee41b1-9da0-439d-b4c9-cceb39a31960\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 4,
+        "comment": "Спасибо за трек! \nТекст: средний текст, хотя и задумка интересная\nИсполнение: добавь своего фирменного разнообразия во флоу, лирика это круто, но она тут не особо уместна будет\nОбщее впечатление: жду во втором, можешь лучше\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:40:08.239Z",
+        "userId": "0bee41b1-9da0-439d-b4c9-cceb39a31960"
+      }
+    },
+    {
+      "id": "05b3a7434848d25f532114319a2227d7be9028c73ac9d789a24ac2e417cb0c8a",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:40:41.386Z",
+      "key": "[\"fd0fd982-a108-4772-96bd-3c6fd3bd1667\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Ну вокал плюс минус пойдет, единственное не полностью раскрылся по флоу",
+        "scoredAt": "2026-10-22T15:40:41.386Z",
+        "userId": "fd0fd982-a108-4772-96bd-3c6fd3bd1667"
+      }
+    },
+    {
+      "id": "358800d07aecf7ead9dbf090b7d71546f460be3b2507da9fc4b999cccbc595ac",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:33:56.938Z",
+      "key": "[\"cc6a7a7e-424f-45a1-b7e1-6ed7d956412b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Странная работа, много провалом по звуку чисто по мне",
+        "scoredAt": "2026-10-22T15:33:56.938Z",
+        "userId": "cc6a7a7e-424f-45a1-b7e1-6ed7d956412b"
+      }
+    },
+    {
+      "id": "1d7a7910167c52325ae14a6fb6784ba20c29b7259abe57d18a2d87d5c3ea5ecb",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:41:34.673Z",
+      "key": "[\"6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "смысл понял. слабо но читать норм вроде умеет ",
+        "scoredAt": "2026-10-22T15:41:34.673Z",
+        "userId": "6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c"
+      }
+    },
+    {
+      "id": "4b66a7d39bc3749730180852a089cf82ca59a71316d4ca91c9f3b9c7b7f66119",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:30.691Z",
+      "key": "[\"3f05a195-b4db-4c36-bbe5-b5444a39abfc\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Хотел на фрешовом сделать, но реализация подводит",
+        "scoredAt": "2026-10-22T15:39:30.691Z",
+        "userId": "3f05a195-b4db-4c36-bbe5-b5444a39abfc"
+      }
+    },
+    {
+      "id": "b5d675fabf3817df37a24c3fc49d8c88dfa61f6214827d55d03a89fe43979a8a",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:46.990Z",
+      "key": "[\"c73f0721-2062-4627-835b-610debc3c90f\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабо",
+        "scoredAt": "2026-10-22T15:39:46.990Z",
+        "userId": "c73f0721-2062-4627-835b-610debc3c90f"
+      }
+    },
+    {
+      "id": "48bef5b452252e9307a33d4a1fcf49ef90994f9cd6a3d1e7acec9737e708ea96",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:36:53.090Z",
+      "key": "[\"9da82b99-6327-4f40-b465-6c9ebc44c7d8\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Очень странная работа по подаче чисто по мне",
+        "scoredAt": "2026-10-22T15:36:53.090Z",
+        "userId": "9da82b99-6327-4f40-b465-6c9ebc44c7d8"
+      }
+    },
+    {
+      "id": "f21c3c781dba76527f6525b38f84c5e104fecc00b886a063cbcb6cf9610699de",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:37:48.486Z",
+      "key": "[\"b2d3284f-2643-44e8-819d-b56f98fa1a29\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 2,
+        "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: не понарвилось, монотонно очень \nОбщее впечатление: рано для второго\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:37:48.486Z",
+        "userId": "b2d3284f-2643-44e8-819d-b56f98fa1a29"
+      }
+    },
+    {
+      "id": "1449c8762630f9c846f1d9adbd130f7fe48148e2494fcd0483f069551e11916d",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:36.750Z",
+      "key": "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "читает норм. текст пойдет",
+        "scoredAt": "2026-10-22T15:35:36.750Z",
+        "userId": "d91e558a-9412-4ceb-bdb2-8b571d375c1e"
+      }
+    },
+    {
+      "id": "d5614f7b9c6fba06e50d6cc3a446417ea65b884eae3a7a2d179dd86f0cd99ad5",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:33:03.650Z",
+      "key": "[\"158e0c8d-3a65-486b-a655-70c36b8a95df\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Немного монотонно, а в целом разложился норм по биту",
+        "scoredAt": "2026-10-22T15:33:03.650Z",
+        "userId": "158e0c8d-3a65-486b-a655-70c36b8a95df"
+      }
+    },
+    {
+      "id": "70aaa96e421bb423f791917a6c5e7b5b51e4f0b22c9ca262e7a0b0d0b966c854",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:37:14.604Z",
+      "key": "[\"dc4db665-1a88-4db1-bc56-ed4379a9ae31\",\"Антон RapNews Акулич\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Антон RapNews Акулич",
+        "score": 1,
+        "comment": "Спасибо за трек! \nТекст: слабо\nИсполнение: скучно\nОбщее впечатление: не понимаю, что цоенивать, если ничего непонятно\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+        "scoredAt": "2026-10-22T15:37:14.604Z",
+        "userId": "dc4db665-1a88-4db1-bc56-ed4379a9ae31"
+      }
+    },
+    {
+      "id": "9010f3ae2aad48880a9bb2eebeeec7728f50e5a8a489ed83af6c7d99299773c1",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:09.781Z",
+      "key": "[\"8b553263-f54d-439c-b0ec-87921e869f7e\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 2,
+        "comment": "Порой очень кринжовые панчи, а подаются на таких серьёзных щах, шо капец. Много слабосозвучных рифм. Как-то надоедаешь вкупе с этим битом, я бы даже сказал раздражает на слух. Стреляет не пуля, стреляют пулей – окей.",
+        "scoredAt": "2026-10-22T15:35:09.781Z",
+        "userId": "8b553263-f54d-439c-b0ec-87921e869f7e"
+      }
+    },
+    {
+      "id": "503b826d8b47db499f9f1cbc6fba1de266874e0fa6e4cab3430e1e903aebee0a",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:40:41.346Z",
+      "key": "[\"8e19fa5e-9e6d-4304-a2d6-0452689f56cf\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "слабый рэп ",
+        "scoredAt": "2026-10-22T15:40:41.346Z",
+        "userId": "8e19fa5e-9e6d-4304-a2d6-0452689f56cf"
+      }
+    },
+    {
+      "id": "d1ed8882e88c3280f5d55c2e541e98a743b3a28fc4f5fba9f42385ec177f2e00",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:38:03.357Z",
+      "key": "[\"8e19fa5e-9e6d-4304-a2d6-0452689f56cf\",\"Никсон\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Никсон",
+        "score": 3,
+        "comment": "Средняя работа без чего-то выдеяляющегося.",
+        "scoredAt": "2026-10-22T15:38:03.357Z",
+        "userId": "8e19fa5e-9e6d-4304-a2d6-0452689f56cf"
+      }
+    },
+    {
+      "id": "06d3461eca40fb72c4e1b0b79db15a781e637c0a8ef594ed06663843f17f20d4",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:37:42.113Z",
+      "key": "[\"476584de-afdd-4848-95f3-fe3c5cd0050b\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 3,
+        "comment": "текст мега слабый. но читать умеет. ждём студийную запись ",
+        "scoredAt": "2026-10-22T15:37:42.113Z",
+        "userId": "476584de-afdd-4848-95f3-fe3c5cd0050b"
+      }
+    },
+    {
+      "id": "609964bd2dae6073194476a0b4519df369683738aace1f060816962d6ebd800a",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:39:16.594Z",
+      "key": "[\"46950bdb-6d8c-4b9f-846f-8c362f52abfc\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "начинать трек без рифмы в первых двух строчках это смело) ",
+        "scoredAt": "2026-10-22T15:39:16.594Z",
+        "userId": "46950bdb-6d8c-4b9f-846f-8c362f52abfc"
+      }
+    },
+    {
+      "id": "014d850924b23655587e3ec486c90b853259231c7944d120873c5acf5e3ff3bb",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:35:43.270Z",
+      "key": "[\"4bbfb788-f528-46a6-8e6a-38cd5300aa9b\",\"Plaga Medicus\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Plaga Medicus",
+        "score": 3,
+        "comment": "Вокал прикольный, но местами выбрал странную ритмику",
+        "scoredAt": "2026-10-22T15:35:43.270Z",
+        "userId": "4bbfb788-f528-46a6-8e6a-38cd5300aa9b"
+      }
+    },
+    {
+      "id": "7b6b90fbf14ef3f856f9b2fe6b1aeb15c16427b186441f53ca32147094b3c532",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:38:31.442Z",
+      "key": "[\"b48e1d0e-9582-40cb-964c-c1ca058aef91\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 4,
+        "comment": "панчи есть но слабенькие. читает хорошо ",
+        "scoredAt": "2026-10-22T15:38:31.442Z",
+        "userId": "b48e1d0e-9582-40cb-964c-c1ca058aef91"
+      }
+    },
+    {
+      "id": "9b918487571aa767cfe61a98c032c066b76f16af56eaed83afd916e29126f8a7",
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "sourceScoredAt": "2026-10-22T15:36:58.831Z",
+      "key": "[\"8f7847e1-87e9-4f91-8875-b3ae0d992921\",\"OttO\"]",
+      "before": null,
+      "after": {
+        "judgeName": "OttO",
+        "score": 2,
+        "comment": "легенда ",
+        "scoredAt": "2026-10-22T15:36:58.831Z",
+        "userId": "8f7847e1-87e9-4f91-8875-b3ae0d992921"
+      }
     }
   ],
   "snapshots": [
@@ -201953,6 +202499,26 @@
           "index": 31.905781226747905,
           "favor": 17.664790119513437,
           "attention": 3.848133964377326,
+          "respect": 10.392857142857142
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T15:42:50.372Z",
+      "exportedAt": "2026-10-22T15:42:50.372Z",
+      "scores": 16280,
+      "selectionVersion": "234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51",
+      "indices": {
+        "forum": {
+          "index": 20.76357901040314,
+          "favor": 8.894995964487489,
+          "attention": 5.890011617344224,
+          "respect": 5.978571428571429
+        },
+        "veterans": {
+          "index": 31.983323276759815,
+          "favor": 17.68441317047266,
+          "attention": 3.9060529634300125,
           "respect": 10.392857142857142
         }
       }
