@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T05:02:15.233Z",
+  "exportedAt": "2026-10-22T05:11:58.425Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -13765,8 +13765,14 @@
     },
     {
       "userId": "824cec17-0e59-4df1-9b39-6fe72a3f727e",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Сторителлинг на минуту - всегда уважаемо! ",
+          "scoredAt": "2026-10-22T05:02:29.238Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -13792,7 +13798,7 @@
           "scoredAt": "2026-10-10T13:00:55.256Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:02:22.145Z",
+      "fetchedAt": "2026-10-22T05:11:58.425Z",
       "current": true,
       "artistName": "Черный котэ",
       "artistSlug": "chernyy-kote",
@@ -76885,8 +76891,14 @@
     },
     {
       "userId": "e8aa3f84-0b75-44f9-b08f-543f433dc5e5",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "О, вот это был ВНЕЗАПНЫЙ ход в середине трека, убедил! ",
+          "scoredAt": "2026-10-22T05:04:18.063Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 4,
@@ -76900,7 +76912,7 @@
           "scoredAt": "2026-10-12T09:18:10.397Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-22T05:11:58.425Z",
       "current": true,
       "artistName": "МС ВЕТЕР",
       "artistSlug": "ms-veter",

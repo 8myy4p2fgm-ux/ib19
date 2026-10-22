@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T05:02:15.233Z",
-  "exportedAt": "2026-10-22T05:02:15.233Z",
-  "runId": "2026-10-22T05:02:15.233Z",
-  "forumExportedAt": "2026-10-22T05:02:15.233Z",
+  "lastSuccessfulAt": "2026-10-22T05:11:58.425Z",
+  "exportedAt": "2026-10-22T05:11:58.425Z",
+  "runId": "2026-10-22T05:11:58.425Z",
+  "forumExportedAt": "2026-10-22T05:11:58.425Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15777,
+    "scores": 15779,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 6,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 3,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 3,
-    "changedParticipants": 3,
-    "logicalRequests": 6,
-    "durationMs": 6077,
-    "scoresBefore": 15774,
-    "scoresAfter": 15777,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 4963,
+    "scoresBefore": 15777,
+    "scoresAfter": 15779,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.81701738334858,
+    "requestReductionPercent": 99.84751448612383,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "МС ВЕТЕР",
+          "comment": "О, вот это был ВНЕЗАПНЫЙ ход в середине трека, убедил! ",
+          "scoredAt": "2026-10-22T05:04:18.063Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Черный котэ",
+          "comment": "Сторителлинг на минуту - всегда уважаемо! ",
+          "scoredAt": "2026-10-22T05:02:29.238Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 3,
@@ -185,20 +199,6 @@
           "artist": "УстамиМладенца [КДБ]",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
           "scoredAt": "2026-10-22T02:06:50.356Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "KIPMC",
-          "comment": "",
-          "scoredAt": "2026-10-22T02:06:40.867Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "DELAA",
-          "comment": "",
-          "scoredAt": "2026-10-22T02:06:33.735Z"
         }
       ]
     }
