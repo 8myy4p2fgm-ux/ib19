@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T00:52:47.529Z",
-  "exportedAt": "2026-10-22T00:52:47.529Z",
-  "runId": "2026-10-22T00:52:47.529Z",
-  "forumExportedAt": "2026-10-22T00:52:47.529Z",
+  "lastSuccessfulAt": "2026-10-22T01:02:03.289Z",
+  "exportedAt": "2026-10-22T01:02:03.289Z",
+  "runId": "2026-10-22T01:02:03.289Z",
+  "forumExportedAt": "2026-10-22T01:02:03.289Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15638,
+    "scores": 15643,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 49,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 44,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 44,
-    "changedParticipants": 41,
-    "logicalRequests": 49,
-    "durationMs": 48633,
-    "scoresBefore": 15593,
-    "scoresAfter": 15638,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 8221,
+    "scoresBefore": 15638,
+    "scoresAfter": 15643,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 98.5051860890787,
+    "requestReductionPercent": 99.75594874923735,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,6 +97,62 @@
       "feed": [
         {
           "judgeName": "СТИШ",
+          "score": 5,
+          "artist": "ТОМИЯСУ",
+          "comment": "Отлично!\nЛетят плотные обнимашки с Могилёва!",
+          "scoredAt": "2026-10-22T00:55:03.492Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Форумская сися",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:25.779Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "polumore",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:15.087Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "Саша Чужой",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:04.560Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "TIHN",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:54.809Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "artist": "intrigaant",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:43.109Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Витя Смит",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:20.999Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "artist": "Камбербетч Салихов",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:05.413Z"
+        },
+        {
+          "judgeName": "СТИШ",
           "score": 3,
           "artist": "EEN",
           "comment": "",
@@ -143,62 +199,6 @@
           "artist": "KARABYN",
           "comment": "",
           "scoredAt": "2026-10-22T00:49:18.219Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "artist": "Grilzzy Wsteny",
-          "comment": "охуенно",
-          "scoredAt": "2026-10-22T00:49:11.619Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Tshirt InThe Blood",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:48:37.668Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "ЖИВИ",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:48:21.651Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "#Avv3GlorY",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:48:18.029Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "fifteen years later",
-          "comment": "💥💥💥",
-          "scoredAt": "2026-10-22T00:48:07.731Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Андеграунд Возле Аквариума",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:48:04.732Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "artist": "Клик-Кляк",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:47:50.876Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "Starik",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:47:33.909Z"
         }
       ]
     }

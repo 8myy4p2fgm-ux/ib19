@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T00:52:47.529Z",
+  "exportedAt": "2026-10-22T01:02:03.289Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -573,8 +573,14 @@
     },
     {
       "userId": "ad50e315-dd90-4b7a-bc32-3a22d6beee42",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:15.087Z"
+        },
         {
           "judgeName": "AL Hammer",
           "score": 3,
@@ -594,7 +600,7 @@
           "scoredAt": "2026-10-16T00:08:27.573Z"
         }
       ],
-      "fetchedAt": "2026-10-17T12:02:11.418Z",
+      "fetchedAt": "2026-10-22T01:02:03.289Z",
       "current": true,
       "artistName": "polumore",
       "artistSlug": "polumore",
@@ -30726,8 +30732,14 @@
     },
     {
       "userId": "63e65b95-cbac-4c9f-8d5e-a077f828b848",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Отлично!\nЛетят плотные обнимашки с Могилёва!",
+          "scoredAt": "2026-10-22T00:55:03.492Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -30741,7 +30753,7 @@
           "scoredAt": "2026-08-31T20:15:38.815Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-22T01:02:03.289Z",
       "current": true,
       "artistName": "ТОМИЯСУ",
       "artistSlug": "tomiyasu",
@@ -51929,8 +51941,14 @@
     },
     {
       "userId": "477de9e0-cd10-4890-bfd7-3b4949641fa8",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:04.560Z"
+        },
         {
           "judgeName": "r1fmabes",
           "score": 3,
@@ -51956,7 +51974,7 @@
           "scoredAt": "2026-10-10T16:50:55.076Z"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "fetchedAt": "2026-10-22T01:02:03.289Z",
       "current": true,
       "artistName": "Саша Чужой",
       "artistSlug": "sasha-chuzhoy",
@@ -81825,8 +81843,14 @@
     },
     {
       "userId": "a3b7906f-9366-4834-be1e-1c5ad8048855",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:53:25.779Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -81852,7 +81876,7 @@
           "scoredAt": "2026-10-15T16:12:55.066Z"
         }
       ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "fetchedAt": "2026-10-22T01:02:03.289Z",
       "current": true,
       "artistName": "Форумская сися",
       "artistSlug": "forumskaya-sisya",
@@ -83422,8 +83446,14 @@
     },
     {
       "userId": "4a5b9a60-2e6d-4c45-b814-85f8a012d51f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "СТИШ",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:52:54.809Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 3,
@@ -83449,7 +83479,7 @@
           "scoredAt": "2026-09-24T14:16:57.366Z"
         }
       ],
-      "fetchedAt": "2026-10-21T22:11:56.203Z",
+      "fetchedAt": "2026-10-22T01:02:03.289Z",
       "current": true,
       "artistName": "TIHN",
       "artistSlug": "tihn",

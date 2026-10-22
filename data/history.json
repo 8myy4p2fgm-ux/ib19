@@ -177512,6 +177512,76 @@
         "scoredAt": "2026-10-22T00:48:21.651Z",
         "userId": "526fbc7e-a5d4-4405-897c-21d4ffa5b1a7"
       }
+    },
+    {
+      "id": "62fb3a12c0c5d509835f7c15acca3deb1731076d1454b5355fff8014396cff2b",
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "sourceScoredAt": "2026-10-22T00:53:15.087Z",
+      "key": "[\"ad50e315-dd90-4b7a-bc32-3a22d6beee42\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:53:15.087Z",
+        "userId": "ad50e315-dd90-4b7a-bc32-3a22d6beee42"
+      }
+    },
+    {
+      "id": "6d2fe76b0cb83482a087134e6df714a2eeeaef7ebe273421ea7e258164dee30b",
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "sourceScoredAt": "2026-10-22T00:55:03.492Z",
+      "key": "[\"63e65b95-cbac-4c9f-8d5e-a077f828b848\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "Отлично!\nЛетят плотные обнимашки с Могилёва!",
+        "scoredAt": "2026-10-22T00:55:03.492Z",
+        "userId": "63e65b95-cbac-4c9f-8d5e-a077f828b848"
+      }
+    },
+    {
+      "id": "4e43ad11270853989ca4b9d6b7f7fe011cd8f0af05e79d9902200665ec7c468e",
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "sourceScoredAt": "2026-10-22T00:53:04.560Z",
+      "key": "[\"477de9e0-cd10-4890-bfd7-3b4949641fa8\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:53:04.560Z",
+        "userId": "477de9e0-cd10-4890-bfd7-3b4949641fa8"
+      }
+    },
+    {
+      "id": "fc066b525869534a3a5852e4a8383bc36465cfda0e14c47126dcd4e895a45787",
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "sourceScoredAt": "2026-10-22T00:53:25.779Z",
+      "key": "[\"a3b7906f-9366-4834-be1e-1c5ad8048855\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:53:25.779Z",
+        "userId": "a3b7906f-9366-4834-be1e-1c5ad8048855"
+      }
+    },
+    {
+      "id": "602904609b66646c7a30f129876e19e2b287105280e3e5ef9905ebf1c5375f60",
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "sourceScoredAt": "2026-10-22T00:52:54.809Z",
+      "key": "[\"4a5b9a60-2e6d-4c45-b814-85f8a012d51f\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:52:54.809Z",
+        "userId": "4a5b9a60-2e6d-4c45-b814-85f8a012d51f"
+      }
     }
   ],
   "snapshots": [
@@ -192771,6 +192841,26 @@
           "index": 31.89948459011341,
           "favor": 17.93823281907433,
           "attention": 3.3634256840825554,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T01:02:03.289Z",
+      "exportedAt": "2026-10-22T01:02:03.289Z",
+      "scores": 15643,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.122768090673198,
+          "favor": 8.601894372192165,
+          "attention": 5.604451431091003,
+          "respect": 5.916422287390029
+        },
+        "veterans": {
+          "index": 31.901801615408353,
+          "favor": 17.935413541213908,
+          "attention": 3.3685619872379218,
           "respect": 10.597826086956522
         }
       }
