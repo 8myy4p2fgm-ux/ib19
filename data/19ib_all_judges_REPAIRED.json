@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T16:41:56.029Z",
+  "exportedAt": "2026-10-22T16:51:53.684Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -52274,8 +52274,14 @@
     },
     {
       "userId": "63d3759e-4a0f-435a-baea-e06619c8a977",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Есть некая обрывочность раскрытия, но в целом показал умения по флоу. Обработал правда странно - песочек ИИшный будто бы. Но буду счастлива ошибаться. ",
+          "scoredAt": "2026-10-22T16:43:03.520Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -52301,7 +52307,7 @@
           "scoredAt": "2026-10-19T06:53:20.144Z"
         }
       ],
-      "fetchedAt": "2026-10-22T16:41:56.029Z",
+      "fetchedAt": "2026-10-22T16:51:53.684Z",
       "current": true,
       "artistName": "d1ma.c4actbE",
       "artistSlug": "d1ma-c4actbe",

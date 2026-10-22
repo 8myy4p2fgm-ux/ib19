@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T16:41:56.029Z",
-  "exportedAt": "2026-10-22T16:41:56.029Z",
-  "runId": "2026-10-22T16:41:56.029Z",
-  "forumExportedAt": "2026-10-22T16:41:56.029Z",
+  "lastSuccessfulAt": "2026-10-22T16:51:53.684Z",
+  "exportedAt": "2026-10-22T16:51:53.684Z",
+  "runId": "2026-10-22T16:51:53.684Z",
+  "forumExportedAt": "2026-10-22T16:51:53.684Z",
   "selectionVersion": "234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 98,
-    "scores": 16372,
+    "scores": 16373,
     "judges": 22,
     "forumDirectory": 99,
     "og": 70,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 20,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 17,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 17,
-    "changedParticipants": 17,
-    "logicalRequests": 20,
-    "durationMs": 19641,
-    "scoresBefore": 16350,
-    "scoresAfter": 16372,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 4182,
+    "scoresBefore": 16372,
+    "scoresAfter": 16373,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.39005794449527,
+    "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "d1ma.c4actbE",
+          "comment": "Есть некая обрывочность раскрытия, но в целом показал умения по флоу. Обработал правда странно - песочек ИИшный будто бы. Но буду счастлива ошибаться. ",
+          "scoredAt": "2026-10-22T16:43:03.520Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -192,13 +199,6 @@
           "artist": "fagundoss",
           "comment": "Лампово, канонично по рифме, читка на уровне, бодренькая. Не хватает цепких фраз.",
           "scoredAt": "2026-10-22T16:28:14.688Z"
-        },
-        {
-          "judgeName": "Мультифрукт",
-          "score": 4,
-          "artist": "BartlBee (JS)",
-          "comment": "Голос харизматичный, в целом, нормально для такого репа от стебного дядьки, который подшучивает на вот этой всей игрой. Немного нафталином правда веет от таких стильков, но все же имеет место быть. 4 за харизму, 3.5 за ритмику, ей будто бы слегка динамики бы добавить местами (это не значит, что нужны перебежки, нужно скорее разнообразия по ней поболее).",
-          "scoredAt": "2026-10-22T16:27:04.622Z"
         }
       ]
     }
