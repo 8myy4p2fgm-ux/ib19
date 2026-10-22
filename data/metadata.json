@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T01:12:04.641Z",
-  "exportedAt": "2026-10-22T01:12:04.641Z",
-  "runId": "2026-10-22T01:12:04.641Z",
-  "forumExportedAt": "2026-10-22T01:12:04.641Z",
+  "lastSuccessfulAt": "2026-10-22T01:32:01.220Z",
+  "exportedAt": "2026-10-22T01:32:01.220Z",
+  "runId": "2026-10-22T01:32:01.220Z",
+  "forumExportedAt": "2026-10-22T01:32:01.220Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15644,
+    "scores": 15645,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -34,9 +34,9 @@
     "participantsWithNewScores": 1,
     "changedParticipants": 1,
     "logicalRequests": 4,
-    "durationMs": 4014,
-    "scoresBefore": 15643,
-    "scoresAfter": 15644,
+    "durationMs": 3711,
+    "scoresBefore": 15644,
+    "scoresAfter": 15645,
     "fullBaselineRequests": 3278,
     "requestReductionPercent": 99.87797437461867,
     "temporaryExclusions": [
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "NPZ",
+          "comment": "Сделано лениво с одной ритмикой, не хватает тебе чутка разнообразия и взаимодействия с битом, но голос с харизмой. Серый текст - нет насыщенности, исполнено тоже с небольшими огрехами. Хотя начало показалось многообещающим и бодрым. Стоит поднапрячься, особенно во втором.",
+          "scoredAt": "2026-10-22T01:27:26.425Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -192,13 +199,6 @@
           "artist": "vsecelo",
           "comment": "",
           "scoredAt": "2026-10-22T00:49:47.978Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 1,
-          "artist": "КАКТУС777",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-22T00:49:30.362Z"
         }
       ]
     }
