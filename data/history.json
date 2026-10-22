@@ -179976,6 +179976,300 @@
         "scoredAt": "2026-10-22T07:44:41.752Z",
         "userId": "44cb31c3-ec07-4320-9f12-ae6498d4f607"
       }
+    },
+    {
+      "id": "faa4742fa9be91045e1f951b077c3791b32184db165825738b8445b72ff72cdf",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:10:41.229Z",
+      "key": "[\"cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ты в бедоне записываешь? Вообще же хреново звучит... По тексту нормально, социально за него дотягиваю до прохода. Во втором не делай такой звук, пожалуйста. ",
+        "scoredAt": "2026-10-22T08:10:41.229Z",
+        "userId": "cc60cab5-4bcf-4dbe-87b8-8c0f71e6bc70"
+      }
+    },
+    {
+      "id": "07147546011cc3a5de27010088fffcf6bc5f9f5b19e047d95122e61314afad8b",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:09:07.159Z",
+      "key": "[\"5af8f131-21c5-430d-8e7a-7a9e7c357566\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Ты похож на ИИ и исполнением и минусом. В любом случае круто звучит. Вот только что с темой раунда? Снова левак? ",
+        "scoredAt": "2026-10-22T08:09:07.159Z",
+        "userId": "5af8f131-21c5-430d-8e7a-7a9e7c357566"
+      }
+    },
+    {
+      "id": "7a609387eed868577c57f8b0840bdd7ddab1e00176caa9dff6cf6d18e80c5d3e",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:07:55.494Z",
+      "key": "[\"5133faf7-fda6-47d8-ad6b-fc5210ec96b2\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Интересный стиль у тебя. По тексту ничего не зацепило. ",
+        "scoredAt": "2026-10-22T08:07:55.494Z",
+        "userId": "5133faf7-fda6-47d8-ad6b-fc5210ec96b2"
+      }
+    },
+    {
+      "id": "98f963f7e5a3614900d5164b9c6b911f4ff7b1137eb4429ca085ba01c83ebb60",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:13:24.531Z",
+      "key": "[\"5b578b53-34ae-4ec7-9653-4321fc96bb99\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Видно что хочешь делать свой стиль, пока по звуку это только начало пути. Но этого, думаю, достаточно, чтобы пройти. ",
+        "scoredAt": "2026-10-22T08:13:24.531Z",
+        "userId": "5b578b53-34ae-4ec7-9653-4321fc96bb99"
+      }
+    },
+    {
+      "id": "2c62f13c3fdfd0aec487b877e6403d5a4ca051fb56ebb3ce1a6a97b460224e9e",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T07:58:33.359Z",
+      "key": "[\"61a8b3fa-455b-4472-ac5c-862357c88853\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Круто читаешь, отличный звук, флоу, рифмы, всё на месте. Работа на 5. ",
+        "scoredAt": "2026-10-22T07:58:33.359Z",
+        "userId": "61a8b3fa-455b-4472-ac5c-862357c88853"
+      }
+    },
+    {
+      "id": "c51fa5553e16ddeae1dc74a8ed3ea2647e5cf0a2c0e95cd93ec547839ef0dd6a",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:02:15.361Z",
+      "key": "[\"c14121ba-6841-491b-8f0c-3c7440a004bf\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Ниже среднего. ",
+        "scoredAt": "2026-10-22T08:02:15.361Z",
+        "userId": "c14121ba-6841-491b-8f0c-3c7440a004bf"
+      }
+    },
+    {
+      "id": "75ab5fb8c191229ef0fbb39124db32e5c8d7743c391aa3b7a9abfd02bc0b2f21",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:07:04.988Z",
+      "key": "[\"9fd37409-da07-4208-98fd-ff9d315fef09\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормальный звук, уверенно читаешь. Хорошая работа. ",
+        "scoredAt": "2026-10-22T08:07:04.988Z",
+        "userId": "9fd37409-da07-4208-98fd-ff9d315fef09"
+      }
+    },
+    {
+      "id": "717eda5652e26b938352c44c0a2648fcbdb2d7cc2601625d6f7373f838d5161d",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:05:15.301Z",
+      "key": "[\"f4267044-e8a7-4daf-a661-e340e0af543c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Некий дессонанс между текстом и этой музыкой. Но свой стиль я поддерживаю. ",
+        "scoredAt": "2026-10-22T08:05:15.301Z",
+        "userId": "f4267044-e8a7-4daf-a661-e340e0af543c"
+      }
+    },
+    {
+      "id": "bf658b63a9b143062d43d7b87203c400d08dc8286fa98e2e641650cc2ba72c27",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:17:48.296Z",
+      "key": "[\"8fc7f6f7-1374-4421-a546-4a7c6d2afcdf\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Ну это средненько, по всем критериям.",
+        "scoredAt": "2026-10-22T08:17:48.296Z",
+        "userId": "8fc7f6f7-1374-4421-a546-4a7c6d2afcdf"
+      }
+    },
+    {
+      "id": "c1fa71b03cfd4336e9a531956625bc1cd8d28bf08b6593c8a59b9040cae6849f",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:04:16.064Z",
+      "key": "[\"85ec9faa-38f4-4fd3-8c64-bea6ed38cd1a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Пародия на Трула?) Он уже легенда получается?) ",
+        "scoredAt": "2026-10-22T08:04:16.064Z",
+        "userId": "85ec9faa-38f4-4fd3-8c64-bea6ed38cd1a"
+      }
+    },
+    {
+      "id": "5d95760a088c41034b35bc34917698dbc13a76bf038a5516b03b383af9b7af8f",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:15:01.845Z",
+      "key": "[\"505e74c3-a6e9-4ff6-8751-b58f10b13e9e\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормальна баттловая подача. Даже панчи есть. ",
+        "scoredAt": "2026-10-22T08:15:01.845Z",
+        "userId": "505e74c3-a6e9-4ff6-8751-b58f10b13e9e"
+      }
+    },
+    {
+      "id": "89c26fe964029957feef8a39a443a7ab0535362538b73c0ca8429a3086aec423",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:15:28.099Z",
+      "key": "[\"430cf458-8ff5-4777-8327-6e039d8389c6\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Пока рановато. ",
+        "scoredAt": "2026-10-22T08:15:28.099Z",
+        "userId": "430cf458-8ff5-4777-8327-6e039d8389c6"
+      }
+    },
+    {
+      "id": "9e8008b549d252f3d7e85d05756c0c86b9fbe373c6b3bc6839adbdc2e3246d80",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:01:44.639Z",
+      "key": "[\"94b48624-3fc4-42d7-9ce9-6f5accf1124b\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 3,
+        "comment": "Крутяк залетел, но чем дальше в лес, тем все хуже и хуже. Недокрутил по стилю.",
+        "scoredAt": "2026-10-22T08:01:44.639Z",
+        "userId": "94b48624-3fc4-42d7-9ce9-6f5accf1124b"
+      }
+    },
+    {
+      "id": "34058f9080a5a87f4378737bbe9b76cd2200905fec1191280bb357488e7339fd",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:11:48.916Z",
+      "key": "[\"3e87a592-daa5-4d25-997d-106171d3ff1a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Стиль не вкатил, по тексту есть здравые моменты. ",
+        "scoredAt": "2026-10-22T08:11:48.916Z",
+        "userId": "3e87a592-daa5-4d25-997d-106171d3ff1a"
+      }
+    },
+    {
+      "id": "6e58ea59d87977f0d425a9e4a7f056a643a8ddcd5fc0c1f72b81ff4e3fb1e0db",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:03:15.518Z",
+      "key": "[\"c7bb6c0f-57ed-4aad-bfbd-d3c89182aa4d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормальная работа, давай во второй. ",
+        "scoredAt": "2026-10-22T08:03:15.518Z",
+        "userId": "c7bb6c0f-57ed-4aad-bfbd-d3c89182aa4d"
+      }
+    },
+    {
+      "id": "5476d2ae99205bc6aa6f12468e2676ca0e871c2816498757350d6adecb2fe197",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:01:12.871Z",
+      "key": "[\"6badf78c-45fb-47d0-a741-726c70a68e5f\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Старая школа, припев в минутном треке - это интересное решение. Но видно что ты умеешь в рэп, поставлю выше среднего. ",
+        "scoredAt": "2026-10-22T08:01:12.871Z",
+        "userId": "6badf78c-45fb-47d0-a741-726c70a68e5f"
+      }
+    },
+    {
+      "id": "c3266cd8529759e0b18c150e6d15da04548cf15c14a347a1b0dabbfbadaa30db",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T07:57:38.787Z",
+      "key": "[\"15510c9a-614c-4e61-8a0d-f52bba52613d\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Стильно звучит брат. А что по теме раунда?) За звук натягиваю до 4. Но в следующем раунде попробуй сдать трек с темой раунда. ",
+        "scoredAt": "2026-10-22T07:57:38.787Z",
+        "userId": "15510c9a-614c-4e61-8a0d-f52bba52613d"
+      }
+    },
+    {
+      "id": "29573787e1d6847dbabc84d5a3fc90f07fb5a5e5a6e0682a4af8ad281eb7a80c",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:16:20.411Z",
+      "key": "[\"ebf7f605-44b7-47da-80f6-d344ccc5f137\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "По флоу не очень звучит. Вроде писать умеешь, потренировать бы подачу. ",
+        "scoredAt": "2026-10-22T08:16:20.411Z",
+        "userId": "ebf7f605-44b7-47da-80f6-d344ccc5f137"
+      }
+    },
+    {
+      "id": "bc346cd05a6ef22e72abe44e652e106fd003d65e5941969ace8c6f0b9dd285a6",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:12:23.385Z",
+      "key": "[\"c1f3e6f7-b9b4-45f2-83e6-b061040ec989\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Ты и бит живёте в разных вселенных. ",
+        "scoredAt": "2026-10-22T08:12:23.385Z",
+        "userId": "c1f3e6f7-b9b4-45f2-83e6-b061040ec989"
+      }
+    },
+    {
+      "id": "939b4a755cfa2f4859d4f755d8c7cf737a1603083e27f015a5c67a43aa1b74b4",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T07:59:38.516Z",
+      "key": "[\"2de3f36b-a9e9-4d46-b636-18d76fb78eb3\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Странный текст, раскрытия не понял. ",
+        "scoredAt": "2026-10-22T07:59:38.516Z",
+        "userId": "2de3f36b-a9e9-4d46-b636-18d76fb78eb3"
+      }
+    },
+    {
+      "id": "19d0cda13f371237ed7ee145140641923d83962867f27f8716df0a000ec63470",
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "sourceScoredAt": "2026-10-22T08:14:08.808Z",
+      "key": "[\"5c1eb546-5765-4422-bc28-751f1a2dac65\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Возможно это начало какого-то крутого стиля, но пока это только сааааааамое начало пути. ",
+        "scoredAt": "2026-10-22T08:14:08.808Z",
+        "userId": "5c1eb546-5765-4422-bc28-751f1a2dac65"
+      }
     }
   ],
   "snapshots": [
@@ -195675,6 +195969,26 @@
           "index": 31.82212195155738,
           "favor": 17.88313655295859,
           "attention": 3.363445830253469,
+          "respect": 10.575539568345324
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T08:22:16.730Z",
+      "exportedAt": "2026-10-22T08:22:16.730Z",
+      "scores": 15835,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 19.90498887629796,
+          "favor": 8.491641996177822,
+          "attention": 5.54852129872479,
+          "respect": 5.8648255813953485
+        },
+        "veterans": {
+          "index": 31.885749854555513,
+          "favor": 17.8855974853145,
+          "attention": 3.4246128008956895,
           "respect": 10.575539568345324
         }
       }
