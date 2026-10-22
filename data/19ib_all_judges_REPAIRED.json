@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T05:32:03.924Z",
+  "exportedAt": "2026-10-22T05:42:00.956Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -51063,8 +51063,14 @@
     },
     {
       "userId": "63829435-9c3b-4bbb-a97f-1137c5ed5652",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "comment": "Вот вроде бы ритмически делаешь так как надо, как будто бы зритель офлайн баттлов и прочих бпмов.\n\nНо при этом ощущается это все серовато и безлико, будто бы тебя, молодого Яндекса в этом всем не особо много есть. 3.5 я бы поставил, но с учетом текста местами радирифменного (под такую бпм-ную подачку) все же упаду в сторону 3. Впрочем, тоже проходная оценка (хотя уровнево ты можешь и выше явно).",
+          "scoredAt": "2026-10-22T05:39:33.887Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -51078,7 +51084,7 @@
           "scoredAt": "2026-10-14T14:19:40.834Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:12:28.148Z",
+      "fetchedAt": "2026-10-22T05:42:00.956Z",
       "current": true,
       "artistName": "XET",
       "artistSlug": "xet",
@@ -83656,8 +83662,14 @@
     },
     {
       "userId": "430cf458-8ff5-4777-8327-6e039d8389c6",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "comment": "Баттлы сдохли — это тру, я тут, чтобы заработать и начать свою игру (с) сам себе в итоге запротиворечил, так что слезай с мертвой лошади) ",
+          "scoredAt": "2026-10-22T05:39:00.304Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -83677,7 +83689,7 @@
           "scoredAt": "2026-10-14T20:35:08.863Z"
         }
       ],
-      "fetchedAt": "2026-10-20T22:32:18.767Z",
+      "fetchedAt": "2026-10-22T05:42:00.956Z",
       "current": true,
       "artistName": "Danila_Kok$",
       "artistSlug": "danila-kok",
@@ -97140,8 +97152,14 @@
     },
     {
       "userId": "87fa01d6-a70f-4c62-930e-8b8b7aaceb3c",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Такая нелепица конечно, но неплохо вайбит.",
+          "scoredAt": "2026-10-22T05:35:59.737Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -97167,7 +97185,7 @@
           "scoredAt": "2026-09-22T16:20:55.123Z"
         }
       ],
-      "fetchedAt": "2026-10-20T23:32:22.423Z",
+      "fetchedAt": "2026-10-22T05:42:00.956Z",
       "current": true,
       "artistName": "I KRA",
       "artistSlug": "i-kra",
@@ -113101,8 +113119,14 @@
     },
     {
       "userId": "e7eaa812-4814-4119-a788-b0437a1a8372",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "comment": "Я поставлю проходной балл, но очень однообразно, не хватает изюминки. К концу трека немного разошелся",
+          "scoredAt": "2026-10-22T05:41:09.070Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 3,
@@ -113122,7 +113146,7 @@
           "scoredAt": "2026-10-16T17:42:14.406Z"
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:20.242Z",
+      "fetchedAt": "2026-10-22T05:42:00.956Z",
       "current": true,
       "artistName": "OverSize25uk",
       "artistSlug": "oversize25uk",
@@ -124018,8 +124042,14 @@
     },
     {
       "userId": "10daf843-62ec-4507-b6ef-d8499f4fb89d",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "comment": "Ну, такое можно и вне баттла послушать. Раскрытие актуальное, это круто. ",
+          "scoredAt": "2026-10-22T05:37:26.924Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -124039,7 +124069,7 @@
           "scoredAt": "2026-10-12T21:02:47.886Z"
         }
       ],
-      "fetchedAt": "2026-10-22T02:02:50.609Z",
+      "fetchedAt": "2026-10-22T05:42:00.956Z",
       "current": true,
       "artistName": "whitespar",
       "artistSlug": "whitespar",

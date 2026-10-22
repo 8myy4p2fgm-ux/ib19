@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T05:32:03.924Z",
-  "exportedAt": "2026-10-22T05:32:03.924Z",
-  "runId": "2026-10-22T05:32:03.924Z",
-  "forumExportedAt": "2026-10-22T05:32:03.924Z",
+  "lastSuccessfulAt": "2026-10-22T05:42:00.956Z",
+  "exportedAt": "2026-10-22T05:42:00.956Z",
+  "runId": "2026-10-22T05:42:00.956Z",
+  "forumExportedAt": "2026-10-22T05:42:00.956Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15789,
+    "scores": 15794,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 9,
+    "httpRequests": 8,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 6,
+    "updatedCards": 5,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 6,
-    "changedParticipants": 6,
-    "logicalRequests": 9,
-    "durationMs": 9102,
-    "scoresBefore": 15783,
-    "scoresAfter": 15789,
+    "participantsWithNewScores": 5,
+    "changedParticipants": 5,
+    "logicalRequests": 8,
+    "durationMs": 8324,
+    "scoresBefore": 15789,
+    "scoresAfter": 15794,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.72552607502287,
+    "requestReductionPercent": 99.75602317779811,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,41 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "OverSize25uk",
+          "comment": "Я поставлю проходной балл, но очень однообразно, не хватает изюминки. К концу трека немного разошелся",
+          "scoredAt": "2026-10-22T05:41:09.070Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "XET",
+          "comment": "Вот вроде бы ритмически делаешь так как надо, как будто бы зритель офлайн баттлов и прочих бпмов.\n\nНо при этом ощущается это все серовато и безлико, будто бы тебя, молодого Яндекса в этом всем не особо много есть. 3.5 я бы поставил, но с учетом текста местами радирифменного (под такую бпм-ную подачку) все же упаду в сторону 3. Впрочем, тоже проходная оценка (хотя уровнево ты можешь и выше явно).",
+          "scoredAt": "2026-10-22T05:39:33.887Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 2,
+          "artist": "Danila_Kok$",
+          "comment": "Баттлы сдохли — это тру, я тут, чтобы заработать и начать свою игру (с) сам себе в итоге запротиворечил, так что слезай с мертвой лошади) ",
+          "scoredAt": "2026-10-22T05:39:00.304Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "whitespar",
+          "comment": "Ну, такое можно и вне баттла послушать. Раскрытие актуальное, это круто. ",
+          "scoredAt": "2026-10-22T05:37:26.924Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "I KRA",
+          "comment": "Такая нелепица конечно, но неплохо вайбит.",
+          "scoredAt": "2026-10-22T05:35:59.737Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 3,
@@ -164,41 +199,6 @@
           "artist": "Ялли 21",
           "comment": "О, на этом треке я проснулась! Какие там трубы сношала женщина ГГ я не знаю, но Лидаморген выглядит даже солидно. Тема притянута косвенно через \"пиздит и пиздит\" - я разобралась, но наверняка не все поймут. Вполне можно во второй раунд заезжать, удачи там. ",
           "scoredAt": "2026-10-22T05:13:02.809Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "МС ВЕТЕР",
-          "comment": "О, вот это был ВНЕЗАПНЫЙ ход в середине трека, убедил! ",
-          "scoredAt": "2026-10-22T05:04:18.063Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Черный котэ",
-          "comment": "Сторителлинг на минуту - всегда уважаемо! ",
-          "scoredAt": "2026-10-22T05:02:29.238Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 3,
-          "artist": "Lucky_Jazz",
-          "comment": "Клетка скорее ржавая, а не золотая. ) Просто по рифмам, но сшито неплохо.",
-          "scoredAt": "2026-10-22T05:01:59.049Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 4,
-          "artist": "Prolife",
-          "comment": "Ох, рифмы-рифмы мои глагольные) но тема раскрыта, идею донес. Самое красивое тут - тембр голоса, который все тащит и хук классный.  ",
-          "scoredAt": "2026-10-22T05:00:53.554Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Silver",
-          "comment": "На проход как по мне - начитал, для прохода в 3 вот маловато будет скиллов. Очень милый позитивный вайб и умело выбранный под себя минус. Не хватает опыта по подаче. ",
-          "scoredAt": "2026-10-22T04:58:55.588Z"
         }
       ]
     }
