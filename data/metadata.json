@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T07:12:09.177Z",
-  "exportedAt": "2026-10-22T07:12:09.177Z",
-  "runId": "2026-10-22T07:12:09.177Z",
-  "forumExportedAt": "2026-10-22T07:12:09.177Z",
+  "lastSuccessfulAt": "2026-10-22T07:27:10.547Z",
+  "exportedAt": "2026-10-22T07:27:10.547Z",
+  "runId": "2026-10-22T07:27:10.547Z",
+  "forumExportedAt": "2026-10-22T07:27:10.547Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15810,
+    "scores": 15812,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 4,
+    "httpRequests": 5,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 1,
+    "updatedCards": 2,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 1,
-    "changedParticipants": 1,
-    "logicalRequests": 4,
-    "durationMs": 3888,
-    "scoresBefore": 15809,
-    "scoresAfter": 15810,
+    "participantsWithNewScores": 2,
+    "changedParticipants": 2,
+    "logicalRequests": 5,
+    "durationMs": 5105,
+    "scoresBefore": 15810,
+    "scoresAfter": 15812,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.87801158889906,
+    "requestReductionPercent": 99.84751448612383,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,20 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 1,
+          "artist": "Bery",
+          "comment": "Нуя ппц в ахере с таких заявок, блин. Как же кекно и круто гудит бас.",
+          "scoredAt": "2026-10-22T07:22:15.856Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "theSW",
+          "comment": "Грязновато по реализации как-то :-/ Вроде бы, к сведосу особо в первом раунде не докапываемся, но вот настолько с бэками намешал грязюки, что не понять, то ли ты нажевал, то ли просто бэки настолько громкие и создают такую мешанину. У тебя есть неплохое интонирование так то во многих местах, да и в базе своей будто бы приятный голос и подача. Но с такой реализацией итоговой сложно ставить 4, хочется зацепиться за что-то еще, помимо звука, но ритмика у нас квадратненькая и монотонная вышла, трек неудачно обрезан, текстулет тоже не фонтан. Вот и думай, блин! Мог бы на уверенном на всех 4-ках проходить +- с твоей то подачей, а так, вероятно, вылетишь.",
+          "scoredAt": "2026-10-22T07:15:23.668Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 2,
@@ -185,20 +199,6 @@
           "artist": "Muddy M",
           "comment": "Узкоформатный исполнитель, но звучишь интересно за счет прикольного текста. ",
           "scoredAt": "2026-10-22T05:46:34.751Z"
-        },
-        {
-          "judgeName": "XSive MC",
-          "score": 1,
-          "artist": "XET",
-          "comment": "Недорепрезент с сомнительным исполнением. Какое-то адище и шизофрения.",
-          "scoredAt": "2026-10-22T05:45:24.498Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "ixoma",
-          "comment": "Во втором раунде разнообразь исполнение и прими во внимание что рэп про рэп тут сделало 50% участников (большинство вылетит)",
-          "scoredAt": "2026-10-22T05:45:08.100Z"
         }
       ]
     }
