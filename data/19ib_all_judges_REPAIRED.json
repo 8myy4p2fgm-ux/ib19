@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T19:21:58.563Z",
+  "exportedAt": "2026-10-22T19:42:08.167Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -98445,47 +98445,6 @@
       "trackId": "0d20ecf1-59de-4392-b965-bd9b1c4ea060"
     },
     {
-      "userId": "5971418b-f8dc-4de3-b14a-535cc46b6128",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "r1fmabes",
-          "score": 4,
-          "comment": "Крепко, на опыте, все хорошо. В конце не очень раскладка понравилась, но пойдет. ",
-          "scoredAt": "2026-10-19T15:46:20.534Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "comment": "заключительный стрим разбор 4",
-          "scoredAt": "2026-10-15T16:27:09.983Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "comment": "Стрим 6",
-          "scoredAt": "2026-10-06T17:58:29.143Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 4,
-          "comment": "Бодро. Но один сплошной поток текста, побольше бы разнообразия в римтиках.\n\nСудейство: twitch.tv/illumatricks.\n",
-          "scoredAt": "2026-10-03T18:24:21.561Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 4,
-          "comment": "читать умеешь слышен опыт. но все рифмы абсолютное баянище переюзанное всеми. 4 с минусом. ",
-          "scoredAt": "2026-09-29T12:50:15.136Z"
-        }
-      ],
-      "fetchedAt": "2026-10-19T19:40:28.107Z",
-      "current": true,
-      "artistName": "друг рэпер [ОПЛЯ]",
-      "artistSlug": "drug-reper-oplya",
-      "trackId": "04bd30fa-e34e-4d5e-ba68-2aedd2b36ace"
-    },
-    {
       "userId": "cc7acc06-c1ee-46a4-a8d4-0686dadc6fe6",
       "scoredCount": 5,
       "scores": [
@@ -126323,6 +126282,47 @@
       "artistName": "Аркадий Туз",
       "artistSlug": "arkadiy-tuz",
       "trackId": "12912369-1508-4e1f-9923-d18f1f008152"
+    },
+    {
+      "userId": "5971418b-f8dc-4de3-b14a-535cc46b6128",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "r1fmabes",
+          "score": 4,
+          "comment": "Крепко, на опыте, все хорошо. В конце не очень раскладка понравилась, но пойдет. ",
+          "scoredAt": "2026-10-19T15:46:20.534Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "заключительный стрим разбор 4",
+          "scoredAt": "2026-10-15T16:27:09.983Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Стрим 6",
+          "scoredAt": "2026-10-06T17:58:29.143Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 4,
+          "comment": "Бодро. Но один сплошной поток текста, побольше бы разнообразия в римтиках.\n\nСудейство: twitch.tv/illumatricks.\n",
+          "scoredAt": "2026-10-03T18:24:21.561Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 4,
+          "comment": "читать умеешь слышен опыт. но все рифмы абсолютное баянище переюзанное всеми. 4 с минусом. ",
+          "scoredAt": "2026-09-29T12:50:15.136Z"
+        }
+      ],
+      "fetchedAt": "2026-10-19T19:40:28.107Z",
+      "current": true,
+      "artistName": "друг рэпер [ОПЛЯ]",
+      "artistSlug": "drug-reper-oplya",
+      "trackId": "04bd30fa-e34e-4d5e-ba68-2aedd2b36ace"
     },
     {
       "userId": "992a182e-daa5-47bd-b55c-cfce44e29ceb",
