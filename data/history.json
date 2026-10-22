@@ -176294,6 +176294,594 @@
         "scoredAt": "2026-10-22T00:26:26.857Z",
         "userId": "bb5be048-bc7a-41d3-b65b-1cd1a8879fbd"
       }
+    },
+    {
+      "id": "a55f655bb00822784f45719009ff61fe34300f8c11d409720dbc09f4bceec8ae",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:35:13.497Z",
+      "key": "[\"f4a50b5d-cee8-404c-a5c0-e8327a7a9e39\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "хороший текст",
+        "scoredAt": "2026-10-22T00:35:13.497Z",
+        "userId": "f4a50b5d-cee8-404c-a5c0-e8327a7a9e39"
+      }
+    },
+    {
+      "id": "08728955628f098ffd856bcefdf98aeaa9dfd4cea3eb5868b65168722fac8bff",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:42:35.970Z",
+      "key": "[\"723a8e0c-d47d-4431-85a9-90a579f60fe8\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "голос приятный, но звучит как демка, без стараний",
+        "scoredAt": "2026-10-22T00:42:35.970Z",
+        "userId": "723a8e0c-d47d-4431-85a9-90a579f60fe8"
+      }
+    },
+    {
+      "id": "518823a2633144e9ee8496f43e2f22f120130186a3ecc5604b5fbbbf98122100",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:35:41.592Z",
+      "key": "[\"a5c65ec1-b85c-4c06-8fd9-c0a55b9b0eba\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:35:41.592Z",
+        "userId": "a5c65ec1-b85c-4c06-8fd9-c0a55b9b0eba"
+      }
+    },
+    {
+      "id": "b599fcca14e36670d019aff6c1bcd5b72f1365b3bfa9ef92da614c78ee340eed",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:40:34.518Z",
+      "key": "[\"94f0b8f7-dc10-4d1e-8c38-17a74fba7720\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "интересно",
+        "scoredAt": "2026-10-22T00:40:34.518Z",
+        "userId": "94f0b8f7-dc10-4d1e-8c38-17a74fba7720"
+      }
+    },
+    {
+      "id": "c8e65e41b0521b3480ad0a5599447ae93e5f2be8b58abe9af9c536ea8f86d137",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:34:49.115Z",
+      "key": "[\"56474f9f-0e30-4b34-b755-b459c68d856a\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
+        "scoredAt": "2026-10-22T00:34:49.115Z",
+        "userId": "56474f9f-0e30-4b34-b755-b459c68d856a"
+      }
+    },
+    {
+      "id": "3684ef0b22366684d8b687a5ade2b9570258b2f381ca62a3cb1be298f2e9dd55",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:32:46.316Z",
+      "key": "[\"0437d93e-1025-461a-8bc5-80413899906d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:32:46.316Z",
+        "userId": "0437d93e-1025-461a-8bc5-80413899906d"
+      }
+    },
+    {
+      "id": "c499a8c3d28d93606bc8e82c69ebe99d84f8b375c8d45f72cbd072e57012077d",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:37:45.592Z",
+      "key": "[\"24fa9597-d69c-4920-b9f3-33992bcedf32\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "ахаах)) ну бит читерский ",
+        "scoredAt": "2026-10-22T00:37:45.592Z",
+        "userId": "24fa9597-d69c-4920-b9f3-33992bcedf32"
+      }
+    },
+    {
+      "id": "fd4ef398106188b87ce537773cc4e2bb8caaea0f30b2afe2b94a8d5fca9e2e4d",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:36:32.991Z",
+      "key": "[\"9c87a5df-3603-48ab-af0d-b31ffc3a030d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:36:32.991Z",
+        "userId": "9c87a5df-3603-48ab-af0d-b31ffc3a030d"
+      }
+    },
+    {
+      "id": "b0659fff4be13b984a6331990f714235217ba74cbb916ebdbdfe9c17f4d9955c",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:34:53.895Z",
+      "key": "[\"7d857316-a546-4c9f-a3d4-028c8ab939c8\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:34:53.895Z",
+        "userId": "7d857316-a546-4c9f-a3d4-028c8ab939c8"
+      }
+    },
+    {
+      "id": "c280081468c6f3aab81d0bd1c982e564f82c119254949080cfd390c57e19981c",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:38:00.848Z",
+      "key": "[\"a401b9bd-4a8c-4b12-830b-26e6e6e80b00\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:38:00.848Z",
+        "userId": "a401b9bd-4a8c-4b12-830b-26e6e6e80b00"
+      }
+    },
+    {
+      "id": "d3d573ec6bf29094c6b1c81a61df0bee661eae4220ecfee7988cf25ae12e1eca",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:38:48.248Z",
+      "key": "[\"3496cf7f-51a6-4da0-ab3b-c54221f7925d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:38:48.248Z",
+        "userId": "3496cf7f-51a6-4da0-ab3b-c54221f7925d"
+      }
+    },
+    {
+      "id": "492466354ca1e69cf650419504f48dbfb1ea4ee5da6d0aecd0a6b46212340fb8",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:38:26.368Z",
+      "key": "[\"ec21270e-caed-48ee-acb3-964edacd2cc7\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:38:26.368Z",
+        "userId": "ec21270e-caed-48ee-acb3-964edacd2cc7"
+      }
+    },
+    {
+      "id": "b2b902868c90ca2d4e0e561d3977ce3df94bf2323ed331abaacb4f343111f893",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:39:58.874Z",
+      "key": "[\"acebb8bf-f59d-4899-9240-e22a9e9eba05\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:39:58.874Z",
+        "userId": "acebb8bf-f59d-4899-9240-e22a9e9eba05"
+      }
+    },
+    {
+      "id": "613d6b0332e5d177dba29c0b5b8db244747319007bcb6582981318c65cb000b5",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:38:32.771Z",
+      "key": "[\"3960601c-77ce-4b60-b618-1d74aed7f912\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "💖💖💖\n\nбамбл бизи икает",
+        "scoredAt": "2026-10-22T00:38:32.771Z",
+        "userId": "3960601c-77ce-4b60-b618-1d74aed7f912"
+      }
+    },
+    {
+      "id": "a5a3454258a86b10c75021e4f2b7e181f9f2f61d24558a7ea35d40bc8e7a92b8",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:38:15.064Z",
+      "key": "[\"97c26824-a1df-4514-97e5-b74bde0118d1\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:38:15.064Z",
+        "userId": "97c26824-a1df-4514-97e5-b74bde0118d1"
+      }
+    },
+    {
+      "id": "b54d0fa67277f7855326da57e5409a7a1af8093fcb0e00f34e8d176999997328",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:42:11.191Z",
+      "key": "[\"cef0f957-f940-4d4e-ab4b-7b91bc4f1df3\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "ВОТ ОНИ МОИ ВОИНЫ ОНЛАЙН БАТТЛОВ, ЩИТЫ ЗА ВАС!!!",
+        "scoredAt": "2026-10-22T00:42:11.191Z",
+        "userId": "cef0f957-f940-4d4e-ab4b-7b91bc4f1df3"
+      }
+    },
+    {
+      "id": "ce287f5c498f3823dcd74bb4a5ab84341a706670d76a8405a644d138e409a8b8",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:36:45.393Z",
+      "key": "[\"8670bcdd-b61b-4ac1-a350-3c87f0570e0e\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:36:45.393Z",
+        "userId": "8670bcdd-b61b-4ac1-a350-3c87f0570e0e"
+      }
+    },
+    {
+      "id": "88f6e728037f078c35e3206f8d85404c993244d59439481bb6f362d1133961b9",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:32:40.605Z",
+      "key": "[\"01a6c801-5697-4c91-898c-7757fe1087b1\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Цепляет",
+        "scoredAt": "2026-10-22T00:32:40.605Z",
+        "userId": "01a6c801-5697-4c91-898c-7757fe1087b1"
+      }
+    },
+    {
+      "id": "9e0e50f6882692e556d7aad4412aeb2e7aef2c4102958650b16add0a8c8c8b3f",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:34:18.390Z",
+      "key": "[\"6159783a-38b5-4e81-a270-6baf2fec1529\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
+        "scoredAt": "2026-10-22T00:34:18.390Z",
+        "userId": "6159783a-38b5-4e81-a270-6baf2fec1529"
+      }
+    },
+    {
+      "id": "6411f54aaf9302cf058b78934530f3693b04a0ac9fb9f28f4c701df88ce7b769",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:40:13.191Z",
+      "key": "[\"df663ce9-b6e5-48c3-896d-39403d50a445\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:40:13.191Z",
+        "userId": "df663ce9-b6e5-48c3-896d-39403d50a445"
+      }
+    },
+    {
+      "id": "4c7d8abb65f6bce8319b50492f168476761eeb83ddd7654e9c28d971873e1dfb",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:41:49.346Z",
+      "key": "[\"e155a805-5906-402b-b3fa-1df221e023c4\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:41:49.346Z",
+        "userId": "e155a805-5906-402b-b3fa-1df221e023c4"
+      }
+    },
+    {
+      "id": "e9f17b4bf2e15d0e2d03e55c758a11d959028b89688ecba47acef202b519178f",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:35:23.650Z",
+      "key": "[\"e155a805-5906-402b-b3fa-1df221e023c4\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
+        "scoredAt": "2026-10-22T00:35:23.650Z",
+        "userId": "e155a805-5906-402b-b3fa-1df221e023c4"
+      }
+    },
+    {
+      "id": "536dd224eb289aeea44222755a8f2307576884f8ee930725128404e76cd3ad5c",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:34:33.019Z",
+      "key": "[\"bf80c5bd-a264-4c5f-8a53-dd23181432f7\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошо!",
+        "scoredAt": "2026-10-22T00:34:33.019Z",
+        "userId": "bf80c5bd-a264-4c5f-8a53-dd23181432f7"
+      }
+    },
+    {
+      "id": "c22fd7c9d0a84840376a666775116f168f741d9677d7a4e0e22701d255a3a033",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:37:10.944Z",
+      "key": "[\"e8e32650-ed78-42c4-ac8d-1377f0311708\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:37:10.944Z",
+        "userId": "e8e32650-ed78-42c4-ac8d-1377f0311708"
+      }
+    },
+    {
+      "id": "0cfb129a03d10e6feafb6ff313ef56865f1935690b99ac84e36f64a6267478ff",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:33:51.125Z",
+      "key": "[\"44cb31c3-ec07-4320-9f12-ae6498d4f607\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "Хорошо!",
+        "scoredAt": "2026-10-22T00:33:51.125Z",
+        "userId": "44cb31c3-ec07-4320-9f12-ae6498d4f607"
+      }
+    },
+    {
+      "id": "8c114652a086f97ffc53ff421702439814552a2151fe239a593ecc5e6a50171e",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:37:45.190Z",
+      "key": "[\"7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 1,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:37:45.190Z",
+        "userId": "7edc4f43-28cc-4a9d-b62c-cc9bf60da5ec"
+      }
+    },
+    {
+      "id": "2fd1134d481348a1e574d160b382033b639004ec6274eb8537950698d605fca8",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:42:03.450Z",
+      "key": "[\"106deadd-8e2d-4d4d-a3c3-0177f8d288eb\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:42:03.450Z",
+        "userId": "106deadd-8e2d-4d4d-a3c3-0177f8d288eb"
+      }
+    },
+    {
+      "id": "4536f9f50ca36121e83420375f308ab7e9cd0b1be65d0ae8acc54ed464a35588",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:41:12.945Z",
+      "key": "[\"d9164a66-2a7d-4dcf-9d38-5a7c06f9a328\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:41:12.945Z",
+        "userId": "d9164a66-2a7d-4dcf-9d38-5a7c06f9a328"
+      }
+    },
+    {
+      "id": "5e8e43e505f0947d259bd215ba8e5113b5a5c40ae1b0f52a2039d3da127763f1",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:37:24.770Z",
+      "key": "[\"a6256fb3-6dfe-4a52-a694-35f7b5940834\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "💥💥💥",
+        "scoredAt": "2026-10-22T00:37:24.770Z",
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834"
+      }
+    },
+    {
+      "id": "f67fc38f55c03facf8fa57da102376b0d821e13196ec170e2ef9f5664bb5e4ca",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:39:37.873Z",
+      "key": "[\"c59b28cf-0f0a-4510-a7ee-cb4c4ae8573d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:39:37.873Z",
+        "userId": "c59b28cf-0f0a-4510-a7ee-cb4c4ae8573d"
+      }
+    },
+    {
+      "id": "348f61e0d93027ffced6d79f0d2f0cabfebe536574af3237b3b5a65d2d6f8671",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:32:37.309Z",
+      "key": "[\"a7528d22-abbe-41eb-a564-d0a67ec23820\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:32:37.309Z",
+        "userId": "a7528d22-abbe-41eb-a564-d0a67ec23820"
+      }
+    },
+    {
+      "id": "a23ea0de9b4519e34baa73536feeb6d5785d7b761a2a989592bbf323d76b39ec",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:41:04.073Z",
+      "key": "[\"8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:41:04.073Z",
+        "userId": "8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7"
+      }
+    },
+    {
+      "id": "7990ae0b7d5e69c4a320aab473b18027d1f6c10ccd750008a9f89a5e7c7069d4",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:40:44.930Z",
+      "key": "[\"318db77e-cb24-4532-a6cf-1d550c88e23b\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "поэтично, авансом ",
+        "scoredAt": "2026-10-22T00:40:44.930Z",
+        "userId": "318db77e-cb24-4532-a6cf-1d550c88e23b"
+      }
+    },
+    {
+      "id": "29f62584f9ff1e9edd09c960f2d37750bd446d0ddedf192e6afa9b7e3083bae5",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:39:42.140Z",
+      "key": "[\"e40e4261-bf65-4bce-b289-7a504302ad9b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 2,
+        "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+        "scoredAt": "2026-10-22T00:39:42.140Z",
+        "userId": "e40e4261-bf65-4bce-b289-7a504302ad9b"
+      }
+    },
+    {
+      "id": "0f18babe688d8736538555a8b72a5fd91b1ef097901f40e49c8b141b741ef016",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:34:28.165Z",
+      "key": "[\"15510c9a-614c-4e61-8a0d-f52bba52613d\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:34:28.165Z",
+        "userId": "15510c9a-614c-4e61-8a0d-f52bba52613d"
+      }
+    },
+    {
+      "id": "56dd92f545c16d7e3a869bd95717c7766320aa8c9bc7b3a99d0ff5b3c2ca29cf",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:40:08.515Z",
+      "key": "[\"128bff28-57cb-42d8-bbef-6cd0a6baea81\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:40:08.515Z",
+        "userId": "128bff28-57cb-42d8-bbef-6cd0a6baea81"
+      }
+    },
+    {
+      "id": "573e9d0e21d8f871fd5e0c3aa0b1ece6b67e1dd5d4a12158b6a0fa3024c92ef9",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:33:16.925Z",
+      "key": "[\"3f7dfac0-6513-4c68-8011-b8614abe4249\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 2,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:33:16.925Z",
+        "userId": "3f7dfac0-6513-4c68-8011-b8614abe4249"
+      }
+    },
+    {
+      "id": "2985f4db7231dd8dba1d759fc9fcd1accb52fdfe3bc2468450795478e7516deb",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:32:57.620Z",
+      "key": "[\"29a7d900-e192-4648-b1ba-285525eefd5b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 5,
+        "comment": "охуенно!",
+        "scoredAt": "2026-10-22T00:32:57.620Z",
+        "userId": "29a7d900-e192-4648-b1ba-285525eefd5b"
+      }
+    },
+    {
+      "id": "c5e4c18a51b0ae97d09d48fd91897fe81afec5ef433f8a0fd9f9d6f8f6fbb640",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:35:47.911Z",
+      "key": "[\"af2de241-f261-4fd1-be8a-d1267386e712\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 4,
+        "comment": "ну кому тут регги нужен, надо больше читать, более технично, более форматно. \nдавай исправляйся ",
+        "scoredAt": "2026-10-22T00:35:47.911Z",
+        "userId": "af2de241-f261-4fd1-be8a-d1267386e712"
+      }
+    },
+    {
+      "id": "a54d01a3c724a797d0307fd13ddd85a2ec4f907881a37a55432d8d35af3749d4",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:39:57.072Z",
+      "key": "[\"476584de-afdd-4848-95f3-fe3c5cd0050b\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 3,
+        "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
+        "scoredAt": "2026-10-22T00:39:57.072Z",
+        "userId": "476584de-afdd-4848-95f3-fe3c5cd0050b"
+      }
+    },
+    {
+      "id": "cf9850c6c12a1c28bc49335a335701bdff26ebb9b9d93022dfe280b80985859a",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:33:17.094Z",
+      "key": "[\"05e8ab68-9dad-43a6-ac64-c4b0e9fb21bd\",\"СТИШ\"]",
+      "before": null,
+      "after": {
+        "judgeName": "СТИШ",
+        "score": 4,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:33:17.094Z",
+        "userId": "05e8ab68-9dad-43a6-ac64-c4b0e9fb21bd"
+      }
+    },
+    {
+      "id": "a1d5eb703c56e368bf05e971c8ac9e1cae199dedcea6341531e641b6334d1af8",
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "sourceScoredAt": "2026-10-22T00:32:25.383Z",
+      "key": "[\"f2da9b8a-fe80-47f8-a813-c88aec2ff615\",\"KseroN\"]",
+      "before": null,
+      "after": {
+        "judgeName": "KseroN",
+        "score": 3,
+        "comment": "",
+        "scoredAt": "2026-10-22T00:32:25.383Z",
+        "userId": "f2da9b8a-fe80-47f8-a813-c88aec2ff615"
+      }
     }
   ],
   "snapshots": [
@@ -191513,6 +192101,26 @@
           "index": 31.811771339860712,
           "favor": 17.940283329431107,
           "attention": 3.2736619234730857,
+          "respect": 10.597826086956522
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T00:42:41.966Z",
+      "exportedAt": "2026-10-22T00:42:41.966Z",
+      "scores": 15593,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 20.129002535374312,
+          "favor": 8.591050555146335,
+          "attention": 5.626187274345626,
+          "respect": 5.911764705882353
+        },
+        "veterans": {
+          "index": 31.849486661412158,
+          "favor": 17.934571617458815,
+          "attention": 3.317088956996821,
           "respect": 10.597826086956522
         }
       }

@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T00:32:20.221Z",
-  "exportedAt": "2026-10-22T00:32:20.221Z",
-  "runId": "2026-10-22T00:32:20.221Z",
-  "forumExportedAt": "2026-10-22T00:32:20.221Z",
+  "lastSuccessfulAt": "2026-10-22T00:42:41.966Z",
+  "exportedAt": "2026-10-22T00:42:41.966Z",
+  "runId": "2026-10-22T00:42:41.966Z",
+  "forumExportedAt": "2026-10-22T00:42:41.966Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15551,
+    "scores": 15593,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 33,
+    "httpRequests": 46,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 29,
+    "updatedCards": 41,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 29,
-    "changedParticipants": 26,
-    "logicalRequests": 33,
-    "durationMs": 32908,
-    "scoresBefore": 15521,
-    "scoresAfter": 15551,
+    "participantsWithNewScores": 41,
+    "changedParticipants": 38,
+    "logicalRequests": 46,
+    "durationMs": 45774,
+    "scoresBefore": 15551,
+    "scoresAfter": 15593,
     "fullBaselineRequests": 3278,
-    "requestReductionPercent": 98.99328859060402,
+    "requestReductionPercent": 98.59670530811471,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -97,108 +97,108 @@
       "feed": [
         {
           "judgeName": "KseroN",
-          "score": 3,
-          "artist": "tnf alex",
+          "score": 2,
+          "artist": "SavaJoint",
           "comment": "",
-          "scoredAt": "2026-10-22T00:31:43.933Z"
+          "scoredAt": "2026-10-22T00:41:49.346Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Solaris",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:41:12.945Z"
         },
         {
           "judgeName": "KseroN",
           "score": 4,
-          "artist": "БАЙРОНИЧЕСКИЙ",
+          "artist": "NeOn-Mc",
           "comment": "",
-          "scoredAt": "2026-10-22T00:31:28.853Z"
+          "scoredAt": "2026-10-22T00:41:04.073Z"
         },
         {
           "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Старый Гурд",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:31:17.027Z"
+          "score": 4,
+          "artist": "Navara Karavan",
+          "comment": "поэтично, авансом ",
+          "scoredAt": "2026-10-22T00:40:44.930Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "Tipsyxgipsy",
-          "comment": "Хорошо",
-          "scoredAt": "2026-10-22T00:31:16.887Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Annntonym",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:31:03.220Z"
+          "artist": "Ничевок",
+          "comment": "интересно",
+          "scoredAt": "2026-10-22T00:40:34.518Z"
         },
         {
           "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "MF Win",
+          "score": 1,
+          "artist": "Бескрайняя Плоть",
           "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-22T00:30:50.140Z"
+          "scoredAt": "2026-10-22T00:40:13.191Z"
         },
         {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Пепел Музыка",
-          "comment": "ок!",
-          "scoredAt": "2026-10-22T00:30:32.187Z"
-        },
-        {
-          "judgeName": "СТИШ",
+          "judgeName": "KseroN",
           "score": 2,
-          "artist": "fatmasta",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-22T00:30:08.525Z"
+          "artist": "Мц На три буквы",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:40:08.515Z"
         },
         {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Никита Полосин",
-          "comment": "Подача заебись!",
-          "scoredAt": "2026-10-22T00:29:55.456Z"
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "PALLADON",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:39:58.874Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 3,
-          "artist": "zlnk93",
-          "comment": "Норм!",
-          "scoredAt": "2026-10-22T00:29:33.567Z"
+          "artist": "JeKa",
+          "comment": "Просто средняя работа, в которой не за что зацепиться, но при этом и не настолько плохо звучишь, чтобы ставить 2 или 1.",
+          "scoredAt": "2026-10-22T00:39:57.072Z"
         },
         {
-          "judgeName": "XSive MC",
+          "judgeName": "СТИШ",
           "score": 2,
-          "artist": "Tshirt InThe Blood",
-          "comment": "Это типа про селфхарм или че? Отыгрыш в мини сценках очень карикатурный и хаотурный. В плане содержания не живо и надуманно. Одна огромная прелюдия, без сюжета как такового, в чем мотивация персонажа - ничего не понятно. Непосредственно звучит, но больше выделить нечего, с реализацией не очень справился.",
-          "scoredAt": "2026-10-22T00:29:03.224Z"
+          "artist": "Lil’в’УшИ",
+          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
+          "scoredAt": "2026-10-22T00:39:42.140Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Akela_rl",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:39:37.873Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "artist": "Гюнтер Одим",
+          "comment": "",
+          "scoredAt": "2026-10-22T00:38:48.248Z"
         },
         {
           "judgeName": "СТИШ",
           "score": 5,
-          "artist": "Дживан",
-          "comment": "ШЛИ ВСЕХ В ПИЗДУ, НОРМ РЭП!",
-          "scoredAt": "2026-10-22T00:28:10.462Z"
+          "artist": "Josey",
+          "comment": "💖💖💖\n\nбамбл бизи икает",
+          "scoredAt": "2026-10-22T00:38:32.771Z"
         },
         {
           "judgeName": "KseroN",
-          "score": 3,
-          "artist": "Юра Гапон",
+          "score": 4,
+          "artist": "Задира",
           "comment": "",
-          "scoredAt": "2026-10-22T00:27:41.970Z"
+          "scoredAt": "2026-10-22T00:38:26.368Z"
         },
         {
           "judgeName": "KseroN",
-          "score": 2,
-          "artist": "Senat",
+          "score": 4,
+          "artist": "СЕРВАК",
           "comment": "",
-          "scoredAt": "2026-10-22T00:27:17.859Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "artist": "zlnk93",
-          "comment": "",
-          "scoredAt": "2026-10-22T00:27:04.530Z"
+          "scoredAt": "2026-10-22T00:38:15.064Z"
         }
       ]
     }
