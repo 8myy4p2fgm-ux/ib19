@@ -3819,14 +3819,53 @@
       "battle_name": "Кот Форумчанина",
       "battle_profile_url": "https://19ib.ru/artist/kot-forumchanina",
       "forum_profile_url": "https://www.hip-hop.ru/forum/id166698-k_slim"
+    },
+    {
+      "group": "OG",
+      "forum_name": "petren",
+      "userId": "67579723-cfb5-4450-809c-ceaec3fd658f",
+      "veteran": false,
+      "scores": [
+        {
+          "judgeName": "Гарикъ Истерин",
+          "score": 5,
+          "comment": "Что-то в этом есть! Простенько, но со вкусом, звук понравился, раскрытие интересное ) добавь в следующий раунд клевых строчек/пэнчиков, лови 5 с минусом ! ",
+          "scoredAt": "2026-10-15T07:34:32.730Z"
+        },
+        {
+          "judgeName": "Бен Арфа",
+          "score": 5,
+          "comment": "На стиле)",
+          "scoredAt": "2026-10-13T07:37:22.293Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Шестой стрим.",
+          "scoredAt": "2026-10-11T13:28:52.152Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Прикольный стиль у тебя. С ритмикой у тебя всё хорошо, приятно слушать. Нам столько гениев по тексту попадалось, так что тебе точно 5 можно поставить. ",
+          "scoredAt": "2026-10-08T18:53:03.238Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "comment": "жизнь - боль...\nно трек понравился",
+          "scoredAt": "2026-10-08T12:11:22.035Z"
+        }
+      ],
+      "current": true
     }
   ],
   "errors": [],
   "directory": {
     "source": "data/forum.csv",
-    "sha256": "00d3770f1e63e923d2efc36198960836086fc768a1231f1625cb05fc2eae8a45",
-    "total": 98,
-    "og": 70,
+    "sha256": "755cb2c4554f7f2961997407bd25bb685603edf09c7496a8ba62761fd9560ac6",
+    "total": 99,
+    "og": 71,
     "veterans": 28
   },
   "quarantinedMembers": []

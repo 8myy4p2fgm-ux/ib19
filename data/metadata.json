@@ -4,21 +4,21 @@
   "exportedAt": "2026-10-22T09:42:00.990Z",
   "runId": "2026-10-22T09:42:00.990Z",
   "forumExportedAt": "2026-10-22T09:42:00.990Z",
-  "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+  "selectionVersion": "234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51",
   "directory": {
     "source": "data/forum.csv",
-    "sha256": "00d3770f1e63e923d2efc36198960836086fc768a1231f1625cb05fc2eae8a45",
-    "total": 98,
-    "og": 70,
+    "sha256": "755cb2c4554f7f2961997407bd25bb685603edf09c7496a8ba62761fd9560ac6",
+    "total": 99,
+    "og": 71,
     "veterans": 28
   },
   "counts": {
     "participants": 3275,
-    "forum": 97,
+    "forum": 98,
     "scores": 15903,
     "judges": 22,
-    "forumDirectory": 98,
-    "og": 69,
+    "forumDirectory": 99,
+    "og": 70,
     "veterans": 28,
     "archivedParticipants": 12
   },
