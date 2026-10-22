@@ -180396,6 +180396,202 @@
         "scoredAt": "2026-10-22T08:32:49.235Z",
         "userId": "bce81d3a-b3bf-4fce-8061-2a671e2af729"
       }
+    },
+    {
+      "id": "c89da6bf5772b79819d88d0d264afd58f00c985106368ce08281b2ec97284ade",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:46:24.080Z",
+      "key": "[\"723a8e0c-d47d-4431-85a9-90a579f60fe8\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Ты под чем-то медленным?) Есть что-то в этом стильке. ",
+        "scoredAt": "2026-10-22T08:46:24.080Z",
+        "userId": "723a8e0c-d47d-4431-85a9-90a579f60fe8"
+      }
+    },
+    {
+      "id": "942c023b44d11e46b611ecaf70b5515e94fb2909da3fe2c208271abcec4bcffd",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:47:31.393Z",
+      "key": "[\"7356205b-9e64-44fd-855d-631e5aa5b7fa\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Плохо звучит. Сведения бы сюда. ",
+        "scoredAt": "2026-10-22T08:47:31.393Z",
+        "userId": "7356205b-9e64-44fd-855d-631e5aa5b7fa"
+      }
+    },
+    {
+      "id": "6ff9370c7b1dfb4ed0f247952be19332c3b652caea9aba9ef639cecfea3d9422",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:46:02.826Z",
+      "key": "[\"5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0\",\"Мультифрукт\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Мультифрукт",
+        "score": 3,
+        "comment": "Стиль есть, но много оч простых строк, а повторения как прием тут не работают, много строк вообще толком без рифм, просто на созвучиях. За стилек - 4, вместе с текстом, увы, меньше.",
+        "scoredAt": "2026-10-22T08:46:02.826Z",
+        "userId": "5fb5890b-2ab5-4d61-8f1d-9f5e6f5005c0"
+      }
+    },
+    {
+      "id": "438f56a47d2137014f15d8fba79886eafe5b3ae7544b7cbd55af0a000c36ed0b",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:42:36.866Z",
+      "key": "[\"461618bc-c852-4dbb-ad1c-7b68f516d84c\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Нормальный стилёк, навалил по баттловому. Гоу во второй. ",
+        "scoredAt": "2026-10-22T08:42:36.866Z",
+        "userId": "461618bc-c852-4dbb-ad1c-7b68f516d84c"
+      }
+    },
+    {
+      "id": "c462c032f25af3bce344614cdd87f5b8aaf81a705f14ce278051d70ed8f8a683",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:43:04.299Z",
+      "key": "[\"80f94cac-143d-4830-b69f-413a5eab05ed\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Я тоже, бывает, так делаю, чтобы меньше есть :) По исполнению сносно, можно было реализовать твою фишку с рифморисунком, конечно, гораздо круче с более мощными данными. Рифму тяжело оценивать, тут, по сути, как приём идёт. Приём неоднозначный, но из-за него трек в пуле отбора хотя бы интересно смотрится. Есть прикольные строчки.",
+        "scoredAt": "2026-10-22T08:43:04.299Z",
+        "userId": "80f94cac-143d-4830-b69f-413a5eab05ed"
+      }
+    },
+    {
+      "id": "e3b79e5255d9a34fa3f6782114429c9578595ea5cd4854254465c1ac4832f973",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:51:30.717Z",
+      "key": "[\"e66e00e1-3670-4359-a455-c48fc03bc758\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Это прям странно) ",
+        "scoredAt": "2026-10-22T08:51:30.717Z",
+        "userId": "e66e00e1-3670-4359-a455-c48fc03bc758"
+      }
+    },
+    {
+      "id": "4b65158bfbb4669bdf7b5331f55944538234cf520e0fe666d8a5936abf32d04b",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:48:16.144Z",
+      "key": "[\"9da82b99-6327-4f40-b465-6c9ebc44c7d8\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 3,
+        "comment": "Жёсткая подача. Неоднозначная работа. Поставлю минимальный проход. ",
+        "scoredAt": "2026-10-22T08:48:16.144Z",
+        "userId": "9da82b99-6327-4f40-b465-6c9ebc44c7d8"
+      }
+    },
+    {
+      "id": "3f8f45dcc79b0542b1804ac54db5ed1910a9d34338b4cf72eaeaa1f78f82acfe",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:50:58.646Z",
+      "key": "[\"1f022d72-f01c-4e36-af12-c4fb563c8aff\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Ты круто звучишь, уверенно читаешь, вот ещё бы поработать с текстом и рифмой. ",
+        "scoredAt": "2026-10-22T08:50:58.646Z",
+        "userId": "1f022d72-f01c-4e36-af12-c4fb563c8aff"
+      }
+    },
+    {
+      "id": "e6be18eac0732b428c4213f0048a54f516599d4178812f8597f215d13124b546",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:49:15.933Z",
+      "key": "[\"b500d2f6-41a6-4b5a-9c74-dd9041d8e05a\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 5,
+        "comment": "Так лайтово и приятно звучит. Мне нравится. Ты полностью понимаешь, что делаешь. Крутая работа. ",
+        "scoredAt": "2026-10-22T08:49:15.933Z",
+        "userId": "b500d2f6-41a6-4b5a-9c74-dd9041d8e05a"
+      }
+    },
+    {
+      "id": "78b0a999ae0eef0e4e19e728238f41d94c61becfad983b8d7fdcbc70e1da6172",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:43:02.801Z",
+      "key": "[\"534c7fe5-c652-403d-a57a-3d5ef565f0f8\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 1,
+        "comment": "Самокритичный никнейм! На этом пока всё. ",
+        "scoredAt": "2026-10-22T08:43:02.801Z",
+        "userId": "534c7fe5-c652-403d-a57a-3d5ef565f0f8"
+      }
+    },
+    {
+      "id": "a41bfc7a2819e6b057c5756984857587f6ecd18ee25054b7d33cec96c2d03db1",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:45:39.449Z",
+      "key": "[\"f311ba91-1aff-43ab-8401-4a482ee81425\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 4,
+        "comment": "Уверенная работа, текст с головой и позицией, за это лайк. Попробуй поработать с рифмами и будет круто. ",
+        "scoredAt": "2026-10-22T08:45:39.449Z",
+        "userId": "f311ba91-1aff-43ab-8401-4a482ee81425"
+      }
+    },
+    {
+      "id": "0681f5362378ff5b431c158d5312827d2f879d7a5dcb43b5a9493998e2413d6c",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:43:01.044Z",
+      "key": "[\"4d374379-e1e8-4713-ba3d-7e5e7b307b9f\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 3,
+        "comment": "Графоманский и клишированный тексточек до ужаса. Исполнил обычно.",
+        "scoredAt": "2026-10-22T08:43:01.044Z",
+        "userId": "4d374379-e1e8-4713-ba3d-7e5e7b307b9f"
+      }
+    },
+    {
+      "id": "a5213cb7d0ed82963989e110dfd64a588ab0d4ef014ffe20b89a29012f1cfbe5",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:47:52.429Z",
+      "key": "[\"0aa9313d-5349-4fd7-92f7-78879a2da680\",\"Роженов\"]",
+      "before": null,
+      "after": {
+        "judgeName": "Роженов",
+        "score": 3,
+        "comment": "Тот случай, когда проходку тащат чисто исполнение и ОВ, текст максимально скудный и примитивный, ну разве что посыл внятный, с речевой точки зрения это не всрато, ну и на том спасибо. Замечательно, что теперь есть трек, которым я могу козырять, как примером, говоря, что я поставил проходной балл чисто по звуку-исполнению :3",
+        "scoredAt": "2026-10-22T08:47:52.429Z",
+        "userId": "0aa9313d-5349-4fd7-92f7-78879a2da680"
+      }
+    },
+    {
+      "id": "3f26e7a389189b0fa7f576135f98362540e0223bc20741580bceccb2e54250f5",
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "sourceScoredAt": "2026-10-22T08:50:00.495Z",
+      "key": "[\"5fe1cda3-6e97-4164-9c27-bbae7d5c3fa1\",\"CraftySound\"]",
+      "before": null,
+      "after": {
+        "judgeName": "CraftySound",
+        "score": 2,
+        "comment": "Изначилование ухей! Этот стиль из 2035 года, для 2026 это пока что через чур. ",
+        "scoredAt": "2026-10-22T08:50:00.495Z",
+        "userId": "5fe1cda3-6e97-4164-9c27-bbae7d5c3fa1"
+      }
     }
   ],
   "snapshots": [
@@ -196155,6 +196351,26 @@
           "index": 31.90969216632295,
           "favor": 17.888423931342032,
           "attention": 3.445728666635597,
+          "respect": 10.575539568345324
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T08:52:19.139Z",
+      "exportedAt": "2026-10-22T08:52:19.139Z",
+      "scores": 15858,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 19.948195853827148,
+          "favor": 8.496442448081403,
+          "attention": 5.586927824350397,
+          "respect": 5.8648255813953485
+        },
+        "veterans": {
+          "index": 31.94554359012829,
+          "favor": 17.89037552959096,
+          "attention": 3.4796284921920075,
           "respect": 10.575539568345324
         }
       }
