@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T08:22:16.730Z",
-  "exportedAt": "2026-10-22T08:22:16.730Z",
-  "runId": "2026-10-22T08:22:16.730Z",
-  "forumExportedAt": "2026-10-22T08:22:16.730Z",
+  "lastSuccessfulAt": "2026-10-22T08:31:54.994Z",
+  "exportedAt": "2026-10-22T08:31:54.994Z",
+  "runId": "2026-10-22T08:31:54.994Z",
+  "forumExportedAt": "2026-10-22T08:31:54.994Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15835,
+    "scores": 15839,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 24,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 21,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 21,
-    "changedParticipants": 21,
-    "logicalRequests": 24,
-    "durationMs": 23919,
-    "scoresBefore": 15814,
-    "scoresAfter": 15835,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 6788,
+    "scoresBefore": 15835,
+    "scoresAfter": 15839,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.26806953339434,
+    "requestReductionPercent": 99.78652028057334,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "artist": "WillyWonkka",
+          "comment": "Ах вот ты где, я искал тебя по всем онлайн реперам и нашел здесь на судейство.\n\nОх, чуть до беды не довела ваша любимая и такая необычная история \"раскрыть тему, не упоминая ее, я же не такой, как все из толпы!\"...\n\nНо да ладно, я тему как-то вроде понял (ну может и притянул, хазы), читаешь ты бодро, все в порядке базово! Но не лучшее из всего отбора! Пройти должен был будто бы увереннее, чем счас, чисто на ощущениях!",
+          "scoredAt": "2026-10-22T08:29:55.538Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "artist": "maidwet",
+          "comment": "Интересный стилёк. По качеству не хватило, но в челом хорошая работа. ",
+          "scoredAt": "2026-10-22T08:27:54.136Z"
+        },
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "artist": "Moon Ami",
+          "comment": "Спасибо за звуки стука, обосрался ночью!\n\nКакой-то стилек есть в этом в подаче, но текстово это не текст, это фристуль чисто накидали прям перед записью, слишком свабо.",
+          "scoredAt": "2026-10-22T08:27:16.601Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "Скрэт",
+          "comment": "Звучит как сырое-сырое демо и это сильно смазало впечатление, но сам skillz есть. Рефлексия нравится, по-искреннему так, вокал сильный - возможно слегка акцентированный, а вот с текстом и атмосферой (интонации, отыгрыш, сместить акценты) я бы поработал еще, очень по верхам прошелся. Можно было бы интереснее это все подать. Все-таки тройка, из-за общего звучания.",
+          "scoredAt": "2026-10-22T08:23:01.098Z"
+        },
         {
           "judgeName": "CraftySound",
           "score": 3,
@@ -171,34 +199,6 @@
           "artist": "Ra Raul",
           "comment": "Интересный стиль у тебя. По тексту ничего не зацепило. ",
           "scoredAt": "2026-10-22T08:07:55.494Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Хоббит Нурмагогэндальф",
-          "comment": "Нормальный звук, уверенно читаешь. Хорошая работа. ",
-          "scoredAt": "2026-10-22T08:07:04.988Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "БАЙРОНИЧЕСКИЙ",
-          "comment": "Некий дессонанс между текстом и этой музыкой. Но свой стиль я поддерживаю. ",
-          "scoredAt": "2026-10-22T08:05:15.301Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 1,
-          "artist": "Сын ДиМасты",
-          "comment": "Пародия на Трула?) Он уже легенда получается?) ",
-          "scoredAt": "2026-10-22T08:04:16.064Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "artist": "Твой Герой",
-          "comment": "Нормальная работа, давай во второй. ",
-          "scoredAt": "2026-10-22T08:03:15.518Z"
         }
       ]
     }
