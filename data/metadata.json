@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T05:11:58.425Z",
-  "exportedAt": "2026-10-22T05:11:58.425Z",
-  "runId": "2026-10-22T05:11:58.425Z",
-  "forumExportedAt": "2026-10-22T05:11:58.425Z",
+  "lastSuccessfulAt": "2026-10-22T05:22:07.018Z",
+  "exportedAt": "2026-10-22T05:22:07.018Z",
+  "runId": "2026-10-22T05:22:07.018Z",
+  "forumExportedAt": "2026-10-22T05:22:07.018Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15779,
+    "scores": 15783,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 7,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 4,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 4963,
-    "scoresBefore": 15777,
-    "scoresAfter": 15779,
+    "participantsWithNewScores": 4,
+    "changedParticipants": 4,
+    "logicalRequests": 7,
+    "durationMs": 6951,
+    "scoresBefore": 15779,
+    "scoresAfter": 15783,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.84751448612383,
+    "requestReductionPercent": 99.78652028057334,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,34 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Лобсанг",
+          "comment": "По наполнению текста было очень интересно, но ты и твой бит лежат отдельно друг от друга. ",
+          "scoredAt": "2026-10-22T05:20:43.559Z"
+        },
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "artist": "clownkai",
+          "comment": "Сваги вроде нет, но она есть - как с сусликом. Артур Пирожков moment (про кики, ии). Спорно по подаче, несмотря на то, что обусловлено задумкой, звучит на грани обычных кривляний с плагинами и в целом не прикольно. Парочка неплохих строк по тексту, но не более. С авансом за уверенность на бите.",
+          "scoredAt": "2026-10-22T05:20:43.425Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 3,
+          "artist": "Proskurin",
+          "comment": "Ждала взрыва во второй половине трека, но не случилось. Очень простенько по тексту. Исполнил в традициях грустного рэпа нулевых, но приятно. ",
+          "scoredAt": "2026-10-22T05:17:02.904Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 4,
+          "artist": "Ялли 21",
+          "comment": "О, на этом треке я проснулась! Какие там трубы сношала женщина ГГ я не знаю, но Лидаморген выглядит даже солидно. Тема притянута косвенно через \"пиздит и пиздит\" - я разобралась, но наверняка не все поймут. Вполне можно во второй раунд заезжать, удачи там. ",
+          "scoredAt": "2026-10-22T05:13:02.809Z"
+        },
         {
           "judgeName": "Вла-Да",
           "score": 4,
@@ -171,34 +199,6 @@
           "artist": "LyRXSoN",
           "comment": "гарри топор на ранних стадиях, ритмика зарешала",
           "scoredAt": "2026-10-22T02:09:22.195Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "acdgy",
-          "comment": "торопишься и заигрываешься, потенциалкрутой",
-          "scoredAt": "2026-10-22T02:08:42.036Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "artist": "10DENCY",
-          "comment": "Уверенно! Текст пустов, но ов хорошее",
-          "scoredAt": "2026-10-22T02:08:01.179Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 4,
-          "artist": "Юра Гапон",
-          "comment": "Ритмику разнообразить и бит поживее взять бы, с текстом все отлично",
-          "scoredAt": "2026-10-22T02:07:27.735Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 2,
-          "artist": "УстамиМладенца [КДБ]",
-          "comment": "Извини, но пока что рано на такой легендарный баттл. Поработай над исполнением, качеством звука, обратись в профессиональные студии, чтобы как минимум неплохо звучать и чётко понимать какие моменты у тебя недотягивают. Далее сделай упор на эмоциональность исполнения и уверенность. Пока что надо еще потренироваться. Удачи! Обнял!",
-          "scoredAt": "2026-10-22T02:06:50.356Z"
         }
       ]
     }
