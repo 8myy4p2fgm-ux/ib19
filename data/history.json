@@ -179948,6 +179948,20 @@
         "scoredAt": "2026-10-22T07:22:15.856Z",
         "userId": "3310566e-ecfe-4465-bf52-d2f40d24305a"
       }
+    },
+    {
+      "id": "fe9fb62f075083720d5f4ad370e5bcb7e7bd757f969c46ad7cab121431b43106",
+      "observedAt": "2026-10-22T07:37:08.045Z",
+      "sourceScoredAt": "2026-10-22T07:28:59.118Z",
+      "key": "[\"e894f51b-61dd-432f-9e3b-f81e2991e771\",\"XSive MC\"]",
+      "before": null,
+      "after": {
+        "judgeName": "XSive MC",
+        "score": 4,
+        "comment": "Классная подфанкованная работа, со звуком только докрутить бы.",
+        "scoredAt": "2026-10-22T07:28:59.118Z",
+        "userId": "e894f51b-61dd-432f-9e3b-f81e2991e771"
+      }
     }
   ],
   "snapshots": [
@@ -195607,6 +195621,26 @@
           "index": 31.820490206772117,
           "favor": 17.882719537379735,
           "attention": 3.362231101047057,
+          "respect": 10.575539568345324
+        }
+      }
+    },
+    {
+      "observedAt": "2026-10-22T07:37:08.045Z",
+      "exportedAt": "2026-10-22T07:37:08.045Z",
+      "scores": 15813,
+      "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
+      "indices": {
+        "forum": {
+          "index": 19.858010087341572,
+          "favor": 8.488006583309149,
+          "attention": 5.505177922637077,
+          "respect": 5.8648255813953485
+        },
+        "veterans": {
+          "index": 31.82034911066492,
+          "favor": 17.881971059620344,
+          "attention": 3.3628384826992535,
           "respect": 10.575539568345324
         }
       }

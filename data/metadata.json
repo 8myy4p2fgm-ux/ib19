@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastSuccessfulAt": "2026-10-22T07:27:10.547Z",
-  "exportedAt": "2026-10-22T07:27:10.547Z",
-  "runId": "2026-10-22T07:27:10.547Z",
-  "forumExportedAt": "2026-10-22T07:27:10.547Z",
+  "lastSuccessfulAt": "2026-10-22T07:37:08.045Z",
+  "exportedAt": "2026-10-22T07:37:08.045Z",
+  "runId": "2026-10-22T07:37:08.045Z",
+  "forumExportedAt": "2026-10-22T07:37:08.045Z",
   "selectionVersion": "235be5e4cbd20f0f4c6377ab163e4cc59cefd988adbe49c216a912fd8b973757",
   "directory": {
     "source": "data/forum.csv",
@@ -15,7 +15,7 @@
   "counts": {
     "participants": 3275,
     "forum": 97,
-    "scores": 15812,
+    "scores": 15813,
     "judges": 22,
     "forumDirectory": 98,
     "og": 69,
@@ -23,22 +23,22 @@
     "archivedParticipants": 12
   },
   "collection": {
-    "httpRequests": 5,
+    "httpRequests": 4,
     "errors429": 0,
     "retries": 0,
     "judgeDirectory": "updated",
-    "updatedCards": 2,
+    "updatedCards": 1,
     "mode": "incremental",
     "participants": 3275,
     "sourceParticipants": 3276,
-    "participantsWithNewScores": 2,
-    "changedParticipants": 2,
-    "logicalRequests": 5,
-    "durationMs": 5105,
-    "scoresBefore": 15810,
-    "scoresAfter": 15812,
+    "participantsWithNewScores": 1,
+    "changedParticipants": 1,
+    "logicalRequests": 4,
+    "durationMs": 6122,
+    "scoresBefore": 15812,
+    "scoresAfter": 15813,
     "fullBaselineRequests": 3279,
-    "requestReductionPercent": 99.84751448612383,
+    "requestReductionPercent": 99.87801158889906,
     "temporaryExclusions": [
       {
         "userId": "52385ac3-2e09-4df9-a04c-ca4348cf42d6",
@@ -95,6 +95,13 @@
       "maxScore": 25,
       "rubrics": [],
       "feed": [
+        {
+          "judgeName": "XSive MC",
+          "score": 4,
+          "artist": "сhöpоpаlo",
+          "comment": "Классная подфанкованная работа, со звуком только докрутить бы.",
+          "scoredAt": "2026-10-22T07:28:59.118Z"
+        },
         {
           "judgeName": "XSive MC",
           "score": 1,
@@ -192,13 +199,6 @@
           "artist": "Костя Котляров",
           "comment": "Все по кайфу тут в плане вайба, такое ощущение, что слушаешь трек о любви и релаксе на островах, а не о рухнувшем еблане (с)",
           "scoredAt": "2026-10-22T05:49:01.584Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 3,
-          "artist": "Muddy M",
-          "comment": "Узкоформатный исполнитель, но звучишь интересно за счет прикольного текста. ",
-          "scoredAt": "2026-10-22T05:46:34.751Z"
         }
       ]
     }
