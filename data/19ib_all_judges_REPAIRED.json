@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T08:52:19.139Z",
+  "exportedAt": "2026-10-22T09:02:25.016Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -21373,8 +21373,14 @@
     },
     {
       "userId": "ed58f1fa-8db3-4299-96f6-818010d26bae",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Плохо по звуку, за него очень сильно хочется поставить 2. Моя оценка последняя, даю шанс, но постарайся во втором сделать качественнее. ",
+          "scoredAt": "2026-10-22T08:53:01.322Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -21400,7 +21406,7 @@
           "scoredAt": "2026-09-02T16:10:31.418Z"
         }
       ],
-      "fetchedAt": "2026-10-20T17:52:36.317Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "Msh Flux",
       "artistSlug": "msh-flux",
@@ -39648,8 +39654,14 @@
     },
     {
       "userId": "3bf3a2bc-ed42-4dc3-96b7-8284bc7a8fbe",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 5,
+          "comment": "Пусть мне будут говорить, что дед преисполнился :D Я понимаю, что этому не хватает качества, чтобы звучало разъёбно, но как же это интересно в музыкальном плане. Я бы даже сказал, что это ни на что не похоже из тех 600+ треков, что я на данный момент слышал. Да, текстово простенько в плане смыслов и с радирифмами. Но это скорее натянутая и ОВэшная пятёрка, но всё же соблазнился на вышку тебе.",
+          "scoredAt": "2026-10-22T08:58:01.619Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -39675,7 +39687,7 @@
           "scoredAt": "2026-09-24T11:38:44.525Z"
         }
       ],
-      "fetchedAt": "2026-10-22T02:02:50.609Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "YAGJI",
       "artistSlug": "yagji",
@@ -50872,8 +50884,14 @@
     },
     {
       "userId": "286d722c-5319-462a-80bd-6edb6709fb67",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Этот трек мог звучать гораздо вкуснее, если б был более скилловый читака и толковый сведос. Много квадратов, не хватает ударок/острот. Но, в принципе, неймдроппинговые штуки в какой-то мере это компенсируют, красиво с точки зрения слога. Всё-таки за троечку ты зацепился, прям на тоненького проходишь.",
+          "scoredAt": "2026-10-22T08:52:19.258Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -50899,7 +50917,7 @@
           "scoredAt": "2026-09-13T15:39:01.476Z"
         }
       ],
-      "fetchedAt": "2026-10-21T00:02:25.514Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "Лёха 315",
       "artistSlug": "leha-315",
@@ -52212,8 +52230,14 @@
     },
     {
       "userId": "c8829fb8-9806-4077-acf5-a76f1c629b71",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Какая же неодноднознаяная работа... Вроде есть приколы в тексте, но стиль такой очень сложно воспринимать. ",
+          "scoredAt": "2026-10-22T09:02:13.253Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -52239,7 +52263,7 @@
           "scoredAt": "2026-09-09T16:14:04.081Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:22:19.132Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "хонисаклер",
       "artistSlug": "honisakler",
@@ -62454,8 +62478,14 @@
     },
     {
       "userId": "495d9bc6-aa15-4e98-9b9e-7eb7bce3fb83",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "По сведению получилась каша. В моментах какафония получается из твоих дорожек. Ставлю проход, но сильно на тоненького. ",
+          "scoredAt": "2026-10-22T08:57:53.259Z"
+        },
         {
           "judgeName": "Мультифрукт",
           "score": 3,
@@ -62481,7 +62511,7 @@
           "scoredAt": "2026-10-17T04:44:40.959Z"
         }
       ],
-      "fetchedAt": "2026-10-22T07:27:10.547Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "theSW",
       "artistSlug": "thesw",
@@ -70977,8 +71007,14 @@
     },
     {
       "userId": "b946ce73-4f0f-4e9b-bdd3-457af72a4076",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "С одной стороны, проходная работа. С другой стороны, проходная работа!\n\nНемного неудачно ритмически какие-то слова протяягивааешь по чуть-чуть, но это не сказать, что уместно здесь. Текст +- стандартный для этого отбора, реп про реп с толикой лиричного взгляда. Четыре с минусом.",
+          "scoredAt": "2026-10-22T08:59:19.224Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -71004,7 +71040,7 @@
           "scoredAt": "2026-10-09T20:18:26.071Z"
         }
       ],
-      "fetchedAt": "2026-10-22T02:12:26.532Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "Primer",
       "artistSlug": "primer",
@@ -99300,8 +99336,14 @@
     },
     {
       "userId": "78ef7623-f999-40d0-a4a1-16d93f8c2279",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 1,
+          "comment": "ВСЕМ ЛЕЖАТЬ! ТЫ ТРУ!\nА вообще, задумайся, вот к тебе подойдёт человек на улице и будет на ухо говорить тебе такое целую минуту. Тебе понравится? ",
+          "scoredAt": "2026-10-22T09:01:23.330Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 1,
@@ -99327,7 +99369,7 @@
           "scoredAt": "2026-09-30T19:25:38.101Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:32:20.221Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "REAZONDARK",
       "artistSlug": "reazondark",
@@ -106496,8 +106538,14 @@
     },
     {
       "userId": "565b3621-3741-487a-8603-ce025d35a2b6",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "По звуку хорошо, если смотреть на работу в целом, то она средняя, но на проход начитал. ",
+          "scoredAt": "2026-10-22T08:54:28.098Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -106523,7 +106571,7 @@
           "scoredAt": "2026-10-14T15:17:44.265Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:02:14.486Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "dimamaev",
       "artistSlug": "dimamaev",
@@ -116438,8 +116486,14 @@
     },
     {
       "userId": "c914269b-1418-47b7-ae3d-a34a0a1bdb4b",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Интересный ты выбрал бит, не обычный. Вот 2 раза сложно этот трек послушать, прям долбит бит в голову, возможно его нужно слушайть в тачке. ",
+          "scoredAt": "2026-10-22T08:55:44.929Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 4,
@@ -116465,7 +116519,7 @@
           "scoredAt": "2026-10-09T14:54:04.482Z"
         }
       ],
-      "fetchedAt": "2026-10-22T02:02:50.609Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "локомотив",
       "artistSlug": "lokomotiv",
@@ -117725,8 +117779,14 @@
     },
     {
       "userId": "300850d9-9f5b-4f91-b6f3-b40b991a0b15",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Ещё один олдскул, но олдскул здорового человека, звучит трушно! Качество глуховато, но я уверен, что ты можешь сделать что-то здравое на второй. Запишись на студийке, плиз. ",
+          "scoredAt": "2026-10-22T08:59:36.955Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -117740,7 +117800,7 @@
           "scoredAt": "2026-10-09T20:23:20.011Z"
         }
       ],
-      "fetchedAt": "2026-10-17T06:32:07.383Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "TDK",
       "artistSlug": "tdk",
@@ -120142,8 +120202,14 @@
     },
     {
       "userId": "b58c4d89-c958-4d2f-9c23-7ac6e4c370db",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 2,
+          "comment": "Пока рановато во втором, там и так очень тесно. ",
+          "scoredAt": "2026-10-22T08:58:22.782Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 2,
@@ -120163,7 +120229,7 @@
           "scoredAt": "2026-10-15T14:34:07.793Z"
         }
       ],
-      "fetchedAt": "2026-10-22T02:12:26.532Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "УстамиМладенца [КДБ]",
       "artistSlug": "ustamimladenca-kdb",
@@ -128948,8 +129014,14 @@
     },
     {
       "userId": "4e38b98a-0947-4ab4-b90f-d8434b3ba873",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Старая школа по читке, но держишься на бите уверенно. Нормальная работа, на проход. ",
+          "scoredAt": "2026-10-22T08:56:35.558Z"
+        },
         {
           "judgeName": "СТИШ",
           "score": 3,
@@ -128975,7 +129047,7 @@
           "scoredAt": "2026-10-13T04:30:17.780Z"
         }
       ],
-      "fetchedAt": "2026-10-22T01:52:25.486Z",
+      "fetchedAt": "2026-10-22T09:02:25.016Z",
       "current": true,
       "artistName": "MAKHAVIRA",
       "artistSlug": "makhavira",
