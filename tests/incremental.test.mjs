@@ -2,7 +2,7 @@ import {partitionAnalytics} from '../js/analytics-selection.js';
 import {assertUpdateWorkflowModes} from './helpers/update-workflow.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';
 import {collect,createClient,retryAfterMs,validateSavedSnapshot} from '../scripts/collector.mjs';
-import {loadState,collectionMode,stateFiles} from '../scripts/collection-state.mjs';
+import {loadState,collectionMode,stateFiles,validateState} from '../scripts/collection-state.mjs';
 import {normalizeData} from '../js/data.js';import {updateHistory} from '../scripts/update-history.mjs';
 import {unifiedAt} from '../js/calculations.js';import fs from 'node:fs';
 const at='2026-10-13T12:00:00Z',s={judgeName:'A',score:4,comment:'Exact original\ncomment',scoredAt:'2026-10-09T12:00:00Z'};
@@ -28,6 +28,18 @@ test('valid Git state recovers missing/damaged files; no valid revision fails cl
  const state={main:old,forum,history:{revisions:[],snapshots:[{observedAt:at}]},metadata:{lastSuccessfulAt:at}};const values=[state.main,state.forum,state.history,state.metadata].map(JSON.stringify);
  const result=await loadState({read:async()=>'{broken',revisions:()=>['bad','good'],show:(revision,file)=>revision==='good'?values[stateFiles.indexOf(file)]:'invalid'});assert.equal(result.recoveredFrom,'good');assert.deepEqual(result.main,old);
  await assert.rejects(loadState({read:async()=>{throw new Error('missing');},revisions:()=>[],show:()=>''}),/restore validated data/);
+});
+test('roster observation after collection loads current state without Git recovery; mismatched exports still fail',async()=>{
+ const edited=structuredClone(forum);edited.members[0].forum_name='Updated author';
+ const observedAt='2026-10-13T12:05:00Z';
+ const history=updateHistory(old,old,edited,null,observedAt,{previousForum:forum});
+ const state={main:old,forum:edited,history,metadata:{lastSuccessfulAt:at}};
+ const values=Object.fromEntries(stateFiles.map((file,i)=>[file,JSON.stringify(Object.values(state)[i])]));
+ const loaded=await loadState({read:async file=>values[file],revisions:()=>assert.fail('coherent roster edit must not recover old data')});
+ assert.deepEqual(loaded,state);assert.equal(loaded.history.snapshots.at(-1).observedAt,observedAt);
+ for(const patch of [{exportedAt:observedAt},{exportedAt:at,observedAt:'bad'},{exportedAt:at,observedAt:'2026-10-13T11:59:00Z'}]){
+  const invalid=structuredClone(state);Object.assign(invalid.history.snapshots.at(-1),patch);assert.throws(()=>validateState(invalid),/Inconsistent saved state/);
+ }
 });
 test('weekly audit date carries forward across incremental and delayed runs',()=>{
  const metadata={lastSuccessfulAt:at};assert.equal(collectionMode(metadata,{now:Date.parse(at)+6*86400000}).mode,'incremental');assert.equal(collectionMode(metadata,{now:Date.parse(at)+7*86400000}).mode,'full');assert.equal(collectionMode({lastSuccessfulAt:'2026-10-20T11:55:00Z',collection:{lastFullAuditAt:at}},{now:Date.parse(at)+7*86400000}).mode,'full');assert.equal(collectionMode(metadata,{requested:'full'}).mode,'full');
