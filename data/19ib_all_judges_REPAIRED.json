@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T15:52:36.647Z",
+  "exportedAt": "2026-10-22T16:02:21.372Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -4269,8 +4269,14 @@
     },
     {
       "userId": "23191e1a-0298-403f-acbc-1de7879f6d11",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Вайбовый трек, в конце надо было ещё голосов дозаписать для атмосферы",
+          "scoredAt": "2026-10-22T15:54:32.196Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 4,
@@ -4296,7 +4302,7 @@
           "scoredAt": "2026-10-12T17:00:29.362Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:52:47.529Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "SOLOPOV",
       "artistSlug": "solopov",
@@ -20580,47 +20586,6 @@
       "trackId": "a3c1bec3-93c7-4d89-b902-1b31c344f4f6"
     },
     {
-      "userId": "c0772bc9-f94f-484a-9f10-97e480a7ca77",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Роженов",
-          "score": 4,
-          "comment": "Ну есть каламбуры неплохие, рифмы, зачитон вполне, четвёрка ровно.",
-          "scoredAt": "2026-10-22T15:02:56.772Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "comment": "",
-          "scoredAt": "2026-10-22T01:48:17.756Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "comment": "",
-          "scoredAt": "2026-10-22T00:22:39.848Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 4,
-          "comment": "Пятый стрим.",
-          "scoredAt": "2026-10-10T16:08:40.196Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 5,
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111291",
-          "scoredAt": "2026-10-07T16:24:30.357Z"
-        }
-      ],
-      "fetchedAt": "2026-10-22T15:14:33.737Z",
-      "current": true,
-      "artistName": "Slavonicx",
-      "artistSlug": "slavonicx",
-      "trackId": "b47ee28b-0f95-4d76-86a4-3f33f8a4344d"
-    },
-    {
       "userId": "8ca1e93b-dbd0-4ef8-be87-28e149ed9825",
       "scoredCount": 5,
       "scores": [
@@ -21401,8 +21366,14 @@
     },
     {
       "userId": "908b1571-e2cc-4d98-9ed8-dd951504f24f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Оскорблялки надо сдабривать панчами, бро. Слабовато зачитал",
+          "scoredAt": "2026-10-22T15:53:55.677Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -21428,7 +21399,7 @@
           "scoredAt": "2026-10-20T10:19:37.697Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:42:50.372Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "МС Не молодой",
       "artistSlug": "ms-ne-molodoy",
@@ -27198,6 +27169,47 @@
       "trackId": "a3744ec8-60d9-46b6-8cee-6ca5001f5cb8"
     },
     {
+      "userId": "c0772bc9-f94f-484a-9f10-97e480a7ca77",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 4,
+          "comment": "Ну есть каламбуры неплохие, рифмы, зачитон вполне, четвёрка ровно.",
+          "scoredAt": "2026-10-22T15:02:56.772Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T01:48:17.756Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:22:39.848Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 4,
+          "comment": "Пятый стрим.",
+          "scoredAt": "2026-10-10T16:08:40.196Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 5,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111291",
+          "scoredAt": "2026-10-07T16:24:30.357Z"
+        }
+      ],
+      "fetchedAt": "2026-10-22T15:14:33.737Z",
+      "current": true,
+      "artistName": "Slavonicx",
+      "artistSlug": "slavonicx",
+      "trackId": "b47ee28b-0f95-4d76-86a4-3f33f8a4344d"
+    },
+    {
       "userId": "e749eae8-591b-4123-95a3-b0e9f97db077",
       "scoredCount": 5,
       "scores": [
@@ -28839,8 +28851,14 @@
     },
     {
       "userId": "c43aef05-1bb0-4700-9cb6-d21787edf2e7",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Весь трек на квадратах, смыслы тоже примитивны, но в целом внятный текст, мощно зачитанный. ",
+          "scoredAt": "2026-10-22T15:57:57.847Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 4,
@@ -28860,7 +28878,7 @@
           "scoredAt": "2026-09-01T07:00:16.880Z"
         }
       ],
-      "fetchedAt": "2026-10-17T09:22:36.032Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "Anaba",
       "artistSlug": "anaba",
@@ -39311,8 +39329,14 @@
     },
     {
       "userId": "de647c74-3ea0-4691-87bd-9f6e93e15afb",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "По исполнению сам себе заруинил на самом деле когда попытался в вокал",
+          "scoredAt": "2026-10-22T16:01:58.590Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 4,
@@ -39326,7 +39350,7 @@
           "scoredAt": "2026-10-18T13:02:33.296Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "C001C01D",
       "artistSlug": "c001c01d",
@@ -45191,8 +45215,14 @@
     },
     {
       "userId": "6ab90aa1-e543-4cd2-9780-ee3a533b5a9e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 3,
+          "comment": "Ни туда ни сюда трек. Мне кажется будь у тебя оппонент, ты смог бы сделать грязь. Тексток средний, но безинтересный и скучноватый. Прокачивай панчи брад, раз встаешь на это поле бэттла. Пока что особых эмоций не вызывает.",
+          "scoredAt": "2026-10-22T16:00:36.867Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -45212,7 +45242,7 @@
           "scoredAt": "2026-10-11T15:42:09.879Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:22:35.984Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "Съел натощак",
       "artistSlug": "sel-natoschak",
@@ -52190,8 +52220,14 @@
     },
     {
       "userId": "63d3759e-4a0f-435a-baea-e06619c8a977",
-      "scoredCount": 1,
+      "scoredCount": 2,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "В целом нормальный трек, не хватило где-то дать чуть больше интонаций",
+          "scoredAt": "2026-10-22T15:53:15.574Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -52199,7 +52235,7 @@
           "scoredAt": "2026-10-19T06:53:20.144Z"
         }
       ],
-      "fetchedAt": "2026-10-19T07:02:10.147Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "d1ma.c4actbE",
       "artistSlug": "d1ma-c4actbe",
@@ -61063,8 +61099,14 @@
     },
     {
       "userId": "06a5370e-337f-4c3f-9a2a-8496a91a5ede",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Последняя четверка конечно, но по флоу пойдет",
+          "scoredAt": "2026-10-22T15:56:57.733Z"
+        },
         {
           "judgeName": "Illumate",
           "score": 3,
@@ -61090,7 +61132,7 @@
           "scoredAt": "2026-09-24T21:11:40.194Z"
         }
       ],
-      "fetchedAt": "2026-10-19T00:02:03.454Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "LIL PRORAB",
       "artistSlug": "lil-prorab",
@@ -64911,8 +64953,14 @@
     },
     {
       "userId": "f77e9053-6a2b-4af3-9b7f-37459800d327",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 2,
+          "comment": "Спасибо за трек! \nТекст: средний\nИсполнение: скучно, ждал большего\nОбщее впечатление: не понарвился трек \nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:54:56.664Z"
+        },
         {
           "judgeName": "Plaga Medicus",
           "score": 2,
@@ -64938,7 +64986,7 @@
           "scoredAt": "2026-10-16T19:26:48.682Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:14:33.737Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "noxuk",
       "artistSlug": "noxuk",
@@ -66299,8 +66347,14 @@
     },
     {
       "userId": "e790b6c0-d48b-4784-86bc-50c9ebbc0f4d",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Очень скудно, рофел какой-то неудачный, зачитанный на пох.",
+          "scoredAt": "2026-10-22T16:00:00.507Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 3,
@@ -66326,7 +66380,7 @@
           "scoredAt": "2026-10-15T16:44:55.407Z"
         }
       ],
-      "fetchedAt": "2026-10-21T12:12:09.335Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "connector",
       "artistSlug": "connector",
@@ -70803,8 +70857,14 @@
     },
     {
       "userId": "12664212-6e32-4e10-9140-13a480263542",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "Звучит не плохо, под конец немного каша из кап, но в целом авансом",
+          "scoredAt": "2026-10-22T15:59:56.660Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 4,
@@ -70830,7 +70890,7 @@
           "scoredAt": "2026-10-11T10:45:50.272Z"
         }
       ],
-      "fetchedAt": "2026-10-18T15:22:05.953Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "DMA",
       "artistSlug": "dma",
@@ -102219,8 +102279,14 @@
     },
     {
       "userId": "573b69ed-38ad-4557-a44b-34e3dd90fa42",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "По флоу очень жестко проседаешь....",
+          "scoredAt": "2026-10-22T16:00:59.680Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 2,
@@ -102240,7 +102306,7 @@
           "scoredAt": "2026-10-09T17:05:16.725Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:32:40.361Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "IgoRacks",
       "artistSlug": "igoracks",
@@ -103296,8 +103362,14 @@
     },
     {
       "userId": "febcb6ac-4039-4a16-b291-579b3445dd89",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Качает, но квадратно-глагольно, по смыслу скучно.",
+          "scoredAt": "2026-10-22T16:01:16.327Z"
+        },
         {
           "judgeName": "Никсон",
           "score": 2,
@@ -103323,7 +103395,7 @@
           "scoredAt": "2026-10-17T12:43:13.924Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:32:40.361Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "K.O.BVCK",
       "artistSlug": "k-o-bvck",
@@ -104151,8 +104223,14 @@
     },
     {
       "userId": "8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 3,
+          "comment": "ча ча чау под бит из Суно на 20 секунд?! Плохой ход для отбора! Ну и текстово это какой-то трек Касты 2008-го года с альбома ХЗ для старта концерта - какой-то вместе с битом фестивальный все это вайбик создает, при котором надо на сцену выскакивать. Оно как бы и имеет место быть, но на баттле все же звучит на фоне многих заморочившихся примитивно и просто. Так на 4 можешь начитать, но с учетом атмосферы и простого репрезента в тексте это крепкая рабочая 3.",
+          "scoredAt": "2026-10-22T15:59:11.832Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 1,
@@ -104178,7 +104256,7 @@
           "scoredAt": "2026-09-26T18:27:34.592Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:22:35.984Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "NeOn-Mc",
       "artistSlug": "neon-mc",
@@ -108098,8 +108176,14 @@
     },
     {
       "userId": "c531ee8e-0ca2-4236-add2-e4d4785b8708",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Неказистая манерность. Ассонансы, глаголы, квадраты по рифме.",
+          "scoredAt": "2026-10-22T15:55:55.048Z"
+        },
         {
           "judgeName": "OttO",
           "score": 2,
@@ -108125,7 +108209,7 @@
           "scoredAt": "2026-09-27T11:34:55.260Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:52:36.647Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "PHOEN1X",
       "artistSlug": "phoen1x",
@@ -123290,8 +123374,14 @@
     },
     {
       "userId": "1483099d-f10a-4495-914a-cd94e0b71094",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Чуть с рифмой поработать и напора местами дать под такой бум бэп",
+          "scoredAt": "2026-10-22T15:56:10.147Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -123305,7 +123395,7 @@
           "scoredAt": "2026-10-19T20:48:11.523Z"
         }
       ],
-      "fetchedAt": "2026-10-20T20:12:28.292Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "JeM",
       "artistSlug": "jem",
@@ -129544,8 +129634,14 @@
     },
     {
       "userId": "cfe99b72-a434-4b40-868f-42cadffc6422",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "В целом по исполнению нормас, но сколько раз я уже слышал отсылок на Бодрова",
+          "scoredAt": "2026-10-22T15:58:39.662Z"
+        },
         {
           "judgeName": "Антон RapNews Акулич",
           "score": 3,
@@ -129565,7 +129661,7 @@
           "scoredAt": "2026-10-17T09:04:12.822Z"
         }
       ],
-      "fetchedAt": "2026-10-22T15:14:33.737Z",
+      "fetchedAt": "2026-10-22T16:02:21.372Z",
       "current": true,
       "artistName": "NVAN",
       "artistSlug": "nvan",
