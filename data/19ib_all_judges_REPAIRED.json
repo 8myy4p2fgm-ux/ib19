@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T14:53:19.840Z",
+  "exportedAt": "2026-10-22T15:02:15.571Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -8087,8 +8087,14 @@
     },
     {
       "userId": "3eaf313e-9c67-4a91-9e21-5c16f7270627",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 1,
+          "comment": "Оценка чисто за настроение, главное не бросай бро",
+          "scoredAt": "2026-10-22T15:00:46.521Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 2,
@@ -8114,7 +8120,7 @@
           "scoredAt": "2026-10-15T19:31:21.017Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "߬߹  SeYTi   ߬߹",
       "artistSlug": "seyti",
@@ -37563,8 +37569,14 @@
     },
     {
       "userId": "af6a7a6a-2e1e-4552-af66-d051f946a8dc",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 2,
+          "comment": "Не пойму, вроде скилл читки есть, но как будто ты инструментал не чувствуешь. Да, в бит, но бит это не только ударные, вот мелодику ты не прочувствовал как будто бы, шпаришь диссонируя с битом. Не хватает также цепких строчек, глаголы зло.",
+          "scoredAt": "2026-10-22T15:01:20.037Z"
+        },
         {
           "judgeName": "Paradise",
           "score": 3,
@@ -37590,7 +37602,7 @@
           "scoredAt": "2026-08-31T18:56:51.087Z"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "Вова Репит",
       "artistSlug": "vova-repit",
@@ -63108,8 +63120,14 @@
     },
     {
       "userId": "6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e",
-      "scoredCount": 3,
+      "scoredCount": 4,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 4,
+          "comment": "Это оч слабоватый трек (по тексту и смыслам), но оч сильная подача (в плане байта казахов). Ты звучишь как вот тот чел из длинного фита Бар 2 Лесбухи, которого уже толком никто не помнит и куплет у него был там не самый сильный, но ты умеешь делать вайбово. Но ты вообще не сделал под это дело ничего интересного, хотя у тебя мощный инструмент есть в рукаве.\n\nМне подача нравится, а трек нет, четверка супернатянутая.",
+          "scoredAt": "2026-10-22T14:54:02.482Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 3,
@@ -63129,7 +63147,7 @@
           "scoredAt": "2026-10-14T15:53:53.431Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:32:20.221Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "tnf alex",
       "artistSlug": "tnf-alex",
@@ -69286,8 +69304,14 @@
     },
     {
       "userId": "6a5c208d-1cf7-44a0-939f-7be84314bdd3",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "дефолтно бро, ещё толи меня глючит толи голос в основном в левом ухе",
+          "scoredAt": "2026-10-22T14:55:02.138Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -69313,7 +69337,7 @@
           "scoredAt": "2026-10-10T08:07:58.442Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "МЦ BRUTAL KILLER",
       "artistSlug": "mc-brutal-killer",
@@ -96596,8 +96620,14 @@
     },
     {
       "userId": "754e9f48-571b-4016-8c69-43ec3d636c6d",
-      "scoredCount": 2,
+      "scoredCount": 3,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "в целом ов подруинил песок в сведосе все, хотя в целом стелишь нормально",
+          "scoredAt": "2026-10-22T14:56:44.471Z"
+        },
         {
           "judgeName": "Samarskij",
           "score": 3,
@@ -96611,7 +96641,7 @@
           "scoredAt": "2026-10-17T12:06:23.334Z"
         }
       ],
-      "fetchedAt": "2026-10-18T13:22:13.358Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "Erwachen",
       "artistSlug": "erwachen",
@@ -109721,8 +109751,14 @@
     },
     {
       "userId": "173910fa-c467-483f-9feb-80a3f4d12183",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Роженов",
+          "score": 3,
+          "comment": "Уф, ну и что мне делать с такой примитивщиной? Квадратно-глагольно по рифме и простенько по содержанию. Но, блин, красиво, эмоционально умело исполнено, бит красивый с вокалом хорошо поддаёт атмосферки. Оторвал от сердца тройку.",
+          "scoredAt": "2026-10-22T14:57:06.418Z"
+        },
         {
           "judgeName": "Игорь Кедо",
           "score": 3,
@@ -109748,7 +109784,7 @@
           "scoredAt": "2026-10-13T19:17:36.863Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "Xacker TV",
       "artistSlug": "xacker-tv",
@@ -110810,8 +110846,14 @@
     },
     {
       "userId": "128bff28-57cb-42d8-bbef-6cd0a6baea81",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 2,
+          "comment": "Спасибо богу!!! и спасибо МЦ На три буквы",
+          "scoredAt": "2026-10-22T14:59:03.455Z"
+        },
         {
           "judgeName": "KseroN",
           "score": 2,
@@ -110837,7 +110879,7 @@
           "scoredAt": "2026-10-18T09:29:40.350Z"
         }
       ],
-      "fetchedAt": "2026-10-22T00:42:41.966Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "Мц На три буквы",
       "artistSlug": "mc-na-tri-bukvy",
@@ -116718,8 +116760,14 @@
     },
     {
       "userId": "5a1c6d4c-2b42-48bd-b5e3-84b0f9a83ecc",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Есть пару моментов когда ты внутри ритмике напортачил, в целом опять же дефолтно ",
+          "scoredAt": "2026-10-22T14:58:04.835Z"
+        },
         {
           "judgeName": "OFFSTAGE",
           "score": 3,
@@ -116745,7 +116793,7 @@
           "scoredAt": "2026-10-13T19:41:47.310Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "ЧП57",
       "artistSlug": "chp57",
@@ -118996,8 +119044,14 @@
     },
     {
       "userId": "300850d9-9f5b-4f91-b6f3-b40b991a0b15",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "XSive MC",
+          "score": 5,
+          "comment": "Полновесно и напористо, очень просто, но сделано со вкусом. Тупо кайфанул.",
+          "scoredAt": "2026-10-22T14:54:46.566Z"
+        },
         {
           "judgeName": "Роженов",
           "score": 3,
@@ -119023,7 +119077,7 @@
           "scoredAt": "2026-10-09T20:23:20.011Z"
         }
       ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "TDK",
       "artistSlug": "tdk",
@@ -121268,8 +121322,14 @@
     },
     {
       "userId": "5e87701e-757d-4466-a495-a4c608a0460f",
-      "scoredCount": 4,
+      "scoredCount": 5,
       "scores": [
+        {
+          "judgeName": "Мультифрукт",
+          "score": 2,
+          "comment": "Че-то вроде бы постарался разнообразить, но все вот эти писклявые отыгрыши и отыгрыши на низах удачными не выглядят, это просто ощущается кривляниями на битах и переигрыванием ради переигрывания. Однако концепт трека не то чтоб какой-то фриково-комичный, потому выше 2 поставить не могу от себя.",
+          "scoredAt": "2026-10-22T14:55:36.866Z"
+        },
         {
           "judgeName": "Гукер Капюшон",
           "score": 2,
@@ -121295,7 +121355,7 @@
           "scoredAt": "2026-10-08T11:48:00.882Z"
         }
       ],
-      "fetchedAt": "2026-10-21T10:12:17.280Z",
+      "fetchedAt": "2026-10-22T15:02:15.571Z",
       "current": true,
       "artistName": "Koteyka",
       "artistSlug": "koteyka",
