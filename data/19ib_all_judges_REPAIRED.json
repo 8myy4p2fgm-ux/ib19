@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T15:51:50.505Z",
+  "exportedAt": "2026-10-23T18:02:08.659Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -22800,47 +22800,6 @@
       "trackId": "efbe61d0-3693-47b1-a602-bfd35d022a9c"
     },
     {
-      "userId": "cba08b72-3f7f-422a-b1d3-9438af8faf25",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Никсон",
-          "score": 4,
-          "comment": "Какой-то спорный момент с подтягиваниями. Но начало очень хорошее.",
-          "scoredAt": "2026-10-17T14:27:23.646Z"
-        },
-        {
-          "judgeName": "Samarskij",
-          "score": 5,
-          "comment": "Шестой стрим.",
-          "scoredAt": "2026-10-11T15:42:51.515Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 3,
-          "comment": "Вокал заруинил на мой взгляд, зачитал хорошо придумал интересно, жаль что не вывез чуть вокальную раскладку задумал то неплохо. ",
-          "scoredAt": "2026-09-27T10:27:44.124Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "comment": "Запись стрима здесь: https://vk.ru/wall-53109527_1110437",
-          "scoredAt": "2026-09-23T19:53:09.971Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "comment": "вокальные части в последних квадратах ужасные. рэп читаешь хорошо",
-          "scoredAt": "2026-09-23T10:54:01.553Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T14:32:27.874Z",
-      "current": true,
-      "artistName": "Raticat.e",
-      "artistSlug": "raticat-e",
-      "trackId": "674d9bec-f543-42a7-b3cb-e35b1d64440f"
-    },
-    {
       "userId": "f321299d-ca32-4a04-960c-c5222ab1c271",
       "scoredCount": 5,
       "scores": [
@@ -22880,6 +22839,47 @@
       "artistName": "R Solid",
       "artistSlug": "r-solid",
       "trackId": "2146b2a1-4ba6-49ed-a08e-ac99f466331a"
+    },
+    {
+      "userId": "cba08b72-3f7f-422a-b1d3-9438af8faf25",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 4,
+          "comment": "Какой-то спорный момент с подтягиваниями. Но начало очень хорошее.",
+          "scoredAt": "2026-10-17T14:27:23.646Z"
+        },
+        {
+          "judgeName": "Samarskij",
+          "score": 5,
+          "comment": "Шестой стрим.",
+          "scoredAt": "2026-10-11T15:42:51.515Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 3,
+          "comment": "Вокал заруинил на мой взгляд, зачитал хорошо придумал интересно, жаль что не вывез чуть вокальную раскладку задумал то неплохо. ",
+          "scoredAt": "2026-09-27T10:27:44.124Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Запись стрима здесь: https://vk.ru/wall-53109527_1110437",
+          "scoredAt": "2026-09-23T19:53:09.971Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "вокальные части в последних квадратах ужасные. рэп читаешь хорошо",
+          "scoredAt": "2026-09-23T10:54:01.553Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T14:32:27.874Z",
+      "current": true,
+      "artistName": "Raticat.e",
+      "artistSlug": "raticat-e",
+      "trackId": "674d9bec-f543-42a7-b3cb-e35b1d64440f"
     },
     {
       "userId": "1c0cfda6-46ba-4fb2-965f-31916f055ffa",
