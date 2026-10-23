@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T15:01:53.626Z",
+  "exportedAt": "2026-10-23T15:11:53.513Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -123701,47 +123701,6 @@
       "trackId": "1c626c04-f8b6-4fdb-93e9-a8aa2a7112f9"
     },
     {
-      "userId": "959f775a-aa2e-45fd-b366-20807a6e08d4",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Никсон",
-          "score": 2,
-          "comment": "Какое-то искусство, которое мне не зашло. Просто 15 секунд интро, 4 строчки и припев. Тему попытался раскрыть, но сути в этом треке нет.",
-          "scoredAt": "2026-10-22T10:33:03.766Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "comment": "На тройку напиздёжил.",
-          "scoredAt": "2026-10-21T15:00:35.446Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "comment": "Что-то очень странное, я больше был бы против прохода если честно.\n\nКаша, а текста одна четвёрка\n\n",
-          "scoredAt": "2026-10-21T06:31:09.808Z"
-        },
-        {
-          "judgeName": "CraftySound",
-          "score": 3,
-          "comment": "Свой звук делаешь, на него всю ману потратил, текста бы сюда ещё.",
-          "scoredAt": "2026-10-19T20:20:12.421Z"
-        },
-        {
-          "judgeName": "Paradise",
-          "score": 4,
-          "comment": "Побольше куплеты, панчи и ля шо за мясо будет",
-          "scoredAt": "2026-10-06T22:14:36.723Z"
-        }
-      ],
-      "fetchedAt": "2026-10-22T14:53:19.840Z",
-      "current": true,
-      "artistName": "TEN & ONE",
-      "artistSlug": "ten-one",
-      "trackId": "b4fb690f-1016-4d00-a879-5e0a7992be77"
-    },
-    {
       "userId": "49b33d0c-125a-46ba-bf27-22eb35dfe5f3",
       "scoredCount": 5,
       "scores": [
@@ -123863,6 +123822,47 @@
       "artistName": "пук среньк",
       "artistSlug": "puk-srenk",
       "trackId": "235ea75b-4482-470a-8073-04af7c48541c"
+    },
+    {
+      "userId": "959f775a-aa2e-45fd-b366-20807a6e08d4",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Никсон",
+          "score": 2,
+          "comment": "Какое-то искусство, которое мне не зашло. Просто 15 секунд интро, 4 строчки и припев. Тему попытался раскрыть, но сути в этом треке нет.",
+          "scoredAt": "2026-10-22T10:33:03.766Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "На тройку напиздёжил.",
+          "scoredAt": "2026-10-21T15:00:35.446Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "Что-то очень странное, я больше был бы против прохода если честно.\n\nКаша, а текста одна четвёрка\n\n",
+          "scoredAt": "2026-10-21T06:31:09.808Z"
+        },
+        {
+          "judgeName": "CraftySound",
+          "score": 3,
+          "comment": "Свой звук делаешь, на него всю ману потратил, текста бы сюда ещё.",
+          "scoredAt": "2026-10-19T20:20:12.421Z"
+        },
+        {
+          "judgeName": "Paradise",
+          "score": 4,
+          "comment": "Побольше куплеты, панчи и ля шо за мясо будет",
+          "scoredAt": "2026-10-06T22:14:36.723Z"
+        }
+      ],
+      "fetchedAt": "2026-10-22T14:53:19.840Z",
+      "current": true,
+      "artistName": "TEN & ONE",
+      "artistSlug": "ten-one",
+      "trackId": "b4fb690f-1016-4d00-a879-5e0a7992be77"
     },
     {
       "userId": "b0536d92-bd2b-40ac-b8be-59ff9e126ffb",
