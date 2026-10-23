@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T07:41:51.171Z",
+  "exportedAt": "2026-10-23T08:22:11.159Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -110663,47 +110663,6 @@
       "trackId": "d659ce89-f3c1-40b0-8d9f-9fb950093fa2"
     },
     {
-      "userId": "15510c9a-614c-4e61-8a0d-f52bba52613d",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "CraftySound",
-          "score": 4,
-          "comment": "Стильно звучит брат. А что по теме раунда?) За звук натягиваю до 4. Но в следующем раунде попробуй сдать трек с темой раунда. ",
-          "scoredAt": "2026-10-22T07:57:38.787Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 4,
-          "comment": "",
-          "scoredAt": "2026-10-22T00:34:28.165Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 3,
-          "comment": "Рифмы простенькие местами, но мне нравится как работаешь с голосом, опыт прям виден! Надо было в теме сильнее работать. ",
-          "scoredAt": "2026-10-19T21:46:15.445Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 5,
-          "comment": "Хороший фаст. Концовка немного подкачала. Для отбора пойдет.",
-          "scoredAt": "2026-10-14T22:39:13.302Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
-          "scoredAt": "2026-10-13T09:49:43.307Z"
-        }
-      ],
-      "fetchedAt": "2026-10-22T08:22:16.730Z",
-      "current": true,
-      "artistName": "Богдан Арт",
-      "artistSlug": "bogdan-art",
-      "trackId": "ee015ce0-05da-4ca5-89c6-33becae40b1f"
-    },
-    {
       "userId": "66bab749-f2c8-4f8e-a59d-0a66ce2e54a6",
       "scoredCount": 5,
       "scores": [
@@ -128988,6 +128947,47 @@
       "artistName": "sorry, we are closed",
       "artistSlug": "sorry-we-are-closed",
       "trackId": "a040d97d-54a5-41f2-8a66-e5dd1b0a2715"
+    },
+    {
+      "userId": "15510c9a-614c-4e61-8a0d-f52bba52613d",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 4,
+          "comment": "Стильно звучит брат. А что по теме раунда?) За звук натягиваю до 4. Но в следующем раунде попробуй сдать трек с темой раунда. ",
+          "scoredAt": "2026-10-22T07:57:38.787Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 4,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:34:28.165Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 3,
+          "comment": "Рифмы простенькие местами, но мне нравится как работаешь с голосом, опыт прям виден! Надо было в теме сильнее работать. ",
+          "scoredAt": "2026-10-19T21:46:15.445Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 5,
+          "comment": "Хороший фаст. Концовка немного подкачала. Для отбора пойдет.",
+          "scoredAt": "2026-10-14T22:39:13.302Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "https://www.twitch.tv/yuarr_mus стрим 11",
+          "scoredAt": "2026-10-13T09:49:43.307Z"
+        }
+      ],
+      "fetchedAt": "2026-10-22T08:22:16.730Z",
+      "current": true,
+      "artistName": "Богдан Арт",
+      "artistSlug": "bogdan-art",
+      "trackId": "ee015ce0-05da-4ca5-89c6-33becae40b1f"
     },
     {
       "userId": "307b19d8-e731-4d66-b240-cd555e52e324",
