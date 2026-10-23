@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T01:52:04.892Z",
+  "exportedAt": "2026-10-23T05:42:08.257Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -86801,47 +86801,6 @@
       "trackId": "1fb01ccb-d753-49be-a94e-c665ce2db9f8"
     },
     {
-      "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "comment": "Спасибо за трек! \nТекст: интересный сторител\nИсполнение: неплохо читаешь, прикольно\nОбщее впечатление: жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
-          "scoredAt": "2026-10-22T15:13:05.577Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 3,
-          "comment": "Немного дефолтно, по подаче ровно, но чуть поработай с раскладками...",
-          "scoredAt": "2026-10-22T13:33:48.830Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 3,
-          "comment": "",
-          "scoredAt": "2026-10-22T00:48:04.732Z"
-        },
-        {
-          "judgeName": "Illumate",
-          "score": 3,
-          "comment": "Средняя работа: что по рифмам, что по истории, что по ритмике.",
-          "scoredAt": "2026-10-20T15:30:24.163Z"
-        },
-        {
-          "judgeName": "СТИШ",
-          "score": 3,
-          "comment": "",
-          "scoredAt": "2026-10-18T01:54:09.758Z"
-        }
-      ],
-      "fetchedAt": "2026-10-22T15:14:33.737Z",
-      "current": true,
-      "artistName": "Андеграунд Возле Аквариума",
-      "artistSlug": "andegraund-vozle-akvariuma",
-      "trackId": "530faef8-5803-478d-8446-29602e394438"
-    },
-    {
       "userId": "26b2e0ca-f28b-4138-bae0-f6c6469e617a",
       "scoredCount": 5,
       "scores": [
@@ -128291,6 +128250,47 @@
       "artistName": "жека тарасов",
       "artistSlug": "zheka-tarasov",
       "trackId": "df788db5-02f0-4079-929b-1d17faaa6730"
+    },
+    {
+      "userId": "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Спасибо за трек! \nТекст: интересный сторител\nИсполнение: неплохо читаешь, прикольно\nОбщее впечатление: жду во втором\nУдачи на баттле! \nНа моих стримах можно получить детальный разбор любого твоего трека, спасибо за подписку, буду ждать: https://www.twitch.tv/aarapnews\n",
+          "scoredAt": "2026-10-22T15:13:05.577Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 3,
+          "comment": "Немного дефолтно, по подаче ровно, но чуть поработай с раскладками...",
+          "scoredAt": "2026-10-22T13:33:48.830Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-22T00:48:04.732Z"
+        },
+        {
+          "judgeName": "Illumate",
+          "score": 3,
+          "comment": "Средняя работа: что по рифмам, что по истории, что по ритмике.",
+          "scoredAt": "2026-10-20T15:30:24.163Z"
+        },
+        {
+          "judgeName": "СТИШ",
+          "score": 3,
+          "comment": "",
+          "scoredAt": "2026-10-18T01:54:09.758Z"
+        }
+      ],
+      "fetchedAt": "2026-10-22T15:14:33.737Z",
+      "current": true,
+      "artistName": "Андеграунд Возле Аквариума",
+      "artistSlug": "andegraund-vozle-akvariuma",
+      "trackId": "530faef8-5803-478d-8446-29602e394438"
     },
     {
       "userId": "fda3d205-a2dd-40f7-a4fd-8e3bb3894553",
