@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T10:22:12.875Z",
+  "exportedAt": "2026-10-23T12:42:12.727Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -17386,47 +17386,6 @@
       "artistName": "SHADY SCREAM",
       "artistSlug": "shady-scream",
       "trackId": "f4899068-4a4f-43c6-99d8-370647ab81fc"
-    },
-    {
-      "userId": "3009c8e9-512e-4aa6-9fea-c9d192886750",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "Paradise",
-          "score": 3,
-          "comment": "Арёл на воле, брад",
-          "scoredAt": "2026-10-17T07:37:25.497Z"
-        },
-        {
-          "judgeName": "AL Hammer",
-          "score": 3,
-          "comment": "законно",
-          "scoredAt": "2026-10-14T19:46:58.810Z"
-        },
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "comment": "Стилёк умеется, разнообразие имеется, фишки свои присутствуют. Не хватает качества звука, как мне кажется. По тексту нормас. Снижать за звучок не вижу смысла, так как просматривается уверенность и без этого. Что-то типо 4,5 тут слышу. Хотя, конечно, дальше будет сложно с таким звучком составлять конкуренцию кому-то.",
-          "scoredAt": "2026-10-12T10:25:21.950Z"
-        },
-        {
-          "judgeName": "Антон RapNews Акулич",
-          "score": 4,
-          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111291",
-          "scoredAt": "2026-10-07T17:14:47.308Z"
-        },
-        {
-          "judgeName": "OttO",
-          "score": 3,
-          "comment": "пойдет",
-          "scoredAt": "2026-09-23T12:01:11.599Z"
-        }
-      ],
-      "fetchedAt": "2026-10-17T07:41:52.887Z",
-      "current": true,
-      "artistName": "Сармат Кокоев",
-      "artistSlug": "sarmat-kokoev",
-      "trackId": "363cce9e-2c5c-4e0c-8298-bbf82ab7d07a"
     },
     {
       "userId": "cd38ba7c-64f6-4d37-a53e-b75480469c1b",
@@ -129972,6 +129931,47 @@
       "artistName": "мц спермозавр",
       "artistSlug": "mc-spermozavr",
       "trackId": "7356e855-0ae1-4e0c-84c8-78a4dbfb1c92"
+    },
+    {
+      "userId": "3009c8e9-512e-4aa6-9fea-c9d192886750",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "Paradise",
+          "score": 3,
+          "comment": "Арёл на воле, брад",
+          "scoredAt": "2026-10-17T07:37:25.497Z"
+        },
+        {
+          "judgeName": "AL Hammer",
+          "score": 3,
+          "comment": "законно",
+          "scoredAt": "2026-10-14T19:46:58.810Z"
+        },
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "Стилёк умеется, разнообразие имеется, фишки свои присутствуют. Не хватает качества звука, как мне кажется. По тексту нормас. Снижать за звучок не вижу смысла, так как просматривается уверенность и без этого. Что-то типо 4,5 тут слышу. Хотя, конечно, дальше будет сложно с таким звучком составлять конкуренцию кому-то.",
+          "scoredAt": "2026-10-12T10:25:21.950Z"
+        },
+        {
+          "judgeName": "Антон RapNews Акулич",
+          "score": 4,
+          "comment": "Запись стрима будет здесь: https://vk.ru/wall-53109527_1111291",
+          "scoredAt": "2026-10-07T17:14:47.308Z"
+        },
+        {
+          "judgeName": "OttO",
+          "score": 3,
+          "comment": "пойдет",
+          "scoredAt": "2026-09-23T12:01:11.599Z"
+        }
+      ],
+      "fetchedAt": "2026-10-17T07:41:52.887Z",
+      "current": true,
+      "artistName": "EGREGORRR",
+      "artistSlug": "egregorrr",
+      "trackId": "363cce9e-2c5c-4e0c-8298-bbf82ab7d07a"
     },
     {
       "userId": "b8befedb-2584-47d3-8e81-99752fbc61c0",
