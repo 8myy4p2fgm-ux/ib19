@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T08:22:11.159Z",
+  "exportedAt": "2026-10-23T09:02:12.895Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -84341,47 +84341,6 @@
       "trackId": "150a32e7-2f6e-4361-a038-4db4e13c5386"
     },
     {
-      "userId": "732915ff-2435-48fd-ae0f-2eebb758d714",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "CraftySound",
-          "score": 5,
-          "comment": "Какой же классный текст, спасибо тебе за него. И это пример опытным баттлерам, которые вообще не постарались, просто сделали стиль и зибили на текст. Тут всё есть и исполнение и биток хороший. Заслуженные 5 баллов!",
-          "scoredAt": "2026-10-01T19:26:57.772Z"
-        },
-        {
-          "judgeName": "Игорь Кедо",
-          "score": 4,
-          "comment": "На стриме",
-          "scoredAt": "2026-09-12T18:02:36.671Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 4,
-          "comment": "https://www.twitch.tv/yuarr_mus 4 ждал вокал но не дождался",
-          "scoredAt": "2026-09-10T14:29:45.247Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "comment": "стрим 1",
-          "scoredAt": "2026-09-09T19:55:15.533Z"
-        },
-        {
-          "judgeName": "OFFSTAGE",
-          "score": 5,
-          "comment": "Стрим 3",
-          "scoredAt": "2026-09-06T16:26:35.153Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true,
-      "artistName": "Marton",
-      "artistSlug": "marton",
-      "trackId": "353e8d06-6a95-47e6-b9ab-756aeb379fb9"
-    },
-    {
       "userId": "a1346cd8-59ad-49f7-9f7e-f7fa5191489f",
       "scoredCount": 5,
       "scores": [
@@ -84462,6 +84421,47 @@
       "artistName": "KOLPAK_ZhZ",
       "artistSlug": "kolpak-zhz",
       "trackId": "d28b0906-1f08-4da3-9768-d943722fa672"
+    },
+    {
+      "userId": "732915ff-2435-48fd-ae0f-2eebb758d714",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "CraftySound",
+          "score": 5,
+          "comment": "Какой же классный текст, спасибо тебе за него. И это пример опытным баттлерам, которые вообще не постарались, просто сделали стиль и зибили на текст. Тут всё есть и исполнение и биток хороший. Заслуженные 5 баллов!",
+          "scoredAt": "2026-10-01T19:26:57.772Z"
+        },
+        {
+          "judgeName": "Игорь Кедо",
+          "score": 4,
+          "comment": "На стриме",
+          "scoredAt": "2026-09-12T18:02:36.671Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 4,
+          "comment": "https://www.twitch.tv/yuarr_mus 4 ждал вокал но не дождался",
+          "scoredAt": "2026-09-10T14:29:45.247Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "стрим 1",
+          "scoredAt": "2026-09-09T19:55:15.533Z"
+        },
+        {
+          "judgeName": "OFFSTAGE",
+          "score": 5,
+          "comment": "Стрим 3",
+          "scoredAt": "2026-09-06T16:26:35.153Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true,
+      "artistName": "Marton",
+      "artistSlug": "marton",
+      "trackId": "353e8d06-6a95-47e6-b9ab-756aeb379fb9"
     },
     {
       "userId": "955285f2-7132-4ee3-a2e4-b48fdfbe999c",
