@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T06:32:05.646Z",
+  "exportedAt": "2026-10-23T06:42:04.964Z",
   "totalParticipants": 3275,
   "members": [
     {
@@ -18495,6 +18495,47 @@
       "trackId": "4efcc682-7355-4fbf-bfe8-6a8b501c2ca0"
     },
     {
+      "userId": "37b757d3-740a-4149-b132-4528f26b2fee",
+      "scoredCount": 5,
+      "scores": [
+        {
+          "judgeName": "H1GH",
+          "score": 5,
+          "comment": "",
+          "scoredAt": "2026-09-28T18:36:17.658Z"
+        },
+        {
+          "judgeName": "Plaga Medicus",
+          "score": 5,
+          "comment": "стрим 7",
+          "scoredAt": "2026-09-28T17:01:22.467Z"
+        },
+        {
+          "judgeName": "r1fmabes",
+          "score": 5,
+          "comment": "Оригинально, сильно, чуть лоска бы и было бы прям вообще заебись, но и так уверенная 5.",
+          "scoredAt": "2026-09-27T10:03:57.623Z"
+        },
+        {
+          "judgeName": "KseroN",
+          "score": 5,
+          "comment": "Круто ! ",
+          "scoredAt": "2026-09-25T09:35:33.548Z"
+        },
+        {
+          "judgeName": "Вла-Да",
+          "score": 5,
+          "comment": "стрим от 24.09 часть 2 разбор 28 раскрытие+++ атмосфера +++",
+          "scoredAt": "2026-09-24T14:27:06.614Z"
+        }
+      ],
+      "fetchedAt": "2026-10-13T18:20:00.020Z",
+      "current": true,
+      "artistName": "ТишинаКомнат",
+      "artistSlug": "tishinakomnat",
+      "trackId": "fee63266-768d-4fc5-8b0d-4a5783a726a6"
+    },
+    {
       "userId": "eb6c44f4-c7bb-4f7b-855b-faa24bb9c697",
       "scoredCount": 5,
       "scores": [
@@ -18698,47 +18739,6 @@
       "artistName": "Трэвис Кот",
       "artistSlug": "trevis-kot",
       "trackId": "73ef4e51-c2cd-48f0-bf57-14a39fd0625b"
-    },
-    {
-      "userId": "37b757d3-740a-4149-b132-4528f26b2fee",
-      "scoredCount": 5,
-      "scores": [
-        {
-          "judgeName": "H1GH",
-          "score": 5,
-          "comment": "",
-          "scoredAt": "2026-09-28T18:36:17.658Z"
-        },
-        {
-          "judgeName": "Plaga Medicus",
-          "score": 5,
-          "comment": "стрим 7",
-          "scoredAt": "2026-09-28T17:01:22.467Z"
-        },
-        {
-          "judgeName": "r1fmabes",
-          "score": 5,
-          "comment": "Оригинально, сильно, чуть лоска бы и было бы прям вообще заебись, но и так уверенная 5.",
-          "scoredAt": "2026-09-27T10:03:57.623Z"
-        },
-        {
-          "judgeName": "KseroN",
-          "score": 5,
-          "comment": "Круто ! ",
-          "scoredAt": "2026-09-25T09:35:33.548Z"
-        },
-        {
-          "judgeName": "Вла-Да",
-          "score": 5,
-          "comment": "стрим от 24.09 часть 2 разбор 28 раскрытие+++ атмосфера +++",
-          "scoredAt": "2026-09-24T14:27:06.614Z"
-        }
-      ],
-      "fetchedAt": "2026-10-13T18:20:00.020Z",
-      "current": true,
-      "artistName": "ТишинаКомнат",
-      "artistSlug": "tishinakomnat",
-      "trackId": "fee63266-768d-4fc5-8b0d-4a5783a726a6"
     },
     {
       "userId": "87bc3d1b-4ea3-4e77-9db1-99df8c318c3e",
