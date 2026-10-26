@@ -2,5 +2,21 @@
   "schemaVersion": 1,
   "roundId": "235f6600-5224-4adf-bbcc-a220f4572251",
   "phase": "submissions",
-  "revisions": []
+  "revisions": [
+    {
+      "userId": "61c75ba5-e586-4869-8350-d4458b0e7d47",
+      "observedAt": "2026-10-26T12:00:53.609Z",
+      "before": null,
+      "after": {
+        "userId": "61c75ba5-e586-4869-8350-d4458b0e7d47",
+        "slug": "grilzzy-wsteny",
+        "name": "Grilzzy Wsteny",
+        "trackId": "383ca037-7a30-4a78-9395-e8f02f36b4ce",
+        "submittedAt": "2026-10-26T02:58:39.004Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    }
+  ]
 }
