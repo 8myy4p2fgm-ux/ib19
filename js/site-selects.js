@@ -13,11 +13,15 @@ function enhance(select){
  if(select.id==='round-select')wrapper.classList.add('site-select-round');
  let items=[],options=[],index=0,search='',lastKey=0,signature='';
  const caption=()=>select.getAttribute('aria-label')||[...select.labels].map(l=>[...l.childNodes].filter(n=>n.nodeType===Node.TEXT_NODE).map(n=>n.textContent).join(' ').trim()).filter(Boolean).join(' ')||'Выбор';
+ function decorate(target,option){
+  target.textContent=option?.text||'—';
+  if(select.id==='round-select'&&option?.dataset.badge){const badge=document.createElement('small');badge.className='site-select-badge';badge.textContent=option.dataset.badge;target.append(' ',badge);}
+ }
  function sync(){
-  label.textContent=select.selectedOptions[0]?.text||'—';button.disabled=select.disabled;
+  decorate(label,select.selectedOptions[0]);button.disabled=select.disabled;
   button.setAttribute('aria-label',caption()+': '+label.textContent);list.setAttribute('aria-label',caption());
   options=[...select.options];const next=options.map(o=>[o.text,o.value,o.disabled||o.parentElement.disabled,o.hidden]);
-  if(JSON.stringify(next)!==signature){signature=JSON.stringify(next);list.replaceChildren();items=options.map((o,i)=>{const item=document.createElement('div');item.role='option';item.tabIndex=-1;item.textContent=o.text;item.hidden=o.hidden;item.setAttribute('aria-disabled',String(!!(o.disabled||o.parentElement.disabled)));item.onclick=()=>choose(i);list.append(item);return item;});}
+  if(JSON.stringify(next)!==signature){signature=JSON.stringify(next);list.replaceChildren();items=options.map((o,i)=>{const item=document.createElement('div');item.role='option';item.tabIndex=-1;decorate(item,o);item.hidden=o.hidden;item.setAttribute('aria-disabled',String(!!(o.disabled||o.parentElement.disabled)));item.onclick=()=>choose(i);list.append(item);return item;});}
   items.forEach((item,i)=>item.setAttribute('aria-selected',String(i===select.selectedIndex)));
  }
  function close(focus=false){if(list.hidePopover&&list.matches(':popover-open'))list.hidePopover();list.hidden=true;button.setAttribute('aria-expanded','false');if(focus&&button.isConnected)button.focus({preventScroll:true});}

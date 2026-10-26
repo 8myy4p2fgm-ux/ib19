@@ -5,7 +5,7 @@ import {openHoro} from './horo-entry.js';
 import {rankPersonalV4} from './personal.js';
 import {buildEvents} from './analytics-v2.js';
 import {voiceInline,selectEditorial,createEditorialSession} from './forum-voice.js';
-import {loadRoundInformation} from './round-information.js';
+import {renderPublicRoundTwo} from './r2-public-page.js';
 const paths={overview:'',dynamics:'dynamics/',judges:'judges/','forum-link':'rappers/',events:'events/',horo:'horo/'};
 const sectionRoutes={home:'overview',judges:'judges',dynamics:'dynamics','forum-link':'forum-link','events-page':'events',horo:'horo'};
 const routeSections=Object.fromEntries(Object.entries(sectionRoutes).map(([k,v])=>[v,k]));
@@ -34,6 +34,8 @@ export function parseRoute(input,base=basePath){
  }
  const round=hashRound??Number(params.get('round')||1);
  if(round===2||params.has('round'))params.set('round',String(round));
+ // REL-OPEN-01: public R2 has one destination, including legacy and restored links.
+ if(round===2)return {type:'overview',round,params:new URLSearchParams('round=2'),error:null,canonical:base+'?round=2'};
  const reportFallback=removeHiddenReportRequest(type,params,url.hash,legacyReport);
  return {type,round,params,error:null,...(reportFallback?{reportFallback:true}:{}),canonical:base+paths[type]+(params.size?'?'+params:'')};
 }
@@ -45,9 +47,9 @@ export function initializeRoutes({loadR1,mountR1}){
  }
  const stateBox=$('load-state');main.insertBefore(stateBox,main.querySelector('.page'));
  const slot=document.querySelector('.shell-round-label');slot.classList.add('shell-round-picker');
- slot.innerHTML='<label for="round-select">Раунд</label><select id="round-select"><option value="" disabled>Выбор раунда</option><option value="1">1-й отборочный</option><option value="2">2-й отборочный</option></select>';
+ slot.innerHTML='<label for="round-select">Раунд</label><select id="round-select"><option value="" disabled>Выбор раунда</option><option value="1">1-й отборочный</option><option value="2" data-badge="Скоро">2-й отборочный</option></select>';
  const select=$('round-select');
- let sequence=0,r1Promise,r2Promise,r1UI,r1Context;
+ let sequence=0,r1Promise,r1UI,r1Context;
  let D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary,judges,events;
  const date=t=>new Date(t).toLocaleString('ru-RU',{timeZone:'Europe/Moscow',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
  const pathFor=type=>basePath+paths[type];
@@ -79,7 +81,8 @@ export function initializeRoutes({loadR1,mountR1}){
   document.querySelectorAll('dialog[open]').forEach(d=>d.close());emit();
   select.value=state.error?'':String(state.round);
   document.body.dataset.round=state.error?'unsupported':String(state.round);
-  $('page-title').textContent=state.error?'Некорректная ссылка':titles[state.type];
+  document.querySelector('.site-header .navs').hidden=state.round===2;
+  $('page-title').textContent=state.error?'Некорректная ссылка':state.round===2?'Второй отборочный':titles[state.type];
   document.title=$('page-title').textContent+' — TUZ19';
   document.querySelector('.head').classList.toggle('overview-head',state.type==='overview');
   document.querySelectorAll('.nav').forEach(b=>{
@@ -91,16 +94,14 @@ export function initializeRoutes({loadR1,mountR1}){
   if(state.error){snapshot('none');notice('Некорректная ссылка',state.error);reveal();if(focus)focusAfterRoute();return;}
   const current=location.pathname+location.search+location.hash;
   if(current!==state.canonical)history.replaceState(history.state,'',state.canonical);
+  if(state.round===2){
+   snapshot('r2');stateBox.hidden=true;activate('round-information');
+   renderPublicRoundTwo($('round-information'),target('overview',1,new URLSearchParams(),true));
+   emit();reveal();if(focus)focusAfterRoute();return;
+  }
   if(state.type==='horo'){snapshot('horo');activate('horo');openHoro($('horo'));emit();reveal();if(focus)focusAfterRoute();return;}
   // Keep the current page until the destination is ready. Initial loading is covered by the carrot.
   try{
-   if(state.round===2){
-    r2Promise ||= loadRoundInformation().catch(e=>{r2Promise=null;throw e;});const info=await r2Promise;if(ticket!==sequence)return;
-    const [{renderRoundInformation}]=await Promise.all([import('./round-information-view.js'),prepareSectionStyles('r2')]);if(ticket!==sequence)return;
-    snapshot('r2',info);stateBox.hidden=true;activate('round-information');
-    const params=new URLSearchParams();if(state.params.has('judge'))params.set('judge',state.params.get('judge'));
-    renderRoundInformation($('round-information'),info,state.type,{judge:state.params.get('judge'),firstRoundURL:target('judges',1,params,true)});emit();
-   }else{
     r1Promise ||= loadR1().catch(e=>{r1Promise=null;throw e;});const context=await r1Promise;if(ticket!==sequence)return;
     if(!r1UI&&document.querySelector('.app').hidden){await window.ib19Loader.preparing?.();if(ticket!==sequence)return;}
     if(!r1UI){r1Context=context;r1UI=mountR1(context);({D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary}=r1UI);judges=rankPersonalV4(judgeCurrent);$('about').querySelector('h2').insertAdjacentHTML('afterend',voiceInline(selectEditorial('methodology',{})?.text));}
@@ -109,7 +110,6 @@ export function initializeRoutes({loadR1,mountR1}){
     snapshot('r1',r1Context);stateBox.hidden=true;activate(routeSections[state.type]);
     if(state.type==='events'){events??=buildEvents(D);renderEvents();}if(state.type==='judges')judgeSummary.draw();emit();
     if(state.type==='dynamics'||state.type==='overview')window.dispatchEvent(new Event('resize'));
-   }
   }catch(error){if(ticket!==sequence)return;snapshot('none');notice(state.round===1?'Не удалось загрузить первый раунд':'Не удалось загрузить сведения R2',error.message,{retry:true});}
   reveal();if(focus)focusAfterRoute();
  }

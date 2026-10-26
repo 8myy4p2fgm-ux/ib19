@@ -18,17 +18,21 @@ try{
    await page.locator('.app:not([hidden])').waitFor();await page.locator('#carrot-loader').waitFor({state:'detached'});
    assert.equal(await page.locator('#round-select').inputValue(),'1');assert(await page.locator('.page.active').count()>0);
   }
-  await page.goto(base+'/?round=2',{waitUntil:'domcontentloaded'});
-  await page.locator('[data-groups-ready=true]').waitFor();
-  assert.equal(await page.locator('#round-select').inputValue(),'2');
-  assert.match(await page.locator('[data-r2-kpi=submitted]').textContent(),/^\d+$/);
-  assert.match(await page.locator('[data-r2-kpi=waiting]').textContent(),/^\d+$/);
-  assert.match(await page.locator('.r2-home-group-note').textContent(),/Когорта:/);
-  await page.goto(base+'/rappers/?round=2',{waitUntil:'domcontentloaded'});
-  await page.locator('.rapper-research').waitFor();
-  assert(!/Невозможно|Ошибка загрузки/.test(await page.locator('body').innerText()));
+  for(const route of ['/','/dynamics/','/judges/','/rappers/','/events/','/horo/']){
+   await page.goto(base+route+'?round=2&report=matrix',{waitUntil:'domcontentloaded'});
+   await page.locator('.r2-public').waitFor();await page.locator('#carrot-loader').waitFor({state:'detached'});
+   assert.equal(await page.locator('#round-select').inputValue(),'2');
+   assert.equal(new URL(page.url()).pathname,'/');assert.equal(new URL(page.url()).search,'?round=2');
+   assert.equal(await page.locator('.site-header .navs').isVisible(),false);
+   assert.equal(await page.locator('.page.active').getAttribute('id'),'round-information');
+   assert.equal(await page.locator('.r2-public h1').innerText(),'Второй отборочный');
+   assert.equal(await page.locator('.page.active :is(table,svg,[role=tablist])').count(),0);
+  }
+  await page.locator('.r2-public a').click();await page.locator('#home.active').waitFor();
+  assert.equal(await page.locator('#round-select').inputValue(),'1');
+  assert.equal(await page.locator('.site-header .navs').getAttribute('hidden'),null);
   await context.close();
  }
  assert.deepEqual(errors,[]);assert.deepEqual(badResponses,[]);
- console.log('PASS: six R1 sections, R2 submissions/cohort and rappers; mobile/desktop; no browser or resource errors.');
+ console.log('PASS: six R1 sections, unified public R2 routes and return to R1; mobile/desktop; no browser or resource errors.');
 }finally{await browser.close();await new Promise(resolve=>server.close(resolve));}

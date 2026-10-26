@@ -53,3 +53,6 @@ body :is(#forum-link,#judges,#dynamics,#judge-profile,#round-information,.site-h
 @media(pointer:coarse),(max-width:768px){
  body .site-select>.site-select-trigger,body #int08-report-2 .hour-judge-trigger{min-height:44px;padding-block:10px!important}
 }
+
+/* A neutral release-status note belongs only to the round picker. */
+body .site-select-round .site-select-badge {display:inline-block;margin-left:4px;font-size:10px;font-weight:400;line-height:1.4;color:var(--ds-muted);vertical-align:middle}

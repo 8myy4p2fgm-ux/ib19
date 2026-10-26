@@ -209,3 +209,12 @@ body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dia
 body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {padding:18px!important;background-size:140px 163px!important;background-position:right 4px bottom 8px!important}
 body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body){font-size:14px}
 }
+
+/* REL-OPEN-01: one public R2 information panel; R1 presentation is unchanged. */
+body[data-round="2"] .site-header .navs {display:none!important}
+body.shell-r1 #round-information .r2-public {max-width:760px;margin-block:24px;color:var(--ds-text)}
+body.shell-r1 #round-information .r2-public h1 {font-family:var(--ds-h1-family);font-size:var(--ds-h1);font-weight:var(--ds-h1-weight);line-height:var(--ds-h1-line);letter-spacing:var(--ds-h1-tracking);margin:0 0 20px}
+body.shell-r1 #round-information .r2-public p {max-width:64ch;color:var(--ds-muted);font-size:var(--ds-body);line-height:1.6;margin:0 0 24px}
+body.shell-r1 #round-information .r2-public .r2-public-status {font-size:var(--ds-small);margin-bottom:12px}
+body.shell-r1 #round-information .r2-public a {display:inline-flex;align-items:center;padding:10px 14px;text-decoration:none}
+body.shell-r1 #round-information .r2-public a:focus-visible {outline:2px solid var(--ds-text);outline-offset:3px}
