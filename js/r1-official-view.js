@@ -1,3 +1,4 @@
+import {PUBLIC_R1_CONTRACT,publicR1Contract} from './r1-public-contract.js';
 import {FIXED_R1_CONTRACT,fixedR1Contract} from './r1-fixed-contract.js';
 import {createRoundContext,FIRST_ROUND_ID} from './round-context.js';
 import {config} from './config.js';
@@ -5,7 +6,7 @@ import {generalAt,participantStatus} from './general.js';
 import {rankPersonalV4} from './personal.js';
 import {officialR1Policy,STANDARD_R1_POLICY_VERSION} from './r1-official-policy.js';
 import {officialR1Activity} from './r1-official-activity.js';
-import {correctOfficialScores} from './r1-correction.js';
+import {correctOfficialScores,contentHash} from './r1-correction.js';
 
 const requireValue=(condition,message)=>{if(!condition)throw new Error(message);};
 
@@ -19,8 +20,8 @@ export function createOfficialR1View({main,forum,metadata,history}={}, {policyVe
 // Trusted-code entry for testing future reviewed source approvals. The application
 // always resolves its policy from the code registry above, never from source JSON.
 export function createOfficialR1ViewForPolicy({main,forum,metadata,history}={},policy,{sourceContract='full'}={}){
- requireValue(sourceContract==='full'||sourceContract===FIXED_R1_CONTRACT,'Unknown R1 source contract');
- const fixed=sourceContract===FIXED_R1_CONTRACT?fixedR1Contract({main,forum,metadata,history},policy):null;
+ requireValue(sourceContract==='full'||sourceContract===FIXED_R1_CONTRACT||sourceContract===PUBLIC_R1_CONTRACT,'Unknown R1 source contract');
+ const fixed=sourceContract===PUBLIC_R1_CONTRACT?publicR1Contract({main,forum,metadata,history},policy,contentHash):sourceContract===FIXED_R1_CONTRACT?fixedR1Contract({main,forum,metadata,history},policy):null;
  const base=createRoundContext({main,forum,metadata});
  const data=base.data,asOf=Date.parse(base.exportedAt),deadline=data.snapshotMetadata.source.round.judgingDeadline;
  requireValue(policy.roundId===base.roundId&&base.roundId===FIRST_ROUND_ID,'Official policy round mismatch');

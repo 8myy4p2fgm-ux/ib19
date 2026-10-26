@@ -8,7 +8,7 @@ export function buildProfiles(D){
   for(const s of p.scores){
    const key=D.judgeIdentities.get(s.judgeName);if(!key)continue;
    if(!profiles.has(key))profiles.set(key,{key,userId:key,name:s.judgeName,rows:[]});
-   profiles.get(key).rows.push({...s,userId:p.userId,artistName:artist.artistName||null,artistSlug:artist.artistSlug||null,forumName:D.referenceMetadata.get(p.userId)?.forum_name||null,trackId:p.trackId||null,current});
+   profiles.get(key).rows.push({...s,userId:p.userId,artistName:artist.artistName||null,artistSlug:artist.artistSlug||null,trackId:p.trackId||null,current});
   }
  }
  for(const s of D.annulledScores||[]){
@@ -17,7 +17,7 @@ export function buildProfiles(D){
  }
  for(const p of profiles.values()){
   for(const row of p.rows){const outcome=D.participantOutcomes?.get(row.userId);if(outcome?.officialOutcome)row.officialException={label:outcome.label,scoreTotal:outcome.scoreTotal,scoreMaximum:outcome.scoreMaximum};}
-  p.rows.sort((a,b)=>Date.parse(b.scoredAt)-Date.parse(a.scoredAt)||a.userId.localeCompare(b.userId));
+  p.rows=sortScores(p.rows);
   p.distribution=[1,2,3,4,5].map(n=>p.rows.filter(s=>s.score===n).length);
   p.count=p.rows.length;p.mean=p.count?p.rows.reduce((n,s)=>n+s.score,0)/p.count:null;
  }
@@ -25,11 +25,12 @@ export function buildProfiles(D){
 }
 export function filterScores(rows,{query='',grade='all'}={}){
  const q=query.trim().toLocaleLowerCase('ru');
- return rows.filter(s=>(grade==='all'||s.score===Number(grade))&&(!q||[s.artistName,s.forumName,s.userId].some(v=>v?.toLocaleLowerCase('ru').includes(q))));
+ return rows.filter(s=>(grade==='all'||s.score===Number(grade))&&(!q||[s.artistName].some(v=>v?.toLocaleLowerCase('ru').includes(q))));
 }
 export function sortScores(rows,order='newest'){
  const direction=order==='oldest'?1:-1;
- return [...rows].sort((a,b)=>(Date.parse(a.scoredAt)-Date.parse(b.scoredAt))*direction||a.userId.localeCompare(b.userId));
+ const times=new Map(rows.map(row=>[row,Date.parse(row.scoredAt)]));
+ return [...rows].sort((a,b)=>(times.get(a)-times.get(b))*direction||a.userId.localeCompare(b.userId));
 }
 // Shared by the existing URL profile (50) and the ranking dialog (25).
 export function pageScores(rows,{query='',grade='all',order='newest',page=1,pageSize=25}={}){

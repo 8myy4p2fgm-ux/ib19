@@ -1,6 +1,6 @@
 import {isFirstRoundActive} from './routes.js';
 // Keep ranking/profile aggregation and styles out of other pages' initial load.
-export function installJudgeRanking(context){
+export function installJudgeRanking(context,data){
  const judgesPath=new URL('../judges/',import.meta.url).pathname;
  let ready,initialized=false;
  const activate=()=>{
@@ -12,7 +12,7 @@ export function installJudgeRanking(context){
     link.onload=resolve;link.onerror=()=>{link.remove();reject(new Error('Не удалось загрузить стили рейтинга'));};document.head.append(link);
    })))
   ]);
-  return modules.then(([module])=>{if(!initialized&&isFirstRoundActive()&&location.pathname===judgesPath){initialized=true;module.initializeJudgeRanking(context);}}).catch(error=>{
+  return modules.then(([module])=>{if(!initialized&&isFirstRoundActive()&&location.pathname===judgesPath){initialized=true;module.initializeJudgeRanking(context,data);}}).catch(error=>{
    ready=null;console.error(error);
   });
  };

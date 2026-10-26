@@ -1,3 +1,4 @@
+import {primeR2GroupReference} from './r2-group-reference.js';
 import {prepareSectionStyles} from './section-styles.js';
 import './site-selects.js';
 import {mountR1Home} from './home-r1.js';
@@ -18,6 +19,7 @@ import {generalAt,participantStatus,verdict,mean} from './general.js';
 function bootstrap(roundContext){
 const D=roundContext.data,P=D.people;
 D.participantOutcomes=new Map([...D.byId.keys()].map(id=>[id,roundContext.analytics.participantOutcome(id)]));
+primeR2GroupReference(roundContext,D);
 const activity=roundContext.activity({now:Date.now()}),outcomes=roundContext.analytics.outcomes();
 Object.assign(document.querySelector('.app').dataset,{runId:roundContext.runId,policyVersion:roundContext.policyVersion,sourceSelectionVersion:roundContext.sourceSelectionVersion,snapshotKey:roundContext.snapshotKey});
 const forum=P.filter(p=>D.metadata.has(p[0])),other=P.filter(p=>!D.metadata.has(p[0]));
@@ -137,17 +139,19 @@ $('coverage').textContent='';
 document.querySelector('.nav.active')?.setAttribute('aria-current','page');
 let rappers,dynamics;
 async function preparePage(type){
- await prepareSectionStyles(type);
+ // Fetch modules alongside CSS; initialization still waits for styled geometry.
+ const modules=type==='forum-link'?[import('./forum-link.js')]:type==='dynamics'?[import('./dynamics-v58.js')]:type==='judges'?[import('./judge-ranking.js'),import('./judge-profile.js')]:[];
+ await Promise.all([prepareSectionStyles(type),...modules]);
  if(type==='forum-link'){
   rappers??=import('./forum-link.js').then(({createForumLink})=>createForumLink({D,$,fmt,esc,context:roundContext})).catch(error=>{rappers=null;throw error;});
   await rappers;
  }else if(type==='dynamics'){
   dynamics??=import('./dynamics-v58.js').then(({mountDynamicsV58})=>{const view=mountDynamicsV58({context:roundContext,activity,outcomes,fmt});window.addEventListener('resize',()=>{if(isFirstRoundActive())view.draw();});return view;}).catch(error=>{dynamics=null;throw error;});
   await dynamics;
- }else if(type==='judges'){prepareSummary();await prepareJudgeRanking();await prepareJudgeProfiles();}
+ }else if(type==='judges'){prepareSummary();await Promise.all([prepareJudgeRanking(),prepareJudgeProfiles()]);}
 }
 const prepareJudgeProfiles=installJudgeProfiles(D);
-const prepareJudgeRanking=installJudgeRanking(roundContext);
+const prepareJudgeRanking=installJudgeRanking(roundContext,D);
 mountR1Home({context:roundContext,activity,summaries:{forum:now,veterans:veteranNow},groupResults:homeGroupResults,outcomes,fmt});
 
 document.getElementById('deadline-countdown').dataset.deadline=config.deadline;window.dispatchEvent(new Event('deadline-data-ready'));$('load-state').hidden=true;

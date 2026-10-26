@@ -1,3 +1,4 @@
+import {PUBLIC_R1_CONTRACT,publicR1Contract} from './r1-public-contract.js';
 import {FIXED_R1_CONTRACT,fixedR1Contract} from './r1-fixed-contract.js';
 // Synchronous SHA-256 keeps the existing synchronous official-view contract.
 // Text is encoded exactly as UTF-8; comments are never trimmed or normalized.
@@ -26,7 +27,9 @@ export function correctOfficialScores(snapshot,person,data,rule,{sourceContract=
  const state=rule.sourceStates.find(s=>s.runId===snapshot.metadata.runId);
  if(!state)fail('unapproved source run');
  let keys=['main','forum','metadata','history'];
- if(sourceContract===FIXED_R1_CONTRACT){
+ if(sourceContract===PUBLIC_R1_CONTRACT){
+  publicR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion},contentHash);keys=[];
+ }else if(sourceContract===FIXED_R1_CONTRACT){
   const fixed=fixedR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion});
   keys=Object.keys(fixed.coreHashes);
   for(const key of keys)if(state.contentHashes[key]!==fixed.coreHashes[key])fail('fixed source registry mismatch: '+key);

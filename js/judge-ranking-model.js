@@ -23,14 +23,12 @@ export function formatRankingNumber(value,{signed=true,integer=false}={}){
  if(value!==0&&Math.abs(value)<.005)return sign+'<0,005';
  return sign+Math.abs(value).toLocaleString('ru-RU',{minimumFractionDigits:integer?0:2,maximumFractionDigits:integer?0:2});
 }
-export function createRankingModel(context){
- const data=context.data;
+export function createRankingModel(context,data=context.data){
  if(context.roundId!==FIRST_ROUND_ID||data.updated!==context.exportedAt||data.snapshotMetadata?.runId!==context.runId)throw new Error('Unsupported ranking snapshot');
  const groups=new Map(['forum','veterans'].map(group=>[group,context.analytics.rankJudges({group})]));
  const veterans=[...data.metadata.values()].filter(p=>p.group==='Ветераны'||p.veteran===true).length;
  const sizes=new Map([['forum',data.metadata.size-veterans],['veterans',veterans]]);
- if(context.analytics.participantOutcome)data.participantOutcomes=new Map([...data.byId.keys()].map(id=>[id,context.analytics.participantOutcome(id)]));
- const profiles=buildProfiles(data);
+ const profiles=buildProfiles(data.participantOutcomes||!context.analytics.participantOutcome?data:{...data,participantOutcomes:new Map([...data.byId.keys()].map(id=>[id,context.analytics.participantOutcome(id)]))});
  return Object.freeze({
   snapshotKey:context.snapshotKey,exportedAt:context.exportedAt,
   rows(group){if(!groups.has(group))throw new Error('Unsupported ranking group');return [...groups.get(group)];},

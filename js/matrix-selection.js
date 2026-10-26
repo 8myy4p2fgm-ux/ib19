@@ -9,4 +9,3 @@ export function selectMatrixRows(rows,state){
   else if(state.matrixSort==='status')list.sort((a,b)=>({pass:0,pending:1,fail:2}[a.status]-{pass:0,pending:1,fail:2}[b.status])||a.name.localeCompare(b.name,'ru'));
   return list;
  }
-

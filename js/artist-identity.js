@@ -1,7 +1,7 @@
-// Artist identity for research reports; forum nicknames stay in D.metadata.
+// Participant display identity is resolved exclusively by official UUID.
 export function artistIdentity(D,userId){
  const {artistName=null,artistSlug=null}=D.artists.get(userId)||{};
- return {userId,artistName,artistSlug,displayName:artistName||'Имя неизвестно',
+ return {userId,artistName,artistSlug,displayName:artistName||'Имя недоступно',
   profileUrl:'https://19ib.ru/artist/'+encodeURIComponent(artistSlug||userId)};
 }
 

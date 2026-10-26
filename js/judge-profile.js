@@ -35,10 +35,9 @@ export async function initializeJudgeProfiles(D){
  },true);
  function avatarURL(value){if(!value)return null;try{const url=new URL(value,'https://api.19ib.ru');return ['https:','http:'].includes(url.protocol)?url.href:null;}catch{return null;}}
  function actor(s){
-  const name=s.artistName||'Имя неизвестно',url='https://19ib.ru/artist/'+encodeURIComponent(s.artistSlug||s.userId);
-  return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(name)} ↗</a>`+
+  const name=s.artistName||'Имя недоступно',url='https://19ib.ru/artist/'+encodeURIComponent(s.artistSlug||s.userId);
+  return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(name)}${!s.artistName?` · ${esc(s.userId)}`:''} ↗</a>`+
 
-   (s.forumName?`<small>Форум: ${esc(s.forumName)}</small>`:'')+
    (s.trackId?`<small><a href="https://api.19ib.ru/tracks/${encodeURIComponent(s.trackId)}/stream" target="_blank" rel="noopener noreferrer">Трек первого раунда ↗</a></small>`:'');
  }
  function comment(text){

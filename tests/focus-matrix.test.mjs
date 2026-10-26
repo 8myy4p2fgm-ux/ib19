@@ -43,7 +43,8 @@ test('Matrix alpha directions, filters and score reset compose without inheritin
  assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'alpha-desc',sort:'alpha'})),['t','y','b','a']);
  assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'score',sort:'alpha',group:'current'})),['y','a']);
  assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'score',sort:'trul',group:'veterans',status:'pass'})),['b']);
- assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'score',sort:'alpha',query:'ya'})),['y','b','a']);
+ assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'score',sort:'alpha',query:'я'})),['y','b','a']);
+ assert.deepEqual(ids(selectMatrixRows(fixtures,{matrixSort:'score',query:'ya'})),[]);
 });
 test('Judge sort directions override row sort; clearing the judge restores exact score order',()=>{
  const base={matrixSort:'score',sort:'alpha',judgeSort:'A'};

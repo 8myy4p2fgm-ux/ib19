@@ -8,9 +8,9 @@ import {esc,metric} from './ranking-view.js';
 // Five analytical columns; score counts remain available in judge profiles.
 const tableColumns=['scorePoints','speedPoints','respectPoints','activity','tuz'].map(key=>rankingColumns.find(column=>column.key===key));
 
-export function initializeJudgeRanking(context){
+export function initializeJudgeRanking(context,data){
  const root=document.getElementById('judges');if(root.querySelector('.judge-ranking'))return;
- const model=createRankingModel(context),dialog=createRankingDialog(),section=document.createElement('section');section.className='judge-ranking';
+ const model=createRankingModel(context,data),dialog=createRankingDialog(),section=document.createElement('section');section.className='judge-ranking';
  const legacy=root.querySelector('.judge-index-heading')?.closest('section');
  root.prepend(section);legacy?.remove();
  const state={group:'forum',mode:'diamond',key:'tuz',direction:-1};

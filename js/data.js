@@ -9,7 +9,7 @@ export function normalizeData(rawMain,rawForum,options={}){
  const end=Date.parse(main.exportedAt),forumEnd=Date.parse(forum.exportedAt);
  fail(Number.isFinite(end),'Некорректный exportedAt основной выгрузки');fail(Number.isFinite(forumEnd),'Некорректный exportedAt форума');
  const checkMembers=(members,label)=>{const ids=new Set();for(const p of members){fail(typeof p.userId==='string'&&p.userId.length>0,label+': отсутствует userId');fail(!ids.has(p.userId),label+': дублируется userId '+p.userId);ids.add(p.userId);fail(Array.isArray(p.scores),label+': нет scores '+p.userId);if(!Array.isArray(p.scores))continue;fail(p.scores.length<=config.scoresPerParticipant,label+': больше пяти оценок '+p.userId);if(p.scoredCount!==undefined)fail(p.scoredCount===p.scores.length,label+': scoredCount не совпадает '+p.userId);const judges=new Set();for(const s of p.scores){fail(typeof s.judgeName==='string'&&s.judgeName.trim(),label+': нет judgeName');fail(!judges.has(s.judgeName),label+': повторная оценка судьи '+p.userId);judges.add(s.judgeName);fail(Number.isInteger(s.score)&&s.score>=1&&s.score<=config.maxScore,label+': недопустимый score '+p.userId);if(!Number.isFinite(Date.parse(s.scoredAt)))warnings.push(label+': некорректный scoredAt '+p.userId+' / '+s.judgeName);fail(!Number.isFinite(Date.parse(s.scoredAt))||Date.parse(s.scoredAt)<=end,label+': оценка позже exportedAt '+p.userId);}}return ids;};
- fail(main.members.length>0,'Основная база пуста');for(const f of forum.members)fail(typeof f.forum_name==='string'&&f.forum_name.trim(),'Отсутствует ник форумщика: '+f.userId);
+ fail(main.members.length>0,'Основная база пуста');for(const f of forum.members)if(rawForum.publicSchema!=='r1-public-v1')fail(typeof f.forum_name==='string'&&f.forum_name.trim(),'Отсутствует ник форумщика: '+f.userId);
  const ids=checkMembers(main.members,'Основная база');checkMembers(forum.members,'Форум');
  const archived=main.archivedMembers||[];fail(Array.isArray(archived),'Некорректный архив участников');
  const archivedIds=checkMembers(archived,'Архив');for(const id of archivedIds)fail(!ids.has(id),'UUID одновременно в текущем составе и архиве: '+id);
@@ -27,7 +27,7 @@ export function normalizeData(rawMain,rawForum,options={}){
  if(errors.length)throw new Error(errors.slice(0,20).join('\n'));
  const referenceMetadata=new Map(forum.members.map(p=>[p.userId,p]));
  const metadata=new Map(forum.members.filter(p=>ids.has(p.userId)).map(p=>[p.userId,p]));
- const people=main.members.map(p=>{const f=metadata.get(p.userId);return [p.userId,f?.forum_name||'',f?.group||'',p.scores.map(s=>[s.judgeName,s.score,s.scoredAt])];});
+ const people=main.members.map(p=>{const f=metadata.get(p.userId);return [p.userId,rawForum.publicSchema==='r1-public-v1'?(artists.get(p.userId)?.artistName||''):f?.forum_name||'',f?.group||'',p.scores.map(s=>[s.judgeName,s.score,s.scoredAt])];});
  const events=main.members.flatMap(p=>p.scores.map(s=>({...s,userId:p.userId,forum:metadata.has(p.userId),judge:s.judgeName,t:Date.parse(s.scoredAt)}))).sort((a,b)=>(Number.isFinite(a.t)?a.t:Infinity)-(Number.isFinite(b.t)?b.t:Infinity));
  // Only this overview report includes current quarantined participants.
  // Keep their raw scores out of people, events and every analytics map.

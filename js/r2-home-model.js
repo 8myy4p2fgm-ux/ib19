@@ -25,12 +25,12 @@ export function r2GroupReference(value){
 }
 
 // Project existing approved statuses; never derive a new threshold or methodology.
-export function r2CohortReference(context){
- const data=context.data,reference=r2GroupReference({members:[...data.metadata.values()]});
+export function r2CohortReference(context,data=context.data){
+ const reference=r2GroupReference({members:[...data.metadata.values()]});
  reference.cohort=new Set();
  for(const id of data.byId.keys()){
   if(!reference.has(id))reference.set(id,'other');
-  if(context.analytics.participantOutcome(id).status==='pass')reference.cohort.add(id);
+  if((data.participantOutcomes?.get(id)??context.analytics.participantOutcome(id)).status==='pass')reference.cohort.add(id);
  }
  return reference;
 }
