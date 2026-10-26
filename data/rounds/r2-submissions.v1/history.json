@@ -17,6 +17,81 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "d1e4cab0-ff5d-49c5-bd3b-c2f0e055247c",
+      "observedAt": "2026-10-26T15:26:58.563Z",
+      "before": null,
+      "after": {
+        "userId": "d1e4cab0-ff5d-49c5-bd3b-c2f0e055247c",
+        "slug": "bupaf",
+        "name": "бупаф",
+        "trackId": "3ffa5f01-31b1-4c5d-a2f6-e8bd5bd6e133",
+        "submittedAt": "2026-10-26T07:04:53.622Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "1f8a0a86-516f-4c61-b679-31f2c5d40de4",
+      "observedAt": "2026-10-26T15:26:58.563Z",
+      "before": null,
+      "after": {
+        "userId": "1f8a0a86-516f-4c61-b679-31f2c5d40de4",
+        "slug": "les33",
+        "name": "LES33",
+        "trackId": "a3e32b35-43f2-49dd-940d-7d3f76419fc7",
+        "submittedAt": "2026-10-26T12:42:12.623Z",
+        "durationSec": 119,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "4ac34ec6-736e-44fd-95ac-5111b8ce2873",
+      "observedAt": "2026-10-26T15:26:58.563Z",
+      "before": null,
+      "after": {
+        "userId": "4ac34ec6-736e-44fd-95ac-5111b8ce2873",
+        "slug": "r",
+        "name": "R",
+        "trackId": "00ce0e84-241f-45a0-9aa9-fc1313b78c1b",
+        "submittedAt": "2026-10-26T12:41:41.975Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "300850d9-9f5b-4f91-b6f3-b40b991a0b15",
+      "observedAt": "2026-10-26T15:26:58.563Z",
+      "before": null,
+      "after": {
+        "userId": "300850d9-9f5b-4f91-b6f3-b40b991a0b15",
+        "slug": "tdk",
+        "name": "TDK",
+        "trackId": "018b772a-19eb-41a5-bb7e-3d89e9c92c14",
+        "submittedAt": "2026-10-26T10:49:27.205Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3",
+      "observedAt": "2026-10-26T15:26:58.563Z",
+      "before": null,
+      "after": {
+        "userId": "fa65611f-d68f-44eb-9c8e-400b9f1703c3",
+        "slug": "rid-riddi",
+        "name": "Рид Ридди",
+        "trackId": "7e36420e-ea82-4f12-9c2d-2acb1d1ce52b",
+        "submittedAt": "2026-10-26T10:09:55.636Z",
+        "durationSec": 96,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
