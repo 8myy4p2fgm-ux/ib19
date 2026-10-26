@@ -134,7 +134,7 @@ function pace(){
  if(labels.length>1){let right=-Infinity;const limit=last.getBBox().x-8;
   for(const label of labels.slice(0,-1)){const box=label.getBBox();if(box.x<right+8||box.x+box.width>limit)label.remove();else right=box.x+box.width;}
  }
- mountPaceTooltip(target,{days,mode:paceMode,x,y,W,H,L,R,T,B:bt,fmt});
+ mountPaceTooltip(target,{days,mode:paceMode,x,y,W,H,L,R,T,B:bt,fmt,showPartial:false});
  function selectMode(mode,id){const focused=panel.querySelector('#'+id)===document.activeElement;paceMode=mode;pace();if(focused)panel.querySelector('#'+id).focus({preventScroll:true});}
  panel.querySelector('#bp-daily').onclick=()=>selectMode('daily','bp-daily');
  panel.querySelector('#bp-cumulative').onclick=()=>selectMode('cumulative','bp-cumulative');

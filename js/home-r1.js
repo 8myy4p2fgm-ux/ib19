@@ -61,7 +61,7 @@ export function mountR1Home({context,activity,summaries,groupResults,outcomes,fm
  put('r1-pulse-total',fmt(activity.factual.count,0));
  root.querySelector('#r1-deadline').title=deadline===null?'Дата не подтверждена':date(new Date(deadline).toISOString());
  const tbody=root.querySelector('#r1-pulse-days');
- for(const p of activity.factual.days){const row=document.createElement('tr');for(const value of [day(p.t)+(p.partial?' · неполный день':''),fmt(p.count,0),fmt(p.cumulative,0)]){const td=document.createElement('td');td.textContent=value;row.append(td);}tbody.append(row);}
+ for(const p of activity.factual.days){const row=document.createElement('tr');for(const value of [day(p.t),fmt(p.count,0),fmt(p.cumulative,0)]){const td=document.createElement('td');td.textContent=value;row.append(td);}tbody.append(row);}
  const chart=root.querySelector('#r1-pulse-chart');
  let selection;
  function draw(){if(!chart.getClientRects().length)return;const svg=pulseSvg(activity.factual.days,chart.clientWidth,fmt,{deadline,selectedIndex:selection?.index()});chart.setAttribute('viewBox',svg.viewBox);chart.style.height=svg.height+'px';chart.innerHTML=svg.markup;selection?.points?.(svg.points); }
