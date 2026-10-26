@@ -1,6 +1,13 @@
 const contentUrl=new URL('../horo/content.json',import.meta.url);
 const media=path=>new URL(path,contentUrl).href;
 const esc=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+// Rich issues use the same details list and existing image lightbox as older issues.
+const articleText=p=>esc(p).replace('https://tuz19.ru/','<a href="https://tuz19.ru/">https://tuz19.ru/</a>');
+function issueHTML(n,data){
+ if(!n.id)return `<details class="horo-note"><summary><span class="horo-issue">ВЫПУСК №${esc(n.number)}</span><strong>${esc(n.title)}</strong><span aria-hidden="true" class="horo-more">⌄</span></summary><div class="horo-note-body">${n.paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</div></details>`;
+ const pictures=indices=>indices.length?`<div class="horo-article-media${indices.length===1?' is-wide':''}">${indices.map(i=>{const m=data.images[i];return `<button type="button" class="horo-image" data-horo-image="${i}" aria-label="Открыть: ${esc(m.alt)}"><img src="${esc(media(m.src))}" alt="${esc(m.alt)}" loading="lazy" decoding="async"></button>`;}).join('')}</div>`:'';
+ return `<details class="horo-note horo-article" id="${esc(n.id)}"><summary><span class="horo-issue">${esc(n.category)}</span><strong>${esc(n.title)}</strong><span aria-hidden="true" class="horo-more">⌄</span></summary><article class="horo-article-body" aria-labelledby="${esc(n.id)}-title"><header class="horo-article-head"><p class="horo-article-category">${esc(n.category)}</p><h2 id="${esc(n.id)}-title">${esc(n.title)}</h2><p class="horo-article-meta"><span>${esc(n.author)}</span><time datetime="${esc(n.date)}">23 октября 2026 года</time></p></header>${n.paragraphs.map((p,i)=>`<div class="horo-article-copy"><p>${articleText(p)}</p></div>${pictures(n.illustrations[i])}`).join('')}<footer class="horo-article-end"><p>${esc(n.signoff)} ${n.signoffLinks.map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.label)}</a>`).join(' ')}</p><button type="button" class="horo-article-back">← К публикациям</button></footer></article></details>`;
+}
 let content;
 export async function renderHoro(root){
  if(root.dataset.ready)return;
@@ -8,11 +15,12 @@ export async function renderHoro(root){
  const data=await content;
  if(root.dataset.ready)return;
  root.innerHTML=`<p class="horo-credits">отдельный респект за весь этот вайб-контент: kyler, MC Ebihara со всей семьёй, КаньОн, медрох и остальные причастные. без вас тут было бы слишком нормально.</p>
- <section class="horo-panel"><h2>Краткое изложение происходящего в теме от сына Ебихары</h2><div class="horo-notes">${data.summaries.map(n=>`<details class="horo-note"><summary><span class="horo-issue">ВЫПУСК №${esc(n.number)}</span><strong>${esc(n.title)}</strong><span aria-hidden="true" class="horo-more">⌄</span></summary><div class="horo-note-body">${n.paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</div></details>`).join('')}</div></section>
+ <section class="horo-panel"><h2>Краткое изложение происходящего в теме от сына Ебихары</h2><div class="horo-notes">${data.summaries.map(n=>issueHTML(n,data)).join('')}</div></section>
  <section class="horo-panel"><h2>Видосы</h2>${data.videos.map(v=>`<div class="horo-video"><iframe src="${esc(v.url)}" title="${esc(v.title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div><p class="horo-video-link"><a href="${esc(v.link)}" target="_blank" rel="noopener noreferrer">Смотреть на YouTube</a></p>`).join('')}</section>
- <section class="horo-panel"><h2>Картинки</h2><div class="horo-gallery">${data.images.map((m,i)=>`<button type="button" class="horo-image${m.frames?' horo-series':''}" data-horo-image="${i}" aria-label="Открыть: ${esc(m.alt)}"><img src="${esc(media(m.src))}" alt="${esc(m.alt)}" loading="lazy" decoding="async"></button>`).join('')}</div></section>
+ <section class="horo-panel"><h2>Картинки</h2><div class="horo-gallery">${data.images.map((m,i)=>m.articleOnly?'':`<button type="button" class="horo-image${m.frames?' horo-series':''}" data-horo-image="${i}" aria-label="Открыть: ${esc(m.alt)}"><img src="${esc(media(m.src))}" alt="${esc(m.alt)}" loading="lazy" decoding="async"></button>`).join('')}</div></section>
  <footer class="horo-footer"><span>андер</span><span class="horo-footer-right">считали ради интереса. появились вопросы. <a href="https://t.me/gleb_grr" target="_blank" rel="noopener noreferrer">тележка 🍊🍊🍊</a></span></footer>`;
  root.dataset.ready='true';
+ root.querySelectorAll('.horo-article-back').forEach(button=>button.onclick=()=>{const issue=button.closest('details');issue.open=false;issue.querySelector('summary').focus({preventScroll:true});issue.scrollIntoView({block:'nearest'});});
  const box=document.createElement('dialog');box.className='horo-lightbox';box.setAttribute('aria-label','Полноразмерный просмотр изображения');
  box.innerHTML='<div class="horo-view-controls"><button type="button" class="horo-zoom" aria-pressed="false">Увеличить</button><button type="button" class="horo-close" aria-label="Закрыть просмотр">×</button></div><div class="horo-view-scroll" tabindex="0"><div class="horo-view-images"></div></div>';
  document.body.append(box);

@@ -67,3 +67,40 @@ dialog.horo-lightbox[open]{display:block}
  .horo-note-body{font-size:14px}
  .horo-credits{font-size:13px;padding:13px 14px}
 }
+
+/* HOROSHO-ARTICLE-01: editorial issue, existing details and lightbox controls. */
+#horo .horo-article {border:1px solid var(--ds-border,#454847);border-radius:12px;margin-bottom:24px;background:var(--ds-inner,#252729);overflow:hidden}
+#horo .horo-article>summary {padding:22px 24px;grid-template-columns:150px minmax(0,1fr) 20px}
+#horo .horo-article>summary .horo-issue {white-space:normal;line-height:1.5;color:var(--ds-muted,#adb5ae)}
+#horo .horo-article>summary strong {font-size:clamp(18px,2vw,24px);color:var(--ds-text,#f0f0ed)}
+#horo .horo-panel:has(>.horo-notes>.horo-article[open]) {background:transparent;border-color:transparent}
+#horo .horo-article[open] {background:transparent;border-color:transparent;overflow:visible}
+#horo .horo-article[open]>summary {background:var(--ds-inner,#252729);border:1px solid var(--ds-border,#454847);border-radius:10px}
+.horo-article-body {padding:24px 0 0;min-width:0;color:var(--ds-text,#f0f0ed)}
+.horo-article-head,.horo-article-copy,.horo-article-end {box-sizing:border-box;width:100%;max-width:800px;margin:0 auto 28px;padding:28px 32px;background:rgba(35,38,37,.95);border-radius:10px}
+#horo .horo-article-head h2 {font-size:clamp(28px,3vw,42px);line-height:1.15;letter-spacing:-.025em;margin:12px 0 20px;color:var(--ds-text,#f0f0ed)}
+.horo-article-category {font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ds-muted,#adb5ae);margin:0}
+.horo-article-meta {display:flex;flex-wrap:wrap;gap:8px 24px;margin:0;font-size:14px;color:var(--ds-muted,#adb5ae)}
+.horo-article-copy>p {font-size:18px;line-height:1.7;margin:0;overflow-wrap:anywhere}
+.horo-article-body a {color:var(--ds-gold,#c9ad80);text-underline-offset:3px}
+.horo-article-media {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:20px;max-width:1000px;margin:0 auto 32px}
+.horo-article-media.is-wide {grid-template-columns:minmax(0,1fr);max-width:1100px}
+#horo .horo-article-media .horo-image {padding:0;margin:0;border:0;background:transparent;overflow:hidden;border-radius:8px}
+.horo-article-media .horo-image:nth-child(3):last-child {grid-column:1/-1;max-width:640px;justify-self:center}
+.horo-article-media img {width:100%;height:auto;object-fit:contain}
+.horo-article-end {font-size:16px;line-height:1.65}
+.horo-article-end p {margin:0 0 20px}
+#horo .horo-article-back {min-height:44px;padding:10px 16px;border:1px solid var(--ds-border,#454847);border-radius:8px;background:var(--ds-active,#252729);color:var(--ds-text,#f0f0ed);font:inherit;cursor:pointer}
+@media(max-width:700px){
+ #horo .horo-panel:has(>.horo-notes>.horo-article) {padding:16px}
+ #horo .horo-article>summary {padding:16px;grid-template-columns:minmax(0,1fr) 20px;gap:6px 10px}
+ #horo .horo-article>summary .horo-issue {grid-column:1}
+ #horo .horo-article>summary strong {grid-column:1;grid-row:2}
+ #horo .horo-article>summary .horo-more {grid-column:2;grid-row:1/span 2}
+ .horo-article-body {padding-top:18px}
+ .horo-article-head,.horo-article-copy,.horo-article-end {padding:22px 18px;margin-bottom:22px}
+ .horo-article-copy>p {font-size:16px;line-height:1.7}
+ .horo-article-media {grid-template-columns:minmax(0,1fr);gap:18px;margin-bottom:22px}
+ .horo-article-media .horo-image:nth-child(3):last-child {grid-column:auto}
+ .horo-article-meta {font-size:13px}
+}

@@ -15,7 +15,7 @@ try{
   await revealHeader(page);const oldHeight=await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height);
   await page.locator('.nav-horo').click();await page.waitForSelector('#horo.active .horo-note');
   assert.equal(new URL(page.url()).pathname,'/horo/');assert.equal(await page.locator('#page-title').innerText(),'Хо-ро-шо. По форумному');
-  assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('.horo-note').count(),6);assert.equal(await page.locator('.horo-note[open]').count(),0);
+  assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('.horo-note').count(),7);assert.equal(await page.locator('.horo-note[open]').count(),0);
   assert(!(await page.locator('#horo').innerText()).includes('баттл глазами тех, кто всё это читает'));
   await revealHeader(page);
   const nav=await page.locator('.nav-horo').evaluate(e=>({active:e.getAttribute('aria-current'),crown:!!e.querySelector('.horo-crown')}));
@@ -23,8 +23,8 @@ try{
   assert.equal(await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height),oldHeight);
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'overflow '+width);
   await page.screenshot({path:`docs/screenshots/horo/page-${width}.png`});
-  for(const note of await page.locator('.horo-note').all()){await note.locator('summary').click();assert(await note.getAttribute('open')!==null);assert((await note.locator('.horo-note-body').innerText()).length>100);}
-  assert.equal(await page.locator('.horo-note[open]').count(),6);
+  for(const note of await page.locator('.horo-note').all()){await note.locator('summary').click();assert(await note.getAttribute('open')!==null);assert((await note.locator('.horo-note-body,.horo-article-body').innerText()).length>100);}
+  assert.equal(await page.locator('.horo-note[open]').count(),7);
   for(const summary of await page.locator('.horo-note summary').all())await summary.click();
   const iframe=page.locator('.horo-video iframe');assert.equal(await iframe.getAttribute('src'),'https://www.youtube.com/embed/tWDkspm4rAk');assert.equal(await iframe.getAttribute('loading'),'lazy');assert(await iframe.getAttribute('allowfullscreen')!==null);
   assert.equal(await page.locator('.horo-gallery .horo-image').count(),12);
@@ -35,7 +35,7 @@ try{
   if(width<500)assert(await page.locator('.horo-view-scroll').evaluate(e=>e.scrollWidth>e.clientWidth));
   await page.locator('.horo-zoom').click();assert.equal(await page.locator('.horo-zoom').getAttribute('aria-pressed'),'true');
   await page.screenshot({path:`docs/screenshots/horo/story-${width}.png`});await page.keyboard.press('Escape');assert.equal(await page.locator('dialog[open]').count(),0);
-  await page.locator('.horo-image').first().click();await page.locator('.horo-close').click();assert.equal(await page.locator('dialog[open]').count(),0);
+  await page.locator('.horo-gallery .horo-image').first().click();await page.locator('.horo-close').click();assert.equal(await page.locator('dialog[open]').count(),0);
   await page.reload();await page.waitForSelector('.horo-note');assert.equal(await page.locator('.horo-note[open]').count(),0);
   await page.evaluate(()=>scrollTo(0,900));assert(Math.abs((await page.locator('.site-header').boundingBox()).y)<1);
   for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link'],['/events/','events-page']]){await page.goto(base+url);await page.waitForSelector('#'+id+'.active');assert.equal(await page.locator('.nav-horo').count(),1);await revealHeader(page);assert(await page.locator('.shell-round-label').isVisible());assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('#round-select').inputValue(),'1');}
