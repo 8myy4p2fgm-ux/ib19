@@ -4,7 +4,7 @@ import {renderFastestSeries} from './fastest-series-view.js';
 import {availableReports,availableReportIndex,nextAvailableReport,onReportFallback} from './report-availability.js';
 import {keepActiveReportVisible} from './report-tabs.js';
 import {createV58ResearchReports,goToV58Fate} from './v58-research-reports.js';
-import {v58Method} from './v58-research-methods.js';
+import {v58Method,appendMethodParagraphs} from './v58-research-methods.js';
 import {esc,number,count,date} from './ranking-view.js';
 import {compareRankingJudges,comparisonMetrics,comparisonJudges} from './judge-comparison.js';
 
@@ -29,7 +29,7 @@ export function mountJudgeResearch({context,model,root,ranking}){
  let methodOutside=false;const outsideMethod=e=>{const r=dialog.getBoundingClientRect();return e.target===dialog&&(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom);};
  dialog.addEventListener('pointerdown',e=>{methodOutside=outsideMethod(e);});dialog.addEventListener('click',e=>{if(methodOutside&&outsideMethod(e))close();methodOutside=false;});
  dialog.addEventListener('close',()=>{if(saved){document.body.style.overflow=saved.body;document.documentElement.style.overflow=saved.html;saved=null;}if(root.classList.contains('active'))opener?.focus({preventScroll:true});});
- function openMethod(button){dialog.querySelectorAll(':scope>p').forEach(p=>p.remove());const text=document.createElement('p');text.textContent=v58Method('judges',state.tab,gaps.source);dialog.append(text);opener=button;saved={body:document.body.style.overflow,html:document.documentElement.style.overflow};dialog.showModal();document.body.style.overflow='hidden';document.documentElement.style.overflow='hidden';dialog.querySelector('button').focus({preventScroll:true});}
+ function openMethod(button){dialog.querySelectorAll(':scope>p').forEach(p=>p.remove());appendMethodParagraphs(dialog,v58Method('judges',state.tab,gaps.source));opener=button;saved={body:document.body.style.overflow,html:document.documentElement.style.overflow};dialog.showModal();document.body.style.overflow='hidden';document.documentElement.style.overflow='hidden';dialog.querySelector('button').focus({preventScroll:true});}
  const selector=(id,value,options,label)=>`<select class="control" id="${id}" aria-label="${label}">${options.map(o=>`<option value="${esc(o.id)}" ${o.id===value?'selected':''}>${esc(o.name)}</option>`).join('')}</select>`;
  function comparison(){
   if(names.length<2){panel.innerHTML='<p class="int09-unavailable">Недостаточно судей для сравнения.</p>';return;}

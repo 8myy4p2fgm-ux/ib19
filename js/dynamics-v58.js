@@ -7,7 +7,7 @@ import {keepActiveReportVisible} from './report-tabs.js';
 import {getV58Research} from './v58-research-model.js';
 import {mountV58OutcomeHistory} from './v58-outcome-history.js';
 import {mountV58Distribution} from './v58-distribution.js';
-import {v58Method,distributionMethodDetails} from './v58-research-methods.js';
+import {v58Method,distributionMethodDetails,appendMethodParagraphs} from './v58-research-methods.js';
 import {hourBins} from './dynamics-hours.js';
 import {mountActivityClock} from './activity-clock.js';
 // Native port of V58 reports/progress.js pace() and hours(); no iframe/data loader.
@@ -186,7 +186,7 @@ function hours(){
  root.append(dialog);
  root.querySelector('#int08-report-0').append(reportNotes);
  const opener=root.querySelector('#int08-method-open');let methodScroll,methodOutside=false;
- function openGapMethod(button){dialog.querySelectorAll(':scope>p,:scope>details').forEach(p=>p.remove());const text=document.createElement('p');text.textContent=v58Method('dynamics',report,research);dialog.append(text);if(report===3){const details=document.createElement('details'),summary=document.createElement('summary'),formulas=document.createElement('p');summary.textContent='Подробные формулы и ограничения';formulas.textContent=distributionMethodDetails;details.append(summary,formulas);dialog.append(details);}gapMethodOrigin=button;methodScroll={html:document.documentElement.style.overflow,body:document.body.style.overflow};dialog.showModal();document.documentElement.style.overflow='hidden';document.body.style.overflow='hidden';dialog.querySelector('button').focus({preventScroll:true});}
+ function openGapMethod(button){dialog.querySelectorAll(':scope>p,:scope>details').forEach(p=>p.remove());appendMethodParagraphs(dialog,v58Method('dynamics',report,research));if(report===3){const details=document.createElement('details'),summary=document.createElement('summary'),formulas=document.createElement('p');summary.textContent='Подробные формулы и ограничения';formulas.textContent=distributionMethodDetails;details.append(summary,formulas);dialog.append(details);}gapMethodOrigin=button;methodScroll={html:document.documentElement.style.overflow,body:document.body.style.overflow};dialog.showModal();document.documentElement.style.overflow='hidden';document.body.style.overflow='hidden';dialog.querySelector('button').focus({preventScroll:true});}
  let gapMethodOrigin=opener;opener.onclick=()=>openGapMethod(opener);
  dialog.querySelector('button').onclick=()=>dialog.close();
  const outsideMethod=e=>{const r=dialog.getBoundingClientRect();return e.target===dialog&&(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom);};

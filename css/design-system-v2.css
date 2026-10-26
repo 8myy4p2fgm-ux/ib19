@@ -184,30 +184,28 @@ body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tabl
  body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button {transition:none!important}
 }
 
-/* Editorial methodology only; participant and judge profiles retain their design. */
+/* UI-MODAL-03: editorial methodology only; profiles stay unchanged. */
 body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {
- width:min(680px,calc(100vw - 32px));max-width:calc(100vw - 32px);max-height:calc(100dvh - 32px);box-sizing:border-box;
- padding:24px!important;overflow:auto;background:#282725!important;color:#eeece6;
- border:1px solid #5c574e!important;border-radius:12px!important;box-shadow:none!important;
+ width:min(680px,calc(100vw - 32px))!important;max-width:calc(100vw - 32px)!important;max-height:calc(100dvh - 32px);box-sizing:border-box;
+ padding:24px!important;overflow:auto;background:var(--ds-active) url('./assets/carrot-watermark.svg') no-repeat right 16px bottom 12px / 180px 210px!important;
+ color:var(--ds-text);border:1px solid var(--ds-border)!important;border-radius:12px!important;box-shadow:0 12px 36px #0004!important;
 }
 body.shell-r1 #method-dialog .method-dialog-inner {padding:0}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head) {background:#282725!important;border:0;padding:0 0 16px;gap:16px}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) h2 {font-size:clamp(24px,2vw,28px)!important;line-height:1.25;letter-spacing:-.02em;margin:0}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) h2::before {content:"";display:block;width:28px;height:2px;background:#ba9865;margin-bottom:12px}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body) {font-size:16px;line-height:1.65;color:#ccc8bf}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button {flex:0 0 44px;width:44px;height:44px;min-height:44px;padding:0!important;font-size:18px!important;line-height:1;border:0!important;border-radius:7px;background:transparent!important;box-shadow:none!important;color:#ccc8bf}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:hover {background:#3d3b37!important}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) button:focus-visible {outline:2px solid #c6c6c3!important;outline-offset:2px}
-@media(max-width:600px){body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {padding:18px!important}body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body){font-size:15px}}
-
-/* UI-CORRECTIONS-01: editorial notes only, never profile dialogs. */
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) {
- background-image:url('./assets/carrot-watermark.svg')!important;
- background-repeat:no-repeat!important;background-position:right 16px bottom 12px!important;background-size:220px 257px!important;
- box-shadow:0 16px 48px #0005!important;border-color:#57534b!important;
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head) {display:flex;align-items:flex-start;justify-content:space-between;position:relative;top:auto;background:transparent!important;border:0;padding:0 0 16px;gap:12px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head) h2 {font-size:clamp(24px,2vw,28px)!important;line-height:1.25;letter-spacing:-.02em;margin:0;overflow-wrap:anywhere}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) h2::before {content:none}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body) {font-size:15px;line-height:1.6;color:var(--ds-text);overflow-wrap:anywhere}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button {flex:0 0 44px;width:44px;height:44px;min-height:44px;margin:-8px -8px 0 0;padding:0!important;font-size:20px!important;font-weight:400;line-height:1;border:0!important;border-radius:4px;background:transparent!important;box-shadow:none!important;color:var(--ds-muted);outline:none}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:hover {background:transparent!important;color:var(--ds-text)}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) button:focus-visible {outline:2px solid var(--ds-text)!important;outline-offset:-3px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-body,.ranking-dialog-body){padding:0;counter-reset:tuz-component}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-body,.ranking-dialog-body)>*+*,
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"])>p+p {border-top:1px solid var(--ds-rule);padding-top:14px;margin-top:14px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) .tuz-explain-item {background:transparent;border-inline:0;border-bottom:0;border-radius:0;box-shadow:none;padding-inline:0}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) .method-component {position:relative;padding-left:38px!important;counter-increment:tuz-component}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) .method-component::before {content:counter(tuz-component,decimal-leading-zero);position:absolute;left:0;color:var(--ds-muted);font-size:12px;letter-spacing:.04em;line-height:24px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) .method-component p {margin:6px 0 0}
+@media(max-width:600px){
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {padding:18px!important;background-size:140px 163px!important;background-position:right 4px bottom 8px!important}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body){font-size:14px}
 }
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button {
- background:#302f2b!important;border-radius:6px!important;outline:none;
-}
-body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:focus-visible {outline:2px solid #c5ad82!important;outline-offset:2px}
-@media(max-width:600px){body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]){background-size:150px 175px!important;background-position:right 4px bottom 8px!important}}
