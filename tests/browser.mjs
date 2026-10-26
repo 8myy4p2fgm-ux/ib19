@@ -1,23 +1,10 @@
-import './ui-reference.mjs';
-await import('./loader.mjs');
-await import('./routes.mjs');
-await import('./artist-names-browser.mjs');
+// Execute every mandatory group exactly once; aggregate failures instead of
+// hiding unexecuted groups behind the first obsolete assertion. No retries.
+import {spawn} from 'node:child_process';import fs from 'node:fs';import {sourceFingerprint} from './release-source-fingerprint.mjs';
+const sourceBefore=sourceFingerprint();
+const groups=['ui-reference.mjs','loader.mjs','routes.mjs','artist-names-browser.mjs','room.mjs','pace-deadline-browser.mjs','participant-status-browser.mjs','logo-browser.mjs','judge-profiles-browser.mjs','temporary-exclusion-browser.mjs','vlad-valov-browser.mjs','gudvin-browser.mjs','horo-browser.mjs','lt-forum-browser.mjs','judge-ranking-browser.mjs','shell-r1-browser.mjs','rapper-reports-browser.mjs','ranking-sticky-browser.mjs','release-hotfix-navigation-browser.mjs','release-hotfix-sticky-touch-browser.mjs'];
+const out='docs/release-hotfix-01/browser-suite';fs.mkdirSync(out,{recursive:true});const results=[];
+for(const group of groups){const start=Date.now(),log=fs.openSync(`${out}/${group}.log`,'w');const code=await new Promise((resolve,reject)=>{const child=spawn(process.execPath,['tests/'+group],{stdio:['ignore',log,log]});child.once('error',reject);child.once('exit',(code,signal)=>resolve(code??signal));});fs.closeSync(log);results.push({group,code,ms:Date.now()-start,log:`${group}.log`});fs.writeFileSync(out+'/results.json',JSON.stringify(results,null,2));console.log(`${code===0?'PASS':'FAIL'} ${group} (${Math.round((Date.now()-start)/1000)}s)`);}
+const failed=results.filter(r=>r.code!==0);console.log(`${results.length-failed.length}/${groups.length} browser groups passed; ${failed.length} failed; no skipped groups.`);if(failed.length)process.exitCode=1;
 
-await import("./room.mjs");
-
-await import('./pace-deadline-browser.mjs');
-
-await import('./participant-status-browser.mjs');
-
-await import('./logo-browser.mjs');
-
-await import('./judge-profiles-browser.mjs');
-
-await import('./temporary-exclusion-browser.mjs');
-await import('./vlad-valov-browser.mjs');
-
-await import('./gudvin-browser.mjs');
-
-await import('./horo-browser.mjs');
-
-await import('./lt-forum-browser.mjs');
+const sourceAfter=sourceFingerprint(),changed=[...new Set([...Object.keys(sourceBefore),...Object.keys(sourceAfter)])].filter(f=>sourceBefore[f]!==sourceAfter[f]);fs.writeFileSync(out+'/candidate.json',JSON.stringify({stable:changed.length===0,changed,before:sourceBefore,after:sourceAfter},null,2));if(changed.length){console.error('Candidate changed during browser gate:',changed);process.exitCode=1;}

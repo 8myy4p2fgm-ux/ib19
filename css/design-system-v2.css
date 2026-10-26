@@ -1,0 +1,201 @@
+/* POLISH-01. Shared presentation contract. Existing report CSS owns composition.
+   !important bridges legacy V58 selectors; no changes to score-cell semantics. */
+:root {
+ --ds-surface:rgb(28 30 30 / .86); --ds-inner:rgb(41 43 43 / .9);
+ --ds-active:#252729; --ds-hover:#353839; --ds-border:#454847;
+ --ds-rule:rgb(173 181 174 / .2); --ds-text:#f0f0ed; --ds-muted:#adb5ae;
+ --ds-pass:#a8c7b5; --ds-fail:#d18a90; --ds-gold:#cba66f;
+ --ds-silver:#a9b9c6; --ds-bronze:#c58e6b; --ds-match:#cb8d9e;
+ --ds-steel:#8fa5b3; --ds-night:#b5a8c3; --ds-amber:#d4b48d;
+ --ds-theme:#a3dd8c; --ds-editorial:#d1ae77; --ds-focus:#d4b48d;
+ --ds-max:1160px; --ds-gutter:24px; --ds-section-gap:24px;
+ --ds-panel-pad:24px; --ds-radius:14px; --ds-radius-inner:9px;
+ --ds-h1:clamp(33px,3.4vw,44px); --ds-h2:24px; --ds-h3:17px; --ds-body:14px;
+ /* Main page H1: homepage reference, independent of report inheritance. */
+ --ds-h1-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+ --ds-h1-weight:720; --ds-h1-line:1.13; --ds-h1-tracking:-.035em;
+ --ds-small:12px; --ds-control:13px; --ds-table:13px; --ds-value:34px;
+ --ds-control-height:44px; --ds-head-height:142px;
+}
+/* One palette, including aliases consumed by accepted components. */
+body.shell-r1,body.shell-r1 :is(#home,#dynamics,#judges,#forum-link,dialog),
+body.shell-r1 :is(.judge-ranking,.judge-research,.rapper-research,.r38-results-host,.participants-summary,#fl-people) {
+ --text:var(--ds-text); --muted:var(--ds-muted); --border:var(--ds-rule);
+ --green:var(--ds-pass); --red:var(--ds-fail); --card:var(--ds-surface);
+ --rank-surface:var(--ds-surface); --rank-raised:var(--ds-inner); --rank-border:var(--ds-rule); --rank-ink:var(--ds-text); --rank-muted:var(--ds-muted);
+ --people-surface:var(--ds-surface); --people-raised:var(--ds-inner); --people-border:var(--ds-rule); --people-ink:var(--ds-text); --people-muted:var(--ds-muted);
+ --r-bg:var(--ds-surface); --r-inner:var(--ds-inner); --r-inner-hover:var(--ds-hover); --r-edge:var(--ds-rule); --r-text:var(--ds-text); --r-muted:var(--ds-muted); --r-mint:var(--ds-pass); --r-red:var(--ds-fail);
+ --r38-base:var(--ds-surface); --r38-inner:var(--ds-inner); --r38-rule:var(--ds-rule); --r38-muted:var(--ds-muted); --r38-mint:var(--ds-pass); --r38-coral:var(--ds-fail);
+ --v45-surface:var(--ds-inner); --v45-raised:var(--ds-active); --v45-hover:var(--ds-hover); --v45-stroke:var(--ds-border); --v45-text:var(--ds-text); --v45-accent:var(--ds-focus);
+ color:var(--ds-text);
+}
+body.shell-r1 .app>.main {max-width:var(--ds-max)!important;width:100%;padding:24px var(--ds-gutter) 36px!important;margin-inline:auto}
+body.shell-r1 .site-header .site-header-inner {max-width:var(--ds-max);margin-inline:auto}
+body.shell-r1 .page {font-size:var(--ds-body);line-height:1.55;min-width:0}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro,.r38-hero.v41-header,.rpt-page-head,.ds-page-head) {
+ display:flex!important;flex-direction:column;justify-content:flex-start;
+ box-sizing:border-box;height:auto!important;min-height:var(--ds-head-height)!important;
+ margin:0 0 12px!important;padding:16px 20px 14px!important;
+ background:transparent!important;border:0!important;box-shadow:none!important;text-align:left;
+ position:relative;isolation:isolate;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro,.r38-hero.v41-header,.rpt-page-head,.ds-page-head)::before {
+ /* V58 report-integration.css: local graphite halo, bounded to the page gutters. */
+ content:""!important;pointer-events:none;position:absolute;z-index:-1;
+ left:calc(-1 * var(--ds-gutter));top:-38px;
+ width:min(940px,calc(100% + 2 * var(--ds-gutter)));height:calc(100% + 78px);
+ background:radial-gradient(ellipse 74% 78% at 29% 40%,rgba(9,12,12,.74),rgba(9,12,12,.40) 54%,transparent 100%);
+ filter:blur(18px);border:0;border-radius:0;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro,.r38-hero.v41-header,.rpt-page-head,.ds-page-head) h1 {
+ font-family:var(--ds-h1-family)!important;font-size:var(--ds-h1)!important;
+ line-height:var(--ds-h1-line)!important;letter-spacing:var(--ds-h1-tracking)!important;
+ font-weight:var(--ds-h1-weight)!important;margin:10px 0 6px!important;color:var(--ds-text)!important;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-kicker,.v41-kicker,.bp-kicker,.ds-kicker) {
+ display:flex!important;align-items:center;flex-wrap:wrap;gap:10px!important;
+ font-size:11px!important;line-height:19px!important;letter-spacing:.085em!important;
+ color:var(--ds-muted)!important;margin:0!important;min-height:19px;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.rpt-theme,.r1-kicker strong,.v41-kicker strong,.ds-kicker strong) {color:var(--ds-editorial)!important;border:0!important;padding:0!important;font-size:12px!important;letter-spacing:0;font-weight:720!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro>p,.r38-hero.v41-header>p,.rpt-page-intro,.ds-page-head>p) {font-size:13px!important;line-height:1.45!important;color:#b7c0b6!important;margin:0!important}
+body.shell-r1:has(#round-information.active) .main>:is(.head,.shell-snapshot) {display:none}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(h2,.jr-title h2,.participants-heading h2) {font-size:var(--ds-h2)!important;line-height:1.25!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) h3 {font-size:var(--ds-h3)!important;line-height:1.35!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-stage,.r38-section,.jr-report,.participants-summary,#fl-people,.round-information) {
+ background:var(--ds-surface)!important;border-color:var(--ds-rule)!important;
+ border-radius:var(--ds-radius)!important;box-shadow:none!important;
+ padding:var(--ds-panel-pad)!important;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-stage,.r38-section) {margin-block:var(--ds-section-gap) 0!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) .r1-summary-stage {margin-top:0!important}
+/* Reports embed existing Participants/Ranking once, without a second outer panel. */
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(#int09-panel-0,#int10-panel-0,#int10-panel-1) {padding:0!important;border:0!important;background:transparent!important;box-shadow:none!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-results,.r1-index,.r38-inner,.ranking-podium,.participants-stats>div,.int10-score,.jr-stats>div,.jr-v52-card) {background:var(--ds-inner)!important;border-color:var(--ds-rule)!important;border-radius:var(--ds-radius-inner)!important;box-shadow:none!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-cards .r1-report,.r1-pace-links a,.int09-unavailable,.int10-limit,.int08-limit) {background:var(--ds-inner)!important;border-color:var(--ds-rule)!important;box-shadow:none!important}
+/* Controls exclude matrix cells, podium medals and score distribution graphics. */
+body.shell-r1 :is(.main,.shell-header-tools) :is(.control,select,input[type=search],.jr-tabs button,.r38-tab,.ranking-controls button,.ranking-sort-tools button,.ranking-profile-tools button,.ranking-profile-pager button,.fm-tools button,.fl-filters button,.rpt-method-trigger,.r38-plain-button,.participants-method button) {
+ font:inherit!important;font-size:var(--ds-control)!important;line-height:1.35!important;
+ min-height:var(--ds-control-height)!important;border:1px solid var(--ds-border)!important;
+ border-radius:var(--ds-radius-inner)!important;background:var(--ds-inner)!important;
+ color:var(--ds-text)!important;box-shadow:none!important;text-shadow:none!important;transform:none!important;
+}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs,.r38-tabs) {padding:12px!important;gap:8px!important;background:var(--ds-surface)!important;border:1px solid var(--ds-rule);border-radius:var(--ds-radius);margin-bottom:var(--ds-section-gap)!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs button,.r38-tab) {text-align:center!important;justify-content:center!important;align-items:center!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs button,.r38-tab):is([aria-selected=true]),
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.control,.ranking-controls button,.fl-filters button,.fm-tools button)[aria-pressed=true],
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.bp-switch,.v44-chart-switch) button:is(.bp-on,.active) {background:var(--ds-active)!important;border-color:var(--ds-muted)!important;color:var(--ds-text)!important;box-shadow:none!important;transform:none!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs button,.r38-tab,.control,.ranking-controls button,.rpt-method-trigger):hover:not(:disabled) {background:var(--ds-hover)!important;border-color:var(--ds-muted)!important;box-shadow:none!important;transform:none!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs,.r38-tabs) button:disabled {opacity:.45}
+body.shell-r1 :is(button,a,input,select,summary,[tabindex]):focus-visible {outline:2px solid var(--ds-focus);outline-offset:3px}
+@media(max-width:760px) {
+ :root {--ds-gutter:14px;--ds-panel-pad:14px;--ds-section-gap:20px;--ds-h1:clamp(29px,8vw,37px);--ds-h1-line:1.1;--ds-h2:21px;--ds-h3:16px;--ds-body:13px;--ds-control:12px;--ds-table:12px;--ds-value:28px;--ds-head-height:170px}
+ body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro,.r38-hero.v41-header,.rpt-page-head,.ds-page-head) {padding:12px 0 14px!important}
+ body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro,.r38-hero.v41-header,.rpt-page-head,.ds-page-head)::before {top:-27px;height:calc(100% + 57px)}
+ body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-intro>p,.r38-hero.v41-header>p,.rpt-page-intro,.ds-page-head>p) {line-height:1.5!important}
+ body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.jr-tabs,.r38-tabs) {padding:8px!important}
+ body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(.r1-card-head h2) {white-space:normal}
+}
+/* B: dense analytical components. Matrix coordinates / score colors stay owned
+   by Focus Matrix B; these rules only style surrounding controls and headings. */
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link,#round-information) :is(table,.fl-matrix-inner,.jr-stats,.participants-stats,.ranking-profile-metrics) {font-variant-numeric:tabular-nums}
+body.shell-r1 .main :is(#judges,#forum-link) :is(.ranking-table,.fl-table,.jr-table) {font-size:var(--ds-table)!important}
+body.shell-r1 .main :is(#judges,#forum-link) :is(.ranking-table,.fl-table,.jr-table) :is(th,td) {border-bottom-color:var(--ds-rule)!important}
+body.shell-r1 .main :is(#judges,#forum-link) :is(.ranking-table,.fl-table,.jr-table) tbody tr:hover>:is(td,th) {background-color:var(--ds-hover)!important}
+body.shell-r1 .main #judges .ranking-table :is(td,th) {background-color:var(--ds-inner)}
+body.shell-r1 .main #judges .ranking-table thead th {background:var(--ds-active)!important}
+body.shell-r1 .main #judges .ranking-table .ranking-tuz {background-color:var(--ds-inner)!important}
+body.shell-r1 .main #judges .ranking-table th[aria-sort]:not([aria-sort=none]) {color:var(--ds-text)!important}
+body.shell-r1 .main #judges .ranking-podium {background:var(--ds-inner)!important}
+body.shell-r1 .main #judges .ranking-metal.ranking-place-1 {border-color:var(--ds-gold)}
+body.shell-r1 .main #judges .ranking-metal.ranking-place-2 {border-color:var(--ds-silver)}
+body.shell-r1 .main #judges .ranking-metal.ranking-place-3 {border-color:var(--ds-bronze)}
+body.shell-r1 .main #judges .ranking-place-1 :is(b,span) {color:var(--ds-gold)}
+body.shell-r1 .main #judges .ranking-place-2 :is(b,span) {color:var(--ds-silver)}
+body.shell-r1 .main #judges .ranking-place-3 :is(b,span) {color:var(--ds-bronze)}
+body.shell-r1 .main :is(#judges,#forum-link) :is(.jr-stats strong,.participants-stats strong) {font-size:var(--ds-value)!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link) :is(svg text,.jr-note,.ranking-note,.participants-snapshot,.int08-provenance) {font-family:inherit}
+body.shell-r1 .main :is(#home,#dynamics) :is(.r1-pulse-visual,.v44-chart-card,.r40-summary-panel) {background:var(--ds-inner)!important;border-color:var(--ds-rule)!important;box-shadow:none!important}
+body.shell-r1 .main :is(#home,#dynamics,#judges,#forum-link) :is(.bp-switch,.v44-chart-switch,.ranking-controls [role=group],.fl-filter-set) {background:var(--ds-inner)!important;border-color:var(--ds-rule)!important;box-shadow:none!important}
+body.shell-r1 .main :is(#dynamics,#forum-link) :is(.bp-switch,.v44-chart-switch) button {min-height:44px!important;background:transparent!important;color:var(--ds-muted)!important;border:1px solid transparent!important;box-shadow:none!important;transform:none!important}
+body.shell-r1 .main :is(#dynamics,#forum-link) :is(.bp-switch,.v44-chart-switch) button:is(.bp-on,.active) {background:var(--ds-active)!important;color:var(--ds-text)!important;border-color:var(--ds-muted)!important}
+/* Dialog owners keep their native showModal, focus and restoration handlers. */
+body.shell-r1 dialog:not(.horo-lightbox),
+body.shell-r1 :is(#home,#dynamics,#judges,#forum-link) dialog {
+ position:fixed!important;inset:0!important;margin:auto!important;
+ width:min(720px,calc(100vw - 28px))!important;max-width:calc(100vw - 28px)!important;
+ max-height:calc(100dvh - 28px)!important;box-sizing:border-box;
+ background:#1c1e1e!important;color:var(--ds-text)!important;
+ border:1px solid var(--ds-border)!important;border-radius:var(--ds-radius)!important;
+ box-shadow:none!important;overscroll-behavior:contain;
+ font-size:var(--ds-body)!important;line-height:1.6;
+}
+body.shell-r1 dialog:not(.horo-lightbox)::backdrop,body.shell-r1 :is(#home,#dynamics,#judges,#forum-link) dialog::backdrop {background:rgb(0 0 0 / .72)!important}
+body.shell-r1 :is(.jr-dialog,.bp-dialog) {padding:var(--ds-panel-pad)!important;overflow:auto}
+body.shell-r1 :is(.jr-dialog,.bp-dialog,.fl-participant-dialog,.fl-full-score-dialog) :is(.jr-dialog-head,.bp-dialog-head,.fl-participant-dialog-head,.fl-full-score-head) {position:sticky;top:0;z-index:2;background:#1c1e1e!important}
+body.shell-r1 dialog:not(.horo-lightbox) h2 {font-size:var(--ds-h2)!important;line-height:1.25!important}
+body.shell-r1 dialog:not(.horo-lightbox) button {min-height:44px;color:var(--ds-text)!important;background:var(--ds-inner)!important;border-color:var(--ds-border)!important;box-shadow:none!important;transform:none!important}
+body.shell-r1 dialog:not(.horo-lightbox) button[aria-label^="Закрыть"] {min-width:44px;flex-shrink:0}
+body.shell-r1 :is(.ranking-dialog-head,.participants-method>header) {background:#1c1e1e!important}
+body.shell-r1 :is(.jr-dialog,.bp-dialog) p {overflow-wrap:anywhere}
+/* C: retained detail views use the same surfaces, without changing their data. */
+body.shell-r1 .main #judges :is(.judge-summary,#judge-profile .panel) {background:var(--ds-surface)!important;padding:var(--ds-panel-pad)!important;border:1px solid var(--ds-rule);border-radius:var(--ds-radius);margin-block:var(--ds-section-gap)}
+body.shell-r1 .main #judges :is(.judge-heat-table,.jp-table) {font-size:var(--ds-table);font-variant-numeric:tabular-nums}
+body.shell-r1 .main #judges .judge-heat-table :is(td,th) {border-color:var(--ds-rule)}
+body.shell-r1 .main #judges .judge-heat-table tbody tr:hover {background:var(--ds-hover)}
+body.shell-r1 .main #judges .judge-heat-overall {background:none}
+body.shell-r1 .main #judges .jp-toolbar .control {font-size:var(--ds-control)}
+body.shell-r1 .main #judges .jp-stat strong {font-size:var(--ds-value)}
+body.shell-r1 #method-dialog .method-dialog-inner {padding:var(--ds-panel-pad)}
+body.shell-r1 #method-dialog .method-dialog-head {position:sticky;top:0;z-index:2;background:#1c1e1e;padding-bottom:12px}
+body.shell-r1 #method-dialog .method-dialog-body {font-size:var(--ds-body)}
+
+/* POLISH-01.1: one compact report strip; panel controls retain their own styles. */
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {
+ display:flex!important;flex-wrap:nowrap!important;align-items:stretch!important;
+ width:100%;max-width:100%;min-width:0;box-sizing:border-box;
+ height:47px;min-height:47px;gap:6px!important;padding:0!important;
+ margin:0 0 var(--ds-section-gap)!important;background:transparent!important;
+ border:0!important;border-bottom:1px solid var(--ds-rule)!important;border-radius:0!important;
+ overflow-x:auto!important;overflow-y:hidden!important;scrollbar-width:none;
+ scroll-snap-type:none!important;scroll-behavior:auto;overscroll-behavior-x:contain;
+}
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]::-webkit-scrollbar {display:none}
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button {
+ position:relative;display:flex!important;flex:0 0 auto!important;
+ width:auto!important;min-width:0!important;height:46px;min-height:46px!important;
+ padding:0 12px!important;margin:0!important;white-space:nowrap!important;
+ font-size:var(--ds-control)!important;font-weight:540!important;line-height:1.35!important;
+ border:0!important;border-bottom:2px solid transparent!important;border-radius:0!important;
+ background:transparent!important;color:var(--ds-muted)!important;
+ box-shadow:none!important;transform:none!important;transition:color .12s;
+ scroll-snap-align:none!important;
+}
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button:hover {
+ background:transparent!important;color:var(--ds-text)!important;
+}
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button[aria-selected=true] {
+ background:transparent!important;color:var(--ds-text)!important;border-bottom-color:var(--ds-gold)!important;
+}
+body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button:focus-visible {
+ outline:2px solid var(--ds-focus)!important;outline-offset:-5px!important;
+}
+@media(prefers-reduced-motion:reduce) {
+ body.shell-r1 .main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] > button {transition:none!important}
+}
+
+/* Editorial methodology only; participant and judge profiles retain their design. */
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {
+ width:min(680px,calc(100vw - 32px));max-width:calc(100vw - 32px);max-height:calc(100dvh - 32px);box-sizing:border-box;
+ padding:24px!important;overflow:auto;background:#282725!important;color:#eeece6;
+ border:1px solid #5c574e!important;border-radius:12px!important;box-shadow:none!important;
+}
+body.shell-r1 #method-dialog .method-dialog-inner {padding:0}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head) {background:#282725!important;border:0;padding:0 0 16px;gap:16px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) h2 {font-size:clamp(24px,2vw,28px)!important;line-height:1.25;letter-spacing:-.02em;margin:0}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) h2::before {content:"";display:block;width:28px;height:2px;background:#ba9865;margin-bottom:12px}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body) {font-size:16px;line-height:1.65;color:#ccc8bf}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button {flex:0 0 44px;width:44px;height:44px;min-height:44px;padding:0!important;font-size:18px!important;line-height:1;border:0!important;border-radius:7px;background:transparent!important;box-shadow:none!important;color:#ccc8bf}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:hover {background:#3d3b37!important}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) button:focus-visible {outline:2px solid #c6c6c3!important;outline-offset:2px}
+@media(max-width:600px){body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {padding:18px!important}body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body){font-size:15px}}

@@ -132,9 +132,6 @@ a:hover{text-decoration:underline;color:var(--green)}
 .event-row time{color:var(--muted)}
 .event-row p{margin:5px 0;color:var(--muted)}
 .forum-comment{color:var(--green)}
-.calculator-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-.calculator-grid label{color:var(--muted)}
-.calculator-grid input{display:block;width:100%;margin-top:8px}
 .simulation-result{padding:16px;border-left:3px solid var(--yellow)}
 .difference-bars{display:flex;align-items:flex-end;justify-content:space-around;height:160px;gap:8px;border-bottom:1px solid var(--border)}
 .difference-bars>div{display:flex;flex-direction:column;align-items:center;gap:6px}
@@ -168,7 +165,6 @@ h2{font-size:22px;line-height:1.3}
 .score-details{font-size:13px}
 .forum-comment{font-size:13px}
 .participant-name small{font-size:13px}
-.calculator-grid label{font-size:13px}
 .difference-bars span{font-size:13px}
 .difference-bars b{font-size:13px}
 .control:focus-visible{outline:2px solid var(--green);outline-offset:4px}
@@ -216,7 +212,6 @@ h1{font-size:30px}
 #home .home-chart{height:310px;min-height:0;max-height:none;aspect-ratio:auto}
 .table{min-width:620px;font-size:14px}
 .chart text{font-size:13px}
-.calculator-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 .event-row{grid-template-columns:1fr}
 }
 .judging-progress-row{display:flex;align-items:center;gap:18px}

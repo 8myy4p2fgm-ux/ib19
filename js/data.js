@@ -37,12 +37,7 @@ export function normalizeData(rawMain,rawForum,options={}){
  const ratingsReport={total:ratingCounts.length,buckets:ratingBuckets};
  return {ratingsReport,excluded,judges,judgeIdentities,updated:main.exportedAt,people,events,metadata,referenceMetadata,byId,archivedById,artists,warnings,forumExportedAt:forum.exportedAt};
 }
-// Retry a complete snapshot: never combine data from different published versions.
-export async function loadData(){
- let lastError;
- for(let attempt=0;attempt<3;attempt++){
-  try{
-   const read=async (url,cache='default')=>{
+const readJSON=async (url,cache='default')=>{
     const controller=new AbortController();
     const timer=setTimeout(()=>controller.abort(),30000);
     try{
@@ -53,16 +48,34 @@ export async function loadData(){
      clearTimeout(timer);
     }
    };
-   const meta=await read(new URL('../data/metadata.json?check='+Date.now(),import.meta.url),'no-store');
-   const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(file=>{
-    const url=new URL('../data/'+file,import.meta.url);url.searchParams.set('v',meta.runId);return read(url,attempt===0?'default':'no-store');
+
+// Retry a complete snapshot: never combine data from different published versions.
+export async function loadData({validateMetadata=()=>{},dataRoot=new URL('../data/',import.meta.url),includeSource=false,includeHistory=includeSource,resource,validateResource}={}){
+ if(includeHistory&&!includeSource)throw new Error('History requires a bound source snapshot');
+ let lastError;
+ for(let attempt=0;attempt<3;attempt++){
+  try{
+   if(resource){
+    if(typeof validateResource!=='function')throw new Error('Resource validator required');
+    return await validateResource(await readJSON(resource,attempt===0?'default':'no-store'));
+   }
+   const meta=await readJSON(new URL('metadata.json?check='+Date.now(),dataRoot),'no-store');
+   validateMetadata(meta);
+   const values=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json',...(includeHistory?['history.json']:[])].map(file=>{
+    const url=new URL(file,dataRoot);url.searchParams.set('v',meta.runId);return readJSON(url,attempt===0?'default':'no-store');
    }));
    if(values[0].exportedAt!==meta.exportedAt||(meta.forumExportedAt&&values[1].exportedAt!==meta.forumExportedAt)){
     lastError=new Error('Обновление данных ещё публикуется. Повторите загрузку.');
     if(attempt<2)await new Promise(resolve=>setTimeout(resolve,500*(attempt+1)));
     continue;
    }
-   const D=normalizeData(...values);D.lastSuccessfulAt=meta.lastSuccessfulAt;return D;
+   if(includeSource){
+    const after=await readJSON(new URL('metadata.json?check='+Date.now(),dataRoot),'no-store');validateMetadata(after);
+    if(JSON.stringify(after)!==JSON.stringify(meta))throw new Error('Source snapshot changed during read');
+   }
+   const D=normalizeData(values[0],values[1]);D.lastSuccessfulAt=meta.lastSuccessfulAt;D.snapshotMetadata=structuredClone(meta);
+   if(includeSource)D.sourceSnapshot={main:values[0],forum:values[1],metadata:meta,history:values[2]};
+   return D;
   }catch(error){
    lastError=error;
    if(attempt<2)await new Promise(resolve=>setTimeout(resolve,500*(attempt+1)));

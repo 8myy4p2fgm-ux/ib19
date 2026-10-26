@@ -1,22 +1,25 @@
+import {prepareSectionStyles} from './section-styles.js';
+import './site-selects.js';
+import {mountR1Home} from './home-r1.js';
 import {installJudgeProfiles} from './judge-profile-entry.js';
+import {installJudgeRanking} from './judge-ranking-entry.js';
 // Local formatter for the comparison chart; module6 has a private formatter.
 const homeComparisonNumberFormat=new Intl.NumberFormat('ru-RU',{minimumFractionDigits:2,maximumFractionDigits:2,signDisplay:'exceptZero'});
 const formatIndex=value=>homeComparisonNumberFormat.format(value).replace('-', '−');
-import {createForumLink} from './forum-link.js';
-import {homeDailyHistory,drawHomeHistory} from './home-history.js';
 import {judgingProgress} from './judging-progress.js';
-import {initializeRoutes} from './routes.js';
+import {initializeRoutes,isFirstRoundActive} from './routes.js';
 import {generalMethod,personalMethod,formulaMethod} from './methodology.js';
 import {judgeGroups} from './judge-groups.js';
 import {createJudgeSummary} from './judge-summary.js';
 import {createCharts} from './charts.js';
 import {config,DAY} from './config.js';
-import {loadData} from './data.js';
+import {loadR1ApplicationContext} from './r1-application.js';
 import {generalAt,participantStatus,verdict,mean} from './general.js';
-import {snapshotTimes} from './history.js';
-import {createPacePage} from './pace-page.js';
-async function bootstrap(){
-const D=await loadData(),P=D.people;
+function bootstrap(roundContext){
+const D=roundContext.data,P=D.people;
+D.participantOutcomes=new Map([...D.byId.keys()].map(id=>[id,roundContext.analytics.participantOutcome(id)]));
+const activity=roundContext.activity({now:Date.now()}),outcomes=roundContext.analytics.outcomes();
+Object.assign(document.querySelector('.app').dataset,{runId:roundContext.runId,policyVersion:roundContext.policyVersion,sourceSelectionVersion:roundContext.sourceSelectionVersion,snapshotKey:roundContext.snapshotKey});
 const forum=P.filter(p=>D.metadata.has(p[0])),other=P.filter(p=>!D.metadata.has(p[0]));
 const allScores=D.events,start=allScores.find(s=>Number.isFinite(s.t))?.t,end=Date.parse(D.updated),day=DAY;
 // TUZ considers active Forum members only; Veterans belong to comparison group.
@@ -28,89 +31,21 @@ const tuzForumCount=tuzForumIds.size,tuzOtherCount=P.length-tuzForumCount;
 const fmt=(v,d=1)=>Number.isFinite(v)?v.toLocaleString('ru-RU',{minimumFractionDigits:d,maximumFractionDigits:d}).replace('-', '−'):'—';
 const sign=v=>fmt(v),$=id=>document.getElementById(id),avg=mean;
 const fs=allScores.filter(s=>s.forum),os=allScores.filter(s=>!s.forum);
-const calcAt=t=>generalAt(tuzScores,tuzForumCount,tuzOtherCount,start,t);
 $('about').innerHTML='<div class="panel" style="max-width:780px"><h2>Как считается индекс ТУЗа</h2>'+generalMethod+'</div><div class="panel judge-method" style="max-width:900px;margin-top:14px"><h2>Личный индекс судьи · ТУЗ</h2>'+personalMethod+formulaMethod+'</div>';
-document.querySelector('.home-method-link').outerHTML='<button type="button" class="method-open" data-method="general">Как считается <span aria-hidden="true">↗</span></button>';
-const daily=snapshotTimes(start,end).map(calcAt),now=generalAt(tuzScores,tuzForumCount,tuzOtherCount,start,end,{historical:false}),ver=verdict(now.index);
-$('index-main').textContent=(now.index>0?'+':'')+fmt(now.index,2);$('index-main').style.color=ver[2];$('verdict-main').textContent=ver[1];$('forum-count').textContent=fmt(forum.length,0);$('scores-count').textContent=fmt(allScores.length,0);$('judges-count').textContent=new Set(allScores.map(s=>s.judge)).size;$('updated').title=Date.now()-Date.parse(D.updated)>7200000?'Последняя успешная выгрузка старше двух часов':'';$('updated').textContent=new Date(D.updated).toLocaleString('ru-RU',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Moscow'})+' МСК';$('coverage').textContent='Оценок: '+fmt(allScores.length,0);
+document.querySelector('.home-method-link').outerHTML='<button type="button" class="method-open" data-method="general" title="Методология индекса ТУЗа">ⓘ Как считается<span aria-hidden="true"></span></button>';
+const daily=[],now=roundContext.analytics.summary({group:'forum'}),ver=verdict(now.index);
+$('index-main').textContent=(now.index>0?'+':'')+fmt(now.index,2);$('index-main').style.color=ver[2];$('verdict-main').textContent=ver[1].replace('Хо-ро-шо. По форумному','Хо-ро-шо. По-форумному');$('forum-count').textContent=fmt(forum.length,0);$('scores-count').textContent=fmt(allScores.length,0);$('judges-count').textContent=new Set(allScores.map(s=>s.judge)).size;$('updated').title='';$('updated').textContent='';$('coverage').textContent='Оценок: '+fmt(allScores.length,0);
 $('home-index-components').textContent='Благосклонность '+fmt(now.favor,2)+' · Внимание '+fmt(Number.isFinite(now.priority)?now.priority*.25:null,2)+' · Уважение '+fmt(now.respect,2);
-$('home-confidence').textContent='Общий ТУЗ: Форум; на графике можно выбрать Ветеранов';
+$('index-main').dataset.value=String(now.index);
+$('home-confidence').textContent='Форум · сравнение с остальными участниками';
+
 $('judging-group-progress').textContent='Форум — '+fmt(now.forumProgress,2)+'% · Остальные — '+fmt(now.otherProgress,2)+'% · Разница покрытия — '+(now.progressDifference>0?'+':'')+fmt(now.progressDifference,2)+' п.п.';
 const {attachChartTip,chartTooltip}=createCharts({daily,fmt,$});
 const veteranScores=allScores.map(e=>({...e,forum:veteranIds.has(e.userId)}));
 const veteranCount=veteranIds.size,veteranOtherCount=P.length-veteranCount;
-const veteranNow=generalAt(veteranScores,veteranCount,veteranOtherCount,start,end,{historical:false});
-const groupHistories={
- current:homeDailyHistory(tuzScores,tuzForumCount,tuzOtherCount,start,end),
- former:homeDailyHistory(veteranScores,veteranCount,veteranOtherCount,start,end)
-};
-const homeVisible=new Set(['current']);
-document.querySelectorAll('[data-home-group]').forEach(b=>{const active=homeVisible.has(b.dataset.homeGroup);b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
-const homeSeriesMeta={current:{name:'Форум',color:'#68D99A'},former:{name:'Ветераны',color:'#E8B36B'}};
-function drawHome(){
- const svg=$('chart-main'),keys=[...homeVisible],series=keys.map(key=>({key,...homeSeriesMeta[key],points:groupHistories[key]}));
- const allPoints=series.flatMap(s=>s.points),mobile=window.innerWidth<=760;
- const W=svg.clientWidth||(mobile?Math.max(280,window.innerWidth-28):760),H=mobile?270:290,L=58,R=mobile?70:112,T=18,B=36;
- const min=0,max=Math.max(20,Math.ceil(Math.max(0,...Object.values(groupHistories).flatMap(history=>history.map(p=>Number.isFinite(p.index)?p.index:0)))/10)*10),length=groupHistories.current.length;
- svg.setAttribute('viewBox',`0 0 ${W} ${H}`);svg.style.height=H+'px';
- const x=i=>L+i*(W-L-R)/Math.max(1,length-1),y=v=>T+(max-v)*(H-T-B)/(max-min);
- let out=`<defs><clipPath id="home-plot-clip"><rect x="${L}" y="${T}" width="${W-L-R}" height="${H-T-B}"/></clipPath></defs>`;
- for(const [lo,hi,color] of [[20,max,'#65B78A'],[10,20,'#D5A451'],[min,10,'#D96D6B']])out+=`<rect class="home-state-strip" x="${L-13}" y="${y(hi)}" width="8" height="${y(lo)-y(hi)}" fill="${color}"/>`;
- for(let v=min;v<=max;v+=10)out+=`<line class="gridline${v===0?' home-zero-line':''}" x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L-23}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
- for(const v of [10,20])out+=`<line class="home-threshold-line" x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}"/>`;
- const count=mobile?3:4;for(const i of [...new Set(Array.from({length:count},(_,j)=>Math.round(j*(length-1)/(count-1))))]){const p=groupHistories.current[i];if(p)out+=`<text x="${x(i)}" y="${H-8}" text-anchor="middle">${new Date(p.t).toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit',timeZone:'Europe/Moscow'})}</text>`;}
- const endpoints=[];
- for(const serie of series){
-  let segments=[],segment=[];
-  serie.points.forEach((p,i)=>{if(Number.isFinite(p.index))segment.push({x:x(i),y:y(p.index)});else if(segment.length){segments.push(segment);segment=[];}});
-  if(segment.length)segments.push(segment);
-  for(const seg of segments)out+=`<path class="home-index-line" d="${seg.map((p,i)=>(i?'L':'M')+p.x+','+p.y).join(' ')}" fill="none" stroke="${serie.color}" stroke-width="${serie.key==='all'?2.5:2.8}" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#home-plot-clip)"/>`;
-  const last=serie.points.findLastIndex(p=>Number.isFinite(p.index));
-  if(last>=0){const p=serie.points[last];out+=`<circle cx="${x(last)}" cy="${y(p.index)}" r="4" fill="${serie.color}"/>`;endpoints.push({serie,p,py:y(p.index)});}
- }
- // Разводим подписи по вертикали, не меняя реальные координаты точек.
- endpoints.sort((a,b)=>a.py-b.py);
- const minGap=mobile?30:34;
- endpoints.forEach((item,i)=>{item.labelY=Math.max(T+9,item.py,i?endpoints[i-1].labelY+minGap:T+9);});
- if(endpoints.length&&endpoints.at(-1).labelY>H-B-7){const shift=endpoints.at(-1).labelY-(H-B-7);endpoints.forEach(item=>item.labelY-=shift);}
- for(const item of endpoints){
-  const label=formatIndex(item.p.index);
-  out+=`<path d="M${x(item.serie.points.findLastIndex(p=>Number.isFinite(p.index)))+5},${item.py} L${W-R+13},${item.labelY}" stroke="${item.serie.color}" stroke-width="1" stroke-opacity=".55" fill="none"/>`;
-  out+=`<text x="${W-R+19}" y="${item.labelY+4}" fill="${item.serie.color}" font-size="${mobile?12:14}" font-weight="700" text-anchor="start">${label}</text>`;
- }
- svg.innerHTML=out;
- // Единая подсказка на дату: в режиме сравнения показывает обе группы.
- svg.onpointermove=ev=>{
-  const ctm=svg.getScreenCTM();if(!ctm)return;
-  const pt=svg.createSVGPoint();pt.x=ev.clientX;pt.y=ev.clientY;
-  const pos=pt.matrixTransform(ctm.inverse());
-  if(pos.x<L||pos.x>W-R){chartTooltip.style.display='none';return;}
-  const i=Math.max(0,Math.min(length-1,Math.round((pos.x-L)/(W-L-R)*Math.max(1,length-1))));
-  const record=groupHistories.current[i];if(!record)return;
-  const date=new Date(record.t).toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit',year:'numeric',timeZone:'Europe/Moscow'});
-  chartTooltip.classList.add('home-chart-tip');
-  chartTooltip.innerHTML='<strong>'+date+'</strong>'+series.map(serie=>{const v=serie.points[i]?.index;return Number.isFinite(v)?'<div><span style="color:'+serie.color+'">●</span> '+serie.name+': <b>'+formatIndex(v)+'</b></div>':'';}).join('');
-  chartTooltip.style.display='block';
-  chartTooltip.style.left=Math.max(8,Math.min(ev.clientX+14,window.innerWidth-chartTooltip.offsetWidth-10))+'px';
-  chartTooltip.style.top=Math.max(8,Math.min(ev.clientY+14,window.innerHeight-chartTooltip.offsetHeight-8))+'px';
- };
- svg.onpointerleave=()=>chartTooltip.style.display='none';
- svg.onclick=svg.onpointermove;
-}
-document.querySelectorAll('[data-home-group]').forEach(button=>button.addEventListener('click',()=>{
- const key=button.dataset.homeGroup;
- if(homeVisible.has(key)){if(homeVisible.size>1)homeVisible.delete(key);}else homeVisible.add(key);
- document.querySelectorAll('[data-home-group]').forEach(b=>{const active=homeVisible.has(b.dataset.homeGroup);b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
- drawHome();
-}));
-function drawPeriod(id,from){if(id==='chart-main'){drawHome();return;}}
-
-drawHome();
-window.addEventListener('resize',()=>drawPeriod('chart-main',Number($('chart-main').dataset.periodFrom)||0));
+const veteranNow=roundContext.analytics.summary({group:'veterans'});
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 
-const pacePage=createPacePage({D,config,$,fmt,attachChartTip});
-window.addEventListener('resize',pacePage.draw);
 const judging=judgingProgress([...D.byId.values()]);
 $('required-scores').textContent=fmt(judging.required,0);
 $('scores-count').textContent=fmt(judging.placed,0);
@@ -133,29 +68,34 @@ for(const [groupName,people] of [['forum',currentForum],['veteran',veteranForum]
  $('judging-'+groupName+'-percent').textContent=fmt(percent,1)+'%';
  $('judging-'+groupName+'-fill').style.width=percent+'%';
  $('judging-'+groupName+'-progress').setAttribute('aria-valuenow',String(percent));
- $('judging-'+groupName+'-detail').textContent=fmt(placed,0)+' из '+fmt(required,0)+' оценок';
+ const credited=people.reduce((n,p)=>n+Math.min(p[3].length,expectedPerParticipant),0);
+ $('judging-'+groupName+'-detail').textContent=fmt(credited,0)+' из '+fmt(required,0)+' слотов'+(placed>credited?' · '+fmt(placed-credited,0)+' дополнительная оценка':'');
 }
 
-const countStatus=(people,status)=>people.filter(p=>participantStatus(p[3]).status===status).length;
+const countStatus=(people,status)=>people.filter(p=>D.participantOutcomes.get(p[0]).status===status).length;
 const forumPassed=countStatus(forum,'pass'),forumFailed=countStatus(forum,'fail'),forumPending=countStatus(forum,'pending');
-const otherStatuses=other.map(p=>participantStatus(p[3])),otherPassed=otherStatuses.filter(p=>p.status==='pass').length,otherFailed=otherStatuses.filter(p=>p.status==='fail').length,otherPending=other.length-otherPassed-otherFailed;
+const otherStatuses=other.map(p=>D.participantOutcomes.get(p[0])),otherPassed=otherStatuses.filter(p=>p.status==='pass').length,otherFailed=otherStatuses.filter(p=>p.status==='fail').length,otherPending=other.length-otherPassed-otherFailed;
 
 $('home-forum-size').textContent=fmt(currentForum.length,0)+' человек';
 $('home-veteran-size').textContent=fmt(veteranForum.length,0)+' человек';
 $('home-other-size').textContent=fmt(other.length,0)+' человек';
+const homeGroupResults={};
 for(const [group,people,prefix] of [['current',currentForum,'home'],['veterans',veteranForum,'home-veteran']]){
+ homeGroupResults[group]={total:people.length};
  for(const [status,suffix] of [['pass','passed'],['fail','failed'],['pending','pending']]){
-  const el=$(prefix+'-'+suffix);el.textContent=fmt(countStatus(people,status),0);el.title='Открыть список: '+(group==='veterans'?'бывшие / ветераны':'форум')+', '+({pass:'прошли',fail:'выбыли',pending:'в борьбе'}[status]);
+  const count=countStatus(people,status);homeGroupResults[group][status]=count;
+  const el=$(prefix+'-'+suffix);el.textContent=fmt(count,0);el.title='Открыть список: '+(group==='veterans'?'бывшие / ветераны':'форум')+', '+({pass:'прошли',fail:'выбыли',pending:'в борьбе'}[status]);
  }
 }
 $('home-other-passed').textContent=fmt(otherPassed,0);$('home-other-failed').textContent=fmt(otherFailed,0);$('home-other-pending').textContent=fmt(otherPending,0);
-const totalPassed=forumPassed+otherPassed,totalFailed=forumFailed+otherFailed,totalPending=forumPending+otherPending;
+const totalPassed=outcomes.totalPassed,totalFailed=outcomes.failed,totalPending=outcomes.pending;
 const totalDecided=totalPassed+totalFailed; const passFill=$('home-position-pass-fill'),failFill=$('home-position-fail-fill');if(passFill&&failFill){passFill.style.width=(totalDecided?totalPassed/totalDecided*100:0)+'%';failFill.style.width=(totalDecided?totalFailed/totalDecided*100:0)+'%';}const passLabel=$('home-position-pass-label'),failLabel=$('home-position-fail-label');if(passLabel)passLabel.textContent='Прошли · '+(totalDecided?fmt(100*totalPassed/totalDecided,1)+'%':'—');if(failLabel)failLabel.textContent='Выбыли · '+(totalDecided?fmt(100*totalFailed/totalDecided,1)+'%':'—');
 $('home-total-size').textContent=fmt(P.length,0);
 for(const [id,n,percent] of [['home-total-passed',totalPassed,true],['home-total-failed',totalFailed,true],['home-total-pending',totalPending,false]]){
  const cell=$(id);cell.textContent=fmt(n,0);
  if(percent){const small=document.createElement('small');small.className='home-group-share';small.textContent=totalDecided?fmt(100*n/totalDecided,1)+'%':'—';cell.append(small);}
 }
+if(activity.sourceObserved)$('home-ratings-title').textContent='Сколько действительных оценок получили участники';
 const {buckets:ratingBuckets,total:ratingsTotal}=D.ratingsReport;
 const maxBucket=Math.max(1,...ratingBuckets);
 $('home-ratings-total').textContent=fmt(ratingsTotal,0)+' участников';
@@ -190,30 +130,28 @@ for(const [id,n,label] of [['home-forum-pass-bar',forumPassed,'Прошли'],['
 // Личные индексы из того же среза и единой формулы ТУЗ.
 const judgeNames=[...new Set(allScores.map(s=>s.judge))].sort((a,b)=>a.localeCompare(b,'ru'));
 const judgeCurrent=now.judges;
-const judgeSummary=createJudgeSummary({rows:judgeGroups(tuzScores,veteranIds),judgeCurrent,forumCount:tuzForumCount,$,fmt,esc,chartTooltip,judgeVeterans:veteranNow.judges});
+let judgeSummary;
+function prepareSummary(){return judgeSummary??=createJudgeSummary({rows:judgeGroups(tuzScores,veteranIds),judgeCurrent,forumCount:tuzForumCount,$,fmt,esc,chartTooltip,judgeVeterans:veteranNow.judges});}
 // Shared participant rows supply forum results and judge histories.
 $('coverage').textContent='';
 document.querySelector('.nav.active')?.setAttribute('aria-current','page');
-createForumLink({D,$,fmt,esc});
-installJudgeProfiles(D);
-initializeRoutes({D,P,allScores,daily,now,fmt,esc,$,judgeNames,judgeCurrent,judgeSummary});
-document.getElementById('deadline-countdown').dataset.deadline=config.deadline;window.dispatchEvent(new Event('deadline-data-ready'));$('load-state').hidden=true;document.querySelector('.app').hidden=false;drawPeriod('chart-main',Number($('chart-main').dataset.periodFrom)||0);
-if(D.warnings.length){const note=document.createElement('div');note.className='data-warning';note.textContent=D.warnings.join(' ');document.querySelector('.main').prepend(note);}
-window.ib19Loader.ready();
+let rappers,dynamics;
+async function preparePage(type){
+ await prepareSectionStyles(type);
+ if(type==='forum-link'){
+  rappers??=import('./forum-link.js').then(({createForumLink})=>createForumLink({D,$,fmt,esc,context:roundContext})).catch(error=>{rappers=null;throw error;});
+  await rappers;
+ }else if(type==='dynamics'){
+  dynamics??=import('./dynamics-v58.js').then(({mountDynamicsV58})=>{const view=mountDynamicsV58({context:roundContext,activity,outcomes,fmt});window.addEventListener('resize',()=>{if(isFirstRoundActive())view.draw();});return view;}).catch(error=>{dynamics=null;throw error;});
+  await dynamics;
+ }else if(type==='judges'){prepareSummary();await prepareJudgeRanking();await prepareJudgeProfiles();}
 }
-function runBootstrap(retry=false){
- const state=document.getElementById('load-state');
- if(retry){state.className='load-pending';state.textContent='Загружаем аналитику…';state.hidden=false;}
- bootstrap().catch(error=>{
-  state.className='load-error';
-  const title=document.createElement('h2'),detail=document.createElement('p'),button=document.createElement('button');
-  title.textContent='Сайт упал';
-  detail.textContent='Не удалось загрузить аналитику. Возможно, данные ещё обновляются.';
-  button.type='button';button.className='control';button.textContent='Разбудить программиста';
-  button.addEventListener('click',()=>runBootstrap(true));
-  state.replaceChildren(title,detail,button);state.hidden=false;
-  window.ib19Loader.ready();console.error(error);
- });
-}
-runBootstrap();
+const prepareJudgeProfiles=installJudgeProfiles(D);
+const prepareJudgeRanking=installJudgeRanking(roundContext);
+mountR1Home({context:roundContext,activity,summaries:{forum:now,veterans:veteranNow},groupResults:homeGroupResults,outcomes,fmt});
 
+document.getElementById('deadline-countdown').dataset.deadline=config.deadline;window.dispatchEvent(new Event('deadline-data-ready'));$('load-state').hidden=true;
+if(D.warnings.length){const note=document.createElement('div');note.className='data-warning';note.textContent=D.warnings.join(' ');document.querySelector('.main').prepend(note);}
+return {D,P,allScores,daily,now,fmt,esc,$,judgeNames,judgeCurrent,judgeSummary:{draw(){judgeSummary?.draw();}},preparePage};
+}
+initializeRoutes({loadR1:loadR1ApplicationContext,mountR1:bootstrap});

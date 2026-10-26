@@ -1,0 +1,38 @@
+✔ existing update CLI: R2 no-op, pending deploy, new submission, track change, failure and immutable R1 (612.1915ms)
+✔ R2 home projects two unique confirmed submissions to Moscow 24 October (0.678084ms)
+✔ Unknown group identity is not the Others group; denominators stay unknown (0.091292ms)
+✔ Grouping uses exact UUID rather than a similar name (0.061208ms)
+✔ Full replacement reflects new dates, deletion, duplicates and track replacement (5.207625ms)
+✔ advanceCount and R1 outcomes never act as R2 roster (0.102334ms)
+✔ cohort projects approved pass statuses by UUID; admission and submission stay separate (6.7175ms)
+✔ pinned submissions phase rejects another round or phase and cannot recover from an R1 report (8.408125ms)
+✔ workflow commits exactly the R2 publication set; clock and deploy mechanism stay in place (0.986041ms)
+✔ inconsistent full/live pair and judging scores fail without any publication (5.799375ms)
+✔ Exact two-source bytes, identities, chronological dates, lengths and unknown roster (4.013208ms)
+✔ Independent frozen snapshots and repeated loads have no accumulation or input mutation (1.535ms)
+✔ Search and chronological order use current records, stable UUID ties and no source mutation (0.878083ms)
+✔ New entries, removal, empty replacement, track and timestamp changes never merge with old snapshot (1.032042ms)
+✔ Missing optional fields remain unknown and incomplete evidence is not counted as a submission (0.411416ms)
+✔ Future aggregate scores stay source fields and never enable R1 or R2 analytical formulas (0.222083ms)
+✔ Fail closed on wrong round, bad provenance, duplicates, mismatch, bad dates and negative durations (1.556875ms)
+✔ scheduled R2 update accepts the byte-identical frozen R1 archive (25.61275ms)
+✔ manual collection is not suppressed (0.7925ms)
+✔ queued and delayed runs collect from the current ten-minute bucket (0.149583ms)
+✔ already fresh ten-minute bucket is skipped (0.110917ms)
+✔ new ten-minute boundary allows collection, even across an hour (0.117583ms)
+✔ Cloudflare dispatch uses the same freshness gate; ordinary manual runs remain immediate (0.931708ms)
+✔ both manual-only rollout and ten-minute production are valid (0.820167ms)
+✔ wrong/missing/duplicate schedules, absent manual launch and unsafe concurrency remain rejected (1.008625ms)
+✔ off-peak phase has exactly six triggers and ten-minute cyclic gaps (0.167625ms)
+✔ scheduled collection is explicitly incremental and manual modes remain available (0.046458ms)
+ℹ tests 27
+ℹ suites 0
+ℹ pass 27
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 659.018458
+
+Additional affected R2 register projection test: PASS (total distinct tests: 28).
+Final browser smoke after rebuild: PASS (390/1440, sections + R2).

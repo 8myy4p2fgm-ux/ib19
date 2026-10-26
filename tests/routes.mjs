@@ -1,3 +1,4 @@
+import {nav} from './browser-support.mjs';
 import {chromium} from 'playwright';
 import http from 'node:http';
 import fs from 'node:fs/promises';
@@ -20,7 +21,7 @@ const server=http.createServer(async(req,res)=>{
 });
 await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 const base=`http://127.0.0.1:${server.address().port}`;
-const cases=[['/','Обзор'],['/dynamics/','Судейские обхваты'],['/judges/','Судьи'],['/rappers/','Реперы'],['/events/','События'],['/horo/','Хо-ро-шо. По форумному']];
+const cases=[['/','Главная'],['/dynamics/','Ход баттла'],['/judges/','Судьи'],['/rappers/','Реперы'],['/events/','События'],['/horo/','Хо-ро-шо. По форумному']];
 const browser=await chromium.launch({headless:true});
 const errors=[];
 try{
@@ -44,7 +45,7 @@ try{
  }
  await page.goto(base+'/');
  await page.waitForSelector('#carrot-loader',{state:'detached'});
- await page.locator('#home [data-forum-status]').first().click();
+ await page.locator('a[data-report-link][href*="rappers"][href*="participants"]').click();
  assert.equal(new URL(page.url()).pathname,'/rappers/');
  await page.goBack();assert.equal(new URL(page.url()).pathname,'/');
  await page.evaluate(()=>window.__pushes=0);

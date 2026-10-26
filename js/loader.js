@@ -6,6 +6,14 @@
     if (!settled) loader.classList.add('is-visible');
   }, 300);
   window.ib19Loader = {
+    async preparing() {
+      if (settled) return;
+      // Paint the existing loader before synchronous analytics block the thread.
+      // Do not wait for its fade-in or add a minimum loading duration.
+      loader.classList.add('is-visible');
+      loader.getAnimations?.().forEach(animation => animation.finish());
+      await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+    },
     ready() {
       if (settled) return;
       settled = true;

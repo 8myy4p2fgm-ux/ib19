@@ -1,3 +1,4 @@
+import {revealHeader,setHeaderLight} from './header-controls.mjs';import {nav} from './browser-support.mjs';
 import {chromium} from 'playwright';
 import http from 'node:http';
 import fs from 'node:fs/promises';
@@ -23,18 +24,18 @@ try{
   page.on('pageerror',e=>errors.push(e.message));
   page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
   await page.goto(base);await page.waitForSelector('#carrot-loader',{state:'detached'});await page.locator('.room-wall.room-on-full-ready').waitFor();await page.waitForTimeout(750);
-  const header=page.locator('.site-header'),initial=await header.boundingBox();
+  const compact=await revealHeader(page);const header=page.locator('.site-header'),initial=await header.boundingBox();
   const mainY=await page.locator('.main').evaluate(e=>e.getBoundingClientRect().top+scrollY);
-  const control=page.locator(width<=760?'.room-mobile-light':'.room-switch');
+  const control=page.locator(compact?'.room-mobile-light':'.room-switch');
   assert.equal(await page.locator('#proto-panel,.proto-toggle,.wall-switch-photo').count(),0);
   assert.equal(await control.getAttribute('aria-checked'),'true');
   assert.equal(await header.evaluate(e=>getComputedStyle(e).position),'sticky');
   assert.equal(await page.locator('.site-header-inner').evaluate(e=>getComputedStyle(e).borderBottomWidth),'0px');
   assert.equal(await page.locator('.room-wall').evaluate(e=>getComputedStyle(e).position),'fixed');
   assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),'none');
-  if(width<=760){
-   assert.equal(await page.locator('.room-switch').isVisible(),false);
-   assert.match(await page.locator('.room-on').evaluate(e=>getComputedStyle(e,'::before').backgroundImage),/room-mobile-light-on/);
+  if(compact){
+   assert.equal(await page.locator('.room-switch').isVisible(),width>760);
+   assert.match(await page.locator('.room-on').evaluate(e=>getComputedStyle(e,'::after').backgroundImage),width<=760?/room-mobile-light-on/:/room-light-on/);
   }else{
    assert.equal(await page.locator('.room-mobile-light').isVisible(),false);
    assert.equal(await control.evaluate(e=>getComputedStyle(e).backgroundImage),'none');
@@ -51,7 +52,7 @@ try{
   assert.equal(await page.locator('#index-main').textContent(),value);
   if(width===1440||width===390){
    assert.equal(await page.evaluate(()=>localStorage.getItem('tuz19-room-light')),'off');
-   await page.reload();await page.locator('.app:not([hidden])').waitFor();await page.locator('.room-wall.room-off-full-ready').waitFor();
+   await page.reload();await page.locator('.app:not([hidden])').waitFor();await page.locator('.room-wall.room-off-full-ready').waitFor();await revealHeader(page);
    assert.equal(await control.getAttribute('aria-checked'),'false');
    assert.equal(await page.locator('.room-wall.room-on-full-ready').count(),0,'restored darkness has no chandelier flash');
   }
@@ -63,7 +64,7 @@ try{
    assert.equal((await page.locator('.room-wall').boundingBox()).y,0);
   }
   for(const route of ['home','dynamics','judges','forum-link']){
-   await page.locator(`.nav[data-tab="${route}"]`).click();await page.evaluate(()=>scrollTo(0,500));await page.waitForTimeout(50);
+   await nav(page,route);await revealHeader(page);await page.evaluate(()=>scrollTo(0,500));await page.waitForTimeout(50);
    assert.deepEqual(await header.boundingBox(),initial,`header unchanged on ${route}`);
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   }

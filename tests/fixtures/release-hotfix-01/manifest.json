@@ -1,0 +1,381 @@
+{
+  "approved": "PRE-RELEASE-POLISH-02 scoped design implementation. Production/local before-after screenshots reviewed locally on 2026-10-26 before explicit recording; old 55 PNGs preserved in docs/pre-release-polish-02/visual-fixtures-before. Independent owner UX acceptance remains pending.",
+  "sourceFiles": {
+    "css/design-system-v2.css": "313cc2e90436f7c983911871b1129a37719b5601407deb53824317fb4bfc3bfd",
+    "css/dissidents-report.css": "079762e5b2198cec22517a5a633ddba0c673d52e0b83bc1b8ab65186d0f01864",
+    "css/dynamics-v58.css": "36fac0adf4713fabc15d8444cea33508ed959de055b664c728d4e58740ead3f6",
+    "css/home-r1.css": "45912eef20feda1ecb1f12011368c25cf730cc4a0670ad080ce65e05510f5b09",
+    "css/horo.css": "28bfc69e95a31682672da7908a1c773d10ad84ddb263bf39a5bcae57d0fe2bae",
+    "css/judge-profile.css": "0bc457b210127dd003fc4b76eb18e548d49a3adf3b60094ab1ee6d9830c8eae1",
+    "css/judge-ranking.css": "fe86868df87ee7af17b55fd99e753ae2c1dacacf570b8f1c1bf13659fc30dd87",
+    "css/judge-research.css": "f944acbf04eeb2c5f060e84eb553b525221e5e217d94c2d1176f66abb71cfa0e",
+    "css/logo-classic.css": "9c3fcd771982cf0571fcd094152198083841170561dce5e4b124a4b80e35df48",
+    "css/pace-deadline.css": "ad2ea0ede4f7496754af61ecc931a449bdf8fd78b756924009ee53fefbf4e54f",
+    "css/r2-submissions.css": "8a7dee8320bf42a5e4f70f35e9832371eac354c616fba5a92ebc57bb2dfdc25a",
+    "css/rapper-reports.css": "e4af9c08083165343d6264280cf64da92f909feac25ae2c774edf5f48ad9b27f",
+    "css/rapper-research.css": "44d57a1f311c03d23b1fa592b65cd0097e3485bb87d49e31cc91f5fe80c2ccd9",
+    "css/shell-r1.css": "e42986f11a259289a6957400d85e9513b87a57d8f09b3473183b64335c5060dd",
+    "css/site-selects.css": "7c329a9a7f9fbe439ac2245c2e9541a2c09090ac13060a5ddb0db4c72396cea5",
+    "css/site-wallpaper.css": "3de421d99ca530115ef746aaf4349c4af64c9c14db623063a55d0dc1220af46e",
+    "css/styles.css": "cbac46161b9c4201b7517d6cd217587feefe76ee708294ae79f5ea232ea6acef",
+    "css/v58-research.css": "fca003df1ebe41379ffda11e79f60994262e282165a1a9b167694a1d9ec1081b",
+    "css/verdict-report.css": "cee91137dbfa74364e7cd5c48b4f918cec7eb4bb65c391649843fc569a15c00d",
+    "data/19ib_all_judges_REPAIRED.json": "6d1998b243de25b1f09b9589df26878953bf227d0b5b06188d531bb23987088a",
+    "data/forum.csv": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+    "data/forum_judges_export.json": "5db0cbab03eb74876fec66a82f96a760ab7bdbe58e606ee5894d2d029c761349",
+    "data/history.json": "8fe01f1a507780674fa97afba405e9b1028595976d1280d0740a5048d4dcc1bc",
+    "data/metadata.json": "c308fd088e4e78129496db56324f2115db23b056c5772b530dc697bcb0c2d434",
+    "data/rounds/r2-information.v1.json": "f1dbb0084afbd5f2fb3559159f2dd4bbf8fc5605d8d3037eb20e06e247e0d8f1",
+    "data/rounds/r2-submissions.v1/full.raw.json": "2dd666023b5dc95b7b8ce77681787c7c8e5f5bbba6fd04fd8be4cb29b7c9ae92",
+    "data/rounds/r2-submissions.v1/live.raw.json": "19bf5baca6704134b2504713c8acf7ff609f40f34a555acce8dee52f18ca0b0e",
+    "data/rounds/r2-submissions.v1/manifest.json": "bb8288900db6173f16b474fa715ccd9919118312a681d52069df35211d7530ec",
+    "data/rounds/r2-submissions.v1/snapshot.json": "ff17fb964267f3455d8cf13013dd592706c0a6fe827dc954f54e8ddf76ebdf0a",
+    "docs/data-candidates/r1-2026-10-22-194208/19ib_all_judges_REPAIRED.json": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3",
+    "docs/data-candidates/r1-2026-10-22-194208/comparison-report.json": "5a7aec0575b4f75bf3bc8d6369c83266e150475142d7c5be31aadca723ff5cea",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-full-receipt.json": "3d92c02d052b5dc192b9c9e3bd1f122fa78c5aad80028746f83846a9f3401a32",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-full.json": "11f30ffabeb2cc2584f1747eace79dda66021d801175ae922aa5531ff24b9f88",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-judges-receipt.json": "02d7ce6a89401ad2b8d56c99294139101bc5a3ea45284d7d28ff99b7132d70c9",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-judges.json": "7e3926d7f0b74e7a2bae9eeeee800fd48e2ba7d16859669124d56b3ceff63d68",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-live-receipt.json": "ccb392215ecafcbd341a8335803b9e81fc4251279c5ee0d089a178b3629d3697",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-live.json": "a9bc2b48cae359bc9f0e20bf405a50f179db00dc41679b608c2747e808f385c7",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-quarantine-scores-receipt.json": "1a570a28eefcd399c57418970dd9383240cd7baef745b7b742ec38cb58383041",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/api-quarantine-scores.json": "f02808b1f3e2c31e6ddac910abae4a5a4971ce2d2e353b944082d80d88ea927c",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/data01-comparison-report.json": "ab4a574245776c3a89a571340915f815625a24c1b7907a2a203e2d4ff879c33d",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/data01-manifest.json": "9804fa6751314ad36dc51e12e14e94c7e7a643265bf92cc755331806d4b32979",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-forum-csv-receipt.json": "5d550031eb131f84ab020b1de6627b27e13c33230dfab941e0f7bd5f04f72326",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-forum-receipt.json": "b5a91962c27c737351d7b150b6dccbf2e8d5be5f7f931f804a4c68e78b00645a",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-history-receipt.json": "3fc6991314bf023d8a048a309a5bd02ab7feb4f47303dfd47aa43cb3fb97ecd4",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-main-receipt.json": "69600dd0d6af616b6e4598ec9f087d6caa76e2ab93fe03e2f97c307e7b09a9a7",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-metadata-after-receipt.json": "c038dc07175d251f119bda12cb863e22ee99bed345d965efccb573991dea1906",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-metadata-after.json": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760",
+    "docs/data-candidates/r1-2026-10-22-194208/evidence/published-metadata-receipt.json": "8e3814d34932267a24b0f9ac14872573a125d5486fd857ba9c87932deebe5768",
+    "docs/data-candidates/r1-2026-10-22-194208/forum.csv": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+    "docs/data-candidates/r1-2026-10-22-194208/forum_judges_export.json": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd",
+    "docs/data-candidates/r1-2026-10-22-194208/history.json": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00",
+    "docs/data-candidates/r1-2026-10-22-194208/manifest.json": "b85eee0f71f5042f2a063466a042429fcdd78e4f74d60b7bdb7cdeaaf455dfb9",
+    "docs/data-candidates/r1-2026-10-22-194208/metadata.json": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760",
+    "index.html": "9aaee5f7ad39dd34fb6285cf22ab1edd59471e296d631af9eb874809023b3d28",
+    "js/activity-clock.js": "811636fbd3901ab1ddf0c21ddbbc789f126708589b74937b852c7ead5515a124",
+    "js/analytics-selection.js": "0b7642491d8fcbca45def674269e1eae9f71bc12eda62f1678dbe3675ea62e15",
+    "js/analytics-v2.js": "136eb68d064bfd19fcad232688049509719c092ee291c544d447ae3e23ee15b0",
+    "js/app.js": "e19b4a8ef2b58934dc897022f76a90cd390f50de9eda3eae02e08bb0b9bc80a6",
+    "js/artist-identity.js": "0e1db782a7cdc51b2788043d0706b9d075164ae86e5a3951155f60f14fbbdbca",
+    "js/calculations.js": "68411d94b06f4a48caeedc6008817fbecbd776dfcf9daaf7d20e1ebe8338ccd9",
+    "js/charts.js": "8888b38bc0a40e2c59e1cb126871399b4acbaca5ad9f44d08c5f7fa5b35784e0",
+    "js/clock-doodle.js": "7e6242ae8c361eafdeec86bcaa891351e867490738b449e9d95ac65dfc8332a7",
+    "js/config.js": "6999127f9160ebb6a0509979ccf946ad6fa43c08ca717354401eec7bca510a52",
+    "js/data-methodology.js": "1e3c3074e9809aeebe2963784b15b0566ae5f2fafa8a2e53d8ff04a50006f662",
+    "js/data.js": "e0d4ab91dac8caf3dcb3cf484654638090f6f0cb5bf41d4aea6f2ed55ef5b34b",
+    "js/dissidents-report.js": "8f8f97323d56a3867ebd6bd8e3c38b812856f3a0e8fe065b196e4bca51bf6349",
+    "js/dynamics-hours.js": "b76a562c570601c59377f1e9f99e8eebaaec7774d87a201bd66d36d2b00f3526",
+    "js/dynamics-v58.js": "9e84f6710997ad9281f0357c08327280ddfc70e5500ffa8b7868ae114eb6108f",
+    "js/fastest-series-view.js": "9550ecaa93357696fd1002a1bbe3d1682cca480437f153926adc805bb380f72e",
+    "js/fastest-series.js": "c0330f323ace2ff9006ddf171d913e79dac7a9b1a8f7278aca0136b04b8f624f",
+    "js/fastest-stopwatch.js": "62ddb1c3501d7e6858d709c2ffcfd5282b02efed1b17d91d8c67456442d99753",
+    "js/focus-matrix-window.js": "bca48e00719a7a7b850cf9268dc47206a1ad139bb9a2367985b9fd4421a60ebd",
+    "js/forum-link-model.js": "0e4c4ead8d577d1a80795e29133ce868fd36825e0dd616ca564a88bfde3d09ef",
+    "js/forum-link.js": "83ce70b1781593983bcf66c7a6ef9625fad9ebef0706bd7b1ed91259493053a7",
+    "js/forum-voice.js": "64048c852cded3d2da8f0dbc0afffafd21d9c6da6de3ae47c355afc687f6e847",
+    "js/general.js": "4ff10364d0e4b7efc73f3ff087da49ef68a16ed972dfb58b94ce86b67bbf2313",
+    "js/header-polish.js": "21de15f1864fe4d4fcc39cd90a8dad415581daa32a6cfae48b6ded729b4beabb",
+    "js/history.js": "c5592728708826df19c4aee5c1f3ce6277101c54571811be197cb1321ca6bb1f",
+    "js/home-history.js": "0ed1ad73e7579d6313ddcc7860616ff662b0f354be454cbd4057fe597fccd9bb",
+    "js/home-pulse-controls.js": "e6e468037e4292bb7768c3a4afda70dea2eacd7a472cd8ad41c6b10f7b9a5d1b",
+    "js/home-r1.js": "c8c809da2c45c331118025aad18e1786a594b1f60590ac0f004a06997d7c43f0",
+    "js/home-report-links.js": "fdafca9ec84d920841fac76d770c4dad68544544f62ce4c60d2b6ca5885b0e26",
+    "js/horo-entry.js": "063ef4cc96a026334c7856656aef9c99a3ad0949fe22b5774fb5888f0818e335",
+    "js/horo.js": "088497199c6dca5b2b0aac9fec922b5743549c5839cd88572b5e9dd85233b2f4",
+    "js/hour-judge-select.js": "8d5d0e2256588ac5bba38f41c74fefd2bb7509d7d280cca7f1d3b338fe8b965f",
+    "js/impact-calculation.js": "0e798d5d8a38570a9c784158a30614ec639fd81bab1d3a17a2d03dfb35918359",
+    "js/impact-worker.js": "46c8069913ad8eef4c5bfa48c1698e56c477bf8aef2b18255bebcfd030a62b1c",
+    "js/interactions-1.js": "5449cecb511b81a54dd1669fd9f2c28fa06ac4e60f38d7cc54cf393db90dd87c",
+    "js/interactions-2.js": "674466bb6ac1280296b7793dc2447ccea4f8c8d75fdf0f3ba719f7f86560b689",
+    "js/interactions-3.js": "7b1349baca83dd986aac15852894c4c06a0ef2477767e4ea6c72e85ce836da06",
+    "js/interactions-4.js": "9461aeabcfddbef7c2566160d34259e502ceb730e73bc542ee3913fa41f57fc3",
+    "js/judge-comparison.js": "7d0fde333032a6e8cc472fdba4db027d841e372e4726554d3bc0b4cde0d7ba59",
+    "js/judge-groups.js": "81ea483300c6292c4a239690df89a83de6381dafe7440cd123ec88f2544e3f1a",
+    "js/judge-presentation.js": "c3e46b36e6edddd5a52ed125ef1983bbfb8ac6cb254584fc4574f7895a91f48e",
+    "js/judge-profile-entry.js": "2dd79f6671b961eb8e10987654978be6c52d70c39e2b1b458264dff76806735b",
+    "js/judge-profile-model.js": "acb3e9fa7b81cc63190eaa6895dd6b3b93b99c1d179107362052f2206db740cd",
+    "js/judge-profile.js": "d721a7ec21c859d2111e8231f045252526033423cdb822c75495f325addc38f9",
+    "js/judge-ranking-entry.js": "2c37db2bfcff5a738c65f98340ed761e6e68cb0be3a27c256e9de25c1651fe8e",
+    "js/judge-ranking-model.js": "f28af29927a48ceadc047ac0cdc0a7c8b39f79fc7c7384ce52fb95580dddd0dd",
+    "js/judge-ranking.js": "6d0fda11d668feff27cd1e049c4a209c603c156881b1a4701ed70b146c291189",
+    "js/judge-research.js": "6e5d2fd93f4f5c82738d3ddbc01736576024a65b5100947a2b3617ddb775d1ca",
+    "js/judge-summary.js": "d8096560c566a86e11f44d69e0cf26cd22d40fc53aa0fa2503cd4fd3963c7072",
+    "js/judging-progress.js": "8968ef142f4c20a02708aa3ce5af774bcad4b6ce38a6b7232ccc8f2bcb716df5",
+    "js/loader.js": "deb845f13943cf59bbf083bea59928087dd7580c025d4fb8fc6c19982b296e78",
+    "js/matrix-selection.js": "8975f18454c48e6e064abc72191a9365c8f3dd06e24b3bf184d9651c52562f34",
+    "js/methodology.js": "43633db95b3db743e0246875daea728e596790b7316ddd23379146a40621b7c0",
+    "js/pace-model.js": "85ba3cfc1f393460ee4a4c68449e7a4a5b5da4fb2f9a44c2ae789a5f4b38c38c",
+    "js/pace-needed.js": "ef254cde25aaada9681e87c497283d6359edd031b8c212f5b34b244fcbc63c19",
+    "js/pace-page.js": "726a6c87547e66856635c7deaa0e5f68c4bbd74586ced202453cddea28ade442",
+    "js/pace-status.js": "c16977b6f0c9499b1afa7b18554fd9c119949610b8b4e9801d47a0308ae1ca59",
+    "js/pace-tooltip.js": "f4bf3e601a74b455fead0ff7d85cb1a2a028b6961df958a48359444315d958f7",
+    "js/personal.js": "b13bd14952cdf47984d45b2f3ce4ce7039d319ac53036bd47ac1f94980d97ee0",
+    "js/r1-application.js": "8f48eea9ea19984d69c1b2b111189abf13e0f26141eb5d23eec22301ebd67bb1",
+    "js/r1-correction.js": "95f6f26aaf161debb317f34848799f7b14234f7df6448c5947d32bffd44e4b6c",
+    "js/r1-fixed-contract.js": "b792fe4edc32309dc5339b0b4f6361389af53b9d5c6bac1af0296e3cbecc0c81",
+    "js/r1-official-activity.js": "25f07b93635ade62712801e6f63be9d8f7597db8400c50328a3de2c5ed6ed0bc",
+    "js/r1-official-policy.js": "b5999fd8c6ad0f98a0a7f17f42e01249328c4b8e234856da20cb1a1e9daf5da5",
+    "js/r1-official-view.js": "e26e833dc15586b991d960b4b6a42c54a8b766fb3b7c0dec3b2a3d7f320fb72a",
+    "js/r2-group-reference.js": "ddeb4919452ec30ce73806cc6181c7df741a10f25876da770184a2048db28f57",
+    "js/r2-home-model.js": "5a834894abe079b27bb7af081757dcd1447958ade3cb15f132ae4b08ae34af0e",
+    "js/r2-home.js": "447215b356ae8816a93e5050c9112be735e40b2483cff86c6e26e531db9df247",
+    "js/r2-report-shell.js": "d72a53763e0ec705775862f3ed3f81b123d3d62a9c49c6b52bd5d8afad4380fc",
+    "js/r2-submissions-view.js": "f004450c5fc07881a1bd96d837b2c7cc572164dafa81b13642a4698e5717b8fa",
+    "js/r2-submissions.js": "4d3537d1cbe569e605c22385f12f113116bb0eea302ecd410c383cf043c0284c",
+    "js/ranking-awards.js": "209b859d83081d11561ace4d7a7fb8cf6b68c44c52bc7c453b19a22f88c29419",
+    "js/ranking-dialog.js": "4d9cb83ab71c13d32dba8093d2df8075ae4bf84cc007b7fb693a780c9836e965",
+    "js/ranking-profile.js": "65b14d4d822b4f64a71ca4bf3891c7de1d0afcc53595983ba640ea3afd7a63af",
+    "js/ranking-view.js": "16e640be64f9151062db28d51573b1e01414eabdc7ae8e13f127be0cf3e385bd",
+    "js/rapper-r2.js": "991d9c835e80cfc74364cbe72c381d9e9140553b3c968de645b35bf35bd60c12",
+    "js/rapper-report-model.js": "24d4468f9be781fd4bb5d02a6612ae027e8874e6335f512d922cd4614dd3458e",
+    "js/rapper-report-view.js": "d4565eb71822b0e328ecab11281c171def061fcb3b32cdf2cf5585e80cb9ebcc",
+    "js/rapper-research.js": "49bc0f5ea40b589d7203be05afa18c19b3342c9d99d6dbf6ebd06385d7493a07",
+    "js/report-availability.js": "91f9874fb3a10c38dd9ab5b798ff9249bbdb5bbd46801c57afa1e7700b823c68",
+    "js/report-catalog.js": "553e5c16f908f55b39a8c48073e966bd2e09aa71f2b84aff70f2e81ca4f949a6",
+    "js/report-tabs.js": "d62a5174a902a3280ee88ba97233a446d614d49a826e72957280ff53d14bf3fc",
+    "js/room.js": "e71693a352f55629ab29684e592410f74893917d0aaf26e04a25dbbd58b3981e",
+    "js/round-context.js": "df561406b2aa31e8ba88d19d91dec06d4cd6656d72b02c1f24695e484be7cf08",
+    "js/round-information-view.js": "db038322c893e8cdfd401dbe1d06d1ebfeb1db5df218918eaab98f47e68d368b",
+    "js/round-information.js": "a21b35d05117a23a3231e617175aac5a2f6a7c006d5f897c40870ae58c5349b3",
+    "js/routes.js": "d5d7fc4aea3e61b6a54f3db552c2d9a923e4aeaef7e82efaf0170cbe7c1f3fee",
+    "js/score-economy.js": "0221bfe92dfc0f422f4b0776363907eaf8dfc6c56a6501f4b8b9d91ada71969a",
+    "js/section-styles.js": "cbfa593d8a2b6982f5ebd1b52dac052c9cf4234499f4fe9261915ed83ed9df22",
+    "js/site-selects.js": "3e9b618a57367e3497cd8e8bd4038e7255c18ad1f238e53cd1d104d7bd766d80",
+    "js/v58-distribution.js": "2cb4c90abfc627edd7b1dfbb4f67641eb28d23f16e94bcdde5f5e1e701619824",
+    "js/v58-outcome-history.js": "6784548b9b7310195026d8221de8941b1fa5e6456f8514fe3830feedeea46c46",
+    "js/v58-research-methods.js": "5ee53c8e788abeba5408f60d64555a640a6f368b69d323d95cdfa75c77ab5f4b",
+    "js/v58-research-model.js": "3aa85624164ce6a165b2f605ea69f0e84b917de2ad1bd29e4bce04f6fdadc851",
+    "js/v58-research-reports.js": "e2dba440da1846808d6024bda559424cc307c842b742226f21012ba355c28ea9",
+    "js/verdict-illustrations.js": "f9cb2b1a8afec330965ea4d138fcfe899962a13183f136fb0d0c64d7867cf333",
+    "js/verdict-report.js": "5c3fd54b3a5ddc5658cd028e6270b27b6fd11fc1e764f37b83f944e1283a9bc0",
+    "scripts/build.mjs": "04b26fd4982b62e2c7def18bb5a7bda2196ead32ad79d1cd9fe1c097dc702075"
+  },
+  "snapshot": "[\"c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c\",\"2026-10-22T19:42:08.167Z\",\"2026-10-22T19:42:08.167Z\",\"[\\\"234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51\\\",\\\"r1-official-zippy-v2\\\"]\",\"r1-official-zippy-v2\",\"398c10f505c3ba342276d39f5bdb819b608ce657cded90264f238e6e56459a15\"]",
+  "threshold": 0.1,
+  "maxChangedFraction": 0.001,
+  "results": [
+    {
+      "name": "1440-home-on.png",
+      "sha256": "abf343d10dafc470225ec59665a691290ad8cec1519cb63d29b33c884e15dd2a"
+    },
+    {
+      "name": "1440-home-off.png",
+      "sha256": "da0db5f23840b091ff6c18a56ebc7e74bb802f07f4e45da8cfd39d470c99ff52"
+    },
+    {
+      "name": "1440-dynamics-on.png",
+      "sha256": "bc6c4737f16625f0066f7a5d6f0178ef570b8f7d26bc8796374a68c8bc59fe37"
+    },
+    {
+      "name": "1440-dynamics-off.png",
+      "sha256": "e81f19b1dda9005158be7990c26daf048ea13f989797d9f861d80dcf2ed3a15e"
+    },
+    {
+      "name": "1440-forum-link-on.png",
+      "sha256": "c32f78a3589f573b5c913071f86b33f3393a48bbd31a4f83b5b0f95cdd6f2ecb"
+    },
+    {
+      "name": "1440-forum-link-off.png",
+      "sha256": "bf08ffb40d4c8e05719e6d57823d97f2c3b9dd10b27e9f7c872b32f922a571c0"
+    },
+    {
+      "name": "1440-method-open.png",
+      "sha256": "f2f9ca8ab0ad6ebe1e98868dc320c8f89ace052c8128ea70cc011dea9bbc73cb"
+    },
+    {
+      "name": "1440-judge-picker.png",
+      "sha256": "3aa1b0c923667163dbee076a1f00a822e7902ae311c19deacd00aa10473491e9"
+    },
+    {
+      "name": "1440-forum-filter.png",
+      "sha256": "3b40a693fc894bc7de250929f5542795880c3078bc915972c90545731a690306"
+    },
+    {
+      "name": "1440-matrix-hover.png",
+      "sha256": "dfd7eb996deed1af8634727f2ec4ca551c2e8f86bb8a46d4fea4dd94c116a012"
+    },
+    {
+      "name": "1440-matrix-score.png",
+      "sha256": "993c1f372b36804d026fad163b07937dc14c86b5c79bbb5226ee7c8ed156d1f0"
+    },
+    {
+      "name": "1024-home-on.png",
+      "sha256": "25343d4736a54efbd5a3b09be436fc1a27f8d0e388776cb4e4663cb6aa754ad4"
+    },
+    {
+      "name": "1024-home-off.png",
+      "sha256": "84d6d3f185a5e9ab92b75a5881c0b73ba2eaef7def4deeacb154cb3856060830"
+    },
+    {
+      "name": "1024-dynamics-on.png",
+      "sha256": "c0f0b5df1fbce3c611cbab840bf7ac879b7dcbc7d899de00b58d1d65f78f867b"
+    },
+    {
+      "name": "1024-dynamics-off.png",
+      "sha256": "a731c35053a36ecab34a3a5c1f9284a25bbd5c9e3058ddc8b1f81decf70b8fdf"
+    },
+    {
+      "name": "1024-forum-link-on.png",
+      "sha256": "fe49e1662a433260239b31292da88351ca50daa3d8eb7535935f26b3d3fa1ed8"
+    },
+    {
+      "name": "1024-forum-link-off.png",
+      "sha256": "53fd5417f48ad420c8a05f03194464da9be794eceb645337851df43a153ed726"
+    },
+    {
+      "name": "1024-method-open.png",
+      "sha256": "2a071edca24cc94374a019c73cf31d4b79c252fdf68509d61d8e838dd7d1a63c"
+    },
+    {
+      "name": "1024-judge-picker.png",
+      "sha256": "2ade08bb9bed9aad1d6dfd7cd4d9966e950af620331d360eb2ccb2f4a80d9e94"
+    },
+    {
+      "name": "1024-forum-filter.png",
+      "sha256": "d33b6f45d3eb10e40e31e43cf0e3c58d78e20305ea5f444a3959e4ce9ed3ccf4"
+    },
+    {
+      "name": "1024-matrix-hover.png",
+      "sha256": "513f4a020b3da4b76b674678c5160c6c230a6467d696d37a217a9827be027a7e"
+    },
+    {
+      "name": "1024-matrix-score.png",
+      "sha256": "abc71863a0e8f065ba6a71bfb8486c92c1b81e997b4a00ad08226be0338a3a4a"
+    },
+    {
+      "name": "768-home-on.png",
+      "sha256": "15328147fcf0daf0f79e9600bdedc441104cec46152c2fe4ffc670d58e04161a"
+    },
+    {
+      "name": "768-home-off.png",
+      "sha256": "9f59a5254a1686081ee97099020288b21901f839e044c93f4813ca318cb0b123"
+    },
+    {
+      "name": "768-dynamics-on.png",
+      "sha256": "03cbe31bbb9645c4447f41f9e540374e81b49574f770165a8e4f8490ddb22d24"
+    },
+    {
+      "name": "768-dynamics-off.png",
+      "sha256": "fda666002fa1ed768151b69de792d8b35d17a6a84d5e40ff40f2417622ad6ad2"
+    },
+    {
+      "name": "768-forum-link-on.png",
+      "sha256": "b19c9899ab07d3262bb08e98b0dad0617410e8312fdeba3675c060cda510748d"
+    },
+    {
+      "name": "768-forum-link-off.png",
+      "sha256": "4a129b673302b280693d1d1fa0667152da953a94289089e4b3a1db8682b6eea8"
+    },
+    {
+      "name": "768-method-open.png",
+      "sha256": "35f5a5bdf5916e533f5c2bed524abf6e6fa140c25bd8903337bd3f7544cb36de"
+    },
+    {
+      "name": "768-judge-picker.png",
+      "sha256": "73e9f22d63b924f64509f249faa7ca1130c0cd696d662eecd009620460ec4999"
+    },
+    {
+      "name": "768-forum-filter.png",
+      "sha256": "10bef49ffb30b2d49e385948f70e9c67b2cb8c621c859f219ac42e10abcd9816"
+    },
+    {
+      "name": "768-matrix-hover.png",
+      "sha256": "bf32e10015a9f02a3659feffa8a3311de720b04360337812cce316bf323aae57"
+    },
+    {
+      "name": "768-matrix-score.png",
+      "sha256": "c0e4fa1261c4d3f6c66ffe16f562911fe775be6334b72ed603e5f37645086389"
+    },
+    {
+      "name": "390-home-on.png",
+      "sha256": "2bbea6bbad903abb68a056a57f48cf7576cdbef6d8b2c3d0df4aef1ae37b3adf"
+    },
+    {
+      "name": "390-home-off.png",
+      "sha256": "3485b77ada57ea91974c23494c796ac6fd7a3b853c1cdbf77b053283e61ea659"
+    },
+    {
+      "name": "390-dynamics-on.png",
+      "sha256": "4725312251b73d49d3033f745681495c578f3cf80aac721fa18fc676fbdd6f74"
+    },
+    {
+      "name": "390-dynamics-off.png",
+      "sha256": "d1e19f3af2274aeb7cad61d62f0cccb541810551efe10cd307026c3acf7a4b6a"
+    },
+    {
+      "name": "390-forum-link-on.png",
+      "sha256": "0eed0b8f0d0e2e766f6dcd4f5fc16b2da90ca30fb328f1fcd0061fc9473c140f"
+    },
+    {
+      "name": "390-forum-link-off.png",
+      "sha256": "16b6a78d66f7180d4aebde009c96d601ef163e4fb2e582fa889d73cd6330d0e5"
+    },
+    {
+      "name": "390-method-open.png",
+      "sha256": "a74712e260038c195fdd2b45a17e44db09eb88e7e6cd6a10580c3270081b2796"
+    },
+    {
+      "name": "390-judge-picker.png",
+      "sha256": "627b61370ea4fac5a9e8d2103b798738b529d5a29793a9b80fc5f649407175f7"
+    },
+    {
+      "name": "390-forum-filter.png",
+      "sha256": "440ea641761410ed0d741dc3e3ff1ca509a51875e78d364e5369ce51766a882e"
+    },
+    {
+      "name": "390-matrix-hover.png",
+      "sha256": "e8e69f337c27fae0b58d47af91c5bf7ab8c4066b1c8949ede8edb44fda09a47e"
+    },
+    {
+      "name": "390-matrix-score.png",
+      "sha256": "46784d1a12aaa605889ced4fdbcdec22053e3cf4ce1439167c2c1de4532f3e6e"
+    },
+    {
+      "name": "320-home-on.png",
+      "sha256": "5f57b4f9941dccefa7a82a13cb8ee62a9bcd53237fda36a1309f61b97da55ce0"
+    },
+    {
+      "name": "320-home-off.png",
+      "sha256": "6b19a257e2ef179b12bdcbfb1013f16b5617fbca9830800f8ed19756c79f772e"
+    },
+    {
+      "name": "320-dynamics-on.png",
+      "sha256": "6cf14803782313b99aa29ca8e14f3c65fcb6411c6a089ca4ca85239fc6e899bb"
+    },
+    {
+      "name": "320-dynamics-off.png",
+      "sha256": "9b3256499a1dd6f5a8d51b16926f98133240fee35595c87096325cced6d1d3b7"
+    },
+    {
+      "name": "320-forum-link-on.png",
+      "sha256": "3b389db0a7e2ba93efac1dbf6e26d4b1f91d0d6646ebe8ce79b425ce1c6f6bbf"
+    },
+    {
+      "name": "320-forum-link-off.png",
+      "sha256": "fea20e82d149a324f312e472e7fdb6a684e653b2e2bceac3e94de4e0f26125fe"
+    },
+    {
+      "name": "320-method-open.png",
+      "sha256": "af48bdc8d5b7ffd139439565a1218c38828f85726732b6450a5ac201378f9ec3"
+    },
+    {
+      "name": "320-judge-picker.png",
+      "sha256": "8b5a5bad5439b814d2e6c24591a1a4b7db2bc97994f979bc7292f31c1d78b6d2"
+    },
+    {
+      "name": "320-forum-filter.png",
+      "sha256": "b9e85945be783345a10301bff12ef9e1e49cc6a6fa4953415faa0f4373b47786"
+    },
+    {
+      "name": "320-matrix-hover.png",
+      "sha256": "7a659b122c285708536e06081b53f48743fa2c6f7c5042e3807d55073353dd38"
+    },
+    {
+      "name": "320-matrix-score.png",
+      "sha256": "feb1899e66c0438fd731bf81b0e49a358d5bbbdf587c77e7bc67e70ffafbf519"
+    }
+  ]
+}

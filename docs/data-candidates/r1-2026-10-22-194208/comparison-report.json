@@ -1,0 +1,1335 @@
+{
+  "checkedAt": "2026-10-22T20:30:53.552450+00:00",
+  "baselineRunId": "2026-10-22T15:02:15.571Z",
+  "publishedRunId": "2026-10-22T19:42:08.167Z",
+  "checks": {
+    "baseline": {
+      "participants": 3275,
+      "forum": 98,
+      "scores": 16163,
+      "judges": 22,
+      "forumDirectory": 99,
+      "og": 70,
+      "veterans": 28,
+      "archivedParticipants": 12
+    },
+    "published": {
+      "participants": 3275,
+      "forum": 98,
+      "scores": 16375,
+      "judges": 22,
+      "forumDirectory": 99,
+      "og": 70,
+      "veterans": 28,
+      "archivedParticipants": 12
+    },
+    "metadataBracketIdentical": true,
+    "sameRound": true,
+    "liveEqualsFull": true,
+    "fullPublishedRoster": true,
+    "fullPublishedGrades": true,
+    "rules": true,
+    "csvByteIdentical": true,
+    "csvDirectory": true,
+    "selection": true,
+    "roundMetadata": true,
+    "metadataCounts": true,
+    "judgeDirectory": true,
+    "quarantineCard": true,
+    "historyIndices": true,
+    "runAndExportBinding": true,
+    "sourceReceiptHashes": true,
+    "forumFullGradeProjection": true,
+    "baselineHashesUnchanged": true,
+    "validatorAndFormulaHashesUnchanged": true,
+    "manifestHashes": true,
+    "allSixQuarantinedGradesPreserved": true
+  },
+  "outcomes": {
+    "baseline": {
+      "counts": {
+        "pass": 2168,
+        "fail": 1021,
+        "pending": 86
+      },
+      "buckets": [
+        0,
+        4,
+        17,
+        32,
+        81,
+        3141,
+        0
+      ]
+    },
+    "published": {
+      "counts": {
+        "pass": 2217,
+        "fail": 1058,
+        "pending": 0
+      },
+      "buckets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3275,
+        0
+      ]
+    }
+  },
+  "memberships": {
+    "members": {
+      "before": 3275,
+      "after": 3275,
+      "added": [],
+      "removed": []
+    },
+    "archivedMembers": {
+      "before": 12,
+      "after": 12,
+      "added": [],
+      "removed": []
+    },
+    "quarantinedMembers": {
+      "before": 1,
+      "after": 1,
+      "added": [],
+      "removed": []
+    }
+  },
+  "changes": {
+    "added": [
+      "[\"4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6\",\"Антон RapNews Акулич\"]",
+      "[\"9855b230-00e7-4724-baef-c4fe4a52c580\",\"Plaga Medicus\"]",
+      "[\"9855b230-00e7-4724-baef-c4fe4a52c580\",\"Антон RapNews Акулич\"]",
+      "[\"9855b230-00e7-4724-baef-c4fe4a52c580\",\"Роженов\"]",
+      "[\"23191e1a-0298-403f-acbc-1de7879f6d11\",\"Plaga Medicus\"]",
+      "[\"32f00509-38af-470f-8538-9083323a09f5\",\"Антон RapNews Акулич\"]",
+      "[\"64ed8ea2-ed88-45b4-b684-62f42864a5cd\",\"Антон RapNews Акулич\"]",
+      "[\"0aa0714e-b3a9-42f1-a2c2-0b69557c50ff\",\"Антон RapNews Акулич\"]",
+      "[\"28e1418a-d7d4-4757-b044-9dc8da7e0aff\",\"Мультифрукт\"]",
+      "[\"e1f07d13-2e6a-40ca-b50d-39fb4825715b\",\"Роженов\"]",
+      "[\"b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675\",\"OttO\"]",
+      "[\"99999c24-216d-47c7-bbf5-19d0c6f27120\",\"Антон RapNews Акулич\"]",
+      "[\"908b1571-e2cc-4d98-9ed8-dd951504f24f\",\"Роженов\"]",
+      "[\"908b1571-e2cc-4d98-9ed8-dd951504f24f\",\"Никсон\"]",
+      "[\"8ef76d22-aa29-4ce3-9b2e-ffbc0aa9b626\",\"Никсон\"]",
+      "[\"8ef76d22-aa29-4ce3-9b2e-ffbc0aa9b626\",\"XSive MC\"]",
+      "[\"8ef76d22-aa29-4ce3-9b2e-ffbc0aa9b626\",\"Plaga Medicus\"]",
+      "[\"7325963b-8af0-4443-a11f-db5e7ffc8b47\",\"Никсон\"]",
+      "[\"f0c40935-c712-48fb-b135-32fffe9ad1b6\",\"Никсон\"]",
+      "[\"c0772bc9-f94f-484a-9f10-97e480a7ca77\",\"Роженов\"]",
+      "[\"8c0ec389-ce55-4400-bf78-1abbe6a0471c\",\"Никсон\"]",
+      "[\"c43aef05-1bb0-4700-9cb6-d21787edf2e7\",\"Мультифрукт\"]",
+      "[\"c43aef05-1bb0-4700-9cb6-d21787edf2e7\",\"Роженов\"]",
+      "[\"63e65b95-cbac-4c9f-8d5e-a077f828b848\",\"Никсон\"]",
+      "[\"64036a52-84d1-4cbe-8ad3-69a1ff351d58\",\"Гукер Капюшон\"]",
+      "[\"64036a52-84d1-4cbe-8ad3-69a1ff351d58\",\"Роженов\"]",
+      "[\"f490fcbe-7a0c-4d72-a862-8fe4bdc3d871\",\"Никсон\"]",
+      "[\"de647c74-3ea0-4691-87bd-9f6e93e15afb\",\"Вла-Да\"]",
+      "[\"de647c74-3ea0-4691-87bd-9f6e93e15afb\",\"Гукер Капюшон\"]",
+      "[\"de647c74-3ea0-4691-87bd-9f6e93e15afb\",\"Plaga Medicus\"]",
+      "[\"2f249481-749d-4a0a-8dae-4817b5dbc3af\",\"Роженов\"]",
+      "[\"4dc065ee-b030-4486-8063-17cc6729631f\",\"Роженов\"]",
+      "[\"a66264ed-514c-4c81-9a3e-9d439ea83a77\",\"OttO\"]",
+      "[\"6ab90aa1-e543-4cd2-9780-ee3a533b5a9e\",\"Гукер Капюшон\"]",
+      "[\"6ab90aa1-e543-4cd2-9780-ee3a533b5a9e\",\"XSive MC\"]",
+      "[\"6ab90aa1-e543-4cd2-9780-ee3a533b5a9e\",\"Роженов\"]",
+      "[\"6ab90aa1-e543-4cd2-9780-ee3a533b5a9e\",\"Plaga Medicus\"]",
+      "[\"b3d864d4-0325-4679-8fc9-fd624d60dd86\",\"OttO\"]",
+      "[\"3d03c030-ad12-4f15-aee4-56660502e96a\",\"Мультифрукт\"]",
+      "[\"96b7e5e0-dea2-4d70-90b0-4a6e5be401c2\",\"Антон RapNews Акулич\"]",
+      "[\"10e417a6-27df-47cc-88b7-513e7904b867\",\"Роженов\"]",
+      "[\"fc7980d4-ff3f-4aee-8714-e01b15d46a3c\",\"Никсон\"]",
+      "[\"f44f2e3b-0a0e-4d3d-9491-8ecf850a746c\",\"OttO\"]",
+      "[\"63d3759e-4a0f-435a-baea-e06619c8a977\",\"Вла-Да\"]",
+      "[\"63d3759e-4a0f-435a-baea-e06619c8a977\",\"Мультифрукт\"]",
+      "[\"63d3759e-4a0f-435a-baea-e06619c8a977\",\"Гукер Капюшон\"]",
+      "[\"63d3759e-4a0f-435a-baea-e06619c8a977\",\"Plaga Medicus\"]",
+      "[\"82c96826-6a66-4ab1-a0f2-47aae002289f\",\"Антон RapNews Акулич\"]",
+      "[\"ca291ccc-b1e2-4eb6-88d2-7b3952dcea94\",\"Антон RapNews Акулич\"]",
+      "[\"06a5370e-337f-4c3f-9a2a-8496a91a5ede\",\"Plaga Medicus\"]",
+      "[\"f2c95365-3d40-4fb3-885b-608e65fdb446\",\"OttO\"]",
+      "[\"f2c95365-3d40-4fb3-885b-608e65fdb446\",\"Plaga Medicus\"]",
+      "[\"6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e\",\"Никсон\"]",
+      "[\"1f8a0a86-516f-4c61-b679-31f2c5d40de4\",\"Антон RapNews Акулич\"]",
+      "[\"f77e9053-6a2b-4af3-9b7f-37459800d327\",\"Антон RapNews Акулич\"]",
+      "[\"f77e9053-6a2b-4af3-9b7f-37459800d327\",\"Plaga Medicus\"]",
+      "[\"e790b6c0-d48b-4784-86bc-50c9ebbc0f4d\",\"Роженов\"]",
+      "[\"b37d326e-963f-4e8a-9b89-3231c7e6946e\",\"Антон RapNews Акулич\"]",
+      "[\"b37d326e-963f-4e8a-9b89-3231c7e6946e\",\"Plaga Medicus\"]",
+      "[\"0d5fb242-6a49-42b1-a9e8-c4309ac1839c\",\"Антон RapNews Акулич\"]",
+      "[\"73e8175f-6255-4500-9931-da84bb39e5af\",\"OttO\"]",
+      "[\"7dda81be-53fe-4308-9c9a-18e96490a8d3\",\"Plaga Medicus\"]",
+      "[\"12664212-6e32-4e10-9140-13a480263542\",\"Plaga Medicus\"]",
+      "[\"7332d302-013e-4690-a813-850c313700e8\",\"Роженов\"]",
+      "[\"7332d302-013e-4690-a813-850c313700e8\",\"Plaga Medicus\"]",
+      "[\"c41e3561-9e15-44c2-94d8-9da082777065\",\"Никсон\"]",
+      "[\"c41e3561-9e15-44c2-94d8-9da082777065\",\"Роженов\"]",
+      "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"Роженов\"]",
+      "[\"f4f5ed59-733d-4125-9eaa-0e57232c4a0e\",\"Plaga Medicus\"]",
+      "[\"09179686-5b41-4998-9564-50ccff202172\",\"Антон RapNews Акулич\"]",
+      "[\"4efd7732-7d91-4520-869e-5fb16549a509\",\"Plaga Medicus\"]",
+      "[\"fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee\",\"Plaga Medicus\"]",
+      "[\"fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee\",\"Никсон\"]",
+      "[\"31e3ad60-266e-4e6b-83a9-a7da1760faf0\",\"Мультифрукт\"]",
+      "[\"31e3ad60-266e-4e6b-83a9-a7da1760faf0\",\"Plaga Medicus\"]",
+      "[\"6dd48b25-9bec-427c-870b-94414067b8cd\",\"Гукер Капюшон\"]",
+      "[\"6dd48b25-9bec-427c-870b-94414067b8cd\",\"Роженов\"]",
+      "[\"6dd48b25-9bec-427c-870b-94414067b8cd\",\"Plaga Medicus\"]",
+      "[\"9c757dc3-1b21-479c-b10c-aa72df2bb89e\",\"Роженов\"]",
+      "[\"9c757dc3-1b21-479c-b10c-aa72df2bb89e\",\"Антон RapNews Акулич\"]",
+      "[\"d5ca310a-1a20-427e-8a46-1e5e286b2521\",\"Роженов\"]",
+      "[\"7416270b-a0ae-40e5-9fe8-68f161ff4d4a\",\"Антон RapNews Акулич\"]",
+      "[\"4c6982f7-2406-4fc4-9406-943510377ef4\",\"Никсон\"]",
+      "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"Plaga Medicus\"]",
+      "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"Роженов\"]",
+      "[\"2013f4d4-b0cc-4bb1-9c07-2248edff35a1\",\"Никсон\"]",
+      "[\"aa140fd7-afe6-41bd-a715-1b6184d16a89\",\"Гукер Капюшон\"]",
+      "[\"aa140fd7-afe6-41bd-a715-1b6184d16a89\",\"Plaga Medicus\"]",
+      "[\"20dd4420-3e55-4901-9653-408d9ff34890\",\"Plaga Medicus\"]",
+      "[\"20dd4420-3e55-4901-9653-408d9ff34890\",\"Антон RapNews Акулич\"]",
+      "[\"129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b\",\"Антон RapNews Акулич\"]",
+      "[\"0bee41b1-9da0-439d-b4c9-cceb39a31960\",\"Антон RapNews Акулич\"]",
+      "[\"c62b31db-fa1f-461b-9428-beb125c86754\",\"Plaga Medicus\"]",
+      "[\"e66e00e1-3670-4359-a455-c48fc03bc758\",\"Plaga Medicus\"]",
+      "[\"b5c0b6d5-825f-4595-9289-3d22c679599d\",\"Plaga Medicus\"]",
+      "[\"b5c0b6d5-825f-4595-9289-3d22c679599d\",\"Антон RapNews Акулич\"]",
+      "[\"9cab407c-19cd-46ce-adf6-4fbb2dc36159\",\"Роженов\"]",
+      "[\"9cab407c-19cd-46ce-adf6-4fbb2dc36159\",\"Plaga Medicus\"]",
+      "[\"9cab407c-19cd-46ce-adf6-4fbb2dc36159\",\"Никсон\"]",
+      "[\"9cab407c-19cd-46ce-adf6-4fbb2dc36159\",\"Антон RapNews Акулич\"]",
+      "[\"fd0fd982-a108-4772-96bd-3c6fd3bd1667\",\"Plaga Medicus\"]",
+      "[\"117243b8-434b-49db-a8e0-3ecaf92f1629\",\"Plaga Medicus\"]",
+      "[\"117243b8-434b-49db-a8e0-3ecaf92f1629\",\"Антон RapNews Акулич\"]",
+      "[\"797d06c7-d222-42ff-b9ef-b58564c2baaf\",\"Никсон\"]",
+      "[\"07b99e4e-70f1-4215-bbb3-d7d95cba112e\",\"Plaga Medicus\"]",
+      "[\"cc6a7a7e-424f-45a1-b7e1-6ed7d956412b\",\"Plaga Medicus\"]",
+      "[\"8daf5e45-5d22-44f6-b55e-59ee4cf662e8\",\"Роженов\"]",
+      "[\"016848b8-0984-48bd-94fa-ebaaaac814af\",\"Роженов\"]",
+      "[\"2e2e1287-057d-43c8-befb-bfd257698953\",\"OttO\"]",
+      "[\"83333507-50ed-42e3-9e29-91d873b23dc4\",\"Антон RapNews Акулич\"]",
+      "[\"1253a70c-33a0-49e1-b233-a3f3847ff558\",\"OttO\"]",
+      "[\"1253a70c-33a0-49e1-b233-a3f3847ff558\",\"Антон RapNews Акулич\"]",
+      "[\"cd166c0f-29ee-4a35-b29d-2385ce7b1489\",\"Антон RapNews Акулич\"]",
+      "[\"754e9f48-571b-4016-8c69-43ec3d636c6d\",\"Гукер Капюшон\"]",
+      "[\"754e9f48-571b-4016-8c69-43ec3d636c6d\",\"OttO\"]",
+      "[\"78340d0b-62d2-4eda-8c2a-baf4d1d02c2b\",\"OttO\"]",
+      "[\"6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c\",\"OttO\"]",
+      "[\"6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c\",\"Plaga Medicus\"]",
+      "[\"3f05a195-b4db-4c36-bbe5-b5444a39abfc\",\"Plaga Medicus\"]",
+      "[\"c73f0721-2062-4627-835b-610debc3c90f\",\"OttO\"]",
+      "[\"c73f0721-2062-4627-835b-610debc3c90f\",\"Вла-Да\"]",
+      "[\"47122a68-593f-45a9-a753-2ba95626db71\",\"Роженов\"]",
+      "[\"9da82b99-6327-4f40-b465-6c9ebc44c7d8\",\"Plaga Medicus\"]",
+      "[\"b2d3284f-2643-44e8-819d-b56f98fa1a29\",\"Антон RapNews Акулич\"]",
+      "[\"e3494462-ac89-4dfd-a497-0daa42bea559\",\"Антон RapNews Акулич\"]",
+      "[\"573b69ed-38ad-4557-a44b-34e3dd90fa42\",\"XSive MC\"]",
+      "[\"573b69ed-38ad-4557-a44b-34e3dd90fa42\",\"Plaga Medicus\"]",
+      "[\"573b69ed-38ad-4557-a44b-34e3dd90fa42\",\"Антон RapNews Акулич\"]",
+      "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"Мультифрукт\"]",
+      "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"Роженов\"]",
+      "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"OttO\"]",
+      "[\"d91e558a-9412-4ceb-bdb2-8b571d375c1e\",\"Plaga Medicus\"]",
+      "[\"c7bb6c0f-57ed-4aad-bfbd-d3c89182aa4d\",\"Антон RapNews Акулич\"]",
+      "[\"158e0c8d-3a65-486b-a655-70c36b8a95df\",\"Plaga Medicus\"]",
+      "[\"67fb7813-3708-474a-b6a9-373e4d9a7c06\",\"Мультифрукт\"]",
+      "[\"febcb6ac-4039-4a16-b291-579b3445dd89\",\"Роженов\"]",
+      "[\"febcb6ac-4039-4a16-b291-579b3445dd89\",\"Никсон\"]",
+      "[\"8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7\",\"Мультифрукт\"]",
+      "[\"8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7\",\"Антон RapNews Акулич\"]",
+      "[\"dc4db665-1a88-4db1-bc56-ed4379a9ae31\",\"OttO\"]",
+      "[\"dc4db665-1a88-4db1-bc56-ed4379a9ae31\",\"Антон RapNews Акулич\"]",
+      "[\"ba5ab4de-ee2e-4bb9-972a-1eb86de22968\",\"Антон RapNews Акулич\"]",
+      "[\"aab7c038-6fa4-4d44-8253-01a77f3df526\",\"XSive MC\"]",
+      "[\"aab7c038-6fa4-4d44-8253-01a77f3df526\",\"Роженов\"]",
+      "[\"37bece09-e42c-4616-bfea-40015ce6a403\",\"Никсон\"]",
+      "[\"e894f51b-61dd-432f-9e3b-f81e2991e771\",\"OttO\"]",
+      "[\"812291b1-1951-49b7-b00b-c73dbfc36731\",\"Plaga Medicus\"]",
+      "[\"5b60840c-5ece-4e04-b7c2-7635e9a77c1d\",\"OttO\"]",
+      "[\"e71b1a65-4f24-4675-a41d-2b815596faba\",\"Роженов\"]",
+      "[\"e71b1a65-4f24-4675-a41d-2b815596faba\",\"OttO\"]",
+      "[\"e71b1a65-4f24-4675-a41d-2b815596faba\",\"Антон RapNews Акулич\"]",
+      "[\"e40e4261-bf65-4bce-b289-7a504302ad9b\",\"Антон RapNews Акулич\"]",
+      "[\"e40e4261-bf65-4bce-b289-7a504302ad9b\",\"OttO\"]",
+      "[\"c531ee8e-0ca2-4236-add2-e4d4785b8708\",\"Роженов\"]",
+      "[\"c531ee8e-0ca2-4236-add2-e4d4785b8708\",\"OttO\"]",
+      "[\"c531ee8e-0ca2-4236-add2-e4d4785b8708\",\"Антон RapNews Акулич\"]",
+      "[\"8b553263-f54d-439c-b0ec-87921e869f7e\",\"Мультифрукт\"]",
+      "[\"8b553263-f54d-439c-b0ec-87921e869f7e\",\"Plaga Medicus\"]",
+      "[\"8b553263-f54d-439c-b0ec-87921e869f7e\",\"Роженов\"]",
+      "[\"82a80afc-23c7-4b54-acf9-0662684ea922\",\"OttO\"]",
+      "[\"82a80afc-23c7-4b54-acf9-0662684ea922\",\"Антон RapNews Акулич\"]",
+      "[\"8e19fa5e-9e6d-4304-a2d6-0452689f56cf\",\"OttO\"]",
+      "[\"8e19fa5e-9e6d-4304-a2d6-0452689f56cf\",\"Никсон\"]",
+      "[\"0428e5b6-5d31-42c6-b477-a69f85c06749\",\"Роженов\"]",
+      "[\"0428e5b6-5d31-42c6-b477-a69f85c06749\",\"Plaga Medicus\"]",
+      "[\"0428e5b6-5d31-42c6-b477-a69f85c06749\",\"OttO\"]",
+      "[\"af521ce5-1d84-42ae-88ec-cc8b1292a643\",\"Мультифрукт\"]",
+      "[\"af521ce5-1d84-42ae-88ec-cc8b1292a643\",\"Роженов\"]",
+      "[\"b8b33163-af90-4c0a-aaa5-a1b7ae8b8e69\",\"Антон RapNews Акулич\"]",
+      "[\"b4e95eed-dc48-428b-bd98-858761b9091b\",\"Мультифрукт\"]",
+      "[\"b4e95eed-dc48-428b-bd98-858761b9091b\",\"Роженов\"]",
+      "[\"b4e95eed-dc48-428b-bd98-858761b9091b\",\"Plaga Medicus\"]",
+      "[\"4d154c04-16c8-46e7-8e41-6afe113c65e6\",\"Роженов\"]",
+      "[\"a602970d-d8be-4413-bd6f-98394f244a08\",\"OttO\"]",
+      "[\"a602970d-d8be-4413-bd6f-98394f244a08\",\"Plaga Medicus\"]",
+      "[\"476584de-afdd-4848-95f3-fe3c5cd0050b\",\"OttO\"]",
+      "[\"476584de-afdd-4848-95f3-fe3c5cd0050b\",\"Антон RapNews Акулич\"]",
+      "[\"796c5e95-f702-40e8-859e-e77a55e5f9cb\",\"OttO\"]",
+      "[\"ae9ed124-5ef1-4002-992b-43f66d0300a4\",\"Антон RapNews Акулич\"]",
+      "[\"72a9e110-7739-4f6e-ad9e-278275771eb4\",\"Мультифрукт\"]",
+      "[\"72a9e110-7739-4f6e-ad9e-278275771eb4\",\"Роженов\"]",
+      "[\"72a9e110-7739-4f6e-ad9e-278275771eb4\",\"Plaga Medicus\"]",
+      "[\"46950bdb-6d8c-4b9f-846f-8c362f52abfc\",\"OttO\"]",
+      "[\"1483099d-f10a-4495-914a-cd94e0b71094\",\"Мультифрукт\"]",
+      "[\"1483099d-f10a-4495-914a-cd94e0b71094\",\"Роженов\"]",
+      "[\"1483099d-f10a-4495-914a-cd94e0b71094\",\"Plaga Medicus\"]",
+      "[\"cf687b28-8dbf-43af-86d6-d1ef1dba823b\",\"Plaga Medicus\"]",
+      "[\"cf687b28-8dbf-43af-86d6-d1ef1dba823b\",\"Роженов\"]",
+      "[\"cf687b28-8dbf-43af-86d6-d1ef1dba823b\",\"Мультифрукт\"]",
+      "[\"706949ec-75dc-4781-95d8-02e15eecba34\",\"Роженов\"]",
+      "[\"5c4deb77-6eeb-4982-90c0-63789f4e8f44\",\"Plaga Medicus\"]",
+      "[\"4bbfb788-f528-46a6-8e6a-38cd5300aa9b\",\"XSive MC\"]",
+      "[\"4bbfb788-f528-46a6-8e6a-38cd5300aa9b\",\"Plaga Medicus\"]",
+      "[\"4bbfb788-f528-46a6-8e6a-38cd5300aa9b\",\"Роженов\"]",
+      "[\"4fc26d5a-7e4a-4ec1-8003-4fc073f69a65\",\"Роженов\"]",
+      "[\"4fc26d5a-7e4a-4ec1-8003-4fc073f69a65\",\"OttO\"]",
+      "[\"4fc26d5a-7e4a-4ec1-8003-4fc073f69a65\",\"Plaga Medicus\"]",
+      "[\"3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d\",\"Никсон\"]",
+      "[\"3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d\",\"Антон RapNews Акулич\"]",
+      "[\"a69e1ebf-0076-444d-9519-0b923681ed41\",\"Роженов\"]",
+      "[\"d234061a-b9c8-4bd9-a12c-bae53bdc1380\",\"Антон RapNews Акулич\"]",
+      "[\"62194a08-947a-4a0a-808f-6d573dde99ec\",\"XSive MC\"]",
+      "[\"62194a08-947a-4a0a-808f-6d573dde99ec\",\"Plaga Medicus\"]",
+      "[\"cfe99b72-a434-4b40-868f-42cadffc6422\",\"Роженов\"]",
+      "[\"cfe99b72-a434-4b40-868f-42cadffc6422\",\"Plaga Medicus\"]",
+      "[\"cfe99b72-a434-4b40-868f-42cadffc6422\",\"Антон RapNews Акулич\"]",
+      "[\"f0b19012-2bd5-4d7e-959f-db710d562a59\",\"Антон RapNews Акулич\"]",
+      "[\"8e3fc1ea-7fe0-4e70-9c89-78170f355b40\",\"Антон RapNews Акулич\"]",
+      "[\"b48e1d0e-9582-40cb-964c-c1ca058aef91\",\"OttO\"]",
+      "[\"3f004716-9126-4b22-bdb6-41ddba21fdcf\",\"OttO\"]",
+      "[\"526fbc7e-a5d4-4405-897c-21d4ffa5b1a7\",\"OttO\"]",
+      "[\"8f7847e1-87e9-4f91-8875-b3ae0d992921\",\"OttO\"]"
+    ],
+    "removed": [],
+    "edits": [],
+    "changedParticipants": [
+      "4e0b4b44-7e2b-43ea-bdf1-c9ff4b8d57a6",
+      "9855b230-00e7-4724-baef-c4fe4a52c580",
+      "23191e1a-0298-403f-acbc-1de7879f6d11",
+      "32f00509-38af-470f-8538-9083323a09f5",
+      "64ed8ea2-ed88-45b4-b684-62f42864a5cd",
+      "0aa0714e-b3a9-42f1-a2c2-0b69557c50ff",
+      "28e1418a-d7d4-4757-b044-9dc8da7e0aff",
+      "e1f07d13-2e6a-40ca-b50d-39fb4825715b",
+      "b1e6d8f3-1ff0-4df5-a83b-d9cde59e6675",
+      "99999c24-216d-47c7-bbf5-19d0c6f27120",
+      "908b1571-e2cc-4d98-9ed8-dd951504f24f",
+      "8ef76d22-aa29-4ce3-9b2e-ffbc0aa9b626",
+      "7325963b-8af0-4443-a11f-db5e7ffc8b47",
+      "f0c40935-c712-48fb-b135-32fffe9ad1b6",
+      "c0772bc9-f94f-484a-9f10-97e480a7ca77",
+      "8c0ec389-ce55-4400-bf78-1abbe6a0471c",
+      "c43aef05-1bb0-4700-9cb6-d21787edf2e7",
+      "63e65b95-cbac-4c9f-8d5e-a077f828b848",
+      "64036a52-84d1-4cbe-8ad3-69a1ff351d58",
+      "f490fcbe-7a0c-4d72-a862-8fe4bdc3d871",
+      "de647c74-3ea0-4691-87bd-9f6e93e15afb",
+      "2f249481-749d-4a0a-8dae-4817b5dbc3af",
+      "4dc065ee-b030-4486-8063-17cc6729631f",
+      "a66264ed-514c-4c81-9a3e-9d439ea83a77",
+      "6ab90aa1-e543-4cd2-9780-ee3a533b5a9e",
+      "b3d864d4-0325-4679-8fc9-fd624d60dd86",
+      "3d03c030-ad12-4f15-aee4-56660502e96a",
+      "96b7e5e0-dea2-4d70-90b0-4a6e5be401c2",
+      "10e417a6-27df-47cc-88b7-513e7904b867",
+      "fc7980d4-ff3f-4aee-8714-e01b15d46a3c",
+      "f44f2e3b-0a0e-4d3d-9491-8ecf850a746c",
+      "63d3759e-4a0f-435a-baea-e06619c8a977",
+      "82c96826-6a66-4ab1-a0f2-47aae002289f",
+      "ca291ccc-b1e2-4eb6-88d2-7b3952dcea94",
+      "06a5370e-337f-4c3f-9a2a-8496a91a5ede",
+      "f2c95365-3d40-4fb3-885b-608e65fdb446",
+      "6872fe3f-e9d0-4ecb-8cc9-c5e33d793d3e",
+      "1f8a0a86-516f-4c61-b679-31f2c5d40de4",
+      "f77e9053-6a2b-4af3-9b7f-37459800d327",
+      "e790b6c0-d48b-4784-86bc-50c9ebbc0f4d",
+      "b37d326e-963f-4e8a-9b89-3231c7e6946e",
+      "0d5fb242-6a49-42b1-a9e8-c4309ac1839c",
+      "73e8175f-6255-4500-9931-da84bb39e5af",
+      "7dda81be-53fe-4308-9c9a-18e96490a8d3",
+      "12664212-6e32-4e10-9140-13a480263542",
+      "7332d302-013e-4690-a813-850c313700e8",
+      "c41e3561-9e15-44c2-94d8-9da082777065",
+      "f4f5ed59-733d-4125-9eaa-0e57232c4a0e",
+      "09179686-5b41-4998-9564-50ccff202172",
+      "4efd7732-7d91-4520-869e-5fb16549a509",
+      "fbd5c1c4-5e78-47b2-b4bb-5c2e7eaf4eee",
+      "31e3ad60-266e-4e6b-83a9-a7da1760faf0",
+      "6dd48b25-9bec-427c-870b-94414067b8cd",
+      "9c757dc3-1b21-479c-b10c-aa72df2bb89e",
+      "d5ca310a-1a20-427e-8a46-1e5e286b2521",
+      "7416270b-a0ae-40e5-9fe8-68f161ff4d4a",
+      "4c6982f7-2406-4fc4-9406-943510377ef4",
+      "2013f4d4-b0cc-4bb1-9c07-2248edff35a1",
+      "aa140fd7-afe6-41bd-a715-1b6184d16a89",
+      "20dd4420-3e55-4901-9653-408d9ff34890",
+      "129ec6b2-8fcc-4c1c-9b1e-3e5e6991a39b",
+      "0bee41b1-9da0-439d-b4c9-cceb39a31960",
+      "c62b31db-fa1f-461b-9428-beb125c86754",
+      "e66e00e1-3670-4359-a455-c48fc03bc758",
+      "b5c0b6d5-825f-4595-9289-3d22c679599d",
+      "9cab407c-19cd-46ce-adf6-4fbb2dc36159",
+      "fd0fd982-a108-4772-96bd-3c6fd3bd1667",
+      "117243b8-434b-49db-a8e0-3ecaf92f1629",
+      "797d06c7-d222-42ff-b9ef-b58564c2baaf",
+      "07b99e4e-70f1-4215-bbb3-d7d95cba112e",
+      "cc6a7a7e-424f-45a1-b7e1-6ed7d956412b",
+      "8daf5e45-5d22-44f6-b55e-59ee4cf662e8",
+      "016848b8-0984-48bd-94fa-ebaaaac814af",
+      "2e2e1287-057d-43c8-befb-bfd257698953",
+      "83333507-50ed-42e3-9e29-91d873b23dc4",
+      "1253a70c-33a0-49e1-b233-a3f3847ff558",
+      "cd166c0f-29ee-4a35-b29d-2385ce7b1489",
+      "754e9f48-571b-4016-8c69-43ec3d636c6d",
+      "78340d0b-62d2-4eda-8c2a-baf4d1d02c2b",
+      "6c66eb7b-a990-4233-a7d3-c2cf7bf7a65c",
+      "3f05a195-b4db-4c36-bbe5-b5444a39abfc",
+      "c73f0721-2062-4627-835b-610debc3c90f",
+      "47122a68-593f-45a9-a753-2ba95626db71",
+      "9da82b99-6327-4f40-b465-6c9ebc44c7d8",
+      "b2d3284f-2643-44e8-819d-b56f98fa1a29",
+      "e3494462-ac89-4dfd-a497-0daa42bea559",
+      "573b69ed-38ad-4557-a44b-34e3dd90fa42",
+      "d91e558a-9412-4ceb-bdb2-8b571d375c1e",
+      "c7bb6c0f-57ed-4aad-bfbd-d3c89182aa4d",
+      "158e0c8d-3a65-486b-a655-70c36b8a95df",
+      "67fb7813-3708-474a-b6a9-373e4d9a7c06",
+      "febcb6ac-4039-4a16-b291-579b3445dd89",
+      "8c5bf9e3-b15b-46f8-9eb3-10837fc8dbf7",
+      "dc4db665-1a88-4db1-bc56-ed4379a9ae31",
+      "ba5ab4de-ee2e-4bb9-972a-1eb86de22968",
+      "aab7c038-6fa4-4d44-8253-01a77f3df526",
+      "37bece09-e42c-4616-bfea-40015ce6a403",
+      "e894f51b-61dd-432f-9e3b-f81e2991e771",
+      "812291b1-1951-49b7-b00b-c73dbfc36731",
+      "5b60840c-5ece-4e04-b7c2-7635e9a77c1d",
+      "e71b1a65-4f24-4675-a41d-2b815596faba",
+      "e40e4261-bf65-4bce-b289-7a504302ad9b",
+      "c531ee8e-0ca2-4236-add2-e4d4785b8708",
+      "8b553263-f54d-439c-b0ec-87921e869f7e",
+      "82a80afc-23c7-4b54-acf9-0662684ea922",
+      "8e19fa5e-9e6d-4304-a2d6-0452689f56cf",
+      "0428e5b6-5d31-42c6-b477-a69f85c06749",
+      "af521ce5-1d84-42ae-88ec-cc8b1292a643",
+      "b8b33163-af90-4c0a-aaa5-a1b7ae8b8e69",
+      "b4e95eed-dc48-428b-bd98-858761b9091b",
+      "4d154c04-16c8-46e7-8e41-6afe113c65e6",
+      "a602970d-d8be-4413-bd6f-98394f244a08",
+      "476584de-afdd-4848-95f3-fe3c5cd0050b",
+      "796c5e95-f702-40e8-859e-e77a55e5f9cb",
+      "ae9ed124-5ef1-4002-992b-43f66d0300a4",
+      "72a9e110-7739-4f6e-ad9e-278275771eb4",
+      "46950bdb-6d8c-4b9f-846f-8c362f52abfc",
+      "1483099d-f10a-4495-914a-cd94e0b71094",
+      "cf687b28-8dbf-43af-86d6-d1ef1dba823b",
+      "706949ec-75dc-4781-95d8-02e15eecba34",
+      "5c4deb77-6eeb-4982-90c0-63789f4e8f44",
+      "4bbfb788-f528-46a6-8e6a-38cd5300aa9b",
+      "4fc26d5a-7e4a-4ec1-8003-4fc073f69a65",
+      "3f24bfd0-84f4-4ed0-9a7a-bede2a4ae28d",
+      "a69e1ebf-0076-444d-9519-0b923681ed41",
+      "d234061a-b9c8-4bd9-a12c-bae53bdc1380",
+      "62194a08-947a-4a0a-808f-6d573dde99ec",
+      "cfe99b72-a434-4b40-868f-42cadffc6422",
+      "f0b19012-2bd5-4d7e-959f-db710d562a59",
+      "8e3fc1ea-7fe0-4e70-9c89-78170f355b40",
+      "b48e1d0e-9582-40cb-964c-c1ca058aef91",
+      "3f004716-9126-4b22-bdb6-41ddba21fdcf",
+      "526fbc7e-a5d4-4405-897c-21d4ffa5b1a7",
+      "8f7847e1-87e9-4f91-8875-b3ae0d992921"
+    ],
+    "outcomeTransitions": {
+      "pass -> pass": 2168,
+      "fail -> fail": 1021,
+      "pending -> pass": 49,
+      "pending -> fail": 37
+    }
+  },
+  "history": {
+    "baselinePreserved": true,
+    "oldRevisionsPrefix": true,
+    "oldSnapshotsPrefix": true,
+    "oldRevisions": 10170,
+    "newRevisions": 10382,
+    "oldSnapshots": 797,
+    "newSnapshots": 812,
+    "newKinds": {
+      "added": 212,
+      "removed": 0,
+      "edited": 0
+    },
+    "replayedRecordsMatch": true,
+    "fullReplayMatches": true,
+    "selectionVersionsPreserved": true,
+    "selectionChangesPreserved": true,
+    "sourceAndObservationTimesValidated": true
+  },
+  "judges": {
+    "namesBefore": [
+      "AL Hammer",
+      "CraftySound",
+      "H1GH",
+      "Illumate",
+      "KseroN",
+      "OFFSTAGE",
+      "OttO",
+      "Paradise",
+      "Plaga Medicus",
+      "Samarskij",
+      "XSive MC",
+      "r1fmabes",
+      "Антон RapNews Акулич",
+      "Бен Арфа",
+      "Вла-Да",
+      "Гарикъ Истерин",
+      "Гукер Капюшон",
+      "Игорь Кедо",
+      "Мультифрукт",
+      "Никсон",
+      "Роженов",
+      "СТИШ"
+    ],
+    "namesAfter": [
+      "AL Hammer",
+      "CraftySound",
+      "H1GH",
+      "Illumate",
+      "KseroN",
+      "OFFSTAGE",
+      "OttO",
+      "Paradise",
+      "Plaga Medicus",
+      "Samarskij",
+      "XSive MC",
+      "r1fmabes",
+      "Антон RapNews Акулич",
+      "Бен Арфа",
+      "Вла-Да",
+      "Гарикъ Истерин",
+      "Гукер Капюшон",
+      "Игорь Кедо",
+      "Мультифрукт",
+      "Никсон",
+      "Роженов",
+      "СТИШ"
+    ],
+    "directoryUnchanged": true,
+    "identitiesUnchanged": true
+  },
+  "forum": {
+    "total": 99,
+    "metadataUnchanged": true,
+    "directory": {
+      "source": "data/forum.csv",
+      "sha256": "755cb2c4554f7f2961997407bd25bb685603edf09c7496a8ba62761fd9560ac6",
+      "total": 99,
+      "og": 71,
+      "veterans": 28
+    }
+  },
+  "modelsOld": {
+    "combined": {
+      "index": 24.015541439333507,
+      "favor": 11.528019068279384,
+      "attention": 5.247726452686776,
+      "respect": 7.239795918367347,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 7.405218763895599
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 12.499743799959008
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 11.535531438941998
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 3.410581421928124
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 20.896919918339968
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 8.900471191279097
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 11.384788750744885
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 17.489762595894668
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 13.854945005482046
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 8.74664116481993
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 13.984013978146974
+        },
+        {
+          "judge": "OttO",
+          "tuz": 9.656210174526096
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 10.648989864181654
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 15.80879546683598
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 12.137319298907952
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 5.615992892990538
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 9.678336820717258
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 15.995617904793491
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 2.9703528531806103
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 8.34235209235209
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 7.890472446697979
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 13.932728696563137
+        }
+      ]
+    },
+    "forum": {
+      "index": 20.587238144070305,
+      "favor": 8.847675962815407,
+      "attention": 5.760990752683471,
+      "respect": 5.978571428571429,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 4.2753446515323335
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 13.052840363236065
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 9.717254061930673
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 1.051479664230193
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 16.193309328729175
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 5.762479721729358
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 8.765758691891653
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 20.57859846963418
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 6.246952442715314
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 9.329346032118236
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 13.59655561583928
+        },
+        {
+          "judge": "OttO",
+          "tuz": 7.97379183503957
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 10.208302186683381
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 12.116861976429544
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 9.729896768005283
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 8.186318483201337
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 8.472702837436264
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 16.41221381982147
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 2.1602817809469457
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 7.989914441053524
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 4.233519004617025
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 10.706258863065992
+        }
+      ]
+    },
+    "veterans": {
+      "index": 31.765676721946903,
+      "favor": 17.637427448043443,
+      "attention": 3.7353921310463183,
+      "respect": 10.392857142857142,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 17.701640965163513
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 11.025126699424717
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 15.260435078237622
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 8.089283190187427
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 30.479180832477464
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 16.426221804511275
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 16.911485625416915
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 6.020678852659184
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 25.931322169338973
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 6.98508283906901
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 14.94811521978138
+        },
+        {
+          "judge": "OttO",
+          "tuz": 14.61296855077341
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 11.461138490684315
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 23.524265018721504
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 17.942152187435205
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 0.108273788124077
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 12.117260052485591
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 15.143851433423198
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 5.758527659005353
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 8.774401620942303
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 14.844157558689368
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 20.66620133395378
+        }
+      ]
+    }
+  },
+  "modelsNew": {
+    "combined": {
+      "index": 24.332173893087898,
+      "favor": 11.598572006706362,
+      "attention": 5.493805968014191,
+      "respect": 7.239795918367347,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 7.405218763895599
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 12.698161543098253
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 11.535531438941998
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 3.410581421928124
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 20.896919918339968
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 8.900471191279097
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 11.384788750744885
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 17.53720238095238
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 14.213417188687972
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 8.74664116481993
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 13.984013978146974
+        },
+        {
+          "judge": "OttO",
+          "tuz": 10.152577981850058
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 11.356087627879074
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 16.195123678337037
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 12.137319298907952
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 6.072349394049303
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 9.678336820717258
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 16.049472745657326
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 2.9703528531806103
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 8.422619047619046
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 7.890472446697979
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 13.932728696563137
+        }
+      ]
+    },
+    "forum": {
+      "index": 20.88681255323298,
+      "favor": 8.919701359482948,
+      "attention": 5.988539765178601,
+      "respect": 5.978571428571429,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 4.2753446515323335
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 13.233956030316653
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 9.717254061930673
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 1.051479664230193
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 16.193309328729175
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 5.762479721729358
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 8.765758691891653
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 20.612242079207736
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 6.569954944600243
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 9.329346032118236
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 13.59655561583928
+        },
+        {
+          "judge": "OttO",
+          "tuz": 8.495232302813521
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 10.857295087407167
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 12.482061410518698
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 9.729896768005283
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 8.546272438069858
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 8.472702837436264
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 16.470258932199293
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 2.1602817809469457
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 8.041077365365117
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 4.233519004617025
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 10.706258863065992
+        }
+      ]
+    },
+    "veterans": {
+      "index": 32.123957385283475,
+      "favor": 17.70902811386335,
+      "attention": 4.022072128562983,
+      "respect": 10.392857142857142,
+      "judges": [
+        {
+          "judge": "KseroN",
+          "tuz": 17.701640965163513
+        },
+        {
+          "judge": "Мультифрукт",
+          "tuz": 11.261423430065332
+        },
+        {
+          "judge": "OFFSTAGE",
+          "tuz": 15.260435078237622
+        },
+        {
+          "judge": "Игорь Кедо",
+          "tuz": 8.089283190187427
+        },
+        {
+          "judge": "CraftySound",
+          "tuz": 30.479180832477464
+        },
+        {
+          "judge": "r1fmabes",
+          "tuz": 16.426221804511275
+        },
+        {
+          "judge": "Paradise",
+          "tuz": 16.911485625416915
+        },
+        {
+          "judge": "Гукер Капюшон",
+          "tuz": 6.13017655291554
+        },
+        {
+          "judge": "Никсон",
+          "tuz": 26.36803829379283
+        },
+        {
+          "judge": "Бен Арфа",
+          "tuz": 6.98508283906901
+        },
+        {
+          "judge": "Гарикъ Истерин",
+          "tuz": 14.94811521978138
+        },
+        {
+          "judge": "OttO",
+          "tuz": 15.03730334313109
+        },
+        {
+          "judge": "Антон RapNews Акулич",
+          "tuz": 12.306858179753622
+        },
+        {
+          "judge": "Plaga Medicus",
+          "tuz": 23.969347057787864
+        },
+        {
+          "judge": "Illumate",
+          "tuz": 17.942152187435205
+        },
+        {
+          "judge": "Роженов",
+          "tuz": 0.7656653345050871
+        },
+        {
+          "judge": "СТИШ",
+          "tuz": 12.117260052485591
+        },
+        {
+          "judge": "Вла-Да",
+          "tuz": 15.185673205518652
+        },
+        {
+          "judge": "AL Hammer",
+          "tuz": 5.758527659005353
+        },
+        {
+          "judge": "XSive MC",
+          "tuz": 8.921874985964378
+        },
+        {
+          "judge": "H1GH",
+          "tuz": 14.844157558689368
+        },
+        {
+          "judge": "Samarskij",
+          "tuz": 20.66620133395378
+        }
+      ]
+    }
+  },
+  "api": {
+    "status": "judging",
+    "resultsPublished": false,
+    "judgingDeadline": "2026-10-22T20:59:00.000Z",
+    "sourceParticipants": 3276,
+    "sourceScores": 16381,
+    "buckets": {
+      "5": 3275,
+      "6": 1
+    },
+    "fullRequestEstimate": 3279,
+    "incrementalRequestEstimate": 137
+  },
+  "controlValues": {
+    "participants": 3275,
+    "scores": 16375,
+    "pass": 2217,
+    "fail": 1058,
+    "pending": 0,
+    "judges": 22,
+    "quarantine": 1,
+    "archivedParticipants": 12
+  },
+  "fileChecksums": [
+    {
+      "file": "19ib_all_judges_REPAIRED.json",
+      "baseline": "6d1998b243de25b1f09b9589df26878953bf227d0b5b06188d531bb23987088a",
+      "candidate": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3",
+      "changed": true
+    },
+    {
+      "file": "forum_judges_export.json",
+      "baseline": "5db0cbab03eb74876fec66a82f96a760ab7bdbe58e606ee5894d2d029c761349",
+      "candidate": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd",
+      "changed": true
+    },
+    {
+      "file": "history.json",
+      "baseline": "8fe01f1a507780674fa97afba405e9b1028595976d1280d0740a5048d4dcc1bc",
+      "candidate": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00",
+      "changed": true
+    },
+    {
+      "file": "forum.csv",
+      "baseline": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+      "candidate": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+      "changed": false
+    },
+    {
+      "file": "metadata.json",
+      "baseline": "c308fd088e4e78129496db56324f2115db23b056c5772b530dc697bcb0c2d434",
+      "candidate": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760",
+      "changed": true
+    }
+  ],
+  "personalTuzChanges": {
+    "combined": [
+      {
+        "judge": "Мультифрукт",
+        "before": 12.499743799959008,
+        "after": 12.698161543098253
+      },
+      {
+        "judge": "Гукер Капюшон",
+        "before": 17.489762595894668,
+        "after": 17.53720238095238
+      },
+      {
+        "judge": "Никсон",
+        "before": 13.854945005482046,
+        "after": 14.213417188687972
+      },
+      {
+        "judge": "OttO",
+        "before": 9.656210174526096,
+        "after": 10.152577981850058
+      },
+      {
+        "judge": "Антон RapNews Акулич",
+        "before": 10.648989864181654,
+        "after": 11.356087627879074
+      },
+      {
+        "judge": "Plaga Medicus",
+        "before": 15.80879546683598,
+        "after": 16.195123678337037
+      },
+      {
+        "judge": "Роженов",
+        "before": 5.615992892990538,
+        "after": 6.072349394049303
+      },
+      {
+        "judge": "Вла-Да",
+        "before": 15.995617904793491,
+        "after": 16.049472745657326
+      },
+      {
+        "judge": "XSive MC",
+        "before": 8.34235209235209,
+        "after": 8.422619047619046
+      }
+    ],
+    "forum": [
+      {
+        "judge": "Мультифрукт",
+        "before": 13.052840363236065,
+        "after": 13.233956030316653
+      },
+      {
+        "judge": "Гукер Капюшон",
+        "before": 20.57859846963418,
+        "after": 20.612242079207736
+      },
+      {
+        "judge": "Никсон",
+        "before": 6.246952442715314,
+        "after": 6.569954944600243
+      },
+      {
+        "judge": "OttO",
+        "before": 7.97379183503957,
+        "after": 8.495232302813521
+      },
+      {
+        "judge": "Антон RapNews Акулич",
+        "before": 10.208302186683381,
+        "after": 10.857295087407167
+      },
+      {
+        "judge": "Plaga Medicus",
+        "before": 12.116861976429544,
+        "after": 12.482061410518698
+      },
+      {
+        "judge": "Роженов",
+        "before": 8.186318483201337,
+        "after": 8.546272438069858
+      },
+      {
+        "judge": "Вла-Да",
+        "before": 16.41221381982147,
+        "after": 16.470258932199293
+      },
+      {
+        "judge": "XSive MC",
+        "before": 7.989914441053524,
+        "after": 8.041077365365117
+      }
+    ],
+    "veterans": [
+      {
+        "judge": "Мультифрукт",
+        "before": 11.025126699424717,
+        "after": 11.261423430065332
+      },
+      {
+        "judge": "Гукер Капюшон",
+        "before": 6.020678852659184,
+        "after": 6.13017655291554
+      },
+      {
+        "judge": "Никсон",
+        "before": 25.931322169338973,
+        "after": 26.36803829379283
+      },
+      {
+        "judge": "OttO",
+        "before": 14.61296855077341,
+        "after": 15.03730334313109
+      },
+      {
+        "judge": "Антон RapNews Акулич",
+        "before": 11.461138490684315,
+        "after": 12.306858179753622
+      },
+      {
+        "judge": "Plaga Medicus",
+        "before": 23.524265018721504,
+        "after": 23.969347057787864
+      },
+      {
+        "judge": "Роженов",
+        "before": 0.108273788124077,
+        "after": 0.7656653345050871
+      },
+      {
+        "judge": "Вла-Да",
+        "before": 15.143851433423198,
+        "after": 15.185673205518652
+      },
+      {
+        "judge": "XSive MC",
+        "before": 8.774401620942303,
+        "after": 8.921874985964378
+      }
+    ]
+  },
+  "addedGradeGroups": {
+    "forumAndVeterans": 0,
+    "other": 212
+  },
+  "verdict": "PASS WITH NOTES",
+  "limitations": [
+    "Not an official archive: DATA-01 observed judging/resultsPublished=false; no current-status claim.",
+    "Zippy remains quarantined with all six raw scores. DATA-02A official exception is not implemented in this original DATA-02 candidate.",
+    "Published sums/counts match saved DATA-01 API responses; all live score cards have not been audited again.",
+    "Latest published full API audit is 2026-10-13T18:20:00.020Z; same-aggregate score/comment/date changes may remain undetected.",
+    "Version coherence is checked with metadata bracketing, export timestamps, selection, counts and history; source provides no signed manifest per file.",
+    "Verification imports the existing repository validators and formulas; baseline and dependency hashes are pinned below."
+  ]
+}

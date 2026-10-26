@@ -1,0 +1,31 @@
+{
+  "url": "https://tuz19.ru/data/history.json",
+  "retrievedAt": "2026-10-22T20:04:35.039294+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "13225043",
+    "Server": "GitHub.com",
+    "Content-Type": "application/json; charset=utf-8",
+    "Last-Modified": "Thu, 22 Oct 2026 19:43:39 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "\"6ada676b-c9cc53\"",
+    "expires": "Thu, 22 Oct 2026 20:14:35 GMT",
+    "Cache-Control": "max-age=600",
+    "x-proxy-cache": "MISS",
+    "X-GitHub-Request-Id": "3364:C29C0:1C754F:1F7DCC:6ADA6C52",
+    "x-github-edge-region": "swedencentral",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 22 Oct 2026 20:04:35 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-bma-essb1270061-BMA",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1792699475.238228,VS0,VE539",
+    "Vary": "Accept-Encoding",
+    "X-Fastly-Request-ID": "e2cf5e303f01cc0a3aa59f6df4acc9a71178d914"
+  },
+  "bytes": 13225043,
+  "sha256": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00"
+}

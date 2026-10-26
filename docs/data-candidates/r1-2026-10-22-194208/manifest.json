@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "kind": "R1 candidate; not an official final archive",
+  "verdict": "PASS WITH NOTES",
+  "roundId": "c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c",
+  "runId": "2026-10-22T19:42:08.167Z",
+  "exportedAt": "2026-10-22T19:42:08.167Z",
+  "selectionVersion": "234afaf8b232718b84bb4c97d429e5927db6f03147ea2e0b9caf5288afec8e51",
+  "retrievedAt": {
+    "startedAt": "2026-10-22T20:03:55.402703+00:00",
+    "completedAt": "2026-10-22T20:04:39.982154+00:00"
+  },
+  "preparedAt": "2026-10-22T20:30:53.552450+00:00",
+  "acquisition": {
+    "mode": "reuse DATA-01 byte-identical saved responses",
+    "newNetworkRequests": 0,
+    "collectorExecuted": false,
+    "metadataBeforeReceipt": "evidence/published-metadata-receipt.json",
+    "metadataAfterReceipt": "evidence/published-metadata-after-receipt.json",
+    "metadataAfterFile": "evidence/published-metadata-after.json"
+  },
+  "sourceStateAtData01": {
+    "status": "judging",
+    "resultsPublished": false,
+    "tournamentStatus": "active",
+    "judgingDeadline": "2026-10-22T20:59:00.000Z",
+    "lastFullAuditAt": "2026-10-13T18:20:00.020Z",
+    "liveEvidence": "evidence/api-live.json",
+    "fullEvidence": "evidence/api-full.json",
+    "notRecheckedDuringData02": true
+  },
+  "baseline": {
+    "runId": "2026-10-22T15:02:15.571Z",
+    "sha256": {
+      "data/19ib_all_judges_REPAIRED.json": "6d1998b243de25b1f09b9589df26878953bf227d0b5b06188d531bb23987088a",
+      "data/forum.csv": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+      "data/forum_judges_export.json": "5db0cbab03eb74876fec66a82f96a760ab7bdbe58e606ee5894d2d029c761349",
+      "data/history.json": "8fe01f1a507780674fa97afba405e9b1028595976d1280d0740a5048d4dcc1bc",
+      "data/metadata.json": "c308fd088e4e78129496db56324f2115db23b056c5772b530dc697bcb0c2d434"
+    }
+  },
+  "validationDependencies": {
+    "js/analytics-selection.js": "0b7642491d8fcbca45def674269e1eae9f71bc12eda62f1678dbe3675ea62e15",
+    "js/data.js": "d8f0e463766c339025c91c1c31c24997e8788608d30c0ce0d4c696279f76b81e",
+    "js/config.js": "6999127f9160ebb6a0509979ccf946ad6fa43c08ca717354401eec7bca510a52",
+    "js/calculations.js": "68411d94b06f4a48caeedc6008817fbecbd776dfcf9daaf7d20e1ebe8338ccd9",
+    "js/general.js": "4ff10364d0e4b7efc73f3ff087da49ef68a16ed972dfb58b94ce86b67bbf2313",
+    "scripts/collector.mjs": "29629ffaf7fc48acfeae9502baa349cea7a3def61404c086b4b634993c3518ae",
+    "scripts/collection-state.mjs": "f26e76b344da62ff5874a4fecd79beb56ea5976ecca930f3f69285b40fcf6d6d",
+    "scripts/validate-data.mjs": "ef0ff140786d73e311bf170889ac1db836de1e4951ae805a1e9b11c12bad62e0",
+    "scripts/update-history.mjs": "c356f846814a28f105e630ef8cecccd628e345e60c3784e2358513478a70ea4b",
+    "scripts/forum-directory.mjs": "a71ea45517b5452077ca381aa0da64eced6918e817c9e012c4bac9711c5a154a",
+    "scripts/judge-directory.mjs": "6b0021cfcb9c1b2f00f7e0ed57cb028197dc72eba194e91b8dda1b74fabaca91",
+    "scripts/local-network-guard.mjs": "19c0c882ffbcc673416294f9715802ef40a26b37f1f6dda32b6b29a3e60a7f28"
+  },
+  "limitations": [
+    "Not an official archive: DATA-01 observed judging/resultsPublished=false; no current-status claim.",
+    "Zippy remains quarantined with all six raw scores. DATA-02A official exception is not implemented in this original DATA-02 candidate.",
+    "Published sums/counts match saved DATA-01 API responses; all live score cards have not been audited again.",
+    "Latest published full API audit is 2026-10-13T18:20:00.020Z; same-aggregate score/comment/date changes may remain undetected.",
+    "Version coherence is checked with metadata bracketing, export timestamps, selection, counts and history; source provides no signed manifest per file.",
+    "Verification imports the existing repository validators and formulas; baseline and dependency hashes are pinned below."
+  ],
+  "files": [
+    {
+      "path": "19ib_all_judges_REPAIRED.json",
+      "role": "unaltered-published-source",
+      "sourceUrl": "https://tuz19.ru/data/19ib_all_judges_REPAIRED.json",
+      "retrievedAt": "2026-10-22T20:04:30.812473+00:00",
+      "httpStatus": 200,
+      "bytes": 7109210,
+      "sha256": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3"
+    },
+    {
+      "path": "forum_judges_export.json",
+      "role": "unaltered-published-source",
+      "sourceUrl": "https://tuz19.ru/data/forum_judges_export.json",
+      "retrievedAt": "2026-10-22T20:04:33.582021+00:00",
+      "httpStatus": 200,
+      "bytes": 195920,
+      "sha256": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd"
+    },
+    {
+      "path": "history.json",
+      "role": "unaltered-published-source",
+      "sourceUrl": "https://tuz19.ru/data/history.json",
+      "retrievedAt": "2026-10-22T20:04:35.039294+00:00",
+      "httpStatus": 200,
+      "bytes": 13225043,
+      "sha256": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00"
+    },
+    {
+      "path": "forum.csv",
+      "role": "unaltered-published-source",
+      "sourceUrl": "https://tuz19.ru/data/forum.csv",
+      "retrievedAt": "2026-10-22T20:04:38.610515+00:00",
+      "httpStatus": 200,
+      "bytes": 5803,
+      "sha256": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a"
+    },
+    {
+      "path": "metadata.json",
+      "role": "unaltered-published-source",
+      "sourceUrl": "https://tuz19.ru/data/metadata.json",
+      "retrievedAt": "2026-10-22T20:03:55.402703+00:00",
+      "httpStatus": 200,
+      "bytes": 12064,
+      "sha256": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760"
+    },
+    {
+      "path": "comparison-report.json",
+      "role": "verification-artifact",
+      "bytes": 45471,
+      "sha256": "5a7aec0575b4f75bf3bc8d6369c83266e150475142d7c5be31aadca723ff5cea"
+    },
+    {
+      "path": "evidence/api-full-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 763,
+      "sha256": "3d92c02d052b5dc192b9c9e3bd1f122fa78c5aad80028746f83846a9f3401a32"
+    },
+    {
+      "path": "evidence/api-full.json",
+      "role": "acquisition-evidence",
+      "bytes": 1527643,
+      "sha256": "11f30ffabeb2cc2584f1747eace79dda66021d801175ae922aa5531ff24b9f88"
+    },
+    {
+      "path": "evidence/api-judges-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 715,
+      "sha256": "02d7ce6a89401ad2b8d56c99294139101bc5a3ea45284d7d28ff99b7132d70c9"
+    },
+    {
+      "path": "evidence/api-judges.json",
+      "role": "acquisition-evidence",
+      "bytes": 3570,
+      "sha256": "7e3926d7f0b74e7a2bae9eeeee800fd48e2ba7d16859669124d56b3ceff63d68"
+    },
+    {
+      "path": "evidence/api-live-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 761,
+      "sha256": "ccb392215ecafcbd341a8335803b9e81fc4251279c5ee0d089a178b3629d3697"
+    },
+    {
+      "path": "evidence/api-live.json",
+      "role": "acquisition-evidence",
+      "bytes": 313128,
+      "sha256": "a9bc2b48cae359bc9f0e20bf405a50f179db00dc41679b608c2747e808f385c7"
+    },
+    {
+      "path": "evidence/api-quarantine-scores-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 804,
+      "sha256": "1a570a28eefcd399c57418970dd9383240cd7baef745b7b742ec38cb58383041"
+    },
+    {
+      "path": "evidence/api-quarantine-scores.json",
+      "role": "acquisition-evidence",
+      "bytes": 3014,
+      "sha256": "f02808b1f3e2c31e6ddac910abae4a5a4971ce2d2e353b944082d80d88ea927c"
+    },
+    {
+      "path": "evidence/data01-comparison-report.json",
+      "role": "acquisition-evidence",
+      "bytes": 42823,
+      "sha256": "ab4a574245776c3a89a571340915f815625a24c1b7907a2a203e2d4ff879c33d"
+    },
+    {
+      "path": "evidence/data01-manifest.json",
+      "role": "acquisition-evidence",
+      "bytes": 3947,
+      "sha256": "9804fa6751314ad36dc51e12e14e94c7e7a643265bf92cc755331806d4b32979"
+    },
+    {
+      "path": "evidence/published-forum-csv-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1080,
+      "sha256": "5d550031eb131f84ab020b1de6627b27e13c33230dfab941e0f7bd5f04f72326"
+    },
+    {
+      "path": "evidence/published-forum-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1107,
+      "sha256": "b5a91962c27c737351d7b150b6dccbf2e8d5be5f7f931f804a4c68e78b00645a"
+    },
+    {
+      "path": "evidence/published-history-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1100,
+      "sha256": "3fc6991314bf023d8a048a309a5bd02ab7feb4f47303dfd47aa43cb3fb97ecd4"
+    },
+    {
+      "path": "evidence/published-main-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1115,
+      "sha256": "69600dd0d6af616b6e4598ec9f087d6caa76e2ab93fe03e2f97c307e7b09a9a7"
+    },
+    {
+      "path": "evidence/published-metadata-after-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1092,
+      "sha256": "c038dc07175d251f119bda12cb863e22ee99bed345d965efccb573991dea1906"
+    },
+    {
+      "path": "evidence/published-metadata-after.json",
+      "role": "acquisition-evidence",
+      "bytes": 12064,
+      "sha256": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760"
+    },
+    {
+      "path": "evidence/published-metadata-receipt.json",
+      "role": "acquisition-evidence",
+      "bytes": 1094,
+      "sha256": "8e3814d34932267a24b0f9ac14872573a125d5486fd857ba9c87932deebe5768"
+    },
+    {
+      "path": "validation-report.md",
+      "role": "verification-artifact",
+      "bytes": 12270,
+      "sha256": "e7f43eb081ac9156139e6a0a72846bb86fa4a0adefc17620f8716a2ce33bb9b7"
+    },
+    {
+      "path": "verify.mjs",
+      "role": "verification-artifact",
+      "bytes": 15729,
+      "sha256": "0944f8d5f6d547d6f5c8ee887516c48936439ffcbab9d2f5d26c8628f415f74f"
+    }
+  ]
+}

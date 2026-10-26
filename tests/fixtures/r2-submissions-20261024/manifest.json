@@ -1,0 +1,19 @@
+{
+  "kind": "R2 independent saved submission snapshot",
+  "retrievedAt": null,
+  "importedAt": "2026-10-24T08:42:20.129Z",
+  "files": {
+    "full.raw.json": {
+      "bytes": 1767,
+      "sha256": "81bdce19c65296eb0e389d2927644aec5397164666212165b561654249fd3135"
+    },
+    "live.raw.json": {
+      "bytes": 214,
+      "sha256": "0bd593806b28a902c13be0054172a330c3c7ccf92253bb1ded7290f13dcb09ce"
+    },
+    "snapshot.json": {
+      "bytes": 3430,
+      "sha256": "1b889ca21f88a02a56e76b5c94596754f42e4cd90383f2967422e31700f109e2"
+    }
+  }
+}

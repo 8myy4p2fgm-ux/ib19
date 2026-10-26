@@ -20,10 +20,12 @@ try{
   const page=await browser.newPage({viewport:{width,height:900}}),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
   await page.goto(base+'/rappers/');await page.locator('.app:not([hidden])').waitFor();
-  await page.locator('#fl-search').fill('Кот Форумчанина');
-  assert.equal(await page.locator('[data-fl-row]').count(),1);
-  const forumLink=page.locator('[data-fl-row] .fl-profile-link');
-  assert.match(await forumLink.textContent(),/K_Slim/);assert.equal(await forumLink.getAttribute('href'),'https://19ib.ru/artist/kot-forumchanina');
+  await page.locator('[data-field="search"]').fill('Кот Форумчанина');
+  assert.equal(await page.locator('[data-person]').count(),1);
+  await page.locator('[data-person]').click();
+  const host=page.locator(width<=850?'.rr-dialog[open]':'.e6-person-aside');
+  assert.match(await host.innerText(),/K_Slim/);assert.equal(await host.locator('a[href*="19ib.ru/artist/"]').getAttribute('href'),'https://19ib.ru/artist/kot-forumchanina');
+  if(width<=850)await page.keyboard.press('Escape');else await page.locator('.e6-inline-close').click();
   const example=await page.evaluate(async()=>{
    const [{normalizeData},{artistNameElement}]=await Promise.all([import('/js/data.js'),import('/js/artist-identity.js')]);
    const [main,forum]=await Promise.all(['19ib_all_judges_REPAIRED.json','forum_judges_export.json'].map(async f=>(await fetch('/data/'+f)).json()));
@@ -41,12 +43,11 @@ try{
   assert.equal(await page.locator('#artist-ordinary').getAttribute('href'),'https://19ib.ru/artist/'+encodeURIComponent(example.ordinarySlug));
   assert.equal(await page.locator('#artist-forum').textContent(),'Кот Форумчанина');
   const unknown=page.locator('#artist-unknown');
-  const summary=unknown.locator('summary');
-  assert.equal(await summary.textContent(),'Имя неизвестно');assert.match(await summary.getAttribute('aria-label'),new RegExp(example.unknown));
-  assert.equal(await unknown.locator('code').isVisible(),false);
-  await summary.focus();await page.keyboard.press('Enter');
-  assert.equal(await unknown.locator('code').isVisible(),true);assert.equal(await unknown.locator('code').textContent(),'UUID: '+example.unknown);
-  await summary.click();assert.equal(await unknown.locator('code').isVisible(),false);
+  assert.equal(await unknown.textContent(),'Имя неизвестно');
+  assert.equal(await unknown.getAttribute('href'),'https://19ib.ru/artist/'+example.unknown);
+  assert.equal(await unknown.getAttribute('aria-label'),'Имя неизвестно. Профиль участника на 19ib.ru');
+  assert.equal(await unknown.getAttribute('rel'),'noopener noreferrer');
+  await unknown.focus();assert.equal(await unknown.evaluate(e=>e===document.activeElement),true);
   assert.equal(await page.locator('#artist-unsafe').textContent(),'<img src=x onerror=alert(1)>');
   assert.equal(await page.locator('#identity-render-check img').count(),0);
   assert.deepEqual(errors,[]);await page.close();

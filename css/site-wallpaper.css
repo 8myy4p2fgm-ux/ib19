@@ -7,10 +7,8 @@ body{position:relative;isolation:isolate}
 .room-wall{position:fixed;inset:0;z-index:-1;pointer-events:none;overflow:hidden;background:#282720}
 .room-layer{position:absolute;inset:0;background:#393025;transition:opacity 550ms ease;opacity:1}
 .room-layer::before,.room-layer::after{content:"";position:absolute;inset:0 0 auto;height:max(100vh,var(--room-image-height));background-size:100% auto;background-position:center top;background-repeat:no-repeat;mask-image:linear-gradient(#000 0%,#000 calc(var(--room-image-height) * .92),transparent var(--room-image-height));opacity:0;transition:opacity .7s ease}
-.room-on-preview-ready .room-on::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-on-preview.webp");opacity:1}
 .room-on-full-ready .room-on::after{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-on.webp");opacity:1}
 .room-off{background:#11171d;opacity:0}
-.room-off-preview-ready .room-off::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-off-preview.webp");opacity:1}
 .room-off-full-ready .room-off::after{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-light-off.webp");opacity:1}
 body[data-room-light="off"] .room-off{opacity:1}
 .app .site-header{position:sticky;top:0;z-index:40;background:#0e1411;box-sizing:border-box;transform:none;animation:none}
@@ -39,9 +37,7 @@ body[data-room-light="off"] .room-off{opacity:1}
 
 @media(max-width:760px){
  :root{--room-image-height:150vw}
- .room-on-preview-ready .room-on::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-on-preview.webp")}
  .room-on-full-ready .room-on::after{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-on.webp")}
- .room-off-preview-ready .room-off::before{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-off-preview.webp")}
  .room-off-full-ready .room-off::after{background-image:linear-gradient(rgba(9,14,12,var(--room-dim)),rgba(9,14,12,var(--room-dim))),url("./assets/room-mobile-light-off.webp")}
  .room-switch{display:none}
  .site-header-inner{position:relative}
@@ -54,3 +50,6 @@ body[data-room-light="off"] .room-off{opacity:1}
 @media(prefers-reduced-motion:reduce){.room-layer,.room-layer::before,.room-layer::after{transition:none}}
 
 /* The approved photographs include the switch plate; use only the transparent hit area. */
+
+/* Production preview and full files are identical: render one photo per light state. */
+.room-layer::before {content:none}

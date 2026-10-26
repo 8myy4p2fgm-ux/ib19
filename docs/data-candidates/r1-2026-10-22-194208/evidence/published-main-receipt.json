@@ -1,0 +1,31 @@
+{
+  "url": "https://tuz19.ru/data/19ib_all_judges_REPAIRED.json",
+  "retrievedAt": "2026-10-22T20:04:30.812473+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "7109210",
+    "Server": "GitHub.com",
+    "Content-Type": "application/json; charset=utf-8",
+    "Last-Modified": "Thu, 22 Oct 2026 19:43:39 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "\"6ada676b-6c7a5a\"",
+    "expires": "Thu, 22 Oct 2026 20:14:31 GMT",
+    "Cache-Control": "max-age=600",
+    "x-proxy-cache": "MISS",
+    "X-GitHub-Request-Id": "5204:715E7:1C4496:1F4CB5:6ADA6C4E",
+    "x-github-edge-region": "swedencentral",
+    "Accept-Ranges": "bytes",
+    "Age": "1",
+    "Date": "Thu, 22 Oct 2026 20:04:31 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-bma-essb1270055-BMA",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1792699471.011876,VS0,VE706",
+    "Vary": "Accept-Encoding",
+    "X-Fastly-Request-ID": "60574c33b7fa488d56b3054aed795bb0ab5de45a"
+  },
+  "bytes": 7109210,
+  "sha256": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3"
+}

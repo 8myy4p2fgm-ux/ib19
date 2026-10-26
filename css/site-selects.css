@@ -1,0 +1,26 @@
+/* Shared neutral graphite picker; native controls retain their data/handlers. */
+body .site-select{display:inline-block;position:relative;max-width:100%;min-width:0;vertical-align:middle}
+body label>.site-select{display:block}
+body .site-select-source{position:absolute!important;width:1px!important;height:1px!important;min-width:0!important;min-height:0!important;padding:0!important;opacity:0!important;clip-path:inset(50%)!important;pointer-events:none!important}
+body .site-select>.site-select-trigger{display:flex;align-items:center;position:relative;width:100%;min-height:44px;padding:10px 44px 10px 14px!important;border:1px solid #555759!important;border-radius:9px!important;background:#292b2c!important;color:#ededeb!important;font:inherit;font-size:14px!important;font-weight:400!important;line-height:1.5;text-align:left;box-shadow:none!important;cursor:pointer;max-width:100%;transform:none!important}
+body .site-select-trigger>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:100%}
+body .site-select-trigger::after{content:"";position:absolute;right:18px;top:calc(50% - 6px);width:8px;height:8px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg)}
+body .site-select-trigger[aria-expanded=true]::after{top:calc(50% - 2px);transform:rotate(225deg)}
+body .site-select-options{position:fixed;z-index:10000;inset:auto;margin:0;box-sizing:border-box;overflow:auto;overscroll-behavior:contain;scrollbar-color:#707274 #252728;padding:5px;background:#252728;color:#ededeb;border:1px solid #5e6062;border-radius:9px;font-family:inherit;font-size:14px;line-height:1.5}
+body .site-select-options[hidden]{display:none!important}
+body .site-select-options::backdrop{background:transparent;pointer-events:none}
+body .site-select-options [role=option]{box-sizing:border-box;position:relative;min-height:44px;padding:10px 30px 10px 10px;border-radius:5px;font-weight:400;cursor:pointer;overflow-wrap:anywhere}
+body .site-select-options [aria-selected=true]{background:#3c3e40;color:#ededeb}
+body .site-select-options [aria-selected=true]::after{content:"✓";position:absolute;right:10px;color:#d2d2ce}
+body .site-select-options [role=option]:hover{background:#444648}
+body .site-select-options [aria-disabled=true]{opacity:.45;cursor:default}
+body .site-select-options [role=option]:focus-visible,body .site-select-trigger:focus-visible{outline:2px solid #c6c6c3!important;outline-offset:-2px!important}
+body .site-select-trigger:disabled{opacity:.5;cursor:default}
+body .site-select-round>.site-select-trigger{font-size:12px!important;min-height:38px;padding:8px 38px 8px 12px!important}
+body .site-select-round .site-select-trigger::after{right:14px}
+/* Page-specific legacy focus rules must not recolor these shared controls. */
+body :is(#forum-link,#judges,#dynamics,#judge-profile,#round-information,.site-header,.ranking-dialog) :is(.site-select-options [role=option],.site-select-trigger):focus-visible{outline:2px solid #c6c6c3!important;outline-offset:-2px!important}
+/* Match the shared picker rhythm, including the clock's existing custom list. */
+body .site-select-round>.site-select-trigger {min-height:44px}
+body .site-select-options,body #int08-report-2 .hour-judge-options {box-shadow:0 8px 24px #0003;background:#252728;border-color:#5e6062}
+body #int08-report-2 .hour-judge-trigger {padding:10px 44px 10px 14px;background:#292b2c;border-color:#555759}

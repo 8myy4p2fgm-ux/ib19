@@ -27,7 +27,7 @@ try{
   assert.deepEqual(await page.locator('.tuz-brand-caption span').allTextContents(),['судейство','19-го независимого']);
   const expected=width>1279?[116,46]:width>1100?[110,44]:width>760?[100,40]:[75,30];
   const box=await mark.boundingBox();assert.deepEqual([box.width,box.height],expected);
-  assert(await mark.evaluate(e=>e.naturalWidth>0&&e.currentSrc.endsWith('/css/assets/tuz-drawn.webp')));
+  assert(await mark.evaluate(e=>e.naturalWidth===232&&e.currentSrc.endsWith('/css/assets/tuz-drawn-232.png')));
   const geometry=await page.evaluate(()=>{
    const r=s=>{const b=document.querySelector(s).getBoundingClientRect();return {x:b.x,y:b.y,right:b.right,bottom:b.bottom}};
    return {brand:r('.site-brand'),nav:r('.navs'),meta:r('.header-meta'),light:innerWidth<=760?r('.room-mobile-light'):null,overflow:document.documentElement.scrollWidth>innerWidth+1};

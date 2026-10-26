@@ -1,110 +1,16 @@
-import {chromium} from 'playwright';
-import http from 'node:http';
-import fs from 'node:fs/promises';
-import path from 'node:path';
-import assert from 'node:assert/strict';
-import '../scripts/build.mjs';
-
-const root=path.resolve('dist');
-const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json'};
-const server=http.createServer(async(req,res)=>{
- try{
-  const pathname=decodeURIComponent(new URL(req.url,'http://local').pathname);
-  const sitePath=pathname.startsWith('/ib19/')?pathname.slice('/ib19'.length):pathname;
-  let file=path.resolve(root,'.'+sitePath);
-  if(file!==root&&!file.startsWith(root+path.sep))throw Error('outside');
-  if((await fs.stat(file)).isDirectory())file=path.join(file,'index.html');
-  res.setHeader('Content-Type',mime[path.extname(file)]||'application/octet-stream');
-  res.end(await fs.readFile(file));
- }catch{res.writeHead(404);res.end('Not found');}
-});
-await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
-const base=`http://127.0.0.1:${server.address().port}`;
-
-const browser=await chromium.launch({headless:true});
-const limit=Date.parse('2026-10-22T23:59:00+03:00');
-const dir='docs/screenshots/pace-deadline';await fs.mkdir(dir,{recursive:true});
-const errors=[];
-try{
- for(const width of [1440,1024,768,390,320]){
-  const page=await browser.newPage({viewport:{width,height:1000},timezoneId:width===320?'Asia/Tokyo':'America/Los_Angeles'});
-  page.on('pageerror',e=>{errors.push(e.message);console.log('pageerror',e.message);});
-  await page.addInitScript(t=>{window.testNow=t;Date.now=()=>window.testNow;},limit-500);
-  await page.goto(base+'/dynamics/');
-  await page.waitForSelector('#carrot-loader',{state:'detached'});
-  await page.waitForSelector('#pace-finish-chart');
-  assert.equal(await page.locator('#pace-needed-label').textContent(),'До дедлайна');
-  assert.equal(await page.locator('#pace-needed').textContent(),'Сегодня');
-  assert.equal(await page.locator('#pace-needed-detail').textContent(),'23:59 МСК');
-  const remaining=Number((await page.locator('#pace-remaining').textContent()).replace(/\s/g,''));
-  assert.ok(remaining>0);
-  for(const time of ['2026-10-22T00:00:00+03:00','2026-10-22T23:58:00+03:00']){
-   await page.evaluate(t=>{window.testNow=t;},Date.parse(time));
-   await page.waitForTimeout(1100);
-   assert.equal(await page.locator('#pace-needed').textContent(),'Сегодня');
-   assert.equal(await page.locator('#pace-needed-detail').isVisible(),true);
-   assert.equal(await page.locator('#pace-needed').evaluate(e=>e.scrollWidth<=e.clientWidth),true,'Today fits the card');
-   await page.locator('#dynamics').screenshot({path:dir+'/'+width+'-today.png'});
-   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
-  }
-  assert.notEqual(await page.locator('#deadline-countdown-value').textContent(),'Дедлайн прошёл');
-  // Passing the historical deadline must not expire the current countdown or card.
-  await page.evaluate(t=>{window.testNow=t;},Date.parse('2026-10-21T23:59:00+03:00'));
-  await page.waitForTimeout(1100);
-  assert.equal(await page.locator('#pace-needed-label').textContent(),'Нужно в день');
-  assert.equal(await page.locator('#deadline-countdown-value').textContent(),'1д 0ч 0м');
-  assert.match(await page.locator('#pace-extension-note').textContent(),/Дедлайн продлён до 22 октября · \+4 дня/);
-  assert.equal(await page.locator('.pace-original-deadline-line').count(),1);
-  assert.equal(await page.locator('.pace-deadline-line').count(),1);
-  assert.match((await page.locator('#pace-needed').textContent()).replace(/\s/g,''),/^\d+$/);
-  const help=page.locator('.pace-help[aria-describedby="pace-needed-help"]');await help.focus();
-  assert.equal(await page.locator('#pace-needed-help').isVisible(),true);assert.match(await page.locator('#pace-needed-help').textContent(),/оценок в день/);
-  for(const offset of [0,86400000,7*86400000]){
-   await page.evaluate(t=>{window.testNow=t;},limit+offset);
-   await page.waitForTimeout(1100);
-   assert.equal(await page.locator('#pace-needed-label').textContent(),'До дедлайна');
-   assert.equal(await page.locator('#deadline-countdown-value').textContent(),'Дедлайн прошёл');
-   assert.equal(await page.locator('#pace-needed').textContent(),'Дедлайн прошёл');
-   assert.equal(await page.locator('#pace-needed-detail').isVisible(),false);
-  }
-  const labels=await page.locator('#pace-finish-chart').evaluate(svg=>[...svg.querySelectorAll('.pace-original-deadline-label,.pace-deadline-bottom,.pace-finish-date-tick')].map(n=>{const b=n.getBBox();return {x:b.x,y:b.y,w:b.width,h:b.height};}));
-  assert.equal(labels.length,3);
-  for(let i=0;i<labels.length;i++)for(const b of labels.slice(i+1)){const a=labels[i];assert.ok(a.y>=b.y+b.h||b.y>=a.y+a.h,'date labels do not overlap');}
-  const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);if(overflow){console.log('overflow',width,await page.evaluate(()=>[...document.querySelectorAll('#dynamics *')].filter(e=>e.getBoundingClientRect().right>innerWidth+1).map(e=>({tag:e.tagName,id:e.id,cls:e.className,right:e.getBoundingClientRect().right})).slice(0,20)));}assert.equal(overflow,false,'overflow at '+width);
-  const chartWidth=await page.locator('#pace-finish-chart').evaluate(e=>e.viewBox.baseVal.width);
-  for(const label of labels)assert.ok(label.x>=0&&label.x+label.w<=chartWidth,'label inside chart');
-  await page.locator('#dynamics').screenshot({path:dir+'/'+width+'-after.png'});
-  const fixtures=await page.evaluate(async limit=>{
-   const {createPacePage}=await import('/js/pace-page.js');
-   const {config}=await import('/js/config.js');
-   const DAY=86400000,results=[];window.testNow=limit-DAY;
-   for(const kind of ['equal','near','late','complete','zero','missing']){
-    window.testNow=['complete','zero','missing'].includes(kind)?limit+DAY:limit-DAY;
-    const asOf=limit-DAY+(kind==='near'?60000:0);
-    let events=Array.from({length:8},(_,i)=>({userId:String(i),judge:'A',t:asOf-(8-i)*DAY}));
-    if(kind==='zero')events=events.slice(0,1).map(e=>({...e,t:asOf-10*DAY}));
-    if(kind==='missing')events.push({userId:'missing',judge:'A'});
-    const people=Array(kind==='complete'?8:kind==='late'?50:9).fill({});
-    const fixture=document.querySelector('#dynamics').cloneNode(true);document.body.appendChild(fixture);
-    const $=id=>fixture.querySelector('#'+id)||document.getElementById(id);
-    createPacePage({D:{events,people,updated:new Date(asOf).toISOString(),byId:new Map()},config:{...config,scoresPerParticipant:1},$,fmt:(n,d=0)=>n.toLocaleString('ru-RU',{maximumFractionDigits:d}),attachChartTip:()=>{}});
-    const labels=[...$('pace-finish-chart').querySelectorAll('.pace-original-deadline-label,.pace-deadline-bottom,.pace-finish-date-tick')].map(n=>{const b=n.getBBox();return {y:b.y,h:b.height};});
-    results.push({kind,status:$('pace-verdict').textContent,caption:$('pace-status-caption').textContent,value:$('pace-needed').textContent,svg:$('pace-finish-chart').innerHTML,labels});
-    fixture.remove();
-   }
-   return results;
-  },limit);
-  for(const result of fixtures){
-   if(result.kind==='equal'){assert.equal(result.status,'Успевают. Со второго раза.');assert.match(result.caption,/Первоначальный дедлайн — 18 октября/);}
-   if(result.kind==='complete')assert.equal(result.status,'Успевают');
-   if(['zero','missing'].includes(result.kind))assert.equal(result.status,'Недостаточно данных');
-   assert.doesNotMatch(result.svg,/NaN|Infinity/);
-   if(result.kind==='complete')assert.equal(result.value,'Завершено');
-   else if(['zero','missing'].includes(result.kind))assert.equal(result.value,'Дедлайн прошёл');
-   else{assert.equal(result.labels.length,3);for(let i=0;i<result.labels.length;i++)for(const b of result.labels.slice(i+1)){const a=result.labels[i];assert.ok(a.y>=b.y+b.h||b.y>=a.y+a.h,result.kind+' labels');}}
-  }
-  await page.close();
- }
- assert.deepEqual(errors,[]);
- console.log('Deadline browser: boundary transition, day/week after, five widths, labels and overflow passed.');
-}finally{await browser.close();await new Promise(r=>server.close(r));}
+// RELEASE-HOTFIX-01: completed R1 uses actual history, not an obsolete forecast.
+// Deadline boundary/equal/late/zero/missing cases remain in pace-needed,
+// pace-deadline, pace-status and deadline-extension unit suites.
+import assert from 'node:assert/strict';import {chromium} from 'playwright';import {spawn} from 'node:child_process';import fs from 'node:fs';import {setHeaderLight} from './header-controls.mjs';
+const out='docs/release-hotfix-01/browser-charts',base='http://127.0.0.1:9294',results=[],errors=[],network=[];const server=spawn(process.execPath,['scripts/serve.mjs','--dir','dist','--port','9294']);let browser;
+fs.mkdirSync(out,{recursive:true});const check=(name,value,extra={})=>{results.push({name,pass:!!value,...extra});assert.equal(!!value,true,name+' '+JSON.stringify(extra));};
+try{await new Promise((r,j)=>{server.stdout.once('data',r);server.once('error',j)});browser=await chromium.launch();for(const width of [1440,1024,768,390,320]){let p=await browser.newPage({viewport:{width,height:900},hasTouch:width===390,reducedMotion:'reduce'});p.on('pageerror',e=>errors.push(e.message));p.on('response',r=>{if(r.status()>=400)network.push({url:r.url(),status:r.status()})});await p.route('**/*',r=>new URL(r.request().url()).origin===base?r.continue():r.abort());await p.goto(base+'/dynamics/?round=1');await p.locator('#carrot-loader').waitFor({state:'detached'});const tabs=await p.locator('[data-dynamics-tab]').evaluateAll(es=>es.map(e=>({id:e.dataset.dynamicsTab,text:e.textContent})));check('tabs',true,{width,tabs});for(const light of ['on','off']){await setHeaderLight(p,light);for(const {id}of tabs){await p.locator(`[data-dynamics-tab="${id}"]`).click();let report=p.locator('#int08-report-'+id);await report.scrollIntoViewIfNeeded();check('overflow',await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),{width,light,id});
+if(id==='0'){check('outcomes2218',/2\s?218/.test(await report.innerText()),{width,light});await p.locator('#r38-chart [data-tick]').last().focus();await p.keyboard.press('Enter');check('lastPass2218',(await p.locator('#r39-selected-pass').innerText()).replace(/\s/g,'')==='2218',{width,light});await p.locator('#r38-participants > summary').click();await p.locator('#r38-search').fill('Zippy');check('zippyPass',/Zippy/.test(await p.locator('#r38-list').innerText()),{width,light});await p.locator('#r38-participants > summary').click();}
+if(id==='1'){for(const mode of ['daily','cumulative']){await p.locator('#bp-'+mode).click();const svg=p.locator('#bp-pace-plot svg');await svg.focus();await p.keyboard.press('End');const tip=await p.locator('.pace-tooltip').innerText();check('paceTip',/октября 2026/.test(tip)&&/оценок/.test(tip),{width,light,mode,tip});if(mode==='cumulative')check('paceTotal',/16\s?380/.test(tip),{width,light});await report.screenshot({path:`${out}/pace-${mode}-${width}-${light}.png`});}}
+if(id==='2'){check('clockTotal',await p.locator('#bp-hour-dial').getAttribute('data-total')==='16380',{width,light});check('24hours',await p.locator('.clock-sector').count()===24,{width,light});const sector=p.locator('.clock-sector').first();await sector.focus();await p.keyboard.press('ArrowRight');await p.keyboard.press('Enter');check('clockSelect',/01:00/.test(await p.locator('.clock-selected-hour').innerText()),{width,light});await p.locator('#bp-hour-judge-trigger').click();check('customSelect',await p.locator('[role=option]:visible').count()>=22,{width,light});await p.locator('[role=option]:visible').filter({hasText:'Игорь Кедо'}).click();check('judgeChanged',/Игорь Кедо/.test(await p.locator('#bp-hour-judge-trigger').innerText()),{width,light});await p.locator('#bp-hour-judge-trigger').click();await p.locator('[role=option]:visible').filter({hasText:'Все судьи'}).click();}
+if(id==='3'){for(const group of ['all','forum','veterans']){await p.locator(`[data-sd-group=${group}]`).click();check('21bins',await p.locator('[data-sd-bin]').count()===21,{width,light,group});await p.locator('[data-sd-model]').click();await p.locator('[data-sd-bin="15"]').focus();await p.keyboard.press('End');check('bin25',/25 баллов/.test(await p.locator('#sd-selected-score').innerText()),{width,light,group});check('model21',await p.locator('.sd-model-bar').count()===21,{width,light,group});await p.locator('[data-sd-model]').click();}await p.locator('[data-sd-group=all]').click();await p.locator('[data-sd-bin="15"]').focus();}
+await report.screenshot({path:`${out}/report-${id}-${width}-${light}.png`});}}
+await p.goto(base+'/judges/?round=1');await p.locator('#carrot-loader').waitFor({state:'detached'});await p.locator('[data-judge-research-tab="4"]').click();for(const light of ['on','off']){await setHeaderLight(p,light);check('speedRows20',await p.locator('.speedsters-table tbody tr').count()===20,{width,light});await p.locator('#int09-panel-4').screenshot({path:`${out}/speed-${width}-${light}.png`});}await p.locator('.speedsters-name').first().focus();await p.keyboard.press('Enter');await p.locator('#judge-profile').waitFor({state:'visible'});check('speedProfile',true,{width});await p.close();}
+const p=await browser.newPage({viewport:{width:1280,height:600}});await p.goto(base+'/dynamics/?round=1');await p.locator('#carrot-loader').waitFor({state:'detached'});await p.locator('[data-dynamics-tab="2"]').click();await p.locator('#bp-hour-dial').evaluate(e=>scrollTo(0,e.getBoundingClientRect().top+scrollY-100));const b=await p.locator('#bp-hour-dial').boundingBox();check('lowHeightClock',b.y+b.height<=600,{box:b});await p.screenshot({path:out+'/clock-1280x600.png'});await p.close();
+assert.deepEqual(errors,[]);assert.deepEqual(network,[]);console.log('PASS current dynamics: five widths, both lights, exact outcomes, daily/cumulative tooltips, clock, distribution and speed profiles');
+}finally{fs.writeFileSync(out+'/results.json',JSON.stringify({results,errors,network},null,2));await browser?.close();server.kill();}

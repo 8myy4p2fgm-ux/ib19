@@ -1,0 +1,23 @@
+{
+  "kind": "Immutable existing R1 files; no score or methodology recalculation",
+  "source": "docs/data-candidates/r1-2026-10-22-194208",
+  "files": {
+    "data/19ib_all_judges_REPAIRED.json": "59d645ee2ebb8c36f9f8d4e863ef425de84a65ec738dae0067105c80965741e0",
+    "data/forum_judges_export.json": "6bdb7a02225e44ea894601c83cf0798b2bc967140bee8404f562d05cc6d9a81e",
+    "data/metadata.json": "23c966a0fac1fac40e6858aa2a6e48eab12c4ca1a0fafe6c9fabec5d3809ab42",
+    "data/history.json": "92d78c54e06f2bae057f06e993761c370d2e97f95d26c3ad53377578f8915854",
+    "data/forum.csv": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+    "docs/data-candidates/r1-2026-10-22-194208/19ib_all_judges_REPAIRED.json": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3",
+    "docs/data-candidates/r1-2026-10-22-194208/forum_judges_export.json": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd",
+    "docs/data-candidates/r1-2026-10-22-194208/metadata.json": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760",
+    "docs/data-candidates/r1-2026-10-22-194208/history.json": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00",
+    "docs/data-candidates/r1-2026-10-22-194208/comparison-report.json": "5a7aec0575b4f75bf3bc8d6369c83266e150475142d7c5be31aadca723ff5cea",
+    "docs/data-candidates/r1-2026-10-22-194208/manifest.json": "b85eee0f71f5042f2a063466a042429fcdd78e4f74d60b7bdb7cdeaaf455dfb9",
+    "docs/data-candidates/r1-2026-10-22-194208/forum.csv": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a",
+    "js/r1-official-policy.js": "b5999fd8c6ad0f98a0a7f17f42e01249328c4b8e234856da20cb1a1e9daf5da5",
+    "js/r1-fixed-contract.js": "b792fe4edc32309dc5339b0b4f6361389af53b9d5c6bac1af0296e3cbecc0c81",
+    "js/general.js": "4ff10364d0e4b7efc73f3ff087da49ef68a16ed972dfb58b94ce86b67bbf2313",
+    "js/calculations.js": "68411d94b06f4a48caeedc6008817fbecbd776dfcf9daaf7d20e1ebe8338ccd9",
+    "js/personal.js": "b13bd14952cdf47984d45b2f3ce4ce7039d319ac53036bd47ac1f94980d97ee0"
+  }
+}

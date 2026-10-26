@@ -1,0 +1,1125 @@
+/* GAP-01: original V49, V50, V47 report surfaces; application tokens below. */
+/* TUZ19 V49 · Judges' Matchmaker: calm graphite, editorial rose, full-width feature */
+#judges .jr-report[data-report-mode="2"]{padding:22px 24px!important}
+#judges .jr-report[data-report-mode="2"] .jr-title{margin-bottom:15px}
+#judges .jr-report[data-report-mode="2"] .jr-title h2{font-size:26px!important}
+#judges .jr-report[data-report-mode="2"] .jr-title p{font-size:13px!important}
+#judges .jr-report[data-report-mode="2"] .rpt-method-trigger{color:#abb8ae!important}
+#judges .v49-match-hero,#judges .v49-rank-section,#judges .v49-breakdown{font-family:inherit;box-sizing:border-box}
+#judges .v49-match-hero * ,#judges .v49-rank-section *,#judges .v49-breakdown *{box-sizing:border-box}
+#judges .v49-match-hero{position:relative;isolation:isolate;width:100%;max-width:100%;background:linear-gradient(155deg,rgba(48,41,44,.82),rgba(33,34,37,.98) 58%,rgba(28,31,33,.96));border:1px solid rgba(202,166,174,.26);border-radius:16px;padding:22px 28px 23px;overflow:hidden;min-height:385px;box-shadow:none;color:#eef0eb;scroll-margin-top:100px}
+#judges .v49-match-hero::before{position:absolute;inset:-90px auto auto 39%;width:27%;height:200px;background:radial-gradient(ellipse,rgba(196,125,146,.12),transparent 72%);pointer-events:none;content:'';z-index:-1}
+#judges .v49-match-top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+#judges .v49-match-eyebrow{color:#d1a7b3;font-size:11px;font-weight:700;letter-spacing:.10em;text-transform:uppercase}
+#judges .v49-match-position{color:#a8ada9;font-size:11px;font-variant-numeric:tabular-nums}
+#judges .v49-couple{display:grid;grid-template-columns:minmax(0,1fr) minmax(170px,.95fr) minmax(0,1fr);align-items:center;gap:12px;margin:20px 0 15px}
+#judges .v49-person{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;min-width:0;gap:7px}
+#judges .v49-avatar{display:grid;place-items:center;width:76px;height:76px;border:1px solid rgba(209,214,209,.27);border-radius:50%;background:linear-gradient(160deg,#424244,#2c3032);font-size:24px;color:#f1efed;font-weight:730;letter-spacing:-.03em}
+#judges .v49-person strong{font-size:clamp(15px,1.8vw,21px);line-height:1.21;color:#f2f1ed;overflow-wrap:anywhere;max-width:100%}
+#judges .v49-person>span{font-size:11px;color:#a5a8a4}
+#judges .v49-match-heart{text-align:center;display:flex;flex-direction:column;align-items:center;gap:4px;white-space:nowrap;min-width:0}
+#judges .v49-match-heart>span{font-size:24px;letter-spacing:.08em;line-height:1;color:#d79eaa}
+#judges .v49-match-heart strong{font-size:clamp(43px,5vw,67px);line-height:1.1;color:#f2f1eb;font-weight:750;letter-spacing:-.055em;font-variant-numeric:tabular-nums}
+#judges .v49-match-heart small{font-size:12px;color:#b9b6b6;white-space:normal}
+#judges .v49-quote{text-align:center;margin:5px auto 17px;max-width:680px}
+#judges .v49-quote>span{display:inline-block;color:#d7aab7;font-size:10px;font-weight:750;letter-spacing:.14em}
+#judges .v49-quote p{margin:7px 0 0!important;font-size:clamp(15px,1.5vw,19px)!important;line-height:1.38;color:#f2eded!important;font-weight:640}
+#judges .v49-pair-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));max-width:780px;margin:0 auto 17px;padding:14px 0;border-top:1px solid rgba(204,199,197,.12);border-bottom:1px solid rgba(204,199,197,.12);gap:10px}
+#judges .v49-pair-facts>div{display:flex;align-items:center;justify-content:center;flex-direction:column;text-align:center;min-width:0;gap:3px}
+#judges .v49-pair-facts strong{font-size:clamp(18px,2vw,24px);line-height:1.2;color:#ebebe6;font-variant-numeric:tabular-nums}
+#judges .v49-pair-facts span{font-size:11px;color:#b0b4af;line-height:1.3}
+#judges .v49-hero-actions{display:flex;justify-content:center;gap:10px;align-items:center}
+#judges .v49-btn{border:1px solid rgba(206,211,207,.24);background:rgba(57,58,60,.55);border-radius:8px;padding:11px 15px;color:#eeeee9;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;line-height:1.3;box-shadow:none;text-shadow:none;transition:background .14s,border-color .14s}
+#judges .v49-btn:hover:not(:disabled){background:rgba(87,84,87,.63);border-color:rgba(224,224,217,.47)}
+#judges .v49-btn:focus-visible{outline:2px solid #d9a9b5;outline-offset:2px}
+#judges .v49-btn:disabled{opacity:.34;cursor:default}
+#judges .v49-match-explain{display:flex;gap:12px;align-items:baseline;margin:11px 0 21px;padding:0 4px;color:#a5afa8;font-size:11px;line-height:1.55}
+#judges .v49-match-explain strong{white-space:nowrap;color:#c7c8c2;font-weight:650}
+#judges .v49-rank-section{border:1px solid rgba(200,207,201,.17);background:rgba(39,41,43,.7);border-radius:12px;padding:20px 20px 16px}
+#judges .v49-rank-head{display:flex;justify-content:space-between;align-items:start;gap:14px;flex-wrap:wrap;margin-bottom:12px}
+#judges .v49-rank-head h3{margin:0 0 4px!important;font-size:22px!important;line-height:1.2;color:#f0f1ec}
+#judges .v49-rank-head p{margin:0;color:#acb4ad;font-size:12px}
+#judges .v49-quick{display:flex;gap:7px;flex-wrap:wrap}
+#judges .v49-quick .v49-btn{padding:9px 12px;font-size:11px}
+#judges .v49-match-filters{display:flex;align-items:center;gap:8px 10px;flex-wrap:wrap;padding:12px 13px;background:rgba(22,24,26,.52);border:1px solid rgba(200,207,201,.13);border-radius:9px;margin-bottom:11px}
+#judges .v49-filter-label{font-size:11px;color:#b0b8b1}
+#judges .v49-select{min-height:38px;max-width:240px;min-width:128px;background:#323437;color:#eceeea;border:1px solid rgba(197,204,198,.25);border-radius:8px;padding:7px 11px;font:12px inherit;cursor:pointer}
+#judges .v49-check{display:inline-flex;align-items:center;gap:7px;color:#b8c1b8;font-size:11px;margin-left:auto;cursor:pointer}
+#judges .v49-check input{accent-color:#b4acb2}
+#judges .v49-rank-list{display:grid;gap:5px}
+#judges .v49-rank-row{display:grid;grid-template-columns:33px minmax(0,1fr) 82px 18px;gap:10px;align-items:center;text-align:left;width:100%;min-height:64px;padding:10px 12px;background:rgba(31,33,35,.45);border:1px solid rgba(199,205,200,.10);border-radius:8px;color:#e8ebe6;cursor:pointer;font-family:inherit;box-shadow:none}
+#judges .v49-rank-row:hover{background:rgba(65,65,67,.76);border-color:rgba(199,205,200,.29)}
+#judges .v49-rank-row.selected{background:rgba(65,57,61,.62);border-color:rgba(214,167,182,.47)}
+#judges .v49-rank-row:focus-visible{outline:2px solid #d3a9b6;outline-offset:2px}
+#judges .v49-rank-number{font-size:11px;color:#aaa5a5;font-variant-numeric:tabular-nums;text-align:center}
+#judges .v49-rank-names{display:flex;flex-direction:column;min-width:0;gap:3px}
+#judges .v49-rank-names strong{font-size:13px;line-height:1.3;color:#edeeea;overflow-wrap:anywhere}
+#judges .v49-rank-names strong span{color:#c88f9e;padding:0 2px}
+#judges .v49-rank-names small{font-size:10px;color:#a6ada6;line-height:1.35}
+#judges .v49-rank-score{text-align:right;color:#e6c0c9;font-variant-numeric:tabular-nums;font-size:19px;font-weight:700}
+#judges .v49-rank-arrow{font-size:14px;color:#9ba19b}
+#judges .v49-rank-pager{display:flex;justify-content:center;align-items:center;gap:14px;padding-top:15px}
+#judges .v49-rank-pager>span{font-size:11px;color:#b1b8b0;font-variant-numeric:tabular-nums}
+#judges .v49-rank-pager .v49-btn{padding:8px 11px}
+#judges .v49-empty{padding:15px;color:#afb8af;font-size:13px}
+#judges .v49-breakdown{margin-top:15px;border:1px solid rgba(199,205,200,.15);background:rgba(38,40,42,.52);border-radius:11px;padding:0}
+#judges .v49-breakdown summary{cursor:pointer;list-style:none;padding:17px 19px;font-size:14px;font-weight:650;color:#e5e7e2}
+#judges .v49-breakdown summary::-webkit-details-marker{display:none}
+#judges .v49-breakdown summary::after{content:'⌄';float:right;color:#c0c7bf}
+#judges .v49-breakdown[open] summary::after{content:'⌃'}
+#judges .v49-breakdown summary span{font-size:11px;font-weight:400;color:#b7beb6}
+#judges .v49-breakdown-content{border-top:1px solid rgba(199,205,200,.12);padding:17px 20px}
+#judges .v49-breakdown-intro{display:flex;gap:8px;flex-direction:column;margin-bottom:12px;font-size:12px;color:#b8c0b8}
+#judges .v49-breakdown-intro b{color:#e0e5de;font-size:13px}
+#judges .v49-breakdown-content .jr-common{margin:0 auto;max-width:360px}
+#judges .v49-disclaimer{font-size:11px;line-height:1.55;color:#9daaa0;margin:14px 2px 0}
+@media(max-width:760px){
+ #judges .jr-report[data-report-mode="2"]{padding:13px 12px!important}
+ #judges .v49-match-hero{padding:17px 14px;min-height:0;border-radius:12px}
+ #judges .v49-couple{grid-template-columns:minmax(0,1fr) 116px minmax(0,1fr);gap:5px;margin:19px 0 17px}
+ #judges .v49-avatar{width:54px;height:54px;font-size:18px}
+ #judges .v49-person strong{font-size:13px}
+ #judges .v49-match-heart>span{font-size:19px}
+ #judges .v49-match-heart strong{font-size:clamp(31px,7.2vw,44px)}
+ #judges .v49-match-heart small{font-size:10px}
+ #judges .v49-pair-facts{gap:8px}
+ #judges .v49-pair-facts span{font-size:10px}
+ #judges .v49-rank-section{padding:14px 12px}
+ #judges .v49-rank-head h3{font-size:20px!important}
+ #judges .v49-match-filters{padding:11px}
+ #judges .v49-check{margin-left:0;width:100%}
+ #judges .v49-match-explain{display:block}
+ #judges .v49-match-explain strong{display:block;margin-bottom:3px}
+}
+@media(max-width:390px){
+ #judges .v49-couple{grid-template-columns:minmax(0,1fr) 98px minmax(0,1fr);gap:2px}
+ #judges .v49-avatar{width:48px;height:48px;font-size:16px}
+ #judges .v49-person strong{font-size:12px}
+ #judges .v49-match-heart strong{font-size:31px}
+ #judges .v49-match-heart>span{font-size:16px}
+ #judges .v49-rank-row{grid-template-columns:22px minmax(0,1fr) 63px;gap:6px;padding:10px 8px}
+ #judges .v49-rank-arrow{display:none}
+ #judges .v49-rank-score{font-size:15px}
+ #judges .v49-rank-names strong{font-size:11px}
+ #judges .v49-rank-names small{font-size:9px}
+ #judges .v49-hero-actions .v49-btn{font-size:11px;padding:10px 9px}
+ #judges .v49-match-top{gap:5px}
+ #judges .v49-match-eyebrow{font-size:9px}
+ #judges .v49-quote p{font-size:15px!important}
+ #judges .v49-breakdown summary span{display:block;margin-top:3px}
+}
+
+/* V50 - dissent report; scoped to this report only */
+#judges .jr-report[data-report-mode="3"]{--gap-bg:rgba(38,40,41,.74);--gap-border:rgba(180,187,185,.19);--gap-ink:#e9eae7;--gap-muted:#aab3ae}
+#judges .ds-switch{display:flex;gap:8px;margin:18px 0 20px}
+#judges .ds-tab,#judges .ds-gap-filters button{border:1px solid var(--gap-border);border-radius:9px;background:rgba(42,44,45,.65);color:#c4cbc6;padding:10px 17px;cursor:pointer;font:inherit;font-size:14px}
+#judges .ds-tab.is-active,#judges .ds-gap-filters button.is-active{background:rgba(25,27,28,.91);border-color:#b5bcb8;color:white}
+#judges .ds-layout{display:grid;grid-template-columns:minmax(260px,.83fr) minmax(0,1.5fr);gap:14px;align-items:start}
+#judges .ds-panel{background:var(--gap-bg);border:1px solid var(--gap-border);border-radius:12px;padding:20px;min-width:0}
+#judges .ds-panel h3{margin:0 0 9px;font-size:20px;color:var(--gap-ink)}
+#judges .ds-muted,#judges .ds-panel p{color:var(--gap-muted);font-size:12px;line-height:1.5}
+#judges .ds-rank-list{display:grid;gap:5px;max-height:570px;overflow:auto;margin-top:16px}
+#judges .ds-rank,#judges .ds-track-row{width:100%;border:1px solid transparent;border-radius:8px;background:rgba(63,66,67,.30);padding:11px 12px;color:#e1e5e1;text-align:left;display:flex;gap:12px;align-items:center;cursor:pointer;font:inherit;font-size:13px}
+#judges .ds-rank:hover,#judges .ds-track-row:hover{background:rgba(78,82,83,.46)}
+#judges .ds-rank.is-active,#judges .ds-track-row.is-active{background:rgba(85,89,91,.37);border-color:rgba(198,203,201,.53)}
+#judges .ds-place{color:#9da6a1;width:22px;flex:none}
+#judges .ds-rank-name{min-width:0;flex:1}
+#judges .ds-rank strong,#judges .ds-track-row strong{font-size:13px;white-space:nowrap}
+#judges .ds-rank-track{display:block;height:4px;border-radius:5px;background:#3b4040;margin-top:7px;overflow:hidden}
+#judges .ds-rank-track i{display:block;height:100%;background:#a7a2b9}
+#judges .ds-method{display:flex;align-items:center;gap:10px;margin-bottom:16px;font-size:13px;color:#b9c1bc}
+#judges .ds-method select{padding:9px 13px;border-radius:8px;background:#292c2c;border:1px solid #505554;color:#e4e8e4;max-width:100%}
+#judges .ds-detail-head{display:flex;justify-content:space-between;align-items:start;gap:12px}
+#judges .ds-eyebrow{color:#aeb6b0;font-size:11px;text-transform:uppercase;letter-spacing:.08em}
+#judges .ds-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:18px 0 22px;padding:15px;background:rgba(25,27,28,.5);border-radius:10px}
+#judges .ds-metrics>div{min-width:0}
+#judges .ds-metrics strong{display:block;font-size:clamp(15px,2vw,22px);color:#f1f1ed;line-height:1.2}
+#judges .ds-metrics span{display:block;margin-top:6px;color:#aab3ae;font-size:11px}
+#judges .ds-case-title{display:flex;justify-content:space-between;gap:10px;align-items:center}
+#judges .ds-case-title h3{font-size:16px}
+#judges .ds-cases{display:grid;gap:9px}
+#judges .ds-case{border:1px solid rgba(180,187,185,.12);border-radius:9px;padding:13px;background:rgba(32,35,35,.48)}
+#judges .ds-case-top,#judges .ds-case-caption{display:flex;justify-content:space-between;gap:10px;align-items:center}
+#judges .ds-case-top button{border:0;background:none;color:#e8eae5;font:inherit;font-weight:600;text-align:left;cursor:pointer}
+#judges .ds-case-top strong{font-size:12px;color:#d1a6a7;white-space:nowrap}
+#judges .ds-case-caption{color:#abb4af;font-size:11px;margin-top:10px}
+#judges .ds-scale{position:relative;height:25px;margin:12px 10px 0}
+#judges .ds-scale-line{position:absolute;top:11px;left:0;right:0;height:2px;background:#596061}
+#judges .ds-scale-bridge{position:absolute;top:10px;height:4px;background:#b8a2b8;border-radius:4px}
+#judges .ds-dot{position:absolute;top:5px;width:15px;height:15px;border-radius:50%;transform:translateX(-50%);border:2px solid #252829}
+#judges .ds-dot-peer{background:#b3b9ba}
+#judges .ds-dot-judge{background:#d3a27b;top:3px}
+#judges .ds-dispute-heading{margin:4px 0 15px}
+#judges .ds-dispute-heading h3{font-size:19px;margin:0 0 5px}
+#judges .ds-gap-filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:17px}
+#judges .ds-gap-filters span{opacity:.65;margin-left:8px}
+#judges .ds-track-row{justify-content:space-between}
+#judges .ds-track-row span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#judges .ds-score-dots{display:grid;grid-template-columns:repeat(5,1fr);gap:5px;margin:20px 0}
+#judges .ds-score-dots>div{background:rgba(72,76,77,.28);border:1px solid rgba(178,186,183,.12);border-radius:8px;min-height:80px;padding:9px 4px;text-align:center}
+#judges .ds-score-dots small{display:block;color:#aeb5b0;margin-bottom:8px}
+#judges .ds-score-dots span{display:flex;flex-direction:column;align-items:center;gap:4px}
+#judges .ds-score-dots i{width:13px;height:13px;border-radius:50%;background:#c1a0a8}
+#judges .ds-votes{display:grid;gap:0}
+#judges .ds-votes>div{display:flex;justify-content:space-between;gap:10px;border-bottom:1px solid rgba(190,190,190,.11);padding:10px 0;font-size:13px}
+#judges .ds-votes strong{font-size:16px}
+#judges .ds-artist-link{display:inline-block;color:#d4c4ac;margin-top:14px}
+#judges .ds-pager{display:flex;align-items:center;justify-content:center;gap:16px;margin-top:12px;color:#b7bfba}
+#judges .ds-pager button{padding:7px 12px;border:1px solid #515656;border-radius:7px;background:#303333;color:white;cursor:pointer}
+@media(max-width:720px){#judges .ds-layout{grid-template-columns:minmax(0,1fr)}#judges .ds-panel{padding:15px}#judges .ds-rank-list{max-height:300px}#judges .ds-metrics{gap:8px;padding:12px}#judges .ds-metrics strong{font-size:16px}#judges .ds-metrics span{font-size:10px}#judges .ds-tab{flex:1;padding:10px 6px;font-size:12px}#judges .ds-case-top{align-items:start}#judges .ds-case-top strong{white-space:normal;text-align:right}}
+
+/* V51 — quiet editorial refinement, scoped to the existing dissent report */
+#judges .ds-switch{margin:12px 0 14px}
+#judges .ds-advanced{font-size:12px;color:#aab3ae;margin:0 0 14px;border-bottom:1px solid rgba(180,187,185,.13);padding:0 0 10px}
+#judges .ds-advanced summary{cursor:pointer;list-style:none;width:max-content;max-width:100%;color:#b7c0b9}
+#judges .ds-advanced summary::-webkit-details-marker{display:none}
+#judges .ds-advanced summary span{font-size:12px;color:#c1a78e}
+#judges .ds-advanced[open]{background:rgba(37,39,40,.68);padding:12px 14px;border:1px solid rgba(180,187,185,.16);border-radius:9px}
+#judges .ds-advanced p{max-width:75ch;line-height:1.65;margin:10px 0}
+#judges .ds-advanced label{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:12px}
+#judges .ds-advanced select{background:#292c2c;color:#eee;border:1px solid #555b58;border-radius:7px;padding:8px;max-width:100%}
+#judges .ds-layout{grid-template-columns:minmax(245px,.88fr) minmax(0,1.5fr);gap:12px}
+#judges .ds-panel{padding:17px 18px}
+#judges .ds-panel h3{font-size:17px}
+#judges .ds-rank-list{margin-top:12px;max-height:505px}
+#judges .ds-rank{padding:9px 10px}
+#judges .ds-feature{display:flex;gap:20px;align-items:center;border-block:1px solid rgba(181,187,184,.15);margin:14px 0 18px;padding:16px 0}
+#judges .ds-feature>div{flex:0 0 42%}
+#judges .ds-feature strong{display:block;font-size:clamp(28px,3vw,39px);font-weight:720;line-height:1.08;letter-spacing:-.04em;color:#e1b19c}
+#judges .ds-feature strong small{font-size:13px;font-weight:500;letter-spacing:0;color:#aab3ae}
+#judges .ds-feature span{font-size:11px;color:#b4bdb5}
+#judges .ds-feature p{font-size:12px;line-height:1.55;color:#d1d5d0;margin:0}
+#judges .ds-case-title{margin-bottom:10px}
+#judges .ds-case-title .ds-muted{display:flex;align-items:center;gap:4px}
+#judges .ds-legend-dot{display:inline-block;width:9px;height:9px;border-radius:50%;vertical-align:middle}
+#judges .ds-legend-judge{background:#d3a27b}
+#judges .ds-legend-peer{background:#b3b9ba}
+#judges .ds-case{padding:11px 13px}
+#judges .ds-case-top button{font-size:13px}
+#judges .ds-case-top strong{font-weight:600}
+#judges .ds-more{width:100%;background:rgba(50,53,54,.5);border:1px solid rgba(185,190,188,.19);color:#e4e6e3;border-radius:9px;padding:12px;cursor:pointer;font:inherit;font-size:12px;margin-top:12px}
+#judges .ds-more:hover{background:rgba(69,72,72,.65)}
+#judges .ds-dispute-heading{margin:0 0 13px}
+#judges .ds-dispute-heading h3{font-size:17px}
+#judges .ds-dispute-heading p{font-size:12px;color:#aab3ae;margin:0}
+#judges .ds-gap-filters button{padding:8px 12px;font-size:12px}
+#judges .ds-score-dots{gap:7px;margin:14px 0 7px}
+#judges .ds-score-dots>div{min-height:78px;padding:10px 5px;border:1px solid rgba(178,186,183,.16);background:rgba(60,63,64,.25)}
+#judges .ds-score-dots>div.ds-has-votes{background:rgba(166,130,128,.18);border-color:rgba(199,153,148,.30)}
+#judges .ds-score-dots small{font-size:13px;color:#c0c5c0}
+#judges .ds-score-dots span{display:block;color:#737b78;font-size:19px;line-height:30px}
+#judges .ds-score-dots b{display:inline-flex;align-items:center;justify-content:center;width:31px;height:31px;border-radius:50%;background:#bc9697;color:#1d2020;font-size:15px;font-weight:750}
+#judges .ds-chart-caption{font-size:11px!important;color:#aeb5b0;text-align:center;margin:0 0 16px}
+#judges .ds-track-hint{font-size:12px!important;color:#bdc3bd;margin:15px 0 0}
+#judges .ds-votes{margin-top:14px;border-top:1px solid rgba(190,190,190,.11)}
+#judges .ds-votes>div{padding:8px 0}
+#judges .ds-votes strong{color:#e0b9a3}
+@media(max-width:720px){#judges .ds-layout{grid-template-columns:minmax(0,1fr)}#judges .ds-panel{padding:14px}#judges .ds-feature{gap:10px}#judges .ds-feature>div{flex-basis:45%}#judges .ds-feature strong{font-size:28px}#judges .ds-feature p{font-size:11px}#judges .ds-rank-list{max-height:250px}#judges .ds-case-title{align-items:start}#judges .ds-case-title .ds-muted{font-size:10px}#judges .ds-score-dots{gap:4px}#judges .ds-score-dots>div{padding:8px 2px;min-height:65px}#judges .ds-score-dots b{width:25px;height:25px;font-size:13px}}
+
+.sd-main{color:#E9EBE7;font-family:inherit;min-width:0}
+.sd-main *{box-sizing:border-box}
+.sd-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:0 0 15px}
+.sd-heading h2{font-size:clamp(23px,2.1vw,27px);line-height:1.17;margin:0 0 5px;letter-spacing:-.025em;font-weight:650}
+.sd-heading p{margin:0;font-size:13px;color:#A8AEA8}
+.sd-method{border:0;background:none;padding:8px 0;color:#B9C2BB;font-size:12px;cursor:pointer;white-space:nowrap}
+.sd-method:hover{color:#F0F1EF}
+.sd-frame{background:var(--v47-background);border:1px solid var(--v47-outline);border-radius:12px;padding:clamp(16px,2.1vw,23px)}
+.sd-upper{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:17px}
+.sd-groups,.sd-choice{display:inline-flex;align-items:center;gap:4px;padding:4px;border:1px solid rgba(201,204,200,.15);background:rgba(25,27,29,.68);border-radius:9px}
+.sd-groups button,.sd-choice button{min-height:35px;padding:8px 13px;border-radius:6px;border:1px solid transparent;white-space:nowrap;color:#B8C0BA;background:transparent;cursor:pointer;font-size:12px}
+.sd-groups button:hover,.sd-choice button:hover{background:rgba(68,70,71,.64);color:#EFEFEB}
+.sd-groups button[aria-pressed="true"],.sd-choice button[aria-pressed="true"]{background:rgba(56,58,59,.92);color:#F5F5F1;border-color:rgba(211,214,209,.48);box-shadow:none}
+.sd-snapshot{font-size:11px;color:#9BA39D}
+.sd-takeaway{display:grid;grid-template-columns:1.25fr 1fr .85fr 1fr;gap:16px;padding:3px 0 20px;border-bottom:1px solid rgba(193,199,192,.14);align-items:end}
+.sd-takeaway>div{min-width:0}
+.sd-takeaway-main{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px}
+.sd-overline{flex-basis:100%;color:#A5B0A7;font-size:12px;margin-bottom:4px}
+.sd-takeaway-main strong{font-size:clamp(28px,3vw,39px);line-height:1;letter-spacing:-.035em;color:#E9EAE6;font-variant-numeric:tabular-nums}
+.sd-takeaway-main>span:last-child{color:#B9C2B9;font-size:12px}
+.sd-stat{display:flex;flex-direction:column;gap:6px}
+.sd-stat span{color:#ABB5AB;font-size:11px}
+.sd-stat strong{font-size:clamp(19px,2vw,25px);font-weight:630;line-height:1.18;letter-spacing:-.016em;font-variant-numeric:tabular-nums}
+.sd-toolstrip{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:18px}
+.sd-toolstrip h3{margin:0;font-size:16px;letter-spacing:-.012em;font-weight:620}
+.sd-chartbox{width:100%;margin-top:12px;overflow:hidden}
+.sd-chartbox svg{display:block;width:100%;height:auto;max-height:330px;touch-action:pan-y;font-family:inherit}
+.sd-chartbox svg text{font-family:inherit;fill:#9FA9A0;font-size:12px}
+.sd-chartbox svg .sd-grid{stroke:rgba(159,171,162,.24);stroke-dasharray:3 6}
+.sd-chartbox svg .sd-low{fill:#C3878E;opacity:.85}
+.sd-chartbox svg .sd-high{fill:#91ABB9;opacity:.85}
+.sd-chartbox svg .sd-selected-bar{stroke:rgba(237,237,229,.92);stroke-width:2;opacity:1}
+.sd-chartbox svg .sd-threshold{stroke:#C6A077;stroke-dasharray:5 5;stroke-width:1.5}
+.sd-chartbox svg .sd-threshold-label{fill:#D3B18B;font-size:11px}
+.sd-chartbox svg .sd-model-line{fill:none;stroke:#D3B18B;stroke-width:2.4;stroke-linejoin:round;stroke-linecap:round}
+.sd-chartbox svg .sd-hit{fill:transparent;cursor:pointer}
+.sd-chartbox svg .sd-hit:focus-visible{fill:rgba(255,255,255,.07);outline:none;stroke:#C3C9C2;stroke-width:1}
+.sd-legend{display:flex;align-items:center;flex-wrap:wrap;gap:19px;color:#BBC3BC;font-size:12px;margin:0 0 13px}
+.sd-legend>span{display:inline-flex;gap:7px;align-items:center}
+.sd-key{display:inline-block;width:12px;height:4px;border-radius:2px}
+.sd-key-low{background:#C3878E}.sd-key-high{background:#91ABB9}
+.sd-normal{display:inline-flex;align-items:center;gap:8px;margin-left:auto;cursor:pointer;color:#B8C1B9}
+.sd-normal input{accent-color:#9A9C9D}
+.sd-selection{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;padding:14px 16px;background:rgba(22,24,26,.47);border:1px solid rgba(196,202,193,.13);border-radius:9px;color:#AEB8B0;font-size:13px}
+.sd-selection strong{color:#F0F1ED;font-size:18px;font-weight:650;font-variant-numeric:tabular-nums}
+.sd-selection #sd-selected-score{font-weight:620;color:#E3E6E1}
+.sd-selection #sd-selected-model{font-size:12px}
+.sd-foot{margin:12px 0 0;color:#8F9B92;font-size:11px;line-height:1.45}
+.sd-dialog{width:min(540px,calc(100vw - 30px));max-height:85vh;overflow:auto;color:#E9EBE6;background:#202325;border:1px solid rgba(214,218,210,.25);border-radius:12px;padding:23px;line-height:1.6}
+.sd-dialog::backdrop{background:rgba(0,0,0,.72)}
+.sd-dialog h2{margin:0 0 13px;font-size:22px}.sd-dialog p{font-size:13px;color:#B9C4BA}
+.sd-dialog button{float:right;cursor:pointer;background:#333639;color:#F0F1EF;border:1px solid rgba(210,215,209,.38);border-radius:7px;padding:9px 15px}
+.sd-dialog button:hover{background:#4C4F51}
+.sd-main button:focus-visible,.sd-main input:focus-visible{outline:2px solid rgba(222,225,220,.67);outline-offset:2px}
+@media(max-width:820px){.sd-takeaway{grid-template-columns:repeat(2,minmax(0,1fr));gap:15px 20px}.sd-takeaway-main{grid-row:auto}}
+@media(max-width:680px){body[data-round="1"] .r40-report .r38-tabs{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}body[data-round="1"] .r40-report .r38-tab{min-height:47px;font-size:12px;padding:8px 8px}.sd-upper{align-items:flex-start}.sd-heading{align-items:flex-start}.sd-heading h2{font-size:22px}.sd-takeaway{gap:13px}.sd-frame{padding:14px}.sd-groups{width:100%;justify-content:space-between}.sd-groups button{padding:8px 9px;flex:1 1 0}.sd-snapshot{width:100%}.sd-toolstrip h3{font-size:15px}.sd-choice{width:100%}.sd-choice button{flex:1 1 0}.sd-normal{margin-left:0}.sd-selection{padding:12px;gap:6px 15px}.sd-chartbox svg{min-height:185px}}
+@media(max-width:360px){.sd-heading{display:block}.sd-heading .sd-method{margin-top:5px}.sd-groups button{font-size:11px;padding:8px 4px}}
+/* Bind original report components to the accepted single palette and geometry. */
+body.shell-r1 :is(#judges,#forum-link,#dynamics) {--v47-background:var(--ds-inner);--v47-outline:var(--ds-rule);--v47-strong:var(--ds-muted)}
+body.shell-r1 #judges .jr-report[data-report-mode="3"] {--gap-bg:var(--ds-inner);--gap-border:var(--ds-rule);--gap-ink:var(--ds-text);--gap-muted:var(--ds-muted)}
+body.shell-r1 .main :is(#judges,#forum-link,#dynamics) :is(.sd-frame,.ds-panel,.v49-rank-section,.v49-breakdown,.jr-component-card,.bp-ranking) {background:var(--ds-inner);border-color:var(--ds-rule);min-width:0}
+body.shell-r1 .main :is(#judges,#forum-link,#dynamics) :is(.ds-tab,.ds-gap-filters button,.v49-btn,.v49-select,.sd-method,.sd-groups button,.sd-choice button,.bp-pagination button,.bp-tools select) {min-height:44px;font:inherit;font-size:var(--ds-control);box-shadow:none!important;transform:none!important;background:var(--ds-inner);color:var(--ds-text);border:1px solid var(--ds-border);border-radius:var(--ds-radius-inner)}
+body.shell-r1 .main :is(#judges,#forum-link,#dynamics) :is(.ds-tab,.ds-gap-filters button,.sd-groups button,.sd-choice button):is(.is-active,[aria-pressed=true]) {background:var(--ds-active);border-color:var(--ds-muted)}
+body.shell-r1 :is(#forum-link,#judges) :is(.jr-fate-list,.jr-two-columns) {min-width:0}
+body.shell-r1 :is(#forum-link,#judges) .jr-fate-chart {width:100%;height:auto}
+body.shell-r1 :is(#forum-link,#judges) :is(.jr-fate-step,.jr-component-card,.jr-scroll) {overflow-wrap:anywhere;min-width:0}
+body.shell-r1 :is(#forum-link,#judges) .jr-fate-step {display:grid;grid-template-columns:44px minmax(0,1fr);gap:12px;padding:16px;border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);background:var(--ds-inner)}
+body.shell-r1 :is(#forum-link,#judges) .jr-step-grade {display:grid;place-items:center;width:44px;height:44px;border-radius:8px;background:var(--ds-active);font-size:24px}
+body.shell-r1 :is(#forum-link,#judges) .jr-comment {white-space:pre-wrap;overflow-wrap:anywhere}
+body.shell-r1 :is(#forum-link,#judges) .jr-score-grid>div {min-width:0}
+body.shell-r1 :is(#forum-link,#judges) .jr-common {max-width:100%;overflow:hidden}
+body.shell-r1 :is(#forum-link,#judges) .jr-fate-step summary {min-height:44px;cursor:pointer}
+body.shell-r1 #dynamics .gap-pipeline {min-width:0}
+body.shell-r1 #dynamics .bp-tools {display:flex;flex-wrap:wrap;gap:12px}
+body.shell-r1 #dynamics .bp-tools input {max-width:100%;min-width:0}
+body.shell-r1 #dynamics .bp-stats {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0}
+body.shell-r1 #dynamics .bp-stats strong {font-size:var(--ds-value);display:block}
+body.shell-r1 #dynamics .bp-stats span {font-size:var(--ds-small);color:var(--ds-muted)}
+body.shell-r1 #dynamics .bp-chart {width:100%;height:auto}
+body.shell-r1 #dynamics .bp-chart text {fill:var(--ds-muted);font-size:11px;font-family:inherit}
+body.shell-r1 #dynamics .bp-ranking {overflow:auto;max-width:100%;margin-top:20px}
+body.shell-r1 #dynamics .bp-ranking table {width:100%;border-collapse:collapse;font-size:var(--ds-table)}
+body.shell-r1 #dynamics .bp-ranking :is(td,th) {padding:10px 8px;text-align:right;border-bottom:1px solid var(--ds-rule)}
+body.shell-r1 #dynamics .bp-ranking :is(td,th):first-child {text-align:left}
+body.shell-r1 #dynamics .bp-ranking button {background:none;color:var(--ds-text);border:0;min-height:44px;text-align:left}
+body.shell-r1 #dynamics .bp-footnote {font-size:var(--ds-small);color:var(--ds-muted);line-height:1.6}
+body.shell-r1 #dynamics .bp-pagination {display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:16px}
+body.shell-r1 #dynamics .bp-event {display:grid;grid-template-columns:150px minmax(0,1fr) 90px;gap:12px;padding:14px 0;border-bottom:1px solid var(--ds-rule);font-size:var(--ds-table)}
+body.shell-r1 #dynamics .bp-event :is(strong,span) {display:block}
+body.shell-r1 #dynamics .bp-result.pass {color:var(--ds-pass)}
+body.shell-r1 #dynamics .bp-result.fail {color:var(--ds-fail)}
+/* POLISH-01.7: two independent surfaces. Owners retain DOM/state/scrolling.
+   Scoped to R1 reports; homepage, page heroes and global navigation are excluded. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {
+ background:var(--ds-surface)!important;border:0!important;
+ border-radius:var(--ds-radius)!important;margin-bottom:18px!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is([id^="int08-report-"],.jr-shell>.jr-report,#int09-panel-0,#int10-panel-0,#int10-panel-1) {
+ box-sizing:border-box;min-width:0;max-width:100%;margin:0!important;
+ background:var(--ds-surface)!important;border:1px solid var(--ds-rule)!important;
+ border-radius:var(--ds-radius)!important;padding:var(--ds-panel-pad)!important;
+ box-shadow:none!important;
+}
+/* Decorative report/history/chart wrappers. Overflow and positioning belong
+   to their original components and are intentionally not reset here. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(
+ .r40-main-section,.r40-summary-panel,.r40-history-section,.r40-participants-section,
+ .r40-chart-panel,.r38-details,.bp-panel,
+ .judge-ranking,.judge-summary,.participants-summary,#fl-people,.fl-board-section,
+ .v49-rank-section,.v49-breakdown
+) {
+ background:transparent!important;border:0!important;border-radius:0!important;
+ padding:0!important;box-shadow:none!important;
+}
+body.shell-r1 .app>.main #dynamics .r40-main-section {margin:0!important}
+body.shell-r1 .app>.main #dynamics :is(.r40-history-section,.r40-participants-section) {margin-block:24px 0!important}
+body.shell-r1 .app>.main #dynamics .r38-details-summary {min-height:44px;padding:10px 0}
+body.shell-r1 .app>.main #dynamics .r38-list-content {padding:16px 0 0}
+body.shell-r1 .app>.main #dynamics .report-data-footer {margin-top:24px;padding-top:16px;border-top:1px solid var(--ds-rule)}
+body.shell-r1 .app>.main #judges :is(.judge-ranking,.judge-summary) {margin:0}
+body.shell-r1 .app>.main #judges .judge-summary {margin-top:24px!important;padding-top:24px!important;border-top:1px solid var(--ds-rule)!important}
+body.shell-r1 .app>.main #forum-link #fl-people {margin-top:24px!important;padding-top:24px!important;border-top:1px solid var(--ds-rule)!important}
+body.shell-r1 .app>.main #judges .v49-breakdown-content {padding:16px 0}
+/* Matrix remains full-width: its 3/2-judge mobile windows, sticky cells and
+   independent scroll area must not lose width to a second lateral inset. */
+body.shell-r1 .app>.main #forum-link #int10-panel-1 {padding:var(--ds-panel-pad) 0!important}
+body.shell-r1 .app>.main #forum-link #int10-panel-1 .fl-board-section {margin:0!important}
+body.shell-r1 .app>.main #forum-link #int10-panel-1 :is(.fl-section-head,.fm-tools,.participants-back) {margin-inline:var(--ds-panel-pad)}
+body.shell-r1 .app>.main #forum-link #int10-panel-1 .fl-section-head {padding:0}
+body.shell-r1 .app>.main #forum-link #int10-panel-1 .fl-section-head .participants-back {margin-inline:0}
+body.shell-r1 .app>.main #forum-link #int10-panel-1 .fm-selection {margin-inline:var(--ds-panel-pad)}
+/* Shared report headings; expressive story/card headings keep their owners. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(#int08-report-0,#int09-panel-0,#int10-panel-0,[role=tabpanel]) :is(.jr-title,.ranking-heading,.participants-heading,.v44-report-head,.sd-heading,.bp-section-head,.r40-report-head) h2 {
+ font-size:var(--ds-h2)!important;line-height:1.25!important;font-weight:650!important;
+}
+body.shell-r1 .app>.main #dynamics .report-data-summary {margin:0 0 12px;font-size:var(--ds-small);line-height:1.55;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics .report-data-actions {display:flex;align-items:flex-start;gap:12px;flex-wrap:wrap}
+body.shell-r1 .app>.main #dynamics .report-data-disclosure {min-width:0;font-size:var(--ds-small);line-height:1.6;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics .report-data-disclosure>summary {display:list-item;min-height:44px;padding:10px 0;cursor:pointer;color:var(--ds-text)}
+body.shell-r1 .app>.main #dynamics .report-data-disclosure p {max-width:78ch;margin:8px 0 12px;font:inherit}
+body.shell-r1 .app>.main #dynamics .report-data-actions>.report-data-disclosure {flex:1 1 220px}
+/* Visual columns keep the existing --bar heights; the full slot stays clickable. */
+body.shell-r1 .app>.main #dynamics .bp-decision-strip {position:relative}
+body.shell-r1 .app>.main #dynamics .bp-decision-strip button {appearance:none;position:relative;display:block;align-self:stretch;height:60px;min-height:44px;background:transparent}
+body.shell-r1 .app>.main #dynamics .bp-day-column {position:absolute;left:0;right:0;bottom:0;display:block;height:var(--bar);min-height:5px;background:var(--ds-steel);pointer-events:none}
+body.shell-r1 .app>.main #dynamics .bp-on .bp-day-column {background:var(--ds-amber)}
+body.shell-r1 #dynamics .bp-decision-strip {display:flex;align-items:end;gap:3px;overflow:auto;margin-top:20px;min-height:60px}
+body.shell-r1 #dynamics .bp-decision-strip button {flex:1 0 6px;height:var(--bar);min-height:5px;min-width:6px;background:var(--ds-steel);border:0;cursor:pointer}
+body.shell-r1 #dynamics .bp-decision-strip button.bp-on {background:var(--ds-amber)}
+body.shell-r1 #dynamics .bp-strip-dates,body.shell-r1 #dynamics .bp-list-head {display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;font-size:var(--ds-small);color:var(--ds-muted);margin:10px 0}
+@media(max-width:760px) {
+ body.shell-r1 :is(#forum-link,#judges) .jr-two-columns {grid-template-columns:minmax(0,1fr)}
+ body.shell-r1 #dynamics .bp-stats {grid-template-columns:1fr;gap:12px}
+ body.shell-r1 #dynamics .bp-event {grid-template-columns:minmax(0,1fr) auto}
+ body.shell-r1 #dynamics .bp-event>time {grid-column:1/-1}
+ body.shell-r1 #dynamics .bp-tools>* {max-width:100%}
+ body.shell-r1 :is(#forum-link,#judges) .jr-title {grid-template-columns:minmax(0,1fr)}
+ body.shell-r1 :is(#forum-link,#judges) .jr-title .rpt-method-trigger {grid-column:1;grid-row:3;justify-self:start}
+}
+/* Keep V58 geometry/data, make SVG text legible at the actual mobile scale. */
+@media(max-width:760px) {
+ body.shell-r1 :is(#forum-link,#judges) .jr-fate-chart text {font-size:28px}
+ body.shell-r1 :is(#forum-link,#judges) .jr-scatter text {font-size:15px}
+}
+body.shell-r1 #dynamics .r40-selection .r39-step-controls button {width:44px;height:44px;min-width:44px;min-height:44px}
+body.shell-r1 #judges :is(.ds-pager button,.ds-rank,.ds-track-row,.ds-case-top button,.jr-v52-more) {min-height:44px}
+body.shell-r1 #judges .ds-pager button {min-width:44px}
+@media(max-width:760px) {
+ body.shell-r1 #judges .judge-research .jr-stats {grid-template-columns:minmax(0,1fr)!important}
+ body.shell-r1 #judges .judge-research .jr-stats strong {white-space:nowrap}
+}
+
+/* POLISH-01.7R — restore visual hierarchy, not a common card template.
+   Reuse the POLISH-01.1 strip; page heroes, homepage and global header excluded. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {
+ background:transparent!important;border-radius:0!important;
+ border-bottom:1px solid var(--ds-rule)!important;
+}
+/* Methodology remains a 44px keyboard/touch target, visually a quiet text link. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(.rpt-method-trigger,.sd-method,[data-ranking-method],[data-participants-method]) {
+ background:transparent!important;border:0!important;border-radius:0!important;
+ padding:8px 0!important;min-height:44px!important;box-shadow:none!important;
+ color:var(--ds-muted)!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(.rpt-method-trigger,.sd-method,[data-ranking-method],[data-participants-method]):hover {
+ color:var(--ds-text)!important;background:transparent!important;
+ text-decoration:underline;text-underline-offset:3px;
+}
+/* A single functional filter bar; no separate card around each toggle set. */
+body.shell-r1 .app>.main #judges .ranking-controls {
+ gap:16px 24px;margin:16px 0 24px;padding:12px 16px;
+ background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:10px;
+}
+body.shell-r1 .app>.main #judges .ranking-controls [role=group] {
+ padding:0;border:0;background:transparent!important;gap:4px;
+}
+body.shell-r1 .app>.main #judges .ranking-controls button {
+ min-height:44px!important;padding:8px 14px;background:transparent!important;
+ border-color:transparent!important;
+}
+body.shell-r1 .app>.main #judges .ranking-controls button[aria-pressed=true] {
+ background:var(--ds-active)!important;border-color:var(--ds-muted)!important;
+}
+/* The podium is the ranking's story, not a second shell. Preserve the actual
+   medal cards, gradient colors, type sizes, all values and profile buttons. */
+body.shell-r1 .app>.main #judges .ranking-podium {
+ background:transparent!important;border:0!important;padding:0;margin:0 0 24px;
+}
+body.shell-r1 .app>.main #judges .ranking-podium .ranking-leaders {gap:12px}
+/* Restore the useful lower surface stripped by 01.7. TUZ MATCH keeps its rose
+   hero, large percentage, avatars, editorial voice and original composition. */
+body.shell-r1 .app>.main #judges .v49-rank-section {
+ background:rgba(39,41,43,.7)!important;border:1px solid var(--ds-rule)!important;
+ border-radius:12px!important;padding:20px!important;margin-top:24px;
+}
+body.shell-r1 .app>.main #judges .v49-match-filters {
+ background:transparent;border:0;border-bottom:1px solid var(--ds-rule);
+ border-radius:0;padding:8px 0 16px;margin-bottom:12px;
+}
+body.shell-r1 .app>.main #judges .v49-quick .v49-btn {
+ background:transparent;border-color:var(--ds-rule);
+}
+@media(max-width:760px) {
+ body.shell-r1 .app>.main #judges .ranking-controls {padding:12px;gap:12px}
+ body.shell-r1 .app>.main #judges .ranking-controls>div {flex-wrap:wrap;gap:8px}
+ body.shell-r1 .app>.main #judges .ranking-controls button {padding-inline:10px}
+ body.shell-r1 .app>.main #judges .v49-rank-section {padding:14px!important}
+}
+
+/* POLISH-01.10B: experimental compact graphite buttons, shared by all
+   three R1 report strips. No common surface, gradient or active underline. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {
+ justify-content:flex-start!important;gap:8px!important;
+ height:40px;min-height:40px;margin-bottom:18px!important;
+ border:0!important;border-radius:0!important;box-shadow:none!important;filter:none;
+ background:none!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button {
+ flex:0 0 auto!important;width:auto!important;min-width:44px!important;
+ height:40px;min-height:40px!important;box-sizing:border-box;
+ padding:0 15px!important;
+ font-size:14px!important;font-weight:400!important;line-height:1.35!important;
+ border:1px solid var(--ds-border)!important;border-radius:9px!important;
+ background:var(--ds-inner)!important;color:var(--ds-muted)!important;
+ box-shadow:none!important;transform:none!important;
+ transition:background-color .12s,color .12s,border-color .12s;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]::before,
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]::after,
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button::before,
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button::after {content:none!important}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:hover {
+ background:var(--ds-hover)!important;color:var(--ds-text)!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button[aria-selected=true] {
+ background:var(--ds-hover)!important;color:var(--ds-text)!important;
+ border-color:color-mix(in srgb,var(--ds-gold) 55%,transparent)!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:focus-visible {
+ outline:2px solid var(--ds-silver)!important;outline-offset:-4px!important;
+}
+@media(max-width:900px) {
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist],
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button {height:44px;min-height:44px!important}
+}
+/* Retain the accepted POLISH-01.10R hero-to-navigation interval. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(.rpt-page-head,.r38-hero.v41-header) {
+ margin-bottom:0!important;
+}
+
+/* POLISH-01.10B final: a 37px desktop face inside a real 44px hit target.
+   Keep the old face/text centre and report position without touching the hero. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {
+ height:44px;min-height:44px;margin-top:0!important;margin-bottom:14px!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button,
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:is(:hover,[aria-selected=true],:focus-visible) {
+ height:44px;min-height:44px!important;isolation:isolate;padding-block:0 4px!important;
+ background:transparent!important;border-color:transparent!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button::before {
+ content:""!important;position:absolute;inset:0.5px -1px 4.5px;z-index:-1;
+ box-sizing:border-box;pointer-events:none;
+ background:var(--ds-inner);border:1px solid var(--ds-border);border-radius:9px;
+ transition:background-color .12s,border-color .12s;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:hover::before {
+ background:var(--ds-hover);
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button[aria-selected=true]::before {
+ /* Existing graphite from judge-ranking.css hover; no bright gold fill. */
+ background:#3a3e3f;border-color:color-mix(in srgb,var(--ds-gold) 75%,var(--ds-border));
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:focus-visible {
+ outline:0!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:focus-visible::before {
+ /* One silver keyboard contour replaces the edge, avoiding a double frame. */
+ outline:2px solid var(--ds-silver);outline-offset:-2px;border-color:transparent;
+}
+@media(max-width:900px) {
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist] {margin-top:0!important;margin-bottom:18px!important}
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button::before {inset:-1px}
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button,
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button:is(:hover,[aria-selected=true],:focus-visible) {padding-block:0!important}
+}
+@media(prefers-reduced-motion:reduce) {
+ body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button::before {transition:none}
+}
+
+/* POLISH-01.10B FINAL: approved color correction, existing 14px type retained. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button {
+ color:#bdc4be!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) nav.report-tabs[role=tablist]>button[aria-selected=true]::before {
+ background:#303435;
+}
+/* Existing match-ranking tab, explicitly renamed by the owner; report unchanged. */
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder {
+ color:#f2e9ec!important;column-gap:6px;
+}
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder::before {
+ background:linear-gradient(120deg,#3d2b34,#28272a);border-color:#66505c;
+}
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder:hover::before {
+ background:linear-gradient(120deg,#47303b,#302a30);
+}
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder[aria-selected=true]::before {
+ background:linear-gradient(120deg,#4a303d,#30292f);border-color:#b5788d;
+}
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder:focus-visible::before {
+ border-color:transparent;
+}
+body.shell-r1 .app>.main #judges nav.report-tabs[role=tablist]>button.report-tab-tinder::after {
+ content:""!important;display:inline-block;position:static;inset:auto;transform:none;
+ width:12px;height:12px;flex:none;margin:0;vertical-align:-1px;pointer-events:none;
+ border:0;box-shadow:none;opacity:1;
+ background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23e0a0b0' d='M8 14 2.1 8.4C-1.4 4.9 3.8-.2 8 4.1 12.2-.2 17.4 4.9 13.9 8.4Z'/%3E%3C/svg%3E") center/contain no-repeat;
+}
+
+/* POLISH-01.16: one working surface for outcome history, including its heading.
+   The SVG already reserves space for axes. Let its wrapper use the full card
+   width so the new text padding does not shrink the existing plotting area. */
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section {
+ --outcome-surface-pad:var(--ds-panel-pad);
+ background:var(--ds-inner)!important;
+ border:1px solid var(--ds-rule)!important;
+ border-radius:var(--ds-radius)!important;
+ padding:var(--outcome-surface-pad)!important;
+ box-shadow:none!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section .r40-chart-wrap {
+ margin-inline:calc(-1 * (var(--outcome-surface-pad) + 1px))!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section .r40-selection {
+ padding-bottom:0;
+}
+@media(max-width:900px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section {--outcome-surface-pad:16px}
+}
+@media(max-width:600px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section {--outcome-surface-pad:14px}
+ /* Keep the existing wide axis labels just inside the new edge at 320px. */
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-history-section .r40-chart-wrap {left:2px}
+}
+
+/* POLISH-01.17: compact date control and independent V58 participant search. */
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-date {
+ display:grid;grid-template-columns:44px minmax(112px,auto) 44px;
+ align-items:center;gap:2px;max-width:100%;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-date>strong {
+ text-align:center;font-size:15px;font-weight:650;color:var(--ds-text);
+ font-variant-numeric:tabular-nums;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-date>button {
+ width:44px;height:44px;min-height:44px;padding:0;border:0;border-radius:var(--ds-radius-inner);
+ background:transparent;color:var(--ds-muted);font-size:24px;line-height:1;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-date>button:enabled:hover {background:var(--ds-hover);color:var(--ds-text)}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-date>button:disabled {opacity:.3;cursor:default}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-participants-section {
+ background:var(--ds-inner)!important;border:1px solid var(--ds-rule)!important;
+ border-radius:var(--ds-radius)!important;padding:0!important;box-shadow:none!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary {
+ min-height:60px;padding:14px 24px;font-size:16px;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary:focus-visible {outline-offset:-3px}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary::after {transition:transform .14s ease!important}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-list-content {padding:16px 24px 20px}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details[open]>.r38-list-content {animation:outcome-search-reveal .14s ease-out!important}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-search {min-width:0;width:100%;min-height:44px;font-size:14px}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-person summary {min-height:44px}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-person summary>span:first-child {min-width:0;overflow-wrap:anywhere}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-score-detail>div>span {min-width:0;overflow-wrap:anywhere}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-participant-link {display:inline-flex;align-items:center;min-height:44px;color:var(--ds-text);text-underline-offset:3px}
+@keyframes outcome-search-reveal {from{opacity:0;transform:translateY(-2px)}to{opacity:1;transform:none}}
+@media(max-width:900px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary {padding-inline:16px}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-list-content {padding:14px 16px 16px}
+}
+@media(max-width:600px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary {padding:12px 14px}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-list-content {padding:12px 14px 14px}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-stats {width:100%;justify-content:space-between;gap:12px}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-stats>span {align-items:flex-start}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r40-selection-stats>span:last-child {align-items:flex-end}
+}
+@media(prefers-reduced-motion:reduce) {
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details-summary::after {transition:none!important}
+ body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-details[open]>.r38-list-content {animation:none!important}
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 :is(.r38-filter-buttons,.r38-pagination)>button {min-height:44px;min-width:44px}
+
+/* POLISH-01.17R — compact hero and the ranking's existing graphite segments.
+   Scoped to outcome search; chart, data controls and other reports stay intact. */
+body.shell-r1 .app>.main #dynamics .r38-hero.v41-header {min-height:0!important}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-filter-buttons {
+ display:inline-flex;flex-wrap:nowrap;flex:none;width:auto;max-width:100%;
+ gap:3px;padding:4px;border:1px solid var(--ds-rule);
+ border-radius:9px;background:rgba(26,28,29,.8);
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-filter-buttons button {
+ min-width:44px;min-height:44px;padding:8px 12px;
+ border:1px solid transparent;border-radius:7px;
+ font-size:12px;line-height:20px;font-weight:570;
+ background:transparent;color:var(--ds-muted);
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-filter-buttons button:hover {
+ background:rgba(76,78,80,.42);border-color:rgba(205,207,202,.25);
+}
+body.shell-r1 .app>.main #dynamics #int08-report-0 .r38-filter-buttons button[aria-pressed=true] {
+ background:rgba(64,66,68,.8);border-color:rgba(205,207,202,.37);color:#f5f5f1;
+}
+
+/* POLISH-01.19: Chronicle only. Segments match the accepted ranking controls. */
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-report-head h2 {margin:0!important}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-chart-switch {
+ gap:3px;padding:4px;background:rgba(26,28,29,.8)!important;
+ border:1px solid var(--ds-rule)!important;border-radius:9px!important;box-shadow:none!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-chart-switch button {
+ min-width:100px;min-height:var(--ds-control-height)!important;padding:8px 12px;
+ border:1px solid transparent!important;border-radius:7px!important;
+ background:transparent!important;color:var(--ds-muted)!important;
+ font-size:12px!important;font-weight:570!important;line-height:20px!important;
+ box-shadow:none!important;text-shadow:none!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-chart-switch button.active {
+ background:rgba(64,66,68,.8)!important;border-color:rgba(205,207,202,.37)!important;color:var(--ds-text)!important;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-chart-switch button:hover:not(.active) {background:rgba(76,78,80,.42)!important}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events {
+ display:flex;flex-wrap:wrap;justify-content:flex-start;gap:12px 32px;
+ list-style:none;padding:0;margin:4px 0 14px;min-width:0;
+ font-size:12px;line-height:1.5;color:var(--ds-muted);
+}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events li {display:flex;align-items:baseline;gap:8px;min-width:0}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events i {flex:none;width:2px;height:10px;background:var(--pace-event-color)}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events span {min-width:0;overflow-wrap:anywhere}
+body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events small {display:block;font-size:inherit}
+@media(max-width:600px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-1 .v44-chart-switch button {min-width:0;flex:1}
+ body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events {grid-template-columns:1fr 1fr;gap:10px 12px}
+ body.shell-r1 .app>.main #dynamics #int08-report-1 .v19-pace-events li:first-child {grid-column:1/-1}
+}
+
+/* POLISH-01.20 — hourly activity clock. Only this report owns these rules. */
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v46-clock-layout {
+ grid-template-columns:minmax(0,1.2fr) minmax(220px,.8fr);gap:28px;align-items:center;
+ /* Use the shared inner chart surface beneath both the dial and its summary. */
+ background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);
+ padding:var(--ds-panel-pad);box-sizing:border-box;min-width:0;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v46-clock {
+ position:relative;width:min(100%,450px);max-width:450px;padding:0;margin:0 auto;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v46-clock svg {overflow:visible}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-outer-ring {fill:none;stroke:var(--ds-rule);stroke-width:1}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-base-ring {fill:none;stroke:var(--ds-rule);stroke-width:1;stroke-dasharray:1 5}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-core {fill:rgba(25,27,28,.4);stroke:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-sector {
+ --clock-color:var(--ds-steel);stroke:none;filter:none;opacity:1;outline:none;cursor:pointer;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-night {--clock-color:var(--ds-night)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-peak {--clock-color:var(--ds-amber)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-bar {fill:var(--clock-color);stroke:none;pointer-events:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-hit {fill:transparent;stroke:none;pointer-events:all}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-selected-mark {stroke:var(--ds-text);stroke-width:2.5;opacity:0;pointer-events:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-sector.is-selected .clock-bar {stroke:var(--ds-text);stroke-width:1.5}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-sector.is-selected .clock-selected-mark {opacity:1}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-sector.is-preview .clock-hit {fill:rgba(240,240,237,.055)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-sector:focus-visible .clock-hit {stroke:var(--ds-text);stroke-width:1.5;stroke-dasharray:3 3}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v46-clock svg .clock-label {
+ fill:var(--ds-muted)!important;font-size:14px!important;font-weight:400;pointer-events:none;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center {
+ position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:34%;
+ display:flex;flex-direction:column;align-items:center;gap:5px;text-align:center;
+ pointer-events:none;font-variant-numeric:tabular-nums;line-height:1.25;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center strong {font-size:clamp(22px,2.4vw,32px);font-weight:650;letter-spacing:-.035em;color:var(--ds-text)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center span {font-size:13px;color:var(--ds-text);white-space:nowrap}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center small {font-size:12px;color:var(--ds-muted);white-space:nowrap}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-aside {
+ align-self:center;display:flex;flex-direction:column;gap:0;padding:0 0 0 28px;
+ background:transparent;border:0;border-left:1px solid var(--ds-rule);border-radius:0;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-aside .v44-hour-feature {
+ flex:none;padding:22px 0;margin:0;border:0!important;background:transparent!important;
+ gap:7px;min-width:0;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature>span {font-size:13px;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature strong {font-size:clamp(22px,2.2vw,30px);color:var(--ds-amber)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-night strong {color:var(--ds-night)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature small {font-size:13px;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-legend {gap:14px;font-size:12px;margin-top:12px}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v44-key-night {background:var(--ds-night)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v44-key-regular {background:var(--ds-steel)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .v44-key-peak {background:var(--ds-amber)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-timezone {text-align:center;margin:8px 0 0;color:var(--ds-muted);font-size:11px}
+@media(max-width:900px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v46-clock-layout {grid-template-columns:minmax(0,1fr);gap:22px;padding:12px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-report-head {display:flex;flex-direction:column;align-items:stretch;gap:14px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-aside {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;border-left:0;border-top:1px solid var(--ds-rule);padding:14px 0 0}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-aside .v44-hour-feature {padding:0}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature strong {font-size:20px}
+}
+@media(max-width:600px) {
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v46-clock svg .clock-label.is-minor {display:none}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v46-clock svg .clock-label.is-major {font-size:19px!important}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center {gap:3px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center span {font-size:12px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .clock-center small {font-size:11px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature strong {font-size:18px}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .v20-hours .v44-hour-feature small {font-size:12px}
+}
+
+
+/* EXP-02 approved B: day profile, presentation only. */
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock-layout{grid-template-columns:minmax(0,1fr) 285px;gap:24px}
+/* Fit the dial below the sticky header, reserving space for its legend. */
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock{width:min(100%,560px,max(260px,calc(100svh - 200px)));max-width:100%}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock svg{width:100%;height:auto;display:block;touch-action:pan-y}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock svg .profile-label{fill:#c5cbc7!important;font-weight:500;pointer-events:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock svg .profile-label.is-night{fill:#b6a7ce!important}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock svg .profile-label.is-peak{fill:#d8b57c!important;font-weight:700}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock svg .profile-label.is-selected{fill:#fff3db!important;font-weight:700}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-ground{fill:#1f2728;fill-opacity:.38;stroke:#b4c2c0;stroke-opacity:.12;stroke-width:1}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .night-sector{fill:url(#bp-night-wash)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .hour-ray{stroke:#b6c5c4;stroke-opacity:.075;stroke-width:.8}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .major-ray{stroke-opacity:.15}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-ring{fill:none;stroke:#bdc9c8;stroke-opacity:.14;stroke-width:.8}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .engraved-tick{stroke:#c4ceca;stroke-opacity:.3;stroke-width:1.2}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-fill{fill:url(#bp-profile-ink);stroke:#bacbd2;stroke-width:2;stroke-linejoin:round}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .night-arc{fill:none;stroke:#b09ac8;stroke-opacity:.65;stroke-width:3}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .selection-ray{stroke:#e5c58d;stroke-opacity:.6;stroke-width:1;stroke-dasharray:3 5}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .selected-ring{fill:none;stroke:#f0d9ab;stroke-width:2.7}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-dot{fill:#9dacb7;stroke:#272b2b;stroke-width:1.4;pointer-events:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-night .profile-dot{fill:#9b8cb4}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-peak .profile-dot{fill:#d8b57c}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-sector,.clock-sector:hover,.clock-sector.is-selected{stroke:none;filter:none;opacity:1;outline:none}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-hit{fill:transparent;stroke:none;pointer-events:all}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-sector:focus-visible .clock-hit{stroke:#f0d9ab;stroke-width:1.5;stroke-dasharray:3 5}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout{display:flex;justify-content:space-between;align-items:center;gap:12px;border-top:1px solid var(--ds-rule);padding:14px 4px;min-height:76px;font-variant-numeric:tabular-nums}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout>div{display:flex;flex-direction:column;gap:4px}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout>div>span:first-child:not([data-clock-count]){font-size:13px;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout strong{font-size:30px;line-height:1.1;font-weight:650;color:#eee7d8;letter-spacing:-.025em;white-space:nowrap}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout [data-clock-count]{font-size:21px;font-weight:600;color:#eee7d8;white-space:nowrap}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout small{font-size:15px;color:#d1ae77}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-timezone{text-align:left;padding:0 4px;line-height:1.5}
+@media(max-width:900px){body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock-layout{grid-template-columns:minmax(0,1fr)}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .v46-clock{max-width:440px}}
+@media(max-width:600px){body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout{padding:14px 0;min-height:67px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout strong{font-size:23px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout [data-clock-count]{font-size:17px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout small{font-size:12px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout>div>span:first-child:not([data-clock-count]){font-size:11px}}
+@media(max-width:350px){body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout{gap:6px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout strong{font-size:20px}body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .profile-readout [data-clock-count]{font-size:15px}}
+
+/* Daily chart inspection; shares the existing graphite palette. */
+#int08-report-1 #bp-pace-plot {position:relative}
+#int08-report-1 .pace-tooltip {position:absolute;z-index:2;pointer-events:none;max-width:100%;box-sizing:border-box;padding:9px 12px;background:#242728;border:1px solid #626966;border-radius:8px;color:#dce4de;font-size:12px;line-height:1.5}
+#int08-report-1 .pace-tooltip strong,#int08-report-1 .pace-tooltip span {display:block}
+#int08-report-1 .pace-tooltip span {color:#b9c6be}
+#int08-report-1 .bp-chart:focus-visible {outline:2px solid #a8c8b7;outline-offset:3px;border-radius:4px}
+
+/* POLISH-01.21 — a single editorial surface, no nested podium cards. */
+body.shell-r1 .app>.main #judges #int09-panel-4 {
+ background:radial-gradient(ellipse at 6% 0%,rgba(211,167,102,.10),transparent 52%),var(--ds-report-surface,rgba(31,33,34,.88));
+}
+#int09-panel-4 .fastest-report {max-width:1080px;margin:0 auto;padding:4px 0}
+#int09-panel-4 .fastest-heading {display:flex;align-items:center;gap:16px;margin:0 0 16px}
+#int09-panel-4 .fastest-heading h2 {margin:0 0 6px;color:var(--ds-text);font-size:clamp(24px,2.4vw,32px);line-height:1.2}
+#int09-panel-4 .fastest-heading p {margin:0;color:var(--ds-muted);font-size:16px;line-height:1.5}
+#int09-panel-4 .fastest-intro {max-width:700px;margin:0 0 28px;color:var(--ds-muted);font-size:14px;line-height:1.6}
+#int09-panel-4 .fastest-list {list-style:none;padding:0;margin:0}
+#int09-panel-4 .fastest-list li {margin:0;padding:0;border-top:1px solid rgba(190,199,192,.15)}
+#int09-panel-4 .fastest-row {display:grid;grid-template-columns:38px minmax(0,1fr) auto;align-items:center;gap:16px;min-height:76px;padding:10px 12px;box-sizing:border-box;color:var(--ds-text);text-decoration:none;border-radius:4px}
+#int09-panel-4 .fastest-place {color:var(--ds-muted);font-size:15px;font-variant-numeric:tabular-nums}
+#int09-panel-4 .fastest-name {font-size:18px;font-weight:500;line-height:1.35;overflow-wrap:anywhere}
+#int09-panel-4 .fastest-name small {display:block;margin-top:5px;color:var(--ds-muted);font-size:12px;font-weight:400}
+#int09-panel-4 .fastest-time {font-size:clamp(19px,2.2vw,27px);font-weight:600;font-variant-numeric:tabular-nums;line-height:1.25;text-align:right;white-space:nowrap}
+#int09-panel-4 .fastest-list li:nth-child(1) :is(.fastest-place,.fastest-time) {color:#d4b48d}
+#int09-panel-4 .fastest-list li:nth-child(2) :is(.fastest-place,.fastest-time) {color:#b7c8d3}
+#int09-panel-4 .fastest-list li:nth-child(3) :is(.fastest-place,.fastest-time) {color:#c39a7b}
+#int09-panel-4 .fastest-row:hover {background:rgba(211,180,141,.045)}
+#int09-panel-4 .fastest-row:focus-visible {outline:2px solid #d4b48d;outline-offset:-2px;background:rgba(211,180,141,.06)}
+@media(max-width:600px){
+ #int09-panel-4 .fastest-row {grid-template-columns:23px minmax(0,1fr) auto;gap:9px;padding:12px 0;min-height:76px}
+ #int09-panel-4 .fastest-name {font-size:15px}
+ #int09-panel-4 .fastest-time {font-size:18px;white-space:normal;max-width:100px}
+ #int09-panel-4 .fastest-place {font-size:12px}
+ #int09-panel-4 .fastest-heading {gap:11px}
+ #int09-panel-4 .fastest-intro {margin-bottom:22px}
+}
+
+/* POLISH-01.21R: one inner surface with a decorative illustration behind real rows. */
+#int09-panel-4 .fastest-surface {
+ position:relative;isolation:isolate;overflow:hidden;
+ background:var(--ds-inner);border:1px solid var(--ds-rule);
+ border-radius:var(--ds-radius-inner);padding:8px 16px;
+}
+#int09-panel-4 .fastest-stopwatch {
+ position:absolute;z-index:0;pointer-events:none;
+ width:520px;height:600px;max-width:none;right:5%;top:38px;transform:rotate(-13deg);user-select:none;
+}
+#int09-panel-4 .fastest-surface .fastest-list {position:relative;z-index:1}
+#int09-panel-4 .fastest-surface .fastest-list li:first-child {border-top-color:transparent}
+@media(max-width:600px){
+ #int09-panel-4 .fastest-surface {padding:4px 10px}
+ #int09-panel-4 .fastest-stopwatch {width:350px;height:404px;right:-95px;top:90px;opacity:.8}
+}
+
+/* Final 25 / 30 control, matching the ranking segmented control. */
+#int09-panel-4 .fastest-controls {display:flex;align-items:center;gap:14px 20px;flex-wrap:wrap;margin:20px 0 24px}
+#int09-panel-4 .fastest-controls>span {color:var(--ds-muted);font-size:12px;line-height:1.5}
+#int09-panel-4 .fastest-switch {display:flex;gap:3px;padding:4px;border:1px solid rgba(193,196,193,.17);border-radius:9px;background:rgba(26,28,29,.8);max-width:100%}
+#int09-panel-4 .fastest-switch button {min-width:112px;min-height:44px;padding:8px 12px;border:1px solid transparent;border-radius:7px;font-size:12px;line-height:20px;font-weight:570;background:transparent;color:var(--ds-muted);box-shadow:none}
+#int09-panel-4 .fastest-switch button[aria-pressed=true] {background:rgba(64,66,68,.8);border-color:rgba(205,207,202,.37);color:var(--ds-text)}
+#int09-panel-4 .fastest-switch button:hover:not([aria-pressed=true]) {background:rgba(76,78,80,.42)}
+#int09-panel-4 .fastest-switch button:focus-visible {outline:2px solid var(--ds-focus);outline-offset:2px}
+@media(max-width:600px){#int09-panel-4 .fastest-switch {width:100%}#int09-panel-4 .fastest-switch button {flex:1;min-width:0}}
+
+/* Compact distribution: one chart, one selected-sum line. */
+#int08-report-3 .sd-heading p {line-height:1.6}
+#int08-report-3 .sd-chartbox {overflow-x:auto;overscroll-behavior-x:contain;scrollbar-color:#747e78 transparent;padding-bottom:8px}
+#int08-report-3 .sd-chartbox svg {max-width:none;max-height:none;min-height:0;touch-action:pan-x pan-y}
+#int08-report-3 .sd-model-control {display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:0;border:0;background:none;color:var(--ds-text);font:inherit;font-size:13px;cursor:pointer;box-shadow:none}
+#int08-report-3 .sd-switch {width:40px;height:23px;padding:3px;border-radius:30px;background:#4d5451;flex:none}
+#int08-report-3 .sd-switch::before {content:"";display:block;width:17px;height:17px;border-radius:50%;background:#f1f3f1}
+#int08-report-3 [aria-checked=true] .sd-switch {background:#708f84}
+#int08-report-3 [aria-checked=true] .sd-switch::before {transform:translateX(17px)}
+#int08-report-3 .sd-chart-title {font-size:16px;font-weight:600;line-height:1.5;margin:24px 0 12px}
+#int08-report-3 .sd-model-bar {fill:#d3b187;opacity:.8}
+#int08-report-3 :is(.sd-groups,.sd-choice) {width:auto;gap:3px;padding:4px;flex-wrap:nowrap}
+body.shell-r1 .app>.main #dynamics #int08-report-3 :is(.sd-groups,.sd-choice) button {flex:none;min-height:44px;padding:8px 12px;font-size:12px;font-weight:500;line-height:20px;border:1px solid transparent;border-radius:7px;background:transparent;color:var(--ds-muted)}
+body.shell-r1 .app>.main #dynamics #int08-report-3 :is(.sd-groups,.sd-choice) button[aria-pressed=true] {background:rgba(64,66,68,.8);border-color:rgba(205,207,202,.37);color:var(--ds-text)}
+#int08-report-3 .sd-selection {padding:12px 0 0;border:0;border-top:1px solid var(--ds-rule);border-radius:0;background:none;gap:6px 20px;font-size:13px;line-height:1.6;font-variant-numeric:tabular-nums}
+#int08-report-3 #sd-selected-count {white-space:normal;overflow-wrap:break-word}
+#int08-report-3 .sd-unavailable {color:var(--ds-muted);font-size:13px;line-height:1.6}
+#int08-report-3 [hidden] {display:none!important}
+#int08-report-3 button:disabled {opacity:.5;cursor:default}
+#int08-method-dialog summary {cursor:pointer;line-height:1.5;padding:8px 0}
+#int08-method-dialog summary:focus-visible {outline:2px solid var(--ds-muted);outline-offset:3px}
+#int08-report-3 .sd-plot {display:grid;grid-template-columns:58px minmax(0,1fr);margin-top:12px}
+#int08-report-3 .sd-plot .sd-chartbox {margin-top:0}
+#int08-report-3 .sd-y-axis {display:block;width:58px;height:306px;font:inherit}
+#int08-report-3 .sd-y-axis text {fill:#9fa9a0;font-size:12px;font-family:inherit}
+
+/* Judge picker in Судейские сутки: custom menu, independent of OS styling. */
+#int08-report-2 .hour-judge-select {position:relative;width:280px;max-width:100%;flex-shrink:0}
+#int08-report-2 .hour-judge-select select[hidden] {display:none!important}
+#int08-report-2 .hour-judge-trigger {position:relative;width:100%;min-height:44px;padding:12px 44px 12px 16px;text-align:left;white-space:normal;background:#292c2c;color:var(--ds-text);border:1px solid var(--ds-border);border-radius:9px;font:inherit;font-size:14px;line-height:1.5;cursor:pointer}
+#int08-report-2 .hour-judge-trigger::after {content:"";position:absolute;right:18px;top:calc(50% - 6px);width:8px;height:8px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg)}
+#int08-report-2 .hour-judge-trigger[aria-expanded=true]::after {top:calc(50% - 2px);transform:rotate(225deg)}
+#int08-report-2 .hour-judge-options {position:absolute;z-index:20;top:calc(100% + 6px);right:0;width:100%;max-height:min(340px,50vh);overflow-y:auto;overscroll-behavior:contain;scrollbar-color:#707274 #252828;padding:5px;background:#252828;border:1px solid #5e6062;border-radius:9px;color:var(--ds-text)}
+#int08-report-2 .hour-judge-options[hidden] {display:none}
+#int08-report-2 .hour-judge-options [role=option] {position:relative;min-height:44px;padding:10px 30px 10px 10px;border-radius:5px;font-size:14px;line-height:1.5;cursor:pointer;overflow-wrap:anywhere}
+#int08-report-2 .hour-judge-options [role=option][aria-selected=true] {background:#3c3e40;color:#ededeb}
+#int08-report-2 .hour-judge-options [aria-selected=true]::after {content:"✓";position:absolute;right:10px;color:#d2d2ce}
+#int08-report-2 .hour-judge-options [role=option]:hover {background:#444648}
+#int08-report-2 .hour-judge-options [role=option]:focus-visible,#int08-report-2 .hour-judge-trigger:focus-visible {outline:2px solid #c6c6c3;outline-offset:-2px}
+@media(max-width:600px){#int08-report-2 .hour-judge-select{width:100%}}
+
+/* Distribution SVG targets: suppress the browser ring, retain a quiet keyboard cue. */
+body.shell-r1 .app>.main #dynamics #int08-report-3 .sd-chartbox svg .sd-hit:focus {
+ outline:none;box-shadow:none;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-3 .sd-chartbox svg .sd-hit:focus-visible {
+ fill:rgba(212,180,141,.035);stroke:var(--ds-muted);stroke-width:1;stroke-dasharray:3 4;
+}
+
+/* Fastest-series copy: label the measured interval without changing the row values. */
+#int09-panel-4 .fastest-columns {position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,240px);gap:16px;padding:12px 12px 14px;color:var(--ds-muted);font-size:12px;line-height:1.5;border-bottom:1px solid var(--ds-rule)}
+#int09-panel-4 .fastest-columns>span:last-child {text-align:right}
+@media(max-width:600px){#int09-panel-4 .fastest-columns {grid-template-columns:minmax(0,1fr) minmax(0,140px);gap:9px;padding:12px 0;font-size:11px}}
+
+/* Click/touch details anchored to the selected factual histogram column. */
+#int08-report-3 .sd-plot {position:relative}
+#int08-report-3 .sd-bin-tooltip {
+ position:absolute;z-index:3;display:flex;flex-direction:column;gap:6px;
+ width:max-content;max-width:calc(100% - 8px);padding:12px 16px;
+ background:#242727;color:var(--ds-text);border:1px solid #666c66;border-radius:8px;
+ box-shadow:0 6px 18px rgba(0,0,0,.25);font-size:14px;line-height:1.4;pointer-events:none;
+}
+#int08-report-3 .sd-bin-tooltip strong {font-size:15px;font-weight:600}
+#int08-report-3 .sd-bin-tooltip span {color:var(--ds-muted)}
+#int08-report-3 .sd-bin-tooltip .sd-tooltip-model {color:var(--ds-amber)}
+
+/* Report descriptions share the distribution report's quiet typographic scale. */
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(#int08-report-0,#int09-panel-0,#int10-panel-0,[role=tabpanel])
+:is(.jr-title,.ranking-heading,.participants-heading,.v44-report-head,.sd-heading,.bp-section-head,.fastest-heading,.sprint-heading,.fl-section-head) p {
+ font-family:inherit!important;font-size:13px!important;font-weight:400!important;
+ line-height:1.6!important;letter-spacing:normal!important;color:#a8aea8!important;
+ margin:0!important;max-width:760px;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(#int08-report-0,#int09-panel-0,#int10-panel-0,[role=tabpanel])
+:is(.jr-title,.ranking-heading,.participants-heading,.v44-report-head,.sd-heading,.bp-section-head,.fastest-heading,.sprint-heading,.fl-section-head) h2 {
+ margin-bottom:5px!important;
+}
+
+/* One heading-to-content interval; legacy panels otherwise range from 0 to 24px.
+   The heading owns the gap, so the following controls cannot add it twice. */
+body.shell-r1 .app>.main {--ds-report-heading-gap:24px}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(#int08-report-0,#int09-panel-0,#int10-panel-0,[role=tabpanel])
+:is(.jr-title,.ranking-heading,.participants-heading,.v44-report-head,.sd-heading,.bp-section-head,.r40-report-head,.fl-section-head,.fastest-heading):has(h2) {
+ margin-bottom:var(--ds-report-heading-gap)!important;
+}
+body.shell-r1 .app>.main :is(#dynamics,#judges,#forum-link) :is(#int08-report-0,#int09-panel-0,#int10-panel-0,[role=tabpanel])
+:is(.jr-title,.ranking-heading,.participants-heading,.v44-report-head,.sd-heading,.bp-section-head,.r40-report-head,.fl-section-head,.fastest-heading):has(h2) + * {
+ margin-top:0!important;
+}
+
+/* Match the 5px distribution heading rhythm. A 44px methodology action
+   spans both text rows, so it cannot inflate the title-to-description gap. */
+body.shell-r1 .app>.main :is(#judges,#forum-link) [role=tabpanel] .jr-title {
+ row-gap:0;align-items:start;
+}
+body.shell-r1 .app>.main :is(#judges,#forum-link) [role=tabpanel] .jr-title>p {
+ grid-column:1;grid-row:2;
+}
+body.shell-r1 .app>.main :is(#judges,#forum-link) [role=tabpanel] .jr-title>.rpt-method-trigger {
+ grid-column:2;grid-row:1/3;align-self:start;
+}
+@media(max-width:760px) {
+ body.shell-r1 .app>.main :is(#judges,#forum-link) [role=tabpanel] .jr-title>.rpt-method-trigger {
+  grid-column:1;grid-row:3;
+ }
+}
+
+/* A small drawing on the margin; the analytical clock stays unchanged. */
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .has-clock-doodle {align-self:stretch;justify-content:flex-start}
+#int08-report-2 .clock-doodle {margin:8px 0 22px;padding:0;min-width:0;color:#b9b5a6}
+#int08-report-2 .clock-doodle svg {display:block;width:100%;max-width:225px;height:190px;margin:0 auto 10px;overflow:visible}
+#int08-report-2 .clock-doodle-outline {fill:rgba(181,185,169,.055);stroke:currentColor;stroke-width:3.5;stroke-linejoin:round}
+#int08-report-2 .clock-doodle-marks {stroke:currentColor;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round}
+#int08-report-2 .clock-doodle figcaption {display:flex;flex-direction:column;gap:5px}
+#int08-report-2 .clock-doodle small {font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:var(--ds-muted)}
+#int08-report-2 .clock-doodle strong {font-size:16px;font-weight:500;line-height:1.4;color:#d2c8b4}
+#int08-report-2 .clock-doodle span {font-size:12px;line-height:1.5;color:var(--ds-muted)}
+@media(max-width:900px){
+ #int08-report-2 .clock-doodle {grid-column:1/-1;display:flex;align-items:center;gap:16px;margin:0}
+ #int08-report-2 .clock-doodle svg {width:115px;height:105px;flex:none;margin:0}
+}
+
+/* Скорострелы: the approved editorial time scale. Only this report is affected. */
+#int09-panel-4 .sprint-story {max-width:1080px;margin:0 auto;color:var(--ds-text)}
+#int09-panel-4 .sprint-story * {box-sizing:border-box}
+#int09-panel-4 .sprint-heading {position:relative;min-height:112px;padding:0 170px 24px 0;isolation:isolate}
+#int09-panel-4 .sprint-heading h2 {font-family:inherit;font-size:var(--ds-h2);font-weight:600;letter-spacing:normal;line-height:1.3;margin:0 0 6px}
+#int09-panel-4 .sprint-heading p {font-size:13px;line-height:1.65;color:var(--ds-muted);margin:0;max-width:650px}
+#int09-panel-4 .sprint-quip,#int09-panel-4 .sprint-closing {display:block;font-family:inherit;font-style:normal;color:var(--ds-amber);font-size:13px;line-height:1.6}
+#int09-panel-4 .sprint-quip {margin-top:10px}
+#int09-panel-4 .sprint-heading .fastest-stopwatch {position:absolute;z-index:-1;right:0;top:-12px;width:135px;height:150px;transform:none;pointer-events:none}
+#int09-panel-4 .sprint-surface {background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);padding:20px;overflow:hidden}
+#int09-panel-4 .sprint-plot {position:relative;min-width:0}
+#int09-panel-4 .sprint-field {position:relative;margin-left:0;min-width:0}
+#int09-panel-4 .sprint-band {position:absolute;left:0;right:0;border-top:1px dotted var(--ds-rule);pointer-events:none}
+#int09-panel-4 .sprint-band-0 {background:rgba(169,185,198,.025)}
+#int09-panel-4 .sprint-band-1 {background:rgba(215,188,172,.035)}
+#int09-panel-4 .sprint-band-2 {background:rgba(223,177,119,.045)}
+#int09-panel-4 .sprint-band-copy {position:absolute;left:0;top:20px;width:20%;padding:0 4px}
+#int09-panel-4 .sprint-band-copy h3 {font-family:inherit;font-size:var(--ds-h3);line-height:1.35;font-weight:600;margin:0 0 10px;color:var(--ds-text)}
+#int09-panel-4 .sprint-band-copy p {font-size:13px;line-height:1.65;color:var(--ds-muted);margin:0}
+#int09-panel-4 .sprint-axis {position:absolute;width:1px;background:#adb5ae77;transform:translateX(-50%)}
+#int09-panel-4 .sprint-guides {position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
+#int09-panel-4 .sprint-guides polyline {fill:none;stroke-width:1;vector-effect:non-scaling-stroke;opacity:.55}
+#int09-panel-4 .sprint-guides polyline.is-active {stroke-width:2;opacity:1}
+#int09-panel-4 .sprint-tick {position:absolute;transform:translateY(-50%);margin-left:14px;font-size:11px;line-height:1.2;color:var(--ds-muted);white-space:nowrap;pointer-events:none}
+#int09-panel-4 .sprint-tick[data-sprint-tick='60'],#int09-panel-4 .sprint-tick[data-sprint-tick='120'] {left:0!important;margin-left:0;transform:translateY(-115%)}
+#int09-panel-4 .sprint-judges {list-style:none;padding:0;margin:0;position:absolute;inset:0}
+#int09-panel-4 .sprint-entry {margin:0;padding:0;list-style:none}
+#int09-panel-4 .sprint-dot {position:absolute;width:10px;height:10px;border-radius:50%;transform:translate(-50%,-50%);background:var(--sprint-color);border:1px solid #e6e7e277;pointer-events:none}
+#int09-panel-4 .is-active .sprint-dot {outline:4px solid #f0f0ed18}
+#int09-panel-4 .sprint-judge {position:absolute;transform:translateY(-50%);display:flex;flex-direction:column;justify-content:center;min-height:44px;gap:3px;padding:4px 6px;color:var(--ds-text);text-decoration:none;line-height:1.35;border-radius:5px;overflow-wrap:anywhere}
+#int09-panel-4 .sprint-left .sprint-judge {text-align:right;align-items:flex-end}
+#int09-panel-4 .sprint-name {font-size:15px;font-weight:500}
+#int09-panel-4 .sprint-time {font-size:18px;font-weight:500;font-variant-numeric:tabular-nums;color:var(--sprint-color)}
+#int09-panel-4 .sprint-judge:hover {background:#f0f0ed08;text-decoration:none}
+#int09-panel-4 .sprint-judge:focus-visible,#int09-panel-4 .sprint-excluded a:focus-visible {outline:2px solid var(--ds-amber);outline-offset:2px}
+#int09-panel-4 .sprint-closing {margin:14px 0 0;padding:16px 0 4px;border-top:1px solid var(--ds-rule);text-align:center;font-size:13px}
+#int09-panel-4 .sprint-excluded {margin-top:20px;padding:14px 0 0;border-top:1px solid var(--ds-rule)}
+#int09-panel-4 .sprint-excluded a {display:inline-flex;align-items:center;min-height:44px;color:var(--ds-text);text-decoration:underline;text-underline-offset:3px;border-radius:4px}
+#int09-panel-4 .sprint-excluded p {margin:0;font:inherit;font-size:13px;line-height:1.6;color:var(--ds-muted)}
+#int09-panel-4 .sprint-measure {margin:0 0 12px;padding-bottom:12px;border-bottom:1px solid var(--ds-rule);font:inherit;font-size:13px;font-weight:500;color:var(--ds-text);line-height:1.5}
+#int09-panel-4 .sprint-mobile-key {display:none}
+#int09-panel-4 .sprint-narrow .sprint-field {margin-left:0}
+#int09-panel-4 .sprint-narrow .sprint-band-copy {display:none}
+#int09-panel-4 .sprint-narrow .sprint-judge {font-size:14px}
+@media(max-width:1000px){
+ #int09-panel-4 .sprint-heading {padding-right:160px}
+ #int09-panel-4 .sprint-heading .fastest-stopwatch {width:145px;height:180px}
+ #int09-panel-4 .sprint-field {margin-left:0}
+ #int09-panel-4 .sprint-band-copy {width:20%}
+}
+@media(max-width:800px){
+ #int09-panel-4 .sprint-heading {min-height:0;padding:2px 0 22px}
+ #int09-panel-4 .sprint-heading .fastest-stopwatch {display:none}
+ #int09-panel-4 .sprint-heading h2 {font-size:var(--ds-h2)}
+ #int09-panel-4 .sprint-quip {font-size:13px;margin-top:10px}
+ #int09-panel-4 .sprint-mobile-key {display:grid;gap:10px;margin-bottom:16px}
+ #int09-panel-4 .sprint-mobile-key>div {padding-left:12px;border-left:2px solid #a9b9c6}
+ #int09-panel-4 .sprint-mobile-key>div:nth-child(2) {border-color:#d7bcac}
+ #int09-panel-4 .sprint-mobile-key>div:nth-child(3) {border-color:#dfb177}
+ #int09-panel-4 .sprint-mobile-key strong {display:block;font-family:inherit;font-size:15px;font-weight:600;line-height:1.4}
+ #int09-panel-4 .sprint-mobile-key span {display:block;font-size:12px;color:var(--ds-muted);margin-top:3px}
+ #int09-panel-4 .sprint-surface {padding:12px 6px}
+ #int09-panel-4 .sprint-time {font-size:17px}
+ #int09-panel-4 .sprint-excluded {flex-direction:column;gap:14px}
+}
+/* Use the existing TUZ19 type scale throughout this report. */
+body.shell-r1 .app>.main #judges #int09-panel-4 .sprint-heading h2 {font-family:inherit!important;font-size:var(--ds-h2)!important;line-height:1.3!important;font-weight:600!important}
+body.shell-r1 .app>.main #judges #int09-panel-4 .sprint-band-copy h3 {font-family:inherit!important;font-size:var(--ds-h3)!important;line-height:1.35!important;font-weight:600!important}
+#int09-panel-4 .sprint-heading .fastest-stopwatch stop {stop-opacity:.35}
+
+/* Keep the changing hour alongside the other clock readouts. */
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-selected-hour .profile-readout {
+ flex-direction:column;align-items:flex-start;gap:12px;min-height:0;padding:20px 0 22px;
+}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-selected-hour .profile-readout [data-clock-count] {font-size:18px}
+body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-selected-hour .profile-readout small {font-size:13px;color:var(--ds-muted)}
+@media(max-width:900px){
+ #int08-report-2 .clock-selected-hour {grid-column:1/-1}
+ body.shell-r1 .app>.main #dynamics #int08-report-2 .cardiogram .clock-selected-hour .profile-readout {flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center;padding:16px 0;gap:12px}
+}
+
+/* Accepted speedsters table: 30-score series, decorative stopwatch behind rows. */
+#int09-panel-4 .speedsters-report .fastest-heading {margin:0 0 18px}
+#int09-panel-4 .speedsters-report .fastest-heading h2 {font-size:var(--ds-h2);font-weight:650;line-height:1.25;letter-spacing:-.025em}
+#int09-panel-4 .speedsters-surface {position:relative;isolation:isolate;overflow:hidden;padding:0 22px;background:radial-gradient(ellipse at 78% 10%,rgba(137,101,61,.055),transparent 52%),#232727;border:1px solid var(--ds-border);border-radius:12px}
+#int09-panel-4 .speedsters-watch {position:absolute;right:-18px;top:-22px;width:620px;height:auto;z-index:0;pointer-events:none;user-select:none;opacity:.12;color:#d0a16b}
+#int09-panel-4 .speedsters-watch .secondary {stroke:#9b7953}
+#int09-panel-4 .speedsters-watch .highlight {stroke:#e0b783}
+#int09-panel-4 .speedsters-watch text {fill:#e0b783;stroke:none;font-family:Georgia,serif}
+#int09-panel-4 .speedsters-table {position:relative;z-index:1;width:100%;table-layout:fixed;border-collapse:collapse;color:var(--ds-text)}
+#int09-panel-4 .speedsters-table thead {height:50px;text-align:left;color:var(--ds-muted);font-size:11px;font-weight:400}
+#int09-panel-4 .speedsters-table thead th {font-weight:400}
+#int09-panel-4 .speedsters-table tr>*:first-child {width:52px}
+#int09-panel-4 .speedsters-table tr>*:last-child {width:180px;text-align:right}
+#int09-panel-4 .speedsters-table tbody tr {height:68px;border-top:1px solid var(--ds-rule)}
+#int09-panel-4 .speedsters-table tbody tr:hover {background:rgba(185,180,159,.035)}
+#int09-panel-4 .speedsters-table tbody td:first-child {font-size:13px;color:var(--ds-muted);font-variant-numeric:tabular-nums}
+#int09-panel-4 .speedsters-table tbody th {text-align:left;font-size:17px;font-weight:500;line-height:1.35;padding:6px 12px 6px 0;overflow-wrap:anywhere}
+#int09-panel-4 .speedsters-table tbody td:last-child {font-size:24px;line-height:1.25;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+#int09-panel-4 .speedsters-table tbody td strong {font-weight:600}
+#int09-panel-4 .speedsters-table tbody tr:nth-child(1) td {color:#d9b27b}
+#int09-panel-4 .speedsters-table tbody tr:nth-child(2) td {color:#b7c8d3}
+#int09-panel-4 .speedsters-table tbody tr:nth-child(3) td {color:#c39a7b}
+#int09-panel-4 .speedsters-name {display:flex;align-items:center;min-height:44px;color:inherit;text-decoration:none;border-radius:4px}
+#int09-panel-4 .speedsters-name:focus-visible,#int09-panel-4 .speedsters-excluded a:focus-visible {outline:2px solid var(--ds-amber);outline-offset:2px}
+#int09-panel-4 .speedsters-excluded {margin:18px 0 0;color:var(--ds-muted);font-size:13px;line-height:1.6}
+#int09-panel-4 .speedsters-excluded a {color:inherit;text-underline-offset:3px}
+@media(max-width:800px){
+ #int09-panel-4 .speedsters-surface {padding:0 16px}
+ #int09-panel-4 .speedsters-table tr>*:first-child {width:38px}
+ #int09-panel-4 .speedsters-table tr>*:last-child {width:148px}
+ #int09-panel-4 .speedsters-table tbody td:last-child {font-size:22px}
+ #int09-panel-4 .speedsters-watch {width:530px;right:-140px;top:45px}
+}
+@media(max-width:480px){
+ #int09-panel-4 .speedsters-surface {padding:0 12px}
+ #int09-panel-4 .speedsters-table tr>*:first-child {width:28px}
+ #int09-panel-4 .speedsters-table tr>*:last-child {width:98px}
+ #int09-panel-4 .speedsters-table thead {height:44px;font-size:10px}
+ #int09-panel-4 .speedsters-table tbody tr {height:64px}
+ #int09-panel-4 .speedsters-table tbody th {font-size:14px;line-height:1.45;padding:10px 8px 10px 0}
+ #int09-panel-4 .speedsters-table tbody td:first-child {font-size:11px}
+ #int09-panel-4 .speedsters-table tbody td:last-child {font-size:19px}
+ #int09-panel-4 .speedsters-watch {width:430px;right:-170px;top:38px;opacity:.105}
+}
+
+/* Secondary judge comparison stays available, folded beneath the main ranking. */
+body.shell-r1 .app>.main #judges #int09-panel-0 .judge-heat-disclosure {
+ padding:0!important;background:var(--ds-inner)!important;border:1px solid var(--ds-rule);border-radius:10px;
+}
+#judges .judge-heat-details>summary {
+ display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:56px;
+ padding:16px 20px;cursor:pointer;list-style:none;color:var(--ds-text);font-size:18px;line-height:1.4;font-weight:550;
+}
+#judges .judge-heat-details>summary::-webkit-details-marker {display:none}
+#judges .judge-heat-details>summary:hover {background:rgba(185,190,180,.04);border-radius:10px}
+#judges .judge-heat-details>summary:focus-visible {outline:2px solid var(--ds-amber);outline-offset:-4px;border-radius:10px}
+#judges .judge-heat-chevron {flex:none;font-size:20px;color:var(--ds-muted)}
+#judges .judge-heat-details[open]>summary .judge-heat-chevron {transform:rotate(180deg)}
+#judges .judge-heat-content {padding:0 20px 20px;min-width:0}
+#judges .judge-heat-content .judge-heat-subtitle {font-size:13px;line-height:1.6;color:var(--ds-muted);margin:0 0 16px}
+@media(max-width:600px){
+ #judges .judge-heat-details>summary {padding:14px 16px;font-size:17px}
+ #judges .judge-heat-content {padding:0 12px 16px}
+}

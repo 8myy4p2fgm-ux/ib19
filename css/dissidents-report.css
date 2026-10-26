@@ -1,0 +1,54 @@
+/* UX-DISS-01. Scoped to the existing R1 Dissidents panel. */
+#judges #int09-panel-3 .dissent-ux{color:var(--ds-text);font:14px/1.5 var(--ds-h1-family)}
+#judges #int09-panel-3 .dissent-ux *{box-sizing:border-box}
+#judges #int09-panel-3 .dissent-ux [hidden]{display:none!important}
+#judges #int09-panel-3 .dissent-ux :is(h3,h4,p){margin:0}
+#judges #int09-panel-3 .dissent-ux button{font:inherit;cursor:pointer;color:inherit;box-shadow:none;transform:none;min-height:44px;overflow-wrap:anywhere}
+#judges #int09-panel-3 .dissent-ux :focus-visible{outline:2px solid var(--ds-focus);outline-offset:-2px}
+#judges #int09-panel-3 .du-tabs,#judges #int09-panel-3 .du-filters{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:16px}
+#judges #int09-panel-3 :is(.du-tabs,.du-filters) button{border:1px solid transparent;border-radius:7px;padding:9px 14px;background:transparent;font-size:13px}
+#judges #int09-panel-3 :is(.du-tabs,.du-filters){background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:9px;padding:4px;width:fit-content;max-width:100%}
+#judges #int09-panel-3 :is(.du-tabs,.du-filters) button:is([aria-selected=true],[aria-pressed=true]){background:#3c3e40;border-color:#71716c}
+#judges #int09-panel-3 .du-filters span{margin-left:8px;color:var(--ds-muted);font-size:11px}
+#judges #int09-panel-3 .du-explainer{font-size:12px;color:var(--ds-muted);margin-bottom:16px}
+#judges #int09-panel-3 .du-workspace{display:grid;grid-template-columns:260px minmax(0,1fr);gap:22px}
+#judges #int09-panel-3 .du-ranking{max-height:690px;overflow:auto;scrollbar-width:thin;padding:4px;background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:9px;align-self:start}
+#judges #int09-panel-3 .du-judge{display:grid;grid-template-columns:20px minmax(0,1fr) 40px;align-items:center;width:100%;gap:8px;min-height:70px;text-align:left;padding:9px;border:0;border-bottom:1px solid var(--ds-rule);background:transparent;border-radius:4px}
+#judges #int09-panel-3 .du-judge[aria-pressed=true]{background:#3c3e40;box-shadow:inset 2px 0 var(--ds-gold)}
+#judges #int09-panel-3 .du-judge b{color:var(--ds-gold);font-size:14px;font-weight:550;text-align:right}
+#judges #int09-panel-3 .du-place{font-size:11px;color:var(--ds-muted)}
+#judges #int09-panel-3 .du-judge-name{font-size:13px;overflow-wrap:anywhere}
+#judges #int09-panel-3 .du-judge-name small{display:block;font-size:11px;color:var(--ds-muted);margin-top:3px}
+#judges #int09-panel-3 .du-judge-name i{display:block;height:3px;margin-top:5px;background:#ffffff08}
+#judges #int09-panel-3 .du-judge-name em{display:block;height:100%;background:var(--ds-gold);opacity:.65}
+#judges #int09-panel-3 .du-detail{min-width:0}
+#judges #int09-panel-3 .du-judge-heading{margin-bottom:16px}
+body.shell-r1 #judges #int09-panel-3 .du-judge-heading h3{font-size:22px!important;line-height:1.3!important;font-weight:550}
+#judges #int09-panel-3 .du-judge-heading p{font-size:12px;color:var(--ds-muted);margin-top:5px}
+#judges #int09-panel-3 .du-case{padding:14px 16px;margin-bottom:10px;border:1px solid var(--ds-rule);border-radius:9px;background:var(--ds-inner)}
+#judges #int09-panel-3 .du-case header{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:10px}
+#judges #int09-panel-3 .du-case h4{font-size:15px;font-weight:550;overflow-wrap:anywhere}
+#judges #int09-panel-3 .du-case-body{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:18px}
+#judges #int09-panel-3 .du-values{display:flex;flex-wrap:wrap;gap:5px 12px;font-size:11px;color:var(--ds-muted)}
+#judges #int09-panel-3 .du-values b{color:var(--ds-text);font-weight:550}
+#judges #int09-panel-3 .du-values .du-chosen,#judges #int09-panel-3 .du-values .du-chosen b{color:var(--ds-gold)}
+#judges #int09-panel-3 .du-voices{width:100%;height:105px;display:block;max-width:450px;margin:0 auto;overflow:visible}
+#judges #int09-panel-3 .du-voices text{fill:var(--ds-muted);font:11px var(--ds-h1-family)}
+#judges #int09-panel-3 .du-peer-label{font-size:11px;color:var(--ds-muted);margin-bottom:5px}
+#judges #int09-panel-3 .du-named{list-style:none;padding:0;margin:0;font-size:12px;min-width:0}
+#judges #int09-panel-3 .du-named li{display:flex;justify-content:space-between;gap:10px;padding:3px 0;border-bottom:1px solid #ffffff08}
+#judges #int09-panel-3 .du-named span{overflow-wrap:anywhere;min-width:0}
+#judges #int09-panel-3 .du-named b{font-weight:550;color:var(--ds-gold)}
+#judges #int09-panel-3 .du-profile{background:transparent;border:0;padding:6px 8px;color:var(--ds-gold)!important;flex-shrink:0;font-size:12px!important}
+#judges #int09-panel-3 .du-more{display:block;width:100%;border:1px solid var(--ds-rule);border-radius:7px;background:var(--ds-inner);padding:10px 14px;margin-top:12px}
+#judges #int09-panel-3 .du-track{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1fr) minmax(0,1fr);gap:24px;padding:15px;border-bottom:1px solid var(--ds-rule);align-items:center;background:var(--ds-inner)}
+#judges #int09-panel-3 .du-tracks{border:1px solid var(--ds-rule);border-radius:9px;overflow:hidden}
+#judges #int09-panel-3 .du-track[data-selected=true]{box-shadow:inset 3px 0 var(--ds-gold);background:#323535}
+#judges #int09-panel-3 .du-track-title{min-width:0}
+#judges #int09-panel-3 .du-track-title>button:first-child{font-weight:550;text-align:left;background:transparent;border:0;padding:0;font-size:15px;width:100%}
+#judges #int09-panel-3 .du-track-title p,#judges #int09-panel-3 .du-score-line{font-size:12px;color:var(--ds-muted)}
+#judges #int09-panel-3 .du-track-title small{display:block;font-weight:400;color:var(--ds-muted)}
+#judges #int09-panel-3 .du-score-line{text-align:center;margin-top:3px}
+#judges #int09-panel-3 .du-live{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+@media(max-width:1050px){#judges #int09-panel-3 .du-workspace{grid-template-columns:215px minmax(0,1fr);gap:16px}#judges #int09-panel-3 .du-case-body{grid-template-columns:1fr}#judges #int09-panel-3 .du-named{font-size:12px}}
+@media(max-width:760px){#judges #int09-panel-3 .du-workspace{grid-template-columns:1fr}#judges #int09-panel-3 .du-ranking{max-height:300px}#judges #int09-panel-3 .du-track{grid-template-columns:1fr;gap:8px;padding:14px}#judges #int09-panel-3 .du-case{padding:12px}#judges #int09-panel-3 .du-case-body{gap:8px}#judges #int09-panel-3 .du-tabs{width:100%}#judges #int09-panel-3 .du-tabs button{flex:1;padding:8px;font-size:12px}#judges #int09-panel-3 .du-filters{display:grid;grid-template-columns:1fr 1fr;width:100%}#judges #int09-panel-3 .du-filters button{padding:8px;font-size:12px}}

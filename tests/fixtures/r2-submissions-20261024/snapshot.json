@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "resourceVersion": "r2-submissions-v1",
+  "kind": "round-submissions",
+  "roundId": "235f6600-5224-4adf-bbcc-a220f4572251",
+  "snapshotId": "81bdce19c65296eb0e389d2927644aec5397164666212165b561654249fd3135:0bd593806b28a902c13be0054172a330c3c7ccf92253bb1ded7290f13dcb09ce",
+  "importedAt": "2026-10-24T08:42:20.129Z",
+  "sources": {
+    "full": {
+      "url": "https://api.19ib.ru/rounds/235f6600-5224-4adf-bbcc-a220f4572251/full",
+      "sha256": "81bdce19c65296eb0e389d2927644aec5397164666212165b561654249fd3135",
+      "bytes": 1767,
+      "retrievedAt": null,
+      "httpStatus": null,
+      "httpHeaders": null,
+      "originalFile": "/Users/gleb/Downloads/r2-full.json",
+      "provenance": "Owner-provided saved official API response"
+    },
+    "live": {
+      "url": "https://api.19ib.ru/rounds/235f6600-5224-4adf-bbcc-a220f4572251/live",
+      "sha256": "0bd593806b28a902c13be0054172a330c3c7ccf92253bb1ded7290f13dcb09ce",
+      "bytes": 214,
+      "retrievedAt": null,
+      "httpStatus": null,
+      "httpHeaders": null,
+      "originalFile": "/Users/gleb/Downloads/r2-live.json",
+      "provenance": "Owner-provided saved official API response"
+    }
+  },
+  "raw": {
+    "full": "{\"id\":\"235f6600-5224-4adf-bbcc-a220f4572251\",\"tournamentId\":\"9345a642-d1fb-4ac7-aebc-b59f2628170b\",\"name\":\"2 отборочный раунд\",\"slug\":\"2-otborochnyy-raund\",\"topic\":\"Без особых причин\",\"coverUrl\":\"/storage/covers/rounds/235f6600-5224-4adf-bbcc-a220f4572251-1792692468933.webp\",\"roundOrder\":2,\"type\":\"solo\",\"status\":\"active\",\"deadline\":\"2026-11-23T20:59:00.000Z\",\"judgingDeadline\":\"2027-01-05T20:59:00.000Z\",\"startedAt\":null,\"judgesRequired\":7,\"resultsPublished\":false,\"maxParticipants\":null,\"scoreScale\":10,\"passThreshold\":null,\"advanceCount\":256,\"minDurationSec\":90,\"maxDurationSec\":120,\"judgingStartedAt\":null,\"judgingStartsAt\":\"2026-11-19T21:00:00.000Z\",\"createdAt\":\"2026-07-19T14:17:02.142Z\",\"updatedAt\":\"2026-10-23T21:02:47.898Z\",\"tournamentStatus\":\"active\",\"champion\":null,\"maxScore\":70,\"rubrics\":[],\"feed\":[],\"entries\":[{\"userId\":\"9f99b9c5-0b85-4712-8d97-456ac974d9d6\",\"slug\":\"mcguffin\",\"name\":\"McGuffin\",\"seed\":0,\"rating\":317,\"judgePoints\":17,\"likeCount\":9,\"playCount\":291,\"liked\":false,\"avatarUrl\":\"/storage/avatars/9f99b9c5-0b85-4712-8d97-456ac974d9d6/db9a578494d3.webp\",\"score\":null,\"advanced\":null,\"trackId\":\"a0b0cc57-7fd5-45ef-9783-d291453f5f71\",\"durationSec\":90,\"hasLyrics\":true,\"submittedAt\":\"2026-10-23T21:10:09.693Z\",\"judgesRequired\":7,\"scoredCount\":0},{\"userId\":\"46571f27-5da6-4374-99e7-087649eab13d\",\"slug\":\"mc-spermozavr\",\"name\":\"мц спермозавр\",\"seed\":0,\"rating\":324,\"judgePoints\":15,\"likeCount\":20,\"playCount\":289,\"liked\":false,\"avatarUrl\":\"/storage/avatars/46571f27-5da6-4374-99e7-087649eab13d/34dd2c943747.webp\",\"score\":null,\"advanced\":null,\"trackId\":\"49cfe449-5504-48e8-9c62-6d8741355d3b\",\"durationSec\":119,\"hasLyrics\":true,\"submittedAt\":\"2026-10-23T21:03:55.822Z\",\"judgesRequired\":7,\"scoredCount\":0}]}",
+    "live": "{\"progress\":[{\"userId\":\"46571f27-5da6-4374-99e7-087649eab13d\",\"score\":null,\"advanced\":null,\"scoredCount\":0},{\"userId\":\"9f99b9c5-0b85-4712-8d97-456ac974d9d6\",\"score\":null,\"advanced\":null,\"scoredCount\":0}],\"feed\":[]}"
+  }
+}

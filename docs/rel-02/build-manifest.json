@@ -1,0 +1,853 @@
+{
+  "baseCommit": "4caac2e322054e98e04737fda4c0336f2e9bee52",
+  "fileCount": 167,
+  "bytes": 71029720,
+  "runtimeModules": 90,
+  "routes": [
+    "/",
+    "/dynamics/",
+    "/judges/",
+    "/rappers/",
+    "/events/",
+    "/horo/"
+  ],
+  "forbiddenPaths": [],
+  "credentialMarkers": [],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "css/assets/horo-logo.png",
+      "bytes": 242010,
+      "sha256": "0223a3c40885ed7fe1a880ec807d63d7d7c185f0aa37218de4cf1233cbc9987f"
+    },
+    {
+      "path": "css/assets/overview-wallpaper.jpg",
+      "bytes": 249821,
+      "sha256": "8aa20f3eebc35217bfd7f61b6cf9b6731ccd7e53ba8f5d2b00bc08f40497023f"
+    },
+    {
+      "path": "css/assets/room-light-off-preview.webp",
+      "bytes": 4208,
+      "sha256": "ee2a6cda809c77609e08ecbaa7b0f0e6d660fd742735618716198dc9cedb52b8"
+    },
+    {
+      "path": "css/assets/room-light-off.png",
+      "bytes": 1770601,
+      "sha256": "057caebe99559985f4ef70143f2a835c3a08b16ef6cc0f6c8902e6360b5b7a51"
+    },
+    {
+      "path": "css/assets/room-light-off.webp",
+      "bytes": 145698,
+      "sha256": "42c00f3356d58d8deb33c72809eaefda0712cf32acb7f386cc779de8e0965f0f"
+    },
+    {
+      "path": "css/assets/room-light-on-preview.webp",
+      "bytes": 8110,
+      "sha256": "ff79380ea8f6919d55cd0dff92f7f5bd5e99599c758dbef47f98eb92f3adbd59"
+    },
+    {
+      "path": "css/assets/room-light-on.png",
+      "bytes": 1943445,
+      "sha256": "fe222e9f5853ea7df15f2d57279c9d05e26f2a7a899f37c2753bd89635c2c898"
+    },
+    {
+      "path": "css/assets/room-light-on.webp",
+      "bytes": 233952,
+      "sha256": "fd857b3716bddd54e424918ea2d370ce2fb19f05ff289c77e11b1743097b2302"
+    },
+    {
+      "path": "css/assets/room-mobile-light-off-preview.webp",
+      "bytes": 4334,
+      "sha256": "cb602dfc0a005495049d279dffbf4d95288fd76f0b2a9da59a8daf4d104435bf"
+    },
+    {
+      "path": "css/assets/room-mobile-light-off.png",
+      "bytes": 1773902,
+      "sha256": "9b41f3dff537e79bddcb578ae9ba148378d434c64ffc9e28324bfa0327422db6"
+    },
+    {
+      "path": "css/assets/room-mobile-light-off.webp",
+      "bytes": 113572,
+      "sha256": "b27c02f79222a69c04caaca572bd2ad0adde6eada31260bf79af8f44e40ab6f5"
+    },
+    {
+      "path": "css/assets/room-mobile-light-on-preview.webp",
+      "bytes": 8986,
+      "sha256": "11e157deb2f93ae4d1f5533ca7fa8470d3edbdd5f191d29c61e101ae4eecf793"
+    },
+    {
+      "path": "css/assets/room-mobile-light-on.png",
+      "bytes": 2114816,
+      "sha256": "82faf4b09f334fdce0676f579fe39dcee838657b30f3202507cbff9be261558e"
+    },
+    {
+      "path": "css/assets/room-mobile-light-on.webp",
+      "bytes": 185876,
+      "sha256": "2044fb7f13089427a1ea35c3ae65dbe43b46f7d02c2f35263e5ee539cda00b84"
+    },
+    {
+      "path": "css/assets/switch-light-off.webp",
+      "bytes": 3068,
+      "sha256": "550ff46b7fa02bcbab9fc8b9fdb67ccb238fff8d9c9faa68b7b00fc5b0c0c2d3"
+    },
+    {
+      "path": "css/assets/switch-light-on.webp",
+      "bytes": 4256,
+      "sha256": "22f1e895488c5e779ce7f695df3369de3e5be335e8ca797820ffe65929df6bb2"
+    },
+    {
+      "path": "css/assets/tuz-drawn-232.png",
+      "bytes": 35421,
+      "sha256": "6f27db6adbe41a7a34e715c326496aa92b69a15c8464f9c4a5a7b0c4433d89d7"
+    },
+    {
+      "path": "css/design-system-v2.css",
+      "bytes": 21762,
+      "sha256": "313cc2e90436f7c983911871b1129a37719b5601407deb53824317fb4bfc3bfd"
+    },
+    {
+      "path": "css/dissidents-report.css",
+      "bytes": 6593,
+      "sha256": "079762e5b2198cec22517a5a633ddba0c673d52e0b83bc1b8ab65186d0f01864"
+    },
+    {
+      "path": "css/dynamics-v58.css",
+      "bytes": 62685,
+      "sha256": "36fac0adf4713fabc15d8444cea33508ed959de055b664c728d4e58740ead3f6"
+    },
+    {
+      "path": "css/home-r1.css",
+      "bytes": 26626,
+      "sha256": "45912eef20feda1ecb1f12011368c25cf730cc4a0670ad080ce65e05510f5b09"
+    },
+    {
+      "path": "css/horo.css",
+      "bytes": 6862,
+      "sha256": "28bfc69e95a31682672da7908a1c773d10ad84ddb263bf39a5bcae57d0fe2bae"
+    },
+    {
+      "path": "css/judge-profile.css",
+      "bytes": 5956,
+      "sha256": "0bc457b210127dd003fc4b76eb18e548d49a3adf3b60094ab1ee6d9830c8eae1"
+    },
+    {
+      "path": "css/judge-ranking.css",
+      "bytes": 22099,
+      "sha256": "fe86868df87ee7af17b55fd99e753ae2c1dacacf570b8f1c1bf13659fc30dd87"
+    },
+    {
+      "path": "css/judge-research.css",
+      "bytes": 88998,
+      "sha256": "f944acbf04eeb2c5f060e84eb553b525221e5e217d94c2d1176f66abb71cfa0e"
+    },
+    {
+      "path": "css/logo-classic.css",
+      "bytes": 1693,
+      "sha256": "9c3fcd771982cf0571fcd094152198083841170561dce5e4b124a4b80e35df48"
+    },
+    {
+      "path": "css/pace-deadline.css",
+      "bytes": 1913,
+      "sha256": "ad2ea0ede4f7496754af61ecc931a449bdf8fd78b756924009ee53fefbf4e54f"
+    },
+    {
+      "path": "css/r2-submissions.css",
+      "bytes": 6424,
+      "sha256": "8a7dee8320bf42a5e4f70f35e9832371eac354c616fba5a92ebc57bb2dfdc25a"
+    },
+    {
+      "path": "css/rapper-reports.css",
+      "bytes": 20980,
+      "sha256": "e4af9c08083165343d6264280cf64da92f909feac25ae2c774edf5f48ad9b27f"
+    },
+    {
+      "path": "css/rapper-research.css",
+      "bytes": 81617,
+      "sha256": "44d57a1f311c03d23b1fa592b65cd0097e3485bb87d49e31cc91f5fe80c2ccd9"
+    },
+    {
+      "path": "css/shell-r1.css",
+      "bytes": 11478,
+      "sha256": "e42986f11a259289a6957400d85e9513b87a57d8f09b3473183b64335c5060dd"
+    },
+    {
+      "path": "css/site-selects.css",
+      "bytes": 3444,
+      "sha256": "7c329a9a7f9fbe439ac2245c2e9541a2c09090ac13060a5ddb0db4c72396cea5"
+    },
+    {
+      "path": "css/site-wallpaper.css",
+      "bytes": 4753,
+      "sha256": "3de421d99ca530115ef746aaf4349c4af64c9c14db623063a55d0dc1220af46e"
+    },
+    {
+      "path": "css/styles.css",
+      "bytes": 150463,
+      "sha256": "cbac46161b9c4201b7517d6cd217587feefe76ee708294ae79f5ea232ea6acef"
+    },
+    {
+      "path": "css/v58-research.css",
+      "bytes": 94839,
+      "sha256": "fca003df1ebe41379ffda11e79f60994262e282165a1a9b167694a1d9ec1081b"
+    },
+    {
+      "path": "css/verdict-report.css",
+      "bytes": 6339,
+      "sha256": "cee91137dbfa74364e7cd5c48b4f918cec7eb4bb65c391649843fc569a15c00d"
+    },
+    {
+      "path": "data/19ib_all_judges_REPAIRED.json",
+      "bytes": 7109218,
+      "sha256": "59d645ee2ebb8c36f9f8d4e863ef425de84a65ec738dae0067105c80965741e0"
+    },
+    {
+      "path": "data/forum.csv",
+      "bytes": 5803,
+      "sha256": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a"
+    },
+    {
+      "path": "data/forum_judges_export.json",
+      "bytes": 195920,
+      "sha256": "6bdb7a02225e44ea894601c83cf0798b2bc967140bee8404f562d05cc6d9a81e"
+    },
+    {
+      "path": "data/history.json",
+      "bytes": 13240187,
+      "sha256": "92d78c54e06f2bae057f06e993761c370d2e97f95d26c3ad53377578f8915854"
+    },
+    {
+      "path": "data/metadata.json",
+      "bytes": 12064,
+      "sha256": "23c966a0fac1fac40e6858aa2a6e48eab12c4ca1a0fafe6c9fabec5d3809ab42"
+    },
+    {
+      "path": "data/rounds/r2-information.v1.json",
+      "bytes": 3281,
+      "sha256": "f1dbb0084afbd5f2fb3559159f2dd4bbf8fc5605d8d3037eb20e06e247e0d8f1"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/full.raw.json",
+      "bytes": 11529,
+      "sha256": "2dd666023b5dc95b7b8ce77681787c7c8e5f5bbba6fd04fd8be4cb29b7c9ae92"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/history.json",
+      "bytes": 123,
+      "sha256": "076ea9f47d2444d6eccb327af9ed91d635a7747ef80a5da44c28ee2d2d4fa0c8"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/live.raw.json",
+      "bytes": 2209,
+      "sha256": "19bf5baca6704134b2504713c8acf7ff609f40f34a555acce8dee52f18ca0b0e"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/manifest.json",
+      "bytes": 847,
+      "sha256": "e9683fe54f2998565e8055067c6e6457917b36579dfdfdea707f69ee85c57b7e"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/metadata.json",
+      "bytes": 282,
+      "sha256": "6aa631120f8a809618128903354e8667cd976aad27bb0df3c50c344cb14d6479"
+    },
+    {
+      "path": "data/rounds/r2-submissions.v1/snapshot.json",
+      "bytes": 16619,
+      "sha256": "ff17fb964267f3455d8cf13013dd592706c0a6fe827dc954f54e8ddf76ebdf0a"
+    },
+    {
+      "path": "docs/data-candidates/r1-2026-10-22-194208/19ib_all_judges_REPAIRED.json",
+      "bytes": 7109210,
+      "sha256": "80a1b3c3dd8c972437353248efa47c30f213389055abc48f6fe8a40bc718c6d3"
+    },
+    {
+      "path": "docs/data-candidates/r1-2026-10-22-194208/forum.csv",
+      "bytes": 5803,
+      "sha256": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a"
+    },
+    {
+      "path": "docs/data-candidates/r1-2026-10-22-194208/forum_judges_export.json",
+      "bytes": 195920,
+      "sha256": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd"
+    },
+    {
+      "path": "docs/data-candidates/r1-2026-10-22-194208/history.json",
+      "bytes": 13225043,
+      "sha256": "2d3b3f0c825804854c697e2b02266c63f2be5eb1bbc6a3d598d778df72a49f00"
+    },
+    {
+      "path": "docs/data-candidates/r1-2026-10-22-194208/metadata.json",
+      "bytes": 12064,
+      "sha256": "eae53b51705acba82b2e705e40bd44e1d47ec84b6ed9997d49ac3437bb62e760"
+    },
+    {
+      "path": "dynamics/index.html",
+      "bytes": 15747,
+      "sha256": "b3ce43950cb7e823892084f269ff2f7c8e088fdf5c035a254e0a84f088a57cb9"
+    },
+    {
+      "path": "events/index.html",
+      "bytes": 15728,
+      "sha256": "5a37740fd1f688dd1cbbedad73550b38f6eae535993a8e403cd2257dde573fe2"
+    },
+    {
+      "path": "horo/content.json",
+      "bytes": 29934,
+      "sha256": "c592adc743854912e257aa05649c32ceb92f0b9051fbbcd492c83d094e4e61ab"
+    },
+    {
+      "path": "horo/index.html",
+      "bytes": 15753,
+      "sha256": "4389d3e86ac9c0cb00ac1aea6efe5ca82f8f40234c2e3cad17eb9ef4515f4834"
+    },
+    {
+      "path": "horo/media/comic-01.png",
+      "bytes": 80765,
+      "sha256": "b773e92dcbc528d4341a2a5e4558c60faa9d61196a3df67c7153c45657c87fea"
+    },
+    {
+      "path": "horo/media/comic-02.png",
+      "bytes": 76241,
+      "sha256": "9064b19d04a8ced1725d57f887f9f9e15f7e82613ce3a8e017e2aa7e5250c29f"
+    },
+    {
+      "path": "horo/media/comic-03.png",
+      "bytes": 79331,
+      "sha256": "7af765916be96bfea3e8119541072ae72196c35242788b8e5e38c116e962e01a"
+    },
+    {
+      "path": "horo/media/comic-04.png",
+      "bytes": 79121,
+      "sha256": "f0ad94cf122907436f798a72c2f41943113b065282719ffcb67ebe1568cee17b"
+    },
+    {
+      "path": "horo/media/comic-05.png",
+      "bytes": 77998,
+      "sha256": "eaf9463440813d5d555f3fd9693518d80fb9354de0855fa5b2058703150c6e53"
+    },
+    {
+      "path": "horo/media/comic-06.png",
+      "bytes": 79973,
+      "sha256": "935a9fa14f4ab1fe72806db977129552c95bacef0b4261ed8f44aa181f5b50ff"
+    },
+    {
+      "path": "horo/media/comic-07.png",
+      "bytes": 1838309,
+      "sha256": "5349f45c0c98d3ba8311a7bdb1982ed29f76b279f528af731a60a37996eca4cf"
+    },
+    {
+      "path": "horo/media/comic-08.png",
+      "bytes": 82269,
+      "sha256": "b355d3c3d5cc4380156746856c858d3b4c9f93e8cfded22fbe5511f066e4c681"
+    },
+    {
+      "path": "horo/media/comic-09.png",
+      "bytes": 363565,
+      "sha256": "41a3936ace68e18f0494c793607e389da7a01ea9230b69a1f519dfbafb61777e"
+    },
+    {
+      "path": "horo/media/comic-10.png",
+      "bytes": 2473505,
+      "sha256": "9e7c00d73dc85eb43286bcb235ada88e281dce56d52c797241978b70f273d7dc"
+    },
+    {
+      "path": "horo/media/comic-11.png",
+      "bytes": 2608972,
+      "sha256": "06a5393417ae00ab52dbe4324652adedf40304e2e3d957613c660c2a7a4cbb72"
+    },
+    {
+      "path": "horo/media/comic-12.png",
+      "bytes": 3260457,
+      "sha256": "2a3e6a647bb7943e5ac1c82b7de88317f98de4cdd72a0cc6605db57dd9c23e7e"
+    },
+    {
+      "path": "horo/media/comic-13.png",
+      "bytes": 3442367,
+      "sha256": "5e9b5f3377091162d9904f15b7583e65348f2528473ae04bbe7cbe2b3cf36903"
+    },
+    {
+      "path": "horo/media/comic-14.png",
+      "bytes": 3620552,
+      "sha256": "676ab0a683d8778622538ffcd1a7bdab68ceebf639f0aad9559f2d0b3abc1988"
+    },
+    {
+      "path": "horo/media/comic-series-12-14.webp",
+      "bytes": 978454,
+      "sha256": "fe198f28c41c96aa067a363df3a0977b77b52c5ea9e4a661b1c8a906c3339f39"
+    },
+    {
+      "path": "horo/media/comic-series-14-12-horizontal.webp",
+      "bytes": 722390,
+      "sha256": "471c0a42c32284419f3fad7c04618f28d1242465d451d57cdbdf23849c7055c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15693,
+      "sha256": "9aaee5f7ad39dd34fb6285cf22ab1edd59471e296d631af9eb874809023b3d28"
+    },
+    {
+      "path": "js/activity-clock.js",
+      "bytes": 5987,
+      "sha256": "811636fbd3901ab1ddf0c21ddbbc789f126708589b74937b852c7ead5515a124"
+    },
+    {
+      "path": "js/analytics-selection.js",
+      "bytes": 4024,
+      "sha256": "0b7642491d8fcbca45def674269e1eae9f71bc12eda62f1678dbe3675ea62e15"
+    },
+    {
+      "path": "js/analytics-v2.js",
+      "bytes": 2051,
+      "sha256": "136eb68d064bfd19fcad232688049509719c092ee291c544d447ae3e23ee15b0"
+    },
+    {
+      "path": "js/app.js",
+      "bytes": 14315,
+      "sha256": "e19b4a8ef2b58934dc897022f76a90cd390f50de9eda3eae02e08bb0b9bc80a6"
+    },
+    {
+      "path": "js/artist-identity.js",
+      "bytes": 721,
+      "sha256": "0e1db782a7cdc51b2788043d0706b9d075164ae86e5a3951155f60f14fbbdbca"
+    },
+    {
+      "path": "js/calculations.js",
+      "bytes": 8217,
+      "sha256": "68411d94b06f4a48caeedc6008817fbecbd776dfcf9daaf7d20e1ebe8338ccd9"
+    },
+    {
+      "path": "js/charts.js",
+      "bytes": 1826,
+      "sha256": "8888b38bc0a40e2c59e1cb126871399b4acbaca5ad9f44d08c5f7fa5b35784e0"
+    },
+    {
+      "path": "js/clock-doodle.js",
+      "bytes": 7863,
+      "sha256": "7e6242ae8c361eafdeec86bcaa891351e867490738b449e9d95ac65dfc8332a7"
+    },
+    {
+      "path": "js/config.js",
+      "bytes": 275,
+      "sha256": "6999127f9160ebb6a0509979ccf946ad6fa43c08ca717354401eec7bca510a52"
+    },
+    {
+      "path": "js/data-methodology.js",
+      "bytes": 2002,
+      "sha256": "ee39504c43f7c093c1b5e3d19e20c668766086f8982cc7117f867a48ba7a5641"
+    },
+    {
+      "path": "js/data.js",
+      "bytes": 8213,
+      "sha256": "e0d4ab91dac8caf3dcb3cf484654638090f6f0cb5bf41d4aea6f2ed55ef5b34b"
+    },
+    {
+      "path": "js/dissidents-report.js",
+      "bytes": 8403,
+      "sha256": "8f8f97323d56a3867ebd6bd8e3c38b812856f3a0e8fe065b196e4bca51bf6349"
+    },
+    {
+      "path": "js/dynamics-hours.js",
+      "bytes": 316,
+      "sha256": "b76a562c570601c59377f1e9f99e8eebaaec7774d87a201bd66d36d2b00f3526"
+    },
+    {
+      "path": "js/dynamics-v58.js",
+      "bytes": 19604,
+      "sha256": "9e84f6710997ad9281f0357c08327280ddfc70e5500ffa8b7868ae114eb6108f"
+    },
+    {
+      "path": "js/fastest-series-view.js",
+      "bytes": 2543,
+      "sha256": "9550ecaa93357696fd1002a1bbe3d1682cca480437f153926adc805bb380f72e"
+    },
+    {
+      "path": "js/fastest-series.js",
+      "bytes": 2234,
+      "sha256": "c0330f323ace2ff9006ddf171d913e79dac7a9b1a8f7278aca0136b04b8f624f"
+    },
+    {
+      "path": "js/fastest-stopwatch.js",
+      "bytes": 6329,
+      "sha256": "62ddb1c3501d7e6858d709c2ffcfd5282b02efed1b17d91d8c67456442d99753"
+    },
+    {
+      "path": "js/forum-link-model.js",
+      "bytes": 3994,
+      "sha256": "0e4c4ead8d577d1a80795e29133ce868fd36825e0dd616ca564a88bfde3d09ef"
+    },
+    {
+      "path": "js/forum-link.js",
+      "bytes": 320,
+      "sha256": "83ce70b1781593983bcf66c7a6ef9625fad9ebef0706bd7b1ed91259493053a7"
+    },
+    {
+      "path": "js/forum-voice.js",
+      "bytes": 5195,
+      "sha256": "64048c852cded3d2da8f0dbc0afffafd21d9c6da6de3ae47c355afc687f6e847"
+    },
+    {
+      "path": "js/general.js",
+      "bytes": 1261,
+      "sha256": "4ff10364d0e4b7efc73f3ff087da49ef68a16ed972dfb58b94ce86b67bbf2313"
+    },
+    {
+      "path": "js/header-polish.js",
+      "bytes": 3747,
+      "sha256": "21de15f1864fe4d4fcc39cd90a8dad415581daa32a6cfae48b6ded729b4beabb"
+    },
+    {
+      "path": "js/history.js",
+      "bytes": 318,
+      "sha256": "c5592728708826df19c4aee5c1f3ce6277101c54571811be197cb1321ca6bb1f"
+    },
+    {
+      "path": "js/home-pulse-controls.js",
+      "bytes": 2834,
+      "sha256": "e6e468037e4292bb7768c3a4afda70dea2eacd7a472cd8ad41c6b10f7b9a5d1b"
+    },
+    {
+      "path": "js/home-r1.js",
+      "bytes": 7537,
+      "sha256": "c8c809da2c45c331118025aad18e1786a594b1f60590ac0f004a06997d7c43f0"
+    },
+    {
+      "path": "js/home-report-links.js",
+      "bytes": 3610,
+      "sha256": "fdafca9ec84d920841fac76d770c4dad68544544f62ce4c60d2b6ca5885b0e26"
+    },
+    {
+      "path": "js/horo-entry.js",
+      "bytes": 572,
+      "sha256": "063ef4cc96a026334c7856656aef9c99a3ad0949fe22b5774fb5888f0818e335"
+    },
+    {
+      "path": "js/horo.js",
+      "bytes": 4892,
+      "sha256": "088497199c6dca5b2b0aac9fec922b5743549c5839cd88572b5e9dd85233b2f4"
+    },
+    {
+      "path": "js/hour-judge-select.js",
+      "bytes": 2978,
+      "sha256": "8d5d0e2256588ac5bba38f41c74fefd2bb7509d7d280cca7f1d3b338fe8b965f"
+    },
+    {
+      "path": "js/impact-calculation.js",
+      "bytes": 1149,
+      "sha256": "0e798d5d8a38570a9c784158a30614ec639fd81bab1d3a17a2d03dfb35918359"
+    },
+    {
+      "path": "js/impact-worker.js",
+      "bytes": 250,
+      "sha256": "46c8069913ad8eef4c5bfa48c1698e56c477bf8aef2b18255bebcfd030a62b1c"
+    },
+    {
+      "path": "js/interactions-1.js",
+      "bytes": 7387,
+      "sha256": "5449cecb511b81a54dd1669fd9f2c28fa06ac4e60f38d7cc54cf393db90dd87c"
+    },
+    {
+      "path": "js/interactions-2.js",
+      "bytes": 2248,
+      "sha256": "674466bb6ac1280296b7793dc2447ccea4f8c8d75fdf0f3ba719f7f86560b689"
+    },
+    {
+      "path": "js/interactions-3.js",
+      "bytes": 492,
+      "sha256": "7b1349baca83dd986aac15852894c4c06a0ef2477767e4ea6c72e85ce836da06"
+    },
+    {
+      "path": "js/interactions-4.js",
+      "bytes": 1176,
+      "sha256": "9461aeabcfddbef7c2566160d34259e502ceb730e73bc542ee3913fa41f57fc3"
+    },
+    {
+      "path": "js/judge-comparison.js",
+      "bytes": 1420,
+      "sha256": "7d0fde333032a6e8cc472fdba4db027d841e372e4726554d3bc0b4cde0d7ba59"
+    },
+    {
+      "path": "js/judge-groups.js",
+      "bytes": 730,
+      "sha256": "81ea483300c6292c4a239690df89a83de6381dafe7440cd123ec88f2544e3f1a"
+    },
+    {
+      "path": "js/judge-presentation.js",
+      "bytes": 549,
+      "sha256": "c3e46b36e6edddd5a52ed125ef1983bbfb8ac6cb254584fc4574f7895a91f48e"
+    },
+    {
+      "path": "js/judge-profile-entry.js",
+      "bytes": 936,
+      "sha256": "2dd79f6671b961eb8e10987654978be6c52d70c39e2b1b458264dff76806735b"
+    },
+    {
+      "path": "js/judge-profile-model.js",
+      "bytes": 2599,
+      "sha256": "acb3e9fa7b81cc63190eaa6895dd6b3b93b99c1d179107362052f2206db740cd"
+    },
+    {
+      "path": "js/judge-profile.js",
+      "bytes": 10864,
+      "sha256": "d721a7ec21c859d2111e8231f045252526033423cdb822c75495f325addc38f9"
+    },
+    {
+      "path": "js/judge-ranking-entry.js",
+      "bytes": 1087,
+      "sha256": "2c37db2bfcff5a738c65f98340ed761e6e68cb0be3a27c256e9de25c1651fe8e"
+    },
+    {
+      "path": "js/judge-ranking-model.js",
+      "bytes": 2676,
+      "sha256": "f28af29927a48ceadc047ac0cdc0a7c8b39f79fc7c7384ce52fb95580dddd0dd"
+    },
+    {
+      "path": "js/judge-ranking.js",
+      "bytes": 6428,
+      "sha256": "6d0fda11d668feff27cd1e049c4a209c603c156881b1a4701ed70b146c291189"
+    },
+    {
+      "path": "js/judge-research.js",
+      "bytes": 10233,
+      "sha256": "6e5d2fd93f4f5c82738d3ddbc01736576024a65b5100947a2b3617ddb775d1ca"
+    },
+    {
+      "path": "js/judge-summary.js",
+      "bytes": 9137,
+      "sha256": "d8096560c566a86e11f44d69e0cf26cd22d40fc53aa0fa2503cd4fd3963c7072"
+    },
+    {
+      "path": "js/judging-progress.js",
+      "bytes": 1490,
+      "sha256": "8968ef142f4c20a02708aa3ce5af774bcad4b6ce38a6b7232ccc8f2bcb716df5"
+    },
+    {
+      "path": "js/loader.js",
+      "bytes": 988,
+      "sha256": "deb845f13943cf59bbf083bea59928087dd7580c025d4fb8fc6c19982b296e78"
+    },
+    {
+      "path": "js/matrix-selection.js",
+      "bytes": 855,
+      "sha256": "8975f18454c48e6e064abc72191a9365c8f3dd06e24b3bf184d9651c52562f34"
+    },
+    {
+      "path": "js/methodology.js",
+      "bytes": 2250,
+      "sha256": "43633db95b3db743e0246875daea728e596790b7316ddd23379146a40621b7c0"
+    },
+    {
+      "path": "js/pace-model.js",
+      "bytes": 3409,
+      "sha256": "85ba3cfc1f393460ee4a4c68449e7a4a5b5da4fb2f9a44c2ae789a5f4b38c38c"
+    },
+    {
+      "path": "js/pace-tooltip.js",
+      "bytes": 2720,
+      "sha256": "f4bf3e601a74b455fead0ff7d85cb1a2a028b6961df958a48359444315d958f7"
+    },
+    {
+      "path": "js/personal.js",
+      "bytes": 554,
+      "sha256": "b13bd14952cdf47984d45b2f3ce4ce7039d319ac53036bd47ac1f94980d97ee0"
+    },
+    {
+      "path": "js/r1-application.js",
+      "bytes": 1447,
+      "sha256": "d6c05ef31f753ee11c9685f4697227a623675a1e6b929c4b80ddfd34a255c1cb"
+    },
+    {
+      "path": "js/r1-correction.js",
+      "bytes": 5180,
+      "sha256": "95f6f26aaf161debb317f34848799f7b14234f7df6448c5947d32bffd44e4b6c"
+    },
+    {
+      "path": "js/r1-fixed-contract.js",
+      "bytes": 1779,
+      "sha256": "b792fe4edc32309dc5339b0b4f6361389af53b9d5c6bac1af0296e3cbecc0c81"
+    },
+    {
+      "path": "js/r1-official-activity.js",
+      "bytes": 2291,
+      "sha256": "25f07b93635ade62712801e6f63be9d8f7597db8400c50328a3de2c5ed6ed0bc"
+    },
+    {
+      "path": "js/r1-official-policy.js",
+      "bytes": 4626,
+      "sha256": "b5999fd8c6ad0f98a0a7f17f42e01249328c4b8e234856da20cb1a1e9daf5da5"
+    },
+    {
+      "path": "js/r1-official-view.js",
+      "bytes": 10963,
+      "sha256": "e26e833dc15586b991d960b4b6a42c54a8b766fb3b7c0dec3b2a3d7f320fb72a"
+    },
+    {
+      "path": "js/r2-group-reference.js",
+      "bytes": 427,
+      "sha256": "cc6cb582100208a75a48620214f04590acfe0c3f5759a9db7421748a5e1f8c08"
+    },
+    {
+      "path": "js/r2-home-model.js",
+      "bytes": 2756,
+      "sha256": "ce113ce7bbadadd2a4d745bbbe3a448afaa353e5e3e0104b1f434447bba6463b"
+    },
+    {
+      "path": "js/r2-home.js",
+      "bytes": 5918,
+      "sha256": "92e6e54c901a6658719cf37ea4a52e47e11bf05deb3dd82174f256034a40c8a8"
+    },
+    {
+      "path": "js/r2-report-shell.js",
+      "bytes": 4226,
+      "sha256": "d72a53763e0ec705775862f3ed3f81b123d3d62a9c49c6b52bd5d8afad4380fc"
+    },
+    {
+      "path": "js/r2-submissions-view.js",
+      "bytes": 6078,
+      "sha256": "f004450c5fc07881a1bd96d837b2c7cc572164dafa81b13642a4698e5717b8fa"
+    },
+    {
+      "path": "js/r2-submissions.js",
+      "bytes": 5564,
+      "sha256": "ad8b09918689501cf3c488b77ee3f4116a58e439d41cd39401ec3a0ca5fd8dc6"
+    },
+    {
+      "path": "js/ranking-awards.js",
+      "bytes": 6188,
+      "sha256": "209b859d83081d11561ace4d7a7fb8cf6b68c44c52bc7c453b19a22f88c29419"
+    },
+    {
+      "path": "js/ranking-dialog.js",
+      "bytes": 2825,
+      "sha256": "4d9cb83ab71c13d32dba8093d2df8075ae4bf84cc007b7fb693a780c9836e965"
+    },
+    {
+      "path": "js/ranking-profile.js",
+      "bytes": 6861,
+      "sha256": "65b14d4d822b4f64a71ca4bf3891c7de1d0afcc53595983ba640ea3afd7a63af"
+    },
+    {
+      "path": "js/ranking-view.js",
+      "bytes": 752,
+      "sha256": "16e640be64f9151062db28d51573b1e01414eabdc7ae8e13f127be0cf3e385bd"
+    },
+    {
+      "path": "js/rapper-r2.js",
+      "bytes": 645,
+      "sha256": "991d9c835e80cfc74364cbe72c381d9e9140553b3c968de645b35bf35bd60c12"
+    },
+    {
+      "path": "js/rapper-report-model.js",
+      "bytes": 1616,
+      "sha256": "d7f86b7021721a7af14593ba59438c38f8568cd9463e9417c88d0ee72bb30174"
+    },
+    {
+      "path": "js/rapper-report-view.js",
+      "bytes": 31332,
+      "sha256": "02e1327587ff86e76122b30d909ba23efcfca3b4d2ba6929e60388c934d76533"
+    },
+    {
+      "path": "js/rapper-research.js",
+      "bytes": 5971,
+      "sha256": "49bc0f5ea40b589d7203be05afa18c19b3342c9d99d6dbf6ebd06385d7493a07"
+    },
+    {
+      "path": "js/report-availability.js",
+      "bytes": 1823,
+      "sha256": "91f9874fb3a10c38dd9ab5b798ff9249bbdb5bbd46801c57afa1e7700b823c68"
+    },
+    {
+      "path": "js/report-catalog.js",
+      "bytes": 3003,
+      "sha256": "553e5c16f908f55b39a8c48073e966bd2e09aa71f2b84aff70f2e81ca4f949a6"
+    },
+    {
+      "path": "js/report-tabs.js",
+      "bytes": 733,
+      "sha256": "d62a5174a902a3280ee88ba97233a446d614d49a826e72957280ff53d14bf3fc"
+    },
+    {
+      "path": "js/room.js",
+      "bytes": 3193,
+      "sha256": "e71693a352f55629ab29684e592410f74893917d0aaf26e04a25dbbd58b3981e"
+    },
+    {
+      "path": "js/round-context.js",
+      "bytes": 4131,
+      "sha256": "df561406b2aa31e8ba88d19d91dec06d4cd6656d72b02c1f24695e484be7cf08"
+    },
+    {
+      "path": "js/round-information-view.js",
+      "bytes": 2897,
+      "sha256": "db038322c893e8cdfd401dbe1d06d1ebfeb1db5df218918eaab98f47e68d368b"
+    },
+    {
+      "path": "js/round-information.js",
+      "bytes": 3042,
+      "sha256": "a21b35d05117a23a3231e617175aac5a2f6a7c006d5f897c40870ae58c5349b3"
+    },
+    {
+      "path": "js/routes.js",
+      "bytes": 14417,
+      "sha256": "d5d7fc4aea3e61b6a54f3db552c2d9a923e4aeaef7e82efaf0170cbe7c1f3fee"
+    },
+    {
+      "path": "js/section-styles.js",
+      "bytes": 934,
+      "sha256": "cbfa593d8a2b6982f5ebd1b52dac052c9cf4234499f4fe9261915ed83ed9df22"
+    },
+    {
+      "path": "js/site-selects.js",
+      "bytes": 7579,
+      "sha256": "3e9b618a57367e3497cd8e8bd4038e7255c18ad1f238e53cd1d104d7bd766d80"
+    },
+    {
+      "path": "js/v58-distribution.js",
+      "bytes": 9070,
+      "sha256": "2cb4c90abfc627edd7b1dfbb4f67641eb28d23f16e94bcdde5f5e1e701619824"
+    },
+    {
+      "path": "js/v58-outcome-history.js",
+      "bytes": 10970,
+      "sha256": "6784548b9b7310195026d8221de8941b1fa5e6456f8514fe3830feedeea46c46"
+    },
+    {
+      "path": "js/v58-research-methods.js",
+      "bytes": 8947,
+      "sha256": "5ee53c8e788abeba5408f60d64555a640a6f368b69d323d95cdfa75c77ab5f4b"
+    },
+    {
+      "path": "js/v58-research-model.js",
+      "bytes": 10856,
+      "sha256": "3aa85624164ce6a165b2f605ea69f0e84b917de2ad1bd29e4bce04f6fdadc851"
+    },
+    {
+      "path": "js/v58-research-reports.js",
+      "bytes": 25658,
+      "sha256": "e2dba440da1846808d6024bda559424cc307c842b742226f21012ba355c28ea9"
+    },
+    {
+      "path": "js/verdict-illustrations.js",
+      "bytes": 4675,
+      "sha256": "f9cb2b1a8afec330965ea4d138fcfe899962a13183f136fb0d0c64d7867cf333"
+    },
+    {
+      "path": "js/verdict-report.js",
+      "bytes": 4243,
+      "sha256": "5c3fd54b3a5ddc5658cd028e6270b27b6fd11fc1e764f37b83f944e1283a9bc0"
+    },
+    {
+      "path": "judges/index.html",
+      "bytes": 15724,
+      "sha256": "be5172448ac1bb28ff39c3e2bc485723906d1b6c5e85258bd8fc579ba86920c3"
+    },
+    {
+      "path": "rappers/index.html",
+      "bytes": 15726,
+      "sha256": "777b5e4acc0620cf3c1950b64cd5806cc110380212a073c6b7c98b800d56a14b"
+    }
+  ]
+}

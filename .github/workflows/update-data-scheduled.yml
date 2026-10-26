@@ -56,7 +56,7 @@ jobs:
         run: node scripts/update-gate.mjs
       - run: npm ci
         if: steps.gate.outputs.run == 'true'
-      - run: npm test
+      - run: npm run test:release
         if: steps.gate.outputs.run == 'true'
       - name: Collect and reconcile
         id: collection
@@ -66,13 +66,13 @@ jobs:
         run: npm run update
       - run: npm run validate
         if: steps.gate.outputs.run == 'true'
-      - run: npm test
+      - run: npm run test:release
         if: steps.gate.outputs.run == 'true'
       - name: Browser checks on complete audits
         if: steps.collection.outputs.mode == 'full' && steps.collection.outputs.publish == 'true'
         run: |
           npx playwright install --with-deps chromium
-          npm run test:browser
+          npm run test:release:browser
       - run: npm run build
         if: steps.collection.outputs.publish == 'true'
       - name: Commit validated data
@@ -80,9 +80,9 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/19ib_all_judges_REPAIRED.json data/forum_judges_export.json data/history.json data/metadata.json
+          git add data/rounds/r2-submissions.v1/full.raw.json data/rounds/r2-submissions.v1/live.raw.json data/rounds/r2-submissions.v1/snapshot.json data/rounds/r2-submissions.v1/history.json data/rounds/r2-submissions.v1/metadata.json data/rounds/r2-submissions.v1/manifest.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Update judging data and history'
+            git commit -m 'Update R2 track submissions and history'
             # A concurrent human push fails safely; no force push or automatic merge.
             git push origin HEAD:main
           fi

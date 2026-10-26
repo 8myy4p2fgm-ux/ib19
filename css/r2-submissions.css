@@ -1,0 +1,59 @@
+/* R2 only. R1 reports, global header and analytical geometry retain their owners. */
+#round-information .r2-submissions {padding:var(--ds-panel-pad);border-radius:var(--ds-radius);background:var(--ds-surface);border-color:var(--ds-rule);color:var(--ds-text)}
+#round-information .r2-submission-controls {display:flex;flex-wrap:wrap;gap:16px;margin:20px 0 12px}
+#round-information .r2-submission-controls label {display:grid;gap:8px;font-size:var(--ds-control);min-width:0;flex:1 1 210px}
+#round-information .r2-submission-controls .control {min-height:44px;width:100%;min-width:0;box-sizing:border-box;padding:10px 12px;border:1px solid var(--ds-border);border-radius:var(--ds-radius-inner);background:var(--ds-inner);color:var(--ds-text);font:inherit}
+#round-information .r2-submission-list {display:grid;gap:20px;margin:16px 0 24px}
+#round-information .r2-submission {border-top:1px solid var(--ds-rule);padding-top:16px;min-width:0}
+#round-information .r2-submission h3 {margin:0;font-size:var(--ds-h3);overflow-wrap:anywhere}
+#round-information .r2-submission dl {grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr);margin:12px 0 0;gap:16px}
+#round-information .r2-submission dl>div {border:0;padding:0}
+#round-information .r2-submission-kpi {display:grid;gap:8px;margin:20px 0}
+#round-information .r2-submission-kpi strong {font-size:var(--ds-value);line-height:1.2;color:var(--ds-theme)}
+#round-information .r2-source-status,#round-information .r2-submission-note {color:var(--ds-muted);font-size:var(--ds-small)}
+#round-information .r2-submission-note {border-top:1px solid var(--ds-rule);padding-top:16px;margin-top:24px}
+#round-information .r2-submission-link {display:inline-flex;align-items:center;min-height:44px}
+#round-information .r2-submissions details {margin-top:20px}
+@media(max-width:600px){#round-information .r2-submission dl {grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}#round-information .r2-submission dl>div:first-child {grid-column:1/-1}}
+
+/* R2-UI-01: V58 submission homepage; shared hero/header and all R1 owners stay intact. */
+#round-information .r2-home {min-width:0;overflow-wrap:break-word}
+#round-information .r2-home-hero .r2-home-badge {position:absolute;right:20px;top:16px;border-radius:999px;background:#442c1d;color:#ee914f;padding:10px 16px;font-size:13px;font-weight:650;line-height:1.5}
+#round-information .r2-home :is(.r2-home-kpis,.r2-home-groups) {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+#round-information .r2-home .r2-home-kpis>* {display:grid;grid-template-rows:auto 1fr auto;gap:8px;min-width:0;margin:0;padding:17px;background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);font:inherit;text-decoration:none;align-items:start}
+#round-information .r2-home :is(.r2-home-kpis,.r2-home-groups) strong {display:block;align-self:center;color:var(--ds-text);font-size:var(--ds-value);font-weight:650;line-height:1.2;font-variant-numeric:tabular-nums}
+#round-information .r2-home :is(.r2-home-kpis,.r2-home-groups) :is(span,small) {color:var(--ds-muted);font-size:var(--ds-body);line-height:1.5}
+#round-information .r2-home .r2-home-kpis small {font-size:var(--ds-small)}
+#round-information .r2-home .r2-home-kpis .r2-home-deadline {font-size:var(--ds-h3);line-height:1.4;max-width:24ch}
+#round-information .r2-home .r2-home-kpis>a:hover {background:var(--ds-hover);border-color:var(--ds-muted)}
+#round-information .r2-home a:focus-visible {outline:2px solid var(--ds-focus);outline-offset:3px}
+#round-information .r2-home-section {margin-top:26px;padding-top:24px;border-top:1px solid var(--ds-rule)}
+#round-information .r2-home-section-head {display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+#round-information .r2-home-section-head h2 {margin:0}
+#round-information .r2-home-section-head>span {font-size:var(--ds-small);color:var(--ds-muted)}
+#round-information .r2-home-group {min-width:0;display:grid;gap:8px;padding:17px;border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);background:var(--ds-inner)}
+#round-information .r2-home .r2-home-group small {font-size:var(--ds-small)}
+#round-information .r2-home-track {height:5px;background:var(--ds-border);border-radius:4px;margin-top:6px}
+#round-information .r2-home-group-note {font-size:var(--ds-small);color:var(--ds-muted);margin:12px 0 0}
+#round-information .r2-home-chart {min-width:0;min-height:210px;padding:12px 16px;border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);background:var(--ds-inner)}
+#round-information .r2-home-chart svg {display:block;width:100%;height:200px;overflow:visible}
+#round-information .r2-home-chart text {fill:var(--ds-muted);font:12px Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+#round-information .r2-home-chart .r2-home-day-count {fill:var(--ds-text);font-size:14px;font-weight:650}
+#round-information .r2-home-gridline {stroke:var(--ds-rule);stroke-dasharray:3 5}
+#round-information .r2-home-day {fill:var(--ds-pass)}
+#round-information .r2-home-empty {display:grid;place-items:center;min-height:186px;margin:0;text-align:center;color:var(--ds-muted)}
+#round-information .r2-home-first-link {min-height:44px;display:inline-flex;align-items:center;color:var(--ds-pass);text-decoration:none;font-size:var(--ds-control)}
+#round-information .r2-home-first-link:hover {text-decoration:underline}
+#round-information .r2-home-research-intro {color:var(--ds-muted);margin:0 0 18px;font-size:var(--ds-body)}
+#round-information .r2-home-reports {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#round-information .r2-home-reports article {padding:17px;border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner);background:var(--ds-inner)}
+#round-information .r2-home-reports h3 {margin:0 0 8px;font-size:var(--ds-h3)}
+#round-information .r2-home-reports p {margin:0;color:var(--ds-muted);font-size:var(--ds-body)}
+@media(max-width:760px){
+ #round-information .r2-home-hero .r2-home-badge {position:static;align-self:flex-start;margin-top:10px;font-size:12px;padding:7px 12px}
+}
+@media(max-width:600px){
+ #round-information .r2-home :is(.r2-home-kpis,.r2-home-groups,.r2-home-reports) {grid-template-columns:minmax(0,1fr)}
+ #round-information .r2-home-section {margin-top:22px;padding-top:20px}
+ #round-information .r2-home-section-head {gap:6px;margin-bottom:14px}
+}

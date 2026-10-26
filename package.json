@@ -9,7 +9,9 @@
     "update": "node scripts/fetch-data.mjs",
     "validate": "node scripts/check.mjs",
     "test": "node --test tests/*.test.mjs",
-    "test:browser": "node tests/browser.mjs"
+    "test:browser": "node tests/browser.mjs",
+    "test:release": "node --test tests/r2-release.test.mjs tests/publication-cli.test.mjs tests/r2-home.test.mjs tests/r2-submissions.test.mjs tests/temporary-exclusion-cli.test.mjs tests/update-gate.test.mjs tests/workflow-modes.test.mjs",
+    "test:release:browser": "node tests/release-smoke.mjs"
   },
   "devDependencies": {
     "playwright": "1.56.1"

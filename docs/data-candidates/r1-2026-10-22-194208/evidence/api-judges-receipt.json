@@ -1,0 +1,21 @@
+{
+  "url": "https://api.19ib.ru/judges",
+  "retrievedAt": "2026-10-22T20:04:41.216923+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Origin": "https://19ib.ru",
+    "Access-Control-Expose-Headers": "Content-Disposition",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Content-Length": "3570",
+    "Content-Type": "application/json; charset=utf-8",
+    "Date": "Thu, 22 Oct 2026 20:04:41 GMT",
+    "Via": "1.1 Caddy",
+    "X-Ratelimit-Limit": "600",
+    "X-Ratelimit-Remaining": "597",
+    "X-Ratelimit-Reset": "16",
+    "Connection": "close"
+  },
+  "bytes": 3570,
+  "sha256": "7e3926d7f0b74e7a2bae9eeeee800fd48e2ba7d16859669124d56b3ceff63d68"
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "round-information",
+  "roundId": "235f6600-5224-4adf-bbcc-a220f4572251",
+  "tournamentId": "9345a642-d1fb-4ac7-aebc-b59f2628170b",
+  "roundOrder": 2,
+  "name": "2 отборочный раунд",
+  "slug": "2-otborochnyy-raund",
+  "type": "solo",
+  "status": "pending",
+  "tournamentStatus": "active",
+  "resultsPublished": false,
+  "topic": {
+    "sourceValue": "Объявят позже",
+    "confirmation": "source-placeholder; actual topic unknown"
+  },
+  "sourceParameters": {
+    "judgesRequired": 7,
+    "scoreScale": 10,
+    "maxScore": 70,
+    "advanceCount": 256,
+    "passThreshold": null,
+    "maxParticipants": null,
+    "minDurationSec": 90,
+    "maxDurationSec": 120
+  },
+  "times": {
+    "deadline": "2026-11-23T20:59:00.000Z",
+    "judgingStartsAt": "2026-11-19T21:00:00.000Z",
+    "judgingDeadline": "2027-01-05T20:59:00.000Z",
+    "startedAt": null,
+    "judgingStartedAt": null,
+    "createdAt": "2026-07-19T14:17:02.142Z",
+    "updatedAt": "2026-10-22T19:05:27.404Z"
+  },
+  "unknownRules": {
+    "minimumScore": null,
+    "scoreGranularity": null,
+    "tieBreak": null,
+    "r1Eligibility": null,
+    "disqualification": null,
+    "noShow": null,
+    "trackResubmission": null,
+    "trackDeletionOrReplacement": null,
+    "scoreRevisionOrCancellation": null,
+    "assignedJudgeIds": null,
+    "rosterCompleteness": null,
+    "submissionHistory": null
+  },
+  "capabilities": {
+    "information": true,
+    "roster": false,
+    "submissions": false,
+    "scores": false,
+    "judges": false,
+    "analytics": false
+  },
+  "unavailable": {
+    "roster": {
+      "count": null,
+      "reason": "empty-source-array-semantics-unverified"
+    },
+    "submissions": {
+      "count": null,
+      "reason": "no-confirmed-submission-contract"
+    },
+    "scores": {
+      "count": null,
+      "reason": "no-score-cards-or-live-response"
+    }
+  },
+  "provenance": {
+    "kind": "user-provided manually browser-saved public API response",
+    "reportedEndpoint": "https://api.19ib.ru/rounds/235f6600-5224-4adf-bbcc-a220f4572251/full",
+    "originalFile": "round2-full.json",
+    "importedAt": "2026-10-23T06:29:36.000Z",
+    "serverResponseAt": null,
+    "browserRetrievedAt": null,
+    "httpStatus": null,
+    "httpHeaders": null,
+    "sha256": "d9db6a68cb1fed8b01e2538c078911c74fd464ab42a53d9ffe4690151fbeda25",
+    "bytes": 852,
+    "note": "Import time is local processing time, not retrieval/server time. Endpoint provenance supplied by owner; not independently re-requested. updatedAt is source object modification time, not response time."
+  },
+  "publication": {
+    "version": "d9db6a68cb1fed8b01e2538c078911c74fd464ab42a53d9ffe4690151fbeda25",
+    "retrievedAt": null,
+    "importedAt": "2026-10-23T06:29:36.000Z"
+  },
+  "notes": [
+    "Сведения сохранённого ответа, актуальность не проверена онлайн.",
+    "Время получения ответа неизвестно; локальный импорт не является временем получения.",
+    "Пустые массивы источника не подтверждают нулевой состав или отсутствие событий."
+  ],
+  "resourceVersion": "r2-information-v1"
+}

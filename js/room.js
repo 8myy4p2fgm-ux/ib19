@@ -7,12 +7,12 @@ wall.innerHTML='<div class="room-layer room-on"></div><div class="room-layer roo
 const mobile=matchMedia('(max-width:760px)');
 const images=new Map();
 function loadPhoto(state,quality){
- const small=mobile.matches,key=(small?'mobile-':'')+state+'-'+quality;
+ const small=mobile.matches,key=(small?'mobile-':'')+state;
  if(!images.has(key)){
   const image=new Image();
   image.fetchPriority='low';
-  image.src=new URL('../css/assets/room-'+(small?'mobile-':'')+'light-'+state+(quality==='preview'?'-preview':'')+'.webp',import.meta.url).href;
-  images.set(key,image.decode().catch(error=>{images.delete(key);throw error;}));
+  image.src=new URL('../css/assets/room-'+(small?'mobile-':'')+'light-'+state+'.webp',import.meta.url).href;
+  images.set(key,image.decode().then(()=>image).catch(error=>{images.delete(key);throw error;}));
  }
  images.get(key).then(()=>{
   if(mobile.matches===small)wall.classList.add('room-'+state+'-'+quality+'-ready');
@@ -41,7 +41,8 @@ function lightControl(className){
 }
 const wallSwitch=lightControl('room-switch'),mobileSwitch=lightControl('room-mobile-light');
 document.querySelector('.app').append(wallSwitch);
-header.querySelector('.site-brand').after(mobileSwitch);
+const shellTools=header.querySelector('.shell-header-tools');
+if(shellTools)shellTools.append(mobileSwitch);else header.querySelector('.site-brand').after(mobileSwitch);
 function setLight(on,persist=true){
  preparePhotos(on?'on':'off');
  document.body.dataset.roomLight=on?'on':'off';

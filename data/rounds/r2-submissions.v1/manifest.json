@@ -1,0 +1,28 @@
+{
+  "kind": "R2 submissions publication",
+  "roundId": "235f6600-5224-4adf-bbcc-a220f4572251",
+  "phase": "submissions",
+  "runId": "2026-10-26T06:07:41.249Z",
+  "files": {
+    "full.raw.json": {
+      "sha256": "2dd666023b5dc95b7b8ce77681787c7c8e5f5bbba6fd04fd8be4cb29b7c9ae92",
+      "bytes": 11529
+    },
+    "live.raw.json": {
+      "sha256": "19bf5baca6704134b2504713c8acf7ff609f40f34a555acce8dee52f18ca0b0e",
+      "bytes": 2209
+    },
+    "snapshot.json": {
+      "sha256": "ff17fb964267f3455d8cf13013dd592706c0a6fe827dc954f54e8ddf76ebdf0a",
+      "bytes": 16619
+    },
+    "history.json": {
+      "sha256": "076ea9f47d2444d6eccb327af9ed91d635a7747ef80a5da44c28ee2d2d4fa0c8",
+      "bytes": 123
+    },
+    "metadata.json": {
+      "sha256": "6aa631120f8a809618128903354e8667cd976aad27bb0df3c50c344cb14d6479",
+      "bytes": 282
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://tuz19.ru/data/forum.csv",
+  "retrievedAt": "2026-10-22T20:04:38.610515+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "5803",
+    "Server": "GitHub.com",
+    "Content-Type": "text/csv; charset=utf-8",
+    "Last-Modified": "Thu, 22 Oct 2026 19:43:39 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "\"6ada676b-16ab\"",
+    "expires": "Thu, 22 Oct 2026 20:14:38 GMT",
+    "Cache-Control": "max-age=600",
+    "x-proxy-cache": "MISS",
+    "X-GitHub-Request-Id": "AB74:1C5A9B:1CFB44:2003C0:6ADA6C56",
+    "x-github-edge-region": "swedencentral",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 22 Oct 2026 20:04:38 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-bma-essb1270078-BMA",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1792699479.811487,VS0,VE137",
+    "Vary": "Accept-Encoding",
+    "X-Fastly-Request-ID": "b7da89066a4c81e1cf1ed1f1b3994af350ed10ef"
+  },
+  "bytes": 5803,
+  "sha256": "6458718b71258c4dd85a7136484016528ebcd00aac88944787a95a3e4adbdb8a"
+}

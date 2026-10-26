@@ -11,7 +11,12 @@ export function buildProfiles(D){
    profiles.get(key).rows.push({...s,userId:p.userId,artistName:artist.artistName||null,artistSlug:artist.artistSlug||null,forumName:D.referenceMetadata.get(p.userId)?.forum_name||null,trackId:p.trackId||null,current});
   }
  }
+ for(const s of D.annulledScores||[]){
+  const p=profiles.get(s.judgeId),artist=D.artists.get(s.userId)||{};
+  if(p)(p.auditRows??=[]).push({...s,artistName:artist.artistName||null,artistSlug:artist.artistSlug||null});
+ }
  for(const p of profiles.values()){
+  for(const row of p.rows){const outcome=D.participantOutcomes?.get(row.userId);if(outcome?.officialOutcome)row.officialException={label:outcome.label,scoreTotal:outcome.scoreTotal,scoreMaximum:outcome.scoreMaximum};}
   p.rows.sort((a,b)=>Date.parse(b.scoredAt)-Date.parse(a.scoredAt)||a.userId.localeCompare(b.userId));
   p.distribution=[1,2,3,4,5].map(n=>p.rows.filter(s=>s.score===n).length);
   p.count=p.rows.length;p.mean=p.count?p.rows.reduce((n,s)=>n+s.score,0)/p.count:null;
@@ -25,4 +30,11 @@ export function filterScores(rows,{query='',grade='all'}={}){
 export function sortScores(rows,order='newest'){
  const direction=order==='oldest'?1:-1;
  return [...rows].sort((a,b)=>(Date.parse(a.scoredAt)-Date.parse(b.scoredAt))*direction||a.userId.localeCompare(b.userId));
+}
+// Shared by the existing URL profile (50) and the ranking dialog (25).
+export function pageScores(rows,{query='',grade='all',order='newest',page=1,pageSize=25}={}){
+ if(!Number.isInteger(pageSize)||pageSize<1)throw new Error('Invalid score page size');
+ const filtered=sortScores(filterScores(rows,{query,grade}),order),pages=Math.max(1,Math.ceil(filtered.length/pageSize));
+ const current=Math.min(pages,Math.max(1,Number.isFinite(page)?Math.floor(page):1));
+ return {rows:filtered.slice((current-1)*pageSize,current*pageSize),total:filtered.length,pages,page:current};
 }

@@ -1,0 +1,21 @@
+{
+  "url": "https://api.19ib.ru/rounds/c3c5b2f7-9d61-4ffc-8f97-f1b50156d59c/full",
+  "retrievedAt": "2026-10-22T20:03:56.947711+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Origin": "https://19ib.ru",
+    "Access-Control-Expose-Headers": "Content-Disposition",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Content-Length": "1527643",
+    "Content-Type": "application/json; charset=utf-8",
+    "Date": "Thu, 22 Oct 2026 20:03:56 GMT",
+    "Via": "1.1 Caddy",
+    "X-Ratelimit-Limit": "600",
+    "X-Ratelimit-Remaining": "599",
+    "X-Ratelimit-Reset": "60",
+    "Connection": "close"
+  },
+  "bytes": 1527643,
+  "sha256": "11f30ffabeb2cc2584f1747eace79dda66021d801175ae922aa5531ff24b9f88"
+}

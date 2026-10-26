@@ -1,0 +1,20 @@
+{
+  "baseCommit": "4caac2e322054e98e04737fda4c0336f2e9bee52",
+  "fullRegressionRepeated": false,
+  "targetedTests": {
+    "passed": 28,
+    "failed": 0,
+    "scope": [
+      "R2 adapter and phase pinning",
+      "existing update CLI with localhost fixtures",
+      "R1 archive byte identity (no analytical comparisons)",
+      "new/changed/no-op/failed submissions",
+      "no score or judge endpoints",
+      "cohort from approved statuses, separate from submissions",
+      "workflow publication allowlist and freshness gate"
+    ]
+  },
+  "browserSmoke": "six R1 sections and R2 home/cohort/rappers, widths 390 and 1440; no JS/resource errors",
+  "external19ibRequests": 0,
+  "productionChanges": false
+}

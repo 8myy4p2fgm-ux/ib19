@@ -1,0 +1,123 @@
+/* INT-05B: presentation-only shell. Internal analytical components keep their CSS. */
+.shell-r1 .app>.site-header{padding:0 24px;background:#181b1c}
+.shell-r1 .site-header .site-header-inner{max-width:1160px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:20px;min-height:86px;padding:10px 0}
+.shell-r1 .site-header .site-brand{grid-column:1;grid-row:1;max-width:none;margin:0}
+.shell-r1 .site-header .navs{grid-column:2;grid-row:1;justify-self:center;display:flex;flex-wrap:wrap;justify-content:center;gap:0 16px;margin:0;padding:0;max-width:100%;min-width:0;overflow:visible}
+.shell-r1 .site-header .nav{display:inline-flex;align-items:center;min-height:44px;padding:10px 0;font-size:12px}
+.shell-r1 .site-header .nav-horo img{width:94px;height:auto}
+.shell-r1 .shell-header-tools{grid-column:3;grid-row:1;display:flex;align-items:center;gap:12px;min-width:0}
+.shell-r1 .shell-round-label{display:grid;gap:3px;color:#f1f2ec;font-size:13px;line-height:1.4}
+.shell-r1 .shell-round-label small{font-size:11px;color:#a8b5ad;max-width:154px}
+.shell-r1 .app>.main{box-sizing:border-box;width:100%;max-width:1160px;padding:20px 24px 36px;margin:0 auto}
+.shell-r1 .main>.head{margin:0 0 24px;gap:12px;min-height:0}
+.shell-r1 .main>.head h1{margin:0;font-size:clamp(30px,3.2vw,40px);line-height:1.2}
+/* The existing one-round menu is replaced visually by the honest static header label. */
+.shell-r1 .main>.head>.round-picker-row{display:none}
+.shell-r1 .shell-snapshot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 20px;padding:10px 12px;margin:0 0 18px;border:1px solid #bcc5bf33;border-radius:8px;background:#242627;color:#a8b5ad;font-size:12px;line-height:1.6}
+.shell-r1 .shell-snapshot .header-meta{display:flex;flex-wrap:wrap;gap:4px 16px;min-width:0}
+.shell-r1 .shell-snapshot .header-update{font:inherit;color:inherit;white-space:normal}
+.shell-r1 .shell-snapshot .deadline-countdown{margin:0;padding:0;font:inherit;color:inherit}
+.shell-r1 .room-switch{left:4%;top:35.90755355vw;transform:translate(-50%,-50%) matrix(1,-.055,-.03,1,0,0)}
+.shell-r1 #load-state{box-sizing:border-box;width:calc(100% - 32px);max-width:680px;margin:15vh auto;padding:24px;border:1px solid #bcc5bf40;border-radius:12px;background:#242627;color:#f1f2ec;font-size:14px;line-height:1.6;white-space:normal}
+.shell-r1 #load-state h2{margin:0 0 12px;font-size:24px}
+.shell-r1 #load-state p{color:#a8b5ad;overflow-wrap:anywhere}
+.shell-r1 #load-state .control{min-height:44px;border:1px solid #bcc5bf50;background:#303334;color:#f1f2ec}
+.shell-r1 #load-state :focus-visible{outline:2px solid #b9d8c4;outline-offset:3px}
+.shell-r1 .main>.data-warning{box-sizing:border-box;padding:14px 16px;border:1px solid #cfa76b66;border-radius:8px;background:#302b23;color:#f0c990;font-size:13px;line-height:1.5}
+@media(min-width:761px) and (max-width:1100px){
+ .shell-r1 .site-header .site-header-inner{grid-template-columns:minmax(0,1fr) auto;gap:4px 16px}
+ .shell-r1 .shell-header-tools{grid-column:2;grid-row:1}
+ .shell-r1 .site-header .navs{grid-column:1/-1;grid-row:2}
+}
+@media(max-width:760px){
+ .shell-r1 .app>.site-header{padding:0 14px}
+ .shell-r1 .site-header .site-header-inner{grid-template-columns:minmax(0,1fr) 88px;gap:6px 10px;min-height:0;padding:10px 0}
+ .shell-r1 .site-header .site-brand{grid-column:1;grid-row:1;align-self:center;max-width:100%}
+ .shell-r1 .shell-header-tools{display:contents}
+ .shell-r1 .shell-round-label{grid-column:1/-1;grid-row:2;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;font-size:12px}
+ .shell-r1 .shell-round-label small{max-width:none;font-size:11px}
+ .shell-r1 .room-mobile-light{position:static;grid-column:2;grid-row:1;width:88px;height:44px;min-height:44px;align-self:center;background:#303334;border-color:#bcc5bf50;color:#f1f2ec}
+ .shell-r1 .site-header .navs{grid-column:1/-1;grid-row:3;justify-content:flex-start;justify-self:stretch;gap:0 14px}
+ .shell-r1 .site-header .nav{font-size:12px;padding:8px 0}
+ .shell-r1 .site-header .nav-horo img{width:86px}
+ .shell-r1 .app>.main{padding:18px 14px 28px}
+ .shell-r1 .shell-snapshot{font-size:11px;gap:4px;margin-bottom:16px;padding:10px 12px}
+ .shell-r1 .main>.head{margin-bottom:20px}
+}
+/* INT-05C: the existing header gets one URL-driven round selector. */
+.shell-r1 .shell-round-picker{display:grid;gap:4px}
+.shell-round-picker label{font-size:11px;color:#a8b5ad}
+.shell-round-picker select{box-sizing:border-box;min-height:44px;width:160px;max-width:100%;font:inherit;color:#f1f2ec;background:#303334;border:1px solid #657269;border-radius:7px;padding:8px}
+.shell-round-picker select:focus-visible,.round-information :focus-visible{outline:2px solid #b9d8c4;outline-offset:2px}
+.round-information{padding:22px;border:1px solid #bcc5bf40;border-radius:12px;background:#242627;color:#f1f2ec;font-size:14px;line-height:1.6;overflow-wrap:anywhere}
+.round-information h2{margin:0 0 14px;font-size:25px;line-height:1.25}
+.round-information p{margin:0 0 16px}.round-information a{color:#bdd5c6}
+.round-information dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 24px;margin:18px 0}
+.round-information dl>div{border-bottom:1px solid #bcc5bf33;padding-bottom:10px;min-width:0}
+.round-information dt{color:#a8b5ad;font-size:12px}.round-information dd{margin:4px 0 0;font-weight:600}
+.round-information summary{cursor:pointer;min-height:44px;align-content:center}.round-information code{white-space:normal;overflow-wrap:anywhere}
+@media(max-width:760px){
+ .shell-r1 .shell-round-picker{grid-column:1/-1;grid-row:2;display:flex;align-items:center;gap:12px}
+ .shell-round-picker select{width:180px}
+ .round-information{padding:16px;font-size:14px}.round-information dl{grid-template-columns:1fr;gap:10px}.round-information h2{font-size:23px}
+}
+
+/* POLISH-01.4: global header only. The native select keeps routing/keyboard. */
+body.shell-r1 .app>.site-header.header-polished {position:sticky;z-index:40}
+.header-polished .header-navigation {display:contents}
+body.shell-r1 .site-header.header-polished .site-header-inner {
+ grid-template-columns:auto minmax(0,1fr) auto;gap:20px;min-height:86px;padding:10px 0;
+}
+body.shell-r1 .site-header.header-polished .navs {grid-column:2;grid-row:1;flex-wrap:nowrap;gap:16px;overflow:visible}
+body.shell-r1 .site-header.header-polished .shell-header-tools {display:flex;grid-column:3;grid-row:1;align-items:center;gap:12px}
+body.shell-r1 .site-header.header-polished .shell-round-picker {display:block}
+.header-polished .shell-round-picker>label {position:absolute;width:1px;height:1px;padding:0;margin:-1px;clip-path:inset(50%);overflow:hidden;white-space:nowrap}
+body.shell-r1 .site-header.header-polished .nav-horo {flex-direction:row;justify-content:center;gap:0;padding:10px 0;color:var(--ds-text);line-height:inherit;transition:color 150ms}
+.header-polished .horo-crown {position:absolute;left:50%;top:calc(50% - 25px);transform:translateX(-50%);display:block;color:var(--ds-gold);width:16px;height:16px}
+body.shell-r1 .site-header.header-polished .nav-horo:hover {color:var(--ds-gold)}
+@media(prefers-reduced-motion:reduce){body.shell-r1 .site-header.header-polished .nav-horo {transition:none}}
+.header-polished .nav-horo::after {left:0;right:0;bottom:-1px}
+.header-polished .nav-horo.active::after {height:2px;background:var(--ds-gold)}
+body.shell-r1 .header-polished :is(a,button,select):focus-visible {outline:2px solid #b5bdb8!important;outline-offset:3px!important}
+body.shell-r1 .header-polished #round-select {
+ color-scheme:dark;-webkit-appearance:none;appearance:none;box-sizing:border-box!important;width:160px;height:44px!important;min-height:44px!important;max-height:44px;padding:0 28px 0 10px!important;line-height:18px!important;align-items:center;
+ border:1px solid #454847!important;border-radius:9px!important;background:#292b2b!important;color:#f0f0ed!important;
+ box-shadow:none!important;cursor:pointer;
+}
+.header-polished .shell-round-picker {position:relative}
+.header-polished .shell-round-picker::after {content:"▾";position:absolute;right:10px;top:50%;transform:translateY(-50%);color:#adb5ae;pointer-events:none}
+body.shell-r1 .header-polished #round-select:hover {border-color:#737a76!important}
+/* Browser-managed customizable select: native semantics and interactions.
+   Safari without base-select retains its native picker and this closed face. */
+@supports(appearance:base-select) {
+ body.shell-r1 .header-polished #round-select,.header-polished #round-select::picker(select) {appearance:base-select}
+ .header-polished .shell-round-picker::after {content:none}
+ .header-polished #round-select::picker(select) {
+  margin:5px 0;background:#252729;color:#f0f0ed;border:1px solid #454847;border-radius:9px;
+  max-width:calc(100vw - 28px);min-width:anchor-size(width);padding:4px;
+ }
+ .header-polished #round-select::picker-icon {content:"▾";color:#adb5ae}
+ .header-polished #round-select option {min-height:44px;box-sizing:border-box;padding:10px;gap:12px;border-radius:5px;background:#252729;color:#f0f0ed;font:inherit}
+ .header-polished #round-select option:is(:checked,:hover,:focus) {background:#353839;color:#f0f0ed}
+ .header-polished #round-select option:is(:focus,:focus-visible) {outline:2px solid #b5bdb8!important;outline-offset:-2px}
+ .header-polished #round-select option::checkmark {order:2;margin-left:auto;color:#c4ccc7}
+ .header-polished #round-select option[value=""] {display:none}
+}
+body.shell-r1 .header-polished .header-menu-toggle {display:none;min-height:44px;padding:8px 12px;border:1px solid #454847;border-radius:9px;background:#292b2b;color:#f0f0ed;font:inherit;font-size:13px;cursor:pointer}
+body.shell-r1 .header-polished .room-mobile-light {display:none}
+body.shell-r1 .site-header.header-polished.header-compact .site-header-inner {
+ position:relative;grid-template-columns:minmax(0,1fr) auto;min-height:64px;padding:10px 0;
+}
+body.shell-r1 .header-polished.header-compact .site-brand {max-width:100%;grid-column:1;grid-row:1}
+body.shell-r1 .header-polished.header-compact .header-menu-toggle {display:block;grid-column:2;grid-row:1}
+body.shell-r1 .header-polished.header-compact .header-navigation {display:none}
+body.shell-r1 .header-polished.header-compact.header-menu-open .header-navigation {
+ display:flex;flex-direction:column;gap:16px;position:absolute;left:0;right:0;top:100%;
+ padding:16px;box-sizing:border-box;max-height:calc(100dvh - var(--site-header-height) - 12px);overflow:auto;
+ border:1px solid #454847;border-radius:0 0 12px 12px;background:#1c1e1e;
+}
+body.shell-r1 .header-polished.header-compact .header-navigation .navs {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:8px 16px;justify-items:start}
+body.shell-r1 .header-polished.header-compact .header-navigation .nav {max-width:100%;white-space:normal;overflow-wrap:anywhere;min-height:44px;padding:6px 0;box-sizing:border-box}
+body.shell-r1 .header-polished.header-compact .header-navigation .shell-header-tools {display:flex;flex-wrap:wrap;gap:12px;width:100%}
+body.shell-r1 .header-polished.header-compact .header-navigation .shell-round-picker {display:block;min-width:0}
+body.shell-r1 .header-polished.header-compact .header-navigation .room-mobile-light {display:inline-flex;position:static;align-items:center;justify-content:center;min-height:44px;height:44px;width:88px;padding:0 6px;font:inherit;font-size:12px;line-height:1.35;white-space:nowrap;background:#292b2b;border:1px solid #454847;border-radius:9px;color:#f0f0ed}

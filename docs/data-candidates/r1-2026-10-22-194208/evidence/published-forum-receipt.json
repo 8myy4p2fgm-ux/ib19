@@ -1,0 +1,31 @@
+{
+  "url": "https://tuz19.ru/data/forum_judges_export.json",
+  "retrievedAt": "2026-10-22T20:04:33.582021+00:00",
+  "httpStatus": 200,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "195920",
+    "Server": "GitHub.com",
+    "Content-Type": "application/json; charset=utf-8",
+    "Last-Modified": "Thu, 22 Oct 2026 19:43:39 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "\"6ada676b-2fd50\"",
+    "expires": "Thu, 22 Oct 2026 20:14:33 GMT",
+    "Cache-Control": "max-age=600",
+    "x-proxy-cache": "MISS",
+    "X-GitHub-Request-Id": "9A0C:715E7:1C44ED:1F4D1D:6ADA6C51",
+    "x-github-edge-region": "swedencentral",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 22 Oct 2026 20:04:33 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-bma-essb1270059-BMA",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1792699474.788151,VS0,VE157",
+    "Vary": "Accept-Encoding",
+    "X-Fastly-Request-ID": "bb553a2be4787a64363b1c9a820c71cb5bb6a96c"
+  },
+  "bytes": 195920,
+  "sha256": "b48ebe9db3d8a303cd2776e8a4bfd26722672645c7509d225206b8f43f1968fd"
+}

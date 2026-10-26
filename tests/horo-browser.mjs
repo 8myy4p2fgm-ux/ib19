@@ -1,3 +1,4 @@
+import {revealHeader} from './header-controls.mjs';
 import {chromium} from 'playwright';
 import fs from 'node:fs/promises';import http from 'node:http';import path from 'node:path';import assert from 'node:assert/strict';
 const root=path.resolve('dist'),types={'.html':'text/html','.js':'application/javascript','.css':'text/css','.json':'application/json','.png':'image/png','.webp':'image/webp'};
@@ -11,14 +12,14 @@ try{
  const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(r.status()+' '+r.url())});
  for(const width of [1440,1024,768,390,320]){
   await page.setViewportSize({width,height:1000});await page.goto(base+'/');await page.waitForSelector('.app:not([hidden])');
-  const oldHeight=await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height);
+  await revealHeader(page);const oldHeight=await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height);
   await page.locator('.nav-horo').click();await page.waitForSelector('#horo.active .horo-note');
   assert.equal(new URL(page.url()).pathname,'/horo/');assert.equal(await page.locator('#page-title').innerText(),'Хо-ро-шо. По форумному');
-  assert(!await page.locator('.round-picker-row').isVisible());assert.equal(await page.locator('.horo-note').count(),6);assert.equal(await page.locator('.horo-note[open]').count(),0);
+  assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('.horo-note').count(),6);assert.equal(await page.locator('.horo-note[open]').count(),0);
   assert(!(await page.locator('#horo').innerText()).includes('баттл глазами тех, кто всё это читает'));
-  await page.locator('.nav-horo img').evaluate(e=>e.decode());
-  const nav=await page.locator('.nav-horo').evaluate(e=>{const r=e.getBoundingClientRect(),i=e.querySelector('img').getBoundingClientRect(),line=getComputedStyle(e,'::after');return {imageWidth:i.width,imageHeight:i.height,inside:i.top>=r.top&&i.bottom<=r.bottom,space:r.bottom-i.bottom,bottom:parseFloat(line.bottom),height:parseFloat(line.height),active:e.getAttribute('aria-current')};});
-  assert(nav.inside);assert(nav.space>=nav.bottom+nav.height-1);assert.equal(nav.active,'page');
+  await revealHeader(page);
+  const nav=await page.locator('.nav-horo').evaluate(e=>({active:e.getAttribute('aria-current'),crown:!!e.querySelector('.horo-crown')}));
+  assert.equal(nav.crown,true);assert.equal(nav.active,'page');
   assert.equal(await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height),oldHeight);
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'overflow '+width);
   await page.screenshot({path:`docs/screenshots/horo/page-${width}.png`});
@@ -37,7 +38,7 @@ try{
   await page.locator('.horo-image').first().click();await page.locator('.horo-close').click();assert.equal(await page.locator('dialog[open]').count(),0);
   await page.reload();await page.waitForSelector('.horo-note');assert.equal(await page.locator('.horo-note[open]').count(),0);
   await page.evaluate(()=>scrollTo(0,900));assert(Math.abs((await page.locator('.site-header').boundingBox()).y)<1);
-  for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link'],['/events/','events-page']]){await page.goto(base+url);await page.waitForSelector('#'+id+'.active');assert.equal(await page.locator('.nav-horo').count(),1);assert(await page.locator('.round-picker-row').isVisible());}
+  for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link'],['/events/','events-page']]){await page.goto(base+url);await page.waitForSelector('#'+id+'.active');assert.equal(await page.locator('.nav-horo').count(),1);await revealHeader(page);assert(await page.locator('.shell-round-label').isVisible());assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('#round-select').inputValue(),'1');}
   checks.push('width '+width+': route, menu, stable header, summaries, lazy embed, gallery, story, zoom, Escape, reload, other sections');
  }
  assert.deepEqual(errors,[]);await fs.writeFile('docs/screenshots/horo/results.json',JSON.stringify({passed:true,checks,errors},null,2));console.log('Horo browser: '+checks.length+' widths passed');
