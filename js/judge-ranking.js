@@ -1,7 +1,5 @@
 import {mountJudgeResearch} from './judge-research.js';
 import {createRankingModel,rankingColumns,sortRanking,podiumRows} from './judge-ranking-model.js';
-import {createRankingDialog} from './ranking-dialog.js';
-import {renderRankingProfile} from './ranking-profile.js';
 import {rankingAward} from './ranking-awards.js';
 import {esc,metric} from './ranking-view.js';
 
@@ -10,7 +8,7 @@ const tableColumns=['scorePoints','speedPoints','respectPoints','activity','tuz'
 
 export function initializeJudgeRanking(context,data){
  const root=document.getElementById('judges');if(root.querySelector('.judge-ranking'))return;
- const model=createRankingModel(context,data),dialog=createRankingDialog(),section=document.createElement('section');section.className='judge-ranking';
+ const model=createRankingModel(context,data),section=document.createElement('section');section.className='judge-ranking';
  const legacy=root.querySelector('.judge-index-heading')?.closest('section');
  root.prepend(section);legacy?.remove();
  const state={group:'forum',mode:'diamond',key:'tuz',direction:-1};
@@ -28,9 +26,6 @@ export function initializeJudgeRanking(context,data){
   <div class="ranking-sort-tools"><label>Сортировать по<select id="ranking-sort-key">${rankingColumns.filter(c=>!['forum','other'].includes(c.key)).map(c=>`<option value="${c.key}" ${state.key===c.key?'selected':''}>${esc(c.label)}</option>`).join('')}</select></label><button type="button" id="ranking-sort-direction" aria-label="Изменить направление сортировки">${state.direction===-1?'По убыванию ↓':'По возрастанию ↑'}</button></div>
   <div class="ranking-table-scroll" tabindex="0" role="region" aria-label="Рейтинг: имя закреплено слева, ТУЗ справа; все компоненты доступны при горизонтальной прокрутке"><table class="ranking-table"><thead><tr><th scope="col" class="ranking-rank" aria-sort="${state.key==='rank'?(state.direction===-1?'descending':'ascending'):'none'}"><button type="button" data-ranking-sort="rank" aria-label="Сортировать по месту">№ ${state.key==='rank'?(state.direction===-1?'↓':'↑'):'↕'}</button></th><th scope="col" class="ranking-name">Судья</th>${tableColumns.map(c=>`<th scope="col" class="ranking-${c.key}" aria-sort="${state.key===c.key?(state.direction===-1?'descending':'ascending'):'none'}"><button type="button" data-ranking-sort="${c.key}">${esc(c.label)} ${state.key===c.key?(state.direction===-1?'↓':'↑'):'↕'}</button></th>`).join('')}</tr></thead><tbody>${sorted.map(row=>`<tr data-ranking-name="${esc(row.judge)}"><td class="ranking-rank">${Number.isFinite(row.rank)?row.rank:'—'}</td><th scope="row" class="ranking-name">${profileButton(row,`<span class="ranking-judge-label">${esc(row.judge)}</span>`,'ranking-name-button')}</th>${values(row)}</tr>`).join('')}</tbody></table></div>`;
   section.querySelector('.ranking-table-scroll').scrollLeft=scrollLeft;
-  section.querySelectorAll('[data-ranking-profile]').forEach(b=>{b.onclick=()=>{
-   const p=model.profile(b.dataset.rankingProfile);dialog.open('profile',p?.name||'Судья не найден',b,body=>renderRankingProfile(body,model,b.dataset.rankingProfile,state.group));
-  };});
   const bind=(attribute,change)=>section.querySelectorAll(`[${attribute}]`).forEach(button=>{
    button.onclick=()=>{
     const value=button.getAttribute(attribute);change(value);render();

@@ -14,7 +14,7 @@
 #judges #int09-panel-3 .du-workspace{display:grid;grid-template-columns:260px minmax(0,1fr);gap:22px}
 #judges #int09-panel-3 .du-ranking{max-height:690px;overflow:auto;scrollbar-width:thin;padding:4px;background:var(--ds-inner);border:1px solid var(--ds-rule);border-radius:9px;align-self:start}
 #judges #int09-panel-3 .du-judge{display:grid;grid-template-columns:20px minmax(0,1fr) 40px;align-items:center;width:100%;gap:8px;min-height:70px;text-align:left;padding:9px;border:0;border-bottom:1px solid var(--ds-rule);background:transparent;border-radius:4px}
-#judges #int09-panel-3 .du-judge[aria-pressed=true]{background:#3c3e40;box-shadow:inset 2px 0 var(--ds-gold)}
+#judges #int09-panel-3 .du-judge[data-selected=true]{background:#3c3e40;box-shadow:inset 2px 0 var(--ds-gold)}
 #judges #int09-panel-3 .du-judge b{color:var(--ds-gold);font-size:14px;font-weight:550;text-align:right}
 #judges #int09-panel-3 .du-place{font-size:11px;color:var(--ds-muted)}
 #judges #int09-panel-3 .du-judge-name{font-size:13px;overflow-wrap:anywhere}

@@ -13,14 +13,13 @@ export const reportCatalog=Object.freeze({
   {id:'verdict',index:5,label:'Палачи и спасатели',caption:'Оценки, решившие судьбу трека'}]),
  rappers:Object.freeze([
   {id:'participants',index:0,label:'Участники',caption:'Наши на баттле'},
-  {id:'matrix',index:1,label:'Матрица оценок',caption:'Каждая оценка и комментарий'},
-  {id:'tuz-impact',index:2,label:'Влияние на ТУЗ',caption:'Что изменится без одного участника'}])
+  {id:'matrix',index:1,label:'Матрица оценок',caption:'Каждая оценка и комментарий'}])
 });
 const paths={dynamics:'dynamics/',judges:'judges/',rappers:'rappers/'};
 export function requestedReport(kind,params=new URLSearchParams()){
  const value=params.get('report')??params.get('tab');return reportCatalog[kind]?.find(r=>r.id===value||String(r.index)===value)??reportCatalog[kind]?.[0];
 }
-export function reportURL(kind,id,round=1){const url=new URL(paths[kind],new URL('../',import.meta.url));url.searchParams.set('round',String(round));url.searchParams.set('report',id);return url.pathname+url.search;}
+export function reportURL(kind,id,round=1){const url=new URL(paths[kind],new URL('../',import.meta.url));url.searchParams.set('round',String(round));if(kind!=='rappers'||id==='matrix')url.searchParams.set('report',id);return url.pathname+url.search;}
 export function writeReportURL(kind,index){
  const report=reportCatalog[kind]?.find(r=>r.index===index);if(!report)return;
  const expected=new URL(paths[kind],new URL('../',import.meta.url)).pathname;if(location.pathname!==expected)return;

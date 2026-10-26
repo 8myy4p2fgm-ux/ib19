@@ -11,7 +11,6 @@ const digestIcons={
  verdict:'<path d="M12 3v18 M8 21h8 M4 7h16 M5 7l-3 7h6Z M19 7l-3 7h6Z"/>',
  participants:'<circle cx="12" cy="7" r="3"/><path d="M6 21v-3a6 6 0 0 1 12 0v3 M5 5a3 3 0 0 0 0 6 M19 5a3 3 0 0 1 0 6 M2 20v-3a4 4 0 0 1 3-4 M22 20v-3a4 4 0 0 0-3-4"/>',
  matrix:'<rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18 M15 3v18 M3 9h18 M3 15h18"/>',
- 'tuz-impact':'<path d="M2 12h5l3-8 4 16 3-8h5"/>'
 };
 const digestCard=(kind,r,round)=>`<a class="home-report-card home-digest-card${r.id==='tinder'?' home-digest-tinder':''}" data-report-link data-report-kind="${kind}" data-report-id="${r.id}" href="${esc(reportURL(kind,r.id,round))}"><span class="home-report-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${digestIcons[r.id]}</svg></span><span class="home-report-copy"><strong>${r.label}</strong><small>${r.caption}</small></span><span class="home-report-arrow" aria-hidden="true">→</span></a>`;
 export function digestLinks(round=1){return `<nav class="home-digest-grid" aria-label="Исследования Дайджеста ТУЗа">${['judges','rappers'].flatMap(kind=>reportCatalog[kind].map(r=>digestCard(kind,r,round))).join('')}</nav>`;}

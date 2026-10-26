@@ -750,3 +750,7 @@ body.shell-r1:has(#forum-link.active) .main>.head,body.shell-r1:has(#forum-link.
 /* Embedded V58 hid its internal duplicate header; this native header is unique. */
 #forum-link .rapper-research .rpt-page-head{display:block!important}
 #forum-link .rapper-research .jr-edge-hist{height:210px}
+
+#forum-link .rr-mode-link {margin:0 0 20px;display:flex;justify-content:flex-end}
+#forum-link .rr-mode-link a {display:inline-flex;align-items:center;min-height:44px;color:var(--ds-text);text-decoration:none;font-size:var(--ds-control)}
+#forum-link .rr-mode-link a:hover {text-decoration:underline}

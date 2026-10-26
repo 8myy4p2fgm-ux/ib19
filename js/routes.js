@@ -73,7 +73,7 @@ export function initializeRoutes({loadR1,mountR1}){
   const a=document.createElement('a');a.href=pathFor('overview');a.textContent='Открыть первый раунд';stateBox.append(a);
  }
  function reveal(){document.querySelector('.app').hidden=false;window.ib19Loader.ready();}
- function emit(){window.dispatchEvent(new Event('ib19:route'));}
+ function emit(ready=false){window.dispatchEvent(new CustomEvent('ib19:route',{detail:{ready}}));}
  function focusAfterRoute(){requestAnimationFrame(()=>select.focus({preventScroll:true}));}
  async function route({focus=false}={}){
   const ticket=++sequence,state=parseRoute(location.href);
@@ -108,7 +108,7 @@ export function initializeRoutes({loadR1,mountR1}){
     await r1UI.preparePage?.(state.type);if(ticket!==sequence)return;
     if(state.reportFallback)window.dispatchEvent(new CustomEvent('tuz:report-fallback',{detail:{kind:state.type==='forum-link'?'rappers':state.type}}));
     snapshot('r1',r1Context);stateBox.hidden=true;activate(routeSections[state.type]);
-    if(state.type==='events'){events??=buildEvents(D);renderEvents();}if(state.type==='judges')judgeSummary.draw();emit();
+    if(state.type==='events'){events??=buildEvents(D);renderEvents();}if(state.type==='judges')judgeSummary.draw();emit(true);
     if(state.type==='dynamics'||state.type==='overview')window.dispatchEvent(new Event('resize'));
   }catch(error){if(ticket!==sequence)return;snapshot('none');notice(state.round===1?'Не удалось загрузить первый раунд':'Не удалось загрузить сведения R2',error.message,{retry:true});}
   reveal();if(focus)focusAfterRoute();

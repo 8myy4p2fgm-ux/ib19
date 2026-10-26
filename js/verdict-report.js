@@ -9,13 +9,13 @@ export function mountVerdictReport(panel,source,{selectedJudge='',onJudge=()=>{}
  const root=panel.querySelector('.verdict-report'),$=s=>root.querySelector(s);
  if(!judges.length){root.textContent='Нет решающих оценок';return;}
  let index=Math.max(0,judges.findIndex(j=>j.key===selectedJudge));
- $('.judge-list').innerHTML=judges.map((j,i)=>`<button type="button" class="judge-row" data-judge="${i}" data-execution="${esc(j.key)}" aria-pressed="false" aria-label="${esc(j.name)}: ${j.pass} проходов, ${j.fail} вылетов"><span class="place">${i+1}</span><span class="judge-name">${esc(j.name)}</span><span class="pass">${fmt(j.pass)}</span><span class="fail">${fmt(j.fail)}</span><span class="balance" aria-hidden="true"><i style="width:${j.n?j.pass/j.n*100:0}%"></i></span></button>`).join('');
- function show(){const j=judges[index],level=verdictExpression(j,judges),art=renderVerdictIllustrations(level);$('.hero').dataset.state=level;$('.selected-heading h3').textContent=j.name;$('.total-count').textContent=fmt(j.n)+' решающих оценок';
+ $('.judge-list').innerHTML=judges.map((j,i)=>`<div class="judge-row" data-judge="${i}" data-execution="${esc(j.key)}" aria-label="${esc(j.name)}: ${j.pass} проходов, ${j.fail} вылетов"><button type="button" class="place judge-card-select" data-judge="${i}" aria-label="Выбрать ${esc(j.name)}">${i+1}</button><button type="button" class="judge-name" data-judge-card="${esc(j.name)}">${esc(j.name)}</button><span class="pass">${fmt(j.pass)}</span><span class="fail">${fmt(j.fail)}</span><span class="balance" aria-hidden="true"><i style="width:${j.n?j.pass/j.n*100:0}%"></i></span></div>`).join('');
+ function show(){const j=judges[index],level=verdictExpression(j,judges),art=renderVerdictIllustrations(level);$('.hero').dataset.state=level;$('.selected-heading h3').innerHTML=`<button type="button" data-judge-card="${esc(j.name)}">${esc(j.name)}</button>`;$('.total-count').textContent=fmt(j.n)+' решающих оценок';
  for(const key of ['pass','fail']){$('.stat.'+key+' strong').textContent=fmt(j[key]);$('.stat.'+key+' b').textContent=pct(j.n?j[key]/j.n*100:0)+'%';}
  // Keep glow nodes mounted so opacity crossfades between existing states.
  $('.portraits').innerHTML=level<2?art.fail:level>2?art.pass:art.pass+art.fail;
  $('.hero>.balance i').style.width=(j.n?j.pass/j.n*100:0)+'%';$('.position').textContent=(index+1)+' / '+judges.length;
- root.querySelectorAll('[data-judge]').forEach(b=>b.setAttribute('aria-pressed',String(+b.dataset.judge===index)));
+ root.querySelectorAll('[data-judge]').forEach(b=>b.matches('button')?b.setAttribute('aria-pressed',String(+b.dataset.judge===index)):b.dataset.selected=String(+b.dataset.judge===index));
  root.querySelectorAll('[data-step]').forEach(b=>b.disabled=judges.length<2);
  }
  root.addEventListener('click',e=>{const row=e.target.closest('[data-judge]'),step=e.target.closest('[data-step]');if(!row&&!step)return;index=row?+row.dataset.judge:(index+Number(step.dataset.step)+judges.length)%judges.length;show();onJudge(judges[index].key);if(row)$('.hero').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});});

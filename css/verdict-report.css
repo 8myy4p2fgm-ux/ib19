@@ -13,7 +13,7 @@
 #int09-panel-5 .verdict-report .judge-list{border:1px solid var(--ds-rule);border-radius:9px;overflow:hidden;background:var(--ds-inner)}
 #int09-panel-5 .verdict-report .judge-row{border:0;border-bottom:1px solid var(--ds-rule);border-radius:0;min-height:52px;background:transparent}
 #int09-panel-5 .verdict-report .judge-row:last-child{border-bottom:0}
-#int09-panel-5 .verdict-report .judge-row[aria-pressed=true]{background:#3c3e40;box-shadow:inset 2px 0 #c5c6c3}
+#int09-panel-5 .verdict-report .judge-row[data-selected=true]{background:#3c3e40;box-shadow:inset 2px 0 #c5c6c3}
 #int09-panel-5 .verdict-report .judge-name{overflow-wrap:anywhere;font-weight:500}
 #int09-panel-5 .verdict-report .place{color:var(--ds-muted);font-size:12px}
 #int09-panel-5 .verdict-report .judge-row .balance{width:100%}
