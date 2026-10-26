@@ -199,3 +199,15 @@ body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dia
 body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:hover {background:#3d3b37!important}
 body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) button:focus-visible {outline:2px solid #c6c6c3!important;outline-offset:2px}
 @media(max-width:600px){body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) {padding:18px!important}body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.bp-dialog,.jr-dialog,.ranking-dialog[data-kind="method"]) :is(p,li,.method-dialog-body,.ranking-dialog-body){font-size:15px}}
+
+/* UI-CORRECTIONS-01: editorial notes only, never profile dialogs. */
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) {
+ background-image:url('./assets/carrot-watermark.svg')!important;
+ background-repeat:no-repeat!important;background-position:right 16px bottom 12px!important;background-size:220px 257px!important;
+ box-shadow:0 16px 48px #0005!important;border-color:#57534b!important;
+}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button {
+ background:#302f2b!important;border-radius:6px!important;outline:none;
+}
+body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]) :is(.method-dialog-head,.bp-dialog-head,.jr-dialog-head,.ranking-dialog-head)>button:focus-visible {outline:2px solid #c5ad82!important;outline-offset:2px}
+@media(max-width:600px){body.shell-r1 :is(#method-dialog,#judges .jr-dialog,#dynamics .bp-dialog,.jr-dialog,.bp-dialog,.ranking-dialog[data-kind="method"]){background-size:150px 175px!important;background-position:right 4px bottom 8px!important}}

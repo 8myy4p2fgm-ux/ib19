@@ -299,14 +299,6 @@ body.shell-r1 .app>.main #home .r1-pace-links .home-report-card small {font-size
 .home-chronicle-grid .home-report-copy {min-width:0;flex:1}
 #home #r1-pulse-chart {touch-action:pan-y}
 #home #r1-pulse-chart:focus-visible {outline:2px solid var(--ds-focus);outline-offset:2px;border-radius:6px}
-.r1-pulse-controls {margin-top:12px;min-width:0}
-.r1-pulse-date {display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.r1-pulse-date button {min-width:44px;min-height:44px;padding:8px 12px;border:1px solid var(--ds-border);border-radius:8px;background:var(--ds-inner);color:var(--ds-text);font:inherit;font-size:14px;cursor:pointer}
-.r1-pulse-date button:disabled {opacity:.4;cursor:default}
-.r1-pulse-date button:focus-visible {outline:2px solid var(--ds-focus);outline-offset:2px}
-.r1-pulse-date button:hover:not(:disabled) {background:var(--ds-hover)}
-.r1-pulse-date [data-pulse-date] {min-width:98px;text-align:center;font-size:14px;font-variant-numeric:tabular-nums}
-.r1-pulse-readout {display:block;margin-top:10px;font-size:14px;line-height:1.5;color:var(--ds-muted)}
 @media(min-width:421px) and (max-width:900px){body.shell-r1 .app>.main #home .home-chronicle-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:900px){
  body.shell-r1 .app>.main #home .r1-results {--home-summary-middle:150px}
@@ -319,5 +311,11 @@ body.shell-r1 .app>.main #home .r1-pace-links .home-report-card small {font-size
  body.shell-r1 .app>.main #home .r1-outcomes :is(span,small) {font-size:13px}
  body.shell-r1 .app>.main #home :is(.home-report-card,.r1-pace-links .home-report-card) strong {font-size:16px}
  body.shell-r1 .app>.main #home :is(.home-report-card,.r1-pace-links .home-report-card) small {font-size:12px}
- .r1-pulse-readout {font-size:13px}
 }
+
+/* UI-CORRECTIONS-01: pointer focus is not a frame around the plot. */
+body.shell-r1 #home #r1-pulse-chart:focus:not(:focus-visible) {outline:none}
+body.shell-r1 #home #r1-pulse-chart:focus-visible {outline:1px solid var(--ds-focus);outline-offset:2px;border-radius:4px}
+body.shell-r1 #home .r1-deadlines {column-gap:22px;row-gap:10px;margin:12px 0 18px;line-height:1.5}
+body.shell-r1 #home .r1-chart-heading>span {display:block;line-height:1.55;min-height:2lh;overflow-wrap:anywhere}
+@media(max-width:600px){body.shell-r1 #home .r1-deadlines{flex-direction:column;align-items:flex-start;gap:9px;margin-bottom:20px}}
