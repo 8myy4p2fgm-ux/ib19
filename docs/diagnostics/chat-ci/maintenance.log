@@ -1,0 +1,64 @@
+TAP version 13
+# Subtest: standalone HTML equals Worker HTML; exact approved public text
+ok 1 - standalone HTML equals Worker HTML; exact approved public text
+  ---
+  duration_ms: 0.592041
+  type: 'test'
+  ...
+# Subtest: anonymous maintenance, login, HEAD and resource denial never call origin
+ok 2 - anonymous maintenance, login, HEAD and resource denial never call origin
+  ---
+  duration_ms: 12.931292
+  type: 'test'
+  ...
+# Subtest: successful login creates secure eight-hour cookie and proxies paths without credentials
+ok 3 - successful login creates secure eight-hour cookie and proxies paths without credentials
+  ---
+  duration_ms: 5.681458
+  type: 'test'
+  ...
+# Subtest: incorrect password, CSRF, methods and oversized input rejected
+ok 4 - incorrect password, CSRF, methods and oversized input rejected
+  ---
+  duration_ms: 1.223625
+  type: 'test'
+  ...
+# Subtest: expired, malformed, duplicate and forged cookies rejected
+ok 5 - expired, malformed, duplicate and forged cookies rejected
+  ---
+  duration_ms: 0.871208
+  type: 'test'
+  ...
+# Subtest: logout requires same-origin POST and clears cookie
+ok 6 - logout requires same-origin POST and clears cookie
+  ---
+  duration_ms: 0.233917
+  type: 'test'
+  ...
+# Subtest: limiter checked on every login and blocks sixth attempt even with correct password
+ok 7 - limiter checked on every login and blocks sixth attempt even with correct password
+  ---
+  duration_ms: 0.917709
+  type: 'test'
+  ...
+# Subtest: missing configuration, limiter failure and origin failure fail closed
+ok 8 - missing configuration, limiter failure and origin failure fail closed
+  ---
+  duration_ms: 0.863584
+  type: 'test'
+  ...
+# Subtest: HTTPS and canonical redirect; unknown host denied
+ok 9 - HTTPS and canonical redirect; unknown host denied
+  ---
+  duration_ms: 0.316875
+  type: 'test'
+  ...
+1..9
+# tests 9
+# suites 0
+# pass 9
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 66.88475

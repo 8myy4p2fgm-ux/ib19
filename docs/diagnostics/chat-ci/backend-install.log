@@ -1,0 +1,22 @@
+✓ Lockfile passes supply-chain policies (verified 5h ago)
+Lockfile is up to date, resolution step is skipped
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Packages: +30
+++++++++++++++++++++++++++++++
+Packages are cloned from the content-addressable store to the virtual store.
+  Content-addressable store is at: /private/tmp/tuz19-chat-ci-clean/backend-store/v11
+  Virtual store is at:             node_modules/.pnpm
+Progress: resolved 30, reused 0, downloaded 24, added 24
+Progress: resolved 30, reused 0, downloaded 28, added 28
+Progress: resolved 30, reused 0, downloaded 29, added 28
+Progress: resolved 30, reused 0, downloaded 29, added 29
+Progress: resolved 30, reused 0, downloaded 30, added 30, done
+
+dependencies:
++ miniflare 4.20260730.0
++ ws 8.22.0
+
+devDependencies:
++ playwright 1.56.1
+
+Done in 6.4s using pnpm v11.25.0

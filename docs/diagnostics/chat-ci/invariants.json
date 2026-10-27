@@ -1,0 +1,15 @@
+{
+  "onlyChangedRuntimeOrWorkflowFile": ".github/workflows/deploy.yml",
+  "exactSixStepInsertion": true,
+  "protectedFilesUnchangedExceptApprovedDeploy": 204,
+  "unchangedOtherWorkflows": [
+    ".github/workflows/update-data-scheduled.yml",
+    ".github/workflows/schedule-clock-utc.yml"
+  ],
+  "packageAndLockfilesUnchanged": true,
+  "backendInstallPolicyInWorkflowOnly": true,
+  "dataAndCollectorUnchanged": true,
+  "push": false,
+  "deploy": false,
+  "workflowDispatch": false
+}

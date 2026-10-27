@@ -1,0 +1,57 @@
+[
+  {
+    "name": "release",
+    "status": 0,
+    "elapsedMs": 1731
+  },
+  {
+    "name": "validate",
+    "status": 0,
+    "elapsedMs": 158
+  },
+  {
+    "name": "build",
+    "status": 0,
+    "elapsedMs": 1061
+  },
+  {
+    "name": "chromium",
+    "status": 0,
+    "elapsedMs": 1221
+  },
+  {
+    "name": "chat",
+    "status": 0,
+    "elapsedMs": 15601
+  },
+  {
+    "name": "regression",
+    "status": 0,
+    "elapsedMs": 100995
+  },
+  {
+    "name": "integration",
+    "status": 0,
+    "elapsedMs": 61443
+  },
+  {
+    "name": "chat-browser",
+    "status": 0,
+    "elapsedMs": 93888
+  },
+  {
+    "name": "smilies-browser",
+    "status": 0,
+    "elapsedMs": 5527
+  },
+  {
+    "name": "release-browser",
+    "status": 0,
+    "elapsedMs": 5935
+  },
+  {
+    "name": "public-artifact",
+    "status": 0,
+    "elapsedMs": 624
+  }
+]

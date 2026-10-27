@@ -1,0 +1,130 @@
+
+> ib19-public@1.0.0 test:chat:integration
+> node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-build.test.mjs && node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-dev.test.mjs && node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-gateway.test.mjs tests/chat-integration-operator.test.mjs && node --import ./scripts/local-network-guard.mjs tests/chat-integration-browser.mjs
+
+TAP version 13
+# Subtest: one build produces versioned site + chat; nav defaults off, opt-in on and next data-style build returns off without data edits
+ok 1 - one build produces versioned site + chat; nav defaults off, opt-in on and next data-style build returns off without data edits
+  ---
+  duration_ms: 3284.097167
+  type: 'test'
+  ...
+# Subtest: public boundary rejects backend, extra GIF, modified original GIF, orphan JS and private keys
+ok 2 - public boundary rejects backend, extra GIF, modified original GIF, orphan JS and private keys
+  ---
+  duration_ms: 798.109334
+  type: 'test'
+  ...
+# Subtest: disabled configs retain MAINT and private API-only backend without activating deployment
+ok 3 - disabled configs retain MAINT and private API-only backend without activating deployment
+  ---
+  duration_ms: 0.903625
+  type: 'test'
+  ...
+1..3
+# tests 3
+# suites 0
+# pass 3
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 4124.048208
+TAP version 13
+# Subtest: local review command starts protected loopback fixtures, keeps credentials private, and removes them on stop
+ok 1 - local review command starts protected loopback fixtures, keeps credentials private, and removes them on stop
+  ---
+  duration_ms: 2314.137042
+  type: 'test'
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 1
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 2348.174083
+TAP version 13
+# Subtest: MAINT guards page/API/WS and strips forged context + cookie while preserving admin Bearer and trusted deadline
+ok 1 - MAINT guards page/API/WS and strips forged context + cookie while preserving admin Bearer and trusted deadline
+  ---
+  duration_ms: 11.933291
+  type: 'test'
+  ...
+# Subtest: gateway flag/binding failure closes only chat; static and MAINT login remain working; logout revokes before clearing cookie
+ok 2 - gateway flag/binding failure closes only chat; static and MAINT login remain working; logout revokes before clearing cookie
+  ---
+  duration_ms: 3.410916
+  type: 'test'
+  ...
+# Subtest: real service binding: WSS, zero-SQL native heartbeat, OFF/restart rollback retains history and disabled state
+ok 3 - real service binding: WSS, zero-SQL native heartbeat, OFF/restart rollback retains history and disabled state
+  ---
+  duration_ms: 445.352125
+  type: 'test'
+  ...
+# Subtest: real gateway session expiry and logout close WSS, reject replayed owner session, and retain no public bypass
+ok 4 - real gateway session expiry and logout close WSS, reject replayed owner session, and retain no public bypass
+  ---
+  duration_ms: 2314.212541
+  type: 'test'
+  ...
+# Subtest: logout clears disconnected grants immediately; replay denied, revocation remains after restart
+ok 5 - logout clears disconnected grants immediately; replay denied, revocation remains after restart
+  ---
+  duration_ms: 282.830708
+  type: 'test'
+  ...
+# (node:28063) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: gateway context does not reintroduce SQL on repeated HTTP 429 or bad admin/unknown paths
+ok 6 - gateway context does not reintroduce SQL on repeated HTTP 429 or bad admin/unknown paths
+  ---
+  duration_ms: 11.955333
+  type: 'test'
+  ...
+# Subtest: native alarm ends access after deadline even when exact auto-pings continue
+ok 7 - native alarm ends access after deadline even when exact auto-pings continue
+  ---
+  duration_ms: 15085.034166
+  type: 'test'
+  ...
+# Subtest: actual gateway code rollback restores previous MAINT while keeping current assets and persistent backend OFF
+ok 8 - actual gateway code rollback restores previous MAINT while keeping current assets and persistent backend OFF
+  ---
+  duration_ms: 292.362625
+  type: 'test'
+  ...
+# Subtest: private logout revocation has a persistent SQL budget and denial cache
+ok 9 - private logout revocation has a persistent SQL budget and denial cache
+  ---
+  duration_ms: 829.059625
+  type: 'test'
+  ...
+# Subtest: operator OFF/ON crosses MAINT with independent Bearer; rejects public file and foreign origins
+ok 10 - operator OFF/ON crosses MAINT with independent Bearer; rejects public file and foreign origins
+  ---
+  duration_ms: 277.225958
+  type: 'test'
+  ...
+1..10
+# tests 10
+# suites 0
+# pass 10
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 19503.157583
+PASS anonymous chat page and presence remain behind MAINT
+PASS owner cookie reaches same-origin public provider; nav count works without spectator WS
+PASS SPA keeps one provider/link in R1/R2; Chat is ordinary navigation, no undefined data-tab
+PASS real Service Binding WSS delivers text/smiley and inert XSS to second owner context
+PASS offline reconnect catches one missed message through MAINT with no duplicate
+PASS 92 smileys and 1440/390/320 geometry preserved in integrated artifact
+PASS R2 mobile menu retains Chat link and compact counter
+PASS production-style operator path works through owner gate; OFF closes clients and ON restores status
+PASS rollback artifact/default flag has no nav and no HTTP polling; gateway remains closed
+PASS no browser page errors

@@ -1,13 +1,13 @@
-# Минимальное предложение CI — НЕ применено
+# CI-дополнение — применено локально после согласования
 
-Три текущих workflow сохранены побайтно. Существующий frontend build не требует установки backend tooling; он уже включает chat/public boundary validation. Однако текущий publication job сам не запускает новые server/MAINT регрессии. До production release нужно отдельно согласовать этот минимальный дополнительный gate.
+27.10.2026 владелец согласовал дополнение. Из workflow изменён только deploy.yml; update-data-scheduled.yml и schedule-clock-utc.yml сохранены побайтно. Существующий frontend build не требует установки backend tooling; он уже включает chat/public boundary validation. До дополнения publication job не запускал новые server/MAINT регрессии. После включения описанного gate они выполняются до загрузки и публикации Pages-артефакта.
 
 Предлагаемый единственный файл: `.github/workflows/deploy.yml`.
 
 После существующего `npx playwright install --with-deps chromium`, до публикации артефакта, добавить:
 
 ```yaml
-      - run: npx --yes pnpm@11.25.0 --dir backend/chat install --frozen-lockfile
+      - run: npx --yes pnpm@11.25.0 --dir backend/chat install --frozen-lockfile --ignore-scripts
       - run: npm run test:chat
       - run: npm run test:chat:regression
       - run: npm run test:chat:integration
@@ -19,4 +19,4 @@
 
 Не менять `update-data-scheduled.yml`, `schedule-clock-utc.yml`, source config, collection commit allowlist, общий ib19-publish concurrency или Pages destination. Не добавлять автоматический deploy backend, новые облачные credentials или второй publisher.
 
-Изменение workflow здесь только предъявлено; без отдельного подтверждения не применено. Локальные результаты тестов находятся в CHAT_RELEASE_DIFF_REPORT.md.
+Дополнение применено локально без push/deploy/dispatch. Для pnpm 11 добавлен --ignore-scripts: чистый install иначе завершается ERR_PNPM_IGNORED_BUILDS на workerd. Работа нативного workerd проверена тестами после чистой установки. Актуальные результаты и ограничение macOS/Ubuntu — в CHAT_CI_VALIDATION_REPORT.md.

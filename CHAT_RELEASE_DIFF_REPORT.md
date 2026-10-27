@@ -1,5 +1,7 @@
 # Минимальный chat release-diff поверх актуального main
 
+Позднее согласованное CI-дополнение применено и проверено после чистой установки под Node 22: [актуальный CI-отчёт](CHAT_CI_VALIDATION_REPORT.md). Ниже сохранены результаты первоначальной подготовки release-diff.
+
 Дата: 27.10.2026. Ветка: `codex/chat-release`.
 Worktree: `/Users/gleb/.codex/worktrees/chat-release/tuz19-v2-dev`.
 База: `origin/main` **ac56c4c6349f067457adedbce29ebc1564a0df9f**; GitHub HEAD проверен до переноса и повторно после тестов, совпал.

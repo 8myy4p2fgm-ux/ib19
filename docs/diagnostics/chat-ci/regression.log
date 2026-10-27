@@ -1,0 +1,88 @@
+
+> ib19-public@1.0.0 test:chat:regression
+> node --import ./scripts/local-network-guard.mjs --test tests/chat06-server.test.mjs tests/chat06-preview-runtime.test.mjs tests/chat06-browser.test.mjs
+
+TAP version 13
+# Subtest: P1-01: history error before message ACK preserves identity and commits once
+ok 1 - P1-01: history error before message ACK preserves identity and commits once
+  ---
+  duration_ms: 6515.255708
+  type: 'test'
+  ...
+# Subtest: P1-02: late ACK preserves changed draft and a smiley inserted before ACK
+ok 2 - P1-02: late ACK preserves changed draft and a smiley inserted before ACK
+  ---
+  duration_ms: 657.086584
+  type: 'test'
+  ...
+# Subtest: P1-03: deletion outside newest100 is reconciled after reconnect
+ok 3 - P1-03: deletion outside newest100 is reconciled after reconnect
+  ---
+  duration_ms: 1724.211042
+  type: 'test'
+  ...
+# backlog page 10 cursor 1001 more true
+# backlog page 20 cursor 2001 more true
+# backlog page 30 cursor 3001 more true
+# backlog page 40 cursor 4001 more true
+# backlog page 50 cursor 5001 more true
+# backlog page 60 cursor 6001 more true
+# Subtest: P1-04: 6500-message backlog completes in order without gaps or duplicates
+ok 4 - P1-04: 6500-message backlog completes in order without gaps or duplicates
+  ---
+  duration_ms: 87743.065625
+  type: 'test'
+  ...
+# Subtest: sync retries a rate error and resumes its confirmed cursor after another disconnect
+ok 5 - sync retries a rate error and resumes its confirmed cursor after another disconnect
+  ---
+  duration_ms: 4030.589792
+  type: 'test'
+  ...
+# Subtest: actual workerd preview artifact: ASSETS, CSP, Origin, socket, moderation and emergency switch
+ok 6 - actual workerd preview artifact: ASSETS, CSP, Origin, socket, moderation and emergency switch
+  ---
+  duration_ms: 645.420333
+  type: 'test'
+  ...
+# (node:27945) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: P1-05: isolated preview artifact serves /chat, all assets and CSP without leaking source
+ok 7 - P1-05: isolated preview artifact serves /chat, all assets and CSP without leaking source
+  ---
+  duration_ms: 461.135792
+  type: 'test'
+  ...
+# Subtest: P1-06: public health requests are bounded before expensive cleanup; bad admin/unknown do no SQL
+ok 8 - P1-06: public health requests are bounded before expensive cleanup; bad admin/unknown do no SQL
+  ---
+  duration_ms: 11.204875
+  type: 'test'
+  ...
+# Subtest: deletion journal survives object recreation, migrates old tombstones and expires with original message
+ok 9 - deletion journal survives object recreation, migrates old tombstones and expires with original message
+  ---
+  duration_ms: 3.244791
+  type: 'test'
+  ...
+# Subtest: HTTP budget persists through recreation and denied repeated requests perform no SQL writes
+ok 10 - HTTP budget persists through recreation and denied repeated requests perform no SQL writes
+  ---
+  duration_ms: 9.407792
+  type: 'test'
+  ...
+# Subtest: legacy message-only sync is not trapped by more than 100 deletion markers
+ok 11 - legacy message-only sync is not trapped by more than 100 deletion markers
+  ---
+  duration_ms: 3.177458
+  type: 'test'
+  ...
+1..11
+# tests 11
+# suites 0
+# pass 11
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 100878.408375

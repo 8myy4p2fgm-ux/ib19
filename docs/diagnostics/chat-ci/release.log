@@ -1,0 +1,188 @@
+
+> ib19-public@1.0.0 test:release
+> node --test tests/r2-release.test.mjs tests/publication-cli.test.mjs tests/r2-home.test.mjs tests/r2-submissions.test.mjs tests/temporary-exclusion-cli.test.mjs tests/update-gate.test.mjs tests/workflow-modes.test.mjs
+
+TAP version 13
+# Subtest: existing update CLI: R2 updates preserve history (seeded revision: false)
+ok 1 - existing update CLI: R2 updates preserve history (seeded revision: false)
+  ---
+  duration_ms: 775.476375
+  type: 'test'
+  ...
+# Subtest: existing update CLI: R2 updates preserve history (seeded revision: true)
+ok 2 - existing update CLI: R2 updates preserve history (seeded revision: true)
+  ---
+  duration_ms: 759.35975
+  type: 'test'
+  ...
+# Subtest: R2 home projects two unique confirmed submissions to Moscow 24 October
+ok 3 - R2 home projects two unique confirmed submissions to Moscow 24 October
+  ---
+  duration_ms: 0.694375
+  type: 'test'
+  ...
+# Subtest: Unknown group identity is not the Others group; denominators stay unknown
+ok 4 - Unknown group identity is not the Others group; denominators stay unknown
+  ---
+  duration_ms: 0.12
+  type: 'test'
+  ...
+# Subtest: Grouping uses exact UUID rather than a similar name
+ok 5 - Grouping uses exact UUID rather than a similar name
+  ---
+  duration_ms: 0.058708
+  type: 'test'
+  ...
+# Subtest: Full replacement reflects new dates, deletion, duplicates and track replacement
+ok 6 - Full replacement reflects new dates, deletion, duplicates and track replacement
+  ---
+  duration_ms: 6.98525
+  type: 'test'
+  ...
+# Subtest: advanceCount and R1 outcomes never act as R2 roster
+ok 7 - advanceCount and R1 outcomes never act as R2 roster
+  ---
+  duration_ms: 0.210208
+  type: 'test'
+  ...
+# Subtest: cohort projects approved pass statuses by UUID; admission and submission stay separate
+ok 8 - cohort projects approved pass statuses by UUID; admission and submission stay separate
+  ---
+  duration_ms: 9.988459
+  type: 'test'
+  ...
+# Subtest: pinned submissions phase rejects another round or phase and cannot recover from an R1 report
+ok 9 - pinned submissions phase rejects another round or phase and cannot recover from an R1 report
+  ---
+  duration_ms: 17.775708
+  type: 'test'
+  ...
+# Subtest: workflow commits exactly the R2 publication set; clock and deploy mechanism stay in place
+ok 10 - workflow commits exactly the R2 publication set; clock and deploy mechanism stay in place
+  ---
+  duration_ms: 1.371167
+  type: 'test'
+  ...
+# Subtest: inconsistent full/live pair and judging scores fail without any publication
+ok 11 - inconsistent full/live pair and judging scores fail without any publication
+  ---
+  duration_ms: 13.630958
+  type: 'test'
+  ...
+# Subtest: R2 register projects submission information without judging totals or score counts
+ok 12 - R2 register projects submission information without judging totals or score counts
+  ---
+  duration_ms: 0.174209
+  type: 'test'
+  ...
+# Subtest: Exact two-source bytes, identities, chronological dates, lengths and unknown roster
+ok 13 - Exact two-source bytes, identities, chronological dates, lengths and unknown roster
+  ---
+  duration_ms: 5.031583
+  type: 'test'
+  ...
+# Subtest: Independent frozen snapshots and repeated loads have no accumulation or input mutation
+ok 14 - Independent frozen snapshots and repeated loads have no accumulation or input mutation
+  ---
+  duration_ms: 2.839125
+  type: 'test'
+  ...
+# Subtest: Search and chronological order use current records, stable UUID ties and no source mutation
+ok 15 - Search and chronological order use current records, stable UUID ties and no source mutation
+  ---
+  duration_ms: 1.95975
+  type: 'test'
+  ...
+# Subtest: New entries, removal, empty replacement, track and timestamp changes never merge with old snapshot
+ok 16 - New entries, removal, empty replacement, track and timestamp changes never merge with old snapshot
+  ---
+  duration_ms: 5.000958
+  type: 'test'
+  ...
+# Subtest: Missing optional fields remain unknown and incomplete evidence is not counted as a submission
+ok 17 - Missing optional fields remain unknown and incomplete evidence is not counted as a submission
+  ---
+  duration_ms: 2.155417
+  type: 'test'
+  ...
+# Subtest: Future aggregate scores stay source fields and never enable R1 or R2 analytical formulas
+ok 18 - Future aggregate scores stay source fields and never enable R1 or R2 analytical formulas
+  ---
+  duration_ms: 1.026083
+  type: 'test'
+  ...
+# Subtest: Fail closed on wrong round, bad provenance, duplicates, mismatch, bad dates and negative durations
+ok 19 - Fail closed on wrong round, bad provenance, duplicates, mismatch, bad dates and negative durations
+  ---
+  duration_ms: 8.726709
+  type: 'test'
+  ...
+# Subtest: scheduled R2 update accepts the byte-identical frozen R1 archive
+ok 20 - scheduled R2 update accepts the byte-identical frozen R1 archive
+  ---
+  duration_ms: 35.003
+  type: 'test'
+  ...
+# Subtest: manual collection is not suppressed
+ok 21 - manual collection is not suppressed
+  ---
+  duration_ms: 0.419417
+  type: 'test'
+  ...
+# Subtest: queued and delayed runs collect from the current ten-minute bucket
+ok 22 - queued and delayed runs collect from the current ten-minute bucket
+  ---
+  duration_ms: 0.068291
+  type: 'test'
+  ...
+# Subtest: already fresh ten-minute bucket is skipped
+ok 23 - already fresh ten-minute bucket is skipped
+  ---
+  duration_ms: 0.04775
+  type: 'test'
+  ...
+# Subtest: new ten-minute boundary allows collection, even across an hour
+ok 24 - new ten-minute boundary allows collection, even across an hour
+  ---
+  duration_ms: 1.252333
+  type: 'test'
+  ...
+# Subtest: Cloudflare dispatch uses the same freshness gate; ordinary manual runs remain immediate
+ok 25 - Cloudflare dispatch uses the same freshness gate; ordinary manual runs remain immediate
+  ---
+  duration_ms: 0.287917
+  type: 'test'
+  ...
+# Subtest: both manual-only rollout and ten-minute production are valid
+ok 26 - both manual-only rollout and ten-minute production are valid
+  ---
+  duration_ms: 2.089125
+  type: 'test'
+  ...
+# Subtest: wrong/missing/duplicate schedules, absent manual launch and unsafe concurrency remain rejected
+ok 27 - wrong/missing/duplicate schedules, absent manual launch and unsafe concurrency remain rejected
+  ---
+  duration_ms: 2.56575
+  type: 'test'
+  ...
+# Subtest: off-peak phase has exactly six triggers and ten-minute cyclic gaps
+ok 28 - off-peak phase has exactly six triggers and ten-minute cyclic gaps
+  ---
+  duration_ms: 0.372792
+  type: 'test'
+  ...
+# Subtest: scheduled collection is explicitly incremental and manual modes remain available
+ok 29 - scheduled collection is explicitly incremental and manual modes remain available
+  ---
+  duration_ms: 0.053291
+  type: 'test'
+  ...
+1..29
+# tests 29
+# suites 0
+# pass 29
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1605.87425

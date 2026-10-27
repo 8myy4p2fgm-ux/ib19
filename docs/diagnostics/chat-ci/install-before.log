@@ -1,0 +1,24 @@
+✓ Lockfile passes supply-chain policies (verified 5h ago)
+Lockfile is up to date, resolution step is skipped
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Packages: +30
+++++++++++++++++++++++++++++++
+Packages are cloned from the content-addressable store to the virtual store.
+  Content-addressable store is at: /private/tmp/tuz19-chat-ci-clean/probe-store/v11
+  Virtual store is at:             node_modules/.pnpm
+Progress: resolved 30, reused 0, downloaded 18, added 18
+Progress: resolved 30, reused 0, downloaded 27, added 27
+Progress: resolved 30, reused 0, downloaded 29, added 29
+Progress: resolved 30, reused 0, downloaded 30, added 29
+Progress: resolved 30, reused 0, downloaded 30, added 30, done
+
+dependencies:
++ miniflare 4.20260730.0
++ ws 8.22.0
+
+devDependencies:
++ playwright 1.56.1
+
+[ERR_PNPM_IGNORED_BUILDS] Ignored build scripts: workerd@1.20260730.1
+
+Run "pnpm approve-builds" to pick which dependencies should be allowed to run scripts.

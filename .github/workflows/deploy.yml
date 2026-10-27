@@ -29,6 +29,12 @@ jobs:
       - run: npm run validate
       - run: npm run build
       - run: npx playwright install --with-deps chromium
+      - run: npx --yes pnpm@11.25.0 --dir backend/chat install --frozen-lockfile --ignore-scripts
+      - run: npm run test:chat
+      - run: npm run test:chat:regression
+      - run: npm run test:chat:integration
+      - run: npm run test:chat:browser
+      - run: node tests/chat0304-browser.mjs
       - run: npm run test:release:browser
       - uses: actions/upload-artifact@v4
         if: always()
