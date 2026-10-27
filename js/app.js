@@ -148,9 +148,9 @@ async function preparePage(type){
  }else if(type==='dynamics'){
   dynamics??=import('./dynamics-v58.js').then(({mountDynamicsV58})=>{const view=mountDynamicsV58({context:roundContext,activity,outcomes,fmt});window.addEventListener('resize',()=>{if(isFirstRoundActive())view.draw();});return view;}).catch(error=>{dynamics=null;throw error;});
   await dynamics;
- }else if(type==='judges'){prepareSummary();await Promise.all([prepareJudgeRanking(),prepareJudgeProfiles()]);}
+ }else if(type==='judges'){prepareSummary();await prepareJudgeRanking();if(new URLSearchParams(location.search).has('judge'))await prepareJudgeProfiles();}
 }
-const prepareJudgeProfiles=installJudgeProfiles(D);
+const prepareJudgeProfiles=installJudgeProfiles(D,roundContext);
 const prepareJudgeRanking=installJudgeRanking(roundContext,D);
 mountR1Home({context:roundContext,activity,summaries:{forum:now,veterans:veteranNow},groupResults:homeGroupResults,outcomes,fmt});
 

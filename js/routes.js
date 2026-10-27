@@ -72,7 +72,7 @@ export function initializeRoutes({loadR1,mountR1}){
   if(retry){const button=document.createElement('button');button.className='control';button.textContent=isFirstRoundActive()?'Разбудить программиста':'Повторить';button.onclick=()=>route();stateBox.append(button);}
   const a=document.createElement('a');a.href=pathFor('overview');a.textContent='Открыть первый раунд';stateBox.append(a);
  }
- function reveal(){document.querySelector('.app').hidden=false;window.ib19Loader.ready();}
+ function reveal(){document.querySelector('.app').hidden=false;window.ib19Loader.ready();if(window.ib19BootFailed)window.ib19BootFailure();}
  function emit(ready=false){window.dispatchEvent(new CustomEvent('ib19:route',{detail:{ready}}));}
  function focusAfterRoute(){requestAnimationFrame(()=>select.focus({preventScroll:true}));}
  async function route({focus=false}={}){
@@ -100,10 +100,11 @@ export function initializeRoutes({loadR1,mountR1}){
    emit();reveal();if(focus)focusAfterRoute();return;
   }
   if(state.type==='horo'){snapshot('horo');activate('horo');openHoro($('horo'));emit();reveal();if(focus)focusAfterRoute();return;}
-  // Keep the current page until the destination is ready. Initial loading is covered by the carrot.
+  // The shell stays usable while the first round is loading.
+  if(!r1UI){notice('Загружаем данные…','Первый раунд');reveal();}
   try{
     r1Promise ||= loadR1().catch(e=>{r1Promise=null;throw e;});const context=await r1Promise;if(ticket!==sequence)return;
-    if(!r1UI&&document.querySelector('.app').hidden){await window.ib19Loader.preparing?.();if(ticket!==sequence)return;}
+    if(!r1UI){await window.ib19Loader.preparing?.();if(ticket!==sequence)return;}
     if(!r1UI){r1Context=context;r1UI=mountR1(context);({D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary}=r1UI);judges=rankPersonalV4(judgeCurrent);$('about').querySelector('h2').insertAdjacentHTML('afterend',voiceInline(selectEditorial('methodology',{})?.text));}
     await r1UI.preparePage?.(state.type);if(ticket!==sequence)return;
     if(state.reportFallback)window.dispatchEvent(new CustomEvent('tuz:report-fallback',{detail:{kind:state.type==='forum-link'?'rappers':state.type}}));

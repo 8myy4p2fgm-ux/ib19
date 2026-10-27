@@ -7,7 +7,7 @@ export const temporaryExclusionRules = Object.freeze([Object.freeze({
  since:'2026-10-19'
 })]);
 
-export function partitionAnalytics(main,forum,{exclusionRules=temporaryExclusionRules}={}){
+export function partitionAnalytics(main,forum,{exclusionRules=temporaryExclusionRules,deferredComments=false}={}){
  const known=new Map(exclusionRules.map(rule=>[rule.userId,rule]));
  const active=new Set(exclusionRules.filter(rule=>rule.enabled).map(rule=>rule.userId));
  function partition(data,primary){
@@ -32,7 +32,7 @@ export function partitionAnalytics(main,forum,{exclusionRules=temporaryExclusion
   if(!Array.isArray(p.scores)||(p.scoredCount!==undefined&&p.scoredCount!==p.scores.length))throw new Error(label+': inconsistent raw scoredCount '+p.userId);
   const judges=new Set();
   for(const s of p.scores){
-   if(typeof s.judgeName!=='string'||!s.judgeName.trim()||judges.has(s.judgeName)||!Number.isInteger(s.score)||s.score<1||s.score>5||typeof s.comment!=='string'||!Number.isFinite(Date.parse(s.scoredAt)))throw new Error(label+': invalid raw score '+p.userId);
+   if(typeof s.judgeName!=='string'||!s.judgeName.trim()||judges.has(s.judgeName)||!Number.isInteger(s.score)||s.score<1||s.score>5||!(typeof s.comment==='string'||(deferredComments&&/^[a-f0-9]{64}$/.test(s.commentHash)))||!Number.isFinite(Date.parse(s.scoredAt)))throw new Error(label+': invalid raw score '+p.userId);
    if(Date.parse(s.scoredAt)>Date.parse(selectedMain.exportedAt))throw new Error(label+': оценка позже exportedAt '+p.userId);
    judges.add(s.judgeName);
   }

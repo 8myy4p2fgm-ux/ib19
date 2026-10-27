@@ -1,12 +1,11 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs/promises';
-import {readPublicR1} from '../scripts/public-data.mjs';
+import {readPublicR1,splitPublicR1} from '../scripts/public-data.mjs';
 import {createOfficialR1View} from '../js/r1-official-view.js';
 import {loadR1ApplicationContext} from '../js/r1-application.js';
 import {createRankingModel} from '../js/judge-ranking-model.js';
 import {buildProfiles,pageScores,filterScores} from '../js/judge-profile-model.js';
 import {buildForumLink,selectForumRows} from '../js/forum-link-model.js';
 import {getV58Research} from '../js/v58-research-model.js';
-import {checkPublicData} from '../scripts/check-public-data.mjs';
 const {snapshot}=await readPublicR1(),policyVersion='r1-official-zippy-v2';
 const context=createOfficialR1View(snapshot,{policyVersion,sourceContract:'r1-public-v1'});
 test('Pinned public snapshot retains approved aggregate outcomes and group indices',()=>{
@@ -17,9 +16,10 @@ test('Pinned public snapshot retains approved aggregate outcomes and group indic
 test('Public source rejects changed grades, names, membership and metadata',()=>{
  for(const change of [s=>s.main.members[0].scores[0].score=999,s=>s.main.members[0].artistName+='x',s=>s.forum.members[0].group='x',s=>s.metadata.runId='other']){const bad=structuredClone(snapshot);change(bad);assert.throws(()=>createOfficialR1View(bad,{policyVersion,sourceContract:'r1-public-v1'}));}
 });
-test('Public loading uses four bracketed requests and no private source',async t=>{
- const urls=[];t.mock.method(globalThis,'fetch',async url=>{urls.push(url);return {ok:true,json:async()=>JSON.parse(await fs.readFile(new URL('../public-data/r1/'+url.pathname.split('/').at(-1),import.meta.url),'utf8'))};});
- const result=await loadR1ApplicationContext();assert.equal(result.snapshotKey,context.snapshotKey);assert.equal(urls.length,4);assert(urls.every(u=>u.pathname.includes('/public-data/r1/')));
+test('Public loading fetches only pinned core until comments are requested',async t=>{
+ const urls=[],split=splitPublicR1(snapshot);t.mock.method(globalThis,'fetch',async url=>{urls.push(url);return {ok:true,json:async()=>structuredClone(url.pathname.endsWith('core.json')?split.core:split.comments)};});
+ const result=await loadR1ApplicationContext();assert.equal(result.snapshotKey,context.snapshotKey);assert.equal(urls.length,1);assert(urls[0].pathname.endsWith('/public-data/r1/core.json'));
+ await result.comments.load();assert.equal(urls.length,2);assert(urls[1].pathname.endsWith('/public-data/r1/comments.json'));assert.deepEqual(result.data.events,context.data.events);
 });
 test('Profiles retain 25/50 paging, official search and distinct archived identities',()=>{
  const data=context.data,before=structuredClone(data),profiles=buildProfiles(data);const p=[...profiles.values()].find(p=>p.count>50);

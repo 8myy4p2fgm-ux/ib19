@@ -3,7 +3,9 @@ import {createHash} from 'node:crypto';
 import {createOfficialR1View} from '../js/r1-official-view.js';
 import {FIXED_R1_CONTRACT} from '../js/r1-fixed-contract.js';
 import {publicR1Contract} from '../js/r1-public-contract.js';
-import {contentHash} from '../js/r1-correction.js';
+import {CORE_R1_CONTRACT,coreR1Contract} from '../js/r1-core-contract.js';
+import {joinR1Comments} from '../js/r1-comments-contract.js';
+import {sha256,contentHash} from '../js/r1-correction.js';
 export const SOURCE_DIRECTORY=new URL('../docs/data-candidates/r1-2026-10-22-194208/',import.meta.url);
 const pick=(value,keys)=>Object.fromEntries(keys.filter(k=>Object.hasOwn(value,k)).map(k=>[k,structuredClone(value[k])]));
 export async function readPrivateR1(){return Object.fromEntries(await Promise.all(Object.entries({main:'19ib_all_judges_REPAIRED.json',forum:'forum_judges_export.json',metadata:'metadata.json'}).map(async([k,f])=>[k,JSON.parse(await fs.readFile(new URL(f,SOURCE_DIRECTORY),'utf8'))])));}
@@ -40,4 +42,32 @@ export async function writePublicData(destination){
  const {snapshot,bytes}=await readPublicR1();await fs.mkdir(destination+'/r1',{recursive:true});
  for(const [file,raw]of bytes)await fs.writeFile(destination+'/'+file,raw);
  return Object.fromEntries(Object.entries(snapshot).map(([key,value])=>[key,contentHash(value)]));
+}
+
+// One lossless transport projection, derived only from the verified public bytes.
+// No collector or private archive access is involved in ordinary builds.
+export function splitPublicR1(snapshot){
+ const core=structuredClone(snapshot),records=new Map();
+ for(const source of [core.main,core.forum])for(const section of ['members','archivedMembers','quarantinedMembers'])for(const p of source[section]||[])for(const s of p.scores){
+  const key=JSON.stringify([p.userId,s.judgeName,s.scoredAt]);
+  const record={participantId:p.userId,judgeName:s.judgeName,scoredAt:s.scoredAt,score:s.score,comment:s.comment};
+  if(records.has(key)&&JSON.stringify(records.get(key))!==JSON.stringify(record))throw Error('Conflicting public comment identity');
+  records.set(key,record);if(section==='quarantinedMembers')s.commentHash=sha256(s.comment);delete s.comment;
+ }
+ const comments={schema:'r1-public-comments-v1',roundId:snapshot.metadata.source.roundId,runId:snapshot.metadata.runId,records:[...records.values()]};
+ Object.assign(core,{coreVersion:CORE_R1_CONTRACT,commentsHash:contentHash(comments)});
+ return {core,comments};
+}
+export async function writeSplitPublicData(destination){
+ const {snapshot,bytes}=await readPublicR1(),split=splitPublicR1(snapshot);
+ coreR1Contract(split.core,{roundId:snapshot.metadata.source.roundId,version:'r1-official-zippy-v2'},contentHash);
+ // Prove the projection is reversible before publishing either part.
+ const restored=joinR1Comments(split.core,split.comments);
+ for(const key of ['main','forum','metadata'])if(contentHash(restored[key])!==contentHash(snapshot[key]))throw Error('Split projection changed public source: '+key);
+ await fs.mkdir(destination+'/r1',{recursive:true});
+ for(const [key,value]of Object.entries(split))await fs.writeFile(destination+'/r1/'+key+'.json',JSON.stringify(value));
+ await fs.writeFile(destination+'/groups.json',bytes.get('groups.json'));
+ // Exact, already approved public v1 bytes for clients with cached old JS.
+ // They are not requested by the versioned Core frontend and are never regenerated.
+ for(const [file,raw]of bytes)if(file.startsWith('r1/'))await fs.writeFile(destination+'/'+file,raw);
 }

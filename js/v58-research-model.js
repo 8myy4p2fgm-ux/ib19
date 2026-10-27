@@ -6,7 +6,7 @@ import {FIRST_ROUND_ID} from './round-context.js';
 
 // V58 reports/research.js methods and progress.js pipeData, applied to one official
 // context. No raw snapshot reads, module-global dataset or copied report results.
-const cache=new WeakMap();
+const cache=new WeakMap(),commentState=new WeakMap();
 export const median=values=>{const a=[...values].sort((a,b)=>a-b),m=Math.floor(a.length/2);return a.length?(a.length%2?a[m]:(a[m-1]+a[m])/2):null;};
 export function compatiblePairs(participants,names){
  const pairs=[];
@@ -57,7 +57,8 @@ export function distributionComparison(data){
  return {actual:data.n?data.pass:null,expected,difference:expected===null?null:data.pass-expected};
 }
 export function getV58Research(context){
- if(cache.has(context))return cache.get(context);
+ if(cache.has(context)&&commentState.get(context)===(context.comments?.ready??true))return cache.get(context);
+ commentState.set(context,context.comments?.ready??true);
  if(context.roundId!==FIRST_ROUND_ID)throw Error('V58 analytics requires official R1');
  const D=context.data;D.participantOutcomes=new Map([...D.byId.keys()].map(id=>[id,context.analytics.participantOutcome(id)]));
  const source=buildForumLink(D),officialIds=new Set([...D.participantOutcomes].filter(([,o])=>o.officialOutcome).map(([id])=>id));

@@ -13,7 +13,7 @@
     "test:release": "node --test tests/r2-release.test.mjs tests/publication-cli.test.mjs tests/r2-home.test.mjs tests/r2-submissions.test.mjs tests/temporary-exclusion-cli.test.mjs tests/update-gate.test.mjs tests/workflow-modes.test.mjs",
     "test:release:browser": "node tests/release-smoke.mjs",
     "test:public": "node tests/public-suite.mjs",
-    "test:public:artifact": "node --test tests/public-build.test.mjs"
+    "test:public:artifact": "node --test tests/public-build.test.mjs tests/mobile-perf03-artifact.test.mjs"
   },
   "devDependencies": {
     "playwright": "1.56.1"

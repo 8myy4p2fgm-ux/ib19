@@ -1,3 +1,4 @@
+import {CORE_R1_CONTRACT,coreR1Contract} from './r1-core-contract.js';
 import {PUBLIC_R1_CONTRACT,publicR1Contract} from './r1-public-contract.js';
 import {FIXED_R1_CONTRACT,fixedR1Contract} from './r1-fixed-contract.js';
 import {createRoundContext,FIRST_ROUND_ID} from './round-context.js';
@@ -13,16 +14,18 @@ const requireValue=(condition,message)=>{if(!condition)throw new Error(message);
 // Offline opt-in adapter. No JSON loader, shared cache, UI activation or edits
 // to RoundContext. Existing partition/normalization validates the base first;
 // only registry-authorized quarantine records are then admitted to this copy.
-export function createOfficialR1View({main,forum,metadata,history}={}, {policyVersion=STANDARD_R1_POLICY_VERSION,sourceContract='full'}={}){
- return createOfficialR1ViewForPolicy({main,forum,metadata,history},officialR1Policy(policyVersion),{sourceContract});
+export function createOfficialR1View(snapshot={}, {policyVersion=STANDARD_R1_POLICY_VERSION,sourceContract='full'}={}){
+ return createOfficialR1ViewForPolicy(snapshot,officialR1Policy(policyVersion),{sourceContract});
 }
 
 // Trusted-code entry for testing future reviewed source approvals. The application
 // always resolves its policy from the code registry above, never from source JSON.
-export function createOfficialR1ViewForPolicy({main,forum,metadata,history}={},policy,{sourceContract='full'}={}){
- requireValue(sourceContract==='full'||sourceContract===FIXED_R1_CONTRACT||sourceContract===PUBLIC_R1_CONTRACT,'Unknown R1 source contract');
- const fixed=sourceContract===PUBLIC_R1_CONTRACT?publicR1Contract({main,forum,metadata,history},policy,contentHash):sourceContract===FIXED_R1_CONTRACT?fixedR1Contract({main,forum,metadata,history},policy):null;
- const base=createRoundContext({main,forum,metadata});
+export function createOfficialR1ViewForPolicy(snapshot={},policy,{sourceContract='full'}={}){
+ const {main,forum,metadata,history}=snapshot,hashes=new Map();
+ const hash=value=>{if(!hashes.has(value))hashes.set(value,contentHash(value));return hashes.get(value);};
+ requireValue(sourceContract===CORE_R1_CONTRACT||sourceContract==='full'||sourceContract===FIXED_R1_CONTRACT||sourceContract===PUBLIC_R1_CONTRACT,'Unknown R1 source contract');
+ const fixed=sourceContract===CORE_R1_CONTRACT?coreR1Contract(snapshot,policy,hash):sourceContract===PUBLIC_R1_CONTRACT?publicR1Contract(snapshot,policy,hash):sourceContract===FIXED_R1_CONTRACT?fixedR1Contract({main,forum,metadata,history},policy):null;
+ const base=createRoundContext({main,forum,metadata},{deferredComments:sourceContract===CORE_R1_CONTRACT});
  const data=base.data,asOf=Date.parse(base.exportedAt),deadline=data.snapshotMetadata.source.round.judgingDeadline;
  requireValue(policy.roundId===base.roundId&&base.roundId===FIRST_ROUND_ID,'Official policy round mismatch');
  requireValue(typeof metadata.selectionVersion==='string'&&!!metadata.selectionVersion,'Missing source selectionVersion');
@@ -30,7 +33,7 @@ export function createOfficialR1ViewForPolicy({main,forum,metadata,history}={},p
  const expected={participants:data.people.length,scores:data.events.length,judges:new Set(data.events.map(e=>e.judge)).size,forum:data.metadata.size,archivedParticipants:data.archivedById.size};
  for(const [key,value]of Object.entries(expected))requireValue(metadata.counts?.[key]===value,'Source metadata count mismatch: '+key);
  requireValue(!data.warnings.length,'Source contains unverified score timestamps');
- for(const p of [...data.byId.values(),...data.archivedById.values()])for(const s of p.scores)requireValue(typeof s.comment==='string','Missing original comment');
+ for(const p of [...data.byId.values(),...data.archivedById.values()])for(const s of p.scores)requireValue(typeof s.comment==='string'||sourceContract===CORE_R1_CONTRACT,'Missing original comment');
  const sourceHistory=history===undefined?null:structuredClone(history);
  if(sourceHistory){
   const last=sourceHistory.snapshots?.at(-1);
@@ -44,7 +47,7 @@ export function createOfficialR1ViewForPolicy({main,forum,metadata,history}={},p
   const person=structuredClone(source[0]);
   sourceObservedEvents.push(...person.scores.map(s=>({...s,userId:person.userId,forum:false,judge:s.judgeName,t:Date.parse(s.scoredAt)})));
   if(rule.cancelledEvent){
-   const corrected=correctOfficialScores({main,forum,metadata,history},person,data,rule,{sourceContract});
+   const corrected=correctOfficialScores(snapshot,person,data,rule,{sourceContract,hash});
    annulled.push(corrected.audit);person.scores=corrected.valid;person.scoredCount=corrected.valid.length;
   }
   requireValue(person.scores.length===rule.validScoreCount&&person.scoredCount===rule.validScoreCount,'Official score count requires review');

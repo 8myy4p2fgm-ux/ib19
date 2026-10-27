@@ -16,7 +16,7 @@ try{
   for(const route of ['/','/dynamics/','/judges/','/rappers/','/events/','/horo/']){
    await page.goto(base+route+'?round=1',{waitUntil:'domcontentloaded'});
    await page.locator('.app:not([hidden])').waitFor();await page.locator('#carrot-loader').waitFor({state:'detached'});
-   assert.equal(await page.locator('#round-select').inputValue(),'1');assert(await page.locator('.page.active').count()>0);
+   await page.locator('.page.active').waitFor();assert.equal(await page.locator('#round-select').inputValue(),'1');assert(await page.locator('.page.active').count()>0);
   }
   for(const route of ['/','/dynamics/','/judges/','/rappers/','/events/','/horo/']){
    await page.goto(base+route+'?round=2&report=matrix',{waitUntil:'domcontentloaded'});
@@ -29,7 +29,7 @@ try{
    assert.equal(await page.locator('.page.active :is(table,svg,[role=tablist])').count(),0);
   }
   await page.locator('.r2-public a').click();await page.locator('#home.active').waitFor();
-  assert.equal(await page.locator('#round-select').inputValue(),'1');
+  await page.locator('.page.active').waitFor();assert.equal(await page.locator('#round-select').inputValue(),'1');
   assert.equal(await page.locator('.site-header .navs').getAttribute('hidden'),null);
   await context.close();
  }

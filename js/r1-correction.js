@@ -1,3 +1,4 @@
+import {CORE_R1_CONTRACT,coreR1Contract} from './r1-core-contract.js';
 import {PUBLIC_R1_CONTRACT,publicR1Contract} from './r1-public-contract.js';
 import {FIXED_R1_CONTRACT,fixedR1Contract} from './r1-fixed-contract.js';
 // Synchronous SHA-256 keeps the existing synchronous official-view contract.
@@ -18,36 +19,39 @@ export function sha256(text){
 }
 const stable=v=>Array.isArray(v)?v.map(stable):v&&typeof v==='object'?Object.fromEntries(Object.keys(v).sort().map(k=>[k,stable(v[k])])):v;
 export const contentHash=value=>sha256(JSON.stringify(stable(value)));
-export const scoreFingerprint=score=>sha256(JSON.stringify([score.judgeName,score.score,score.scoredAt,sha256(score.comment)]));
-export const eventFingerprint=(roundId,participantId,judgeId,score)=>sha256(JSON.stringify([roundId,participantId,judgeId,score.scoredAt,score.score,sha256(score.comment)]));
+export const scoreFingerprint=(score,commentHash=sha256(score.comment))=>sha256(JSON.stringify([score.judgeName,score.score,score.scoredAt,commentHash]));
+export const eventFingerprint=(roundId,participantId,judgeId,score,commentHash=sha256(score.comment))=>sha256(JSON.stringify([roundId,participantId,judgeId,score.scoredAt,score.score,commentHash]));
 
 // Rule and source approvals are trusted code registry entries, never API fields.
-export function correctOfficialScores(snapshot,person,data,rule,{sourceContract='full'}={}){
+export function correctOfficialScores(snapshot,person,data,rule,{sourceContract='full',hash=contentHash}={}){
+ const digest=s=>sourceContract===CORE_R1_CONTRACT&&s.commentHash?s.commentHash:sha256(s.comment);
  const fail=why=>{throw new Error('Official correction requires review: '+why);};
  const state=rule.sourceStates.find(s=>s.runId===snapshot.metadata.runId);
  if(!state)fail('unapproved source run');
  let keys=['main','forum','metadata','history'];
- if(sourceContract===PUBLIC_R1_CONTRACT){
-  publicR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion},contentHash);keys=[];
+ if(sourceContract===CORE_R1_CONTRACT){
+  coreR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion},hash);keys=[];
+ }else if(sourceContract===PUBLIC_R1_CONTRACT){
+  publicR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion},hash);keys=[];
  }else if(sourceContract===FIXED_R1_CONTRACT){
   const fixed=fixedR1Contract(snapshot,{roundId:rule.roundId,version:rule.policyVersion});
   keys=Object.keys(fixed.coreHashes);
   for(const key of keys)if(state.contentHashes[key]!==fixed.coreHashes[key])fail('fixed source registry mismatch: '+key);
  }else if(sourceContract!=='full')fail('unknown source contract');
- for(const key of keys)if(contentHash(snapshot[key])!==state.contentHashes[key])fail('source content mismatch: '+key);
+ for(const key of keys)if(hash(snapshot[key])!==state.contentHashes[key])fail('source content mismatch: '+key);
  const identity=rule.cancelledEvent;
  if(rule.roundId!==identity.roundId||person.userId!==identity.participantId)fail('event round/participant');
  if(data.judgeIdentities.get(identity.judgeName)!==identity.judgeId||data.judges.filter(j=>j.userId===identity.judgeId&&j.name===identity.judgeName).length!==1)fail('judge identity');
  for(const s of person.scores)if(!data.judgeIdentities.has(s.judgeName))fail('unknown judge');
- const matches=person.scores.filter(s=>eventFingerprint(rule.roundId,person.userId,data.judgeIdentities.get(s.judgeName),s)===identity.fingerprint);
+ const matches=person.scores.filter(s=>eventFingerprint(rule.roundId,person.userId,data.judgeIdentities.get(s.judgeName),s,digest(s))===identity.fingerprint);
  if(matches.length!==(state.mode==='A'?1:0))fail('target cardinality');
  if(!['A','B'].includes(state.mode))fail('source mode');
  const valid=person.scores.filter(s=>!matches.includes(s));
  if(person.scores.length!==state.rawScoreCount||person.scoredCount!==state.rawScoreCount||valid.length!==rule.validScoreCount)fail('score count');
- const fingerprints=valid.map(scoreFingerprint).sort();
+ const fingerprints=valid.map(s=>scoreFingerprint(s,digest(s))).sort();
  if(JSON.stringify(fingerprints)!==JSON.stringify([...rule.survivorFingerprints].sort()))fail('survivor fingerprints');
  for(const expected of rule.survivorIdentities)if(data.judgeIdentities.get(expected.judgeName)!==expected.judgeId)fail('survivor judge identity');
  const original=matches[0]??rule.archivedCancelledScore;
- if(eventFingerprint(rule.roundId,person.userId,identity.judgeId,original)!==identity.fingerprint)fail('archived event identity');
+ if(eventFingerprint(rule.roundId,person.userId,identity.judgeId,original,digest(original))!==identity.fingerprint)fail('archived event identity');
  return {valid,sourceState:state.mode,audit:{...structuredClone(original),userId:person.userId,judgeId:identity.judgeId,roundId:rule.roundId,fingerprint:identity.fingerprint,policyVersion:rule.policyVersion,basis:rule.basis,officialDecisionAt:null,annulmentDecisionAt:null,sourcePresent:state.mode==='A',sourceSnapshot:{roundId:rule.roundId,runId:snapshot.metadata.runId,exportedAt:snapshot.metadata.exportedAt,selectionVersion:snapshot.metadata.selectionVersion},archiveSource:rule.archiveSource,label:state.mode==='A'?'Аннулирована по информации об официальном решении. Из исходного API пока не удалена':'Аннулирована по информации об официальном решении. Отсутствует в отдельно проверенном снимке; исходное событие сохранено в архиве'}};
 }

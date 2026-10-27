@@ -17,13 +17,13 @@ try{for(const width of [390,1440]){
  for(const route of ['?round=1','judges/?round=1','rappers/?round=1','dynamics/?round=1','events/?round=1','horo/','?round=2']){
   await page.goto(base+'/ib19/'+route);await page.waitForFunction(()=>document.querySelector('.app')?.hidden===false&&!document.querySelector('#carrot-loader'));
   await page.waitForFunction(()=>!document.querySelector('.load-error:not([hidden])'));
-  assert.equal(await page.locator('.page.active').count(),1);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'overflow '+route);
+  await page.locator('.page.active').waitFor();assert.equal(await page.locator('.page.active').count(),1);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'overflow '+route);
   assert.deepEqual(await page.evaluate(()=>window.cspErrors.filter(e=>!['https://static.cloudflareinsights.com/beacon.min.js','https://www.youtube.com'].includes(e.blocked))),[],'Unexpected CSP '+route);
  }
  // R1/R2 preview screenshots, both lights, at the production root basePath.
  for(const round of [1,2]){
   await page.goto(base+'/?round='+round);await page.waitForFunction(()=>!document.querySelector('#carrot-loader')&&!document.querySelector('.app').hidden);
-  if(round===2)await page.locator('.r2-public').waitFor();
+  await page.locator(round===2?'.r2-public':'#home.active').waitFor();
   for(const light of ['on','off']){await page.evaluate(light=>{if(document.body.dataset.roomLight!==light)document.querySelector('.room-switch').click();},light);await page.screenshot({path:output+`/screenshots/${width}-r${round}-${light}.png`,fullPage:true});}
   assert.deepEqual(await page.evaluate(()=>window.cspErrors.filter(e=>!['https://static.cloudflareinsights.com/beacon.min.js','https://www.youtube.com'].includes(e.blocked))),[]);
  }

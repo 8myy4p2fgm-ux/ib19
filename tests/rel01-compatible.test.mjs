@@ -1,5 +1,6 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs/promises';
-import {readPublicR1} from '../scripts/public-data.mjs';
+import {readPublicR1,splitPublicR1} from '../scripts/public-data.mjs';
+import {CORE_R1_CONTRACT} from '../js/r1-core-contract.js';
 import {createOfficialR1View} from '../js/r1-official-view.js';
 import {r2CohortReference,r2HomeData} from '../js/r2-home-model.js';
 import {primeR2GroupReference,loadR2GroupReference} from '../js/r2-group-reference.js';
@@ -21,4 +22,8 @@ test('R2 source bytes and unknown timestamps retain production submission semant
  assert.equal(a.confirmedSubmissionCount,JSON.parse(source.raw.full).entries.filter(e=>e.trackId).length);
  assert.equal(a.roundOrder,2);assert.equal(a.capabilities.analytics,false);assert.equal(a.capabilities.judges,false);
  const unknown={...a,entries:[{...a.entries[0],submittedAt:null}]};assert.equal(r2HomeData(unknown).submitted,1);assert.deepEqual(r2HomeData(unknown).days,[]);
+});
+
+test('Core transport preserves the existing R2 admission UUIDs and current submission projection',()=>{
+ const core=createOfficialR1View(splitPublicR1(snapshot).core,{policyVersion:'r1-official-zippy-v2',sourceContract:CORE_R1_CONTRACT});const a=r2CohortReference(context,context.data),b=r2CohortReference(core,core.data);assert.deepEqual([...b.cohort],[...a.cohort]);assert.deepEqual([...b],[...a]);assert.deepEqual(r2HomeData(info,b),r2HomeData(info,a));assert(core.data.events.every(s=>s.comment===undefined));
 });

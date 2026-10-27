@@ -18,7 +18,7 @@ test('Judge renderer preserves the reference with the approved heat disclosure',
 });
 test('Approved rapper reports use the shared official context and existing selection models',()=>{
  const entry=fs.readFileSync('js/forum-link.js','utf8'),model=fs.readFileSync('js/rapper-report-model.js','utf8'),view=fs.readFileSync('js/rapper-report-view.js','utf8');
- assert.match(entry,/rapperR1Model\(context\)/);assert.match(model,/getV58Research\(context\)/);assert.match(model,/current\(\)\.rappers/);assert.match(view,/selectForumRows/);assert.match(view,/selectMatrixRows/);
+ assert.match(entry,/rapperR1Model\(context\)/);assert.match(model,/getV58Research\(context\)/);assert.match(model,/members:allMembers\.filter\(p=>p\.forum\)/);assert.doesNotMatch(model,/current\(\)\.rappers/);assert.match(view,/selectForumRows/);assert.match(view,/selectMatrixRows/);
  assert(!/fetch\(|packedData|reviewData|generalAt\(/.test(entry+model+view));
 });
 test('shared HTML contains no embedded demo data and exactly one analytics script',()=>{const html=fs.readFileSync('index.html','utf8');assert.equal((html.match(/static\.cloudflareinsights\.com\/beacon\.min\.js/g)||[]).length,1);assert.ok(!html.includes('packedData'));assert.ok(!html.includes('reviewData'));

@@ -55,10 +55,10 @@ function contextFromData(input,meta){
 }
 
 // Offline entry point uses the same production normalizer, never another loader.
-export function createRoundContext({main,forum,metadata,history,derived}={}, {roundId=FIRST_ROUND_ID}={}){
+export function createRoundContext({main,forum,metadata,history,derived}={}, {roundId=FIRST_ROUND_ID,deferredComments=false}={}){
  assertSupported(roundId);assertMetadata(metadata);
  assertNoUnboundFiles(history,derived);
- const data=normalizeData(main,forum);data.lastSuccessfulAt=metadata.lastSuccessfulAt;
+ const data=normalizeData(main,forum,{deferredComments});data.lastSuccessfulAt=metadata.lastSuccessfulAt;
  return contextFromData(data,metadata);
 }
 

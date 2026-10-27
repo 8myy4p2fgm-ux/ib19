@@ -1,12 +1,16 @@
 import {buildProfiles} from './judge-profile-model.js';
 import {createRankingDialog} from './ranking-dialog.js';
 import {renderJudgeCard} from './ranking-profile.js';
-export function initializeJudgeProfiles(D){
+export function initializeJudgeProfiles(D,{context}={}){
  const profiles=buildProfiles(D),dialog=createRankingDialog();dialog.element.classList.add('judge-card-dialog');
+ async function hydrate(profile){
+  const full=await context.comments.load();
+  for(const row of profile.rows){const person=full.byId.get(row.userId)||full.archivedById.get(row.userId),score=person?.scores.find(s=>s.judgeName===row.judgeName&&s.scoredAt===row.scoredAt);if(!score||score.score!==row.score||typeof score.comment!=='string')throw Error('Profile comment binding mismatch');row.comment=score.comment;}
+ }
  const resolve=value=>profiles.has(value)?value:D.judgeIdentities.get(value);
  function open(value,trigger,params){
   if(new URLSearchParams(location.search).get('round')==='2')return;
-  const profile=profiles.get(resolve(value));dialog.open('judge-card',profile?.name||'Судья не найден',trigger,body=>renderJudgeCard(body,profile,{round:1,params}));
+  const profile=profiles.get(resolve(value));dialog.open('judge-card',profile?.name||'Судья не найден',trigger,body=>renderJudgeCard(body,profile,{round:1,params,loadComments:context?.comments?()=>hydrate(profile):null}));
  }
  window.addEventListener('tuz:judge-card',e=>open(e.detail.key,e.detail.trigger));
  function legacy(e){

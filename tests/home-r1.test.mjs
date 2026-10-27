@@ -26,18 +26,18 @@ test('Pulse renderer draws each factual cumulative point without mutation or ext
  const one=pulseSvg([days[0]],320,fmt);assert(!/NaN|Infinity/.test(one.markup));
 });
 test('Home links point to implemented sections and no duplicate HTML IDs or static baseline KPIs are embedded',()=>{
- const html=fs.readFileSync('index.html','utf8'),home=html.slice(html.indexOf('<section class="page active" id="home">'),html.indexOf('<section class="page" id="dynamics"'));
+ const html=fs.readFileSync('index.html','utf8'),home=html.slice(html.lastIndexOf('<section',html.indexOf('id="home"')),html.lastIndexOf('<section',html.indexOf('id="dynamics"')));
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(new Set(ids).size,ids.length);
  const chronicle=chronicleLinks(1),digest=digestLinks(1);
  assert.equal((chronicle.match(/data-report-link /g)||[]).length,4);
- assert.equal((digest.match(/data-report-link /g)||[]).length,8);
+ assert.equal((digest.match(/data-report-link /g)||[]).length,7);
  assert.equal((digest.match(/class="home-report-group"/g)||[]).length,0);
- assert.equal((digest.match(/class="home-report-icon"/g)||[]).length,8);
+ assert.equal((digest.match(/class="home-report-icon"/g)||[]).length,7);
  assert.equal((digest.match(/home-digest-tinder/g)||[]).length,1);
  assert.deepEqual([...chronicle.matchAll(/<strong>([^<]+)<\/strong>/g)].map(m=>m[1]),reportCatalog.dynamics.map(r=>r.label));
  assert.deepEqual([...digest.matchAll(/<strong>([^<]+)<\/strong>/g)].map(m=>m[1]),[...reportCatalog.judges,...reportCatalog.rappers].map(r=>r.label));
  assert.doesNotMatch(chronicle+digest,/>\s*(?:Скоро|В разработке|Ожидается)\s*<|disabled|href="#"/);
- assert.match(home,/data-home-report-chronicle/);assert.match(home,/data-home-report-digest/);
+ assert(home.startsWith('<section'));assert(home.includes('id="home"'));assert(!home.includes('id="dynamics"'));assert.match(home,/data-home-report-chronicle/);assert.match(home,/data-home-report-digest/);
  assert.match(home,/Дайджест ТУЗа/);assert.doesNotMatch(home,/Что выяснило следствие|r1-report-soon/);
  assert.match(home,/<span>В следующий раунд<\/span>/);assert.match(home,/<span>В следующий батол<\/span>/);
  assert(!/20\.884382|32\.123232|16.?380|3.?276|2.?218/.test(home));
