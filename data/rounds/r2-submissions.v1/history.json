@@ -152,6 +152,66 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "67d5c922-bf1d-4344-8d57-4224df3037fe",
+      "observedAt": "2026-10-27T17:02:47.335Z",
+      "before": null,
+      "after": {
+        "userId": "67d5c922-bf1d-4344-8d57-4224df3037fe",
+        "slug": "allen-brooke",
+        "name": "Allen Brooke",
+        "trackId": "f531faa4-de74-47cb-aabc-a314de63a0e4",
+        "submittedAt": "2026-10-27T07:53:30.750Z",
+        "durationSec": 101,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "d9d40c9a-4b59-402d-b18e-48a1918c11e8",
+      "observedAt": "2026-10-27T17:02:47.335Z",
+      "before": null,
+      "after": {
+        "userId": "d9d40c9a-4b59-402d-b18e-48a1918c11e8",
+        "slug": "kombucha",
+        "name": "Kombucha",
+        "trackId": "050511fc-88f0-4782-aa14-0ce1aa3b7ace",
+        "submittedAt": "2026-10-27T12:19:43.249Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "feeaef8f-8c11-4d31-9382-cfe4a7a0f52d",
+      "observedAt": "2026-10-27T17:02:47.335Z",
+      "before": null,
+      "after": {
+        "userId": "feeaef8f-8c11-4d31-9382-cfe4a7a0f52d",
+        "slug": "baba-g",
+        "name": "Baba-G",
+        "trackId": "8c80a886-cf08-4b94-a9ea-6e500c056459",
+        "submittedAt": "2026-10-27T12:10:42.496Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "71e20d8b-fef8-4bef-a689-f958935095cb",
+      "observedAt": "2026-10-27T17:02:47.335Z",
+      "before": null,
+      "after": {
+        "userId": "71e20d8b-fef8-4bef-a689-f958935095cb",
+        "slug": "shkodin",
+        "name": "SHKODIN",
+        "trackId": "fdd5b396-cdbd-4a42-bb2d-893816fc7fab",
+        "submittedAt": "2026-10-27T10:08:55.773Z",
+        "durationSec": 95,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
