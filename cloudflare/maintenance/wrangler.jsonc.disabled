@@ -1,0 +1,29 @@
+{
+  "name": "tuz19-maintenance",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-26",
+  "workers_dev": false,
+  "preview_urls": false,
+  "observability": {
+    "enabled": false
+  },
+  "ratelimits": [
+    {
+      "name": "LOGIN_LIMITER",
+      "namespace_id": "1902",
+      "simple": {
+        "limit": 5,
+        "period": 60
+      }
+    }
+  ],
+  "vars": {
+    "CHAT_API_ENABLED": "false"
+  },
+  "services": [
+    {
+      "binding": "CHAT_BACKEND",
+      "service": "tuz19-chat"
+    }
+  ]
+}

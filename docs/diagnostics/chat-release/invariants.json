@@ -1,0 +1,25 @@
+{
+  "baseMain": "ac56c4c6349f067457adedbce29ebc1564a0df9f",
+  "changedExistingFiles": [
+    ".gitignore",
+    "index.html",
+    "package.json",
+    "scripts/build.mjs",
+    "scripts/check-public-data.mjs",
+    "scripts/release-assets.mjs"
+  ],
+  "protectedFilesUnchanged": 205,
+  "dataFilesUnchanged": 43,
+  "analyticsModulesUnchanged": 100,
+  "workflowFilesUnchanged": [
+    ".github/workflows/deploy.yml",
+    ".github/workflows/schedule-clock-utc.yml",
+    ".github/workflows/update-data-scheduled.yml"
+  ],
+  "rootPackageLockUnchanged": true,
+  "defaultNavigationEnabled": false,
+  "externalDependencySymlinks": 0,
+  "productionChanges": false,
+  "push": false,
+  "deploy": false
+}

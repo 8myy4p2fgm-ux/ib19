@@ -1,0 +1,13 @@
+✔ Release graph is fully versioned, aliases are identical, and all already published JS names still resolve (8.10525ms)
+✔ Legacy public data URLs are byte-exact aliases of the approved source, never a regenerated or private snapshot (14.397917ms)
+✔ Main integration can include normal versioned R2 modules while preserving exact legacy R2 imports (223.058333ms)
+✔ Whole dist respects the public allowlist (129.469958ms)
+✔ Whole dist respects the public allowlist (144.561542ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 411.741208

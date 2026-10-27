@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "empty public room is distinct from unknown; one shared request and no spectator WebSocket",
+    "one participant and maximum-length nickname visible before entry",
+    "global navigation reads public count without auth or a WebSocket",
+    "navigation reload shares the 30-second session cache",
+    "multiple participants use the same lease model for preview and WebSocket",
+    "picker search uses original name and inserts code at the cursor",
+    "known codes render, unknown codes/URLs/HTML stay text; text and original GIFs survive WebSocket delivery",
+    "picker respects max length and Escape restores focus",
+    "animated original GIF is served unchanged with image/gif",
+    "92 GIFs load; public preview, picker and global navigation fit 320/390/768/1024/1440",
+    "explicit leave disappears from public preview",
+    "joined client uses presence events without HTTP polling",
+    "unavailable server shows an error and dash, never an empty-room zero"
+  ],
+  "pageErrors": [],
+  "guestWS": 0,
+  "navWS": 0
+}

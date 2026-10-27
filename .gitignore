@@ -14,3 +14,11 @@ cloudflare/.wrangler/
 cloudflare/.dev.vars*
 cloudflare/.env*
 cloudflare/*.pem
+
+# Chat-only local runtime, credentials and artifacts.
+.chat-ws-local/
+.chat-integration-artifacts/
+backend/chat/node_modules/
+backend/chat/.wrangler/
+backend/chat/.dev.vars*
+backend/chat/preview-dist/

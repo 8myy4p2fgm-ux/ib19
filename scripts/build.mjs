@@ -16,7 +16,10 @@ for(const file of new Set(horo.images.flatMap(image=>[image.src,...(image.frames
 }
 // Publish only the module graph reachable from HTML entry scripts, including
 // literal lazy imports. Fail closed on unresolved local dependencies.
-const entryHTML=await fs.readFile('index.html','utf8'),reachable=new Set(),sources=new Map();
+const chatConfig=JSON.parse(await fs.readFile('config/chat-ui.json','utf8'));
+const chatEnabled=process.argv.includes('--chat-nav')?true:chatConfig.enabled===true;
+const entryHTML=(await fs.readFile('index.html','utf8')).replace('name="tuz19-chat-enabled" content="false"','name="tuz19-chat-enabled" content="'+chatEnabled+'"');
+const chatHTML=await fs.readFile('chat/index.html','utf8'),reachable=new Set(),sources=new Map();
 async function visit(file){
  if(reachable.has(file))return;reachable.add(file);
  const source=await fs.readFile(file,'utf8');sources.set(file,source);
@@ -27,9 +30,9 @@ async function visit(file){
   await visit(local);
  }
 }
-for(const match of entryHTML.matchAll(/<script[^>]+src=["']\.\/(js\/[^"']+)["']/g))await visit(match[1]);
+for(const html of [entryHTML,chatHTML])for(const match of html.matchAll(/<script[^>]+src=["'](?:\.\/|\.\.\/)(js\/[^"']+)["']/g))await visit(match[1]);
 await fs.mkdir('dist/js',{recursive:true});
-const version=assetVersion(entryHTML,sources,await fs.readFile('scripts/build.mjs','utf8')+await fs.readFile('scripts/release-assets.mjs','utf8'));
+const version=assetVersion(entryHTML+'\nCHAT_ENTRY\n'+chatHTML,sources,await fs.readFile('scripts/build.mjs','utf8')+await fs.readFile('scripts/release-assets.mjs','utf8'));
 for(const file of [...reachable].sort()){const compiled=versionModule(sources.get(file),version);await fs.writeFile('dist/'+versionPath(file,version),compiled);await fs.writeFile('dist/'+file,compiled);}
 await fs.writeFile('dist/index.html',versionHTML(entryHTML,version));
 for(const [file,expected]of Object.entries(legacyAssets)){const raw=await fs.readFile('public-compat/'+file);if(createHash('sha256').update(raw).digest('hex')!==expected)throw Error('Legacy module checksum mismatch: '+file);await fs.writeFile('dist/'+file,raw);}
@@ -46,6 +49,11 @@ for(const [route,title] of [['dynamics','Судейские обхваты'],['j
  await fs.mkdir(`dist/${route}`,{recursive:true});
  await fs.writeFile(`dist/${route}/index.html`,html.replace('<title>Обзор — TUZ19</title>',`<title>${title} — TUZ19</title>`).replaceAll('="./','="../'));
 }
+await fs.mkdir('dist/chat/smilies',{recursive:true});
+await fs.writeFile('dist/chat/index.html',versionHTML(chatHTML,version));
+for(const file of ['style.css','nav.css'])await fs.copyFile('chat/'+file,'dist/chat/'+file);
+const {SMILIES}=await import('../js/chat-smilies-catalog.js');
+for(const item of SMILIES){if(!/^[\w-]+\.gif$/.test(item.file))throw Error('Invalid smiley asset');const bytes=await fs.readFile('chat/smilies/'+item.file);if(createHash('sha256').update(bytes).digest('hex')!==item.sha256)throw Error('Smiley checksum mismatch');await fs.writeFile('dist/chat/smilies/'+item.file,bytes);}
 await fs.writeFile('dist/.nojekyll','');
 
 console.log('Public boundary:',await checkPublicData('dist'));

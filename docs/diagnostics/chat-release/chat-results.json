@@ -1,0 +1,39 @@
+{
+  "checks": [
+    "two independent contexts join; live presence=2",
+    "WebSocket delivery under 3 seconds without reload; Enter sends",
+    "mobile send and Shift+Enter newline",
+    "HTML/JS remains inert text",
+    "reload restores session/history with no duplicate join",
+    "offline reconnect catches missed message once",
+    "explicit leave immediately updates system log and presence",
+    "closed browser expires after server lease; connection loss differs from leave",
+    "actual Worker Origin/admin protection and deletion broadcast",
+    "320/390/768/1440 widths fit viewport; mobile online drawer toggles",
+    "autoscroll follows bottom and preserves history scroll",
+    "server rate limit rejects ninth burst message"
+  ],
+  "geometry": [
+    {
+      "width": 320,
+      "overflow": 0,
+      "textareaWidth": 270
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "textareaWidth": 340
+    },
+    {
+      "width": 768,
+      "overflow": 0,
+      "textareaWidth": 690
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "textareaWidth": 1082
+    }
+  ],
+  "pageErrors": []
+}

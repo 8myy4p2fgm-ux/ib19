@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "anonymous chat page and presence remain behind MAINT",
+    "owner cookie reaches same-origin public provider; nav count works without spectator WS",
+    "SPA keeps one provider/link in R1/R2; Chat is ordinary navigation, no undefined data-tab",
+    "real Service Binding WSS delivers text/smiley and inert XSS to second owner context",
+    "offline reconnect catches one missed message through MAINT with no duplicate",
+    "92 smileys and 1440/390/320 geometry preserved in integrated artifact",
+    "R2 mobile menu retains Chat link and compact counter",
+    "production-style operator path works through owner gate; OFF closes clients and ON restores status",
+    "rollback artifact/default flag has no nav and no HTTP polling; gateway remains closed",
+    "no browser page errors"
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,153 @@
+✔ MAINT guards page/API/WS and strips forged context + cookie while preserving admin Bearer and trusted deadline (21.580416ms)
+✔ gateway flag/binding failure closes only chat; static and MAINT login remain working; logout revokes before clearing cookie (4.245333ms)
+✔ real service binding: WSS, zero-SQL native heartbeat, OFF/restart rollback retains history and disabled state (2445.398833ms)
+✔ real gateway session expiry and logout close WSS, reject replayed owner session, and retain no public bypass (2356.234291ms)
+✔ logout clears disconnected grants immediately; replay denied, revocation remains after restart (332.387791ms)
+✔ gateway context does not reintroduce SQL on repeated HTTP 429 or bad admin/unknown paths (12.580334ms)
+✔ native alarm ends access after deadline even when exact auto-pings continue (15094.289208ms)
+✔ actual gateway code rollback restores previous MAINT while keeping current assets and persistent backend OFF (273.425875ms)
+✔ private logout revocation has a persistent SQL budget and denial cache (736.782959ms)
+✔ operator OFF/ON crosses MAINT with independent Bearer; rejects public file and foreign origins (2235.136333ms)
+✔ fixed catalog: original GIF bytes, dimensions, safe filenames and unique codes (46.050916ms)
+✔ tokenizer preserves all surrounding text, unknown codes, case and URLs without HTML parsing (4.029875ms)
+✔ actual Miniflare SQLite DO: alarm deletion, persistence, Origin, request and connection caps (3144.848916ms)
+✔ server nickname validation and reserved lookalikes (6.045083ms)
+✔ join, collision, presence, realtime, explicit leave, idempotence and reconnect (8.591333ms)
+✔ timeout, actual retention deletion of user/system records and scheduled idle cleanup (3.375542ms)
+✔ 100-record history, cursor catchup and database survives object recreation (6.183583ms)
+✔ message/size/frame/frequency limits and no unauthenticated sending (3.191834ms)
+✔ protected administration, deletion, network ban across sessions, independent switch (30.718583ms)
+✔ public presence: read-only leases, privacy, rate cap and no alarm starvation (3.415416ms)
+✔ native heartbeats do not invoke JS or SQL; checkpoints preserve lease through constructor recreation (10.835792ms)
+✔ close persists the last true auto-response; abrupt runtime restart resumes same token and pending message once (7.849125ms)
+✔ same NAT keeps shared message rate, bans and non-heartbeat frame limits after hibernation (39.251417ms)
+✔ checkpoint captures the latest real activity even just before the minute boundary (0.843ms)
+[
+  {
+    "connections": 10,
+    "heartbeat": {
+      "sqlStatements": 0,
+      "rowsWritten": 0,
+      "rowsRead": 0,
+      "handlerCalls": 0,
+      "boot": "6f472eb5-1b68-4736-be1b-12324b857c8c"
+    },
+    "message": {
+      "sqlStatements": 4,
+      "rowsWritten": 10,
+      "rowsRead": 6,
+      "handlerCalls": 1,
+      "boot": "58b247af-4317-433b-ace3-80abc9725f83"
+    },
+    "writeUnits": {
+      "checkpointRows": 1,
+      "expiredLimitRows": 1
+    },
+    "constructorRestored": 10,
+    "observedNaturalHibernation": true,
+    "restartSameToken": true,
+    "duplicateFanout": false
+  },
+  {
+    "connections": 50,
+    "heartbeat": {
+      "sqlStatements": 0,
+      "rowsWritten": 0,
+      "rowsRead": 0,
+      "handlerCalls": 0,
+      "boot": "7f68336f-8c87-4d78-ae8c-d9e9fe8f3c09"
+    },
+    "message": {
+      "sqlStatements": 4,
+      "rowsWritten": 10,
+      "rowsRead": 6,
+      "handlerCalls": 1,
+      "boot": "7f68336f-8c87-4d78-ae8c-d9e9fe8f3c09"
+    },
+    "writeUnits": {
+      "checkpointRows": 1,
+      "expiredLimitRows": 1
+    },
+    "constructorRestored": 50,
+    "observedNaturalHibernation": null,
+    "restartSameToken": true,
+    "duplicateFanout": false
+  },
+  {
+    "connections": 100,
+    "heartbeat": {
+      "sqlStatements": 0,
+      "rowsWritten": 0,
+      "rowsRead": 0,
+      "handlerCalls": 0,
+      "boot": "d125b373-1154-4459-acf6-15643340fb38"
+    },
+    "message": {
+      "sqlStatements": 4,
+      "rowsWritten": 10,
+      "rowsRead": 6,
+      "handlerCalls": 1,
+      "boot": "d125b373-1154-4459-acf6-15643340fb38"
+    },
+    "writeUnits": {
+      "checkpointRows": 1,
+      "expiredLimitRows": 1
+    },
+    "constructorRestored": 100,
+    "observedNaturalHibernation": null,
+    "restartSameToken": true,
+    "duplicateFanout": false
+  }
+]
+✔ actual workerd: 10/50/100 sockets, zero heartbeat SQL, native timestamps, hibernation/restart and caps (14985.835417ms)
+{
+  "before": {
+    "sqlStatements": 60,
+    "rowsWritten": 90,
+    "rowsRead": 330,
+    "handlerCalls": 30,
+    "boot": "dbceeb16-2a59-42a1-9bdc-676d7858003f"
+  },
+  "after": {
+    "sqlStatements": 0,
+    "rowsWritten": 0,
+    "rowsRead": 0,
+    "handlerCalls": 0,
+    "boot": "50979e5f-beb1-46c2-adc9-1b4294f73f7e"
+  }
+}
+✔ actual workerd cursor billing counters: thirty baseline vs optimized heartbeats (94.710125ms)
+✔ P1-01: history error before message ACK preserves identity and commits once (8566.880333ms)
+✔ P1-02: late ACK preserves changed draft and a smiley inserted before ACK (739.7615ms)
+✔ P1-03: deletion outside newest100 is reconciled after reconnect (1751.28525ms)
+backlog page 10 cursor 1001 more true
+backlog page 20 cursor 2001 more true
+backlog page 30 cursor 3001 more true
+backlog page 40 cursor 4001 more true
+backlog page 50 cursor 5001 more true
+backlog page 60 cursor 6001 more true
+✔ P1-04: 6500-message backlog completes in order without gaps or duplicates (85983.330375ms)
+✔ sync retries a rate error and resumes its confirmed cursor after another disconnect (3925.636667ms)
+✔ actual workerd preview artifact: ASSETS, CSP, Origin, socket, moderation and emergency switch (2046.498875ms)
+✔ P1-05: isolated preview artifact serves /chat, all assets and CSP without leaking source (795.550125ms)
+✔ P1-06: public health requests are bounded before expensive cleanup; bad admin/unknown do no SQL (9.942417ms)
+✔ deletion journal survives object recreation, migrates old tombstones and expires with original message (3.500708ms)
+✔ HTTP budget persists through recreation and denied repeated requests perform no SQL writes (13.005833ms)
+✔ legacy message-only sync is not trapped by more than 100 deletion markers (5.525792ms)
+✔ standalone HTML equals Worker HTML; exact approved public text (1.1165ms)
+✔ anonymous maintenance, login, HEAD and resource denial never call origin (32.193792ms)
+✔ successful login creates secure eight-hour cookie and proxies paths without credentials (26.034042ms)
+✔ incorrect password, CSRF, methods and oversized input rejected (6.081667ms)
+✔ expired, malformed, duplicate and forged cookies rejected (1.686667ms)
+✔ logout requires same-origin POST and clears cookie (0.320375ms)
+✔ limiter checked on every login and blocks sixth attempt even with correct password (2.903292ms)
+✔ missing configuration, limiter failure and origin failure fail closed (1.564625ms)
+✔ HTTPS and canonical redirect; unknown host denied (0.218458ms)
+ℹ tests 46
+ℹ suites 0
+ℹ pass 46
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 101265.395541

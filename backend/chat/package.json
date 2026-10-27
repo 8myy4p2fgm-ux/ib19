@@ -1,0 +1,19 @@
+{
+  "name": "tuz19-chat-local",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node local.mjs",
+    "test": "node --test ../../tests/chat-ws.test.mjs ../../tests/chat-ws-runtime.test.mjs ../../tests/chat-smilies.test.mjs ../../tests/chat02-optimization.test.mjs ../../tests/chat02-runtime.test.mjs",
+    "test:browser": "node ../../tests/chat-ws-browser.mjs",
+    "test:chat06": "node --test ../../tests/chat06-server.test.mjs ../../tests/chat06-browser.test.mjs ../../tests/chat06-preview-runtime.test.mjs",
+    "preview:build": "node build-preview.mjs"
+  },
+  "dependencies": {
+    "miniflare": "4.20260730.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}

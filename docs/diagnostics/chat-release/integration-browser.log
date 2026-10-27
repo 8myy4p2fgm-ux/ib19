@@ -1,0 +1,10 @@
+PASS anonymous chat page and presence remain behind MAINT
+PASS owner cookie reaches same-origin public provider; nav count works without spectator WS
+PASS SPA keeps one provider/link in R1/R2; Chat is ordinary navigation, no undefined data-tab
+PASS real Service Binding WSS delivers text/smiley and inert XSS to second owner context
+PASS offline reconnect catches one missed message through MAINT with no duplicate
+PASS 92 smileys and 1440/390/320 geometry preserved in integrated artifact
+PASS R2 mobile menu retains Chat link and compact counter
+PASS production-style operator path works through owner gate; OFF closes clients and ON restores status
+PASS rollback artifact/default flag has no nav and no HTTP polling; gateway remains closed
+PASS no browser page errors

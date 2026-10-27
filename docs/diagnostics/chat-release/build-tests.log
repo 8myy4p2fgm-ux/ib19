@@ -1,0 +1,11 @@
+✔ one build produces versioned site + chat; nav defaults off, opt-in on and next data-style build returns off without data edits (9990.657625ms)
+✔ public boundary rejects backend, extra GIF, modified original GIF, orphan JS and private keys (1786.83625ms)
+✔ disabled configs retain MAINT and private API-only backend without activating deployment (0.981042ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 11873.586625
