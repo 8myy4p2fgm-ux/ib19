@@ -212,6 +212,81 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "dd157b13-6380-4b2d-bdf6-a358998e3724",
+      "observedAt": "2026-10-27T17:12:26.657Z",
+      "before": null,
+      "after": {
+        "userId": "dd157b13-6380-4b2d-bdf6-a358998e3724",
+        "slug": "hightower",
+        "name": "HighTower",
+        "trackId": "75006dd0-99bf-449a-a9cf-e0fbe8cafe0a",
+        "submittedAt": "2026-10-27T14:36:12.737Z",
+        "durationSec": 113,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "f4ac8e25-ca2f-4ae3-9ab0-3f8d8cb75be0",
+      "observedAt": "2026-10-27T17:12:26.657Z",
+      "before": null,
+      "after": {
+        "userId": "f4ac8e25-ca2f-4ae3-9ab0-3f8d8cb75be0",
+        "slug": "rfk",
+        "name": "RFK",
+        "trackId": "43282b25-f60a-415d-b048-437f60f771db",
+        "submittedAt": "2026-10-27T13:28:14.641Z",
+        "durationSec": 115,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "bffbba89-3e90-4928-b234-983af27253f8",
+      "observedAt": "2026-10-27T17:12:26.657Z",
+      "before": null,
+      "after": {
+        "userId": "bffbba89-3e90-4928-b234-983af27253f8",
+        "slug": "paleva-net",
+        "name": "PALEVA NET",
+        "trackId": "406ea8b9-c969-4c8f-8b39-ec37b206aeb0",
+        "submittedAt": "2026-10-27T16:34:59.577Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "c9a4994a-d08b-4c79-8b7a-19e94b266eb5",
+      "observedAt": "2026-10-27T17:12:26.657Z",
+      "before": null,
+      "after": {
+        "userId": "c9a4994a-d08b-4c79-8b7a-19e94b266eb5",
+        "slug": "ryzhiy-brat",
+        "name": "РЫЖИЙ БРАТ",
+        "trackId": "3b175e33-43c0-40f0-8e7e-c6838a88bf18",
+        "submittedAt": "2026-10-27T13:43:51.254Z",
+        "durationSec": 105,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "45f1bbc6-906b-4e0a-a2cf-23cca0d8ef76",
+      "observedAt": "2026-10-27T17:12:26.657Z",
+      "before": null,
+      "after": {
+        "userId": "45f1bbc6-906b-4e0a-a2cf-23cca0d8ef76",
+        "slug": "eb-l-madrid",
+        "name": "Еб@л Мадрид",
+        "trackId": "f61adb2c-e556-4d11-81f4-1c8e10b5d7eb",
+        "submittedAt": "2026-10-27T16:11:46.713Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
