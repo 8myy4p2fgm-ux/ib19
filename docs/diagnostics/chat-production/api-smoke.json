@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "public HTTPS without MAINT; Origin and admin protection",
+    "WSS delivery/reconnect/idempotency",
+    "independent public-mode OFF/ON closes clients and preserves site",
+    "test user content deleted through protected moderation"
+  ],
+  "passed": true,
+  "enabled": true
+}

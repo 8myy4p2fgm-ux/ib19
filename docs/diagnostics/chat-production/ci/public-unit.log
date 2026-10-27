@@ -1,0 +1,22 @@
+TAP version 13
+# Subtest: public production API needs no owner cookie; admin/OFF stays independently protected
+ok 1 - public production API needs no owner cookie; admin/OFF stays independently protected
+  ---
+  duration_ms: 121.964708
+  type: 'test'
+  ...
+# Subtest: public production routing is narrow and header keeps playlist code from current main
+ok 2 - public production routing is narrow and header keeps playlist code from current main
+  ---
+  duration_ms: 0.496833
+  type: 'test'
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 319.187875

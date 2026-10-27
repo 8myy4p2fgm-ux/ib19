@@ -9,8 +9,11 @@ export async function controlChat({action,credentialsFile,expectedPreviewOrigin,
  const preview=expectedPreviewOrigin?isolatedPreviewOrigin(expectedPreviewOrigin):null;
  const loopback=['127.0.0.1','localhost','[::1]'].includes(url.hostname);
  if((preview&&url.origin!==preview)||url.origin!==credentials.origin||(!loopback&&url.origin!=='https://tuz19.ru'&&url.origin!==preview)||url.username||url.password)throw Error('Refusing unknown operator origin');
- if(!/^__Host-tuz19_session=[\w.-]+$/.test(credentials.cookie||'')||typeof credentials.adminToken!=='string'||! /^[A-Za-z0-9_-]{24,256}$/.test(credentials.adminToken))throw Error('Owner session cookie and independent ADMIN_TOKEN required');
- const headers={Origin:url.origin,Cookie:credentials.cookie};
+ const publicAccess=credentials.access==='public';
+ if(typeof credentials.adminToken!=='string'||! /^[A-Za-z0-9_-]{24,256}$/.test(credentials.adminToken))throw Error('Independent ADMIN_TOKEN required');
+ if(publicAccess){if(preview||credentials.cookie)throw Error('Public operator must not use MAINT cookie or preview mode');}
+ else if(!/^__Host-tuz19_session=[\w.-]+$/.test(credentials.cookie||''))throw Error('Owner session cookie and independent ADMIN_TOKEN required');
+ const headers={Origin:url.origin,...(publicAccess?{}:{Cookie:credentials.cookie})};
  if(action!=='status'){
   const response=await fetchImpl(url.origin+'/api/chat/admin',{method:'POST',redirect:'manual',headers:{...headers,Authorization:'Bearer '+credentials.adminToken,'Content-Type':'application/json'},body:JSON.stringify({action:'enabled',value:action==='on'}),signal:AbortSignal.timeout(15000)});
   if(response.status!==200)throw Error('Admin request rejected, HTTP '+response.status+'; verify MAINT session and operator access');

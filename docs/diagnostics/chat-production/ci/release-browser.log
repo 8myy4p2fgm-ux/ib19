@@ -1,0 +1,5 @@
+
+> ib19-public@1.0.0 test:release:browser
+> node tests/release-smoke.mjs
+
+PASS: six R1 sections, unified public R2 routes and return to R1; mobile/desktop; no browser or resource errors.

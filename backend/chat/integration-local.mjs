@@ -1,10 +1,11 @@
+import {tmpdir} from 'node:os';
 // Test/local-only multi-worker runtime: no remote fetch, credentials or deployment.
 import '../../scripts/local-network-guard.mjs';
 import http from 'node:http';import path from 'node:path';import {fileURLToPath} from 'node:url';import {readFile,writeFile,mkdir,mkdtemp,rm} from 'node:fs/promises';import {randomBytes} from 'node:crypto';
 import {Miniflare} from 'miniflare';import {WebSocketServer} from 'ws';
 const root=path.resolve(fileURLToPath(new URL('../../',import.meta.url)));
 export async function startIntegratedChat({port=0,assetDir=path.join(root,'.chat-integration-artifacts/on'),gatewayEnabled=true}={}){
- const stateDir=await mkdtemp('/private/tmp/tuz19-chat-integrated-'),origin='https://tuz19.ru';
+ const stateDir=await mkdtemp(tmpdir()+'/tuz19-chat-integrated-'),origin='https://tuz19.ru';
  const secrets={owner:randomBytes(32).toString('hex'),session:randomBytes(32).toString('hex'),admin:randomBytes(32).toString('hex'),network:randomBytes(32).toString('hex')};
  const fixtureDir=path.join(root,'.chat-integration-artifacts','runtime-'+randomBytes(8).toString('hex'));await mkdir(fixtureDir,{recursive:true});const gatewayFile=path.join(fixtureDir,'gateway-entry.mjs');
  await writeFile(gatewayFile,`import {createHandler} from '../../cloudflare/maintenance/worker.mjs';let enabled=${gatewayEnabled};export default {async fetch(r,env){const u=new URL(r.url);if(u.pathname==='/__fixture/gateway'){enabled=u.searchParams.get('enabled')==='true';return Response.json({ok:true});}return createHandler({upstream:q=>env.PAGES.fetch(q)})(r,{...env,CHAT_API_ENABLED:String(enabled)});}};`);

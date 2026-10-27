@@ -1,0 +1,37 @@
+{
+  "name": "tuz19-chat",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-07-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "tuz19.ru/api/chat/*",
+      "zone_name": "tuz19.ru"
+    }
+  ],
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "CHAT_ROOM",
+        "class_name": "ChatRoom"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "ChatRoom"
+      ]
+    }
+  ],
+  "vars": {
+    "ALLOWED_ORIGIN": "https://tuz19.ru",
+    "CHAT_ENABLED": "true",
+    "REQUIRE_GATEWAY_ACCESS": "false"
+  },
+  "observability": {
+    "enabled": false
+  }
+}

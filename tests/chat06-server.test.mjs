@@ -1,6 +1,7 @@
+import {tmpdir} from 'node:os';
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile,mkdtemp,rm} from 'node:fs/promises';import path from 'node:path';import {ChatRoom} from '../backend/chat/worker.mjs';import {harness} from './chat02-support.mjs';
 test('P1-05: isolated preview artifact serves /chat, all assets and CSP without leaking source',async()=>{
- const {buildPreview}=await import('../backend/chat/build-preview.mjs');const dir=await mkdtemp('/private/tmp/chat06-preview-');try{
+ const {buildPreview}=await import('../backend/chat/build-preview.mjs');const dir=await mkdtemp(tmpdir()+'/chat06-preview-');try{
   const artifact=await buildPreview({outDir:dir+'/pack',siteDir:path.resolve('dist'),origin:'https://chat-preview.example.test'});const config=JSON.parse(await readFile(artifact.configPath,'utf8'));assert.deepEqual(config.routes,[]);assert(config.assets.directory);assert(!JSON.stringify(config).includes('tuz19.ru'));assert(!/ADMIN_TOKEN|NETWORK_SECRET/.test(JSON.stringify(config.vars)));assert.equal(config.vars.ALLOWED_ORIGIN,'https://chat-preview.example.test');
   const {default:preview}=await import('../backend/chat/preview-worker.mjs');const root=path.resolve(artifact.publicDir);const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.gif':'image/gif'};
   const env={ALLOWED_ORIGIN:'https://chat-preview.example.test',ASSETS:{async fetch(r){try{const u=new URL(r.url);const relative=u.pathname.endsWith('/')?u.pathname+'index.html':u.pathname;return new Response(await readFile(path.join(root,relative)),{headers:{'Content-Type':mime[path.extname(relative)]||'application/octet-stream'}});}catch{return new Response('Not found',{status:404});}}}};

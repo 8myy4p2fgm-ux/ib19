@@ -1,0 +1,207 @@
+
+> ib19-public@1.0.0 test:chat
+> node --import ./scripts/local-network-guard.mjs --test tests/chat-ws.test.mjs tests/chat-ws-runtime.test.mjs tests/chat-smilies.test.mjs tests/chat02-optimization.test.mjs tests/chat02-runtime.test.mjs
+
+TAP version 13
+# Subtest: fixed catalog: original GIF bytes, dimensions, safe filenames and unique codes
+ok 1 - fixed catalog: original GIF bytes, dimensions, safe filenames and unique codes
+  ---
+  duration_ms: 22.168875
+  type: 'test'
+  ...
+# Subtest: tokenizer preserves all surrounding text, unknown codes, case and URLs without HTML parsing
+ok 2 - tokenizer preserves all surrounding text, unknown codes, case and URLs without HTML parsing
+  ---
+  duration_ms: 1.620708
+  type: 'test'
+  ...
+# Subtest: actual Miniflare SQLite DO: alarm deletion, persistence, Origin, request and connection caps
+ok 3 - actual Miniflare SQLite DO: alarm deletion, persistence, Origin, request and connection caps
+  ---
+  duration_ms: 1175.3635
+  type: 'test'
+  ...
+# (node:31450) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: server nickname validation and reserved lookalikes
+ok 4 - server nickname validation and reserved lookalikes
+  ---
+  duration_ms: 3.176417
+  type: 'test'
+  ...
+# Subtest: join, collision, presence, realtime, explicit leave, idempotence and reconnect
+ok 5 - join, collision, presence, realtime, explicit leave, idempotence and reconnect
+  ---
+  duration_ms: 4.623584
+  type: 'test'
+  ...
+# Subtest: timeout, actual retention deletion of user/system records and scheduled idle cleanup
+ok 6 - timeout, actual retention deletion of user/system records and scheduled idle cleanup
+  ---
+  duration_ms: 1.397833
+  type: 'test'
+  ...
+# Subtest: 100-record history, cursor catchup and database survives object recreation
+ok 7 - 100-record history, cursor catchup and database survives object recreation
+  ---
+  duration_ms: 2.462708
+  type: 'test'
+  ...
+# Subtest: message/size/frame/frequency limits and no unauthenticated sending
+ok 8 - message/size/frame/frequency limits and no unauthenticated sending
+  ---
+  duration_ms: 1.534709
+  type: 'test'
+  ...
+# Subtest: protected administration, deletion, network ban across sessions, independent switch
+ok 9 - protected administration, deletion, network ban across sessions, independent switch
+  ---
+  duration_ms: 17.796625
+  type: 'test'
+  ...
+# Subtest: public presence: read-only leases, privacy, rate cap and no alarm starvation
+ok 10 - public presence: read-only leases, privacy, rate cap and no alarm starvation
+  ---
+  duration_ms: 5.366583
+  type: 'test'
+  ...
+# (node:31451) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: native heartbeats do not invoke JS or SQL; checkpoints preserve lease through constructor recreation
+ok 11 - native heartbeats do not invoke JS or SQL; checkpoints preserve lease through constructor recreation
+  ---
+  duration_ms: 4.887042
+  type: 'test'
+  ...
+# Subtest: close persists the last true auto-response; abrupt runtime restart resumes same token and pending message once
+ok 12 - close persists the last true auto-response; abrupt runtime restart resumes same token and pending message once
+  ---
+  duration_ms: 4.054209
+  type: 'test'
+  ...
+# Subtest: same NAT keeps shared message rate, bans and non-heartbeat frame limits after hibernation
+ok 13 - same NAT keeps shared message rate, bans and non-heartbeat frame limits after hibernation
+  ---
+  duration_ms: 17.719625
+  type: 'test'
+  ...
+# Subtest: checkpoint captures the latest real activity even just before the minute boundary
+ok 14 - checkpoint captures the latest real activity even just before the minute boundary
+  ---
+  duration_ms: 1.008667
+  type: 'test'
+  ...
+# [
+#   {
+#     "connections": 10,
+#     "heartbeat": {
+#       "sqlStatements": 0,
+#       "rowsWritten": 0,
+#       "rowsRead": 0,
+#       "handlerCalls": 0,
+#       "boot": "b6296f39-ed4a-4906-b3f3-1f8792cb8a9f"
+#     },
+#     "message": {
+#       "sqlStatements": 4,
+#       "rowsWritten": 10,
+#       "rowsRead": 6,
+#       "handlerCalls": 1,
+#       "boot": "bc6ba3e7-5812-460b-8c01-7f42de78c293"
+#     },
+#     "writeUnits": {
+#       "checkpointRows": 1,
+#       "expiredLimitRows": 1
+#     },
+#     "constructorRestored": 10,
+#     "observedNaturalHibernation": true,
+#     "restartSameToken": true,
+#     "duplicateFanout": false
+#   },
+#   {
+#     "connections": 50,
+#     "heartbeat": {
+#       "sqlStatements": 0,
+#       "rowsWritten": 0,
+#       "rowsRead": 0,
+#       "handlerCalls": 0,
+#       "boot": "c409c233-bfff-47b8-aa47-fc9885cc9dd7"
+#     },
+#     "message": {
+#       "sqlStatements": 4,
+#       "rowsWritten": 10,
+#       "rowsRead": 6,
+#       "handlerCalls": 1,
+#       "boot": "c409c233-bfff-47b8-aa47-fc9885cc9dd7"
+#     },
+#     "writeUnits": {
+#       "checkpointRows": 1,
+#       "expiredLimitRows": 1
+#     },
+#     "constructorRestored": 50,
+#     "observedNaturalHibernation": null,
+#     "restartSameToken": true,
+#     "duplicateFanout": false
+#   },
+#   {
+#     "connections": 100,
+#     "heartbeat": {
+#       "sqlStatements": 0,
+#       "rowsWritten": 0,
+#       "rowsRead": 0,
+#       "handlerCalls": 0,
+#       "boot": "4bd13fc6-37d0-4ec2-b349-50028e1cc21b"
+#     },
+#     "message": {
+#       "sqlStatements": 4,
+#       "rowsWritten": 10,
+#       "rowsRead": 6,
+#       "handlerCalls": 1,
+#       "boot": "4bd13fc6-37d0-4ec2-b349-50028e1cc21b"
+#     },
+#     "writeUnits": {
+#       "checkpointRows": 1,
+#       "expiredLimitRows": 1
+#     },
+#     "constructorRestored": 100,
+#     "observedNaturalHibernation": null,
+#     "restartSameToken": true,
+#     "duplicateFanout": false
+#   }
+# ]
+# Subtest: actual workerd: 10/50/100 sockets, zero heartbeat SQL, native timestamps, hibernation/restart and caps
+ok 15 - actual workerd: 10/50/100 sockets, zero heartbeat SQL, native timestamps, hibernation/restart and caps
+  ---
+  duration_ms: 13043.661792
+  type: 'test'
+  ...
+# {
+#   "before": {
+#     "sqlStatements": 60,
+#     "rowsWritten": 90,
+#     "rowsRead": 330,
+#     "handlerCalls": 30,
+#     "boot": "ffb2ad88-3a6a-43c2-94d5-275203076968"
+#   },
+#   "after": {
+#     "sqlStatements": 0,
+#     "rowsWritten": 0,
+#     "rowsRead": 0,
+#     "handlerCalls": 0,
+#     "boot": "3b4be13e-d09e-4426-b461-42951e08e915"
+#   }
+# }
+# Subtest: actual workerd cursor billing counters: thirty baseline vs optimized heartbeats
+ok 16 - actual workerd cursor billing counters: thirty baseline vs optimized heartbeats
+  ---
+  duration_ms: 81.827417
+  type: 'test'
+  ...
+1..16
+# tests 16
+# suites 0
+# pass 16
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 13347.159

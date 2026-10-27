@@ -1,0 +1,11 @@
+{
+  "worker": "tuz19-chat",
+  "namespace": {
+    "id": "1f76946b7b8649b5a539dd2c18a5e61b",
+    "script": "tuz19-chat",
+    "class": "ChatRoom"
+  },
+  "newIndependentSecrets": true,
+  "workersDev": false,
+  "routesAddedByCli": false
+}

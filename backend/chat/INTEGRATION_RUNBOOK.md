@@ -1,5 +1,7 @@
 # CHAT integration — локальный запуск и откат
 
+Production больше не зависит от MAINT-03. Ниже историческая MAINT-схема; актуальный публичный запуск и откат — в docs/release/CHAT_PUBLIC_PRODUCTION.md.
+
 Это локальная проверка release changeset; порядок будущей публикации и отката описан в docs/release/CHAT_RELEASE_RUNBOOK.md. Production-конфигурации остаются `.disabled`; облачные команды, push и dispatch не входят в запуск.
 
 ## Запуск

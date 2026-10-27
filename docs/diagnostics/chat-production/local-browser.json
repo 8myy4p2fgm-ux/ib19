@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "publicJoin": true,
+      "playlistAndChatNavigation": true
+    },
+    {
+      "width": 390,
+      "publicJoin": true,
+      "playlistAndChatNavigation": true
+    },
+    {
+      "width": 320,
+      "publicJoin": true,
+      "playlistAndChatNavigation": true
+    }
+  ],
+  "pageErrors": []
+}

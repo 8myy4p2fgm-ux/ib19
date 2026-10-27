@@ -1,0 +1,50 @@
+{
+  "account": "660084c298a97e43501e05ca13db9fd0",
+  "websitePublic": true,
+  "zoneApiVisible": false,
+  "zones": [],
+  "domains": [],
+  "existingWorkers": [
+    {
+      "id": "tuz19-chat-integration-preview",
+      "modified_on": "2026-10-27T13:07:57.889795Z"
+    },
+    {
+      "id": "tuz19-chat-integration-preview-api",
+      "modified_on": "2026-10-27T13:06:27.556606Z"
+    },
+    {
+      "id": "tuz19-chat-preview",
+      "modified_on": "2026-10-27T10:59:31.055337Z"
+    },
+    {
+      "id": "tuz19-clock",
+      "modified_on": "2026-10-14T11:00:59.977035Z"
+    },
+    {
+      "id": "tuz19-maintenance",
+      "modified_on": "2026-10-27T13:55:32.451221Z"
+    },
+    {
+      "id": "tuz19-playlists",
+      "modified_on": "2026-10-27T14:09:42.701024Z"
+    }
+  ],
+  "existingNamespaces": [
+    {
+      "id": "22073ac4c4934af797b9e42fe8003674",
+      "script": "tuz19-clock",
+      "class": "Scheduler"
+    },
+    {
+      "id": "8c631a34534d41958aeb4a291b831b91",
+      "script": "tuz19-chat-preview",
+      "class": "ChatRoom"
+    },
+    {
+      "id": "9891dbbd42464afe890eb5c20c344f06",
+      "script": "tuz19-chat-integration-preview-api",
+      "class": "ChatRoom"
+    }
+  ]
+}

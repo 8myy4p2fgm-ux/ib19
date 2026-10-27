@@ -1,5 +1,7 @@
 # CHAT release-diff: применение и откат
 
+Production больше не зависит от MAINT-03. Ниже историческая MAINT-схема; актуальный публичный запуск и откат — в docs/release/CHAT_PUBLIC_PRODUCTION.md.
+
 Этот changeset подготовлен поверх `origin/main` ac56c4c6349f067457adedbce29ebc1564a0df9f. Он не переносит локальный baseline e64a054, его workflow-удаления, старые R1/R2 или preview credentials.
 
 ## Состояние в diff

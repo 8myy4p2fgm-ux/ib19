@@ -1,6 +1,7 @@
+import {tmpdir} from 'node:os';
 import test from 'node:test';import assert from 'node:assert/strict';import {mkdtemp,rm,readFile} from 'node:fs/promises';import {buildPreview} from '../backend/chat/build-preview.mjs';import {Miniflare} from '../backend/chat/node_modules/miniflare/dist/src/index.js';
 test('actual workerd preview artifact: ASSETS, CSP, Origin, socket, moderation and emergency switch',async()=>{
- const dir=await mkdtemp('/private/tmp/chat06-artifact-');let mf;const sockets=[];try{
+ const dir=await mkdtemp(tmpdir()+'/chat06-artifact-');let mf;const sockets=[];try{
   const artifact=await buildPreview({outDir:dir+'/pack',origin:'https://chat-preview.example.test'}),c=JSON.parse(await readFile(artifact.configPath,'utf8'));
   mf=new Miniflare({modules:true,modulesRoot:dir+'/pack',scriptPath:dir+'/pack/'+c.main,compatibilityDate:c.compatibility_date,assets:{directory:artifact.publicDir,binding:'ASSETS',routerConfig:{invoke_user_worker_ahead_of_assets:true,has_user_worker:true}},durableObjects:{CHAT_ROOM:{className:'ChatRoom',useSQLite:true}},bindings:{...c.vars,ADMIN_TOKEN:'local-preview-test-admin-token-32',NETWORK_SECRET:'local-preview-test-network'}});
   const origin=c.vars.ALLOWED_ORIGIN,headers={Origin:origin,'CF-Connecting-IP':'192.0.2.1'};

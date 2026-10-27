@@ -1,0 +1,7 @@
+
+> ib19-public@1.0.0 build
+> node scripts/build.mjs
+
+Asset graph version: 80c09d6c8f409a54
+Runtime modules: 99
+Public boundary: { files: 361, jsonFiles: 8, forbiddenFields: 0 }

@@ -31,6 +31,8 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - run: npx --yes pnpm@11.25.0 --dir backend/chat install --frozen-lockfile --ignore-scripts
       - run: npm run test:chat
+      - run: node --import ./scripts/local-network-guard.mjs --test tests/chat-public-release.test.mjs
+      - run: node --import ./scripts/local-network-guard.mjs tests/chat-public-browser.mjs
       - run: npm run test:chat:regression
       - run: npm run test:chat:integration
       - run: npm run test:chat:browser
