@@ -92,6 +92,66 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb",
+      "observedAt": "2026-10-27T02:42:06.549Z",
+      "before": null,
+      "after": {
+        "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb",
+        "slug": "zachitzo",
+        "name": "ЗачитЗо",
+        "trackId": "ccbcd252-cc8b-4206-a2af-922ab11aec1c",
+        "submittedAt": "2026-10-26T22:03:35.469Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "411e09d0-8282-43ea-81c8-9b8136a277e3",
+      "observedAt": "2026-10-27T02:42:06.549Z",
+      "before": null,
+      "after": {
+        "userId": "411e09d0-8282-43ea-81c8-9b8136a277e3",
+        "slug": "esperanto",
+        "name": "Эсперанто",
+        "trackId": "49c90f99-6fcc-4566-9c50-3e92aa675471",
+        "submittedAt": "2026-10-26T20:30:05.329Z",
+        "durationSec": 113,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "2c75f326-4edc-474c-9400-2e061f7230aa",
+      "observedAt": "2026-10-27T02:42:06.549Z",
+      "before": null,
+      "after": {
+        "userId": "2c75f326-4edc-474c-9400-2e061f7230aa",
+        "slug": "serik",
+        "name": "СЕРИК",
+        "trackId": "5dd5155c-5b1f-4137-a7e4-6fa7376f3ca2",
+        "submittedAt": "2026-10-26T20:31:58.030Z",
+        "durationSec": 103,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "c2c358ed-4cd6-462b-9746-cdcab1538ae3",
+      "observedAt": "2026-10-27T02:42:06.549Z",
+      "before": null,
+      "after": {
+        "userId": "c2c358ed-4cd6-462b-9746-cdcab1538ae3",
+        "slug": "kultovyy-nabor-slov",
+        "name": "Культовый набор слов",
+        "trackId": "8e8b94b8-30b0-4686-a555-58f8609a98e3",
+        "submittedAt": "2026-10-26T21:40:30.961Z",
+        "durationSec": 101,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
