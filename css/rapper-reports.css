@@ -164,3 +164,5 @@ body.shell-r1 .main :is(#forum-link,#round-information) .rr-shell :is(.e6-person
 .e6-matrix-header .e6-judge-name button {font:inherit;color:inherit;background:transparent;border:0;padding:0;min-height:44px;text-align:left;overflow-wrap:anywhere;min-width:0}
 .e6-matrix-header .e6-judge-name [data-judge-card] {flex:1}
 .e6-matrix-header .e6-judge-name [data-sort-judge] {flex:0 0 24px;text-align:center}
+/* PLAY-03 local-only controls are rendered only on loopback hosts. */
+.music-rapper-row{display:grid;grid-template-columns:minmax(0,1fr) 34px;align-items:center;gap:6px}.music-rapper-row>.e6-person-row{min-width:0;width:100%}.music-artist-add{font:inherit;color:var(--ds-text);background:var(--ds-inner);border:1px solid var(--ds-border);border-radius:8px;min-height:34px;cursor:pointer}
