@@ -377,6 +377,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "1ef01f3b-9302-4acf-b633-b95bf1f73929",
+      "observedAt": "2026-10-28T18:52:45.291Z",
+      "before": null,
+      "after": {
+        "userId": "1ef01f3b-9302-4acf-b633-b95bf1f73929",
+        "slug": "limbo-lamp-gang",
+        "name": "Limbo #lamp gang",
+        "trackId": "2b81e84f-54d4-42ef-b7cc-84952c42e180",
+        "submittedAt": "2026-10-28T17:37:36.857Z",
+        "durationSec": 119,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
