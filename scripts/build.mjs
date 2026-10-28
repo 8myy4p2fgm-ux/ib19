@@ -37,6 +37,8 @@ for(const [route,title] of [['dynamics','Судейские обхваты'],['j
  await fs.mkdir(`dist/${route}`,{recursive:true});
  await fs.writeFile(`dist/${route}/index.html`,html.replace('<title>Обзор — TUZ19</title>',`<title>${title} — TUZ19</title>`).replaceAll('="./','="../'));
 }
+await fs.mkdir('dist/chat',{recursive:true});
+await fs.copyFile('chat/view.html','dist/chat/view.html');
 await fs.mkdir('dist/chat/smilies',{recursive:true});
 await fs.writeFile('dist/chat/index.html',versionHTML(chatHTML,version));
 for(const file of ['style.css','nav.css'])await fs.copyFile('chat/'+file,'dist/chat/'+file);

@@ -8,10 +8,10 @@ import {rankPersonalV4} from './personal.js';
 import {buildEvents} from './analytics-v2.js';
 import {voiceInline,selectEditorial,createEditorialSession} from './forum-voice.js';
 import {renderPublicRoundTwo} from './r2-public-page.js';
-const paths={overview:'',dynamics:'dynamics/',judges:'judges/','forum-link':'rappers/',events:'events/',horo:'horo/',music:''};
-const sectionRoutes={home:'overview',judges:'judges',dynamics:'dynamics','forum-link':'forum-link','events-page':'events',horo:'horo',music:'music'};
+const paths={overview:'',dynamics:'dynamics/',judges:'judges/','forum-link':'rappers/',events:'events/',horo:'horo/',music:'',chat:'chat/'};
+const sectionRoutes={home:'overview',judges:'judges',dynamics:'dynamics','forum-link':'forum-link','events-page':'events',horo:'horo',music:'music','chat-page':'chat'};
 const routeSections=Object.fromEntries(Object.entries(sectionRoutes).map(([k,v])=>[v,k]));
-const titles={overview:'Главная',judges:'Судьи',dynamics:'Ход баттла','forum-link':'Реперы',events:'События',horo:'Хо-ро-шо. По форумному',music:'Плейлисты'};
+const titles={overview:'Главная',judges:'Судьи',dynamics:'Ход баттла','forum-link':'Реперы',events:'События',horo:'Хо-ро-шо. По форумному',music:'Плейлисты',chat:'Чат'};
 const basePath=new URL('../',import.meta.url).pathname;
 export function parseRoute(input,base=basePath){
  const url=new URL(input),params=new URLSearchParams(url.search),rounds=params.getAll('round');
@@ -35,6 +35,7 @@ export function parseRoute(input,base=basePath){
   if(hashRound&&params.has('round')&&Number(params.get('round'))!==hashRound)return fail('Неоднозначный URL: раунды hash и query различаются.');
  }
  const round=hashRound??Number(params.get('round')||1);
+ if(type==='chat')return {type:'chat',round:1,params:new URLSearchParams(),error:null,canonical:base+'chat/'};
  if(localMusicEnabled(url.hostname)&&params.get('music')==='playlists')return {type:'music',round:1,params,error:null,canonical:base+'?'+params};
  if(round===2||params.has('round'))params.set('round',String(round));
  // REL-OPEN-01: public R2 has one destination, including legacy and restored links.
@@ -42,10 +43,10 @@ export function parseRoute(input,base=basePath){
  const reportFallback=removeHiddenReportRequest(type,params,url.hash,legacyReport);
  return {type,round,params,error:null,...(reportFallback?{reportFallback:true}:{}),canonical:base+paths[type]+(params.size?'?'+params:'')};
 }
-export function isFirstRoundActive(){const state=parseRoute(location.href);return !state.error&&state.round===1&&state.type!=='horo'&&state.type!=='music';}
+export function isFirstRoundActive(){const state=parseRoute(location.href);return !state.error&&state.round===1&&state.type!=='horo'&&state.type!=='music'&&state.type!=='chat';}
 export function initializeRoutes({loadR1,mountR1}){
  const $=id=>document.getElementById(id),main=document.querySelector('.main');
- for(const [id,title]of [['events-page','События'],['horo','Хо-ро-шо. По форумному'],['round-information','Сведения второго раунда']]){
+ for(const [id,title]of [['chat-page','Чат'],['events-page','События'],['horo','Хо-ро-шо. По форумному'],['round-information','Сведения второго раунда']]){
   const page=document.createElement('section');page.className='page';page.id=id;page.setAttribute('aria-label',title);main.append(page);
  }
  if(localMusicEnabled(location.hostname)){const page=document.createElement('section');page.className='page';page.id='music';page.setAttribute('aria-label','Плейлисты');main.append(page);const nav=document.createElement('a');nav.className='nav';nav.dataset.tab='music';nav.href=basePath+'?music=playlists';nav.textContent='Плейлисты';document.querySelector('.site-header .navs').append(nav);}
@@ -59,13 +60,13 @@ export function initializeRoutes({loadR1,mountR1}){
  let D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary,judges,events;
  const date=t=>new Date(t).toLocaleString('ru-RU',{timeZone:'Europe/Moscow',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
  const pathFor=type=>basePath+paths[type];
- const target=(type,round,params=new URLSearchParams(),explicit=false)=>{if(type==='music'){params.set('music','playlists');return basePath+'?'+params;}if(round===2||explicit)params.set('round',String(round));return pathFor(type)+(params.size?'?'+params:'');};
+ const target=(type,round,params=new URLSearchParams(),explicit=false)=>{if(type==='chat')return basePath+'chat/';if(type==='music'){params.set('music','playlists');return basePath+'?'+params;}if(round===2||explicit)params.set('round',String(round));return pathFor(type)+(params.size?'?'+params:'');};
  function query(){return new URLSearchParams(location.search);}
  function setQuery(values){const params=query();for(const [k,v]of Object.entries(values))v===null||v===''?params.delete(k):params.set(k,v);history.replaceState(history.state,'',location.pathname+(params.size?'?'+params:''));}
  function activate(id){document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id===id));}
  function snapshot(kind,info){
   const caption=document.querySelector('.shell-snapshot>span'),update=document.querySelector('.header-update');
-  caption.textContent=kind==='r1'?'Первый раунд':kind==='r2'?'Второй раунд':kind==='music'?'Глобальный раздел · музыка':kind==='horo'?'Глобальный раздел · форумные материалы':'Данные раунда';
+  caption.textContent=kind==='r1'?'Первый раунд':kind==='r2'?'Второй раунд':kind==='music'?'Глобальный раздел · музыка':kind==='chat'?'Глобальный раздел · чат':kind==='horo'?'Глобальный раздел · форумные материалы':'Данные раунда';
   update.firstChild.textContent='';$('updated').textContent='';$('updated').title='';$('deadline-countdown').hidden=kind!=='r1';$('deadline-countdown').setAttribute('aria-hidden',String(kind!=='r1'));
   for(const key of ['runId','policyVersion','sourceSelectionVersion','snapshotKey']){
    if(kind==='r1')document.querySelector('.app').dataset[key]=info[key];else delete document.querySelector('.app').dataset[key];
@@ -83,6 +84,8 @@ export function initializeRoutes({loadR1,mountR1}){
  function focusAfterRoute(){requestAnimationFrame(()=>select.focus({preventScroll:true}));}
  async function route({focus=false}={}){
   const ticket=++sequence,state=parseRoute(location.href);
+  document.body.classList.toggle('chat-active',state.type==='chat');
+  document.querySelector('.site-header .nav-chat')?.setAttribute('aria-current',state.type==='chat'?'page':'false');
   const tip=document.querySelector('.chart-tip');if(tip)tip.style.display='none';
   document.querySelectorAll('dialog[open]').forEach(d=>d.close());emit();
   select.value=state.error?'':String(state.round);
@@ -105,6 +108,11 @@ export function initializeRoutes({loadR1,mountR1}){
    renderPublicRoundTwo($('round-information'),target('overview',1,new URLSearchParams(),true));
    emit();reveal();if(focus)focusAfterRoute();return;
   }
+  if(state.type==='chat'){
+   try{const {openChat}=await import('./chat-page.js');await openChat($('chat-page'));if(ticket!==sequence)return;snapshot('chat');stateBox.hidden=true;activate('chat-page');emit(true);}
+   catch(e){if(ticket!==sequence)return;notice('Не удалось загрузить чат',e.message,{retry:true});}
+   reveal();if(focus)focusAfterRoute();return;
+  }
   if(state.type==='horo'){snapshot('horo');activate('horo');openHoro($('horo'));emit();reveal();if(focus)focusAfterRoute();return;}
   // The shell stays usable while the first round is loading.
   if(!r1UI){notice('Загружаем данные…','Первый раунд');reveal();}
@@ -126,10 +134,11 @@ export function initializeRoutes({loadR1,mountR1}){
   if(location.pathname+location.search+location.hash!==url){history.pushState(null,'',url);route();}
  }
  // Native links retain copy/new-tab semantics; ordinary clicks use this router.
+ document.addEventListener('click',e=>{const a=e.target.closest('.site-header .nav-chat, a[data-player-return]');if(!a||e.button||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||a.target==='_blank')return;const url=new URL(a.href);if(url.origin!==location.origin)return;e.preventDefault();navigate(a.matches('.nav-chat')?'chat':'music');});
  main.addEventListener('click',e=>{const a=e.target.closest('a[data-report-link]');if(!a||e.button||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;const url=new URL(a.href);if(url.origin!==location.origin||!url.pathname.startsWith(basePath))return;e.preventDefault();history.pushState(null,'',url.pathname+url.search);route();});
  document.querySelectorAll('.nav').forEach(a=>a.addEventListener('click',e=>{if(e.button||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;e.preventDefault();navigate(sectionRoutes[a.dataset.tab]);}));
  document.querySelector('.site-brand').addEventListener('click',e=>{if(e.button||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;e.preventDefault();navigate('overview');});
- select.onchange=()=>{const state=parseRoute(location.href),params=new URLSearchParams(),kind=state.type==='forum-link'?'rappers':state.type;if(reportCatalog[kind]&&(state.params.has('report')||state.params.has('tab')))params.set('report',requestedReport(kind,state.params).id);const url=target(state.type,Number(select.value),params,true);history.pushState(null,'',url);route({focus:true});};
+ select.onchange=()=>{const state=parseRoute(location.href),params=new URLSearchParams(),kind=state.type==='forum-link'?'rappers':state.type;if(reportCatalog[kind]&&(state.params.has('report')||state.params.has('tab')))params.set('report',requestedReport(kind,state.params).id);const url=target(state.type==='chat'?'overview':state.type,Number(select.value),params,true);history.pushState(null,'',url);route({focus:true});};
  window.addEventListener('popstate',()=>route());window.addEventListener('hashchange',()=>route());
  window.ib19Navigate=navigate;window.ib19IsR1=isFirstRoundActive;
  // Reveal the initial page only after its data and route-specific presentation are ready.

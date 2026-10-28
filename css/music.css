@@ -9,3 +9,12 @@ body:has(#music.active) .main>:is(.head,.shell-snapshot){display:none}
 @media(max-width:560px){.music-card{padding:15px}.music-player{padding:9px 12px;gap:7px;grid-template-columns:minmax(0,1fr) auto}.music-transport{grid-column:1/-1;grid-row:2}.music-options{grid-column:2;grid-row:1}.music-now p{max-width:260px}.music-control-row{gap:10px}.music-control-row button{min-width:38px;min-height:40px}.music-progress{margin-top:3px}.music-track{gap:7px}.music-track>.music-actions{gap:4px}.music-track .music-actions button{padding:6px;min-height:36px;min-width:30px}.music-track strong{font-size:13px}.music-track small{font-size:11px}.music-queue{max-height:45dvh}.music-dialog{padding:16px}.music-shared>header{flex-wrap:wrap}}
 
 .music-page .music-filter-toggle{display:none}@media(max-width:560px){.music-page .music-filter-toggle{display:block;margin-top:12px}.music-filter-panel:not(.is-open){display:none}}
+
+/* Same player and controls; compact shell mode outside the music page. */
+.music-return{display:none;color:var(--ds-text);text-decoration:none;border:1px solid var(--ds-border);border-radius:8px;padding:10px;min-height:44px;align-items:center}
+.music-player.is-mini{grid-template-columns:minmax(0,1fr) auto;gap:12px;padding-top:8px;padding-bottom:8px}
+.music-player.is-mini .music-transport{grid-column:auto;grid-row:auto}
+.music-player.is-mini :is(.music-options,.music-progress,.music-now small,.music-now p,[data-music="previous"],[data-music="current-add"],[data-music="queue"]){display:none}
+.music-player.is-mini .music-return{display:inline-flex}
+.music-player.is-mini .music-control-row{gap:6px}
+.music-player.is-mini .music-control-row button{min-width:44px;min-height:44px}

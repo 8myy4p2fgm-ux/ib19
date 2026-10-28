@@ -1,3 +1,4 @@
+import {contentHash} from './r1-correction.js';
 // PLAY-03: presentation only. Official R1 outcomes own all score totals.
 export const MUSIC_STORAGE_KEY='tuz19.playlists.v1';
 export const MAX_SHARE_URL=2000;
@@ -6,14 +7,26 @@ export const trackKey=(roundId,trackId)=>roundId+':'+trackId;
 export const validKey=k=>typeof k==='string'&&k.length===73&&uuid(k.slice(0,36))&&uuid(k.slice(37))&&k[36]===':';
 // First release: playlists/queue only; audio source remains disabled.
 export const localMusicEnabled=host=>['localhost','127.0.0.1','[::1]','tuz19.ru'].includes(host);
-export function createCatalog(context,r2=null){
+export const R1_SUBMISSIONS_HASH='8237322095164ded57176de3c2a9cc4337af417f0ee349ad2028a2ccc44c9f80';
+export function validateR1TrackSubmissions(value,roundId){
+ if(value?.schema!=='r1-public-submissions-v1'||value.roundId!==roundId||contentHash(value)!==R1_SUBMISSIONS_HASH)throw Error('Некорректные даты сдачи R1');
+ const dates=new Map();
+ for(const row of value.records){
+  const key=JSON.stringify([row.userId,row.trackId]);
+  if(dates.has(key)||!uuid(row.userId)||!uuid(row.trackId)||(row.submittedAt!==null&&!Number.isFinite(Date.parse(row.submittedAt))))throw Error('Некорректная дата или идентификатор трека R1');
+  dates.set(key,row.submittedAt);
+ }
+ return dates;
+}
+const timestamp=value=>{const time=typeof value==='string'?Date.parse(value):NaN;return Number.isFinite(time)?time:null;};
+export function createCatalog(context,r2=null,r1Dates=new Map()){
  const D=context.data;
  const group=id=>{const m=D.referenceMetadata.get(id);return m?(m.veteran||m.group==='Ветераны'?'veterans':'forum'):'other';};
  const rows=[...D.byId.values()].filter(p=>uuid(p.trackId)).map(p=>{
-  const result=context.analytics.participantOutcome(p.userId);
-  return {key:trackKey(context.roundId,p.trackId),roundId:context.roundId,trackId:p.trackId,round:1,userId:p.userId,name:p.artistName||p.userId,slug:p.artistSlug,group:group(p.userId),total:result.validScoreCount?result.scoreTotal:null,count:result.validScoreCount,required:context.rules.scoresPerParticipant,duration:null,confirmed:true};
+  const result=context.analytics.participantOutcome(p.userId),submittedAt=r1Dates.get(JSON.stringify([p.userId,p.trackId]))??null;
+  return {key:trackKey(context.roundId,p.trackId),roundId:context.roundId,trackId:p.trackId,round:1,userId:p.userId,name:p.artistName||p.userId,slug:p.artistSlug,group:group(p.userId),total:result.validScoreCount?result.scoreTotal:null,count:result.validScoreCount,required:context.rules.scoresPerParticipant,duration:null,submittedAt,submittedTime:timestamp(submittedAt),confirmed:true};
  });
- for(const p of r2?.submissions??[])if(uuid(p.trackId))rows.push({key:trackKey(r2.roundId,p.trackId),roundId:r2.roundId,trackId:p.trackId,round:2,userId:p.userId,name:p.name,slug:p.slug,group:group(p.userId),total:null,count:0,required:null,duration:p.durationSec,confirmed:true});
+ for(const p of r2?.submissions??[])if(uuid(p.trackId))rows.push({key:trackKey(r2.roundId,p.trackId),roundId:r2.roundId,trackId:p.trackId,round:2,userId:p.userId,name:p.name,slug:p.slug,group:group(p.userId),total:null,count:0,required:null,duration:p.durationSec,submittedAt:p.submittedAt??null,submittedTime:timestamp(p.submittedAt),confirmed:true});
  if(new Set(rows.map(p=>p.key)).size!==rows.length)throw Error('Повтор идентификатора трека');
  return rows;
 }
@@ -21,6 +34,11 @@ const names=(a,b)=>a.name.localeCompare(b.name,'ru')||a.key.localeCompare(b.key)
 export function selectTracks(rows,{query='',round='all',group='all',complete=false,order='desc'}={}){
  const q=query.trim().toLocaleLowerCase('ru');
  return rows.filter(p=>(round==='all'||String(p.round)===round)&&(group==='all'||p.group===group)&&(!complete||(p.required!==null&&p.count>=p.required))&&(!q||p.name.toLocaleLowerCase('ru').includes(q))).sort((a,b)=>{
+  if(order==='newest'||order==='oldest'){
+   const at=a.submittedTime,bt=b.submittedTime;
+   if(at==null||bt==null)return (at==null)-(bt==null)||names(a,b);
+   return (order==='newest'?-1:1)*(at-bt)||names(a,b);
+  }
   if(order==='alpha')return names(a,b);
   if(a.total===null||b.total===null)return (a.total===null)-(b.total===null)||names(a,b);
   return (order==='asc'?1:-1)*(a.total-b.total)||names(a,b);

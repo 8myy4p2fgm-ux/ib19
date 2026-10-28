@@ -1,3 +1,4 @@
+import {validateR1TrackSubmissions} from '../js/music-model.js';
 import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {createOfficialR1View} from '../js/r1-official-view.js';
@@ -28,7 +29,7 @@ export function projectGroups(raw){return {members:raw.members.map(p=>pick(p,['u
 // Private projection helpers above remain available for explicit archive checks.
 export async function readPublicR1(){
  const root=new URL('../public-data/',import.meta.url),manifest=JSON.parse(await fs.readFile(new URL('manifest.json',root),'utf8'));
- const files=['r1/19ib_all_judges_REPAIRED.json','r1/forum_judges_export.json','r1/metadata.json','groups.json'];
+ const files=['r1/19ib_all_judges_REPAIRED.json','r1/forum_judges_export.json','r1/metadata.json','groups.json','r1/submissions.v1.json'];
  if(Object.keys(manifest).sort().join('|')!==[...files].sort().join('|'))throw Error('Unexpected public source manifest');
  const bytes=new Map();
  for(const file of files){const raw=await fs.readFile(new URL(file,root));if(createHash('sha256').update(raw).digest('hex')!==manifest[file])throw Error('Public source checksum mismatch: '+file);bytes.set(file,raw);}
@@ -36,6 +37,7 @@ export async function readPublicR1(){
  publicR1Contract(snapshot,{roundId:snapshot.metadata.source.roundId,version:'r1-official-zippy-v2'},contentHash);
  const groups=JSON.parse(bytes.get('groups.json'));
  if(JSON.stringify(projectGroups(groups))!==JSON.stringify(groups))throw Error('Unexpected public group fields');
+ validateR1TrackSubmissions(JSON.parse(bytes.get('r1/submissions.v1.json')),snapshot.metadata.source.roundId);
  return {snapshot,bytes};
 }
 export async function writePublicData(destination){
