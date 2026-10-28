@@ -287,6 +287,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "90a34af8-26a1-44af-a09c-98d1e1c97c0a",
+      "observedAt": "2026-10-28T03:12:08.424Z",
+      "before": null,
+      "after": {
+        "userId": "90a34af8-26a1-44af-a09c-98d1e1c97c0a",
+        "slug": "187smoke",
+        "name": "187SMOKE",
+        "trackId": "e65c1458-4aa2-4bdf-bd2b-22251a3d216b",
+        "submittedAt": "2026-10-27T17:47:46.709Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "02f83c06-fa8f-4cd4-a199-ea02593ff832",
+      "observedAt": "2026-10-28T03:12:08.424Z",
+      "before": null,
+      "after": {
+        "userId": "02f83c06-fa8f-4cd4-a199-ea02593ff832",
+        "slug": "tetrapak",
+        "name": "ТЕТРАПАК",
+        "trackId": "5d08458d-e41e-4aa8-8be3-c8f26aed6907",
+        "submittedAt": "2026-10-27T18:38:47.891Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }

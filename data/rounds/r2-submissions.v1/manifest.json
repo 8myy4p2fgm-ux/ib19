@@ -2,26 +2,26 @@
   "kind": "R2 submissions publication",
   "roundId": "235f6600-5224-4adf-bbcc-a220f4572251",
   "phase": "submissions",
-  "runId": "2026-10-27T17:12:26.657Z",
+  "runId": "2026-10-28T03:12:08.424Z",
   "files": {
     "full.raw.json": {
-      "sha256": "bf4fd88aceb834f1e4670a2c8b4ba93e4a5a4a3320c2d0e7c06b4d3521ddd5a2",
-      "bytes": 19906
+      "sha256": "2768c9eadec556da467ea75859ee1a970db62ba3bce3eaa992e4a8212fafa9ac",
+      "bytes": 21026
     },
     "live.raw.json": {
-      "sha256": "b4c59d464cef52ad8227a549fb559feafc61af7460d5f2b6ba51bbac9609b2cf",
-      "bytes": 4014
+      "sha256": "fb00b49d63b6c824404c0e02afe50cb071cc2dcbc5bb18083ec6a5ad6786525b",
+      "bytes": 4204
     },
     "snapshot.json": {
-      "sha256": "e611e7f461dbdd7f9e3d760a3d76f3ed58d574f37bfc488397041778fc4c2e71",
-      "bytes": 27361
+      "sha256": "fce20d46ddab9f825de7bf8e89895827fa9f9bc31eca44c44f218f38caae2e4a",
+      "bytes": 28787
     },
     "history.json": {
-      "sha256": "75c73728257bc7f1045753a42a4014f8e028c46f162c404eaa304189e6585c34",
-      "bytes": 9375
+      "sha256": "3c08619f02d8b8659993361a2147d01fae8d4f8680cb3b65d6fb86137bcb29c9",
+      "bytes": 10349
     },
     "metadata.json": {
-      "sha256": "ac3589bdcbf7d5e5a19817f4f4b4a4fb3c2bd708ca283f80b195cf4846195128",
+      "sha256": "2e1ea4013b0df8c30e8cd99c42488139f90554c8ea0af5d32a97998e0023df4c",
       "bytes": 282
     }
   }
