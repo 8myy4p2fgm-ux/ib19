@@ -44,6 +44,11 @@ export function selectTracks(rows,{query='',round='all',group='all',complete=fal
   return (order==='asc'?1:-1)*(a.total-b.total)||names(a,b);
  });
 }
+// Snapshot the complete selected catalog, independently of visible pagination.
+export function catalogQueue(rows,filters,key){
+ const keys=[...new Set(selectTracks(rows,filters).filter(t=>t.confirmed&&validKey(t.key)).map(t=>t.key))];
+ const index=keys.indexOf(key);return index<0?[]:keys.slice(index);
+}
 const isName=s=>typeof s==='string'&&s.trim().length>0&&s.trim().length<=120;
 export function validPlaylist(p,{local=true}={}){
  return !!p&&typeof p==='object'&&p.v===1&&isName(p.name)&&(!local||(typeof p.id==='string'&&/^[a-zA-Z0-9_-]{1,80}$/.test(p.id)))&&Array.isArray(p.tracks)&&p.tracks.length<=1000&&p.tracks.every(validKey)&&new Set(p.tracks).size===p.tracks.length;

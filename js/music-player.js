@@ -22,7 +22,8 @@ export function createMusicPlayer({audio=document.createElement('audio'),resolve
  audio.addEventListener('ended',()=>step(1,{ended:true}));audio.addEventListener('error',()=>{error='Аудио недоступно. Выберите следующий трек.';status='Ошибка аудио';emit();});
  return {audio,state,
   enqueue(key){if(!validKey(key))return false;if(queue.length>=1000)return false;queue.push(key);emit();return true;},
-  replace(keys,{mix=false}={}){if(!keys.length||keys.length>1000||!keys.every(validKey))return;queue=mix?shuffleItems(keys):[...keys];start(0);},
+  // Only catalog playback may exceed the saved-playlist/manual queue limit.
+  replace(keys,{mix=false,sequential=false}={}){if(!keys.length||(!sequential&&keys.length>1000)||!keys.every(validKey))return;queue=sequential?[...new Set(keys)]:mix?shuffleItems(keys):[...keys];if(sequential){repeat='off';shuffle=false;}start(0);},
   start,
   playKey(key){if(!validKey(key))return;let i=queue.indexOf(key);if(i<0){if(queue.length>=1000)return;queue.push(key);i=queue.length-1;}start(i);},
   toggle(){if(index<0){if(queue.length)start(0);return;}if(!audio.paused){audio.pause();status='Пауза';emit();}else if(!audio.getAttribute('src'))start(index);else{const ticket=generation;audio.play().then(()=>{if(ticket===generation){status='Воспроизводится';emit();}}).catch(()=>{if(ticket===generation){error='Не удалось продолжить. Нажмите Play или выберите следующий трек.';emit();}});}},

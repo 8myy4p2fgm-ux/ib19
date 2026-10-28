@@ -1,5 +1,5 @@
 import {createMusicShareClient} from './music-share.js';
-import {createCatalog,validateR1TrackSubmissions,selectTracks,loadPlaylists,savePlaylists,addUnique,moveItem,localMusicEnabled} from './music-model.js';
+import {createCatalog,validateR1TrackSubmissions,selectTracks,catalogQueue,loadPlaylists,savePlaylists,addUnique,moveItem,localMusicEnabled} from './music-model.js';
 import {createMusicPlayer} from './music-player.js';
 import {musicAudioEnabled,createMusicSourceResolver} from './music-source.js';
 import {validateR2Submissions} from './r2-submissions.js';
@@ -100,7 +100,7 @@ async function initialize(root,context){
   try{
   if(a==='close'){b.closest('dialog').close();return;}
   if(a==='filters'){const open=root.querySelector('.music-filter-panel').classList.toggle('is-open');b.setAttribute('aria-expanded',String(open));}
-  if(a==='track-play')player.playKey(key);
+  if(a==='track-play'){if(b.closest('[data-catalog]'))player.replace(catalogQueue(catalog,filters,key),{sequential:true});else player.playKey(key);}
   if(a==='add'){if(pickerTarget)addToList(pickerTarget,key);else openMenu(key);}
   if(a==='enqueue'||a==='enqueue-menu'){if(player.enqueue(a==='enqueue'?key:menuKey))announce('Трек добавлен в очередь');else announce('Очередь заполнена');if(menu.open)menu.close();}
   if(a==='add-to-list'){addToList(b.dataset.list,menuKey);menu.close();}
