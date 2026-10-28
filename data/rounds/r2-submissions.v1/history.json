@@ -392,6 +392,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "3a351b1e-5a77-4c7f-b8a0-62ced7cf13dc",
+      "observedAt": "2026-10-28T19:03:21.989Z",
+      "before": null,
+      "after": {
+        "userId": "3a351b1e-5a77-4c7f-b8a0-62ced7cf13dc",
+        "slug": "angelrayy",
+        "name": "ANGELRAYY",
+        "trackId": "30121228-5c7a-48f5-931c-6d8f16a471fc",
+        "submittedAt": "2026-10-28T14:02:55.088Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "e7749219-6f4d-43ed-bb57-a71cd6dd0cda",
+      "observedAt": "2026-10-28T19:03:21.989Z",
+      "before": null,
+      "after": {
+        "userId": "e7749219-6f4d-43ed-bb57-a71cd6dd0cda",
+        "slug": "barkhan",
+        "name": "BARKHAN",
+        "trackId": "1b9e94bb-8acd-4123-858e-244f1b9da6bb",
+        "submittedAt": "2026-10-28T14:50:27.984Z",
+        "durationSec": 116,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
