@@ -1,3 +1,4 @@
+import {preflight,withCors} from './api-cors.mjs';
 // Isolated CHAT-01 service. No data collector, external fetch, Cron or production routes.
 const DAY=86400000, LEASE=75000, PAGE=100, CHECKPOINT=60000;
 const PING='{"type":"ping"}',PONG='{"type":"pong"}';
@@ -261,12 +262,12 @@ async function equalSecret(a,b){
  const hash=async value=>new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value)));
  const [x,y]=await Promise.all([hash(a),hash(b)]);let diff=0;for(let i=0;i<x.length;i++)diff|=x[i]^y[i];return diff===0;
 }
-export default {async fetch(request,env){
+async function handlePublicAPI(request,env){
  const url=new URL(request.url),origin=request.headers.get('Origin');
  const methods={'/api/chat/presence':'GET','/api/chat/status':'GET','/api/chat/socket':'GET','/api/chat/admin':'POST'};
  if(env.REQUIRE_GATEWAY_ACCESS==='true')methods['/api/chat/_gateway/revoke']='POST';
  if(!methods[url.pathname])return new Response('Not found',{status:404});
- // No CORS fallback. The trusted proxy sets network identity; never trust client X-Chat-*.
+ // Exact Origin is required. The edge supplies network identity; never trust client X-Chat-*.
  const publicRead=url.pathname==='/api/chat/presence'&&request.method==='GET';
  if(!env.ALLOWED_ORIGIN||!(origin===env.ALLOWED_ORIGIN||(publicRead&&!origin&&request.headers.get('Sec-Fetch-Site')==='same-origin')))return json({error:'Forbidden origin'},403);
  if(request.method!==methods[url.pathname])return json({error:'Method not allowed'},405);
@@ -282,4 +283,13 @@ export default {async fetch(request,env){
  const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(env.NETWORK_SECRET+'|'+ip));
  const headers=new Headers(request.headers);headers.set('X-Chat-Network',Array.from(new Uint8Array(digest),x=>x.toString(16).padStart(2,'0')).join(''));
  return env.CHAT_ROOM.get(env.CHAT_ROOM.idFromName('common-room')).fetch(new Request(request.url,{method:request.method,headers,...(body?{body}:{} )}));
+
+}
+export default {async fetch(request,env){
+ const url=new URL(request.url),methods={'/api/chat/presence':'GET','/api/chat/status':'GET','/api/chat/socket':'GET','/api/chat/admin':'POST'};
+ if(env.API_ORIGIN&&url.origin!==env.API_ORIGIN)return new Response('Not found',{status:404});
+ if(!methods[url.pathname])return handlePublicAPI(request,env);
+ const check=preflight(request,env.ALLOWED_ORIGIN,methods[url.pathname],url.pathname==='/api/chat/admin'?['authorization','content-type']:[]);
+ if(check)return check;
+ return withCors(await handlePublicAPI(request,env),request,env.ALLOWED_ORIGIN);
 }};

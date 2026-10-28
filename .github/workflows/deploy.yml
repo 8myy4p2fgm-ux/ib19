@@ -28,7 +28,17 @@ jobs:
       - run: npm run test:release
       - run: npm run validate
       - run: npm run build
-      - run: npx playwright install --with-deps chromium
+      - run: npx playwright install --with-deps chromium webkit
+      - run: npx --yes pnpm@11.25.0 --dir backend/chat install --frozen-lockfile --ignore-scripts
+      - run: node --import ./scripts/local-network-guard.mjs --test tests/recovery-api.test.mjs tests/music.test.mjs tests/music-share.test.mjs tests/music-source.test.mjs
+      - run: node --import ./scripts/local-network-guard.mjs tests/recovery-browser.mjs
+      - run: npm run test:chat
+      - run: node --import ./scripts/local-network-guard.mjs --test tests/chat-public-release.test.mjs
+      - run: node --import ./scripts/local-network-guard.mjs tests/chat-public-browser.mjs
+      - run: npm run test:chat:regression
+      - run: npm run test:chat:integration
+      - run: npm run test:chat:browser
+      - run: node tests/chat0304-browser.mjs
       - run: npm run test:release:browser
       - uses: actions/upload-artifact@v4
         if: always()

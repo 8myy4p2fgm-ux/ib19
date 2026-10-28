@@ -6,7 +6,7 @@
   "preview_urls": false,
   "routes": [
     {
-      "pattern": "tuz19.ru/api/chat/*",
+      "pattern": "api.tuz19.ru/api/chat/*",
       "zone_name": "tuz19.ru"
     }
   ],
@@ -29,7 +29,8 @@
   "vars": {
     "ALLOWED_ORIGIN": "https://tuz19.ru",
     "CHAT_ENABLED": "true",
-    "REQUIRE_GATEWAY_ACCESS": "false"
+    "REQUIRE_GATEWAY_ACCESS": "false",
+    "API_ORIGIN": "https://api.tuz19.ru"
   },
   "observability": {
     "enabled": false

@@ -14,7 +14,7 @@ async function readBody(request){
  try{return JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(bytes));}catch{throw Object.assign(Error(),{status:400});}
 }
 function randomId(){const bytes=crypto.getRandomValues(new Uint8Array(16));return btoa(String.fromCharCode(...bytes)).replaceAll('+','-').replaceAll('/','_').replace(/=+$/,'');}
-export function createPlaylistAPI({store,now=Date.now,newId=randomId,limits={},quota={}}){
+export function createPlaylistAPI({store,now=Date.now,newId=randomId,limits={},quota={},allowedOrigin=null}){
  return async function handle(request,clientKey='loopback'){
   const url=new URL(request.url),match=url.pathname.match(/^\/api\/playlists\/([A-Za-z0-9_-]{22})$/);
   if(url.pathname!=='/api/playlists'&&!match)return json(404,{error:'Ссылка на плейлист не найдена.'});
@@ -25,7 +25,7 @@ export function createPlaylistAPI({store,now=Date.now,newId=randomId,limits={},q
     return json(200,{id:record.id,createdAt:record.created_at,playlist:JSON.parse(record.payload)});
    }
    if(request.method!=='POST')return json(405,{error:'Метод не поддерживается.'},{Allow:'POST'});
-   if(request.headers.get('origin')!==url.origin)return json(403,{error:'Создание ссылки разрешено только со страницы TUZ19.'});
+   if(request.headers.get('origin')!==(allowedOrigin||url.origin))return json(403,{error:'Создание ссылки разрешено только со страницы TUZ19.'});
    if(request.headers.get('content-type')?.split(';')[0].trim().toLowerCase()!=='application/json')return json(415,{error:'Требуется JSON.'});
    const body=await readBody(request);
    if(!body||!uuid(body.requestId)||Object.keys(body).some(k=>!['requestId','playlist'].includes(k)))return json(400,{error:'Некорректный запрос.'});

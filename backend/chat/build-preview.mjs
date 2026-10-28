@@ -12,7 +12,7 @@ export async function buildPreview({outDir,siteDir=path.join(root,'dist'),origin
  const files=['index.html','client.js','style.css','nav.js','nav.css','public-presence.js','smilies.js','smilies-catalog.js',...SMILIES.map(s=>'smilies/'+s.file)];
  await mkdir(path.join(publicDir,'chat/smilies'),{recursive:true});
  for(const file of new Set(files)){if(file==='index.html')continue;if(!/^[\w./-]+$/.test(file)||file.includes('..'))throw Error('Invalid asset');const source=path.join(root,'chat',file);if(!(await lstat(source)).isFile())throw Error('Invalid asset type');await cp(source,path.join(publicDir,'chat',file));}
- for(const file of ['worker.mjs','preview-worker.mjs'])await cp(path.join(root,'backend/chat',file),path.join(outDir,file));
+ for(const file of ['worker.mjs','preview-worker.mjs','api-cors.mjs'])await cp(path.join(root,'backend/chat',file),path.join(outDir,file));
  const config={name:'tuz19-chat-preview',main:'preview-worker.mjs',compatibility_date:'2026-07-01',workers_dev:true,preview_urls:true,routes:[],assets:{directory:'./public',binding:'ASSETS',run_worker_first:true},durable_objects:{bindings:[{name:'CHAT_ROOM',class_name:'ChatRoom'}]},migrations:[{tag:'v1',new_sqlite_classes:['ChatRoom']}],vars:{ALLOWED_ORIGIN:origin,CHAT_ENABLED:'true'}};
  const configPath=path.join(outDir,'wrangler.jsonc');await writeFile(configPath,JSON.stringify(config,null,2)+'\n');
  const manifest={};async function walk(dir){for(const e of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,e.name);if(e.isDirectory())await walk(f);else manifest[path.relative(publicDir,f)]=createHash('sha256').update(await readFile(f)).digest('hex');}}await walk(publicDir);await writeFile(path.join(outDir,'assets-manifest.json'),JSON.stringify(manifest,null,2));

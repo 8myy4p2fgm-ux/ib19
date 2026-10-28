@@ -4,13 +4,28 @@
   "compatibility_date": "2026-10-27",
   "workers_dev": false,
   "preview_urls": false,
-  "routes": [{"pattern": "tuz19.ru/api/playlists*", "zone_name": "tuz19.ru"}],
-  "triggers": {"crons": []},
-  "observability": {"enabled": false},
-  "d1_databases": [{
-    "binding": "PLAYLIST_DB",
-    "database_name": "tuz19-playlists",
-    "database_id": "REPLACE_WITH_CREATED_D1_UUID",
-    "migrations_dir": "migrations"
-  }]
+  "routes": [
+    {
+      "pattern": "api.tuz19.ru/api/playlists*",
+      "zone_name": "tuz19.ru"
+    }
+  ],
+  "triggers": {
+    "crons": []
+  },
+  "observability": {
+    "enabled": false
+  },
+  "d1_databases": [
+    {
+      "binding": "PLAYLIST_DB",
+      "database_name": "tuz19-playlists",
+      "database_id": "f1bdbc6c-8ad7-497d-aff5-323b35ca0cca",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "vars": {
+    "API_ORIGIN": "https://api.tuz19.ru",
+    "ALLOWED_ORIGIN": "https://tuz19.ru"
+  }
 }

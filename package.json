@@ -13,7 +13,15 @@
     "test:release": "node --test tests/r2-release.test.mjs tests/publication-cli.test.mjs tests/r2-home.test.mjs tests/r2-submissions.test.mjs tests/temporary-exclusion-cli.test.mjs tests/update-gate.test.mjs tests/workflow-modes.test.mjs",
     "test:release:browser": "node tests/release-smoke.mjs",
     "test:public": "node tests/public-suite.mjs",
-    "test:public:artifact": "node --test tests/public-build.test.mjs tests/mobile-perf03-artifact.test.mjs"
+    "test:public:artifact": "node --test tests/public-build.test.mjs tests/mobile-perf03-artifact.test.mjs tests/inc02-artifact.test.mjs",
+    "dev:chat": "node --import ./scripts/local-network-guard.mjs backend/chat/integration-dev.mjs",
+    "test:chat": "node --import ./scripts/local-network-guard.mjs --test tests/chat-ws.test.mjs tests/chat-ws-runtime.test.mjs tests/chat-smilies.test.mjs tests/chat02-optimization.test.mjs tests/chat02-runtime.test.mjs",
+    "test:chat:browser": "node --import ./scripts/local-network-guard.mjs tests/chat-ws-browser.mjs",
+    "test:chat:regression": "node --import ./scripts/local-network-guard.mjs --test tests/chat06-server.test.mjs tests/chat06-preview-runtime.test.mjs tests/chat06-browser.test.mjs",
+    "test:chat:integration": "node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-build.test.mjs && node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-dev.test.mjs && node --import ./scripts/local-network-guard.mjs --test tests/chat-integration-gateway.test.mjs tests/chat-integration-operator.test.mjs && node --import ./scripts/local-network-guard.mjs tests/chat-integration-browser.mjs",
+    "prepare:js": "node scripts/prepare-js-graphs.mjs",
+    "test:inc02": "node --test tests/inc02-graphs.test.mjs tests/inc02-artifact.test.mjs",
+    "test:inc02:browser": "node tests/inc02-browser.mjs"
   },
   "devDependencies": {
     "playwright": "1.56.1"
