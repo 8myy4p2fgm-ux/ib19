@@ -8,6 +8,7 @@ test('one build produces versioned site + chat; source nav setting is preserved 
  for(const [mode,args]of [['off',[]],['on',['--chat-nav']]]){
   await writeFile(dir+'/config/chat-ui.json',JSON.stringify({enabled:mode==='on'}));
   execFileSync(process.execPath,['scripts/prepare-js-graphs.mjs',...args],{cwd:dir,stdio:'pipe'});execFileSync(process.execPath,['scripts/build.mjs',...args],{cwd:dir,stdio:'pipe'});
+  await mkdir('.chat-integration-artifacts',{recursive:true});await rm('.chat-integration-artifacts/'+mode,{recursive:true,force:true});await cp(dir+'/dist','.chat-integration-artifacts/'+mode,{recursive:true});
   const html=await readFile(dir+'/dist/index.html','utf8'),chat=await readFile(dir+'/dist/chat/index.html','utf8');assert(html.includes('name="tuz19-chat-enabled" content="'+(mode==='on')+'"'));assert(chat.includes('name="tuz19-chat-enabled" content="true"'));const tag=html.match(/chat-nav\.([a-f0-9]{16})\.js/)[1];assert(chat.includes('chat-client.'+tag+'.js'));assert(chat.includes('chat-nav.'+tag+'.js'));assert(!chat.includes('src="./client.js"'));
   const compiled=await readFile(dir+'/dist/js/chat-client.'+tag+'.js','utf8');assert(compiled.includes('chat-public-presence.'+tag+'.js'));assert(compiled.includes('chat-smilies.'+tag+'.js'));const {pathToFileURL}=await import('node:url');assert.equal((await checkPublicData(dir+'/dist',{graphRoot:pathToFileURL(dir+'/public-compat/graphs/')})).forbiddenFields,0);assert.equal(hash(await readFile(dir+'/dist/data/rounds/r2-submissions.v1/snapshot.json')),hash(snapshot));
  }
