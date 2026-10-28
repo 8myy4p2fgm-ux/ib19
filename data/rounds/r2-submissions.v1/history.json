@@ -317,6 +317,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "87bc3d1b-4ea3-4e77-9db1-99df8c318c3e",
+      "observedAt": "2026-10-28T13:33:04.870Z",
+      "before": null,
+      "after": {
+        "userId": "87bc3d1b-4ea3-4e77-9db1-99df8c318c3e",
+        "slug": "bllack-santa",
+        "name": "bllack-santa",
+        "trackId": "12f2241c-93fb-4ea4-95d1-8fee69e75789",
+        "submittedAt": "2026-10-28T11:48:00.887Z",
+        "durationSec": 109,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "fac70275-a8a6-4643-a08a-47f340cb5d77",
+      "observedAt": "2026-10-28T13:33:04.870Z",
+      "before": null,
+      "after": {
+        "userId": "fac70275-a8a6-4643-a08a-47f340cb5d77",
+        "slug": "detoks",
+        "name": "DETOKS",
+        "trackId": "3a229961-3888-4858-89ec-ab47b771e4fa",
+        "submittedAt": "2026-10-28T13:28:21.069Z",
+        "durationSec": 109,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
