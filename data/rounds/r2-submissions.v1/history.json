@@ -347,6 +347,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "bb3b5c75-cb79-40c3-bb77-c979fb37ea03",
+      "observedAt": "2026-10-28T13:42:45.176Z",
+      "before": null,
+      "after": {
+        "userId": "bb3b5c75-cb79-40c3-bb77-c979fb37ea03",
+        "slug": "inoske",
+        "name": "INOSKE",
+        "trackId": "ef569943-ada1-4b27-b05a-c98c6a9ae88e",
+        "submittedAt": "2026-10-28T11:37:28.272Z",
+        "durationSec": 111,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "fa313a90-b693-46bc-b75c-41cd3b133e00",
+      "observedAt": "2026-10-28T13:42:45.176Z",
+      "before": null,
+      "after": {
+        "userId": "fa313a90-b693-46bc-b75c-41cd3b133e00",
+        "slug": "blackphroaig-blakfroyg",
+        "name": "Blackphroaig (Блакфройг)",
+        "trackId": "7dba2f4d-edc6-465e-9960-6bff5a876f11",
+        "submittedAt": "2026-10-28T12:04:58.751Z",
+        "durationSec": 117,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
