@@ -5,6 +5,6 @@ export const legacyAssets=Object.freeze({"js/r2-group-reference.js":"0ae086d9de6
 export const moduleReference=/(\bfrom\s*|\bimport\s*\(\s*|\bimport\s*|\bnew\s+URL\(\s*)(['"])(\.[^'"]+\.js)(\2)/g;
 export function versionPath(file,version){if(!/^[a-f0-9]{16}$/.test(version))throw Error('Invalid asset graph version');return file.replace(/\.js$/,'.'+version+'.js');}
 export function versionModule(source,version){return source.replace(moduleReference,(_,prefix,quote,url)=>prefix+quote+versionPath(url,version)+quote);}
-export function versionHTML(source,version){return source.replace(/(<script\b[^>]*\bsrc=)(['"])((?:\.\/|\.\.\/)js\/[^'"]+\.js)\2/g,(_,prefix,quote,url)=>prefix+quote+versionPath(url,version)+quote);}
+export function versionHTML(source,version){return source.replace(/(<script\b[^>]*\bsrc=)(['"])(\.\/js\/[^'"]+\.js)\2/g,(_,prefix,quote,url)=>prefix+quote+versionPath(url,version)+quote);}
 // No timestamps, data-update times or locale-dependent ordering in the graph ID.
 export function assetVersion(html,modules,compiler){const hash=createHash('sha256');hash.update(html);hash.update(compiler);for(const [file,source]of [...modules].sort(([a],[b])=>a<b?-1:a>b?1:0)){hash.update(file);hash.update('\0');hash.update(source);}return hash.digest('hex').slice(0,16);}

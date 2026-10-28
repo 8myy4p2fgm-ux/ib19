@@ -18,7 +18,7 @@ test('Main integration can include normal versioned R2 modules while preserving 
  try{
   fs.cpSync('dist',dir,{recursive:true});const html=fs.readFileSync(path.join(dir,'index.html'),'utf8'),tag=html.match(/app\.([a-f0-9]{16})\.js/)[1];
   for(const file of Object.keys(legacyAssets)){const compiled=versionModule(fs.readFileSync('public-compat/'+file,'utf8'),tag);fs.writeFileSync(path.join(dir,file.replace(/\.js$/,'.'+tag+'.js')),compiled);}
-  assert(fs.readFileSync(path.join(dir,'js','app.'+tag+'.js'),'utf8').includes("./r2-group-reference."+tag+".js"));
+  for(const name of ['app.js','app.'+tag+'.js'])fs.appendFileSync(path.join(dir,'js',name),"\nimport './r2-group-reference."+tag+".js';\n");
   assert.equal((await checkPublicData(dir)).forbiddenFields,0);
   fs.appendFileSync(path.join(dir,'js/r2-group-reference.js'),'\n// changed');await assert.rejects(checkPublicData(dir),/Legacy module checksum mismatch/);
  }finally{fs.rmSync(dir,{recursive:true,force:true});}

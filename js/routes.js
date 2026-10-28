@@ -1,5 +1,3 @@
-import {localMusicEnabled} from './music-model.js';
-import {installMusicAddition} from './music-entry.js';
 import {prepareSectionStyles} from './section-styles.js';
 import {reportCatalog,requestedReport} from './report-catalog.js';
 import {removeHiddenReportRequest} from './report-availability.js';
@@ -8,10 +6,10 @@ import {rankPersonalV4} from './personal.js';
 import {buildEvents} from './analytics-v2.js';
 import {voiceInline,selectEditorial,createEditorialSession} from './forum-voice.js';
 import {renderPublicRoundTwo} from './r2-public-page.js';
-const paths={overview:'',dynamics:'dynamics/',judges:'judges/','forum-link':'rappers/',events:'events/',horo:'horo/',music:''};
-const sectionRoutes={home:'overview',judges:'judges',dynamics:'dynamics','forum-link':'forum-link','events-page':'events',horo:'horo',music:'music'};
+const paths={overview:'',dynamics:'dynamics/',judges:'judges/','forum-link':'rappers/',events:'events/',horo:'horo/'};
+const sectionRoutes={home:'overview',judges:'judges',dynamics:'dynamics','forum-link':'forum-link','events-page':'events',horo:'horo'};
 const routeSections=Object.fromEntries(Object.entries(sectionRoutes).map(([k,v])=>[v,k]));
-const titles={overview:'Главная',judges:'Судьи',dynamics:'Ход баттла','forum-link':'Реперы',events:'События',horo:'Хо-ро-шо. По форумному',music:'Плейлисты'};
+const titles={overview:'Главная',judges:'Судьи',dynamics:'Ход баттла','forum-link':'Реперы',events:'События',horo:'Хо-ро-шо. По форумному'};
 const basePath=new URL('../',import.meta.url).pathname;
 export function parseRoute(input,base=basePath){
  const url=new URL(input),params=new URLSearchParams(url.search),rounds=params.getAll('round');
@@ -35,37 +33,33 @@ export function parseRoute(input,base=basePath){
   if(hashRound&&params.has('round')&&Number(params.get('round'))!==hashRound)return fail('Неоднозначный URL: раунды hash и query различаются.');
  }
  const round=hashRound??Number(params.get('round')||1);
- if(localMusicEnabled(url.hostname)&&params.get('music')==='playlists')return {type:'music',round:1,params,error:null,canonical:base+'?'+params};
  if(round===2||params.has('round'))params.set('round',String(round));
  // REL-OPEN-01: public R2 has one destination, including legacy and restored links.
  if(round===2)return {type:'overview',round,params:new URLSearchParams('round=2'),error:null,canonical:base+'?round=2'};
  const reportFallback=removeHiddenReportRequest(type,params,url.hash,legacyReport);
  return {type,round,params,error:null,...(reportFallback?{reportFallback:true}:{}),canonical:base+paths[type]+(params.size?'?'+params:'')};
 }
-export function isFirstRoundActive(){const state=parseRoute(location.href);return !state.error&&state.round===1&&state.type!=='horo'&&state.type!=='music';}
+export function isFirstRoundActive(){const state=parseRoute(location.href);return !state.error&&state.round===1&&state.type!=='horo';}
 export function initializeRoutes({loadR1,mountR1}){
  const $=id=>document.getElementById(id),main=document.querySelector('.main');
  for(const [id,title]of [['events-page','События'],['horo','Хо-ро-шо. По форумному'],['round-information','Сведения второго раунда']]){
   const page=document.createElement('section');page.className='page';page.id=id;page.setAttribute('aria-label',title);main.append(page);
  }
- if(localMusicEnabled(location.hostname)){const page=document.createElement('section');page.className='page';page.id='music';page.setAttribute('aria-label','Плейлисты');main.append(page);const nav=document.createElement('a');nav.className='nav';nav.dataset.tab='music';nav.href=basePath+'?music=playlists';nav.textContent='Плейлисты';document.querySelector('.site-header .navs').append(nav);}
  const stateBox=$('load-state');main.insertBefore(stateBox,main.querySelector('.page'));
  const slot=document.querySelector('.shell-round-label');slot.classList.add('shell-round-picker');
  slot.innerHTML='<label for="round-select">Раунд</label><select id="round-select"><option value="" disabled>Выбор раунда</option><option value="1">1-й отборочный</option><option value="2" data-badge="Скоро">2-й отборочный</option></select>';
  const select=$('round-select');
  let sequence=0,r1Promise,r1UI,r1Context;
- const getR1=()=>r1Promise ||= loadR1().catch(e=>{r1Promise=null;throw e;});
- if(localMusicEnabled(location.hostname))installMusicAddition({root:$('music'),loadR1:getR1});
  let D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary,judges,events;
  const date=t=>new Date(t).toLocaleString('ru-RU',{timeZone:'Europe/Moscow',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
  const pathFor=type=>basePath+paths[type];
- const target=(type,round,params=new URLSearchParams(),explicit=false)=>{if(type==='music'){params.set('music','playlists');return basePath+'?'+params;}if(round===2||explicit)params.set('round',String(round));return pathFor(type)+(params.size?'?'+params:'');};
+ const target=(type,round,params=new URLSearchParams(),explicit=false)=>{if(round===2||explicit)params.set('round',String(round));return pathFor(type)+(params.size?'?'+params:'');};
  function query(){return new URLSearchParams(location.search);}
  function setQuery(values){const params=query();for(const [k,v]of Object.entries(values))v===null||v===''?params.delete(k):params.set(k,v);history.replaceState(history.state,'',location.pathname+(params.size?'?'+params:''));}
  function activate(id){document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id===id));}
  function snapshot(kind,info){
   const caption=document.querySelector('.shell-snapshot>span'),update=document.querySelector('.header-update');
-  caption.textContent=kind==='r1'?'Первый раунд':kind==='r2'?'Второй раунд':kind==='music'?'Глобальный раздел · музыка':kind==='horo'?'Глобальный раздел · форумные материалы':'Данные раунда';
+  caption.textContent=kind==='r1'?'Первый раунд':kind==='r2'?'Второй раунд':kind==='horo'?'Глобальный раздел · форумные материалы':'Данные раунда';
   update.firstChild.textContent='';$('updated').textContent='';$('updated').title='';$('deadline-countdown').hidden=kind!=='r1';$('deadline-countdown').setAttribute('aria-hidden',String(kind!=='r1'));
   for(const key of ['runId','policyVersion','sourceSelectionVersion','snapshotKey']){
    if(kind==='r1')document.querySelector('.app').dataset[key]=info[key];else delete document.querySelector('.app').dataset[key];
@@ -109,8 +103,7 @@ export function initializeRoutes({loadR1,mountR1}){
   // The shell stays usable while the first round is loading.
   if(!r1UI){notice('Загружаем данные…','Первый раунд');reveal();}
   try{
-    const context=await getR1();if(ticket!==sequence)return;
-    if(state.type==='music'){const {openMusic}=await import('./music-page.js');if(ticket!==sequence)return;await openMusic($('music'),context);if(ticket!==sequence)return;snapshot('music');stateBox.hidden=true;activate('music');emit(true);reveal();return;}
+    r1Promise ||= loadR1().catch(e=>{r1Promise=null;throw e;});const context=await r1Promise;if(ticket!==sequence)return;
     if(!r1UI){await window.ib19Loader.preparing?.();if(ticket!==sequence)return;}
     if(!r1UI){r1Context=context;r1UI=mountR1(context);({D,P,fmt,esc,judgeNames,judgeCurrent,judgeSummary}=r1UI);judges=rankPersonalV4(judgeCurrent);$('about').querySelector('h2').insertAdjacentHTML('afterend',voiceInline(selectEditorial('methodology',{})?.text));}
     await r1UI.preparePage?.(state.type);if(ticket!==sequence)return;
