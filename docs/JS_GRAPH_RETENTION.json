@@ -1,0 +1,21 @@
+{
+  "scope": "INC-02: static JS compatibility only. No old HTML/JSON,backend,collector or private source data published.",
+  "source": "public-compat/graphs/manifest.json links immutable UTF-8 JS bundles by SHA-256;each module is also SHA-256 checked;each generation imports only itself.",
+  "releasePreparation": [
+    "When frontend/build JS changes,run npm run prepare:js and review generated JS bundles+manifest. Ordinary build fails if current source graph is not explicitly prepared;it never writes source archives.",
+    "Commit the current graph and supported earlier graphs with the source change. Data-only R2 updates need no preparation;existing collector/workflows remain unchanged.",
+    "No asset is pruned automatically. Maximum16 declared generations;capacity failure blocks build instead of removing a supported graph.",
+    "Minimum transition support7days. Before publication ensure retainUntil covers at least7days after replacement of the old current graph;extend metadata if a prepared release was delayed. Asset bytes are immutable."
+  ],
+  "retirement": [
+    "Requires a separate owner decision. First verify actual last-publication/replacement time and supported-tab window;expiry is eligibility,not an automatic deletion trigger.",
+    "Run npm run prepare:js -- --retirement-plan VERSION... for a read-only plan. Current,unknown or unexpired versions are rejected.",
+    "After explicit approval remove only reviewed graph entries and matching source JS bundles;never copy old dist/data or remove current/plain compatibility assets. Keep rollback copies outside public output.",
+    "Verify old supported tabs/current generation,build/public allowlist,hashes and cache responses. Exact restored URLs may need separately authorized negative-cache invalidation after existing404;do not change DNS,WAF or disable caching."
+  ],
+  "limits": [
+    "Arbitrarily old tabs are not promised indefinite support after an explicitly approved retirement. Within declared support they retain exact asset paths.",
+    "Old immutable chat clients retain old behavior until reload. The WebSocket fix runs in the new generation;do not rewrite old content-addressed files.",
+    "If capacity is reached while all previous versions remain supported,stop release preparation and review policy;never silently shorten support."
+  ]
+}

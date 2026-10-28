@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "maxGraphs": 16,
+  "minimumSupportDays": 7,
+  "currentVersion": "47ecd3a3f1355a41",
+  "graphs": [
+    {
+      "version": "1c7b840bbe1376a5",
+      "bundle": "1c7b840bbe1376a5.json",
+      "sha256": "4e2ae048248dd53aa7956b1832cb4e9d2346fbc7baa0cfcffe2e198533c4cc57",
+      "sourceRevision": "ac56c4c6349f067457adedbce29ebc1564a0df9f",
+      "sourceBase": null,
+      "preparedAt": "2026-10-28T10:30:41.315Z",
+      "retainUntil": "2026-11-04T10:30:41.326Z"
+    },
+    {
+      "version": "3a45a99a393526ac",
+      "bundle": "3a45a99a393526ac.json",
+      "sha256": "4d565b0519787075fa8f8be1e853115cf1588311080ceebee50cee102e30c877",
+      "sourceRevision": "361360f0e337b30de9ca0c6b26d206c205d5d16e",
+      "sourceBase": null,
+      "preparedAt": "2026-10-28T10:30:41.326Z",
+      "retainUntil": "2026-11-04T10:30:41.337Z"
+    },
+    {
+      "version": "80c09d6c8f409a54",
+      "bundle": "80c09d6c8f409a54.json",
+      "sha256": "a8c6fe7b4f6746d200c63ff64ee30f1ad1d63a25e0d917853234a029611f56bd",
+      "sourceRevision": "cb7c49f15d76a0175fdaa6158b86a33a34dcba11",
+      "sourceBase": null,
+      "preparedAt": "2026-10-28T10:30:41.337Z",
+      "retainUntil": "2026-11-04T10:31:53.469Z"
+    },
+    {
+      "version": "47ecd3a3f1355a41",
+      "bundle": "47ecd3a3f1355a41.json",
+      "sha256": "9d8443ae284e8e30267e1dba62c2c2397b747d0c1e1f67eb84b0e665f1c89f31",
+      "sourceRevision": null,
+      "sourceBase": "0857ac58983c31e72240f55ea2170c1533f908b6",
+      "preparedAt": "2026-10-28T10:35:15.096Z",
+      "retainUntil": "2026-11-04T10:35:15.096Z"
+    }
+  ]
+}

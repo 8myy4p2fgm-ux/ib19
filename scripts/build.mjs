@@ -1,9 +1,11 @@
 import {createHash} from 'node:crypto';
-import {assetVersion,versionModule,versionHTML,versionPath,legacyAssets} from './release-assets.mjs';
+import {versionModule,versionHTML,versionPath,legacyAssets} from './release-assets.mjs';
+import {currentGraph,requirePrepared} from './js-graphs.mjs';
 import fs from 'node:fs/promises';
 import {checkPublicData} from './check-public-data.mjs';
 import {writeSplitPublicData} from './public-data.mjs';
 
+const graph=await currentGraph(),retained=await requirePrepared(graph);
 await fs.rm('dist',{recursive:true,force:true});
 await fs.mkdir('dist',{recursive:true});
 for(const file of ['index.html','css'])await fs.cp(file,'dist/'+file,{recursive:true});
@@ -16,23 +18,9 @@ for(const file of new Set(horo.images.flatMap(image=>[image.src,...(image.frames
 }
 // Publish only the module graph reachable from HTML entry scripts, including
 // literal lazy imports. Fail closed on unresolved local dependencies.
-const chatConfig=JSON.parse(await fs.readFile('config/chat-ui.json','utf8'));
-const chatEnabled=process.argv.includes('--chat-nav')?true:chatConfig.enabled===true;
-const entryHTML=(await fs.readFile('index.html','utf8')).replace('name="tuz19-chat-enabled" content="false"','name="tuz19-chat-enabled" content="'+chatEnabled+'"');
-const chatHTML=await fs.readFile('chat/index.html','utf8'),reachable=new Set(),sources=new Map();
-async function visit(file){
- if(reachable.has(file))return;reachable.add(file);
- const source=await fs.readFile(file,'utf8');sources.set(file,source);
- for(const match of source.matchAll(/(?:\bfrom\s*|\bimport\s*\(\s*|\bimport\s*|\bnew\s+URL\(\s*)['"](\.[^'"]+\.js)['"]/g)){
-  const url=new URL(match[1],new URL(file,new URL('../',import.meta.url)));
-  const local=decodeURIComponent(url.pathname.slice(new URL('../',import.meta.url).pathname.length));
-  if(!local.startsWith('js/'))throw Error('Unexpected module dependency: '+local);
-  await visit(local);
- }
-}
-for(const html of [entryHTML,chatHTML])for(const match of html.matchAll(/<script[^>]+src=["'](?:\.\/|\.\.\/)(js\/[^"']+)["']/g))await visit(match[1]);
+const {entryHTML,chatHTML,sources,version}=graph,reachable=new Set(sources.keys());
 await fs.mkdir('dist/js',{recursive:true});
-const version=assetVersion(entryHTML+'\nCHAT_ENTRY\n'+chatHTML,sources,await fs.readFile('scripts/build.mjs','utf8')+await fs.readFile('scripts/release-assets.mjs','utf8'));
+for(const [file,source]of retained.assets)await fs.writeFile('dist/'+file,source);
 for(const file of [...reachable].sort()){const compiled=versionModule(sources.get(file),version);await fs.writeFile('dist/'+versionPath(file,version),compiled);await fs.writeFile('dist/'+file,compiled);}
 await fs.writeFile('dist/index.html',versionHTML(entryHTML,version));
 for(const [file,expected]of Object.entries(legacyAssets)){const raw=await fs.readFile('public-compat/'+file);if(createHash('sha256').update(raw).digest('hex')!==expected)throw Error('Legacy module checksum mismatch: '+file);await fs.writeFile('dist/'+file,raw);}

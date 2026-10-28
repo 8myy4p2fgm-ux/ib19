@@ -2,7 +2,7 @@ import {subscribePresence,useSocketPresence,setSocketPresenceActive} from './cha
 import {renderSmilies,setupSmileyPicker} from './chat-smilies.js';
 const $=id=>document.getElementById(id),log=$('chat-log');
 const store={get(key){try{return sessionStorage.getItem('chat01:'+key);}catch{return null;}},set(key,value){try{if(value==null)sessionStorage.removeItem('chat01:'+key);else sessionStorage.setItem('chat01:'+key,value);}catch{}}};
-let ws,heartbeat,retry,retryCount=0,joined=false,stopped=true,token=store.get('token'),nick=store.get('nick')||'',lastPong=0,reconnectAfter=0,syncCursor=0,deletionCursor=0,initialized=false,syncing=false,syncTimer,syncRequest,targets,liveHigh=0,liveDeletion=0,draftVersion=0;
+let ws,heartbeat,retry,connectTimeout,suspended=false,retryCount=0,joined=false,stopped=true,token=store.get('token'),nick=store.get('nick')||'',lastPong=0,reconnectAfter=0,syncCursor=0,deletionCursor=0,initialized=false,syncing=false,syncTimer,syncRequest,targets,liveHigh=0,liveDeletion=0,draftVersion=0;
 const messages=new Map();let pending;try{pending=JSON.parse(store.get('pending'));}catch{}
 $('nickname').value=nick;
 const palette=['#cdb184','#9fc5b3','#b7b1db','#d2a9af','#a9bdd5','#b8c896'];
@@ -29,18 +29,23 @@ function removeMessages(ids){for(const id of ids){const row=messages.get(id);if(
 $('message').addEventListener('input',()=>draftVersion++);
 function error(text){$('chat-error').textContent=text;}
 function reset(){
- stopped=true;joined=false;initialized=false;syncing=false;syncCursor=0;deletionCursor=0;clearTimeout(syncTimer);setSocketPresenceActive(false);$('public-room').hidden=false;clearTimeout(retry);clearInterval(heartbeat);ws?.close();ws=null;token=null;pending=null;messages.clear();store.set('token',null);store.set('pending',null);$('room').hidden=true;$('join-form').hidden=false;$('leave').hidden=true;$('connection').textContent='Вы вышли из чата';$('online-count').textContent='…';$('online-list').replaceChildren();
+ stopped=true;joined=false;initialized=false;syncing=false;syncCursor=0;deletionCursor=0;clearTimeout(syncTimer);setSocketPresenceActive(false);$('public-room').hidden=false;disconnectTransport();token=null;pending=null;messages.clear();store.set('token',null);store.set('pending',null);$('room').hidden=true;$('join-form').hidden=false;$('leave').hidden=true;$('connection').textContent='Вы вышли из чата';$('online-count').textContent='…';$('online-list').replaceChildren();
+}
+function disconnectTransport(){
+ const previous=ws;ws=null;clearTimeout(connectTimeout);clearTimeout(retry);clearTimeout(syncTimer);clearInterval(heartbeat);previous?.close();
 }
 function connect(){
- if(stopped)return;clearTimeout(retry);clearInterval(heartbeat);joined=false;setSocketPresenceActive(false);$('send').disabled=true;$('connection').textContent='Подключение…';
+ if(stopped||suspended||!navigator.onLine||ws?.readyState===WebSocket.OPEN||ws?.readyState===WebSocket.CONNECTING)return;clearTimeout(retry);clearInterval(heartbeat);joined=false;setSocketPresenceActive(false);$('send').disabled=true;$('connection').textContent='Подключение…';
  clearTimeout(syncTimer);syncing=initialized;reconnectAfter=initialized;
+ disconnectTransport();
  const socket=new WebSocket(`${location.protocol==='https:'?'wss:':'ws:'}//${location.host}/api/chat/socket`);ws=socket;
- socket.onopen=()=>send({type:'join',nick,token});
+ connectTimeout=setTimeout(()=>{if(ws===socket&&!joined)socket.close();},10000);
+ socket.onopen=()=>{if(ws===socket&&!stopped&&!suspended)send({type:'join',nick,token});};
  socket.onmessage=event=>{
   if(ws!==socket)return;
   const d=JSON.parse(event.data);
   if(d.type==='joined'){
-   joined=true;setSocketPresenceActive(true);$('public-room').hidden=true;retryCount=0;token=d.token;nick=d.nick;store.set('token',token);store.set('nick',nick);$('nickname').value=nick;
+   clearTimeout(connectTimeout);joined=true;setSocketPresenceActive(true);$('public-room').hidden=true;retryCount=0;token=d.token;nick=d.nick;store.set('token',token);store.set('nick',nick);$('nickname').value=nick;
    $('join-form').hidden=true;$('room').hidden=false;$('leave').hidden=false;$('connection').textContent='В сети · #tuz19';$('own-nick').textContent=nick;$('send').disabled=false;error('');lastPong=Date.now();
    heartbeat=setInterval(()=>{if(Date.now()-lastPong>65000){socket.close();return;}send({type:'ping'});expire();draw();},d.heartbeat);
    queuePending();
@@ -63,13 +68,14 @@ function connect(){
   }
  };
  socket.onclose=e=>{
-  if(ws!==socket)return;clearInterval(heartbeat);clearTimeout(syncTimer);joined=false;$('send').disabled=true;
-  if(stopped)return;
+  if(ws!==socket)return;ws=null;clearTimeout(connectTimeout);clearInterval(heartbeat);clearTimeout(syncTimer);joined=false;$('send').disabled=true;
+  if(stopped||suspended)return;
   if(e.code===4000||e.code===4001){reset();error('Сессия завершена. Можно войти снова.');return;}
+  if(!navigator.onLine)return;
   $('connection').textContent='Нет связи · переподключаемся…';
   retry=setTimeout(connect,Math.min(15000,1000*2**Math.min(retryCount++,4)));
  };
- socket.onerror=()=>error('Нет связи с комнатой. Проверьте подключение.');
+ socket.onerror=()=>{if(ws===socket)error('Нет связи с комнатой. Проверьте подключение.');};
 }
 $('join-form').addEventListener('submit',event=>{event.preventDefault();nick=$('nickname').value.trim();if(store.get('nick')!==nick)token=null;stopped=false;error('');connect();});
 $('composer').addEventListener('submit',event=>{
@@ -84,9 +90,10 @@ $('leave').addEventListener('click',()=>{send({type:'leave'});reset();});
 $('older').addEventListener('click',()=>{const first=Math.min(...messages.keys());if(Number.isFinite(first)){$('older').disabled=true;send({type:'history',before:first});}});
 $('online-toggle').addEventListener('click',()=>{const open=$('online-panel').classList.toggle('open');$('online-toggle').setAttribute('aria-expanded',String(open));});
 $('new-messages').addEventListener('click',scrollBottom);log.addEventListener('scroll',()=>{if(bottom())$('new-messages').hidden=true;});
-window.addEventListener('online',()=>{if(!stopped&&ws?.readyState!==WebSocket.OPEN)connect();});
-window.addEventListener('pagehide',()=>{clearInterval(heartbeat);clearTimeout(retry);ws?.close();});
-window.addEventListener('pageshow',event=>{if(event.persisted&&!stopped)connect();});
+window.addEventListener('online',()=>{if(!stopped)connect();});
+window.addEventListener('offline',()=>{disconnectTransport();joined=false;if(!stopped){setSocketPresenceActive(false);$('send').disabled=true;$('connection').textContent='Нет связи · переподключаемся…';}});
+window.addEventListener('pagehide',()=>{suspended=true;disconnectTransport();});
+window.addEventListener('pageshow',event=>{suspended=false;if(event.persisted&&!stopped)connect();});
 if(pending){$('message').value=pending.text;pending.draftVersion=draftVersion;}
 if(nick&&token){stopped=false;connect();}
 
