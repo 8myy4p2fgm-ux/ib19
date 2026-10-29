@@ -422,6 +422,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "2e05d7b9-cad5-4b2a-97b8-cb0e6279a93e",
+      "observedAt": "2026-10-29T01:22:40.773Z",
+      "before": null,
+      "after": {
+        "userId": "2e05d7b9-cad5-4b2a-97b8-cb0e6279a93e",
+        "slug": "dastee",
+        "name": "Dastee",
+        "trackId": "7229af45-67b8-4219-b105-dbb79508816f",
+        "submittedAt": "2026-10-29T00:07:34.935Z",
+        "durationSec": 114,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
+      "observedAt": "2026-10-29T01:22:40.773Z",
+      "before": null,
+      "after": {
+        "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
+        "slug": "nikita-nikman",
+        "name": "Никита Никман",
+        "trackId": "80ff51de-b29a-49ef-9c7a-0447de05181d",
+        "submittedAt": "2026-10-28T23:50:44.428Z",
+        "durationSec": 103,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
