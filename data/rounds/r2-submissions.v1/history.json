@@ -452,6 +452,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "904a4302-01ee-4b1a-82aa-141bdee73d5b",
+      "observedAt": "2026-10-29T10:32:40.689Z",
+      "before": {
+        "userId": "904a4302-01ee-4b1a-82aa-141bdee73d5b",
+        "slug": "luckystrikewhite",
+        "name": "luckystrikewhite",
+        "trackId": "ec825a03-db75-43bb-afcd-65d240f41444",
+        "submittedAt": "2026-10-25T07:05:32.243Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      },
+      "after": null
     }
   ]
 }
