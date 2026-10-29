@@ -467,6 +467,66 @@
         "submissionStatus": "submitted"
       },
       "after": null
+    },
+    {
+      "userId": "b91fb0a4-52e7-433d-b98b-6dbf9ac44b57",
+      "observedAt": "2026-10-29T13:03:25.401Z",
+      "before": null,
+      "after": {
+        "userId": "b91fb0a4-52e7-433d-b98b-6dbf9ac44b57",
+        "slug": "kind-evil",
+        "name": "Kind/Evil",
+        "trackId": "b95c6f53-8816-4043-b50e-e3f66e41fd95",
+        "submittedAt": "2026-10-29T08:52:07.494Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "11f3f853-9d32-4e3f-b326-cdb1721eb2b5",
+      "observedAt": "2026-10-29T13:03:25.401Z",
+      "before": null,
+      "after": {
+        "userId": "11f3f853-9d32-4e3f-b326-cdb1721eb2b5",
+        "slug": "wincent-dapooh",
+        "name": "Wincent Dapooh",
+        "trackId": "76f46f85-7cbd-43de-bedc-5fe2600d0dd5",
+        "submittedAt": "2026-10-29T06:03:30.940Z",
+        "durationSec": 116,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "904a4302-01ee-4b1a-82aa-141bdee73d5b",
+      "observedAt": "2026-10-29T13:03:25.401Z",
+      "before": null,
+      "after": {
+        "userId": "904a4302-01ee-4b1a-82aa-141bdee73d5b",
+        "slug": "luckystrikewhite",
+        "name": "luckystrikewhite",
+        "trackId": "ec825a03-db75-43bb-afcd-65d240f41444",
+        "submittedAt": "2026-10-25T07:05:32.243Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "f9ab4eca-4271-4583-af90-20586ebe1df6",
+      "observedAt": "2026-10-29T13:03:25.401Z",
+      "before": null,
+      "after": {
+        "userId": "f9ab4eca-4271-4583-af90-20586ebe1df6",
+        "slug": "avtaeved",
+        "name": "Avtaeved",
+        "trackId": "4805dd5f-7e68-4ab2-add2-e47c593cab4a",
+        "submittedAt": "2026-10-29T10:43:33.462Z",
+        "durationSec": 110,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
