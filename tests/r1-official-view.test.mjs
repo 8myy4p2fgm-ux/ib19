@@ -184,13 +184,13 @@ test('Without policy, old normalization and RoundContext remain unchanged; nothi
  assert.throws(()=>legacy.analytics.participantStatus(ZIPPY_ID),/outside/);assert(!normalizeData(snapshot.main,snapshot.forum).byId.has(ZIPPY_ID));
  for(const group of ['forum','veterans','reference']){const {provenance,...result}=ordinary.analytics.summary({group});assert.deepEqual(result,legacy.analytics.summary({group}));}
  const liveDir=new URL('../data/',import.meta.url),live={main:read('19ib_all_judges_REPAIRED.json',liveDir),forum:read('forum_judges_export.json',liveDir),metadata:read('metadata.json',liveDir)};
- const liveContext=createRoundContext(live);assert.equal(liveContext.runId,'2026-10-22T15:02:15.571Z');assert.equal(liveContext.data.events.length,16163);assert(!liveContext.data.byId.has(ZIPPY_ID));
+ const liveContext=createRoundContext(live);assert.equal(liveContext.runId,live.metadata.runId);assert.deepEqual(liveContext.data,{...normalizeData(live.main,live.forum),lastSuccessfulAt:live.metadata.lastSuccessfulAt,snapshotMetadata:structuredClone(live.metadata)});assert.equal(liveContext.data.events.length,16375);assert(!liveContext.data.byId.has(ZIPPY_ID));
  for(const name of ['app.js','round-context.js','data.js','judge-ranking-entry.js','pace-model.js'])assert(!fs.readFileSync(new URL('../js/'+name,import.meta.url),'utf8').includes('r1-official-'));
  assert.equal(calls,0);assert.equal(fingerprint(snapshot),before);
 });
 
 test('Candidate bytes and working baseline hashes still match the original manifests',()=>{
- const manifest=read('manifest.json'),sha=url=>createHash('sha256').update(fs.readFileSync(url)).digest('hex');
+ const manifest=read('manifest.json'),productionLock=JSON.parse(fs.readFileSync(new URL('../scripts/r1-archive-lock.json',import.meta.url))),sha=url=>createHash('sha256').update(fs.readFileSync(url)).digest('hex');
  for(const file of manifest.files)assert.equal(sha(new URL(file.path,root)),file.sha256,file.path);
- for(const [file,hash]of Object.entries(manifest.baseline.sha256))assert.equal(sha(new URL('../'+file,import.meta.url)),hash,file);
+ for(const [file,hash]of Object.entries(productionLock.files))assert.equal(sha(new URL('../'+file,import.meta.url)),hash,file);
 });

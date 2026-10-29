@@ -1,3 +1,4 @@
+import {isOfflinePresence,replyPresence}from './offline-presence-fixture.mjs';
 import {chromium} from 'playwright';
 import http from 'node:http';
 import fs from 'node:fs/promises';
@@ -22,7 +23,7 @@ try{
   const page=await browser.newPage({viewport:{width,height:1000}});
   page.on('pageerror',e=>errors.push(e.message));
   page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
-  await page.goto(base);await page.waitForSelector('.app:not([hidden])');
+  await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base);await page.waitForSelector('.app:not([hidden])');
   const mark=page.locator('.tuz-classic-mark');await mark.evaluate(e=>e.decode());
   assert.deepEqual(await page.locator('.tuz-brand-caption span').allTextContents(),['судейство','19-го независимого']);
   const expected=width>1279?[116,46]:width>1100?[110,44]:width>760?[100,40]:[75,30];
@@ -40,7 +41,7 @@ try{
   assert(Math.abs(after.y)<1,`sticky ${width}`);assert.equal(after.height,before.height);
   await page.locator('.site-header').screenshot({path:`${shots}/header-${width}.png`});
   for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link']]){
-   await page.goto(base+url);await page.waitForSelector(`#${id}.active`);await page.locator('.tuz-classic-mark').evaluate(e=>e.decode());
+   await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+url);await page.waitForSelector(`#${id}.active`);await page.locator('.tuz-classic-mark').evaluate(e=>e.decode());
   }
   await page.locator('.site-brand').click();await page.waitForSelector('#home.active');
   await page.close();

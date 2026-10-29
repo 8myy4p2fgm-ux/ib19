@@ -1,6 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs/promises';
 import {readPublicR1,splitPublicR1} from '../scripts/public-data.mjs';
 import {createOfficialR1View} from '../js/r1-official-view.js';
+import {ACTIVE_GROUP_DIRECTORY_VERSION} from '../js/group-directory-v2.js';
 import {loadR1ApplicationContext} from '../js/r1-application.js';
 import {createRankingModel} from '../js/judge-ranking-model.js';
 import {buildProfiles,pageScores,filterScores} from '../js/judge-profile-model.js';
@@ -18,8 +19,9 @@ test('Public source rejects changed grades, names, membership and metadata',()=>
 });
 test('Public loading fetches only pinned core until comments are requested',async t=>{
  const urls=[],split=splitPublicR1(snapshot);t.mock.method(globalThis,'fetch',async url=>{urls.push(url);return {ok:true,json:async()=>structuredClone(url.pathname.endsWith('core.json')?split.core:split.comments)};});
- const result=await loadR1ApplicationContext();assert.equal(result.snapshotKey,context.snapshotKey);assert.equal(urls.length,1);assert(urls[0].pathname.endsWith('/public-data/r1/core.json'));
- await result.comments.load();assert.equal(urls.length,2);assert(urls[1].pathname.endsWith('/public-data/r1/comments.json'));assert.deepEqual(result.data.events,context.data.events);
+ const active=createOfficialR1View(snapshot,{policyVersion,sourceContract:'r1-public-v1',groupDirectoryVersion:ACTIVE_GROUP_DIRECTORY_VERSION});
+ const result=await loadR1ApplicationContext();assert.equal(result.groupDirectoryVersion,'forum-veterans-2026-10-29-v2');assert.equal(result.selectGroup('forum').forumCount,75);assert.equal(result.selectGroup('veterans').forumCount,42);assert.notEqual(result.snapshotKey,context.snapshotKey);assert.equal(result.snapshotKey,active.snapshotKey);assert.equal(urls.length,1);assert(urls[0].pathname.endsWith('/public-data/r1/core.json'));
+ await result.comments.load();assert.equal(urls.length,2);assert(urls[1].pathname.endsWith('/public-data/r1/comments.json'));assert.deepEqual(result.data.events,active.data.events);assert.deepEqual(result.data.events.map(({forum,...score})=>score),context.data.events.map(({forum,...score})=>score));
 });
 test('Profiles retain 25/50 paging, official search and distinct archived identities',()=>{
  const data=context.data,before=structuredClone(data),profiles=buildProfiles(data);const p=[...profiles.values()].find(p=>p.count>50);

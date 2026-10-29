@@ -72,7 +72,7 @@ test('duplicate artist names remain separate UUIDs and forum names stay separate
  assert.equal(D.artists.size,2);assert.equal(D.artists.get('first').artistName,'Same name');assert.equal(D.artists.get('second').artistName,'Same name');
  assert.equal(D.metadata.get('first').forum_name,'Forum nickname');assert.equal(D.metadata.get('first').group,'OG');
  const model=buildForumLink(D);
- assert.equal(model.forum[0].name,'Forum nickname');assert.equal(model.forum[0].battleName,'Same name');
+ assert.equal(model.forum[0].name,'Same name');assert.equal(model.forum[0].battleName,'Same name');
  assert.equal(model.other[0].name,'Same name');assert.equal(selectForumRows(model.forum,{query:'same name'}).length,1);
  assert.equal(model.forum[0].battleProfile,'https://19ib.ru/artist/renamed-artist');
 });
@@ -81,8 +81,8 @@ test('unknown artist has an explicit label and UUID URL, never a forum nickname'
  const main=structuredClone(old);delete main.members[0].artistName;delete main.members[0].artistSlug;
  const D=normalizeData(main,forum),artist=artistIdentity(D,'first');
  assert.deepEqual(D.artists.get('first'),{artistName:null,artistSlug:null});
- assert.equal(artist.displayName,'Имя неизвестно');assert.equal(artist.userId,'first');assert.equal(artist.profileUrl,'https://19ib.ru/artist/first');
- assert.equal(artistIdentity(D,'no-record').displayName,'Имя неизвестно');
+ assert.equal(artist.displayName,'Имя недоступно');assert.equal(artist.userId,'first');assert.equal(artist.profileUrl,'https://19ib.ru/artist/first');
+ assert.equal(artistIdentity(D,'no-record').displayName,'Имя недоступно');
  D.artists.set('unsafe',{artistName:'<b>Artist</b>',artistSlug:'a/b?c'});
  assert.equal(artistIdentity(D,'unsafe').profileUrl,'https://19ib.ru/artist/a%2Fb%3Fc');
 });

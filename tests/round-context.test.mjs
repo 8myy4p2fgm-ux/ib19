@@ -6,7 +6,7 @@ import {normalizeData} from '../js/data.js';
 import {generalAt,participantStatus} from '../js/general.js';
 import {rankPersonalV4} from '../js/personal.js';
 
-const read=name=>JSON.parse(fs.readFileSync(new URL('../data/'+name,import.meta.url)));
+const read=name=>JSON.parse(fs.readFileSync(new URL('../docs/data-candidates/r1-2026-10-22-194208/'+name,import.meta.url)));
 const main=read('19ib_all_judges_REPAIRED.json'),forum=read('forum_judges_export.json'),metadata=read('metadata.json');
 const source={main,forum,metadata};
 const secondRound='235f6600-5224-4adf-bbcc-a220f4572251';
@@ -20,14 +20,14 @@ test('First-round context preserves baseline outcomes, TUZ, selections and ident
  const ctx=createRoundContext(source),D=normalizeData(main,forum);
  assert.equal(ctx.roundId,FIRST_ROUND_ID);assert.equal(ctx.runId,metadata.runId);assert.equal(ctx.exportedAt,main.exportedAt);
  assert.deepEqual([ctx.rules.scoresPerParticipant,ctx.rules.minScore,ctx.rules.maxScore,ctx.rules.passScore],[5,1,5,15]);
- assert.equal(ctx.data.people.length,3275);assert.equal(ctx.data.events.length,16163);
+ assert.equal(ctx.data.people.length,3275);assert.equal(ctx.data.events.length,16375);
  const counts={pass:0,fail:0,pending:0};
  for(const p of D.byId.values()){
   const actual=ctx.analytics.participantStatus(p.userId);
   assert.deepEqual(actual,participantStatus(p.scores));counts[actual.status]++;
  }
- assert.deepEqual(counts,{pass:2168,fail:1021,pending:86});
- for(const [group,n,expected] of [['forum',70,20.587238144070305],['veterans',28,31.765676721946903]]){
+ assert.deepEqual(counts,{pass:2217,fail:1058,pending:0});
+ for(const [group,n,expected] of [['forum',70,20.88681255323298],['veterans',28,32.123957385283475]]){
   const ids=new Set([...D.metadata].filter(([,p])=>(p.group==='Ветераны'||p.veteran===true)===(group==='veterans')).map(([id])=>id));
   const scores=D.events.map(e=>({...e,forum:ids.has(e.userId)})),at=Date.parse(D.updated),start=scores.find(e=>Number.isFinite(e.t))?.t;
   const baseline=generalAt(scores,ids.size,D.people.length-ids.size,start,at,{historical:false});

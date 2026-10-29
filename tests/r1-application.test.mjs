@@ -22,7 +22,7 @@ function mockRead(t,{change}={}){
 }
 
 test('Local application loads one complete candidate through the existing bracketed loader',async t=>{
- const requests=mockRead(t),view=await loadR1ApplicationContext();
+ const requests=mockRead(t),view=await loadR1ApplicationContext({source:'candidate'});
  assert.equal(ACTIVE_R1_SOURCE,'candidate');assert.equal(view.runId,R1_SOURCES.candidate.runId);assert.equal(view.policyVersion,'r1-official-zippy-v2');
  assert.deepEqual(requests.map(r=>r.file),['metadata.json','19ib_all_judges_REPAIRED.json','forum_judges_export.json','metadata.json']);
  assert(requests.every(r=>r.source==='candidate'));
@@ -32,10 +32,10 @@ test('Local application loads one complete candidate through the existing bracke
 });
 
 test('Every screen can use the same identity, rankings, profiles and exact TUZ without another load',async t=>{
- const requests=mockRead(t),view=await loadR1ApplicationContext(),D=view.data;
+ const requests=mockRead(t),view=await loadR1ApplicationContext({source:'candidate'}),D=view.data;
  D.participantOutcomes=new Map([...D.byId.keys()].map(id=>[id,view.analytics.participantOutcome(id)]));
  const ranking=createRankingModel(view);assert.equal(ranking.snapshotKey,view.snapshotKey);
- assert.equal(view.analytics.summary().index,20.884382840066547);assert.equal(view.analytics.summary({group:'veterans'}).index,32.123232268736096);assert.equal(view.analytics.summary({group:'reference'}).index,24.33011397644815);
+ assert.equal(view.analytics.summary().index,21.389076988391267);assert.equal(view.analytics.summary({group:'veterans'}).index,35.21405586201392);assert.equal(view.analytics.summary({group:'reference'}).index,26.68821585282726);
  const profiles=D.byId.get(ZIPPY_ID).scores.map(s=>ranking.profile(D.judgeIdentities.get(s.judgeName)).rows.filter(r=>r.userId===ZIPPY_ID));
  assert.equal(profiles.flat().length,5);assert(profiles.flat().every(s=>s.officialException.label==='5 действительных оценок · официальный проход'&&s.officialException.scoreTotal===15&&s.officialException.scoreMaximum===25));
  const people=buildForumLink(D);assert(!people.forum.some(p=>p.id===ZIPPY_ID));assert.equal(people.other.find(p=>p.id===ZIPPY_ID).status,'pass');
@@ -57,6 +57,6 @@ test('Changed metadata during a read retries the whole source instead of mixing 
  const requests=mockRead(t,{change:(body,{file,requests})=>{
   if(file==='metadata.json'&&requests.filter(r=>r.file===file).length===2)body.runId='changed-mid-read';return body;
  }});
- const view=await loadR1ApplicationContext();assert.equal(view.runId,R1_SOURCES.candidate.runId);
+ const view=await loadR1ApplicationContext({source:'candidate'});assert.equal(view.runId,R1_SOURCES.candidate.runId);
  assert.equal(requests.filter(r=>r.file==='history.json').length,0);assert.equal(requests.filter(r=>r.file==='19ib_all_judges_REPAIRED.json').length,2);assert.equal(requests.filter(r=>r.file==='metadata.json').length,4);
 });

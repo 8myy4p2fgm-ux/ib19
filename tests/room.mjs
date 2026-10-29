@@ -1,3 +1,4 @@
+import {isOfflinePresence,replyPresence}from './offline-presence-fixture.mjs';
 import {revealHeader,setHeaderLight} from './header-controls.mjs';import {nav} from './browser-support.mjs';
 import {chromium} from 'playwright';
 import http from 'node:http';
@@ -23,7 +24,7 @@ try{
   const context=await browser.newContext({viewport:{width,height:1000}}),page=await context.newPage();
   page.on('pageerror',e=>errors.push(e.message));
   page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
-  await page.goto(base);await page.waitForSelector('#carrot-loader',{state:'detached'});await page.locator('.room-wall.room-on-full-ready').waitFor();await page.waitForTimeout(750);
+  await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base);await page.waitForSelector('#carrot-loader',{state:'detached'});await page.locator('.room-wall.room-on-full-ready').waitFor();await page.waitForTimeout(750);
   const compact=await revealHeader(page);const header=page.locator('.site-header'),initial=await header.boundingBox();
   const mainY=await page.locator('.main').evaluate(e=>e.getBoundingClientRect().top+scrollY);
   const control=page.locator(compact?'.room-mobile-light':'.room-switch');
@@ -72,7 +73,7 @@ try{
   await context.close();
  }
  const context=await browser.newContext({reducedMotion:'reduce'}),page=await context.newPage();
- await page.goto(base);await page.waitForSelector('.room-off',{state:'attached'});
+ await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base);await page.waitForSelector('.room-off',{state:'attached'});
  assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e).transitionDuration),'0s');
  assert.equal(await page.locator('.room-off').evaluate(e=>getComputedStyle(e,'::after').transitionDuration),'0s');
  await context.close();assert.deepEqual(errors,[]);

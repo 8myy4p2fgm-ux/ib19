@@ -1,0 +1,721 @@
+// DATA-04: approved UUID membership only. No display names or private aliases.
+const definition={
+ "version": "forum-veterans-2026-10-29-v2",
+ "baseVersion": "r1-source-2026-10-22",
+ "approvedAt": "2026-10-29",
+ "baseFingerprint": "465220c9a6bc56e638746ec56ca1b3836fb9c6761f118c80f3a293fbf4bbe9c7",
+ "fingerprint": "c4889b4b530f67584c7bafb96a26073d3877063ca2fa62865a8b197ddfea2871",
+ "members": [
+  {
+   "userId": "839120d8-4a8c-41af-ad23-c4bf07f921db",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "cdcf2f1f-bbaf-428a-a39f-c40fba146700",
+   "group": "OG",
+   "veteran": false,
+   "current": false
+  },
+  {
+   "userId": "da4fc5d4-72e5-42cc-ba22-c97e16dd36e8",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "44ac1525-26ae-4806-ac30-cc0a25a3a77d",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "45bcb5ab-7041-44bc-9927-5e781ba64cc0",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "75c87ba6-02f7-4b26-9f8d-b8770cd1e5a8",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "83e7ecd4-9193-410f-bdb1-c8d82a813925",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "57b05478-7a52-4317-b031-b3dc098dcddc",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "2dcd4222-701c-44b8-87e5-12aba6fc1f20",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "fb1aba96-bef3-46d5-a938-13757c8f5345",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c5b9cd83-be7f-40f6-84c0-56c953668474",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "cd226152-4bf7-4fca-93d5-2e203bca663b",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "7454b369-c32f-4991-8ebe-fddb934cd081",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c3f53684-2829-4978-8e08-3b80055899de",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "fcf257a4-195a-4511-ad4b-2b715aa86998",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c79c34fd-bb6c-4dae-9af7-a49497050eae",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "8dddad03-997f-4d63-8875-dff4bc25ee42",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "0a504dbb-4bdf-40b1-a05c-75240aa6fffe",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "86993b62-df9a-40a8-9cd2-86850eb174c9",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "4bee7e0a-2259-4638-ad56-bc048e87e770",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "0460e777-7403-40dd-8176-fd168c93a530",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "682f1dd7-6db7-4426-b146-1030c0413ab8",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "15f0cda3-bb69-40da-a885-2fd8c5bbfd1a",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "996feee0-429f-42e5-a11d-baa19b285d34",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "a3adc516-3ff1-4359-8016-e85e8003f927",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "37df774d-fc67-4944-94be-639ee0a1c21e",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "83204f1b-a6b0-4384-b11c-35cf08e07918",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "9b5fb87a-8bd5-4d67-897a-01de40193e13",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "a344a08d-4c58-412b-8820-b6b79297986f",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "17599f82-3005-4a36-b03f-baf9b77fe111",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "2aba733f-d78e-439a-9e68-6077a8d5f522",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c7d504ea-6909-4a54-ac4f-fbd1f40b9f27",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "74e2eb05-34ac-45b4-b890-05b0e9373f48",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "f9240ebb-8bcf-4588-8dcf-4f16638f451d",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c9d57a88-4bed-4a62-9b12-25ae24e66c24",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "43acacc8-d87d-4511-ac44-8132958f8577",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "78110385-8c95-4c42-af3e-6392f0d0d689",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "d4b2cdcd-a8a2-4db5-b3cb-ec943eda45a7",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "ba1fd5a5-67f7-4c2d-bab9-fbbf30e2efb6",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "0297ea20-7a17-4cf3-ab8d-e65102b27693",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "71098a61-2b3c-4dab-8fc0-a8d4e1176f1a",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "97994dce-47f3-413b-94da-f98a122899b4",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "3fafd464-bba7-4b4d-91cc-4a05fe1d7a1a",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "bd00f9e0-d0c3-405d-b820-94a0fa7bdf59",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "417dca0e-b615-4672-bb35-a6d84a6d268d",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "f0ca7e81-f6b3-4a66-b968-a163d0affdeb",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "7f7b10e9-87ca-478d-9573-74ebc062da93",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "d923e0cc-58b6-403c-a4e3-1a8b0490fe16",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "b70d3319-fb7b-4735-a6c8-b28a2a095f8e",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "bf797c99-b78a-410e-95f3-cbe17dc1baaf",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "dd186eef-55e0-43b5-8c88-9cba27a653af",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "49c6edba-3a85-412e-9bb5-4406b1d5f7e4",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "0394139d-5eb3-428d-9e81-8e6fff5225ee",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "3af2dde8-c796-4a1d-b346-63e033316299",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "43a85297-d94d-4036-886c-4f5d2d9169e2",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c07c7ab1-b00b-4d00-ac3d-e1edb735953e",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c5413ea5-b0bb-4fae-a345-4789a64e668b",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "82e316f7-4a9b-4e45-ab28-9237e5affea7",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "dad9cda1-d6bf-47de-9b46-3bf9b758a77c",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "562f277b-0422-4364-89ea-ef312749c044",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "e5adc7c0-1e5c-49f1-bde7-dee42d7e6722",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "50a444d8-2cef-498a-8ee5-3379aba5707b",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "f266d10e-1f69-471e-ab35-65e5f5a30c0a",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "efa254a2-623f-4850-81f7-b193a948330c",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "d6f9868b-d11c-42fe-8646-f2307fb96666",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "5e19569c-2a2c-4cff-bee8-4d1fca9bde65",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "f4a033ed-ada1-4d4a-be29-32161494477f",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "863e1153-ec9d-4096-b994-b93285d4fdf5",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "d10c3e25-c5ef-40ac-b1ec-8edbd7653cd6",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "d20863b5-a860-4c8d-b81f-62b86142583f",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "fe413062-8168-4d8f-8488-b4a84310dca2",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "2e8880e2-e6a3-4dad-857b-bb596ca2b503",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "ef3d7a5e-752e-4831-8d52-c434bb54f7b0",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "05774623-7093-4feb-a42a-e97e34033bcd",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "5828f619-1789-42d7-9c90-22547b7d624c",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "b998a194-905b-431d-8bdd-2a69c20b9bfc",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "711799cf-4eb7-4c12-bebe-4d860116b7ba",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "de9df680-7d1a-43c8-bffc-393ef359dd11",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "8250c185-004d-4c43-88bb-f7328b14d208",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "72b0ab38-3813-4536-9d9b-b88291f34e3d",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "728340ba-1dbf-4a6f-9bbb-26cc2ffd9dc1",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "6a786ca1-0ccf-4f54-8e40-2d2002035aea",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "73718cb1-6ecc-4726-ae59-35e24f759802",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "91fffc83-f176-4c7b-8971-3e888ac8e013",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "611f803e-78a2-4433-8b25-6bf65357cca3",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "ad7db469-9214-4d59-831c-c48eae2affa5",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "9484c644-8d4e-42c8-9717-3b7b4cb95e73",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "68b93742-c0cc-499d-935f-230956b4e3a7",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "15e2357c-e431-482e-9956-2f3a13c43d57",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "b3a0fb99-8389-4b1d-97f6-a58c1854d09b",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "c095192e-f760-41c6-b8ac-a61ea2040a61",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "6f42487e-fd90-48f9-b80d-bbdd07c0e878",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "fde76c39-25c3-4dca-8e8e-a38612bc2e1f",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "47cc662a-107b-4d91-befd-8ef195d1db9d",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "811c7f4e-611f-48f6-82e8-4b4202a66739",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "83d8f01d-7dcf-41cf-a48a-4fa468070460",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "7927b2c8-ec79-4eff-a144-4f990ca7308e",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "66caebea-d33d-4ff6-951c-91ed9d93c4be",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "67579723-cfb5-4450-809c-ceaec3fd658f",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "5d281318-b784-48d4-9ac7-3bb3e8115d29",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "d5429320-f4eb-4e38-b5fe-d99b1a748605",
+   "group": "OG",
+   "veteran": false,
+   "current": true
+  },
+  {
+   "userId": "4e415bc4-c099-499c-acb0-4da84ccdfae8",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "b30ca8f5-2cbb-4794-8c04-352d5f938469",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "d7857008-483f-40d2-af92-c2989d236db6",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "df00ad5b-10c6-432a-88ce-35595fc027eb",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "05ce4bb1-e2b0-4c3a-aba7-d88dd4f3e7cb",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "e6e8f056-27cb-4914-a49a-b0c083e0da93",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "3dbdcdb2-e94f-4be2-badc-74eaa73a2030",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "a4b65f53-933d-4b3b-a464-4689177dff8c",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "ab9e1de5-99d4-490c-bc2e-634a86f1a223",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "a110522a-7306-421b-8a4b-fc162ea5c024",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "826b630f-7a6f-415d-975e-26c721f6c2c9",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "9e981b0f-495e-475c-aef5-df75c7da568c",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "f5b5ffb8-3019-4a57-8c50-e90c3e161626",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "70114b21-3ae7-4be4-a062-e3d296165402",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "4c8f5014-e47c-4de4-aa5e-d57ca6ab19dc",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "1f0da752-ea50-418b-9672-5f481491b638",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  },
+  {
+   "userId": "4b0b4aca-5f74-4147-88ae-737d4d54de6b",
+   "group": "Ветераны",
+   "veteran": true,
+   "current": true
+  }
+ ]
+};
+definition.members=Object.freeze(definition.members.map(Object.freeze));
+export const GROUP_DIRECTORY_V2=Object.freeze(definition);
+export const ACTIVE_GROUP_DIRECTORY_VERSION=GROUP_DIRECTORY_V2.version;

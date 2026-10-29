@@ -1,3 +1,4 @@
+import {applyR1GroupDirectory} from './group-directory.js';
 import {CORE_R1_CONTRACT,coreR1Contract} from './r1-core-contract.js';
 import {PUBLIC_R1_CONTRACT,publicR1Contract} from './r1-public-contract.js';
 import {FIXED_R1_CONTRACT,fixedR1Contract} from './r1-fixed-contract.js';
@@ -14,13 +15,13 @@ const requireValue=(condition,message)=>{if(!condition)throw new Error(message);
 // Offline opt-in adapter. No JSON loader, shared cache, UI activation or edits
 // to RoundContext. Existing partition/normalization validates the base first;
 // only registry-authorized quarantine records are then admitted to this copy.
-export function createOfficialR1View(snapshot={}, {policyVersion=STANDARD_R1_POLICY_VERSION,sourceContract='full'}={}){
- return createOfficialR1ViewForPolicy(snapshot,officialR1Policy(policyVersion),{sourceContract});
+export function createOfficialR1View(snapshot={}, {policyVersion=STANDARD_R1_POLICY_VERSION,sourceContract='full',groupDirectoryVersion=null}={}){
+ return createOfficialR1ViewForPolicy(snapshot,officialR1Policy(policyVersion),{sourceContract,groupDirectoryVersion});
 }
 
 // Trusted-code entry for testing future reviewed source approvals. The application
 // always resolves its policy from the code registry above, never from source JSON.
-export function createOfficialR1ViewForPolicy(snapshot={},policy,{sourceContract='full'}={}){
+export function createOfficialR1ViewForPolicy(snapshot={},policy,{sourceContract='full',groupDirectoryVersion=null}={}){
  const {main,forum,metadata,history}=snapshot,hashes=new Map();
  const hash=value=>{if(!hashes.has(value))hashes.set(value,contentHash(value));return hashes.get(value);};
  requireValue(sourceContract===CORE_R1_CONTRACT||sourceContract==='full'||sourceContract===FIXED_R1_CONTRACT||sourceContract===PUBLIC_R1_CONTRACT,'Unknown R1 source contract');
@@ -72,11 +73,13 @@ export function createOfficialR1ViewForPolicy(snapshot={},policy,{sourceContract
  data.events.sort((a,b)=>a.t-b.t);sourceObservedEvents.sort((a,b)=>a.t-b.t);
  const eventKeys=data.events.map(e=>JSON.stringify([e.userId,e.judge]));
  requireValue(new Set(eventKeys).size===eventKeys.length,'Duplicate official analytics event');
+ if(groupDirectoryVersion)applyR1GroupDirectory(data,sourceObservedEvents,groupDirectoryVersion);
  const sourceSelectionVersion=metadata.selectionVersion;
  // A semantic version of the derived selection; never written into source metadata.
- const selectionVersion=exceptions.size?JSON.stringify([sourceSelectionVersion,policy.version]):sourceSelectionVersion;
+ const policySelectionVersion=exceptions.size?JSON.stringify([sourceSelectionVersion,policy.version]):sourceSelectionVersion;
+ const selectionVersion=groupDirectoryVersion?JSON.stringify([policySelectionVersion,groupDirectoryVersion]):policySelectionVersion;
  const correctionFingerprint=policy.exceptions.find(r=>r.cancelledEvent)?.cancelledEvent.fingerprint;
- const identity=Object.freeze({...(correctionFingerprint?{correctionFingerprint}:{}),roundId:base.roundId,runId:base.runId,exportedAt:base.exportedAt,sourceSelectionVersion,selectionVersion,policyVersion:policy.version});
+ const identity=Object.freeze({...(groupDirectoryVersion?{groupDirectoryVersion}:{}),...(correctionFingerprint?{correctionFingerprint}:{}),roundId:base.roundId,runId:base.runId,exportedAt:base.exportedAt,sourceSelectionVersion,selectionVersion,policyVersion:policy.version});
  const snapshotKey=JSON.stringify([identity.roundId,identity.runId,identity.exportedAt,identity.selectionVersion,identity.policyVersion,...(correctionFingerprint?[correctionFingerprint]:[])]);
  function selectGroup(group='forum'){
   requireValue(['forum','veterans','reference'].includes(group),'Unknown official analytics group');

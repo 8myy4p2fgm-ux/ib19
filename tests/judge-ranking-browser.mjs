@@ -1,3 +1,4 @@
+import {isOfflinePresence,replyPresence}from './offline-presence-fixture.mjs';
 import {setHeaderLight} from './header-controls.mjs';
 import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
@@ -16,7 +17,7 @@ try{
  browser=await chromium.launch({headless:true});
  for(const width of [375,390,768,1440,1920]){
   const ctx=await browser.newContext({viewport:{width,height:1000},reducedMotion:'reduce'});
-  await ctx.route('**/*',r=>{const u=new URL(r.request().url());if(u.origin!==base){external.push(u.href);return r.abort();}if(u.pathname.endsWith('.json'))dataRequests.push(u.pathname);return r.continue();});
+  await ctx.route('**/*',r=>{if(isOfflinePresence(r))return replyPresence(r);const u=new URL(r.request().url());if(u.origin!==base){external.push(u.href);return r.abort();}if(u.pathname.endsWith('.json'))dataRequests.push(u.pathname);return r.continue();});
   const p=await ctx.newPage();p.on('pageerror',e=>errors.push(e.message));
   await p.goto(base+'/judges/');await p.waitForSelector('[data-ranking-ready]');await p.waitForSelector('#carrot-loader',{state:'detached'});
   const dataBefore=dataRequests.length;
@@ -68,7 +69,7 @@ try{
    await trigger.scrollIntoViewIfNeeded();const savedY=await p.evaluate(()=>scrollY),savedLocal=await scroll.evaluate(e=>({top:e.scrollTop,left:e.scrollLeft}));
    await trigger.click();await p.waitForSelector('.ranking-dialog[open]');
    await p.mouse.move(2,2);await p.mouse.wheel(0,500);await p.waitForTimeout(50);assert.equal(await p.evaluate(()=>scrollY),savedY,'modal blocks background wheel scrolling');
-   assert.equal(await p.locator('.ranking-dialog').getAttribute('data-kind'),'profile');
+   assert.equal(await p.locator('.ranking-dialog').getAttribute('data-kind'),'judge-card');
    assert.equal(await p.locator('.ranking-distribution button').count(),5);
    assert.equal(await p.locator('#ranking-profile-search').inputValue(),'');
    assert.equal(await p.locator('#ranking-profile-page').textContent(),`Страница 1 из ${Math.ceil(profile.count/25)}`);
@@ -77,9 +78,9 @@ try{
    const grade=profile.rows.find(s=>s.artistName)?.score??1;
    await choose(p,'ranking-profile-grade',String(grade));
    const expected=pageScores(profile.rows,{grade:String(grade)});
-   assert.equal(await p.locator('#ranking-profile-count').textContent(),`Найдено ${expected.total} из ${profile.count} оценок`);
+   assert.equal(await p.locator('#ranking-profile-count').textContent(),`Найдено ${expected.total.toLocaleString('ru-RU')} из ${profile.count.toLocaleString('ru-RU')} оценок`);
    const match=expected.rows.find(s=>s.artistName)||expected.rows[0];
-   await p.locator('#ranking-profile-search').fill(match.userId);assert.equal(await p.locator('[data-profile-user]').count(),1);
+   await p.locator('#ranking-profile-search').fill(match.artistName);assert.equal(await p.locator('[data-profile-user]').count(),1);
    await p.locator('#ranking-profile-search').fill('нет такого участника INT04');assert.equal(await p.locator('[data-profile-user]').count(),0);assert(await p.locator('.ranking-empty').isVisible());
    await p.locator('#ranking-profile-reset').click();await choose(p,'ranking-profile-order','oldest');
    assert.deepEqual(await p.locator('[data-profile-user]').evaluateAll(es=>es.map(e=>e.dataset.profileUser)),pageScores(profile.rows,{order:'oldest'}).rows.map(s=>s.userId));
@@ -111,20 +112,20 @@ try{
   await setHeaderLight(p,'off');await overflow();await p.screenshot({path:`${output}/ranking-light-off-${width}.png`,fullPage:true});
   await p.locator('[data-ranking-name] [data-ranking-profile]').first().click();await p.waitForSelector('.ranking-dialog[open]');await p.screenshot({path:`${output}/profile-light-off-${width}.png`});await p.keyboard.press('Escape');await p.waitForSelector('.ranking-dialog[open]',{state:'hidden'});
   await setHeaderLight(p,'on');
-  assert.equal(dataRequests.length,dataBefore,'ranking, dialog, light and filters never reload JSON');
-  // Existing full URL profile keeps its 50-row behavior.
-  const fullKey=model.profileKey(judges[0].judge);await p.goto(base+'/judges/?judge='+fullKey);await p.waitForSelector('#jp-rows [data-jp-user]');assert.equal(await p.locator('#jp-rows [data-jp-user]').count(),50);
-  await p.locator('#jp-next').click();assert((await p.locator('#jp-page').textContent()).includes('Страница 2'));
-  await p.locator('#jp-back').click();await p.waitForSelector('[data-ranking-ready]');
+  assert.deepEqual(dataRequests.slice(dataBefore),['/public-data/r1/comments.json'],'first modal loads comments once; rankings, filters and paging reuse core/comments');
+  // Legacy full URL opens the same current 25-row modal and is normalized safely.
+  const fullKey=model.profileKey(judges[0].judge);await p.goto(base+'/judges/?judge='+fullKey);await p.waitForSelector('.judge-card-dialog[open] .ranking-score');assert.equal(await p.locator('.judge-card-dialog[open] .ranking-score').count(),25);
+  await p.locator('#ranking-profile-next').click();assert((await p.locator('#ranking-profile-page').textContent()).includes('Страница 2'));
+  await p.locator('[data-ranking-close]').click();await p.waitForSelector('[data-ranking-ready]');assert(!new URL(p.url()).searchParams.has('judge'));
   // SPA navigation/back keeps UI state and does not load a second snapshot.
   await p.locator('[data-ranking-group="veterans"]').click();const requestsBeforeSPA=dataRequests.length;
   await nav(p,'home');await p.goBack();await p.waitForSelector('#judges.active');
   assert.equal(await p.locator('[data-ranking-group="veterans"]').getAttribute('aria-pressed'),'true');assert.equal(dataRequests.length,requestsBeforeSPA);
   assert(!dataRequests.some(n=>n==='/data/history.json'));
   console.log('Width passed:',width);
-  checks.push({width,ratingSorts:'6 × 2 × 2 groups',profiles:2,paging:'all rows',B13:width<=390?'passed':'n/a',dialogs:'Escape/close/backdrop/Tab/focus/scroll passed',URLProfile:50,external:0});
+  checks.push({width,ratingSorts:'6 × 2 × 2 groups',profiles:2,paging:'all rows',B13:width<=390?'passed':'n/a',dialogs:'Escape/close/backdrop/Tab/focus/scroll passed',URLProfile:25,blockedAnalytics:2,unexpectedExternal:0});
   await ctx.close();
  }
- assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
+ assert.deepEqual(errors,[]);assert.equal(external.length,checks.length*2);assert.deepEqual([...new Set(external)],['https://static.cloudflareinsights.com/beacon.min.js'],'only the existing production beacon is attempted and aborted; no other external origin is permitted');
  fs.writeFileSync(`${output}/results.json`,JSON.stringify({passed:true,snapshot:context.exportedAt,checks,errors,external},null,2));console.log(JSON.stringify({passed:true,checks,errors,external}));
 }finally{if(browser)await browser.close();server.kill();}

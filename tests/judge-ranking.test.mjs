@@ -68,9 +68,9 @@ test('Shared score paging supports 25/50, combined filters, empty results and du
  assert.equal(pageScores(rows).rows.length,25);assert.equal(pageScores(rows,{pageSize:50}).rows.length,50);
  assert.equal(pageScores(rows,{page:100}).page,3);assert.equal(pageScores(rows,{page:-2}).page,1);
  assert.equal(pageScores(rows,{query:'невозможный поиск'}).total,0);
- const expected=sortScores(filterScores(rows,{query:'форум',grade:'1'}),'oldest');
- assert.deepEqual(pageScores(rows,{query:'форум',grade:'1',order:'oldest'}).rows,expected);
- assert.equal(pageScores(rows,{query:'64'}).rows[0].userId,'64');
+ const expected=rows.filter(r=>r.score===1).sort((a,b)=>Date.parse(a.scoredAt)-Date.parse(b.scoredAt));
+ assert.deepEqual(pageScores(rows,{query:'Одинаковое имя',grade:'1',order:'oldest'}).rows,expected);
+ assert.equal(pageScores(rows,{query:'64'}).total,0);assert.equal(pageScores(rows,{query:'форум'}).total,0);assert.equal(pageScores(rows,{page:1}).rows[0].userId,'64');
  assert.equal(pageScores(rows,{query:'Одинаковое имя'}).total,65);assert.deepEqual(rows,before);
 });
 

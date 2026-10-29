@@ -1,3 +1,4 @@
+import {ACTIVE_GROUP_DIRECTORY_VERSION} from './group-directory-v2.js';
 import {CORE_R1_CONTRACT} from './r1-core-contract.js';
 import {joinR1Comments} from './r1-comments-contract.js';
 import {PUBLIC_R1_CONTRACT} from './r1-public-contract.js';
@@ -23,20 +24,20 @@ export async function loadR1ApplicationContext({source='public'}={}){
  const D=await loadData({dataRoot:new URL(selected.directory,import.meta.url),includeSource:true,includeHistory:!selected.sourceContract,validateMetadata(meta){
   if(meta?.source?.roundId!==FIRST_ROUND_ID||meta.source.round?.id!==FIRST_ROUND_ID||meta.runId!==selected.runId||meta.exportedAt!==selected.runId||meta.forumExportedAt!==selected.runId)throw new Error('Unexpected local R1 snapshot');
  }});
- return createOfficialR1View(D.sourceSnapshot,{policyVersion:selected.policyVersion,sourceContract:selected.sourceContract});
+ return createOfficialR1View(D.sourceSnapshot,{policyVersion:selected.policyVersion,sourceContract:selected.sourceContract,groupDirectoryVersion:ACTIVE_GROUP_DIRECTORY_VERSION});
 }
 
 async function loadPublicCore(){
  const policyVersion=R1_SOURCES.candidate.policyVersion;
  let core;
- const base=await loadData({resource:new URL('../public-data/r1/core.json',import.meta.url),validateResource(value){core=value;return createOfficialR1View(value,{policyVersion,sourceContract:CORE_R1_CONTRACT});}});
+ const base=await loadData({resource:new URL('../public-data/r1/core.json',import.meta.url),validateResource(value){core=value;return createOfficialR1View(value,{policyVersion,sourceContract:CORE_R1_CONTRACT,groupDirectoryVersion:ACTIVE_GROUP_DIRECTORY_VERSION});}});
  let pending,complete;
  const comments=Object.freeze({get ready(){return !!complete;},load(){
   if(complete)return Promise.resolve(complete.data);
   pending??=loadData({resource:new URL('../public-data/r1/comments.json',import.meta.url),validateResource(value){
    const snapshot=joinR1Comments(core,value);
    // Same approved full public contract, exact comments and legacy audit behavior.
-   return createOfficialR1View(snapshot,{policyVersion,sourceContract:PUBLIC_R1_CONTRACT});
+   return createOfficialR1View(snapshot,{policyVersion,sourceContract:PUBLIC_R1_CONTRACT,groupDirectoryVersion:ACTIVE_GROUP_DIRECTORY_VERSION});
   }}).then(view=>{complete=view;}).catch(error=>{pending=null;throw error;});
   return pending.then(()=>complete.data);
  }});

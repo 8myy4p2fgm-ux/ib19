@@ -1,3 +1,4 @@
+import {ACTIVE_GROUP_DIRECTORY_VERSION} from '../js/group-directory-v2.js';
 import test from 'node:test';import assert from 'node:assert/strict';
 import {readPublicR1,splitPublicR1} from '../scripts/public-data.mjs';
 import {joinR1Comments} from '../js/r1-comments-contract.js';
@@ -28,7 +29,7 @@ test('Comments reject loss, duplicates, mismatched grade/timestamp, extra record
 test('Home requests only core; concurrent comments share one existing loader request; data remains isolated',async t=>{
  const urls=[];t.mock.method(globalThis,'fetch',async url=>{urls.push(url.pathname);return {ok:true,json:async()=>structuredClone(url.pathname.endsWith('core.json')?core:comments)};});
  const c=await loadR1ApplicationContext();assert.equal(urls.length,1);assert.equal(c.comments.ready,false);assert(c.data.events.every(s=>s.comment===undefined));
- const [a,b]=await Promise.all([c.comments.load(),c.comments.load()]);assert.equal(urls.length,2);assert.equal(c.comments.ready,true);assert.deepEqual(a.events,view(snapshot).data.events);
+ const [a,b]=await Promise.all([c.comments.load(),c.comments.load()]);assert.equal(urls.length,2);assert.equal(c.comments.ready,true);assert.deepEqual(a.events,createOfficialR1View(snapshot,{policyVersion,sourceContract:'r1-public-v1',groupDirectoryVersion:ACTIVE_GROUP_DIRECTORY_VERSION}).data.events);
  a.events[0].comment='caller mutation';assert.notEqual(c.data.events[0].comment,a.events[0].comment);
  // Concurrent callers receive private data projections, not the same mutable object.
  assert.notStrictEqual(a,b);

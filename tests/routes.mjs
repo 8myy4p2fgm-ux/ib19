@@ -1,3 +1,4 @@
+import {isOfflinePresence,replyPresence}from './offline-presence-fixture.mjs';
 import {nav} from './browser-support.mjs';
 import {chromium} from 'playwright';
 import http from 'node:http';
@@ -34,18 +35,18 @@ try{
   history.pushState=function(...args){window.__pushes++;return push.apply(this,args);};
  });
  for(const [url,title] of cases){
-  const response=await page.goto(base+url,{waitUntil:'domcontentloaded'});
+  await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());const response=await page.goto(base+url,{waitUntil:'domcontentloaded'});
   assert.equal(response.status(),200,url);
   await page.waitForSelector('.app:not([hidden])');
   assert.equal(new URL(page.url()).pathname,url);
   assert.equal(await page.title(),`${title} — TUZ19`);
   assert.equal(await page.locator('#page-title').textContent(),title);
   assert.equal(await page.locator('script[data-cf-beacon]').count(),1);
-  assert.equal(await page.locator('.site-header .nav').count(),5);
+  assert.equal(await page.locator('.site-header .nav').count(),6);
  }
- await page.goto(base+'/');
+ await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+'/');
  await page.waitForSelector('#carrot-loader',{state:'detached'});
- await page.locator('a[data-report-link][href*="rappers"][href*="participants"]').click();
+ await page.locator('a[data-report-kind="rappers"][data-report-id="participants"]').click();
  assert.equal(new URL(page.url()).pathname,'/rappers/');
  await page.goBack();assert.equal(new URL(page.url()).pathname,'/');
  await page.evaluate(()=>window.__pushes=0);
@@ -65,15 +66,15 @@ try{
   ['overview','/'],['dynamics','/dynamics/'],['judges','/judges/'],['forum-link','/rappers/'],['events','/events/'],
   ['judge/example','/judges/'],['participant/example','/rappers/']
  ]){
-  await page.goto(base+'/#/round/1/'+oldPath);
+  await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+'/#/round/1/'+oldPath);
   await page.waitForSelector('.app:not([hidden])');
   assert.equal(new URL(page.url()).pathname,newPath,oldPath);
   assert.equal(new URL(page.url()).hash,'',oldPath);
  }
- await page.goto(base+'/#/round/1/events?type=pass');await page.waitForSelector('.app:not([hidden])');
+ await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+'/#/round/1/events?type=pass');await page.waitForSelector('.app:not([hidden])');
  assert.equal(new URL(page.url()).pathname,'/events/');assert.equal(new URL(page.url()).search,'?type=pass');
  assert.equal(await page.locator('#event-type').inputValue(),'pass');
- await page.goto(base+'/ib19/rappers/');await page.waitForSelector('.app:not([hidden])');
+ await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+'/ib19/rappers/');await page.waitForSelector('.app:not([hidden])');
  assert.equal(await page.title(),'Реперы — TUZ19');
  assert.equal(await page.locator('.nav[data-tab="judges"]').getAttribute('href'),'/ib19/judges/');
  await page.locator('.nav[data-tab="judges"]').click();assert.equal(new URL(page.url()).pathname,'/ib19/judges/');

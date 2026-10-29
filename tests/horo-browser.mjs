@@ -1,3 +1,4 @@
+import {isOfflinePresence,replyPresence}from './offline-presence-fixture.mjs';
 import {revealHeader} from './header-controls.mjs';
 import {chromium} from 'playwright';
 import fs from 'node:fs/promises';import http from 'node:http';import path from 'node:path';import assert from 'node:assert/strict';
@@ -11,7 +12,7 @@ try{
  await context.route('https://static.cloudflareinsights.com/**',r=>r.fulfill({status:200,contentType:'application/javascript',body:''}));
  const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(r.status()+' '+r.url())});
  for(const width of [1440,1024,768,390,320]){
-  await page.setViewportSize({width,height:1000});await page.goto(base+'/');await page.waitForSelector('.app:not([hidden])');
+  await page.setViewportSize({width,height:1000});await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+'/');await page.waitForSelector('.app:not([hidden])');
   await revealHeader(page);const oldHeight=await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().height);
   await page.locator('.nav-horo').click();await page.waitForSelector('#horo.active .horo-note');
   assert.equal(new URL(page.url()).pathname,'/horo/');assert.equal(await page.locator('#page-title').innerText(),'Хо-ро-шо. По форумному');
@@ -38,7 +39,7 @@ try{
   await page.locator('.horo-image').first().click();await page.locator('.horo-close').click();assert.equal(await page.locator('dialog[open]').count(),0);
   await page.reload();await page.waitForSelector('.horo-note');assert.equal(await page.locator('.horo-note[open]').count(),0);
   await page.evaluate(()=>scrollTo(0,900));assert(Math.abs((await page.locator('.site-header').boundingBox()).y)<1);
-  for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link'],['/events/','events-page']]){await page.goto(base+url);await page.waitForSelector('#'+id+'.active');assert.equal(await page.locator('.nav-horo').count(),1);await revealHeader(page);assert(await page.locator('.shell-round-label').isVisible());assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('#round-select').inputValue(),'1');}
+  for(const [url,id]of [['/dynamics/','dynamics'],['/judges/','judges'],['/rappers/','forum-link'],['/events/','events-page']]){await page.route('**/*',r=>isOfflinePresence(r)?replyPresence(r):new URL(r.request().url()).origin===base?r.continue():r.abort());await page.goto(base+url);await page.waitForSelector('#'+id+'.active');assert.equal(await page.locator('.nav-horo').count(),1);await revealHeader(page);assert(await page.locator('.shell-round-label').isVisible());assert.equal(await page.locator('#round-select').inputValue(),'1');assert.equal(await page.locator('#round-select').inputValue(),'1');}
   checks.push('width '+width+': route, menu, stable header, summaries, lazy embed, gallery, story, zoom, Escape, reload, other sections');
  }
  assert.deepEqual(errors,[]);await fs.writeFile('docs/screenshots/horo/results.json',JSON.stringify({passed:true,checks,errors},null,2));console.log('Horo browser: '+checks.length+' widths passed');
