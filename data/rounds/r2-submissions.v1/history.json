@@ -662,6 +662,30 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
+      "observedAt": "2026-10-30T12:32:44.202Z",
+      "before": {
+        "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
+        "slug": "anton-vays",
+        "name": "Антон Вайс",
+        "trackId": "c13cfd73-8864-4354-940e-a56bf0d9e5ea",
+        "submittedAt": "2026-10-30T08:31:42.248Z",
+        "durationSec": 102,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      },
+      "after": {
+        "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
+        "slug": "vays",
+        "name": "Вайс",
+        "trackId": "c13cfd73-8864-4354-940e-a56bf0d9e5ea",
+        "submittedAt": "2026-10-30T08:31:42.248Z",
+        "durationSec": 102,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
