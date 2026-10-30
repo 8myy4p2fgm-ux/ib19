@@ -572,6 +572,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "5805df74-6070-464f-a1b6-5d11e978fdfd",
+      "observedAt": "2026-10-30T11:42:51.962Z",
+      "before": null,
+      "after": {
+        "userId": "5805df74-6070-464f-a1b6-5d11e978fdfd",
+        "slug": "rapsat",
+        "name": "Рапсат",
+        "trackId": "f37b4b5e-75a5-430f-b88f-067b0103a79d",
+        "submittedAt": "2026-10-30T11:30:24.531Z",
+        "durationSec": 112,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
