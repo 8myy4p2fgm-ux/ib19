@@ -319,3 +319,11 @@ body.shell-r1 #home #r1-pulse-chart:focus-visible {outline:1px solid var(--ds-fo
 body.shell-r1 #home .r1-deadlines {column-gap:22px;row-gap:10px;margin:12px 0 18px;line-height:1.5}
 body.shell-r1 #home .r1-chart-heading>span {display:block;line-height:1.55;min-height:2lh;overflow-wrap:anywhere}
 @media(max-width:600px){body.shell-r1 #home .r1-deadlines{flex-direction:column;align-items:flex-start;gap:9px;margin-bottom:20px}}
+
+/* Homepage announcement: scoped editorial copy, no analytics or interactions. */
+body.shell-r1 .app>.main #home .home-announcement {--ds-h2:17px;min-width:0;margin:0 0 20px;padding:18px 22px;border:1px solid var(--ds-rule);border-radius:var(--ds-radius-inner,9px);background:var(--ds-surface);color:var(--ds-text);font-size:14px;line-height:1.6;overflow-wrap:anywhere}
+body.shell-r1 .app>.main #home .home-announcement h2 {margin:0 0 10px;font-size:17px;font-weight:700;line-height:1.4;letter-spacing:normal}
+body.shell-r1 .app>.main #home .home-announcement p {margin:0 0 9px}
+body.shell-r1 .app>.main #home .home-announcement p:last-child {margin-bottom:0}
+body.shell-r1 .app>.main #home .home-announcement-index {color:var(--ds-gold);font-weight:700}
+@media(max-width:600px){body.shell-r1 .app>.main #home .home-announcement {padding:15px 16px;font-size:13px}}

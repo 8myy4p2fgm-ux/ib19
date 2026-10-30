@@ -2,7 +2,7 @@
   "schema": 1,
   "maxGraphs": 16,
   "minimumSupportDays": 7,
-  "currentVersion": "953170dc09187356",
+  "currentVersion": "28012c748ce07c9b",
   "graphs": [
     {
       "version": "1c7b840bbe1376a5",
@@ -92,7 +92,16 @@
       "sourceRevision": null,
       "sourceBase": null,
       "preparedAt": "2026-10-29T09:51:47.112Z",
-      "retainUntil": "2026-11-05T09:51:47.112Z"
+      "retainUntil": "2026-11-06T06:41:05.587Z"
+    },
+    {
+      "version": "28012c748ce07c9b",
+      "bundle": "28012c748ce07c9b.json",
+      "sha256": "e8e363f7243e439a2801f5fef661ad210fb95eba9321e6fddc35aee444925df1",
+      "sourceRevision": null,
+      "sourceBase": null,
+      "preparedAt": "2026-10-30T06:41:05.587Z",
+      "retainUntil": "2026-11-06T06:41:05.587Z"
     }
   ]
 }
