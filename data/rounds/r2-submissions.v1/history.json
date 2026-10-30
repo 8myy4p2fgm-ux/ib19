@@ -587,6 +587,81 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "f778e2a6-345a-4436-935f-f30a5aca0042",
+      "observedAt": "2026-10-30T11:52:42.346Z",
+      "before": null,
+      "after": {
+        "userId": "f778e2a6-345a-4436-935f-f30a5aca0042",
+        "slug": "sofist",
+        "name": "Sofist",
+        "trackId": "cf35a873-f92f-49de-8584-886b9d4cdf50",
+        "submittedAt": "2026-10-30T09:18:38.685Z",
+        "durationSec": 111,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
+      "observedAt": "2026-10-30T11:52:42.346Z",
+      "before": null,
+      "after": {
+        "userId": "4a58019e-5dde-4961-9788-cf68daa02af9",
+        "slug": "anton-vays",
+        "name": "Антон Вайс",
+        "trackId": "c13cfd73-8864-4354-940e-a56bf0d9e5ea",
+        "submittedAt": "2026-10-30T08:31:42.248Z",
+        "durationSec": 102,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "b5931d8f-0ab0-4f70-b439-524cdd3eb2d3",
+      "observedAt": "2026-10-30T11:52:42.346Z",
+      "before": null,
+      "after": {
+        "userId": "b5931d8f-0ab0-4f70-b439-524cdd3eb2d3",
+        "slug": "necelovan",
+        "name": "NECELOVAN",
+        "trackId": "17c7a700-1120-4128-a00f-d87f442de859",
+        "submittedAt": "2026-10-30T09:41:13.397Z",
+        "durationSec": 105,
+        "hasLyrics": false,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "c04de908-2641-43bd-921b-8dcb5d605546",
+      "observedAt": "2026-10-30T11:52:42.346Z",
+      "before": null,
+      "after": {
+        "userId": "c04de908-2641-43bd-921b-8dcb5d605546",
+        "slug": "ms-polotenchik-6-kadrov",
+        "name": "МС Полотенчик [6 кадров]",
+        "trackId": "f00193e0-5fbc-41b5-ad59-e578e959362e",
+        "submittedAt": "2026-10-30T10:35:06.518Z",
+        "durationSec": 117,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834",
+      "observedAt": "2026-10-30T11:52:42.346Z",
+      "before": null,
+      "after": {
+        "userId": "a6256fb3-6dfe-4a52-a694-35f7b5940834",
+        "slug": "evil-berti",
+        "name": "ЭВИЛ БЕРТИ",
+        "trackId": "b6877907-0c40-4f6f-890d-624fde692b4a",
+        "submittedAt": "2026-10-30T11:18:05.500Z",
+        "durationSec": 110,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
