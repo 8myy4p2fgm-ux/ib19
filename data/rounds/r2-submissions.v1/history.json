@@ -542,6 +542,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "9f88ee10-768f-4c52-acb7-6a6855246733",
+      "observedAt": "2026-10-30T02:32:48.046Z",
+      "before": null,
+      "after": {
+        "userId": "9f88ee10-768f-4c52-acb7-6a6855246733",
+        "slug": "koi2s",
+        "name": "koi2s",
+        "trackId": "9a7ac59a-1e72-44da-9f71-8b2fc63852d2",
+        "submittedAt": "2026-10-29T17:11:04.100Z",
+        "durationSec": 106,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "782a979a-d98f-4388-85e5-3d6d4dc18854",
+      "observedAt": "2026-10-30T02:32:48.046Z",
+      "before": null,
+      "after": {
+        "userId": "782a979a-d98f-4388-85e5-3d6d4dc18854",
+        "slug": "mc-sakhrat",
+        "name": "MC Sakhrat",
+        "trackId": "5a6d1d6b-baac-49e9-ae05-5e4fa7e1865e",
+        "submittedAt": "2026-10-29T20:28:46.636Z",
+        "durationSec": 111,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
