@@ -527,6 +527,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "eda8992b-515e-4715-bb6d-d2c7de4762a3",
+      "observedAt": "2026-10-30T02:22:43.226Z",
+      "before": null,
+      "after": {
+        "userId": "eda8992b-515e-4715-bb6d-d2c7de4762a3",
+        "slug": "valid-miri",
+        "name": "Валид Мири",
+        "trackId": "c865f0e6-0ae6-44fa-9159-fd328af1bece",
+        "submittedAt": "2026-10-29T14:55:32.892Z",
+        "durationSec": 108,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
