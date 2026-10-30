@@ -686,6 +686,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "2c10bf64-32f4-4922-a27e-f160b67c6c9b",
+      "observedAt": "2026-10-30T20:02:35.043Z",
+      "before": null,
+      "after": {
+        "userId": "2c10bf64-32f4-4922-a27e-f160b67c6c9b",
+        "slug": "molodoy-big-puzo-1126",
+        "name": "молодой биг пузо 1126",
+        "trackId": "a01b39ca-049f-4e36-b63c-b4ea0f22583b",
+        "submittedAt": "2026-10-30T17:28:05.336Z",
+        "durationSec": 108,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "3c0419a5-f7eb-474e-ab97-969d682e4995",
+      "observedAt": "2026-10-30T20:02:35.043Z",
+      "before": null,
+      "after": {
+        "userId": "3c0419a5-f7eb-474e-ab97-969d682e4995",
+        "slug": "alik-korol",
+        "name": "Алик Король",
+        "trackId": "18188123-4785-4618-a9f7-1b37f158b0ea",
+        "submittedAt": "2026-10-30T17:44:28.152Z",
+        "durationSec": 91,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
