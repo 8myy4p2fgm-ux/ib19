@@ -791,6 +791,51 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "a5d7350b-533f-4616-afca-c079826d9b19",
+      "observedAt": "2026-10-31T13:42:36.952Z",
+      "before": null,
+      "after": {
+        "userId": "a5d7350b-533f-4616-afca-c079826d9b19",
+        "slug": "kolya-reyt",
+        "name": "КОЛЯ REYT",
+        "trackId": "5fadfaf6-8c9d-4656-a564-3210db826dff",
+        "submittedAt": "2026-10-31T09:20:42.973Z",
+        "durationSec": 96,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "4fab15ae-eb5d-4d7d-a28c-40f22b06d917",
+      "observedAt": "2026-10-31T13:42:36.952Z",
+      "before": null,
+      "after": {
+        "userId": "4fab15ae-eb5d-4d7d-a28c-40f22b06d917",
+        "slug": "ptbl",
+        "name": "PtBL",
+        "trackId": "c0770491-7b79-4ad1-84a3-e6043be4d128",
+        "submittedAt": "2026-10-31T12:52:55.045Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "95fe858e-b7b1-4d7f-b33b-38ce380f98a5",
+      "observedAt": "2026-10-31T13:42:36.952Z",
+      "before": null,
+      "after": {
+        "userId": "95fe858e-b7b1-4d7f-b33b-38ce380f98a5",
+        "slug": "yltramarine",
+        "name": "YLTRAMARINE",
+        "trackId": "0cee335b-4b54-4ae0-8743-f0f80f4df91c",
+        "submittedAt": "2026-10-31T11:11:46.863Z",
+        "durationSec": 118,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
