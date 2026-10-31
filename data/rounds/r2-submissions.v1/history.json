@@ -851,6 +851,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "93c30855-1935-47be-8385-ea39abdcfa4b",
+      "observedAt": "2026-10-31T19:02:43.524Z",
+      "before": null,
+      "after": {
+        "userId": "93c30855-1935-47be-8385-ea39abdcfa4b",
+        "slug": "mmoshka",
+        "name": "Mmoшка",
+        "trackId": "bbfbacb4-9655-4853-a661-f38e6ae6ab62",
+        "submittedAt": "2026-10-31T14:22:06.696Z",
+        "durationSec": 114,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
