@@ -746,6 +746,36 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "6fd9372b-73c6-4bd0-b532-39facfb2d96d",
+      "observedAt": "2026-10-31T03:22:44.765Z",
+      "before": null,
+      "after": {
+        "userId": "6fd9372b-73c6-4bd0-b532-39facfb2d96d",
+        "slug": "kseyton",
+        "name": "Kseyton",
+        "trackId": "d03034da-91ca-4a0a-b254-e878005367ca",
+        "submittedAt": "2026-10-30T23:52:36.759Z",
+        "durationSec": 119,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
+    },
+    {
+      "userId": "59f0abc8-ab28-4218-99f8-9a281e8ebf4b",
+      "observedAt": "2026-10-31T03:22:44.765Z",
+      "before": null,
+      "after": {
+        "userId": "59f0abc8-ab28-4218-99f8-9a281e8ebf4b",
+        "slug": "psar",
+        "name": "Псарь",
+        "trackId": "ff4cba63-b982-421f-85e3-9fd053fc6c24",
+        "submittedAt": "2026-10-30T23:38:16.706Z",
+        "durationSec": 113,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
