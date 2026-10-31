@@ -776,6 +776,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "aa5f357c-fccc-4cac-a239-10824eb65da8",
+      "observedAt": "2026-10-31T13:32:47.389Z",
+      "before": null,
+      "after": {
+        "userId": "aa5f357c-fccc-4cac-a239-10824eb65da8",
+        "slug": "j-die",
+        "name": "J-Die",
+        "trackId": "f2e915a1-1806-469d-b9ca-75e81834fd60",
+        "submittedAt": "2026-10-31T08:41:41.033Z",
+        "durationSec": 120,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
