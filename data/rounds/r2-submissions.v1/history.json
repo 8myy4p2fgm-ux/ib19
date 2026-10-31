@@ -836,6 +836,21 @@
         "hasLyrics": true,
         "submissionStatus": "submitted"
       }
+    },
+    {
+      "userId": "fcf257a4-195a-4511-ad4b-2b715aa86998",
+      "observedAt": "2026-10-31T15:32:46.959Z",
+      "before": null,
+      "after": {
+        "userId": "fcf257a4-195a-4511-ad4b-2b715aa86998",
+        "slug": "lady-bro",
+        "name": "Lady bro",
+        "trackId": "748cef93-f184-4b98-86cd-aa8959f2deb2",
+        "submittedAt": "2026-10-30T15:36:10.310Z",
+        "durationSec": 96,
+        "hasLyrics": true,
+        "submissionStatus": "submitted"
+      }
     }
   ]
 }
